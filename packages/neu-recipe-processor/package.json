@@ -1,9 +1,11 @@
 {
   "name": "@workspace/neu-recipe-processor",
   "version": "1.0.0",
-  "description": "Process NotEnoughUpdates repository JSON files and combine items with recipes",
+  "description": "Process NotEnoughUpdates repository JSON files and combine items with recipes for Hypixel Skyblock",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "author": "Hexeption",
+  "license": "MIT",
   "scripts": {
     "build": "tsc",
     "start": "node dist/index.js"
@@ -19,8 +21,13 @@
   },
   "keywords": [
     "skyblock",
+    "hypixel",
     "neu",
     "recipes",
-    "minecraft"
+    "minecraft",
+    "items",
+    "data-processing",
+    "json",
+    "calculator"
   ]
 }

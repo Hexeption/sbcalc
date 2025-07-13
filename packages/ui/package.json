@@ -3,6 +3,18 @@
   "version": "0.0.0",
   "type": "module",
   "private": true,
+  "description": "Shared UI components library for Skyblock Calculator built with shadcn/ui and Tailwind CSS",
+  "author": "Hexeption",
+  "license": "MIT",
+  "keywords": [
+    "ui",
+    "components",
+    "react",
+    "shadcn",
+    "tailwind",
+    "radix",
+    "design-system"
+  ],
   "scripts": {
     "lint": "eslint . --max-warnings 0"
   },

@@ -1,7 +1,27 @@
 {
-  "name": "shadcn-ui-monorepo",
+  "name": "sbcalc",
   "version": "0.0.1",
   "private": true,
+  "description": "Skyblock Calculator - A comprehensive tool for calculating Minecraft Hypixel Skyblock item recipes, forge times, and base requirements",
+  "keywords": [
+    "minecraft",
+    "hypixel",
+    "skyblock",
+    "calculator",
+    "recipes",
+    "items",
+    "forge"
+  ],
+  "author": "Hexeption",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hexeption/sbcalc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hexeption/sbcalc/issues"
+  },
+  "homepage": "https://github.com/Hexeption/sbcalc#readme",
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",

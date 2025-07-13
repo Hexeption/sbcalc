@@ -1,8 +1,17 @@
 {
-  "name": "web",
+  "name": "sbcalc-web",
   "version": "0.0.1",
   "type": "module",
   "private": true,
+  "description": "Skyblock Calculator Web App - Frontend for calculating Minecraft Hypixel Skyblock item recipes and requirements",
+  "keywords": [
+    "minecraft",
+    "hypixel",
+    "skyblock",
+    "calculator",
+    "nextjs",
+    "react"
+  ],
   "scripts": {
     "generate:recipes": "cd ../../packages/neu-recipe-processor && pnpm run build && node dist/index.js && cp output/recipes_items.json ../../apps/web/data/recipes_items.json && cp output/merged_items.json ../../apps/web/data/items.json && cd - > /dev/null",
     "dev": "pnpm run generate:recipes && next dev --turbopack",

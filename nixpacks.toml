@@ -22,4 +22,4 @@ cmds = [
 ]
 
 [start]
-cmd = "pnpm --filter web start"
+cmd = "pnpm --filter sbcalc-web start"
