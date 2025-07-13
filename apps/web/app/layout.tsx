@@ -40,6 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
+    url: "https://sbcalc.net",
     title: "Skyblock Calculator",
     description:
       "Calculate Minecraft Hypixel Skyblock item recipes, forge times, and base requirements",

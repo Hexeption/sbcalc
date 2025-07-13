@@ -2,6 +2,8 @@
 
 A comprehensive web application for calculating Minecraft Hypixel Skyblock item recipes, forge times, and base material requirements. Built with Next.js, TypeScript, and shadcn/ui components.
 
+🌐 **Live Site**: [https://sbcalc.net](https://sbcalc.net)
+
 ## 🎮 Features
 
 - **Recipe Tree Visualization**: Interactive tree view of item crafting recipes
