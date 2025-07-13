@@ -4,13 +4,22 @@ import { useState, useMemo } from "react";
 
 export interface ItemSearchProps {
   onSelect?: (itemValue: string) => void;
+  searchValue?: string;
+  onSearchChange?: (value: string) => void;
 }
 
 import recipes from "@/data/recipes_items.json";
 
-export function ItemSearch({ onSelect }: ItemSearchProps) {
+export function ItemSearch({
+  onSelect,
+  searchValue,
+  onSearchChange,
+}: ItemSearchProps) {
   const [search, setSearch] = useState("");
   const [isOpen, setIsOpen] = useState(false);
+
+  // Use controlled value if provided, otherwise use internal state
+  const currentSearch = searchValue !== undefined ? searchValue : search;
 
   const items = useMemo(
     () =>
@@ -24,18 +33,34 @@ export function ItemSearch({ onSelect }: ItemSearchProps) {
 
   // Filter items by search
   const filteredItems = useMemo(() => {
-    if (!search) return items.slice(0, 10);
+    if (!currentSearch) return items.slice(0, 10);
     const filtered = items.filter((item) =>
-      item.label.toLowerCase().includes(search.toLowerCase()),
+      item.label.toLowerCase().includes(currentSearch.toLowerCase()),
     );
     return filtered.slice(0, 10);
-  }, [items, search]);
+  }, [items, currentSearch]);
 
   const handleSelect = (itemValue: string) => {
     const selectedItem = items.find((item) => item.value === itemValue);
-    setSearch(selectedItem?.label || "");
+    const newSearchValue = selectedItem?.label || "";
+
+    if (onSearchChange) {
+      onSearchChange(newSearchValue);
+    } else {
+      setSearch(newSearchValue);
+    }
+
     setIsOpen(false);
     if (onSelect) onSelect(itemValue);
+  };
+
+  const handleSearchChange = (value: string) => {
+    if (onSearchChange) {
+      onSearchChange(value);
+    } else {
+      setSearch(value);
+    }
+    setIsOpen(true);
   };
 
   return (
@@ -44,16 +69,13 @@ export function ItemSearch({ onSelect }: ItemSearchProps) {
         type="text"
         className="w-full px-6 py-4 bg-input border-2 border-border rounded-xl text-foreground text-lg placeholder-muted-foreground focus:border-primary focus:outline-none focus:ring-4 focus:ring-primary/10 transition-all"
         placeholder="Search for an item..."
-        value={search}
-        onChange={(e) => {
-          setSearch(e.target.value);
-          setIsOpen(true);
-        }}
+        value={currentSearch}
+        onChange={(e) => handleSearchChange(e.target.value)}
         onFocus={() => setIsOpen(true)}
         onBlur={() => setTimeout(() => setIsOpen(false), 200)}
       />
 
-      {isOpen && search && filteredItems.length > 0 && (
+      {isOpen && currentSearch && filteredItems.length > 0 && (
         <div className="absolute top-full left-0 right-0 mt-2 bg-popover border-2 border-border rounded-xl max-h-80 overflow-y-auto z-50">
           {filteredItems.map((item) => (
             <div

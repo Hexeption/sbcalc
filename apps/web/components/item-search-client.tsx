@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
+import { Github, X } from "lucide-react";
 import { ItemSearch } from "@/components/item-search";
 import { RecipeTree } from "@/components/recipe-tree";
 import { BaseRequirementsList } from "@/components/base-requirements-list";
@@ -24,6 +25,7 @@ export function ItemSearchClient() {
   const [selectedItem, setSelectedItem] = useState<string | null>(null);
   const [multiplier, setMultiplier] = useState<number>(1);
   const [expandedItems, setExpandedItems] = useState<Set<string>>(new Set());
+  const [searchValue, setSearchValue] = useState<string>("");
 
   // Helper function to get all expandable items in the recipe tree
   const getAllExpandableItems = (
@@ -100,12 +102,25 @@ export function ItemSearchClient() {
   return (
     <div className="min-h-screen bg-background text-foreground">
       {/* Header */}
-      <div className="text-center py-8 px-4">
+      <div className="text-center py-8 px-4 relative">
+        <div className="absolute top-8 right-8">
+          <a
+            href="https://github.com/Hexeption/sbcalc"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 px-4 py-2 bg-card border border-border rounded-lg hover:bg-card/80 transition-colors text-foreground hover:text-primary"
+            title="View on GitHub"
+          >
+            <Github className="w-5 h-5" />
+            <span className="hidden sm:inline">GitHub</span>
+          </a>
+        </div>
         <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary to-primary/80 bg-clip-text text-transparent mb-2">
           Skyblock Calculator
         </h1>
         <p className="text-muted-foreground text-lg">
-          This page allows you to search for items.
+          Calculate crafting recipes, forge times, and base material
+          requirements for any Hypixel Skyblock item.
         </p>
       </div>
 
@@ -113,11 +128,30 @@ export function ItemSearchClient() {
         {/* Left column: Search and Settings */}
         <div className="w-full lg:w-80 lg:flex-shrink-0 space-y-6">
           <div className="bg-card p-6 rounded-xl border border-border">
-            <div className="flex items-center gap-3 mb-4">
-              <span className="text-2xl">🔍</span>
-              <span className="text-xl font-semibold">Search Items</span>
+            <div className="flex items-center justify-between mb-4">
+              <div className="flex items-center gap-3">
+                <span className="text-2xl">🔍</span>
+                <span className="text-xl font-semibold">Search Items</span>
+              </div>
+              {selectedItem && (
+                <button
+                  onClick={() => {
+                    setSelectedItem(null);
+                    setMultiplier(1);
+                    setExpandedItems(new Set());
+                    setSearchValue("");
+                  }}
+                  className="inline-flex items-center gap-1 px-2 py-1 bg-secondary border border-border rounded-md text-foreground hover:bg-destructive hover:text-destructive-foreground transition-colors text-sm"
+                  title="Clear selection"
+                >
+                  <X className="w-4 h-4" />
+                  <span className="hidden sm:inline">Clear</span>
+                </button>
+              )}
             </div>
             <ItemSearch
+              searchValue={searchValue}
+              onSearchChange={setSearchValue}
               onSelect={(item) => {
                 setSelectedItem(item);
                 setMultiplier(1);
