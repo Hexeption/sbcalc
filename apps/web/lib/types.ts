@@ -1,11 +1,11 @@
 // Type definitions for recipe data
-export type ForgeRecipe = {
+export interface ForgeRecipe {
   type: "forge";
   forge_time: number;
   forge_ingredients: Array<{ item: string; count: number }>;
-};
+}
 
-export type RecipeEntry = {
+export interface RecipeEntry {
   displayname?: string;
   internalname?: string;
   itemid?: string;
@@ -18,6 +18,18 @@ export type RecipeEntry = {
   ItemModel?: string;
   itemmodel?: string;
   item_model?: string;
-};
+}
+
+export interface ForgeSettings {
+  forgeSlots: number;
+  useMultipleSlots: boolean;
+  quickForgeLevel?: number;
+}
+
+export interface Settings {
+  forgeSlots: number;
+  useMultipleSlots: boolean;
+  quickForgeLevel: number;
+}
 
 export type RecipesData = Record<string, RecipeEntry>;

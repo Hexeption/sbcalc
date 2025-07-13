@@ -6,10 +6,12 @@ import { ItemSearch } from "@/components/item-search";
 import { RecipeTree } from "@/components/recipe-tree";
 import { BaseRequirementsList } from "@/components/base-requirements-list";
 import { ForgeSettings } from "@/components/forge-settings";
+import { RecipeSummaryCards } from "@/components/recipe-summary-cards";
 import type { RecipesData } from "@/lib/types";
 import { getDisplayName } from "@/lib/utils";
-import { getTotalForgeTime, formatForgeTime } from "@/lib/forge-time-utils";
+import { getTotalForgeTime } from "@/lib/forge-time-utils";
 import { useSettings } from "@/lib/settings-context";
+import { useRecipeTreeExpansion } from "@/hooks/use-recipe-tree-expansion";
 import { Input } from "@workspace/ui/components/input";
 import { Label } from "@workspace/ui/components/label";
 import { Button } from "@workspace/ui/components/button";
@@ -19,13 +21,7 @@ import {
   CardTitle,
   CardContent,
 } from "@workspace/ui/components/card";
-import {
-  getBaseRequirements,
-  getRecipe,
-  getIngredientsFromRecipe,
-  aggregateIngredients,
-} from "@/lib/recipe-utils";
-import { BASE_MATERIALS } from "@/lib/constants";
+import { getBaseRequirements } from "@/lib/recipe-utils";
 import recipesRaw from "@/data/recipes_items.json";
 import itemsRaw from "@/data/items.json";
 
@@ -35,73 +31,15 @@ const items: RecipesData = itemsRaw as any;
 export function ItemSearchClient() {
   const [selectedItem, setSelectedItem] = useState<string | null>(null);
   const [multiplier, setMultiplier] = useState<number>(1);
-  const [expandedItems, setExpandedItems] = useState<Set<string>>(new Set());
   const [searchValue, setSearchValue] = useState<string>("");
   const { settings } = useSettings();
 
-  // Helper function to get all expandable items in the recipe tree
-  const getAllExpandableItems = (
-    internalname: string,
-    visited: Set<string> = new Set(),
-  ): Set<string> => {
-    if (visited.has(internalname)) return new Set();
-
-    const entry = recipes[internalname];
-    if (!entry) return new Set();
-
-    const recipe = getRecipe(entry);
-    if (!recipe) return new Set();
-
-    const ingredients = getIngredientsFromRecipe(recipe);
-    if (ingredients.length === 0) return new Set();
-
-    const expandableItems = new Set<string>();
-    const nextVisited = new Set(visited);
-    nextVisited.add(internalname);
-
-    const aggregated = aggregateIngredients(ingredients);
-    for (const [name] of Object.entries(aggregated)) {
-      if (recipes[name] && !BASE_MATERIALS.has(name)) {
-        expandableItems.add(name);
-        // Recursively get expandable items from this ingredient
-        const nestedExpandable = getAllExpandableItems(name, nextVisited);
-        nestedExpandable.forEach((item) => expandableItems.add(item));
-      }
-    }
-
-    return expandableItems;
-  };
-
-  // Initialize expanded items when item changes
-  React.useEffect(() => {
-    if (selectedItem) {
-      setExpandedItems(new Set([selectedItem]));
-    }
-  }, [selectedItem]);
-
-  const handleToggleExpanded = (itemName: string) => {
-    const newExpanded = new Set(expandedItems);
-    if (newExpanded.has(itemName)) {
-      newExpanded.delete(itemName);
-    } else {
-      newExpanded.add(itemName);
-    }
-    setExpandedItems(newExpanded);
-  };
-
-  const handleExpandAll = () => {
-    if (selectedItem) {
-      const allExpandable = getAllExpandableItems(selectedItem);
-      allExpandable.add(selectedItem); // Include the root item
-      setExpandedItems(allExpandable);
-    }
-  };
-
-  const handleCollapseAll = () => {
-    if (selectedItem) {
-      setExpandedItems(new Set([selectedItem])); // Keep only the root item expanded
-    }
-  };
+  const {
+    expandedItems,
+    handleToggleExpanded,
+    handleExpandAll,
+    handleCollapseAll,
+  } = useRecipeTreeExpansion(selectedItem, recipes);
 
   const baseRequirements = selectedItem
     ? getBaseRequirements(selectedItem, recipes, multiplier)
@@ -159,7 +97,6 @@ export function ItemSearchClient() {
                     onClick={() => {
                       setSelectedItem(null);
                       setMultiplier(1);
-                      setExpandedItems(new Set());
                       setSearchValue("");
                     }}
                     className="hover:bg-destructive hover:text-destructive-foreground"
@@ -231,67 +168,16 @@ export function ItemSearchClient() {
           {selectedItem ? (
             <div className="space-y-6 flex-1 flex flex-col">
               {/* Summary Cards Row */}
-              <div
-                className={`grid gap-3 ${totalForgeTime > 0 ? "grid-cols-2 md:grid-cols-5" : "grid-cols-2 md:grid-cols-4"}`}
-              >
-                <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
-                  <div className="text-muted-foreground text-xs mb-1">
-                    Target Item
-                  </div>
-                  <div className="text-sm font-bold text-primary truncate">
-                    {getDisplayName(recipes[selectedItem], selectedItem, items)}
-                  </div>
-                </div>
-
-                <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
-                  <div className="text-muted-foreground text-xs mb-1">
-                    Quantity
-                  </div>
-                  <div className="text-sm font-bold text-primary">
-                    {multiplier}
-                  </div>
-                </div>
-
-                <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
-                  <div className="text-muted-foreground text-xs mb-1">
-                    Total Materials
-                  </div>
-                  <div className="text-sm font-bold text-primary">
-                    {totalMaterials}
-                  </div>
-                </div>
-
-                <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
-                  <div className="text-muted-foreground text-xs mb-1">
-                    Forge Slots
-                  </div>
-                  <div className="text-sm font-bold text-primary">
-                    {settings.forgeSlots}
-                    {settings.useMultipleSlots && (
-                      <span className="text-xs text-muted-foreground ml-1">
-                        (parallel)
-                      </span>
-                    )}
-                  </div>
-                </div>
-
-                {/* Total Forge Time Card */}
-                {totalForgeTime > 0 && (
-                  <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
-                    <div className="text-muted-foreground text-xs mb-1">
-                      Total Forge Time
-                      {settings.useMultipleSlots && (
-                        <span className="ml-1 text-xs">
-                          (optimized for {settings.forgeSlots} slots)
-                        </span>
-                      )}
-                    </div>
-                    <div className="text-sm font-bold text-primary">
-                      {formatForgeTime(totalForgeTime)}
-                    </div>
-                  </div>
-                )}
-              </div>
+              <RecipeSummaryCards
+                selectedItem={selectedItem}
+                multiplier={multiplier}
+                totalMaterials={totalMaterials}
+                totalForgeTime={totalForgeTime}
+                forgeSlots={settings.forgeSlots}
+                useMultipleSlots={settings.useMultipleSlots}
+                recipes={recipes}
+                items={items}
+              />
 
               {/* Crafting Tree */}
               <Card className="flex-1 flex flex-col">

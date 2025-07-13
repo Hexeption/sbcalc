@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { ChevronDown, ChevronRight } from "lucide-react";
-import type { RecipesData, ForgeRecipe } from "@/lib/types";
+import type { RecipesData, ForgeRecipe, ForgeSettings } from "@/lib/types";
 import { BASE_MATERIALS } from "@/lib/constants";
 import { getDisplayName } from "@/lib/utils";
 import { calculateOptimalForgeTime } from "@/lib/forge-time-utils";
@@ -12,12 +12,6 @@ import {
   getIngredientsFromRecipe,
 } from "@/lib/recipe-utils";
 import { ItemImage } from "./item-image";
-
-interface ForgeSettings {
-  forgeSlots: number;
-  useMultipleSlots: boolean;
-  quickForgeLevel?: number;
-}
 
 interface RecipeTreeProps {
   internalname: string;
@@ -40,7 +34,7 @@ export function RecipeTree({
   itemsData,
   expandedItems: externalExpandedItems,
   onToggleExpanded,
-  forgeSettings = { forgeSlots: 5, useMultipleSlots: true, quickForgeLevel: 0 },
+  forgeSettings = { forgeSlots: 2, useMultipleSlots: true, quickForgeLevel: 0 },
 }: RecipeTreeProps): React.ReactElement | null {
   const [internalExpandedItems, setInternalExpandedItems] = useState<
     Set<string>

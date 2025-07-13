@@ -1,24 +1,22 @@
-import type { RecipesData, ForgeRecipe } from "@/lib/types";
+import type { RecipesData, ForgeRecipe, ForgeSettings } from "@/lib/types";
 import {
   getRecipe,
   getIngredientsFromRecipe,
   aggregateIngredients,
 } from "@/lib/recipe-utils";
 
-interface ForgeTimeOptions {
-  forgeSlots?: number;
-  useMultipleSlots?: boolean;
-  quickForgeLevel?: number;
-}
-
 // Calculate optimal forge time considering multiple slots
 export function calculateOptimalForgeTime(
   forgeTime: number,
   quantity: number,
-  options: ForgeTimeOptions = {},
+  options: ForgeSettings = {
+    forgeSlots: 2,
+    useMultipleSlots: true,
+    quickForgeLevel: 0,
+  },
 ): number {
   const {
-    forgeSlots = 5,
+    forgeSlots = 2,
     useMultipleSlots = true,
     quickForgeLevel = 0,
   } = options;
@@ -53,7 +51,11 @@ export function getTotalForgeTime(
   recipes: RecipesData,
   multiplier = 1,
   visited: Set<string> = new Set(),
-  options: ForgeTimeOptions = {},
+  options: ForgeSettings = {
+    forgeSlots: 2,
+    useMultipleSlots: true,
+    quickForgeLevel: 0,
+  },
 ): number {
   if (visited.has(internalname)) return 0;
   visited.add(internalname);

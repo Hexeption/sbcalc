@@ -74,9 +74,8 @@ export function extractFromSNBT(nbttag: string): {
     }
 
     return { textureUrl, itemModel };
-  } catch (error) {
+  } catch {
     // If our custom SNBT parser fails, return null values
-    console.warn("Failed to parse SNBT:", error);
     return { textureUrl: null, itemModel: null };
   }
 }
