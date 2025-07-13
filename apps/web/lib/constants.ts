@@ -9,4 +9,5 @@ export const BASE_MATERIALS = new Set([
   "INK_SACK-4",
   "SLIME_BALL",
   "MAGMA_CREAM",
+  "STICK",
 ]);
