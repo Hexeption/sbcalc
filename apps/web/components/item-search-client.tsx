@@ -218,23 +218,6 @@ export function ItemSearchClient() {
                     </h4>
                     <ForgeSettings />
                   </div>
-
-                  {/* Total Forge Time */}
-                  {totalForgeTime > 0 && (
-                    <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
-                      <div className="text-muted-foreground text-sm mb-1">
-                        Total Forge Time
-                        {settings.useMultipleSlots && (
-                          <span className="ml-1 text-xs">
-                            (optimized for {settings.forgeSlots} slots)
-                          </span>
-                        )}
-                      </div>
-                      <div className="text-lg font-bold text-primary">
-                        {formatForgeTime(totalForgeTime)}
-                      </div>
-                    </div>
-                  )}
                 </div>
               </CardContent>
             </Card>
@@ -247,7 +230,7 @@ export function ItemSearchClient() {
           {selectedItem ? (
             <div className="space-y-6 flex-1 flex flex-col">
               {/* Summary Cards Row */}
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+              <div className="grid grid-cols-2 md:grid-cols-5 gap-3">
                 <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
                   <div className="text-muted-foreground text-xs mb-1">
                     Target Item
@@ -288,6 +271,23 @@ export function ItemSearchClient() {
                     )}
                   </div>
                 </div>
+
+                {/* Total Forge Time Card */}
+                {totalForgeTime > 0 && (
+                  <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
+                    <div className="text-muted-foreground text-xs mb-1">
+                      Total Forge Time
+                      {settings.useMultipleSlots && (
+                        <span className="ml-1 text-xs">
+                          (optimized for {settings.forgeSlots} slots)
+                        </span>
+                      )}
+                    </div>
+                    <div className="text-sm font-bold text-primary">
+                      {formatForgeTime(totalForgeTime)}
+                    </div>
+                  </div>
+                )}
               </div>
 
               {/* Crafting Tree */}
