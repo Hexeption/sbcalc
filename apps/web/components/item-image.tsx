@@ -3,7 +3,7 @@
 import React from "react";
 import type { RecipeEntry, RecipesData } from "@/lib/types";
 import { extractFromSNBT } from "@/lib/utils";
-import { getMappedItemId } from "@/lib/item-id-mappings";
+import { getMappedItemId, getMappingInfo } from "@/lib/item-id-mappings";
 
 interface ItemImageProps {
   entry: RecipeEntry | undefined;
@@ -34,6 +34,15 @@ export function ItemImage({
       currentEntry = itemsData[internalname];
     }
 
+    // Special handling for SKYBLOCK_COIN
+    if (internalname === "SKYBLOCK_COIN") {
+      const mappingInfo = getMappingInfo("SKYBLOCK_COIN");
+      if (mappingInfo.textureHash) {
+        setSrc(`https://mc-heads.net/head/${mappingInfo.textureHash}`);
+        return;
+      }
+    }
+
     if (!currentEntry) {
       // No entry exists in either data source
       setSrc(null);
@@ -60,13 +69,20 @@ export function ItemImage({
     }
 
     if (modelId) {
-      // Apply old-to-new item ID mapping
-      const mappedId = getMappedItemId(
+      // Check if this item has a custom texture hash
+      const mappingInfo = getMappingInfo(
         modelId,
         currentEntry.damage,
         currentEntry.nbttag,
       );
-      setSrc(`https://minecraftitemids.com/item/32/${mappedId}.png`);
+
+      if (mappingInfo.textureHash) {
+        setSrc(`https://mc-heads.net/head/${mappingInfo.textureHash}`);
+      } else {
+        setSrc(
+          `https://minecraftitemids.com/item/32/${mappingInfo.mappedId}.png`,
+        );
+      }
     } else {
       setSrc(null);
     }

@@ -14,6 +14,8 @@ export interface ItemIdMapping {
   needsMetadata?: boolean;
   /** Metadata value to modern ID mapping */
   metadataMap?: Record<number, string>;
+  /** Custom texture hash for special items (overrides URL generation) */
+  textureHash?: string;
 }
 
 export const OLD_TO_NEW_ITEM_IDS: Record<string, ItemIdMapping> = {
@@ -273,6 +275,13 @@ export const OLD_TO_NEW_ITEM_IDS: Record<string, ItemIdMapping> = {
   record_mall: { newId: "music_disc_mall" },
   record_stal: { newId: "music_disc_stal" },
   record_strad: { newId: "music_disc_strad" },
+
+  // Skyblock custom items
+  SKYBLOCK_COIN: {
+    newId: "gold_nugget", // Fallback item ID
+    textureHash:
+      "538071721cc5b4cd406ce431a13f86083a8973e1064d2f8897869930ee6e5237",
+  },
 };
 
 /**
@@ -320,4 +329,51 @@ export function getMappedItemId(
 
   // Fallback to default
   return mapping.newId;
+}
+
+/**
+ * Get mapping information for an item ID including texture hash if available
+ * @param oldId The old item ID
+ * @param damage The damage/metadata value (if available)
+ * @param nbtTag The NBT tag (for additional context)
+ * @returns Object with mapped ID and optional texture hash
+ */
+export function getMappingInfo(
+  oldId: string,
+  damage?: number,
+  nbtTag?: string,
+): { mappedId: string; textureHash?: string } {
+  const mapping = OLD_TO_NEW_ITEM_IDS[oldId];
+
+  if (!mapping) {
+    return { mappedId: oldId }; // Return original if no mapping exists
+  }
+
+  let mappedId = mapping.newId;
+
+  // If the mapping needs metadata, try to get the specific variant
+  if (mapping.needsMetadata) {
+    // If we have a damage value and metadata mapping, use it
+    if (
+      damage !== undefined &&
+      mapping.metadataMap &&
+      mapping.metadataMap[damage]
+    ) {
+      mappedId = mapping.metadataMap[damage];
+    } else if (nbtTag && mapping.metadataMap) {
+      // Try to extract damage from NBT if available
+      const damageMatch = nbtTag.match(/damage:(\d+)/i);
+      if (damageMatch && damageMatch[1]) {
+        const nbtDamage = parseInt(damageMatch[1]);
+        if (mapping.metadataMap[nbtDamage]) {
+          mappedId = mapping.metadataMap[nbtDamage];
+        }
+      }
+    }
+  }
+
+  return {
+    mappedId,
+    textureHash: mapping.textureHash,
+  };
 }
