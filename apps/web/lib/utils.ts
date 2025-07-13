@@ -1,4 +1,5 @@
 import type { RecipeEntry, RecipesData } from "./types";
+import { parseSNBT } from "@workspace/snbt-parser";
 
 /**
  * Get display name from recipe entry, removing Minecraft formatting codes
@@ -28,43 +29,52 @@ export const getDisplayName = (
 };
 
 /**
- * Minimal SNBT extractor for SkullOwner.Properties.textures[0].Value and ItemModel
+ * Extract data from SNBT using our custom @workspace/snbt-parser
+ * Handles all NBT data types including compounds, arrays, and special Minecraft formats
  */
 export function extractFromSNBT(nbttag: string): {
   textureUrl: string | null;
   itemModel: string | null;
 } {
-  // Extract player head texture
-  const textureMatch = nbttag.match(
-    /SkullOwner:\{[^}]*Properties:\{[^}]*textures:\[0:\{[^}]*Value:\\?"([A-Za-z0-9+/=]+)\\?"/,
-  );
-  let textureUrl: string | null = null;
-  if (textureMatch && textureMatch[1]) {
-    try {
-      const decoded = JSON.parse(atob(textureMatch[1]));
+  try {
+    const parsed = parseSNBT(nbttag);
 
-      console.log("Decoded texture:", decoded);
-
-      if (decoded.textures?.SKIN?.url) {
-        const url = decoded.textures.SKIN.url;
-        const hashIndex = url.lastIndexOf("/");
-        const hash = url.substring(hashIndex + 1);
-        textureUrl = `https://mc-heads.net/head/${hash}`;
-      } else {
-        textureUrl = decoded.textures?.SKIN?.url || null;
+    // Extract player head texture using MineSkin API
+    let textureUrl: string | null = null;
+    if (parsed && typeof parsed === 'object' && 'SkullOwner' in parsed) {
+      const skullOwner = parsed.SkullOwner as any;
+      
+      // Primary method: Use MineSkin API with the direct Minecraft texture URL
+      if (skullOwner?.Properties?.textures?.[0]?.Value) {
+        try {
+          const decodedTexture = JSON.parse(atob(skullOwner.Properties.textures[0].Value));
+          if (decodedTexture.textures?.SKIN?.url) {
+            const minecraftTextureUrl = decodedTexture.textures.SKIN.url;
+            // MineSkin can render custom textures from Minecraft URLs (works for items like Judgement Core)
+            textureUrl = `https://api.mineskin.org/render/head?url=${encodeURIComponent(minecraftTextureUrl)}`;
+          }
+        } catch (e) {
+          // Fallback to UUID-based approach for regular players
+          if (skullOwner?.Id) {
+            textureUrl = `https://crafatar.com/renders/head/${skullOwner.Id}`;
+          }
+        }
       }
-    } catch (e) {
-      textureUrl = null;
     }
+
+    // Extract ItemModel
+    let itemModel: string | null = null;
+    if (parsed && typeof parsed === 'object' && 'ItemModel' in parsed) {
+      const model = (parsed as any).ItemModel;
+      if (typeof model === 'string') {
+        itemModel = model.replace("minecraft:", "");
+      }
+    }
+
+    return { textureUrl, itemModel };
+  } catch (error) {
+    // If our custom SNBT parser fails, return null values
+    console.warn("Failed to parse SNBT:", error);
+    return { textureUrl: null, itemModel: null };
   }
-
-  // Extract ItemModel (accepts ItemModel, itemmodel, or item_model)
-  let itemModel: string | null = null;
-  const itemModelMatch = nbttag.match(/ItemModel:"([^"]+)"/i);
-
-  if (itemModelMatch && itemModelMatch[1]) {
-    itemModel = itemModelMatch[1].replace("minecraft:", "");
-  }
-
-  return { textureUrl, itemModel };
 }
