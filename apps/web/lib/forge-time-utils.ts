@@ -8,6 +8,7 @@ import {
 interface ForgeTimeOptions {
   forgeSlots?: number;
   useMultipleSlots?: boolean;
+  quickForgeLevel?: number;
 }
 
 // Calculate optimal forge time considering multiple slots
@@ -16,24 +17,31 @@ export function calculateOptimalForgeTime(
   quantity: number,
   options: ForgeTimeOptions = {},
 ): number {
-  const { forgeSlots = 5, useMultipleSlots = true } = options;
+  const {
+    forgeSlots = 5,
+    useMultipleSlots = true,
+    quickForgeLevel = 0,
+  } = options;
+
+  // Apply Quick Forge reduction first
+  const reducedForgeTime = applyQuickForgeReduction(forgeTime, quickForgeLevel);
 
   if (!useMultipleSlots || forgeSlots <= 1) {
-    return forgeTime * quantity;
+    return reducedForgeTime * quantity;
   }
 
   // If we have more slots than items needed, parallel processing
   if (quantity <= forgeSlots) {
-    return forgeTime; // All items can be forged in parallel
+    return reducedForgeTime; // All items can be forged in parallel
   }
 
   // Calculate batches and remaining time
   const batches = Math.floor(quantity / forgeSlots);
   const remainder = quantity % forgeSlots;
 
-  let totalTime = batches * forgeTime;
+  let totalTime = batches * reducedForgeTime;
   if (remainder > 0) {
-    totalTime += forgeTime; // One more batch for remaining items
+    totalTime += reducedForgeTime; // One more batch for remaining items
   }
 
   return totalTime;
@@ -89,4 +97,29 @@ export function formatForgeTime(seconds?: number): string {
   const d = Math.floor(seconds / 86400);
   const h = Math.floor((seconds % 86400) / 3600);
   return `${d}d ${h}h`;
+}
+
+// Calculate Quick Forge time reduction percentage based on level
+export function calculateQuickForgeReduction(level: number): number {
+  if (level <= 0) return 0;
+
+  // Formula: min(30, 10 + (Level * 0.5) + (floor(Level / 20) * 10))
+  const baseReduction = 10;
+  const levelReduction = level * 0.5;
+  const bonusReduction = Math.floor(level / 20) * 10;
+
+  return Math.min(30, baseReduction + levelReduction + bonusReduction);
+}
+
+// Apply Quick Forge reduction to forge time
+export function applyQuickForgeReduction(
+  forgeTime: number,
+  level: number,
+): number {
+  if (level <= 0) return forgeTime;
+
+  const reductionPercent = calculateQuickForgeReduction(level);
+  const reductionMultiplier = (100 - reductionPercent) / 100;
+
+  return Math.floor(forgeTime * reductionMultiplier);
 }

@@ -5,6 +5,7 @@ import React, { createContext, useContext, useState, useEffect } from "react";
 interface Settings {
   forgeSlots: number;
   useMultipleSlots: boolean;
+  quickForgeLevel: number;
 }
 
 interface SettingsContextType {
@@ -15,6 +16,7 @@ interface SettingsContextType {
 const defaultSettings: Settings = {
   forgeSlots: 5,
   useMultipleSlots: true,
+  quickForgeLevel: 0,
 };
 
 const SettingsContext = createContext<SettingsContextType | undefined>(

@@ -16,6 +16,7 @@ import { ItemImage } from "./item-image";
 interface ForgeSettings {
   forgeSlots: number;
   useMultipleSlots: boolean;
+  quickForgeLevel?: number;
 }
 
 interface RecipeTreeProps {
@@ -39,7 +40,7 @@ export function RecipeTree({
   itemsData,
   expandedItems: externalExpandedItems,
   onToggleExpanded,
-  forgeSettings = { forgeSlots: 5, useMultipleSlots: true },
+  forgeSettings = { forgeSlots: 5, useMultipleSlots: true, quickForgeLevel: 0 },
 }: RecipeTreeProps): React.ReactElement | null {
   const [internalExpandedItems, setInternalExpandedItems] = useState<
     Set<string>

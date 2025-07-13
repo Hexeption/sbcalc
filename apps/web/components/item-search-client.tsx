@@ -111,6 +111,7 @@ export function ItemSearchClient() {
     ? getTotalForgeTime(selectedItem, recipes, multiplier, new Set(), {
         forgeSlots: settings.forgeSlots,
         useMultipleSlots: settings.useMultipleSlots,
+        quickForgeLevel: settings.quickForgeLevel,
       })
     : 0;
 
@@ -332,6 +333,7 @@ export function ItemSearchClient() {
                       forgeSettings={{
                         forgeSlots: settings.forgeSlots,
                         useMultipleSlots: settings.useMultipleSlots,
+                        quickForgeLevel: settings.quickForgeLevel,
                       }}
                     />
                   </div>

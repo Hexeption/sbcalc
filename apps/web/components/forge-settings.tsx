@@ -2,12 +2,17 @@
 
 import React from "react";
 import { useSettings } from "@/lib/settings-context";
+import { calculateQuickForgeReduction } from "@/lib/forge-time-utils";
 import { Input } from "@workspace/ui/components/input";
 import { Label } from "@workspace/ui/components/label";
 import { Checkbox } from "@workspace/ui/components/checkbox";
 
 export function ForgeSettings() {
   const { settings, updateSettings } = useSettings();
+
+  const quickForgeReduction = calculateQuickForgeReduction(
+    settings.quickForgeLevel,
+  );
 
   return (
     <div className="space-y-4">
@@ -32,6 +37,33 @@ export function ForgeSettings() {
         />
         <p className="text-xs text-muted-foreground mt-1">
           How many forge slots you have available (2-7)
+        </p>
+      </div>
+
+      <div>
+        <Label
+          htmlFor="quick-forge-level"
+          className="text-muted-foreground mb-2 block"
+        >
+          Quick Forge Level
+        </Label>
+        <Input
+          id="quick-forge-level"
+          type="number"
+          min={0}
+          max={20}
+          value={settings.quickForgeLevel}
+          onChange={(e) =>
+            updateSettings({
+              quickForgeLevel: Math.max(
+                0,
+                Math.min(20, Number(e.target.value)),
+              ),
+            })
+          }
+        />
+        <p className="text-xs text-muted-foreground mt-1">
+          Level 0-20, reduces forge time by {quickForgeReduction}%
         </p>
       </div>
 
