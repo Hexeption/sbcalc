@@ -2,6 +2,8 @@
 
 import { useState, useMemo } from "react";
 import { Input } from "@workspace/ui/components/input";
+import { ItemImage } from "@/components/item-image";
+import type { RecipesData } from "@/lib/types";
 
 export interface ItemSearchProps {
   onSelect?: (itemValue: string) => void;
@@ -9,7 +11,11 @@ export interface ItemSearchProps {
   onSearchChange?: (value: string) => void;
 }
 
-import recipes from "@/data/recipes_items.json";
+import recipesRaw from "@/data/recipes_items.json";
+import itemsRaw from "@/data/items.json";
+
+const recipes: RecipesData = recipesRaw as any;
+const itemsData: RecipesData = itemsRaw as any;
 
 export function ItemSearch({
   onSelect,
@@ -81,10 +87,18 @@ export function ItemSearch({
           {filteredItems.map((item) => (
             <div
               key={item.value}
-              className="px-4 py-3 cursor-pointer text-foreground border-b border-border last:border-b-0 hover:bg-accent transition-colors"
+              className="px-4 py-3 cursor-pointer text-foreground border-b border-border last:border-b-0 hover:bg-accent transition-colors flex items-center gap-3"
               onClick={() => handleSelect(item.value)}
             >
-              {item.label}
+              <ItemImage
+                entry={recipes[item.value]}
+                internalname={item.value}
+                alt={item.label}
+                width={24}
+                height={24}
+                itemsData={itemsData}
+              />
+              <span>{item.label}</span>
             </div>
           ))}
         </div>
