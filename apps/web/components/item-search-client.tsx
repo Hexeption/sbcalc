@@ -238,7 +238,7 @@ export function ItemSearchClient() {
               </div>
 
               {/* Materials List */}
-              <div className="bg-card/60 backdrop-blur-sm rounded-xl p-6 border border-border flex-1 flex flex-col">
+              <div className="bg-card/60 backdrop-blur-sm rounded-xl p-6 border border-border flex-1 flex flex-col mb-20">
                 <div className="flex items-center gap-3 mb-6">
                   <span className="text-2xl">📋</span>
                   <span className="text-xl font-semibold">
@@ -268,6 +268,16 @@ export function ItemSearchClient() {
           )}
         </div>
       </div>
+
+      {/* Footer */}
+      <footer className="border-t border-border bg-card/60 backdrop-blur-sm fixed bottom-0 w-full">
+        <div className="px-4 py-6 text-center">
+          <p className="text-muted-foreground text-sm">
+            made with <span className="text-red-500">♥</span> by{" "}
+            <span className="font-semibold text-foreground">hexeption</span>
+          </p>
+        </div>
+      </footer>
     </div>
   );
 }
