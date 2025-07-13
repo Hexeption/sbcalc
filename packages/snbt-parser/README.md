@@ -21,7 +21,7 @@ This package is part of the workspace and should be installed automatically with
 ### Basic Parsing
 
 ```typescript
-import { parseSNBT } from '@workspace/snbt-parser';
+import { parseSNBT } from "@workspace/snbt-parser";
 
 const result = parseSNBT('{ItemModel:"minecraft:diamond_sword",Count:1B}');
 console.log(result.ItemModel); // "minecraft:diamond_sword"
@@ -31,38 +31,40 @@ console.log(result.Count); // 1
 ### Safe Parsing
 
 ```typescript
-import { safeParseSNBT } from '@workspace/snbt-parser';
+import { safeParseSNBT } from "@workspace/snbt-parser";
 
-const result = safeParseSNBT('invalid snbt');
+const result = safeParseSNBT("invalid snbt");
 if (result === null) {
-  console.log('Failed to parse SNBT');
+  console.log("Failed to parse SNBT");
 }
 ```
 
 ### Validation
 
 ```typescript
-import { isValidSNBT } from '@workspace/snbt-parser';
+import { isValidSNBT } from "@workspace/snbt-parser";
 
 if (isValidSNBT('{ItemModel:"minecraft:stone"}')) {
-  console.log('Valid SNBT format');
+  console.log("Valid SNBT format");
 }
 ```
 
 ### Advanced Usage
 
 ```typescript
-import { SNBTParser, SNBTParseError } from '@workspace/snbt-parser';
+import { SNBTParser, SNBTParseError } from "@workspace/snbt-parser";
 
 try {
   const parser = new SNBTParser(snbtString, {
     strict: true,
-    maxDepth: 50
+    maxDepth: 50,
   });
   const result = parser.parse();
 } catch (error) {
   if (error instanceof SNBTParseError) {
-    console.error(`Parse error at position ${error.position}: ${error.message}`);
+    console.error(
+      `Parse error at position ${error.position}: ${error.message}`,
+    );
   }
 }
 ```
@@ -109,8 +111,8 @@ Error class thrown when parsing fails.
 
 ```typescript
 interface ParseOptions {
-  strict?: boolean;    // Whether to throw on unknown/malformed data
-  maxDepth?: number;   // Maximum depth to prevent stack overflow
+  strict?: boolean; // Whether to throw on unknown/malformed data
+  maxDepth?: number; // Maximum depth to prevent stack overflow
 }
 ```
 
@@ -119,7 +121,7 @@ interface ParseOptions {
 Union type representing all possible NBT values:
 
 ```typescript
-type NBTValue = 
+type NBTValue =
   | null
   | boolean
   | number

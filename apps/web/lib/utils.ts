@@ -41,13 +41,15 @@ export function extractFromSNBT(nbttag: string): {
 
     // Extract player head texture using MineSkin API
     let textureUrl: string | null = null;
-    if (parsed && typeof parsed === 'object' && 'SkullOwner' in parsed) {
+    if (parsed && typeof parsed === "object" && "SkullOwner" in parsed) {
       const skullOwner = parsed.SkullOwner as any;
-      
+
       // Primary method: Use MineSkin API with the direct Minecraft texture URL
       if (skullOwner?.Properties?.textures?.[0]?.Value) {
         try {
-          const decodedTexture = JSON.parse(atob(skullOwner.Properties.textures[0].Value));
+          const decodedTexture = JSON.parse(
+            atob(skullOwner.Properties.textures[0].Value),
+          );
           if (decodedTexture.textures?.SKIN?.url) {
             const minecraftTextureUrl = decodedTexture.textures.SKIN.url;
             // MineSkin can render custom textures from Minecraft URLs (works for items like Judgement Core)
@@ -64,9 +66,9 @@ export function extractFromSNBT(nbttag: string): {
 
     // Extract ItemModel
     let itemModel: string | null = null;
-    if (parsed && typeof parsed === 'object' && 'ItemModel' in parsed) {
+    if (parsed && typeof parsed === "object" && "ItemModel" in parsed) {
       const model = (parsed as any).ItemModel;
-      if (typeof model === 'string') {
+      if (typeof model === "string") {
         itemModel = model.replace("minecraft:", "");
       }
     }
