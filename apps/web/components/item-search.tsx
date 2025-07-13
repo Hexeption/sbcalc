@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import { Input } from "@workspace/ui/components/input";
 
 export interface ItemSearchProps {
   onSelect?: (itemValue: string) => void;
@@ -65,9 +66,9 @@ export function ItemSearch({
 
   return (
     <div className="relative">
-      <input
+      <Input
         type="text"
-        className="w-full px-6 py-4 bg-input border-2 border-border rounded-xl text-foreground text-lg placeholder-muted-foreground focus:border-primary focus:outline-none focus:ring-4 focus:ring-primary/10 transition-all"
+        className="w-full px-6 py-4 text-lg"
         placeholder="Search for an item..."
         value={currentSearch}
         onChange={(e) => handleSearchChange(e.target.value)}

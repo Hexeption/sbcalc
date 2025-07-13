@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { Github, X } from "lucide-react";
+import { Github, X, ChevronDown, ChevronUp } from "lucide-react";
 import { ItemSearch } from "@/components/item-search";
 import { RecipeTree } from "@/components/recipe-tree";
 import { BaseRequirementsList } from "@/components/base-requirements-list";
@@ -12,6 +12,13 @@ import { getTotalForgeTime, formatForgeTime } from "@/lib/forge-time-utils";
 import { useSettings } from "@/lib/settings-context";
 import { Input } from "@workspace/ui/components/input";
 import { Label } from "@workspace/ui/components/label";
+import { Button } from "@workspace/ui/components/button";
+import {
+  Card,
+  CardHeader,
+  CardTitle,
+  CardContent,
+} from "@workspace/ui/components/card";
 import {
   getBaseRequirements,
   getRecipe,
@@ -111,17 +118,19 @@ export function ItemSearchClient() {
     <div className="min-h-screen bg-background text-foreground">
       {/* Header */}
       <div className="text-center py-8 px-4 relative">
-        <div className="absolute top-8 right-8">
-          <a
-            href="https://github.com/Hexeption/sbcalc"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 px-4 py-2 bg-card border border-border rounded-lg hover:bg-card/80 transition-colors text-foreground hover:text-primary"
-            title="View on GitHub"
-          >
-            <Github className="w-5 h-5" />
-            <span className="hidden sm:inline">GitHub</span>
-          </a>
+        <div className="absolute top-4 right-4 md:top-8 md:right-8">
+          <Button variant="outline" size="sm" asChild>
+            <a
+              href="https://github.com/Hexeption/sbcalc"
+              target="_blank"
+              rel="noopener noreferrer"
+              title="View on GitHub"
+              className="flex items-center gap-2"
+            >
+              <Github className="w-4 h-4 md:w-5 md:h-5" />
+              <span className="hidden sm:inline">GitHub</span>
+            </a>
+          </Button>
         </div>
         <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary to-primary/80 bg-clip-text text-transparent mb-2">
           Skyblock Calculator
@@ -135,119 +144,81 @@ export function ItemSearchClient() {
       <div className="flex flex-col lg:flex-row gap-6 px-4 md:px-8 pb-8 h-[calc(100vh-200px)]">
         {/* Left column: Search and Settings */}
         <div className="w-full lg:w-80 lg:flex-shrink-0 space-y-6">
-          <div className="bg-card p-6 rounded-xl border border-border">
-            <div className="flex items-center justify-between mb-4">
-              <div className="flex items-center gap-3">
-                <span className="text-2xl">🔍</span>
-                <span className="text-xl font-semibold">Search Items</span>
+          <Card>
+            <CardHeader>
+              <div className="flex items-center justify-between">
+                <CardTitle className="flex items-center gap-3">
+                  <span className="text-2xl">🔍</span>
+                  Search Items
+                </CardTitle>
+                {selectedItem && (
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={() => {
+                      setSelectedItem(null);
+                      setMultiplier(1);
+                      setExpandedItems(new Set());
+                      setSearchValue("");
+                    }}
+                    className="hover:bg-destructive hover:text-destructive-foreground"
+                    title="Clear selection"
+                  >
+                    <X className="w-4 h-4" />
+                    <span className="hidden sm:inline">Clear</span>
+                  </Button>
+                )}
               </div>
-              {selectedItem && (
-                <button
-                  onClick={() => {
-                    setSelectedItem(null);
-                    setMultiplier(1);
-                    setExpandedItems(new Set());
-                    setSearchValue("");
-                  }}
-                  className="inline-flex items-center gap-1 px-2 py-1 bg-secondary border border-border rounded-md text-foreground hover:bg-destructive hover:text-destructive-foreground transition-colors text-sm"
-                  title="Clear selection"
-                >
-                  <X className="w-4 h-4" />
-                  <span className="hidden sm:inline">Clear</span>
-                </button>
-              )}
-            </div>
-            <ItemSearch
-              searchValue={searchValue}
-              onSearchChange={setSearchValue}
-              onSelect={(item) => {
-                setSelectedItem(item);
-                setMultiplier(1);
-              }}
-            />
-          </div>
+            </CardHeader>
+            <CardContent>
+              <ItemSearch
+                searchValue={searchValue}
+                onSearchChange={setSearchValue}
+                onSelect={(item) => {
+                  setSelectedItem(item);
+                  setMultiplier(1);
+                }}
+              />
+            </CardContent>
+          </Card>
 
           {/* Amount Controls */}
           {selectedItem && (
-            <div className="bg-card p-6 rounded-xl border border-border">
-              <div className="flex items-center gap-3 mb-4">
-                <span className="text-2xl">⚙️</span>
-                <span className="text-xl font-semibold">Settings</span>
-              </div>
-
-              <div className="space-y-4">
-                <div>
-                  <Label
-                    htmlFor="quantity"
-                    className="text-muted-foreground mb-2 block"
-                  >
-                    Quantity
-                  </Label>
-                  <Input
-                    id="quantity"
-                    type="number"
-                    min={1}
-                    value={multiplier}
-                    onChange={(e) =>
-                      setMultiplier(Math.max(1, Number(e.target.value)))
-                    }
-                  />
-                </div>
-
-                {/* Forge Settings */}
-                <div className="border-t border-border pt-4">
-                  <h4 className="text-sm font-medium text-muted-foreground mb-3">
-                    Forge Settings
-                  </h4>
-                  <ForgeSettings />
-                </div>
-
-                {/* Summary Cards */}
-                <div className="space-y-3">
-                  <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
-                    <div className="text-muted-foreground text-sm mb-1">
-                      Target Item
-                    </div>
-                    <div className="text-lg font-bold text-primary truncate">
-                      {getDisplayName(
-                        recipes[selectedItem],
-                        selectedItem,
-                        items,
-                      )}
-                    </div>
-                  </div>
-
-                  <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
-                    <div className="text-muted-foreground text-sm mb-1">
+            <Card>
+              <CardHeader>
+                <CardTitle className="flex items-center gap-3">
+                  <span className="text-2xl">⚙️</span>
+                  Settings
+                </CardTitle>
+              </CardHeader>
+              <CardContent>
+                <div className="space-y-4">
+                  <div>
+                    <Label
+                      htmlFor="quantity"
+                      className="text-muted-foreground mb-2 block"
+                    >
                       Quantity
-                    </div>
-                    <div className="text-lg font-bold text-primary">
-                      {multiplier}
-                    </div>
+                    </Label>
+                    <Input
+                      id="quantity"
+                      type="number"
+                      min={1}
+                      value={multiplier}
+                      onChange={(e) =>
+                        setMultiplier(Math.max(1, Number(e.target.value)))
+                      }
+                    />
                   </div>
 
-                  <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
-                    <div className="text-muted-foreground text-sm mb-1">
-                      Total Materials
-                    </div>
-                    <div className="text-lg font-bold text-primary">
-                      {totalMaterials}
-                    </div>
+                  {/* Forge Settings */}
+                  <div className="border-t border-border pt-4">
+                    <h4 className="text-sm font-medium text-muted-foreground mb-3">
+                      Forge Settings
+                    </h4>
+                    <ForgeSettings />
                   </div>
 
-                  <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
-                    <div className="text-muted-foreground text-sm mb-1">
-                      Forge Slots
-                    </div>
-                    <div className="text-lg font-bold text-primary">
-                      {settings.forgeSlots}
-                      {settings.useMultipleSlots && (
-                        <span className="text-sm text-muted-foreground ml-1">
-                          (parallel)
-                        </span>
-                      )}
-                    </div>
-                  </div>
                   {/* Total Forge Time */}
                   {totalForgeTime > 0 && (
                     <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
@@ -265,8 +236,8 @@ export function ItemSearchClient() {
                     </div>
                   )}
                 </div>
-              </div>
-            </div>
+              </CardContent>
+            </Card>
           )}
         </div>
 
@@ -275,72 +246,128 @@ export function ItemSearchClient() {
         <div className="flex-1 min-w-0 flex flex-col">
           {selectedItem ? (
             <div className="space-y-6 flex-1 flex flex-col">
-              {/* Crafting Tree */}
-              <div className="bg-card/60 backdrop-blur-sm rounded-xl p-6 border border-border flex-1 flex flex-col">
-                <div className="flex items-center justify-between mb-6">
-                  <div className="flex items-center gap-3">
-                    <span className="text-2xl">🔧</span>
-                    <span className="text-xl font-semibold">Crafting Tree</span>
+              {/* Summary Cards Row */}
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+                <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
+                  <div className="text-muted-foreground text-xs mb-1">
+                    Target Item
                   </div>
-                  <div className="flex gap-2">
-                    <button
-                      onClick={handleExpandAll}
-                      className="px-3 py-1 bg-secondary border border-border rounded-md text-foreground hover:bg-secondary/80 transition-colors"
-                    >
-                      Expand All
-                    </button>
-                    <button
-                      onClick={handleCollapseAll}
-                      className="px-3 py-1 bg-secondary border border-border rounded-md text-foreground hover:bg-secondary/80 transition-colors"
-                    >
-                      Collapse All
-                    </button>
+                  <div className="text-sm font-bold text-primary truncate">
+                    {getDisplayName(recipes[selectedItem], selectedItem, items)}
                   </div>
                 </div>
-                <div className="bg-muted/80 rounded-xl p-6 border border-border/50 flex-1 overflow-auto">
-                  <RecipeTree
-                    internalname={selectedItem}
-                    recipes={recipes}
-                    multiplier={multiplier}
-                    itemsData={items}
-                    expandedItems={expandedItems}
-                    onToggleExpanded={handleToggleExpanded}
-                    forgeSettings={{
-                      forgeSlots: settings.forgeSlots,
-                      useMultipleSlots: settings.useMultipleSlots,
-                    }}
-                  />
+
+                <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
+                  <div className="text-muted-foreground text-xs mb-1">
+                    Quantity
+                  </div>
+                  <div className="text-sm font-bold text-primary">
+                    {multiplier}
+                  </div>
+                </div>
+
+                <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
+                  <div className="text-muted-foreground text-xs mb-1">
+                    Total Materials
+                  </div>
+                  <div className="text-sm font-bold text-primary">
+                    {totalMaterials}
+                  </div>
+                </div>
+
+                <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
+                  <div className="text-muted-foreground text-xs mb-1">
+                    Forge Slots
+                  </div>
+                  <div className="text-sm font-bold text-primary">
+                    {settings.forgeSlots}
+                    {settings.useMultipleSlots && (
+                      <span className="text-xs text-muted-foreground ml-1">
+                        (parallel)
+                      </span>
+                    )}
+                  </div>
                 </div>
               </div>
 
+              {/* Crafting Tree */}
+              <Card className="flex-1 flex flex-col">
+                <CardHeader>
+                  <div className="flex items-center justify-between">
+                    <CardTitle className="flex items-center gap-3">
+                      <span className="text-2xl">🔧</span>
+                      Crafting Tree
+                    </CardTitle>
+                    <div className="flex gap-2">
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={handleExpandAll}
+                      >
+                        <ChevronDown className="w-4 h-4 mr-1" />
+                        <span className="hidden sm:inline">Expand All</span>
+                        <span className="sm:hidden">Expand</span>
+                      </Button>
+                      <Button
+                        variant="outline"
+                        size="sm"
+                        onClick={handleCollapseAll}
+                      >
+                        <ChevronUp className="w-4 h-4 mr-1" />
+                        <span className="hidden sm:inline">Collapse All</span>
+                        <span className="sm:hidden">Collapse</span>
+                      </Button>
+                    </div>
+                  </div>
+                </CardHeader>
+                <CardContent className="flex-1">
+                  <div className="bg-muted/80 rounded-xl p-6 border border-border/50 flex-1 overflow-auto">
+                    <RecipeTree
+                      internalname={selectedItem}
+                      recipes={recipes}
+                      multiplier={multiplier}
+                      itemsData={items}
+                      expandedItems={expandedItems}
+                      onToggleExpanded={handleToggleExpanded}
+                      forgeSettings={{
+                        forgeSlots: settings.forgeSlots,
+                        useMultipleSlots: settings.useMultipleSlots,
+                      }}
+                    />
+                  </div>
+                </CardContent>
+              </Card>
+
               {/* Materials List */}
-              <div className="bg-card/60 backdrop-blur-sm rounded-xl p-6 border border-border flex-1 flex flex-col mb-20">
-                <div className="flex items-center gap-3 mb-6">
-                  <span className="text-2xl">📋</span>
-                  <span className="text-xl font-semibold">
+              <Card className="flex-1 flex flex-col mb-20">
+                <CardHeader>
+                  <CardTitle className="flex items-center gap-3">
+                    <span className="text-2xl">📋</span>
                     Materials Needed
-                  </span>
-                </div>
-                <div className="flex-1 overflow-auto">
+                  </CardTitle>
+                </CardHeader>
+                <CardContent className="flex-1 overflow-auto">
                   <BaseRequirementsList
                     internalname={selectedItem}
                     recipes={recipes}
                     multiplier={multiplier}
                     itemsData={items}
                   />
-                </div>
-              </div>
+                </CardContent>
+              </Card>
             </div>
           ) : (
-            <div className="bg-card/60 backdrop-blur-sm rounded-xl p-12 border border-border text-center flex-1 flex flex-col justify-center">
-              <div className="text-6xl mb-4">🔍</div>
-              <h3 className="text-xl font-semibold text-muted-foreground mb-2">
-                No Item Selected
-              </h3>
-              <p className="text-muted-foreground">
-                Search and select an item to view its crafting requirements.
-              </p>
-            </div>
+            <Card className="text-center flex-1 flex flex-col justify-center">
+              <CardContent>
+                <div className="text-6xl mb-4">🔍</div>
+                <h3 className="text-xl font-semibold text-muted-foreground mb-2">
+                  No Item Selected
+                </h3>
+                <p className="text-muted-foreground">
+                  Search and select an item to view its crafting requirements.
+                </p>
+              </CardContent>
+            </Card>
           )}
         </div>
       </div>

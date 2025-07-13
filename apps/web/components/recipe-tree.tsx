@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
+import { ChevronDown, ChevronRight } from "lucide-react";
 import type { RecipesData, ForgeRecipe } from "@/lib/types";
 import { BASE_MATERIALS } from "@/lib/constants";
 import { getDisplayName } from "@/lib/utils";
@@ -183,7 +184,11 @@ export function RecipeTree({
         )}
         {hasIngredients && (
           <span className="text-muted-foreground text-sm ml-2">
-            {isExpanded ? "▼" : "▶"}
+            {isExpanded ? (
+              <ChevronDown className="w-4 h-4" />
+            ) : (
+              <ChevronRight className="w-4 h-4" />
+            )}
           </span>
         )}
       </div>
