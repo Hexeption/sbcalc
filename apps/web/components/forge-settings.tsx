@@ -1,0 +1,61 @@
+"use client";
+
+import React from "react";
+import { useSettings } from "@/lib/settings-context";
+import { Input } from "@workspace/ui/components/input";
+import { Label } from "@workspace/ui/components/label";
+import { Checkbox } from "@workspace/ui/components/checkbox";
+
+export function ForgeSettings() {
+  const { settings, updateSettings } = useSettings();
+
+  return (
+    <div className="space-y-4">
+      <div>
+        <Label
+          htmlFor="forge-slots"
+          className="text-muted-foreground mb-2 block"
+        >
+          Number of Forge Slots
+        </Label>
+        <Input
+          id="forge-slots"
+          type="number"
+          min={2}
+          max={7}
+          value={settings.forgeSlots}
+          onChange={(e) =>
+            updateSettings({
+              forgeSlots: Math.max(1, Math.min(20, Number(e.target.value))),
+            })
+          }
+        />
+        <p className="text-xs text-muted-foreground mt-1">
+          How many forge slots you have available (2-7)
+        </p>
+      </div>
+
+      <div className="flex items-start space-x-3">
+        <Checkbox
+          id="use-multiple-slots"
+          checked={settings.useMultipleSlots}
+          onCheckedChange={(checked) =>
+            updateSettings({ useMultipleSlots: checked === true })
+          }
+        />
+        <div className="grid gap-1.5 leading-none">
+          <Label
+            htmlFor="use-multiple-slots"
+            className="text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70 cursor-pointer"
+          >
+            Use Multiple Slots for Parallel Forging
+          </Label>
+          <p className="text-xs text-muted-foreground">
+            When enabled, multiple items of the same recipe can be forged
+            simultaneously to reduce total time
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}

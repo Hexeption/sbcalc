@@ -4,12 +4,18 @@ import React, { useState } from "react";
 import type { RecipesData, ForgeRecipe } from "@/lib/types";
 import { BASE_MATERIALS } from "@/lib/constants";
 import { getDisplayName } from "@/lib/utils";
+import { calculateOptimalForgeTime } from "@/lib/forge-time-utils";
 import {
   aggregateIngredients,
   getRecipe,
   getIngredientsFromRecipe,
 } from "@/lib/recipe-utils";
 import { ItemImage } from "./item-image";
+
+interface ForgeSettings {
+  forgeSlots: number;
+  useMultipleSlots: boolean;
+}
 
 interface RecipeTreeProps {
   internalname: string;
@@ -20,6 +26,7 @@ interface RecipeTreeProps {
   itemsData?: RecipesData;
   expandedItems?: Set<string>;
   onToggleExpanded?: (itemName: string) => void;
+  forgeSettings?: ForgeSettings;
 }
 
 export function RecipeTree({
@@ -31,6 +38,7 @@ export function RecipeTree({
   itemsData,
   expandedItems: externalExpandedItems,
   onToggleExpanded,
+  forgeSettings = { forgeSlots: 5, useMultipleSlots: true },
 }: RecipeTreeProps): React.ReactElement | null {
   const [internalExpandedItems, setInternalExpandedItems] = useState<
     Set<string>
@@ -96,6 +104,7 @@ export function RecipeTree({
   const rawForgeTime = isForgeRecipe
     ? (recipe as ForgeRecipe).forge_time
     : undefined;
+
   function formatForgeTime(seconds?: number): string {
     if (typeof seconds !== "number" || isNaN(seconds)) return "";
     if (seconds < 60) return `${seconds}s`;
@@ -109,8 +118,17 @@ export function RecipeTree({
     const h = Math.floor((seconds % 86400) / 3600);
     return `${d}d ${h}h`;
   }
+
+  // Calculate optimized forge time considering multiple slots
+  const optimizedForgeTime =
+    rawForgeTime !== undefined
+      ? calculateOptimalForgeTime(rawForgeTime, multiplier, forgeSettings)
+      : undefined;
+
   const forgeTime =
-    rawForgeTime !== undefined ? formatForgeTime(rawForgeTime) : undefined;
+    optimizedForgeTime !== undefined
+      ? formatForgeTime(optimizedForgeTime)
+      : undefined;
   const recipeCount: number = !isForgeRecipe
     ? Number((recipe as any)?.count) || 1
     : 1;
@@ -145,9 +163,18 @@ export function RecipeTree({
           {multiplier}x
         </span>
         {isForgeRecipe && forgeTime && (
-          <span className="ml-2 bg-blue-500/20 text-blue-700 dark:text-blue-400 px-2 py-1 rounded text-xs font-medium">
-            Forge Time: {forgeTime}
-          </span>
+          <div className="ml-2 bg-blue-500/20 text-blue-700 dark:text-blue-400 px-2 py-1 rounded text-xs font-medium">
+            <span>Forge Time: {forgeTime}</span>
+            {forgeSettings.useMultipleSlots && multiplier > 1 && (
+              <span className="ml-1 text-blue-600 dark:text-blue-300">
+                (
+                {multiplier > forgeSettings.forgeSlots
+                  ? `${Math.min(multiplier, forgeSettings.forgeSlots)} slots`
+                  : `${multiplier} slot${multiplier > 1 ? "s" : ""}`}
+                )
+              </span>
+            )}
+          </div>
         )}
         {isBaseMaterial && (
           <span className="bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 px-2 py-1 rounded text-sm font-medium">
@@ -160,8 +187,7 @@ export function RecipeTree({
           </span>
         )}
       </div>
-
-      {/* Render children if expanded and has ingredients */}
+      {/* Render children if expanded and has ingredients */}{" "}
       {isExpanded && hasIngredients && (
         <div className="space-y-1">
           {Object.entries(counts).map(([name, count]) => (
@@ -175,6 +201,7 @@ export function RecipeTree({
               itemsData={itemsData}
               expandedItems={externalExpandedItems}
               onToggleExpanded={onToggleExpanded}
+              forgeSettings={forgeSettings}
             />
           ))}
         </div>

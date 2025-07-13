@@ -5,9 +5,13 @@ import { Github, X } from "lucide-react";
 import { ItemSearch } from "@/components/item-search";
 import { RecipeTree } from "@/components/recipe-tree";
 import { BaseRequirementsList } from "@/components/base-requirements-list";
+import { ForgeSettings } from "@/components/forge-settings";
 import type { RecipesData } from "@/lib/types";
 import { getDisplayName } from "@/lib/utils";
 import { getTotalForgeTime, formatForgeTime } from "@/lib/forge-time-utils";
+import { useSettings } from "@/lib/settings-context";
+import { Input } from "@workspace/ui/components/input";
+import { Label } from "@workspace/ui/components/label";
 import {
   getBaseRequirements,
   getRecipe,
@@ -26,6 +30,7 @@ export function ItemSearchClient() {
   const [multiplier, setMultiplier] = useState<number>(1);
   const [expandedItems, setExpandedItems] = useState<Set<string>>(new Set());
   const [searchValue, setSearchValue] = useState<string>("");
+  const { settings } = useSettings();
 
   // Helper function to get all expandable items in the recipe tree
   const getAllExpandableItems = (
@@ -96,7 +101,10 @@ export function ItemSearchClient() {
     : {};
   const totalMaterials = Object.keys(baseRequirements).length;
   const totalForgeTime = selectedItem
-    ? getTotalForgeTime(selectedItem, recipes, multiplier)
+    ? getTotalForgeTime(selectedItem, recipes, multiplier, new Set(), {
+        forgeSlots: settings.forgeSlots,
+        useMultipleSlots: settings.useMultipleSlots,
+      })
     : 0;
 
   return (
@@ -169,18 +177,29 @@ export function ItemSearchClient() {
 
               <div className="space-y-4">
                 <div>
-                  <label className="block text-sm font-medium text-muted-foreground mb-2">
+                  <Label
+                    htmlFor="quantity"
+                    className="text-muted-foreground mb-2 block"
+                  >
                     Quantity
-                  </label>
-                  <input
+                  </Label>
+                  <Input
+                    id="quantity"
                     type="number"
                     min={1}
                     value={multiplier}
                     onChange={(e) =>
                       setMultiplier(Math.max(1, Number(e.target.value)))
                     }
-                    className="w-full px-4 py-2 bg-input border-2 border-input rounded-lg text-foreground font-medium focus:border-primary focus:outline-none transition-colors"
                   />
+                </div>
+
+                {/* Forge Settings */}
+                <div className="border-t border-border pt-4">
+                  <h4 className="text-sm font-medium text-muted-foreground mb-3">
+                    Forge Settings
+                  </h4>
+                  <ForgeSettings />
                 </div>
 
                 {/* Summary Cards */}
@@ -215,11 +234,30 @@ export function ItemSearchClient() {
                       {totalMaterials}
                     </div>
                   </div>
+
+                  <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
+                    <div className="text-muted-foreground text-sm mb-1">
+                      Forge Slots
+                    </div>
+                    <div className="text-lg font-bold text-primary">
+                      {settings.forgeSlots}
+                      {settings.useMultipleSlots && (
+                        <span className="text-sm text-muted-foreground ml-1">
+                          (parallel)
+                        </span>
+                      )}
+                    </div>
+                  </div>
                   {/* Total Forge Time */}
                   {totalForgeTime > 0 && (
                     <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
                       <div className="text-muted-foreground text-sm mb-1">
                         Total Forge Time
+                        {settings.useMultipleSlots && (
+                          <span className="ml-1 text-xs">
+                            (optimized for {settings.forgeSlots} slots)
+                          </span>
+                        )}
                       </div>
                       <div className="text-lg font-bold text-primary">
                         {formatForgeTime(totalForgeTime)}
@@ -267,6 +305,10 @@ export function ItemSearchClient() {
                     itemsData={items}
                     expandedItems={expandedItems}
                     onToggleExpanded={handleToggleExpanded}
+                    forgeSettings={{
+                      forgeSlots: settings.forgeSlots,
+                      useMultipleSlots: settings.useMultipleSlots,
+                    }}
                   />
                 </div>
               </div>
