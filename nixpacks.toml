@@ -1,0 +1,25 @@
+# Explicitly use only the Node.js provider
+providers = ["node"]
+
+[variables]
+NIXPACKS_METADATA = "nextjs,pnpm"
+NODE_ENV = "production"
+PNPM_VERSION = "10.4.1"
+
+[phases.setup]
+nixPkgs = ["nodejs_20", "pnpm", "git"]
+
+[phases.install]
+dependsOn = ["setup"]
+cmds = [
+  "pnpm install --frozen-lockfile"
+]
+
+[phases.build]
+dependsOn = ["install"]
+cmds = [
+  "pnpm run build"
+]
+
+[start]
+cmd = "pnpm --filter web start"

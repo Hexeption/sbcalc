@@ -1,0 +1,26 @@
+{
+  "name": "@workspace/neu-recipe-processor",
+  "version": "1.0.0",
+  "description": "Process NotEnoughUpdates repository JSON files and combine items with recipes",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "simple-git": "^3.19.1",
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/fs-extra": "^11.0.1",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "skyblock",
+    "neu",
+    "recipes",
+    "minecraft"
+  ]
+}
