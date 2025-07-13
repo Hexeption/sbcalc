@@ -3,6 +3,7 @@
 import React from "react";
 import type { RecipeEntry, RecipesData } from "@/lib/types";
 import { extractFromSNBT } from "@/lib/utils";
+import { getMappedItemId } from "@/lib/item-id-mappings";
 
 interface ItemImageProps {
   entry: RecipeEntry | undefined;
@@ -59,7 +60,13 @@ export function ItemImage({
     }
 
     if (modelId) {
-      setSrc(`https://minecraftitemids.com/item/32/${modelId}.png`);
+      // Apply old-to-new item ID mapping
+      const mappedId = getMappedItemId(
+        modelId,
+        currentEntry.damage,
+        currentEntry.nbttag,
+      );
+      setSrc(`https://minecraftitemids.com/item/32/${mappedId}.png`);
     } else {
       setSrc(null);
     }

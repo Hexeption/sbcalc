@@ -10,6 +10,7 @@ export type RecipeEntry = {
   internalname?: string;
   itemid?: string;
   nbttag?: string;
+  damage?: number;
   recipe?: Record<string, string>;
   recipes?: Array<Record<string, string>>;
   type?: string;

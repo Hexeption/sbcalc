@@ -231,7 +231,9 @@ export function ItemSearchClient() {
           {selectedItem ? (
             <div className="space-y-6 flex-1 flex flex-col">
               {/* Summary Cards Row */}
-              <div className="grid grid-cols-2 md:grid-cols-5 gap-3">
+              <div
+                className={`grid gap-3 ${totalForgeTime > 0 ? "grid-cols-2 md:grid-cols-5" : "grid-cols-2 md:grid-cols-4"}`}
+              >
                 <div className="bg-muted/80 rounded-lg p-3 border border-border/50">
                   <div className="text-muted-foreground text-xs mb-1">
                     Target Item
