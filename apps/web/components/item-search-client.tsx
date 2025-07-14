@@ -1,7 +1,17 @@
 "use client";
 
 import React, { useState } from "react";
-import { Github, X, ChevronDown, ChevronUp } from "lucide-react";
+import {
+  Github,
+  X,
+  ChevronDown,
+  ChevronUp,
+  Search,
+  Settings,
+  Wrench,
+  Clipboard,
+  Heart,
+} from "lucide-react";
 import { ItemSearch } from "@/components/item-search";
 import { RecipeTree } from "@/components/recipe-tree";
 import { BaseRequirementsList } from "@/components/base-requirements-list";
@@ -87,7 +97,7 @@ export function ItemSearchClient() {
             <CardHeader>
               <div className="flex items-center justify-between">
                 <CardTitle className="flex items-center gap-3">
-                  <span className="text-2xl">🔍</span>
+                  <Search className="w-5 h-5" />
                   Search Items
                 </CardTitle>
                 {selectedItem && (
@@ -125,7 +135,7 @@ export function ItemSearchClient() {
             <Card>
               <CardHeader>
                 <CardTitle className="flex items-center gap-3">
-                  <span className="text-2xl">⚙️</span>
+                  <Settings className="w-5 h-5" />
                   Settings
                 </CardTitle>
               </CardHeader>
@@ -184,7 +194,7 @@ export function ItemSearchClient() {
                 <CardHeader>
                   <div className="flex items-center justify-between">
                     <CardTitle className="flex items-center gap-3">
-                      <span className="text-2xl">🔧</span>
+                      <Wrench className="w-5 h-5" />
                       Crafting Tree
                     </CardTitle>
                     <div className="flex gap-2">
@@ -232,7 +242,7 @@ export function ItemSearchClient() {
               <Card className="flex-1 flex flex-col mb-20">
                 <CardHeader>
                   <CardTitle className="flex items-center gap-3">
-                    <span className="text-2xl">📋</span>
+                    <Clipboard className="w-5 h-5" />
                     Materials Needed
                   </CardTitle>
                 </CardHeader>
@@ -249,7 +259,9 @@ export function ItemSearchClient() {
           ) : (
             <Card className="text-center flex-1 flex flex-col justify-center">
               <CardContent>
-                <div className="text-6xl mb-4">🔍</div>
+                <div className="mb-4">
+                  <Search className="w-16 h-16 mx-auto text-muted-foreground" />
+                </div>
                 <h3 className="text-xl font-semibold text-muted-foreground mb-2">
                   No Item Selected
                 </h3>
@@ -266,7 +278,8 @@ export function ItemSearchClient() {
       <footer className="border-t border-border bg-card/60 backdrop-blur-sm fixed bottom-0 w-full">
         <div className="px-4 py-6 text-center">
           <p className="text-muted-foreground text-sm">
-            made with <span className="text-red-500">♥</span> by{" "}
+            made with{" "}
+            <Heart className="w-4 h-4 inline text-red-500 fill-current" /> by{" "}
             <span className="font-semibold text-foreground">hexeption</span>
           </p>
         </div>

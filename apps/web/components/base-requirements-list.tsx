@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import { Package } from "lucide-react";
 import type { RecipesData } from "@/lib/types";
 import { getDisplayName } from "@/lib/utils";
 import { getBaseRequirements } from "@/lib/recipe-utils";
@@ -33,7 +34,7 @@ export function BaseRequirementsList({
   if (sortedRequirements.length === 0) {
     return (
       <div className="text-center py-8 text-muted-foreground">
-        <div className="text-4xl mb-2">📦</div>
+        <Package className="w-16 h-16 mx-auto mb-4 text-muted-foreground" />
         <p>No base materials required</p>
       </div>
     );
