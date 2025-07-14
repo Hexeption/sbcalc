@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import {
   Github,
   X,
@@ -17,11 +17,13 @@ import { RecipeTree } from "@/components/recipe-tree";
 import { BaseRequirementsList } from "@/components/base-requirements-list";
 import { ForgeSettings } from "@/components/forge-settings";
 import { RecipeSummaryCards } from "@/components/recipe-summary-cards";
+import { ShareRecipeDialog } from "@/components/share-recipe-dialog";
 import type { RecipesData } from "@/lib/types";
 import { getDisplayName } from "@/lib/utils";
 import { getTotalForgeTime } from "@/lib/forge-time-utils";
 import { useSettings } from "@/lib/settings-context";
 import { useRecipeTreeExpansion } from "@/hooks/use-recipe-tree-expansion";
+import { useSharedRecipe } from "@/hooks/use-shared-recipe";
 import { Input } from "@workspace/ui/components/input";
 import { Label } from "@workspace/ui/components/label";
 import { Button } from "@workspace/ui/components/button";
@@ -42,7 +44,26 @@ export function ItemSearchClient() {
   const [selectedItem, setSelectedItem] = useState<string | null>(null);
   const [multiplier, setMultiplier] = useState<number>(1);
   const [searchValue, setSearchValue] = useState<string>("");
-  const { settings } = useSettings();
+  const [hasLoadedSharedRecipe, setHasLoadedSharedRecipe] = useState(false);
+  const { settings, updateSettings } = useSettings();
+  const { sharedState, clearSharedState, hasSharedRecipe } = useSharedRecipe();
+
+  // Load shared recipe if available (only once)
+  useEffect(() => {
+    if (sharedState && !hasLoadedSharedRecipe) {
+      // Get the first recipe from the shared state
+      const firstRecipe = Object.entries(sharedState.recipes)[0];
+      if (firstRecipe) {
+        const [itemName, quantity] = firstRecipe;
+        setSelectedItem(itemName);
+        setMultiplier(quantity);
+      }
+
+      // Apply shared forge settings
+      updateSettings(sharedState.forgeSettings);
+      setHasLoadedSharedRecipe(true);
+    }
+  }, [sharedState, hasLoadedSharedRecipe, updateSettings]);
 
   const {
     expandedItems,
@@ -165,6 +186,25 @@ export function ItemSearchClient() {
                       Forge Settings
                     </h4>
                     <ForgeSettings />
+                  </div>
+
+                  {/* Share Recipe */}
+                  <div className="border-t border-border pt-4">
+                    <h4 className="text-sm font-medium text-muted-foreground mb-3">
+                      Share Recipe
+                    </h4>
+                    <ShareRecipeDialog
+                      recipeState={{
+                        recipes: selectedItem
+                          ? { [selectedItem]: multiplier }
+                          : {},
+                        forgeSettings: {
+                          forgeSlots: settings.forgeSlots,
+                          useMultipleSlots: settings.useMultipleSlots,
+                          quickForgeLevel: settings.quickForgeLevel,
+                        },
+                      }}
+                    />
                   </div>
                 </div>
               </CardContent>
