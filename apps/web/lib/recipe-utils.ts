@@ -77,7 +77,11 @@ export const getBaseRequirements = (
   itemsData?: RecipesData, // pass items.json as itemsData
 ): Record<string, number> => {
   if (visited.has(internalname)) return acc;
-  visited.add(internalname);
+
+  // Create a new visited set for this branch to prevent infinite loops
+  // but allow the same item to be processed in different branches
+  const newVisited = new Set(visited);
+  newVisited.add(internalname);
 
   const entry = recipes[internalname];
   if (!entry) return acc;
@@ -95,7 +99,8 @@ export const getBaseRequirements = (
       recipes[name] &&
       getRecipe(recipes[name])
     ) {
-      getBaseRequirements(name, recipes, total, acc, visited, itemsData);
+      // Use the new visited set for each recursive call
+      getBaseRequirements(name, recipes, total, acc, newVisited, itemsData);
     } else if (itemsData && itemsData[name]) {
       // If not in recipes but exists in items.json, treat as base
       acc[name] = (acc[name] || 0) + total;
