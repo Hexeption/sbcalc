@@ -22,6 +22,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@next/third-parties": "^15.3.5",
     "@vercel/og": "^0.7.2",
     "@workspace/neu-recipe-processor": "workspace:*",
     "@workspace/snbt-parser": "workspace:*",
