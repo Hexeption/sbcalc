@@ -1,9 +1,10 @@
 "use client";
 
-import React from "react";
+import React, { useEffect } from "react";
 import type { RecipesData } from "@/lib/types";
 import { getDisplayName } from "@/lib/utils";
 import { formatForgeTime } from "@/lib/forge-time-utils";
+import { trackRecipeSummaryView } from "@/lib/analytics";
 
 interface RecipeSummaryCardsProps {
   selectedItem: string;
@@ -55,6 +56,27 @@ export function RecipeSummaryCards({
   const forgeTimeSubtitle = useMultipleSlots
     ? `(optimized for ${forgeSlots} slots)`
     : "";
+
+  // Track recipe summary view
+  useEffect(() => {
+    trackRecipeSummaryView(
+      selectedItem,
+      displayName,
+      multiplier,
+      totalMaterials,
+      totalForgeTime,
+      forgeSlots,
+      useMultipleSlots,
+    );
+  }, [
+    selectedItem,
+    multiplier,
+    totalMaterials,
+    totalForgeTime,
+    forgeSlots,
+    useMultipleSlots,
+    displayName,
+  ]);
 
   return (
     <div

@@ -12,6 +12,7 @@ import {
   getIngredientsFromRecipe,
 } from "@/lib/recipe-utils";
 import { ItemImage } from "./item-image";
+import { trackRecipeTreeItemClick } from "@/lib/analytics";
 
 interface RecipeTreeProps {
   internalname: string;
@@ -138,7 +139,21 @@ export function RecipeTree({
           visited.has(internalname) ? "border-destructive" : "border-primary"
         } hover:bg-accent transition-all hover:translate-x-1 ${hasIngredients ? "cursor-pointer" : ""}`}
         style={{ marginLeft: `${depth * 20}px` }}
-        onClick={() => hasIngredients && toggleExpanded(internalname)}
+        onClick={() => {
+          if (hasIngredients) {
+            toggleExpanded(internalname);
+
+            // Track recipe tree item click
+            trackRecipeTreeItemClick(
+              internalname,
+              displayName,
+              depth,
+              multiplier,
+              isForgeRecipe,
+              isExpanded,
+            );
+          }
+        }}
       >
         <ItemImage
           entry={entry} // Use the current item's entry

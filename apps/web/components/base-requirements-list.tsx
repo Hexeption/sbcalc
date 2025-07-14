@@ -1,11 +1,12 @@
 "use client";
 
-import React from "react";
+import React, { useEffect } from "react";
 import { Package } from "lucide-react";
 import type { RecipesData } from "@/lib/types";
 import { getDisplayName } from "@/lib/utils";
 import { getBaseRequirements } from "@/lib/recipe-utils";
 import { ItemImage } from "./item-image";
+import { trackBaseRequirementsView } from "@/lib/analytics";
 
 interface BaseRequirementsListProps {
   internalname: string;
@@ -30,6 +31,17 @@ export function BaseRequirementsList({
   const sortedRequirements = Object.entries(baseRequirements).sort(
     ([, a], [, b]) => b - a,
   );
+
+  // Track base requirements view
+  useEffect(() => {
+    if (sortedRequirements.length > 0) {
+      trackBaseRequirementsView(
+        internalname,
+        sortedRequirements.length,
+        multiplier,
+      );
+    }
+  }, [internalname, sortedRequirements.length, multiplier]);
 
   if (sortedRequirements.length === 0) {
     return (

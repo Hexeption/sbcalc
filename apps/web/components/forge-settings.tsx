@@ -7,6 +7,7 @@ import { parseAndClampNumber } from "@/lib/input-utils";
 import { Input } from "@workspace/ui/components/input";
 import { Label } from "@workspace/ui/components/label";
 import { Checkbox } from "@workspace/ui/components/checkbox";
+import { trackForgeSettingChange } from "@/lib/analytics";
 
 export function ForgeSettings() {
   const { settings, updateSettings } = useSettings();
@@ -16,11 +17,19 @@ export function ForgeSettings() {
   );
 
   const handleForgeSlotChange = (value: string) => {
-    updateSettings({ forgeSlots: parseAndClampNumber(value, 1, 20) });
+    const newValue = parseAndClampNumber(value, 1, 20);
+    updateSettings({ forgeSlots: newValue });
+
+    // Track forge slot change
+    trackForgeSettingChange("forge_slots", newValue);
   };
 
   const handleQuickForgeLevelChange = (value: string) => {
-    updateSettings({ quickForgeLevel: parseAndClampNumber(value, 0, 20) });
+    const newValue = parseAndClampNumber(value, 0, 20);
+    updateSettings({ quickForgeLevel: newValue });
+
+    // Track quick forge level change
+    trackForgeSettingChange("quick_forge_level", newValue);
   };
 
   return (
@@ -69,9 +78,13 @@ export function ForgeSettings() {
         <Checkbox
           id="use-multiple-slots"
           checked={settings.useMultipleSlots}
-          onCheckedChange={(checked) =>
-            updateSettings({ useMultipleSlots: checked === true })
-          }
+          onCheckedChange={(checked) => {
+            const newValue = checked === true;
+            updateSettings({ useMultipleSlots: newValue });
+
+            // Track multiple slots setting change
+            trackForgeSettingChange("use_multiple_slots", newValue);
+          }}
         />
         <div className="grid gap-1.5 leading-none">
           <Label
