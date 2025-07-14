@@ -9,8 +9,8 @@ import type { RecipesData } from "@/lib/types";
 
 export const runtime = "edge";
 
-// Cast the imported data to the correct type
-const itemsData = itemsRaw as RecipesData;
+// Cast the imported data to any to avoid type issues since items.json has a different structure
+const itemsData = itemsRaw as any;
 
 // Helper function to format item names for display
 function formatItemName(itemId: string): string {
