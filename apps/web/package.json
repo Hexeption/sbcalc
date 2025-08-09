@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@next/third-parties": "^15.3.5",
-    "@vercel/og": "^0.7.2",
+    "@vercel/og": "^0.8.5",
     "@workspace/neu-recipe-processor": "workspace:*",
     "@workspace/snbt-parser": "workspace:*",
     "@workspace/ui": "workspace:*",
