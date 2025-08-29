@@ -49,7 +49,7 @@
     "@workspace/eslint-config": "workspace:^",
     "@workspace/typescript-config": "workspace:*",
     "jsdom": "^26.1.0",
-    "typescript": "^5.7.3",
+    "typescript": "^5.9.2",
     "vitest": "^3.2.4"
   }
 }

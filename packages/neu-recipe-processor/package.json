@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/node": "^24.3.0",
     "@types/fs-extra": "^11.0.1",
-    "typescript": "^5.0.0"
+    "typescript": "^5.9.2"
   },
   "keywords": [
     "skyblock",
