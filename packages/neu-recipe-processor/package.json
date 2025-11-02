@@ -14,7 +14,7 @@
     "build:clean": "pnpm run clean:neu && pnpm run clean:outputs && pnpm run build && pnpm run start"
   },
   "dependencies": {
-    "simple-git": "^3.19.1",
+    "simple-git": "^3.29.0",
     "fs-extra": "^11.1.1"
   },
   "devDependencies": {
