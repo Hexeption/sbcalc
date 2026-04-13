@@ -29,7 +29,7 @@
     "@dnd-kit/sortable": "^10.0.0",
     "@dnd-kit/utilities": "^3.2.2",
     "@icons-pack/react-simple-icons": "13.13.0",
-    "@next/third-parties": "16.1.6",
+    "@next/third-parties": "16.2.3",
     "@vercel/og": "^0.8.6",
     "@workspace/neu-recipe-processor": "workspace:*",
     "@workspace/snbt-parser": "workspace:*",
