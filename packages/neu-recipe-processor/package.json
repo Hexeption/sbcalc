@@ -14,7 +14,7 @@
     "build:clean": "pnpm run build && node dist/clean.js && pnpm run start"
   },
   "dependencies": {
-    "simple-git": "^3.30.0"
+    "simple-git": "^3.36.0"
   },
   "devDependencies": {
     "@types/node": "^25.5.2",
