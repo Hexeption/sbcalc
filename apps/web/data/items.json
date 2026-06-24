@@ -39639,6 +39639,27 @@
       }
     ]
   },
+  "CHEF_PERSONALITY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fChef Minion Skin",
+    "nbttag": "{ExtraAttributes:{id:\"CHEF_PERSONALITY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"46722196-df49-3bac-9bc4-0ff2244ebb06\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FcZrXqg+enlDFqbs1xBtRc/MHzARH/WGIlqYVZlmGZ5W1cQ4q9VTxV+lzZ2OwjM0PmrQoKk8yRomptwPUJIsEPPgrIPWeV3uq3jSS8VptFTCE3XOnX522ppq8xBcj1b/gKdTA/zjiAbO7dcQCau4MUVHYj3oPwnsKOEW5x3v7K5TJ0WOqsGqwDGMTx7voVdVqoVoQRijAJ/ZznqYn5yp2Wpz/VTUsef0aIuDtIhKYP8NktJHxEqYFy2HHtEqOwhhhvbw4AyCod8hF8qg8WesmSA9uPfD4lf60KwhHNOQEgDkqRIvO0rIHfgyyocj6Lf3pjA94myv9eK94+uKUJaVJrLTWseJtveunDIx8PsuyZojr5YBZLevC+RvmkkI7Xvtie6gOaXGzhWcamaa/vhiNcBtjzkea2e1CZb2ot4vVWw9Y1h+6Zosu0wih9L9v2Vmoat6SybtBWH1hCCiFbUijcCkzybaDAaCq6xEhckDudEjJEQp79vSiwjhsCjerWNXdvi+tKR4MCJrWMbQHrw2jHj88oqYT3YFs041uV94gZ5ji8VnweMxjCir0/+pGOBSGIg1ugaK4auRFNtGzwVl+Xp7SskRb4iagw29hAK4zKx49F3GlXDTY3z1ei9gfp77v9bkoe5SePu7/pQemKrBXiPUJY9/01Z+v8H6RILcPOU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MDk0NjY5MDg5MiwKICAicHJvZmlsZUlkIiA6ICJjMWU1NzlmZjc0NjI0OTkzYTI5NTdlNjNjZGU5NDY1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lU2tpbl8xNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MTYxODdmNzA2ZTkyN2ViMjU3ZmVkMTQ2MTljYTk3MjAzODAxMjcwNmQwZjQ5NDFlODY0MTYxOWI4Y2RlMzk0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This Minion skin changes your\",1:\"§7minion's appearance to a §eChef§7.\",2:\"\",3:\"§7You can place this item in any minion\",4:\"§7of your choice!\",5:\"\",6:\"§f§lCOMMON COSMETIC\"],Name:\"§fChef Minion Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This Minion skin changes your",
+      "§7minion's appearance to a §eChef§7.",
+      "",
+      "§7You can place this item in any minion",
+      "§7of your choice!",
+      "",
+      "§f§lCOMMON COSMETIC"
+    ],
+    "internalname": "CHEF_PERSONALITY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "CHEF_RIFT_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§dChef (Rift NPC)",
@@ -57621,6 +57642,35 @@
       "https://hypixelskyblock.minecraft.wiki/w/Ice_Cream_Cone_Power_Orb_Skin"
     ]
   },
+  "DOUBLE_PHONE_BOOTH_FLUX": {
+    "itemid": "minecraft:skull",
+    "displayname": "§dPhone Booth Power Orb Skin",
+    "nbttag": "{ExtraAttributes:{id:\"DOUBLE_PHONE_BOOTH_FLUX\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9740a76a-a369-3c45-83a8-5674c7b6e759\",Properties:{textures:[0:{Name:\"textures\",Signature:\"YQZcr03TVzH4YKeSopP9YwIT4yJLvlgXsqVD3q3/ZMkEOu53cMM4HTS5MOeHucaGzXgW1Jb6onJSmBe0bw5PpWwnsHZREQtIESgKpge6UZXljNYSWMZm5GfWUx9VJ9ADngB+2kZ+MCeSjzcVuDrgRA2/ubS8a5g00SeH2kcSjfkOixrTBswyFi/v+TJRIXxivjxpcpu/B+rjiwqB9k39h8PEDk3KsRadPWUVnpNDRvBUpgxVe57F3fTX3dWUNRmfPt5RNPBrg1oIPh1Yr0cY6DM3yYkFf8z0fFkaFbzIj//43eRJ1permH0eh4ZtVA220mdg9WIpn/OfPiDxTQ++zBHiUA8q8YPX8nFfYSn1JeVe0a6Uyr0IzgHND/XnlQ/v7FH/gtRgYuL/gJrod4glof+qL5MxY/TUwEikmUwwB4R2ZkOGQ2CwFqWRnZi30Z8bLf+jXE0MnrcGHh3CAVU776TmO0bnCnBvUoQb4TOghzgsuEKze0ruSaNf5HCGPNq1R/dZrm0WmrMRxLC7TppO3dZ4WIZzZtuCopZbaFcPEtAF+vhLVlc1RpkY1+AYBBHuX6GCPHBrIaCirKhQz1Yx7YvogOaUwjRw9jN5uldqmj6RV64ieTiIq/F2mELMEtMt373969ws6PyJqZ1XRlHw4zzah6lrYgPlCblMx7/KaiY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTAyNzkzNTYzOSwKICAicHJvZmlsZUlkIiA6ICIzN2VhNTQ5MTE3MTU0NDgzYmY0N2VmNGM3MzMwMWIzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeXV6bG4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjE3NDRjMTQzMDNmN2FmMWQxMmI3OWU4NDExMWE1MTAyZDkwZmI3ODZmZGI2ZjU1NmQwMjVjNWIyOTZmNmFkNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §aRadiant\",7:\"§aPower Orb§7, §9Mana Flux Power Orb§7,\",8:\"§5Overflux Power Orb§7, and §6Plasmaflux\",9:\"§6Power Orb§7.\",10:\"\",11:\"§aThis skin is stacked two tall, and\",12:\"§aswappable between 18 variants!\",13:\"\",14:\"§d§lMYTHIC COSMETIC\"],Name:\"§dPhone Booth Power Orb Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §aRadiant",
+      "§aPower Orb§7, §9Mana Flux Power Orb§7,",
+      "§5Overflux Power Orb§7, and §6Plasmaflux",
+      "§6Power Orb§7.",
+      "",
+      "§aThis skin is stacked two tall, and",
+      "§aswappable between 18 variants!",
+      "",
+      "§d§lMYTHIC COSMETIC"
+    ],
+    "internalname": "DOUBLE_PHONE_BOOTH_FLUX",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "DOUBLE_PLANT-1": {
     "itemid": "minecraft:double_plant",
     "displayname": "§fLilac",
@@ -58559,6 +58609,33 @@
       "https://hypixelskyblock.minecraft.wiki/w/Dragon_Shortbow",
       "https://wiki.hypixel.net/Dragon_Shortbow"
     ]
+  },
+  "DRAGON_WYVERN": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Wyvern Dragon Helmet Skin",
+    "nbttag": "{ExtraAttributes:{id:\"DRAGON_WYVERN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"da38ce55-30bb-3f5f-b6cd-2088e0459912\",Properties:{textures:[0:{Name:\"textures\",Signature:\"a3XAqCnZUwiBtiaj/k69hXiiiwSWYfHTytP7T/AntiCeW3JVbVfcCUvmyMo5dOvNplXWYFbTqm92I0TmUPZEB3t18AFSOomLgXCcIfQdjG9uDNDXt9pwjb2zp/yIn2NNiZ1/vOv4iuwp0x7GwKxZlkf3QyjXjnp03Z0gbuuGAA7soF/HFXMFxkrEkjZxNxfEMtwDt1neNy3g57Nm0s9iAVE01Tg1eMdGqJlxaowtQJjkOumQdZyyfhUvoYcu3ubGyQaqgjkcSXYYzw0fezC2oejg0RKu9WH+Smv2fOM+TF+XifZKuwEoF9W7+CJ9PRMkB8wZ+/aSqgXnTUhfJZ3hSRXF1eyWRiMPf8uiPaW8kthef8plbIZiAkkYY/TjPizQs5wkxof7ACC3TUwURu6Yfl5c78d85Y4oP2QVl8B7Z1aYwZ9G7Wb7K9Buv1eeiEw0JJomYVFyfglgMuGUuTH+mtig+UFGLCl5vzOGU0L3h9tSo3XyE86Gwo3T29vfQstTgWNOPB6be2P3MJxEOv+RkApeVw9ey2x5zcv3lyRvny5UIefGoCwRDTYNjPufpbshJrby1bNkflPXjWOnXRdE9F8AvFJl24kx8SMyDx4cOcsLJCTamcMVWesMfK6PkbeqDs/nh0tuhOcn4U9Wk8+AER/8Or8tmCdu6/qb5dqudyA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTA4ODExNTMxMSwKICAicHJvZmlsZUlkIiA6ICJjOTQ0MTdlMTY5M2M0NDQyOWNiNDhlMzU2YWE3NWJjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBSlhYVEhFQkVBU1QiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2Q1MzZmNTEwNjllOTkxZTg3MGRiODEyZjExNmFhMGNjY2E1ZjQwNGNmNmNlNWRhZDMyZTkyM2JlMTAxNzE4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to any type\",7:\"§7of §6Dragon Helmet§7.\",8:\"\",9:\"§aThis skin is swappable between 21\",10:\"§aflying Wyvern variants!\",11:\"\",12:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Wyvern Dragon Helmet Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to any type",
+      "§7of §6Dragon Helmet§7.",
+      "",
+      "§aThis skin is swappable between 21",
+      "§aflying Wyvern variants!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "DRAGON_WYVERN",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
+    "infoType": "",
+    "info": []
   },
   "DRAKUU_NPC": {
     "itemid": "minecraft:skull",
@@ -60116,6 +60193,26 @@
       "https://wiki.hypixel.net/Aurora_Dye"
     ]
   },
+  "DYE_BEACH": {
+    "itemid": "minecraft:skull",
+    "displayname": "§bBeach Dye",
+    "nbttag": "{ExtraAttributes:{id:\"DYE_BEACH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d2d7127e-54cc-3a7b-b103-91db117b6cc4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"RTq6m5LY1kUOXWVDNwL0d9c4FGuowPvxsGd5HhduV8pfcugGiL8pkhIGne5jBhzhlT3SdgIQgwYQnn/1PwgzQaZWqebasOdSaqmXMWS+oIDqSefkXfkYBDDfSX/3IL7P1OiOtPwxaowtHb9x4oD68CJ7JFBZGAeZbVv+MGyJH4NKsT6oNO9tUHFC6fNgr9SATbaAoRzP8K2RRnjLthR6mrQwPHuxlVJ2MbQBINmGyoMxaWDPrhUNkHPrmRYL2Bn6fouhXxPBaoc5fbnbjhfVMWRvso6lDXimy6IUipUFNLIJp5WEiA6g7NsVgfH3pAdo5DK6XPCSvLrfMGplpKzU8xwv0GNlZyyP5CTR10X6llKvgBRx8M9EuEzLmlPledmhyUbBgtnvPiS5jtsHVOoyTmIuyqbY9FaeDwuZ8pWpwquePhCSZFL/JNshcGML3NbdPPwRM81rX6xm7jZeMFi0WnabCs6SeyFcnItk2ciZuCmMh3V3oXwiLm0kxKomez5mctIz6/LhLc+d0unbYPuHOwIeg5oZG7hdwScb2dHF+FWYZDqrAtHc4TkCvj5QJAyltKE4dsmkwxCbjbr0IV24T0xbUcfCgoOaxsU173VBO4qbB9JLmyVterZhrFLz5uVXEXq9gJOo5XDBJ/LM/vYzJM9rXGlKio6N+9i+0Aw/1yw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3ODg0MDI3MjA5NywKICAicHJvZmlsZUlkIiA6ICJjOTQ0MTdlMTY5M2M0NDQyOWNiNDhlMzU2YWE3NWJjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBSlhYVEhFQkVBU1QiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGUzYjNhMzJiZjZiZWYyMzYyN2U5ODk5ZjE3OTQ2NmRkYTgzMjE5NTllMjJmYjFjMWU1MWU5ODQ4Mzc5NGJmNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Animates the color of an armor piece\",3:\"§7between §b#43ECC6§7 and §b#57ECC7§7!\",4:\"\",5:\"§d§lMYTHIC DYE\"],Name:\"§bBeach Dye\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Animates the color of an armor piece",
+      "§7between §b#43ECC6§7 and §b#57ECC7§7!",
+      "",
+      "§d§lMYTHIC DYE"
+    ],
+    "internalname": "DYE_BEACH",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "DYE_BINGO_BLUE": {
     "itemid": "minecraft:skull",
     "displayname": "§1Bingo Blue Dye",
@@ -60325,6 +60422,29 @@
       "https://hypixelskyblock.minecraft.wiki/w/Celeste_Dye",
       "https://wiki.hypixel.net/Celeste_Dye"
     ]
+  },
+  "DYE_CHARCOAL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§8Charcoal Dye",
+    "nbttag": "{ExtraAttributes:{id:\"DYE_CHARCOAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"43b6cb6b-a7b7-3853-bc68-54f5fecc4d52\",Properties:{textures:[0:{Name:\"textures\",Signature:\"HxH00e9PxrhJo8gpAf7ObqIDRATt6YfvaQi/rBWa5GIz2ltf3TRN/cKofIBiopXvL9+Gu0mC95jut5mBSWczuOlZVN4Oy2VRkR3AhgYMohYv547TuEbo57k/29Zz4m6VOwLYiFXe139frPVfTyRR2LT2SfsOHVU/miUtq9LziIKYrpyEpF4O/eVN/HBYzFTVhNcQ9GV6/tUiBMWv3NYxTwAi67HPG+rwel2zOnnxY268RkE4OG75t7m6Ch9RRVqUGPcJK0vLwIuReJjCzvCTWWaqhSNn+hBsz+IwSaKH2ilqgOT2aqylCkEu6xs+SEFfccomSjphavx9TGosCCdz0CSb2BXWHPr/g4Jql/ybkWOeCSz5MVa/v+qOn8QwdKWwq1xOHVJg1chiWm+xodVcIaTZwDSQZgZCKIZV212rW3QOwTDqyUN9cSc7Oksirg9qAcazFazoT8w0T+kMehsedNr18NbBU9IOB6taAKro2E8jZqCiou8jyc1hDU49HOxtnDliwX5YLKszGp2eZ2lWFyHVjTU7NWqBN52XT7tkR8fvPThO3CrNJetzjV2GiYC7BWmIvFsSn7LCYeYyOfTefwxPL9fv1JIOqaHagoanETStpGMyG8SUF8G/ZQYKklda1XtIjuXHiomn6q3Svy1bXYaIkNwI6ZlWQqnHbCifcVM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3ODg0MDI1NDA4OCwKICAicHJvZmlsZUlkIiA6ICJkNWRmZDkzNjA4MTg0YTdlYTgyOTNlMzFlZDY4MmI5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzY2htZWtlbGRvcmYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjZjZTZhMDU1ODAwODY0NTk1YjcyZTcyYTViZGExMDZmZmY3NTk3OTg5NTc1YzIxZWY5ZWU5NTBjNzZkNDY5ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Animates the color of an armor piece\",3:\"§7between §8#21262A§7 and §8#202429§7!\",4:\"\",5:\"§7This dye also displays a §6special\",6:\"§6particle effect §7when equipped!\",7:\"\",8:\"§d§lMYTHIC DYE\"],Name:\"§8Charcoal Dye\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Animates the color of an armor piece",
+      "§7between §8#21262A§7 and §8#202429§7!",
+      "",
+      "§7This dye also displays a §6special",
+      "§6particle effect §7when equipped!",
+      "",
+      "§d§lMYTHIC DYE"
+    ],
+    "internalname": "DYE_CHARCOAL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
   },
   "DYE_CHOCOLATE": {
     "itemid": "minecraft:skull",
@@ -82943,6 +83063,31 @@
     "clickcommand": "viewrecipe",
     "useneucraft": true
   },
+  "FIREWORKS_SHADOW_ASSASSIN": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Fireworks Shadow Assassin Skin",
+    "nbttag": "{ExtraAttributes:{id:\"FIREWORKS_SHADOW_ASSASSIN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"097029c8-7cf2-3b88-825a-dc8dd15fa5fb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"j4VvT7v6ScrkocouWq87d4D/+VQ3pyEWcNtrXtSrZK07NOZ01RZcfm5to08b/RZMWoQdyqVqpX1TIiMC31IFyTqlFSPNb+AHMTn3oHWqfPN/AKeZfaQdLnxemETBgrc+aIGykpRgpf40KMgL4EywwI4flMyYeeLU9NxuyyxHNgOaYgrphYZGqqX0l+KTE3PIi90VYJRp8YRwXTCQnTFXN6tf/ikEzMyKQtOsIEyicygyf88fY/Q2aNf9FrapqGQlHqcAg850m51AGOdNZNx9B2V0gzKFRgLx7/1ygamjlPff9EMhyhEPqDdTUhNCfq5d9SUD7gGXMSfRs3ldlDbKyndRKd1GS/z8bNQbALRlkgGUUbAq12CkkRdwHGcieNMOyB2r+XQzE/yB89ok7mIzsW8N0vUj9BFo8PCpaFA4dqIGmxEVkI2+2T/SJ/vnSRT4/A2cMzBcCVZenYzZeuElWK/dlJyBt3LvBeA3EzKzKi8zKkmOPOWk5Sw/Pq+iDyD1YtVeHYoA1qi3mY9P7iRNgH9NulWcgqj26/Gy7HYuMzdd8YsEwvUCia/srLnmtUDUZc1VyygKKg6k/ZVQ6RFVMlWkLYzB3Y+ecU1GrWoFdp7BgoM/pUWvDy5owgF6O47SU7a57SLWpAfB43P3Eev8lf3xuk71EGY7eDotBavobJc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTE5Mzk3MDg3MywKICAicHJvZmlsZUlkIiA6ICJlZDAyNDVjY2ZjYjA0NDM4OTVmMGEzYmFjNmM1YTFjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYzBjMWM1YjlkMGY2NWRhMmY3YTVhM2VkYTg5MjQ4MGUyZjlkMjgzYzY5ZTBiNjU2ZmJhNTUxOGExNGQzOGMyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §5Shadow\",7:\"§5Assassin Helmet§7 and §6⚚ Shadow\",8:\"§6Assassin Helmet§7.\",9:\"\",10:\"§5§lEPIC COSMETIC\"],Name:\"§5Fireworks Shadow Assassin Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §5Shadow",
+      "§5Assassin Helmet§7 and §6⚚ Shadow",
+      "§6Assassin Helmet§7.",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "FIREWORKS_SHADOW_ASSASSIN",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "FIREWORK_CHARGE": {
     "itemid": "minecraft:firework_charge",
     "displayname": "§fFirework Star",
@@ -88775,6 +88920,28 @@
     "y": 125,
     "z": 299
   },
+  "FOSSIL_MUNCHER_PERSONALITY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fFossil Muncher Minion Skin",
+    "nbttag": "{ExtraAttributes:{id:\"FOSSIL_MUNCHER_PERSONALITY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8e225c25-4ade-3b2e-8fd0-58c6935575ca\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FzT3p/ZLioiTqG3crZ9AMlOUcnF2VPXnjDAh4I/dqc2ry67q+xYB90sdAERUD/dnrVpLgWSNvWKLs2MTXamQL3JvAE/dcsyl+uuWzXFTtzN5ahcBVeWNtRUK4rsWykyQaJPYC0iqogBSIIOARHqnhpYoNHjhC0ZRDUBea001QJ9/X937cLAD6c9Kh/PhnZGPk9mR8uSShJJ3b5a0TKdIruC2Qr7g9PNo+4A0murnFUve04SXLNDOal0CVt6uvLSLJ1FBeb2rYOSUxMSYo5Zkn5T7wdVHGhhdZNH1gAGBk29jvg3yJkoH/Z1qXi0GEBmoOCR2cfx75VsGT42eqJ9RSwImiBqBqQ/TojeyyCIjM/SnRAqrFVWfz5PIJ1CjdEks5S2AqhFGE8bWhfLof7vhQgi/xmH7Y/WgKXanvdVn4XLQS8W2/Io6yl0SOTooGvr9SVwcjkLQ9dh6hJgOiq2E7sAnbr3CWzsn2bP9kHKXn/+Ky4E0SEJFlccWNVOvnMEZmWnOOztUKk42vvF9hNQLmvrRvEi2GoYdT6u9aEVDCMW2wqzpnsaZhMMKN58DVMZQiakNG8FPhiO6Tu+kR6DYzkkE2GNckW+z7pJuB+SQG1pSkA/trvGvKuC49uuj3m2W5VO45dut6rX7EpGH56EnMxZcJv1UkLQ/F/wBJ7V+v6U=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MDk0Nzk3NDI4MSwKICAicHJvZmlsZUlkIiA6ICI2YTgyYTNiNDNhYWE0NTBiOTJhZjRmOWM5ZTBjOTFmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKYW1lc0dheSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzhlODdhNTVlYWExYjY4NDhiMTM1MzQzMzcwMjUyYmM5ZDRhYTkzMGFjNjcxNmMxOGFiZDI0ZGU0MGU1NWMzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This Minion skin changes your\",1:\"§7minion's appearance to a §eFossil\",2:\"§eMuncher§7.\",3:\"\",4:\"§7You can place this item in any minion\",5:\"§7of your choice!\",6:\"\",7:\"§f§lCOMMON COSMETIC\"],Name:\"§fFossil Muncher Minion Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This Minion skin changes your",
+      "§7minion's appearance to a §eFossil",
+      "§eMuncher§7.",
+      "",
+      "§7You can place this item in any minion",
+      "§7of your choice!",
+      "",
+      "§f§lCOMMON COSMETIC"
+    ],
+    "internalname": "FOSSIL_MUNCHER_PERSONALITY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "FOSSIL_THE_FISH": {
     "itemid": "minecraft:cooked_fish",
     "displayname": "§cFossil the Fish",
@@ -92464,6 +92631,33 @@
       "https://hypixelskyblock.minecraft.wiki/w/Garden_Scythe",
       "https://wiki.hypixel.net/Garden_Scythe"
     ]
+  },
+  "GARDEN_WARRIOR_FERMENTO": {
+    "itemid": "minecraft:skull",
+    "displayname": "§dGarden Warrior Fermento Helmet Skin",
+    "nbttag": "{ExtraAttributes:{id:\"GARDEN_WARRIOR_FERMENTO\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"80cd2ca6-c8ba-389c-b9c6-be87b1680bae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CQucsZ7ta3lwgRpw2HnsmXHkRYa9zt+CIvR/CCWamREZbIkTGXCSnNsDD14pfge+3TjcG5vGbo1zoDlK69rdJSrSuQy3D8310VNT1WXWZF55osGvqcVvJxZAOL8O8vVTZ4xlr8U8OGlG37PGtdsPAO8Sgx2Z9vVHxUdqO5Rx5jvlLv592JrsT9pAyi/LB7uOpGOWoUreIZL0a+0SUZczDzmQe0lCo360m+mVs5BSoiU9vZ2yF1bv0BknWi+FxXqZY2/wcUBE8K+xQvZ2MFys9sL7a2JiT/hTdhurel6DSWhOGTU1BTWxA9tUg3e9ZBy/gh5cO81iD1oOma99iPETVnUdfddl3jAOnUiIXniAU54UeqBm+vgHZGtMKhwLm+wcHbXgj8pVfapobhXYTcvEbXQ53s1FuyuMYq47GK6DvE2MYwPkZtrtLHHSI9Y/aH+l135F5RNJMv4XKK2nyA0+an6w9dfbPCQ4ux/c8l/oWLoscAqe9myxEex47KggdlevzVdCxrgaiGwvkHhorRXnWx2IjCJ3q+A0+GguDEhj54P6SGpJmwsNTYm7451CCEibzQ/zLuW5vzl1Neo7d1IQYUbmAoDyM9AVRR1oQtOInOwn8q050BBXdnmQbw0dfN+s66Hb360Awd+4ghZ410dihygehjo/BcYtpZnyCtKMcxM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTA5NzkzMjM2NywKICAicHJvZmlsZUlkIiA6ICI3MDYwMDk0OTgyZDc0MTczYTNjZjg1Zjc1NjQ3MGE5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbmV4YWN0b3N0ZW50YXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWI0YTM3NTRlODJjYmJhYTFkYWUwZDIwN2U5MGZjYmFkNjdkMDJkNzJiYWFlMzUwMDNiNmRmZDA3NTUxOGVjYiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §5Fermento\",7:\"§5Helmet§7 and §6Helianthus Helmet§7.\",8:\"\",9:\"§aThis skin is swappable between 20\",10:\"§agarden themed variants!\",11:\"\",12:\"§d§lMYTHIC COSMETIC\"],Name:\"§dGarden Warrior Fermento Helmet Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §5Fermento",
+      "§5Helmet§7 and §6Helianthus Helmet§7.",
+      "",
+      "§aThis skin is swappable between 20",
+      "§agarden themed variants!",
+      "",
+      "§d§lMYTHIC COSMETIC"
+    ],
+    "internalname": "GARDEN_WARRIOR_FERMENTO",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
+    "infoType": "",
+    "info": []
   },
   "GARLACIUS_RIFT_NPC": {
     "itemid": "minecraft:skull",
@@ -112523,6 +112717,27 @@
     "z": -3,
     "island": "hub"
   },
+  "HOPSCOTCH": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Hopscotch",
+    "nbttag": "{ExtraAttributes:{id:\"HOPSCOTCH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d792673e-79bf-393d-b38f-da7c2bd6d6f1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Njp+utJNiVHTf/7stBd+7ElC9pqWP0YEqtiWJuQDkmTHzoyKotrupkg/ZsXlB0fErtEfYR7LNokGYhK9FcQn0NwJbc7gK6fndCQZQ51+jgY4x7Zj3Jx5YZQuwxXdneQDZXi+EMtlWqzzdEh6Cl9rtmkb7o8RR/7C3MyUoSIgGXRPhEo9oZMi0hrQc5MjaElRJ42QeZw/cBL5fN6S7Q6wQV0cnwl4JGEyxPACMX31kT8iglZ9aD1rNHrEkA+m5gwUHZerrvYsMuziKw26xxXvfqdf90RYYreMlga5Pr0nL0XlYxA9M83UOCRE9uMMmBC4IP3RVRLAM4fYQr9CC+c2VgvfUsrDzrDVjVTYkAthPryXQnBIgrUKWPmO3SuhUQONviepfOes97SX0Ca9cKNjSxwlBuClgu6tG3mxfS0XB72uJaz8Fz0EPsPi5nPVcETTqbBIpZ7kdoneu6BQRVh/Miv17rAEM1N3jmvzYS5kekJH28FBTa3/UAngODARROOb6IkW1P7VkJEIvAk0U53J+V3GtL6JP1AdAZua1rneBPBv9+Eeo/EAEA0/43Xm6EGeC1Ic5pInKIa9/latVUORlVGZWWBEPIFqWcn3Bu+XjFlnmThy8QjJ6MOu5kQkSYEFxgNZTC0/cBiD6v2QQN3X8xtUSAHWGKqN4lkV5r71yIY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTAyMTc2Mjg5MywKICAicHJvZmlsZUlkIiA6ICJjZjc4YzFkZjE3ZTI0Y2Q5YTIxYmU4NWQ0NDk5ZWE4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJjcmFmdENhcnJpZXI1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY2YWE4Mjg0MjMwMDQxOWQ5OWIwOTRjZjQ2YWM5MGRlMzNiZjdiMjIyZDM0MjAwYmY5MDUwNTIxYmIyZGM5YmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Furniture\",1:\"§8Summer Cosmetic\",2:\"\",3:\"§7This exclusive §aSummer §7cosmetic can\",4:\"§7be placed on your island or traded.\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Hopscotch\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Furniture",
+      "§8Summer Cosmetic",
+      "",
+      "§7This exclusive §aSummer §7cosmetic can",
+      "§7be placed on your island or traded.",
+      "",
+      "§5§lEPIC"
+    ],
+    "internalname": "HOPSCOTCH",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
+    "infoType": "",
+    "info": []
+  },
   "HORNS_OF_TORMENT": {
     "itemid": "minecraft:skull",
     "displayname": "§5Horns of Torment",
@@ -126335,6 +126550,32 @@
       "https://wiki.hypixel.net/Kismet_Feather"
     ]
   },
+  "KITSUNE_TIKI_MASK": {
+    "itemid": "minecraft:skull",
+    "displayname": "§dKitsune Tiki Mask Skin",
+    "nbttag": "{ExtraAttributes:{id:\"KITSUNE_TIKI_MASK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dedb161d-08e2-3e66-bab1-2d92ae49aa99\",Properties:{textures:[0:{Name:\"textures\",Signature:\"NF4ZBl7mAvNXkAlyNDrjIz2iVjxCrTIRZXO73+/pi5RH0oStOP4i0aUrJTsZrd1yoSYvsufZduCpZdN0BT7bjHsJ0YOWcs25zrEor0m7O98wT9izysJrB1NoUmt1xTf6txpnzUCWLMBRnxXeLAHjBItwFhl4sKaQ89CS3K7GfckeLdkTRpAICczVzJYcIjH/51Cg6mMLpEMG/ozTuh4uGkfth9vtUjyiNHqKgKpVy5ZJm15rpCmY5NhqPVrvI2waQoceZawrYXUknDZght+Dhe9317NslTmv24bg/AoTafb4J84o/NabyCYXhtt/qjbSef+29IuNwlHTiCCdx10/K37JW/bnfkMey2+LZndqFtDGNKxUTlrPqkVp6nF7PvMxn1x+zLdcMOQra2cY4cvFAoxxa2cLpdZN7X9ke9x8AlgAbvHx8ASw4o3t56/QoKr0hLP9x9cnVGl87wrARlB/e59lSuuvGjQO3q4FUcDTuEDMZG10EvRSa7zeglhQLBwPhVCUU2cwfLSRM4KjFOUTmmHPRKTLfXPBM8+XMNil9EJnLbIGdS6So4sBCP58xuZbAezO//eLn2AVLa77gZ4myMYPJH5YcbjYjqOUSWQLRyD+3KeY4GFEI/ixBBxiHJPJ3SA7verH8eNaMmX4AbmI49CghzrC8yvwi6NyUeg9twE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTA4NjA5OTA5NiwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzdlYTEzNDA5ZTIwNDI3ZTgzYjI5Yjc3NzJlOGQzMTRiNjJjN2VhMjBmYTQwOGIwOTk3NjAxNDczMmRiY2I4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §6Tiki Mask§7.\",7:\"\",8:\"§aThis skin is swappable between 19\",9:\"§akitsune variants!\",10:\"\",11:\"§d§lMYTHIC COSMETIC\"],Name:\"§dKitsune Tiki Mask Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §6Tiki Mask§7.",
+      "",
+      "§aThis skin is swappable between 19",
+      "§akitsune variants!",
+      "",
+      "§d§lMYTHIC COSMETIC"
+    ],
+    "internalname": "KITSUNE_TIKI_MASK",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
+    "infoType": "",
+    "info": []
+  },
   "KLOONBOAT": {
     "itemid": "minecraft:boat",
     "displayname": "§cKloonboat",
@@ -136162,6 +136403,7 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Luck_of_the_Sea",
       "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
     ]
   },
@@ -161895,6 +162137,27 @@
       "https://wiki.hypixel.net/Owl_Pet"
     ]
   },
+  "OWL_MAGE_PERSONALITY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fOwl Mage Minion Skin",
+    "nbttag": "{ExtraAttributes:{id:\"OWL_MAGE_PERSONALITY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b9b20623-a1ff-3cf7-980b-b8194551140e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GWjZ5ZM4RWQ2AsZxTJpkeUo445wS8gRysX5VMqx0gl1ALlbyIsyfilSTKARgDeh8jVKUVvO6UazhPwqLgT5PQG1eEotkhvTgcz0JpISyQ0sNcdP5/xsFzc5+/qwHYKnJl0eCXxJgoMOLmHYS5xz4KznsxbaacdxOICOvBqkZMEdisl9vUNJ15J05SKeyuB+dS8phN7fRGOq7uJYvQB9233Gw+G4Qf9ouFAmyVXaqffRBIbg4BMVRlon8FrivNpz5fp2WfgyAFe0J2OE/z2cnNBT1NXenLk0WcihM1p4zuwPsRzU34+p7K76JeAkyb2kFnjfYMpo3BJ7HjFu9K26DtPFFMGxO3Xi9/+WUwzAg3T90RHTKmzdVjYF8HABPqtgPg6RhiDBbWYhiKjH53ni8mUOLGT3kEccotM28YURmIIzrcVytt44ROXg+congbzSdqTtmXMg06JfRwQqucg9PAPMk3GGRWVGKTZo+HaPlQMZV5XahHdAEADVGphGuzfe2MdNwPimYAJeYqpS9+k5cz4CKkrQKb+db7cYRgfpgsUKrXtAlo5gfyPCm9J74H1SFbaVq6eu9JgoVZhFJ+YV86vM61otSIecYNq7hA8yep9JD5VorC6NFpEqu48VKdr8G9bW+qL/T8DUmBbfIJYDwMQsZoR+42L9U8gxYqrqzEjY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MDk0NzEzMjMxMiwKICAicHJvZmlsZUlkIiA6ICJlZGUyYzdhMGFjNjM0MTNiYjA5ZDNmMGJlZTllYzhlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aGVEZXZKYWRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q2NDZlMzM2OTZhY2MxYjgxMDc2M2U3M2E4YjliMTE0MmViZDE3YjdmMWYxMzliY2ZiM2VhOTMxZjg3MTBiYmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This Minion skin changes your\",1:\"§7minion's appearance to an §eOwl Mage§7.\",2:\"\",3:\"§7You can place this item in any minion\",4:\"§7of your choice!\",5:\"\",6:\"§f§lCOMMON COSMETIC\"],Name:\"§fOwl Mage Minion Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This Minion skin changes your",
+      "§7minion's appearance to an §eOwl Mage§7.",
+      "",
+      "§7You can place this item in any minion",
+      "§7of your choice!",
+      "",
+      "§f§lCOMMON COSMETIC"
+    ],
+    "internalname": "OWL_MAGE_PERSONALITY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "OXFORD_SHOES": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§9Oxford Shoes",
@@ -171765,6 +172028,36 @@
       "https://wiki.hypixel.net/Ivory_Black_Cat_Skin"
     ]
   },
+  "PET_SKIN_BLACK_CAT_LITTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§dLitter Black Cat Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_BLACK_CAT_LITTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"78684538-30f4-31d4-bf7d-fd1607f11703\",Properties:{textures:[0:{Name:\"textures\",Signature:\"u0GPaHs/3gub4l5MzVvwOnLxQ4popDkvzJauXoqNvseA1o3O9uGmAZaV4xTwWRVjEEoUKgGtwjL1UiuZrw/eAPckNWGaR1ElwWIDYrmG/ltVoHtma0zVm9EAZXA5skxiT6Y6+1YK/YsS1+1ieccWLnCS0RQ4O+VlGn2nFdixXikjNG4qUVGPPkqPoQXW9izinW3LGzEYgYkXaibk/1PxRceRsFElEOhY9573UItKAIlyISii9zuICqiB+cBqka4qpBs+hzlkNpTG3sWNxeU6fcy1SoryTyTmg5GCQfQDZM1HB9uXNpzl0K++FulQHnyZSNN7C0LEvn1eM5Xu7DSEpjx2QuhFFpR5QH87Obzl0QEnks/yMaiR1SJrz1V62NbpyYvLYv6keq0id+mtCWo88KJBB480+Phee6WPlD6qDbbCKGPTXwTIT+RXwFPZk7yPTExkGu3c3TmZE8jKUrfp2RM0Dy7f5iy2gSCDmphm6KHz21fies1Jrq1twQDt087HkT2dntRTIJqw15PEaT8qxGHJ2ucAwxwAFGGmNSClcKi6Kff/kGqJsZuLFNkk7KN75T9Y4gTuRC7GjiVCNgkXyjSnAIYERniojZUCxdbzDWyTNWL8rsTOnzu37UnjVYM/vawB4h66JhM+uFjaKFyJYebFaVpoDDt/AOhNbMtsCaI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTAzMTc2MTA3NiwKICAicHJvZmlsZUlkIiA6ICI3MDYwMDk0OTgyZDc0MTczYTNjZjg1Zjc1NjQ3MGE5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbmV4YWN0b3N0ZW50YXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2JlYjA3MjcyM2RlOTJiYWZiMmEyNTRhZDEyZDljMTdmNDg0ZTgzN2JjNDJhMTJjZjhhNWQzZGVjN2ViOTE1YSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aBlack Cat§7 pets.\",8:\"\",9:\"§aThis skin is swappable between 19\",10:\"§aanimated kitty cats!\",11:\"\",12:\"§eRight-click on your summoned pet to\",13:\"§eapply this skin!\",14:\"\",15:\"§d§lMYTHIC COSMETIC\"],Name:\"§dLitter Black Cat Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aBlack Cat§7 pets.",
+      "",
+      "§aThis skin is swappable between 19",
+      "§aanimated kitty cats!",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§d§lMYTHIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_BLACK_CAT_LITTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "PET_SKIN_BLACK_CAT_LOAF_CAT_BLACK": {
     "itemid": "minecraft:skull",
     "displayname": "§5Loafed Black Cat Skin",
@@ -173993,6 +174286,36 @@
       "https://wiki.hypixel.net/Harlequin_Flying_Fish_Skin"
     ]
   },
+  "PET_SKIN_FLYING_FISH_HUNGRY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§dHungry Flying Fish Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_FLYING_FISH_HUNGRY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"56912224-aa97-313d-888a-824aa29844d9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"AEQL8bHjSmSWHWEXd9ox1B50cRdaenadxUOLGQEjpxjD4aBdBrBl55YopWCPL9p4UzCz3cF80sqEnMZhPuLrJPpHU1rypN5YPXCgWWF7q2V2N5iWM5W2S9ID2moCEmwda2rvNbkhG+w/BIyH42OGOG8sO/qPuuUoUNfP5ObIeVJtsFAulxnlzggl20P0nN6oTqMBk52qbTqYhjbf4XSoY0mRH+Y9A6VImau22DB6vlHDEzhUmcU/aLiZfGZEzCsUWzxObZMbOYhf6CoVprgpWKOKfqAztMUAjaVslZMgMR/f8LFDL/FY9thNm++cbiWocwmt2vwrAdxjdkHTBpEBCob/yA5bxJnn8KBKsMfkfc3/eG2fFDLrKegHZzhNzUx7JMbiSWjtuZyKSdQeYuhm96oAWNZe3XfbNLYGg0iRGFZZA95twKDglmqQBw2s3OeUVGBhgkyKKpggWhgtAcA+SlVwQnXzg6pJt7nrbKzglOZ0MdcksP10V2bws75vukvPoXJeficMI0O52diNS3czpme8JdqgZrECLMkYjtzCmRBSPh8U8sly0yhGg/ierGXB+bFlqC8s5PaAJWzaZi5UqCIBmcC6AxoVHprp0yz8eW/nv+zUaD30ZnbWtuKoMuAKi1sAfq+eT6/oGaqXJ4uX/mYUXSg5oNV+rw7a+Shm7L8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTAzNDY2OTE2NiwKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YWU2N2M4MmZkNDYwYmFiMTk4YmEwZWU0NTI4NjMzZWFjM2MzOGQ2MjQ1NGZiYTUwYjMxNzE4NmM0ODZjNjI5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aFlying Fish§7 pets.\",8:\"\",9:\"§aThis skin is swappable between 200\",10:\"§ahungry fish!\",11:\"\",12:\"§eRight-click on your summoned pet to\",13:\"§eapply this skin!\",14:\"\",15:\"§d§lMYTHIC COSMETIC\"],Name:\"§dHungry Flying Fish Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aFlying Fish§7 pets.",
+      "",
+      "§aThis skin is swappable between 200",
+      "§ahungry fish!",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§d§lMYTHIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_FLYING_FISH_HUNGRY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "PET_SKIN_FOUR_SEASONS_GRIFFIN": {
     "itemid": "minecraft:skull",
     "displayname": "§4Four Seasons Griffin Skin",
@@ -176172,6 +176495,33 @@
       "https://wiki.hypixel.net/Sock_Monkey_Skin"
     ]
   },
+  "PET_SKIN_MONKEY_SUNGLASSES": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Sunglasses Monkey Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_MONKEY_SUNGLASSES\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"edc9391c-e484-3ea4-8963-a8c75baeacb2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"m78Va2Td6v67zuwHDxmpowZsIc8Z+uU6eP00ix8KOpLwllFQScoA8JrlX1D0SVOt1gvFPvzJmHdxJtVcWZeMSVxyISANXwGCe1bsuZDogVTc0UX4VAIuyo2kRIVuOvekNnht144m/iPGg81E7MNWrnwgnxG2ZeN3Vpley2osisdGr8cQmwE013dj45cVmjxkSb06iFGnBtsH55ANg/2SESoDt8uX07wWmjdYwvQAgTsP/XR/nm83Cd04Yn9Xr52cT6Zu8zDn25wLIe2MZVrCDs2JnRjzHY8VBSfz3WMlaPSyP6mb0zAOhGwy3m2eIdXcpdsC4Aur6Uvey9HKWH5a4k5f7qce9EdRIrHEX7aA4VZrR4hAq1vtllcbZUa+L3nVJuZi4fCHQYkv+5ZSv0VXd83cZG75G6Duyaly/jNsKgeqYuJe5/kuQRir57Kok36HLQC/aU7zRyYO1dqO2cy8My6nwhus3psfwYxIXrm15TXDgQ7Uem/4gjR+WLQnmVWzG1opFbO0WQuzrG5DepVkU+AjqghQ/LJQA5pbqozsz+t2ft5KWLivYZadGX24Cwq24BoXpQgSxvy+/pRUk/p2MMfD2/n8k/c5meVVoxwdV08djl/G5WBOGIUu0HquVohtNzLVEwMwZavnL5x9/77sRrnfthrAbnC1xtIbRg6j6Pw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTA5OTQzMTc2NSwKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2NiNWRlOTRmODE0MDY5YjMxN2IzMThhYmJlMGQwMDBkNTFkZmU5MjU4YmJlOWU5ZTg3Y2E3ZjU3ZmY0NWRmOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aMonkey§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Sunglasses Monkey Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aMonkey§7 pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_MONKEY_SUNGLASSES",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "PET_SKIN_MONKEY_ZODIAC": {
     "itemid": "minecraft:skull",
     "displayname": "§5Zodiac Monkey Skin",
@@ -178146,6 +178496,40 @@
       "https://wiki.hypixel.net/Thinking_Rock_Skin"
     ]
   },
+  "PET_SKIN_ROSE_DRAGON_PETAL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§4Petal Rose Dragon Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_ROSE_DRAGON_PETAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"3c7d1774-4add-3e74-bbbb-518a2ea4647e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"lsra71mZSmLmN3vJt/GsHSGj/BTcTc3O2+krGO/h93oHoY3irwiX6Jn/iWBMx7PVr2pMRTnChfFpg0Xi8/yvqQ41PoVTBk3hMIjABK4QuP4pq7nKF4CoL0dYGFjM3hJ6P3GgS5zb44Uuem4n9EJdSaUWU1FpSOZR94yWqKGYKEFF3lqOAz7GLLOXOvI9Fvdp3lnpDtwIPmw90Lac3lQLXr0TXjILvMfv7kO555PMpQtdjQUeOYlSZdavNHWVv0VGUwJuTpJoJ9/AoI+825xDpqLE85Vt6JKP4Gf9pn5M8mnQxzuDdfJ2/Hnwxn/bZwNfpbgIEUluhK+1InVYbNJuxkv+kodBcC6oz609R4KvotxOkm942uBTWUcAu1sKXqQBJtinh5aebXzmFwi0jj9wlxE47fPBnpaB9lgcWYr0/a2dqss8ZU/larXxGBC/yup2tPBrxFxwVJuwDMPioFtuW5MtVeSm3PzO7G5Lx8XHEB7M+9rkfQRtrTEmvv5nfctboUBuV49Wz+CDSe+ayidzo+wSrikCuBE65PGuxghnvpX1ktoEpt8oUB97q14PblHezaWi7KKR1v5D1RHX79w7zLOc5CIm2BtRTRicZJmJgsqYK4tUi17FQH+3LsPFz6BdVCjbqMUl6OugQE+ipmjpROyvFPk4O0VE3KXE+WDwEWM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTEyNjA5Mzk1MSwKICAicHJvZmlsZUlkIiA6ICI2NGY0MGFiNzFmM2E0NGZiYjg0N2I5ZWFhOWZjNDRlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJvZGF2aWRjZXNhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYjc4OWExNmVhYWY1MjUxMTkzMGVkODE5OGYwNWI0M2VjZTRkMWZkZTYwNTExZGM4Y2E0YzBkZWU3NzIyYmI1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aRose\",7:\"§aDragon§7 pets.\",8:\"\",9:\"§aFeatures!\",10:\"§8▶ §7This skin is swappable between §a14\",11:\"§7animated flower petal themed\",12:\"§7variants!\",13:\"§8▶ §7Displays your cosmetic §aPet Level\",14:\"§7above your pet!\",15:\"\",16:\"§eRight-click on your summoned pet to\",17:\"§eapply this skin!\",18:\"\",19:\"§4§lULTIMATE COSMETIC\"],Name:\"§4Petal Rose Dragon Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to §aRose",
+      "§aDragon§7 pets.",
+      "",
+      "§aFeatures!",
+      "§8▶ §7This skin is swappable between §a14",
+      "§7animated flower petal themed",
+      "§7variants!",
+      "§8▶ §7Displays your cosmetic §aPet Level",
+      "§7above your pet!",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§4§lULTIMATE COSMETIC"
+    ],
+    "internalname": "PET_SKIN_ROSE_DRAGON_PETAL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
+    "infoType": "",
+    "info": []
+  },
   "PET_SKIN_SCATHA_ALBINO": {
     "itemid": "minecraft:skull",
     "displayname": "§dAlbino Scatha Skin",
@@ -179041,6 +179425,37 @@
       "https://hypixelskyblock.minecraft.wiki/w/Red_Sheep_Skin",
       "https://wiki.hypixel.net/Red_Sheep_Skin"
     ]
+  },
+  "PET_SKIN_SHEEP_SHLEEPY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Shleepy Sheep Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_SHEEP_SHLEEPY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1f0210a8-87e4-3208-aba3-0c17f32be536\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Zg4A/FkiFSNQ4kVm3z1s6T+sFzqDEdnoYWXwgD9xJZA+EATzO8b1EoVTMCP7RYqK5NDv7xoE7BG52chCx9XTuXBYgLZtEYzWzyiVhIKZYyLfdFNFbTFsEKXxBVkWFYgYuxf2c0qSWJSVVF8zTt0m8p1jkYdalbXvAxy2j0IjT+aNIHlHLeA0ZYa4lhLxrjpU5V2dsfqwZc9LPyIH+ZWRab4srOMRFi6GBrDhaXJQZFP+WCJWQH6zSymWTG4HbPPUG1ZZ092SIYRDq6t9HUiYF25YgWcPKy+N+0lYl9Qiw6qBHhlZXym6m2wpa327IbSa/3YHdXlTb0q/e9tu1KF9SxctsPLHB+WHUmXqxBIuySzPogGJ+mgItB+g8NhCgneTjqLDPfuSvfLcxeQR9P65TfGkuCYUXxybh3atNHIy+kC/tUrNbvSaIOTrafVpCuK0/py+hhW7suIPMSlY7/FYJEZvLNBiTlCViwAkn/E9UZpYxCOYOSkqaKI4hvTukRvDIRUF+SJ+kjAsBm9CunZDKGnTwak+njlteh9xAoQd0l4vdh/610r2xqstPfT44LWhFuYIce+191xJCYMslcITa1PzfAW1VmkhzpLdKE3NS+a7i7YTqPZDNwZ7wzUXaLsWRc0eOQOG2z24t0qsGpfrCbDppAIzxwa6TvrniiTXoyI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MDk1NDE1NDc2OCwKICAicHJvZmlsZUlkIiA6ICI2YmU4ODdiZmRmZTk0OWQ0OGViZTcyYzA3OWM3ZGEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFuY3l2b2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzk0ZTViYzQyZDk5YzAxMzI2ZmUwZjRmNDkwMGMwZjNkNDEyNmQxNmZlN2ZhYmY4MmVjZGVkMDBmOTlhOGM2MiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aSheep§7 pets.\",8:\"\",9:\"§aThis skin is swappable between 16\",10:\"§asleepy variants that change\",11:\"§adepending on the time of day!\",12:\"\",13:\"§eRight-click on your summoned pet to\",14:\"§eapply this skin!\",15:\"\",16:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Shleepy Sheep Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aSheep§7 pets.",
+      "",
+      "§aThis skin is swappable between 16",
+      "§asleepy variants that change",
+      "§adepending on the time of day!",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "PET_SKIN_SHEEP_SHLEEPY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
+    "infoType": "",
+    "info": []
   },
   "PET_SKIN_SHEEP_WHITE": {
     "itemid": "minecraft:skull",
@@ -218195,6 +218610,27 @@
       "https://wiki.hypixel.net/Shiny_Shard"
     ]
   },
+  "SHIPWRECK_GREENHOUSE_SKIN": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Shipwreck Greenhouse Skin",
+    "nbttag": "{ExtraAttributes:{id:\"SHIPWRECK_GREENHOUSE_SKIN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b3a77c6b-3155-3059-ac83-166ce6b9129f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ajgNl3trIsV8gXNmgs6D9SErEtwWVu5Hcz4rw4LAN1Uub8RRKR/yOtAZ3aXI9p+ajUvGdQou2zcSzs3DvkFEsUqQPhRkq9bjjdeE9hSglWtygr1ud38BZDpmj11W43xCYQ9Dgh0rQ/2meJQEuXqKVVE9qG0/RPrsDIzzrGuXu/fcjK9rYGL921ih4/DvVKiLV7UubRUWRAJ1NthGT4xpIEMrSUj3I84G6AQxpx1Kfge80b6duGaF6mlXfUa1iVlKB0+tZmCMFUzGyTu6fhIoX+wBmn9v5P6uFzxDnGFhkEAZEM/Guzh+itdHXEwX3YAbgTVfz1EfclW4SD6qOTJz42HxvYoXU2HWj+RQPnXVDoF292K8TVqVyouG+Ec0f2IRk5ehAE4ELY6G5tpRAATEULa06x8UP9yFxIS/Ucuv1hgdnv/ED1alVVuzH9stLCbJdP0EdHoLvz34bjnOytBRxLJAnIeHn4dIDbisQrwqYbRc+G/AqbpU9DFWVvg7OsKXkvYciwYKnDclndBv9glH4SIFmG70QJvsr1v0ydtNxgLtSfn9EBUOpttK6JFtHhTd7GNyZz/XoeYbCg+JK+zHGGZ7VqoaB6yI/YH4e+rSD7ljSW36LGn97RfkYwVfK67EbpQIw7TZdooOrpydXQlBzLPiU33puPZROfKiOEbJH34=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTI5MTUwMzIxMiwKICAicHJvZmlsZUlkIiA6ICJjOWM5YzkwOWIxNTI0ZDgzODY5NzU2OTE0M2JmNTY4OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6dWtlbWF4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ExY2JiNWE4OWE0OWE4ODE1MDdjOGMyNmViZjBkZjM0MzM3MzNjNjFjNGJiYjM3Y2JjMGVhYjE5ZjViNWMyYWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§6Shipwreck Greenhouse Skin §7on §aThe\",2:\"§aGarden§7!\",3:\"\",4:\"§eClick to consume!\",5:\"\",6:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Shipwreck Greenhouse Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Consume this item to unlock the",
+      "§6Shipwreck Greenhouse Skin §7on §aThe",
+      "§aGarden§7!",
+      "",
+      "§eClick to consume!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "SHIPWRECK_GREENHOUSE_SKIN",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "SHOWCASE_BLOCK": {
     "itemid": "minecraft:glass",
     "displayname": "§aShowcase Block",
@@ -227300,6 +227736,27 @@
       "https://wiki.hypixel.net/Portal_To_The_Smoldering_Tomb"
     ]
   },
+  "SMOL_JERRY_PERSONALITY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fSmol Jerry Minion Skin",
+    "nbttag": "{ExtraAttributes:{id:\"SMOL_JERRY_PERSONALITY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"59d7cf7e-e50f-3960-b5f5-ae2b321af358\",Properties:{textures:[0:{Name:\"textures\",Signature:\"hkigToPknYUVonNQemgTCU8sXmKJeGKOVuu0rVzz3cDe9KOQTgQXTplnNomp/0gEhlSFsSlKaTY3wI/RcUYvmLlMdn8fhw+WP0zEwHRJ9rxdtHQQbQ+psL0+pQA8HXM1jL3EB1zliaC1bRR6EhofkBitjJDRnfHT03ema1UMwHUxHrASn23hFMcilEagVxm5QW0SZKgsWuPi68nwTHygofRVXO1dylWLxJBDirXaI1INih9lYhQqv+mhXzEU7LDCWrzAsW9ZGTTX7ShDmxEj3qn+IAiEQb5MTWgVGb0z5wpTeVIEGml8AjGJSZusxi1kxW+0ZPBzFchNXrHvEnFUUfG2FLTGVbWSLTruWBA6z+fWpMF2+3QbRmDxOehlpNIdZNHQF6SFkBr//ebgXM/cNVZej3lwQL/UGK6LkJeaQ74hjT39jdlQExOiPLD4Pgh07TBFyWyu0Ptp130xbAa90XaX7QUtWw01+Plm5DOuaqJK3WiGAzYWovmbE9hEUtJBcAwF6eCro1wcR0QCgN/LV7IB1r6+ed8spQnS7i8ndpNGvvIX51MfOu0oRHup3szJTJVIASELzXx1wZf+vpSQ/9/2INGrJOMfwIFLaAJtxIt34LQSWZQqEmsbnYiBQnblLkqqmE3yPvGzKD/9Use7BNU8TXFBuddXuGLM/5bgr78=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MDk0NzQ4NTQ5OCwKICAicHJvZmlsZUlkIiA6ICJlYzU4NzQxMjM2M2E0ZTQ0OTEwNzJjMWU5M2RkOGMzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aXJlZGZyYW1lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RlNzVjYWQwOWYyNzc5YTk0YjdiZjk1OWE4M2M1MjQ3ZDRiZGY4ZWQ3ZDg0ODFiZGE1OTE1MzBmNjBkNjUzZDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This Minion skin changes your\",1:\"§7minion's appearance to a §eSmol Jerry§7.\",2:\"\",3:\"§7You can place this item in any minion\",4:\"§7of your choice!\",5:\"\",6:\"§f§lCOMMON COSMETIC\"],Name:\"§fSmol Jerry Minion Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This Minion skin changes your",
+      "§7minion's appearance to a §eSmol Jerry§7.",
+      "",
+      "§7You can place this item in any minion",
+      "§7of your choice!",
+      "",
+      "§f§lCOMMON COSMETIC"
+    ],
+    "internalname": "SMOL_JERRY_PERSONALITY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "SMOOTH_BRICK-1": {
     "itemid": "minecraft:stonebrick",
     "displayname": "§fMossy Stone Bricks",
@@ -235389,6 +235846,27 @@
       "https://hypixelskyblock.minecraft.wiki/w/Spring_Boots",
       "https://wiki.hypixel.net/Spring_Boots"
     ]
+  },
+  "SPRINKLER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Sprinkler",
+    "nbttag": "{ExtraAttributes:{id:\"SPRINKLER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d6e14e62-0b86-378b-bb82-fe909666af48\",Properties:{textures:[0:{Name:\"textures\",Signature:\"XSrHALcnioXv44GTc8f82oTZE7m4h7N5/5L+RFBiMKML6HQN0tBMEn8+V8MEH6jJS0i3D31kzslAnpgwjNj0MnK9/czKlzn7IbrsruykZboa9jNt9x9fsbk5vNmCjqs494Ts+BoPInXitU7PsATEi3O7EOLf2ZyEKZsThkAMDclItdJUMrQ/lbefsvJ2TtQSbXCkITOUSypxLFaDhFM4ajS/kKCxst829i1twt7ExU4jcRZcN4L3lah+jpUj4Z/65AIx4IxmMdn0GmAej3IQuUdqtNv3MKO5i7wZx1XM/MWzgEcUffx2+9J5y3sULcvzzbsJgELihmOLkCnLDhQqksVoOqawPmW/slZPAnciTBDbtT7ECrv42lAicdFgz+nua80DkLJ6mNNsj34TrH5dcRvQf1SfabMvymmn0Fks2ucXbmmnuZ6UWekkrY3cngXbhrqouK6kAo/+T3zhZMxmynRf3onpwW860yomwYVplGu0+/Zo57otyRm8noxCnCAx7pJ1JFwXFGDh78OpsBwUvgIZYSvA/E2zjYY0x4nwS8BLs80NtpnUWAKv/nwfJ7NjnYTey94fqGh0rh1pQnPkdQyaDLREKu3Z++lbYr3wzR2KTErqP4YAwJeJK6TqwdtcWTbJDqic185X+EtiSlre5cSuj9CzNmazf35hhcZU0y8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczNTkwMDQzMDU1MywKICAicHJvZmlsZUlkIiA6ICJlODE1MGY1MjlmZGU0YzdkYjI3OTAyZjJjNmU3NTc5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmFkQm90XzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTEyZDhmNWIwNWRhZDVlOTZkMzkxZGYwYzY1ZTZlZTM5NTQ0YWQ0OTIzZTY1YTJjNDc0OGQ3MjQ3YmE2MzliNyIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Furniture\",1:\"§8Summer Cosmetic\",2:\"\",3:\"§7This exclusive §aSummer §7cosmetic can\",4:\"§7be placed on your island or traded.\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Sprinkler\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Furniture",
+      "§8Summer Cosmetic",
+      "",
+      "§7This exclusive §aSummer §7cosmetic can",
+      "§7be placed on your island or traded.",
+      "",
+      "§5§lEPIC"
+    ],
+    "internalname": "SPRINKLER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
+    "infoType": "",
+    "info": []
   },
   "SPRUCE_DOOR_ITEM": {
     "itemid": "minecraft:spruce_door",
@@ -244320,6 +244798,32 @@
       }
     ]
   },
+  "SUNNY_SPIRAL_RUNE;3": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6◆ Sunny Spiral Rune III",
+    "nbttag": "{ExtraAttributes:{id:\"SUNNY_SPIRAL_RUNE;3\",runes:{SUNNY_SPIRAL:3}},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"76aceb96-9876-39d1-99a5-7de449f910e2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"tKBZxNBnraerpOGICE5Wxy62f+yoO+ciQ9qav8qjI+vx0WxZVSwOCfLOV9NH05gYPaXtwNZFnI6SEDnx+6PxBL7zn0p9VErBMr3qY45s54UEwIkGr2T0YVj+FEM+PNef+GJeh/LFx6KC4cvCYy0gfCpFGsaart8tf5UffPLCCZYra0IYTBYYxEmYEkWk7lIaGcz2X1JhyNye/jEin6lWhOeabVXmin7UuJkfjXV00gTalDsHOliTQ7dVu4MyIlNLE9+md3sZ09dD6zvqUJCJAILkyI89hxMl52qm8IxXDJtcriAVxOLJhCpS3BPW2EmFcnn7xAcGfsyBY+JFyhomps25pEmbNOAmDk2X2ppDGebZymNzzt3DVRdkqBNJYUQm1/4YE+/EJGgV0OP+UEaAkn2oYM6UPyIM/prJSGRzUY6XgkKibu30t1WIaLsKV6ciDU09OTsVKJTECV/f0xxFYxzhtlaGy5PaZT7VltBGmLpK86qYhrqAAOChbRnl2/hkK7VLxTHahIFpjMaTW+aaJ9IaQrDwSmB5IPTqlToiez7bzAhEwT2QHxa8M+EpJd6yscZOjsv6Pg9CZKLhBS87kv+mMlSak75fT1UE4+6NmcL4EGfwqbMw2X72WP5yRhVsMroUgqfueJ7RkeRyQ4NrT+vdeOi+4C1NkXWIFK+W8GU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTI5MTUwMzA5MSwKICAicHJvZmlsZUlkIiA6ICI0N2U2MjJjNmE1OWU0NmNhOWU3OGNjYzE1ZDliNzhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbnRpbGFmTVgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM4MmMxNzA2YTdmZjRjNjhiMzRmZGEyMThkOGEyYWY4YmQ0YjE5MWJiNjU4NDcxYzE3ZmIzY2UyZjk3OGIzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Requires level 0\",1:\"§8Chestplates\",2:\"\",3:\"§7The heat of the sun orbits you!\",4:\"§7Obtained from the Taylor Summer\",5:\"§7Bundle.\",6:\"\",7:\"§7Apply this rune to chestplates or\",8:\"§7fuse two together at the Runic\",9:\"§7Pedestal!\",10:\"\",11:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6◆ Sunny Spiral Rune III\"},ench:[]}",
+    "damage": 3,
+    "lore": [
+      "§8Requires level 0",
+      "§8Chestplates",
+      "",
+      "§7The heat of the sun orbits you!",
+      "§7Obtained from the Taylor Summer",
+      "§7Bundle.",
+      "",
+      "§7Apply this rune to chestplates or",
+      "§7fuse two together at the Runic",
+      "§7Pedestal!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "SUNNY_SPIRAL_RUNE;3",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
+  },
   "SUNSHINE_CRYSTAL": {
     "itemid": "minecraft:skull",
     "displayname": "§5Sunshine Crystal",
@@ -251533,6 +252037,33 @@
       }
     ]
   },
+  "THERMAL_THERMODYNAMIC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Thermal Thermodynamic Helmet Skin",
+    "nbttag": "{ExtraAttributes:{id:\"THERMAL_THERMODYNAMIC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2efd698a-ce32-32ba-975e-301b19d60ebc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"xrWBpaFN8+jvIRpdZ/kGVVjQiYudlUktEHDqTUclBVUNE2JkD51I62WRbcPKpE8e4smKBBMHMYo8NKrHLVfkW21G3SzttLDC2YFw+U/ny30MhbWNolE6pbOgZEDGn1jiR7ncypH+voesCB7SixvShOPWoLPHeltS9ld3ZuZefSePfEHKLjpadVyfE0DwJPW2kKEvCKZgeCnH4tNTX7ixoDIWyhf1WcJGI+529h5cGZFqCbRqq62q3UVXDJjsMrudvwY7voBrNrLZaUPa7oWn83j4MH7N+32bku2r4nC22Lk3nt9d9MONWqUvsCRvePeawls6H5hx2oBYu3WMXPBrwT1+V/giwMuZqkf2GqMVzXXAYda5MaYGBcg4xv/VHYnZ1SZmOAqtgOTGdQrJ93Bfrr+bcy7Yqm7ip+jNlDpm+6JGZU1AOIb96t3/cCrbPSNe9y2Mujzc/o+ioVv8fRgDCVSMlFpn1s6OKg9OW4XfQcCLxJs2maqu1Q6DA91k1kcnSZbC83DIvq/ISv9hOHe3UzBxHWEVMJO6G30FNGlPLV+IaoPrtV2Wwsvy974foz+Ppuw8gzUVKZSOU+U/ftNBp1AYYR7Wvj4ln5+QTNiVtARHD1SRuoyiRQTvQGyzw5ZwKuIIJoW9tosoBlPPxBudr4Kc2yS/I0SRK+ONhCd4bYA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTA5MDEwNDU5OSwKICAicHJvZmlsZUlkIiA6ICJhYTUwNjRmMDUzOWQ0YmFhYTVkOGMzODllY2JiNGFlMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WF9FbXBsb3ltZW50X1h4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EyN2M0ZDBmZjMyNmQ0NzdhMDUyZDdmYjJmOTk2OTgyODEwM2FkZDY3ZTk4NTAwZTJiNTVmN2RkYjJiZWM0ZTQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to\",7:\"§6Thermodynamic Helmet§7.\",8:\"\",9:\"§aThis skin is swappable between 19\",10:\"§aThermal variants!\",11:\"\",12:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Thermal Thermodynamic Helmet Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to",
+      "§6Thermodynamic Helmet§7.",
+      "",
+      "§aThis skin is swappable between 19",
+      "§aThermal variants!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "THERMAL_THERMODYNAMIC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
+    "infoType": "",
+    "info": []
+  },
   "THERMODYNAMIC_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§6Thermodynamic Boots",
@@ -257516,8 +258047,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Triple-Strike",
+      "https://wiki.hypixel.net/Triple-Strike_Enchantment"
+    ]
   },
   "TRIPWIRE_HOOK": {
     "itemid": "minecraft:tripwire_hook",
@@ -258136,8 +258670,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cacti",
+      "https://wiki.hypixel.net/Turbo-Cacti_Enchantment"
+    ],
     "parent": "TURBO_CACTUS;1"
   },
   "TURBO_CACTUS;4": {
@@ -258327,8 +258864,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cane",
+      "https://wiki.hypixel.net/Turbo-Cane_Enchantment"
+    ],
     "parent": "TURBO_CANE;1"
   },
   "TURBO_CANE;3": {
@@ -258708,8 +259248,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Carrot",
+      "https://wiki.hypixel.net/Turbo-Carrot_Enchantment"
+    ]
   },
   "TURBO_COCO;1": {
     "itemid": "minecraft:enchanted_book",
@@ -258802,8 +259345,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cocoa",
+      "https://wiki.hypixel.net/Turbo-Cocoa_Enchantment"
+    ],
     "parent": "TURBO_COCO;1"
   },
   "TURBO_COCO;4": {
@@ -259047,8 +259593,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.1.0-dev+mc1.21.11+gcd885b38",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Melon",
+      "https://wiki.hypixel.net/Turbo-Melon_Enchantment"
+    ]
   },
   "TURBO_MELON;2": {
     "itemid": "minecraft:enchanted_book",
@@ -259639,8 +260188,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Mushrooms",
+      "https://wiki.hypixel.net/Turbo-Mushrooms_Enchantment"
+    ]
   },
   "TURBO_MUSHROOMS;7": {
     "itemid": "minecraft:enchanted_book",
@@ -259793,8 +260345,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Potato",
+      "https://wiki.hypixel.net/Turbo-Potato_Enchantment"
+    ],
     "parent": "TURBO_POTATO;1"
   },
   "TURBO_POTATO;5": {
@@ -260083,8 +260638,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Pumpkin",
+      "https://wiki.hypixel.net/Turbo-Pumpkin_Enchantment"
+    ]
   },
   "TURBO_PUMPKIN;7": {
     "itemid": "minecraft:enchanted_book",
@@ -260626,8 +261184,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Warts",
+      "https://wiki.hypixel.net/Turbo-Warts_Enchantment"
+    ],
     "parent": "TURBO_WARTS;1"
   },
   "TURBO_WARTS;4": {
@@ -260912,8 +261473,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.11.0+mc1.21.7",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Wheat",
+      "https://wiki.hypixel.net/Turbo-Wheat_Enchantment"
+    ],
     "parent": "TURBO_WHEAT;1"
   },
   "TURBO_WHEAT;6": {
@@ -261151,6 +261715,27 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turtlellini"
     ]
+  },
+  "TURTLE_SANDBOX": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Turtle Sandbox",
+    "nbttag": "{ExtraAttributes:{id:\"TURTLE_SANDBOX\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"946a242a-876f-3267-bc15-e77c37859e9d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"BIjc8XFi59Vj5ogoBSsUPsjoXhdPSYid7RX73wHmnH+tgGADPlBRik4FljRcnkkPp3RUjotTzbeuhVwl/YU6/uXbt7y1PIu5oqycC99MuPgwtD66yMigltbZ2tvzgDbc+mAoRYWrDqeFNxFq1y7NKfzfaLC+6oqaKkR05UXYKE+H5AD3LdvWAXgYFQzRfLXgAhDglV2UEgbqnVCmbw7CY8yeHT9bD35StaRyGf2mrAXO9q1UDrJDeaqFUKqvnKfbNq11YlJeJnW2n4D+IBF17WHKUSQ87x0YwJP76JrI3POP2Xs5iBADtaovDwoW2ETwPtj8dIgwGcNzBwxKSFInD+Pw3CkZO6sEFBwNgLCt8ec/gUVuwhI4UgQRxNNBaZCuc0wWtBQIKNkT0kpBIPxM8wjCJvCbf/DWm51JKaabtFYYkwyEJlznsdDbHTqt4DDOZ/pWQBc9Qj3keOylxDi7rcUshjjEWVHpE87uFVaXr4xQ/uJulBVqJaQ7cg31nv64yi6WmtC6rDPD8JpNvVO4tJd+q/rPGuNpL50CB4mnqZu1wDGAB8i/y2d0Hs4fXnnbvA7kjyUOavpkhsHf3gHqF7d1GJg0H+EBiCW5PEdVyGOxix6oSzz3LMMC2Q9WYa/gsJ2aBLaTDW2o7FviPjMdZ3wABPc7qNsOgcO2Tjnwh14=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc0NjgwMzg5MDczMSwKICAicHJvZmlsZUlkIiA6ICI2ZDcwZjM0OGFjODA0MWM5YjY4ZDA4MWUwMTUyNzVjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0ZXN0YWx0MSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NjFjZDNlNWY3YTliYjU4YTBlZDI0ZGY5NGUyNzUxM2VhNjFjN2E0MWYzM2UwMTgwYWQ5Yzg1ZjUzMjdmN2M1IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Furniture\",1:\"§8Summer Cosmetic\",2:\"\",3:\"§7This exclusive §aSummer §7cosmetic can\",4:\"§7be placed on your island or traded.\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Turtle Sandbox\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Furniture",
+      "§8Summer Cosmetic",
+      "",
+      "§7This exclusive §aSummer §7cosmetic can",
+      "§7be placed on your island or traded.",
+      "",
+      "§5§lEPIC"
+    ],
+    "internalname": "TURTLE_SANDBOX",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
+    "infoType": "",
+    "info": []
   },
   "TUSK_FOSSIL": {
     "itemid": "minecraft:skull",
@@ -261949,7 +262534,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "https://hypixelskyblock.minecraft.wiki/w/Bank",
+      "https://wiki.hypixel.net/Bank_Enchantment"
     ],
     "parent": "ULTIMATE_BANK;1"
   },
@@ -262241,7 +262827,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "https://hypixelskyblock.minecraft.wiki/w/Chimera",
+      "https://wiki.hypixel.net/Chimera_Enchantment"
     ]
   },
   "ULTIMATE_CHIMERA;2": {
@@ -262430,7 +263017,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "https://hypixelskyblock.minecraft.wiki/w/Combo",
+      "https://wiki.hypixel.net/Combo_Enchantment"
     ]
   },
   "ULTIMATE_COMBO;2": {
@@ -262934,8 +263522,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fatal_Tempo",
+      "https://wiki.hypixel.net/Fatal_Tempo_Enchantment"
+    ]
   },
   "ULTIMATE_FATAL_TEMPO;5": {
     "itemid": "minecraft:enchanted_book",
@@ -263105,8 +263696,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.1.0+mc1.21.5",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/First_Impression",
+      "https://wiki.hypixel.net/First_Impression_Enchantment"
+    ]
   },
   "ULTIMATE_FIRST_IMPRESSION;5": {
     "itemid": "minecraft:enchanted_book",
@@ -263205,8 +263799,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Flash",
+      "https://wiki.hypixel.net/Flash_Enchantment"
+    ]
   },
   "ULTIMATE_FLASH;3": {
     "itemid": "minecraft:enchanted_book",
@@ -263595,8 +264192,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno",
+      "https://wiki.hypixel.net/Inferno_Enchantment"
+    ]
   },
   "ULTIMATE_INFERNO;3": {
     "itemid": "minecraft:enchanted_book",
@@ -264037,7 +264637,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "https://hypixelskyblock.minecraft.wiki/w/Last_Stand",
+      "https://wiki.hypixel.net/Last_Stand_Enchantment"
     ],
     "parent": "ULTIMATE_LAST_STAND;1"
   },
@@ -264214,7 +264815,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "https://hypixelskyblock.minecraft.wiki/w/Legion",
+      "https://wiki.hypixel.net/Legion_Enchantment"
     ],
     "parent": "ULTIMATE_LEGION;1"
   },
@@ -264341,8 +264943,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.1.0+mc1.21.5",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Missile",
+      "https://wiki.hypixel.net/Missile_Enchantment"
+    ]
   },
   "ULTIMATE_MISSILE;4": {
     "itemid": "minecraft:enchanted_book",
@@ -264472,7 +265077,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "https://hypixelskyblock.minecraft.wiki/w/No_Pain_No_Gain",
+      "https://wiki.hypixel.net/No_Pain_No_Gain_Enchantment"
     ],
     "parent": "ULTIMATE_NO_PAIN_NO_GAIN;1"
   },
@@ -264689,8 +265295,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Refrigerate",
+      "https://wiki.hypixel.net/Refrigerate_Enchantment"
+    ]
   },
   "ULTIMATE_REFRIGERATE;3": {
     "itemid": "minecraft:enchanted_book",
@@ -264833,8 +265442,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Duplex",
+      "https://wiki.hypixel.net/Duplex_Enchantment"
+    ]
   },
   "ULTIMATE_REITERATE;2": {
     "itemid": "minecraft:enchanted_book",
@@ -265014,7 +265626,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "https://hypixelskyblock.minecraft.wiki/w/Rend",
+      "https://wiki.hypixel.net/Rend_Enchantment"
     ]
   },
   "ULTIMATE_REND;2": {
@@ -265284,7 +265897,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "https://hypixelskyblock.minecraft.wiki/w/Soul_Eater",
+      "https://wiki.hypixel.net/Soul_Eater_Enchantment"
     ],
     "parent": "ULTIMATE_SOUL_EATER;1"
   },
@@ -265712,7 +266326,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "https://hypixelskyblock.minecraft.wiki/w/Swarm",
+      "https://wiki.hypixel.net/Swarm_Enchantment"
     ],
     "parent": "ULTIMATE_SWARM;1"
   },
@@ -265856,7 +266471,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Enchantments"
+      "https://hypixelskyblock.minecraft.wiki/w/Wisdom",
+      "https://wiki.hypixel.net/Wisdom_Enchantment"
     ],
     "parent": "ULTIMATE_WISDOM;1"
   },
@@ -272394,6 +273010,36 @@
       "C3": ""
     },
     "slayer_req": "ZOMBIE_8"
+  },
+  "WARDEN_SPARTAN": {
+    "itemid": "minecraft:skull",
+    "displayname": "§4Spartan Warden Helmet Skin",
+    "nbttag": "{ExtraAttributes:{id:\"WARDEN_SPARTAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"21ce2dbd-464a-35e7-a41f-e0b6fa836414\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uTPPuEWBCqCm9dTT3/RYd3n1VQB/OlIb3egPujUOs2JeZBWoU+6SfCyjxZ1g4j5xNIcMn0zRN0nWtxUdJ6XVbyyBjT6az/eP8CQVpvbW0J8XN7t1I0jdre3NP6fJ/oZr0X9m4OO3ZObNvQ1qjkzGS6hcWcH79iXH++pgFl0Zw0hNc4SKYDsc+YmtDScndWJ4rF7eDGZZ964fj+Uoa2KYkYDqANsJgfLD2BzznsAnjGL8M7RBpAW+oYb1luAUzQnnxAnweZ4NryuEqAuBb8WHdQshqk1l5hCwQpMkR2hCQUKSi4Pcr7vhgPYCWODXqQqexaT/YJhZkeVkRLYqCFX1AhkK3xqDgZ79o42d4ZtSII5SI78b8UXSlJTIDvw9eGFr54Wbcj1I30J/oztK1NlpnS3PlnDtlV1N6e/8XD1SiIPVgOJLHuZGBhAPGB85OUvV8J/kTG8xiN3adfofT35YUTh49eW8CioD5+IZpQZ7nT/mtt+NJQmsRYGuhnFlj5qXnzi/QfvqwZwdSSUp2CzLuPJv09gKLhTj7PLbE9ioJjSd07whuJKa0WSASQx6lOC5/AbvlWsT7gB9QmGssddUeKhTnoqSrgtSFjjaORTcmw1Wpkj4Rw1I+3UtwOxUZ+YQlBTp/f0nq+FtsuW2HOjD7LdQ71AHdsCxFFO65bMkjTw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTA5Mjg4NDYyOSwKICAicHJvZmlsZUlkIiA6ICJhODEzMzJmNjA5MmE0NDQ1Yjk1YzVhZGFjNDA2OTQzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmFwcHliM2FzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMjU2OTM2ZTdkMzc5ZmI0OWJkZjEzNGRiNzlkNzcwZGQ1YjRiNTVkOTUxOWYyNGIzYTQ2YzUyNGYzNjY0NDViIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §6Warden\",7:\"§6Helmet§7.\",8:\"\",9:\"§aFeatures!\",10:\"§8▶ §7This skin is swappable between\",11:\"§a320 §7Spartan variants.\",12:\"§8▶ §7Keeps track of §fdistance walked\",13:\"§7while wearing this skin.\",14:\"\",15:\"§4§lULTIMATE COSMETIC\"],Name:\"§4Spartan Warden Helmet Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §6Warden",
+      "§6Helmet§7.",
+      "",
+      "§aFeatures!",
+      "§8▶ §7This skin is swappable between",
+      "§a320 §7Spartan variants.",
+      "§8▶ §7Keeps track of §fdistance walked",
+      "§7while wearing this skin.",
+      "",
+      "§4§lULTIMATE COSMETIC"
+    ],
+    "internalname": "WARDEN_SPARTAN",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
   },
   "WARDING_TRINKET": {
     "itemid": "minecraft:skull",
@@ -280979,6 +281625,26 @@
       "https://hypixelskyblock.minecraft.wiki/w/Y",
       "https://wiki.hypixel.net/Y"
     ]
+  },
+  "YACHT_BARN_SKIN": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Yacht Barn Skin",
+    "nbttag": "{ExtraAttributes:{id:\"YACHT_BARN_SKIN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e568ce63-227b-3cec-8bea-96066025757e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GojEbb1cm/zsQKKGsd2pDRgKadf3NmNPuuYN0mhdKxqYwDhA1WLvDZDPHn3Unltl62FBuqAT1JSbMG17zDTA/hIa+eNSZnHCXtqPmrl4NMOszK08NZQPgJGk845f/kvdty/doIKhn5Y96Pb1WbpIIt0oTFRC8VMcPZqUaBeKD1LABE4P3+pUV8qA/bJ2kV+o195d7fG7EzKzE62TXiG0AXJ6HA7armwOOaqVT/S23oO3JbzFc6Im1rSz/ZRh6PNlWIMNYkpn7XDiFm9y5/9cmLs9aLG8YlDMeCDRb3rSyzUQZb+oYO27j+fJazb1HYan+VSk83MXLizgPolWlY8iG8B8C814E1ApckNAvDLyxgeEhYO51IfBWui7P22c5Cy5kRvZ7nMLIQI24jYPCc98dgR9JVam6KFa4tJ7Cb2iJB6z/vGotB9imWtt5ItdABT5Pm9f5Jn5VPP3VmNBkgzJdS/DlmynKm4zSm+JpV1fPYCAPBSyuiysdCaDYJj4cl6gIn0SuXkcp7UY7FmVi3GsUWFpLIf9qmDcil4UlEt3YKf0cr86SZ5CC+qDOD/4jUUPoZcggakzWLAL3i1La3SCBoICL/Q3ZTFUEsRKmACOlXG/7Qw/Ub0Qs23IpS7YwXtoW1OXMHA2O6zO+nN7yxofkbGdAop5QJn7cvpZ3ZpcEsU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTI5MTUwMjM0NSwKICAicHJvZmlsZUlkIiA6ICI1MzE4YWJhNDJiMTk0ODNiODFiMWY2N2Y1ODVjNDdkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJocHllZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85N2Y2YTMwYWRkZDExY2U4MjZkNWM5NmNjMTFiOTY1ZDYyODBiNmQ1NTY1YWUxNjkwYjM2YTM4YWUzMzJjZTExIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Consume this item to unlock the §6Yacht\",1:\"§6Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Yacht Barn Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Consume this item to unlock the §6Yacht",
+      "§6Barn Skin §7on §aThe Garden§7!",
+      "",
+      "§eClick to consume!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "YACHT_BARN_SKIN",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": []
   },
   "YELLOW_BANDANA": {
     "itemid": "minecraft:skull",
