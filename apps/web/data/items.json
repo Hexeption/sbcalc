@@ -57668,8 +57668,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Phone_Booth_Power_Orb_Skin"
+    ]
   },
   "DOUBLE_PLANT-1": {
     "itemid": "minecraft:double_plant",
@@ -58634,8 +58636,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Wyvern_Dragon_Helmet_Skin"
+    ]
   },
   "DRAKUU_NPC": {
     "itemid": "minecraft:skull",
@@ -60210,8 +60214,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beach_Dye"
+    ]
   },
   "DYE_BINGO_BLUE": {
     "itemid": "minecraft:skull",
@@ -60443,8 +60449,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Charcoal_Dye"
+    ]
   },
   "DYE_CHOCOLATE": {
     "itemid": "minecraft:skull",
@@ -83085,8 +83093,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fireworks_Shadow_Assassin_Skin"
+    ]
   },
   "FIREWORK_CHARGE": {
     "itemid": "minecraft:firework_charge",
@@ -92656,8 +92666,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Garden_Warrior_Fermento_Helmet_Skin"
+    ]
   },
   "GARLACIUS_RIFT_NPC": {
     "itemid": "minecraft:skull",
@@ -126573,8 +126585,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Kitsune_Tiki_Mask_Skin"
+    ]
   },
   "KLOONBOAT": {
     "itemid": "minecraft:boat",
@@ -136437,6 +136451,7 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Luck_of_the_Sea",
       "https://wiki.hypixel.net/Luck_Of_The_Sea_Enchantment"
     ],
     "parent": "LUCK_OF_THE_SEA;4"
@@ -172055,8 +172070,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Litter_Black_Cat_Skin"
+    ]
   },
   "PET_SKIN_BLACK_CAT_LOAF_CAT_BLACK": {
     "itemid": "minecraft:skull",
@@ -174313,8 +174330,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hungry_Flying_Fish_Skin"
+    ]
   },
   "PET_SKIN_FOUR_SEASONS_GRIFFIN": {
     "itemid": "minecraft:skull",
@@ -176519,8 +176538,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sunglasses_Monkey_Skin"
+    ]
   },
   "PET_SKIN_MONKEY_ZODIAC": {
     "itemid": "minecraft:skull",
@@ -178527,8 +178548,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Petal_Rose_Dragon_Skin"
+    ]
   },
   "PET_SKIN_SCATHA_ALBINO": {
     "itemid": "minecraft:skull",
@@ -179454,8 +179477,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Shleepy_Sheep_Skin"
+    ]
   },
   "PET_SKIN_SHEEP_WHITE": {
     "itemid": "minecraft:skull",
@@ -218628,8 +218653,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Shipwreck_Greenhouse_Skin"
+    ]
   },
   "SHOWCASE_BLOCK": {
     "itemid": "minecraft:glass",
@@ -244821,8 +244848,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sunny_Spiral_Rune"
+    ]
   },
   "SUNSHINE_CRYSTAL": {
     "itemid": "minecraft:skull",
@@ -252061,8 +252090,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Thermal_Thermodynamic_Helmet_Skin"
+    ]
   },
   "THERMODYNAMIC_BOOTS": {
     "itemid": "minecraft:leather_boots",
@@ -258640,8 +258671,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cacti",
+      "https://wiki.hypixel.net/Turbo-Cacti_Enchantment"
+    ],
     "parent": "TURBO_CACTUS;1"
   },
   "TURBO_CACTUS;3": {
@@ -258931,8 +258965,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cane",
+      "https://wiki.hypixel.net/Turbo-Cane_Enchantment"
+    ],
     "parent": "TURBO_CANE;1"
   },
   "TURBO_CANE;5": {
@@ -259152,8 +259189,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Carrot",
+      "https://wiki.hypixel.net/Turbo-Carrot_Enchantment"
+    ],
     "parent": "TURBO_CARROT;1"
   },
   "TURBO_CARROT;5": {
@@ -259410,8 +259450,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cocoa",
+      "https://wiki.hypixel.net/Turbo-Cocoa_Enchantment"
+    ],
     "parent": "TURBO_COCO;1"
   },
   "TURBO_COCO;6": {
@@ -259788,8 +259831,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Melon",
+      "https://wiki.hypixel.net/Turbo-Melon_Enchantment"
+    ]
   },
   "TURBO_MOONFLOWER;1": {
     "itemid": "minecraft:enchanted_book",
@@ -260093,8 +260139,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Mushrooms",
+      "https://wiki.hypixel.net/Turbo-Mushrooms_Enchantment"
+    ],
     "parent": "TURBO_MUSHROOMS;1"
   },
   "TURBO_MUSHROOMS;4": {
@@ -260252,8 +260301,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.1.0-dev+mc1.21.11+gcd885b38",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Potato",
+      "https://wiki.hypixel.net/Turbo-Potato_Enchantment"
+    ]
   },
   "TURBO_POTATO;2": {
     "itemid": "minecraft:enchanted_book",
@@ -260476,9 +260528,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.1.0-dev+mc1.21.11+gcd885b38",
-    "infoType": "",
+    "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Pumpkin"
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Pumpkin",
+      "https://wiki.hypixel.net/Turbo-Pumpkin_Enchantment"
     ]
   },
   "TURBO_PUMPKIN;2": {
@@ -261285,8 +261338,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Warts",
+      "https://wiki.hypixel.net/Turbo-Warts_Enchantment"
+    ]
   },
   "TURBO_WARTS;7": {
     "itemid": "minecraft:enchanted_book",
@@ -261378,8 +261434,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.11.0+mc1.21.7",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turbo-Wheat",
+      "https://wiki.hypixel.net/Turbo-Wheat_Enchantment"
+    ],
     "parent": "TURBO_WHEAT;1"
   },
   "TURBO_WHEAT;3": {
@@ -273038,8 +273097,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Spartan_Warden_Helmet_Skin"
+    ]
   },
   "WARDING_TRINKET": {
     "itemid": "minecraft:skull",
@@ -281643,8 +281704,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Yacht_Barn_Skin"
+    ]
   },
   "YELLOW_BANDANA": {
     "itemid": "minecraft:skull",
