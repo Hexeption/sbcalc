@@ -15874,7 +15874,7 @@
   "BAG_OF_CASH": {
     "itemid": "minecraft:skull",
     "displayname": "§9Bag of Cash",
-    "nbttag": "{ExtraAttributes:{id:\"BAG_OF_CASH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9dd5008a-08a1-3f4a-b8af-2499bdb8ff3b\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTM2ZTk0ZjZjMzRhMzU0NjVmY2U0YTkwZjJlMjU5NzYzODllYjk3MDlhMTIyNzM1NzRmZjcwZmQ0ZGFhNjg1MiJ9fX0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Sold to shops for 1,000,000 coins!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Bag of Cash\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BAG_OF_CASH\",originTag:\"UNKNOWN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"758f1ca0-5e6f-3ca1-8463-b13b3f2c16bc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"wpLkrKv6WP94AIDE9+XqclvdrMwx3wd6Zj8q85GcYV5sojHEHLOPW+YUMOyHTtYiwLYmX4OJyF2ZkvaOXUkD/0w04j8Kwn1NJTJVFuWXvEIsKDyh4I9MB+zqQqK1TsN5mJD8kvQPx0APmzuM6pXGlcGDEpb2J2xEpIOwAp0RMipydH1FTHij2YhcfM2zwDsNiU8szL0yntct1nLf/1NUGio7cnmUovRtCvJuem1X+n4OPS8mT1JnMQ8a0lcneSp2iyA+9IHbPT0yTfbDZiVjhuTAxFv1arrzwqZC4/vS83bqSZEa0Bw4MM93hDkWam5XKJ73rt7IC4DRZ/32DbMUEE+/vzGsc0IvBIXMOjNn5ekCdLp0tv4pzCzZnsi5k4yngVnY/4PEVuVfTsB0wfcHSuqcaVXb//8KnhK0SCgB4OkKpvQSI+V8fBxsFjEk1nqSrV5SnCJjkYkAZFYZzo657MeONYEEbTB2RXIAcLv8Rndxv/FwMdygCTr9iobkS3jvSqYH75govg0op1vFqAFVR9COWHJbbHLDmXp/SG/5qZvZISu+I4UA6nb3OxeHZwigYbnBsSiA5O3XZ3z4Ap4KK0YDxWlzU7GJQYLy/ULqAIhPnV0VpGE/SRjBObL4fYjn3L60wVYKDvqSSZW9wVW9pwFQgXBeLu+Tkoli+VGpbwg=\",Value:\"eyJ0aW1lc3RhbXAiOjE0ODU0NjAwMjA1OTgsInByb2ZpbGVJZCI6IjdkYTJhYjNhOTNjYTQ4ZWU4MzA0OGFmYzNiODBlNjhlIiwicHJvZmlsZU5hbWUiOiJHb2xkYXBmZWwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzNmU5NGY2YzM0YTM1NDY1ZmNlNGE5MGYyZTI1OTc2Mzg5ZWI5NzA5YTEyMjczNTc0ZmY3MGZkNGRhYTY4NTIifX19\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Sold to shops for 1,000,000 coins!\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Bag of Cash\"}}",
     "damage": 3,
     "lore": [
       "§6Sold to shops for 1,000,000 coins!",
@@ -15884,7 +15884,7 @@
     "internalname": "BAG_OF_CASH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Bag_of_Cash",
@@ -132880,23 +132880,22 @@
   },
   "LIFEGUARD_CHAIR": {
     "itemid": "minecraft:skull",
-    "displayname": "§f§f§5Lifeguard Chair",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"59e55428-30f9-344d-9ad4-f4af9f9c6b53\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNiZGU0MzExMWY2OWE3ZmRhNmVjNmZhZjIyNjNjODI3OTYxZjM5MGQ3YzYxNjNlZDEyMzEwMzVkMWIwYjkifX19\"}]}},display:{Lore:[0:\"§8Furniture\",1:\"§8Summer Cosmetic\",2:\"\",3:\"§7This exclusive §aSummer\",4:\"§a§7cosmetic can be placed on your\",5:\"§7island or traded.\",6:\"\",7:\"§5§lEPIC\"],Name:\"§f§f§5Lifeguard Chair\"},ExtraAttributes:{id:\"LIFEGUARD_CHAIR\"}}",
+    "displayname": "§5Lifeguard Chair",
+    "nbttag": "{ExtraAttributes:{id:\"LIFEGUARD_CHAIR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f4a135c2-2dbd-3caf-8cee-791902224da4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"waJlFtLxfw5bMgwOzubx6Ig9gySodN6UuOVg+ZhbMXr1HM8w4jnVO+NEpwmzDXxp5iESZVU/GujiNOhayo7vzmC0OEey0ppmmAAegev51/CfBxVeNBg5NwtHjnGv739pyHHFeYZFq8Cjdbgjrd9JxUumZKzcgEC4/cQqtjCaO3XCQRrDjpJo23mxO+TtEDPjgNIF/Xa1PiSncjPweYcw4ExS/xJ/stevPP/0c1F8pNNwW/Jxw80WMvwVxf7qpjWiFET6+jXPKML+w6FGgLb2Xe3U7guZb30UEBn0SDKMrn/3uiLWYotFjpn/XqLLsrm05un8KPIfbxjoFpYX2lFv+jB+tzd8IgRIQL5fXtqBkuvjj0XUFLV5p+++7V7DnVmi322j/bqYszLBgzSS0a9hJItTmMqjMTI+Txu4QKMW6LNb6JUWZz6s0LP7Fc+tJnSTmdwRADCyqk3ss9lrmarINTETuBm/rHInXTsLr1bxl/TEt7RaXgfH2zLYWDQzICoLO7aChMYQOu/zDKVmTKwyOa4/2b27SJtTF20kJJY5zxDAfOfCRIa14HVZyGp9qAKn/aevnIUQ68K2ZZclArLFKNAdF9Cy0gKcbRi7Pleuf/+BYgZOaYG839AxhXE/zNrzj9Vaz5sOzP141NNLyp1JVUTfAkGBknQvK7jfwZ4sWNc=\",Value:\"eyJ0aW1lc3RhbXAiOjE1MjMzNjgxMzM4MDMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNiZGU0MzExMWY2OWE3ZmRhNmVjNmZhZjIyNjNjODI3OTYxZjM5MGQ3YzYxNjNlZDEyMzEwMzVkMWIwYjkifX19\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Furniture\",1:\"§8Summer Cosmetic\",2:\"\",3:\"§7This exclusive §aSummer §7cosmetic can\",4:\"§7be placed on your island or traded.\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Lifeguard Chair\"}}",
     "damage": 3,
     "lore": [
       "§8Furniture",
       "§8Summer Cosmetic",
       "",
-      "§7This exclusive §aSummer",
-      "§a§7cosmetic can be placed on your",
-      "§7island or traded.",
+      "§7This exclusive §aSummer §7cosmetic can",
+      "§7be placed on your island or traded.",
       "",
       "§5§lEPIC"
     ],
     "internalname": "LIFEGUARD_CHAIR",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.1.1-PRE",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
     "infoType": "WIKI_URL",
     "info": [
       "https://wiki.hypixel.net/Lifeguard_Chair"
@@ -247793,60 +247792,74 @@
   "TALBOT_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Talbot (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"TALBOT_NPC\"},HideFlags:254,SkullOwner:{Id:\"8a053db1-2736-2df1-a628-2f1e6c44fa5e\",Name:\"8a053db1-2736-2df1-a628-2f1e6c44fa5e\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNzhlNGI4ZTk4MGZiODY4YzdkOGJjNWI4YTlhZmQ1MjJlNjVhZmRlNWQ0NWRlMGRkNzU1MDhlYTVkOTE3OGQifX19\"}]}},display:{Lore:[0:\"\"],Name:\"§9Talbot (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TALBOT_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"3bc91b3d-1dd9-2a10-873f-b7dd59a997bc\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNzhlNGI4ZTk4MGZiODY4YzdkOGJjNWI4YTlhZmQ1MjJlNjVhZmRlNWQ0NWRlMGRkNzU1MDhlYTVkOTE3OGQiLCJtZXRhZGF0YSI6e319fSwicHJvZmlsZUlkIjoiM2JjOTFiM2QxZGQ5MmExMDg3M2ZiN2RkNTlhOTk3YmMiLCJwcm9maWxlTmFtZSI6Im5lYTg5IiwiaXNQdWJsaWMiOnRydWUsInRpbWVzdGFtcCI6MTc4MjUwNDA4NDgyN30=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Talbot (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
     ],
     "internalname": "TALBOT_NPC",
     "clickcommand": "",
-    "modver": "2.1.1-PRE",
-    "x": 286,
-    "y": 105,
-    "z": -548,
-    "island": "farming_1",
-    "recipes": [
-      {
-        "type": "npc_shop",
-        "result": "TRAPPER_DEN_TRAVEL_SCROLL:1",
-        "cost": [
-          "SKYBLOCK_PELT:100"
-        ]
-      },
-      {
-        "type": "npc_shop",
-        "result": "TALBOTS_THEODOLITE:1",
-        "cost": [
-          "SKYBLOCK_PELT:80"
-        ]
-      },
-      {
-        "type": "npc_shop",
-        "result": "PELT_BELT:1",
-        "cost": [
-          "SKYBLOCK_PELT:250"
-        ]
-      },
-      {
-        "type": "npc_shop",
-        "result": "TRAPPER_CREST:1",
-        "cost": [
-          "SKYBLOCK_PELT:340"
-        ]
-      },
-      {
-        "type": "npc_shop",
-        "result": "POTION_STINKY_CHEESE;1:1",
-        "cost": [
-          "SKYBLOCK_PELT:40"
-        ]
-      }
-    ],
     "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Talbot",
       "https://wiki.hypixel.net/Talbot"
+    ],
+    "x": 285,
+    "y": 104,
+    "z": -549,
+    "island": "farming_1",
+    "recipes": [
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_PELT:100"
+        ],
+        "result": "TRAPPER_DEN_TRAVEL_SCROLL:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_PELT:80"
+        ],
+        "result": "TALBOTS_THEODOLITE:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_PELT:250"
+        ],
+        "result": "PELT_BELT:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_PELT:340"
+        ],
+        "result": "TRAPPER_CREST:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_PELT:200"
+        ],
+        "result": "BROWN_BANDANA:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_PELT:40"
+        ],
+        "result": "POTION_STINKY_CHEESE;1:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_PELT:250"
+        ],
+        "result": "PEST_VEST:1"
+      }
     ]
   },
   "TALIA_NPC": {
