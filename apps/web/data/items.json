@@ -167336,20 +167336,21 @@
   "PESTERMINATOR;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:1},id:\"PESTERMINATOR;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Pesterminator I\",1:\"§7Grants §6+2☘ Farming Fortune §7and\",2:\"§2+1ൠ Bonus Pest Chance§7, which\",3:\"§7increases your chance to spawn\",4:\"§7bonus §2Pests §7on §aThe Garden§7.\",5:\"\",6:\"§7Use this on an item in an Anvil\",7:\"§7to apply it!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Beetle Pests\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fArmor\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:1},id:\"PESTERMINATOR;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Pesterminator I\",3:\"§7Grants §6+2☘ Farming Fortune §7and\",4:\"§2+1ൠ Bonus Pest Chance§7, which\",5:\"§7increases your chance to spawn\",6:\"§7bonus §2ൠ Pests §7on §aThe Garden§7.\",7:\"\",8:\"§6Source:\",9:\"§aI: §6Beetle Pests\",10:\"§aI-V: §7Bazaar\",11:\"§aVI: §6A Beginner's Guide to Pesthunting\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Pesterminator I",
       "§7Grants §6+2☘ Farming Fortune §7and",
       "§2+1ൠ Bonus Pest Chance§7, which",
       "§7increases your chance to spawn",
-      "§7bonus §2Pests §7on §aThe Garden§7.",
-      "",
-      "§7Use this on an item in an Anvil",
-      "§7to apply it!",
+      "§7bonus §2ൠ Pests §7on §aThe Garden§7.",
       "",
       "§6Source:",
       "§aI: §6Beetle Pests",
+      "§aI-V: §7Bazaar",
+      "§aVI: §6A Beginner's Guide to Pesthunting",
       "",
       "§6Applied To:",
       "§7- §fArmor",
@@ -167359,7 +167360,7 @@
     "internalname": "PESTERMINATOR;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pesterminator",
@@ -167369,20 +167370,21 @@
   "PESTERMINATOR;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:2},id:\"PESTERMINATOR;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Pesterminator II\",1:\"§7Grants §6+4☘ Farming Fortune §7and\",2:\"§2+2ൠ Bonus Pest Chance§7, which\",3:\"§7increases your chance to spawn\",4:\"§7bonus §2Pests §7on §aThe Garden§7.\",5:\"\",6:\"§7Use this on an item in an Anvil\",7:\"§7to apply it!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Beetle Pests\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fArmor\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:2},id:\"PESTERMINATOR;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Pesterminator II\",3:\"§7Grants §6+4☘ Farming Fortune §7and\",4:\"§2+2ൠ Bonus Pest Chance§7, which\",5:\"§7increases your chance to spawn\",6:\"§7bonus §2Pests §7on §aThe Garden§7.\",7:\"\",8:\"§6Source:\",9:\"§aI: §6Beetle Pests\",10:\"§aI-V: §7Bazaar\",11:\"§aVI: §6A Beginner's Guide to Pesthunting\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Pesterminator II",
       "§7Grants §6+4☘ Farming Fortune §7and",
       "§2+2ൠ Bonus Pest Chance§7, which",
       "§7increases your chance to spawn",
       "§7bonus §2Pests §7on §aThe Garden§7.",
       "",
-      "§7Use this on an item in an Anvil",
-      "§7to apply it!",
-      "",
       "§6Source:",
       "§aI: §6Beetle Pests",
+      "§aI-V: §7Bazaar",
+      "§aVI: §6A Beginner's Guide to Pesthunting",
       "",
       "§6Applied To:",
       "§7- §fArmor",
@@ -167392,7 +167394,7 @@
     "internalname": "PESTERMINATOR;2",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pesterminator",
@@ -167402,20 +167404,21 @@
   "PESTERMINATOR;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:3},id:\"PESTERMINATOR;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Pesterminator III\",1:\"§7Grants §6+6☘ Farming Fortune §7and\",2:\"§2+3ൠ Bonus Pest Chance§7, which\",3:\"§7increases your chance to spawn\",4:\"§7bonus §2Pests §7on §aThe Garden§7.\",5:\"\",6:\"§7Use this on an item in an Anvil\",7:\"§7to apply it!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Beetle Pests\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fArmor\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:3},id:\"PESTERMINATOR;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Pesterminator III\",3:\"§7Grants §6+6☘ Farming Fortune §7and\",4:\"§2+3ൠ Bonus Pest Chance§7, which\",5:\"§7increases your chance to spawn\",6:\"§7bonus §2Pests §7on §aThe Garden§7.\",7:\"\",8:\"§6Source:\",9:\"§aI: §6Beetle Pests\",10:\"§aI-V: §7Bazaar\",11:\"§aVI: §6A Beginner's Guide to Pesthunting\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Pesterminator III",
       "§7Grants §6+6☘ Farming Fortune §7and",
       "§2+3ൠ Bonus Pest Chance§7, which",
       "§7increases your chance to spawn",
       "§7bonus §2Pests §7on §aThe Garden§7.",
       "",
-      "§7Use this on an item in an Anvil",
-      "§7to apply it!",
-      "",
       "§6Source:",
       "§aI: §6Beetle Pests",
+      "§aI-V: §7Bazaar",
+      "§aVI: §6A Beginner's Guide to Pesthunting",
       "",
       "§6Applied To:",
       "§7- §fArmor",
@@ -167425,7 +167428,7 @@
     "internalname": "PESTERMINATOR;3",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pesterminator",
@@ -167435,20 +167438,21 @@
   "PESTERMINATOR;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:4},id:\"PESTERMINATOR;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Pesterminator IV\",1:\"§7Grants §6+8☘ Farming Fortune §7and\",2:\"§2+4ൠ Bonus Pest Chance§7, which\",3:\"§7increases your chance to spawn\",4:\"§7bonus §2Pests §7on §aThe Garden§7.\",5:\"\",6:\"§7Use this on an item in an Anvil\",7:\"§7to apply it!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Beetle Pests\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fArmor\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:4},id:\"PESTERMINATOR;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Pesterminator IV\",3:\"§7Grants §6+8☘ Farming Fortune §7and\",4:\"§2+4ൠ Bonus Pest Chance§7, which\",5:\"§7increases your chance to spawn\",6:\"§7bonus §2Pests §7on §aThe Garden§7.\",7:\"\",8:\"§6Source:\",9:\"§aI: §6Beetle Pests\",10:\"§aI-V: §7Bazaar\",11:\"§aVI: §6A Beginner's Guide to Pesthunting\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Pesterminator IV",
       "§7Grants §6+8☘ Farming Fortune §7and",
       "§2+4ൠ Bonus Pest Chance§7, which",
       "§7increases your chance to spawn",
       "§7bonus §2Pests §7on §aThe Garden§7.",
       "",
-      "§7Use this on an item in an Anvil",
-      "§7to apply it!",
-      "",
       "§6Source:",
       "§aI: §6Beetle Pests",
+      "§aI-V: §7Bazaar",
+      "§aVI: §6A Beginner's Guide to Pesthunting",
       "",
       "§6Applied To:",
       "§7- §fArmor",
@@ -167458,7 +167462,7 @@
     "internalname": "PESTERMINATOR;4",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pesterminator",
@@ -167468,20 +167472,21 @@
   "PESTERMINATOR;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:5},id:\"PESTERMINATOR;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Pesterminator V\",1:\"§7Grants §6+10☘ Farming Fortune §7and\",2:\"§2+5ൠ Bonus Pest Chance§7, which\",3:\"§7increases your chance to spawn\",4:\"§7bonus §2Pests §7on §aThe Garden§7.\",5:\"\",6:\"§7Use this on an item in an Anvil\",7:\"§7to apply it!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Beetle Pests\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fArmor\",14:\"\",15:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:5},id:\"PESTERMINATOR;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Pesterminator V\",3:\"§7Grants §6+10☘ Farming Fortune §7and\",4:\"§2+5ൠ Bonus Pest Chance§7, which\",5:\"§7increases your chance to spawn\",6:\"§7bonus §2Pests §7on §aThe Garden§7.\",7:\"\",8:\"§6Source:\",9:\"§aI: §6Beetle Pests\",10:\"§aI-V: §7Bazaar\",11:\"§aVI: §6A Beginner's Guide to Pesthunting\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Pesterminator V",
       "§7Grants §6+10☘ Farming Fortune §7and",
       "§2+5ൠ Bonus Pest Chance§7, which",
       "§7increases your chance to spawn",
       "§7bonus §2Pests §7on §aThe Garden§7.",
       "",
-      "§7Use this on an item in an Anvil",
-      "§7to apply it!",
-      "",
       "§6Source:",
       "§aI: §6Beetle Pests",
+      "§aI-V: §7Bazaar",
+      "§aVI: §6A Beginner's Guide to Pesthunting",
       "",
       "§6Applied To:",
       "§7- §fArmor",
@@ -167491,7 +167496,41 @@
     "internalname": "PESTERMINATOR;5",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pesterminator",
+      "https://wiki.hypixel.net/Pesterminator_Enchantment"
+    ]
+  },
+  "PESTERMINATOR;6": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{pesterminator:6},id:\"PESTERMINATOR;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Pesterminator VI\",3:\"§7Grants §6+12☘ Farming Fortune §7and\",4:\"§2+6ൠ Bonus Pest Chance§7, which\",5:\"§7increases your chance to spawn\",6:\"§7bonus §2Pests §7on §aThe Garden§7.\",7:\"\",8:\"§6Source:\",9:\"§aI: §6Beetle Pests\",10:\"§aI-V: §7Bazaar\",11:\"§aVI: §6A Beginner's Guide to Pesthunting\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Pesterminator VI",
+      "§7Grants §6+12☘ Farming Fortune §7and",
+      "§2+6ൠ Bonus Pest Chance§7, which",
+      "§7increases your chance to spawn",
+      "§7bonus §2Pests §7on §aThe Garden§7.",
+      "",
+      "§6Source:",
+      "§aI: §6Beetle Pests",
+      "§aI-V: §7Bazaar",
+      "§aVI: §6A Beginner's Guide to Pesthunting",
+      "",
+      "§6Applied To:",
+      "§7- §fArmor",
+      "",
+      "§9§lRARE"
+    ],
+    "internalname": "PESTERMINATOR;6",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pesterminator",
@@ -254345,18 +254384,18 @@
   "TIDAL;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{tidal:1},id:\"TIDAL;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Tidal I\",1:\"§7Increases your §a❈ Defense §7by §a+5%\",2:\"§7against Sea Creatures.\",3:\"\",4:\"§7Use this on an item in an Anvil to\",5:\"§7apply it!\",6:\"\",7:\"§6Source:\",8:\"§aI: §7Lukas the Aquarist\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fLeggings\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{tidal:1},id:\"TIDAL;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Tidal I\",3:\"§7Increases your §a❈ Defense §7by §a+5%\",4:\"§7against Sea Creatures.\",5:\"\",6:\"§6Source:\",7:\"§aI: §7Lukas the Aquarist\",8:\"§aI-III: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fLeggings\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Tidal I",
       "§7Increases your §a❈ Defense §7by §a+5%",
       "§7against Sea Creatures.",
       "",
-      "§7Use this on an item in an Anvil to",
-      "§7apply it!",
-      "",
       "§6Source:",
       "§aI: §7Lukas the Aquarist",
+      "§aI-III: §7Bazaar",
       "",
       "§6Applied To:",
       "§7- §fLeggings",
@@ -254376,18 +254415,18 @@
   "TIDAL;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ench:[],HideFlags:254,display:{Lore:[0:\"§9Tidal II\",1:\"§7Increases your §a❈ Defense §7by §a+10%\",2:\"§a§7against Sea Creatures.\",3:\"\",4:\"§7Use this on an item in an Anvil to\",5:\"§7apply it!\",6:\"\",7:\"§6Source:\",8:\"§aI: §7Lukas the Aquarist\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fLeggings\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ExtraAttributes:{id:\"TIDAL;2\",enchantments:{tidal:2}}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{tidal:2},id:\"TIDAL;2\"},HideFlags:254,display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Tidal II\",3:\"§7Increases your §a❈ Defense §7by §a+10%\",4:\"§7against Sea Creatures.\",5:\"\",6:\"§6Source:\",7:\"§aI: §7Lukas the Aquarist\",8:\"§aI-III: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fLeggings\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Tidal II",
       "§7Increases your §a❈ Defense §7by §a+10%",
-      "§a§7against Sea Creatures.",
-      "",
-      "§7Use this on an item in an Anvil to",
-      "§7apply it!",
+      "§7against Sea Creatures.",
       "",
       "§6Source:",
       "§aI: §7Lukas the Aquarist",
+      "§aI-III: §7Bazaar",
       "",
       "§6Applied To:",
       "§7- §fLeggings",
@@ -254407,18 +254446,18 @@
   "TIDAL;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{tidal:3},id:\"TIDAL;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Tidal III\",1:\"§7Increases your §a❈ Defense §7by §a+15%\",2:\"§7against Sea Creatures.\",3:\"\",4:\"§7Use this on an item in an Anvil to\",5:\"§7apply it!\",6:\"\",7:\"§6Source:\",8:\"§aI: §7Lukas the Aquarist\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fLeggings\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{tidal:3},id:\"TIDAL;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Tidal III\",3:\"§7Increases your §a❈ Defense §7by §a+15%\",4:\"§7against Sea Creatures.\",5:\"\",6:\"§6Source:\",7:\"§aI: §7Lukas the Aquarist\",8:\"§aI-III: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fLeggings\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Tidal III",
       "§7Increases your §a❈ Defense §7by §a+15%",
       "§7against Sea Creatures.",
       "",
-      "§7Use this on an item in an Anvil to",
-      "§7apply it!",
-      "",
       "§6Source:",
       "§aI: §7Lukas the Aquarist",
+      "§aI-III: §7Bazaar",
       "",
       "§6Applied To:",
       "§7- §fLeggings",
@@ -258829,8 +258868,7 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cacti",
       "https://wiki.hypixel.net/Turbo-Cacti_Enchantment"
-    ],
-    "parent": "TURBO_CACTUS;1"
+    ]
   },
   "TURBO_CACTUS;5": {
     "itemid": "minecraft:enchanted_book",
@@ -258868,8 +258906,8 @@
   },
   "TURBO_CACTUS;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_cactus:6},id:\"TURBO_CACTUS;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cacti VI\",3:\"§7Grants §6+30☘ Cactus Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_cactus:6},id:\"TURBO_CACTUS;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cacti VI\",3:\"§7Grants §6+30☘ Cactus Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -258886,7 +258924,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_CACTUS;6",
     "clickcommand": "",
@@ -258900,8 +258938,8 @@
   },
   "TURBO_CACTUS;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_cactus:7},id:\"TURBO_CACTUS;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cacti VII\",3:\"§7Grants §6+35☘ Cactus Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_cactus:7},id:\"TURBO_CACTUS;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cacti VII\",3:\"§7Grants §6+35☘ Cactus Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -258918,7 +258956,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_CACTUS;7",
     "clickcommand": "",
@@ -259093,13 +259131,12 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cane",
       "https://wiki.hypixel.net/Turbo-Cane_Enchantment"
-    ],
-    "parent": "TURBO_CANE;1"
+    ]
   },
   "TURBO_CANE;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_cane:6},id:\"TURBO_CANE;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cane VI\",3:\"§7Grants §6+30☘ Sugar Cane Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_cane:6},id:\"TURBO_CANE;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cane VI\",3:\"§7Grants §6+30☘ Sugar Cane Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -259116,7 +259153,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_CANE;6",
     "clickcommand": "",
@@ -259130,8 +259167,8 @@
   },
   "TURBO_CANE;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_cane:7},id:\"TURBO_CANE;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cane VII\",3:\"§7Grants §6+35☘ Sugar Cane Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_cane:7},id:\"TURBO_CANE;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cane VII\",3:\"§7Grants §6+35☘ Sugar Cane Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -259148,7 +259185,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_CANE;7",
     "clickcommand": "",
@@ -259328,8 +259365,8 @@
   },
   "TURBO_CARROT;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_carrot:6},id:\"TURBO_CARROT;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Carrot VI\",3:\"§7Grants §6+30☘ Carrot Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_carrot:6},id:\"TURBO_CARROT;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Carrot VI\",3:\"§7Grants §6+30☘ Carrot Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -259346,7 +259383,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_CARROT;6",
     "clickcommand": "",
@@ -259360,8 +259397,8 @@
   },
   "TURBO_CARROT;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_carrot:7},id:\"TURBO_CARROT;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Carrot VII\",3:\"§7Grants §6+35☘ Carrot Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_carrot:7},id:\"TURBO_CARROT;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Carrot VII\",3:\"§7Grants §6+35☘ Carrot Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -259378,7 +259415,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_CARROT;7",
     "clickcommand": "",
@@ -259519,8 +259556,7 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Cocoa",
       "https://wiki.hypixel.net/Turbo-Cocoa_Enchantment"
-    ],
-    "parent": "TURBO_COCO;1"
+    ]
   },
   "TURBO_COCO;5": {
     "itemid": "minecraft:enchanted_book",
@@ -259558,8 +259594,8 @@
   },
   "TURBO_COCO;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_coco:6},id:\"TURBO_COCO;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cocoa VI\",3:\"§7Grants §6+30☘ Cocoa Beans Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_coco:6},id:\"TURBO_COCO;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cocoa VI\",3:\"§7Grants §6+30☘ Cocoa Beans Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -259576,7 +259612,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_COCO;6",
     "clickcommand": "",
@@ -259590,8 +259626,8 @@
   },
   "TURBO_COCO;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_coco:7},id:\"TURBO_COCO;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cocoa VII\",3:\"§7Grants §6+35☘ Cocoa Beans Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_coco:7},id:\"TURBO_COCO;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Cocoa VII\",3:\"§7Grants §6+35☘ Cocoa Beans Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -259608,7 +259644,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_COCO;7",
     "clickcommand": "",
@@ -259838,8 +259874,7 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Melon",
       "https://wiki.hypixel.net/Turbo-Melon_Enchantment"
-    ],
-    "parent": "TURBO_MELON;1"
+    ]
   },
   "TURBO_MELON;5": {
     "itemid": "minecraft:enchanted_book",
@@ -259877,8 +259912,8 @@
   },
   "TURBO_MELON;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_melon:6},id:\"TURBO_MELON;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Melon VI\",3:\"§7Grants §6+30☘ Melon Slice Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_melon:6},id:\"TURBO_MELON;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Melon VI\",3:\"§7Grants §6+30☘ Melon Slice Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -259895,7 +259930,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_MELON;6",
     "clickcommand": "",
@@ -259909,8 +259944,8 @@
   },
   "TURBO_MELON;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_melon:7},id:\"TURBO_MELON;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Melon VII\",3:\"§7Grants §6+35☘ Melon Slice Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_melon:7},id:\"TURBO_MELON;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Melon VII\",3:\"§7Grants §6+35☘ Melon Slice Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -259927,7 +259962,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_MELON;7",
     "clickcommand": "",
@@ -259999,8 +260034,7 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Moonflower"
-    ],
-    "parent": "TURBO_MOONFLOWER;1"
+    ]
   },
   "TURBO_MOONFLOWER;3": {
     "itemid": "minecraft:enchanted_book",
@@ -260031,8 +260065,7 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Moonflower"
-    ],
-    "parent": "TURBO_MOONFLOWER;1"
+    ]
   },
   "TURBO_MOONFLOWER;4": {
     "itemid": "minecraft:enchanted_book",
@@ -260064,8 +260097,7 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Moonflower"
-    ],
-    "parent": "TURBO_MOONFLOWER;1"
+    ]
   },
   "TURBO_MOONFLOWER;5": {
     "itemid": "minecraft:enchanted_book",
@@ -260097,13 +260129,12 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Moonflower"
-    ],
-    "parent": "TURBO_MOONFLOWER;1"
+    ]
   },
   "TURBO_MOONFLOWER;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_moonflower:6},id:\"TURBO_MOONFLOWER;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Moonflower VI\",3:\"§7Grants §6+30☘ Moonflower Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_moonflower:6},id:\"TURBO_MOONFLOWER;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Moonflower VI\",3:\"§7Grants §6+30☘ Moonflower Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -260120,7 +260151,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_MOONFLOWER;6",
     "clickcommand": "",
@@ -260133,8 +260164,8 @@
   },
   "TURBO_MOONFLOWER;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_moonflower:7},id:\"TURBO_MOONFLOWER;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Moonflower VII\",3:\"§7Grants §6+35☘ Moonflower Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_moonflower:7},id:\"TURBO_MOONFLOWER;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Moonflower VII\",3:\"§7Grants §6+35☘ Moonflower Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -260330,8 +260361,8 @@
   },
   "TURBO_MUSHROOMS;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_mushrooms:6},id:\"TURBO_MUSHROOMS;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Mushrooms VI\",3:\"§7Grants §6+30☘ Mushroom Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_mushrooms:6},id:\"TURBO_MUSHROOMS;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Mushrooms VI\",3:\"§7Grants §6+30☘ Mushroom Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -260348,7 +260379,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_MUSHROOMS;6",
     "clickcommand": "",
@@ -260362,8 +260393,8 @@
   },
   "TURBO_MUSHROOMS;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_mushrooms:7},id:\"TURBO_MUSHROOMS;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Mushrooms VII\",3:\"§7Grants §6+35☘ Mushroom Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_mushrooms:7},id:\"TURBO_MUSHROOMS;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Mushrooms VII\",3:\"§7Grants §6+35☘ Mushroom Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -260380,7 +260411,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_MUSHROOMS;7",
     "clickcommand": "",
@@ -260560,8 +260591,8 @@
   },
   "TURBO_POTATO;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_potato:6},id:\"TURBO_POTATO;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Potato VI\",3:\"§7Grants §6+30☘ Potato Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_potato:6},id:\"TURBO_POTATO;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Potato VI\",3:\"§7Grants §6+30☘ Potato Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -260578,7 +260609,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_POTATO;6",
     "clickcommand": "",
@@ -260592,8 +260623,8 @@
   },
   "TURBO_POTATO;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_potato:7},id:\"TURBO_POTATO;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Potato VII\",3:\"§7Grants §6+35☘ Potato Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_potato:7},id:\"TURBO_POTATO;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Potato VII\",3:\"§7Grants §6+35☘ Potato Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -260610,7 +260641,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_POTATO;7",
     "clickcommand": "",
@@ -260790,8 +260821,8 @@
   },
   "TURBO_PUMPKIN;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_pumpkin:6},id:\"TURBO_PUMPKIN;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Pumpkin VI\",3:\"§7Grants §6+30☘ Pumpkin Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_pumpkin:6},id:\"TURBO_PUMPKIN;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Pumpkin VI\",3:\"§7Grants §6+30☘ Pumpkin Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -260808,7 +260839,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_PUMPKIN;6",
     "clickcommand": "",
@@ -260822,8 +260853,8 @@
   },
   "TURBO_PUMPKIN;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_pumpkin:7},id:\"TURBO_PUMPKIN;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Pumpkin VII\",3:\"§7Grants §6+35☘ Pumpkin Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_pumpkin:7},id:\"TURBO_PUMPKIN;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Pumpkin VII\",3:\"§7Grants §6+35☘ Pumpkin Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -260840,7 +260871,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_PUMPKIN;7",
     "clickcommand": "",
@@ -260975,8 +261006,7 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Rose"
-    ],
-    "parent": "TURBO_ROSE;1"
+    ]
   },
   "TURBO_ROSE;5": {
     "itemid": "minecraft:enchanted_book",
@@ -261008,13 +261038,12 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Rose"
-    ],
-    "parent": "TURBO_ROSE;1"
+    ]
   },
   "TURBO_ROSE;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_rose:6},id:\"TURBO_ROSE;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Rose VI\",3:\"§7Grants §6+30☘ Wild Rose Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_rose:6},id:\"TURBO_ROSE;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Rose VI\",3:\"§7Grants §6+30☘ Wild Rose Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -261031,7 +261060,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_ROSE;6",
     "clickcommand": "",
@@ -261044,8 +261073,8 @@
   },
   "TURBO_ROSE;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_rose:7},id:\"TURBO_ROSE;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Rose VII\",3:\"§7Grants §6+35☘ Wild Rose Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_rose:7},id:\"TURBO_ROSE;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Rose VII\",3:\"§7Grants §6+35☘ Wild Rose Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -261062,7 +261091,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_ROSE;7",
     "clickcommand": "",
@@ -261133,8 +261162,7 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Sunflower"
-    ],
-    "parent": "TURBO_SUNFLOWER;1"
+    ]
   },
   "TURBO_SUNFLOWER;3": {
     "itemid": "minecraft:enchanted_book",
@@ -261165,8 +261193,7 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Sunflower"
-    ],
-    "parent": "TURBO_SUNFLOWER;1"
+    ]
   },
   "TURBO_SUNFLOWER;4": {
     "itemid": "minecraft:enchanted_book",
@@ -261198,8 +261225,7 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Sunflower"
-    ],
-    "parent": "TURBO_SUNFLOWER;1"
+    ]
   },
   "TURBO_SUNFLOWER;5": {
     "itemid": "minecraft:enchanted_book",
@@ -261231,13 +261257,12 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo-Sunflower"
-    ],
-    "parent": "TURBO_SUNFLOWER;1"
+    ]
   },
   "TURBO_SUNFLOWER;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_sunflower:6},id:\"TURBO_SUNFLOWER;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Sunflower VI\",3:\"§7Grants §6+30☘ Sunflower Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_sunflower:6},id:\"TURBO_SUNFLOWER;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Sunflower VI\",3:\"§7Grants §6+30☘ Sunflower Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -261254,7 +261279,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_SUNFLOWER;6",
     "clickcommand": "",
@@ -261267,8 +261292,8 @@
   },
   "TURBO_SUNFLOWER;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_sunflower:7},id:\"TURBO_SUNFLOWER;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Sunflower VII\",3:\"§7Grants §6+35☘ Sunflower Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_sunflower:7},id:\"TURBO_SUNFLOWER;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Sunflower VII\",3:\"§7Grants §6+35☘ Sunflower Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -261285,7 +261310,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_SUNFLOWER;7",
     "clickcommand": "",
@@ -261464,8 +261489,8 @@
   },
   "TURBO_WARTS;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_warts:6},id:\"TURBO_WARTS;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Warts VI\",3:\"§7Grants §6+30☘ Nether Wart Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_warts:6},id:\"TURBO_WARTS;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Warts VI\",3:\"§7Grants §6+30☘ Nether Wart Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -261482,7 +261507,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_WARTS;6",
     "clickcommand": "",
@@ -261496,8 +261521,8 @@
   },
   "TURBO_WARTS;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_warts:7},id:\"TURBO_WARTS;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Warts VII\",3:\"§7Grants §6+35☘ Nether Wart Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_warts:7},id:\"TURBO_WARTS;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Warts VII\",3:\"§7Grants §6+35☘ Nether Wart Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -261694,8 +261719,8 @@
   },
   "TURBO_WHEAT;6": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_wheat:6},id:\"TURBO_WHEAT;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Wheat VI\",3:\"§7Grants §6+30☘ Wheat Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_wheat:6},id:\"TURBO_WHEAT;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Wheat VI\",3:\"§7Grants §6+30☘ Wheat Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -261712,7 +261737,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§9§lRARE"
     ],
     "internalname": "TURBO_WHEAT;6",
     "clickcommand": "",
@@ -261726,8 +261751,8 @@
   },
   "TURBO_WHEAT;7": {
     "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{turbo_wheat:7},id:\"TURBO_WHEAT;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Wheat VII\",3:\"§7Grants §6+35☘ Wheat Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{turbo_wheat:7},id:\"TURBO_WHEAT;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Turbo-Wheat VII\",3:\"§7Grants §6+35☘ Wheat Fortune§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Jacob's Farming Contest\",7:\"§aI-V: §7Bazaar\",8:\"§aVI: §6Turbo Gourd\",9:\"§aVII: §dEnchanted Turbo Gourd\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFarming Tool\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -261744,7 +261769,7 @@
       "§6Applied To:",
       "§7- §fFarming Tool",
       "",
-      "§a§lUNCOMMON"
+      "§5§lEPIC"
     ],
     "internalname": "TURBO_WHEAT;7",
     "clickcommand": "",
