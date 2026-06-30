@@ -10516,15 +10516,59 @@
       }
     ]
   },
+  "CENTURY_ARTIFACT": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Artifact of the Century",
+    "nbttag": "{ExtraAttributes:{id:\"CENTURY_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e881e189-3d65-3ac0-872c-de2368c1a2fb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"SbTQwViLxKcjB821oRJiXIjA6YkBbtXX/MLsjYTrYX4L4sATtPY3xkdePw354AZyNa+9SjF+mO7ggsGINidCm1vsi1pfubBWaWlDJe8yriebcI/hHG7lcmOVJxL5fLnDQQX/5cNt7Mpt13xb8CqEIuZXR2zWJAZEijQ+O/Dv533OBl9DS7f+qA6tk75o/cfExaJQ+EVuH+gBIrMG5WM4R3sHvlT6JfPjhYCR3qHOYi8aEM9kh2YvnLeQ9lCERxfjxtb+rDj4v13EJKvbN3KTdz9YML2eAwYGMpIHRr4UNfTlvsmG/iBpOVRvnc19jzH9WXQ84WZiKBtpzHYPpJOGn3e62UA76YCoiN33KERFrm9nlBtwM53BNDcwB3Pk91k3PlTCA/xdeudwCXUSaO6grnTd7hf7i8YMCigARew+tG0Ne7eumKPFKay7ARTW6uZjbkl3I9bzK/Jv8QrF2upFRhsTHy262EHuidcAUMqJX9IdBlTx2IGbAt2lG/ikm17aZThyoPxh29pWs24nSmyvBNoTkNEYHQoitoA2cDRTuZkIz5i+l8GIH7mGgYcgV4cr2IEO20zmnY+QyF8SyRnYEd65kcjroc/iaB3l28BcKqhqsYp6/PUr/uLFtA4VBUmv1gxsJCS2qB9VVKlnU9CfGoVy7OKMUW2OX3VVptB7MaA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MTYyOTkxNDEwNywKICAicHJvZmlsZUlkIiA6ICJjNGU0ZDY2MWRkMDQ0MDE3ODNhZDM5NGEzMDBjOTFjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSNTBrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RkN2ZiMDkyNmY1ODhkODEyMzAwOTNjNmZlZGRiNDhiMmU2MTQxMjAzNjNiYTljODY3OGJmYjcwYjU4MTM4OTMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Increases your chances of finding\",1:\"§dCake Souls §7when eating §dCentury\",2:\"§dCakes §7by §a3%§7.\",3:\"\",4:\"§8§oWhat's better than a party? A party\",5:\"§8§owith free goodies and two accessory\",6:\"§8§oupgrades!\",7:\"\",8:\"§8Works while in Accessory Bag!\",9:\"§9§lRARE ACCESSORY\"],Name:\"§9Artifact of the Century\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Increases your chances of finding",
+      "§dCake Souls §7when eating §dCentury",
+      "§dCakes §7by §a3%§7.",
+      "",
+      "§8§oWhat's better than a party? A party",
+      "§8§owith free goodies and two accessory",
+      "§8§oupgrades!",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§9§lRARE ACCESSORY"
+    ],
+    "internalname": "CENTURY_ARTIFACT",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "TOKEN_OF_THE_CENTURY:2",
+        "A2": "TOKEN_OF_THE_CENTURY:2",
+        "A3": "TOKEN_OF_THE_CENTURY:2",
+        "B1": "TOKEN_OF_THE_CENTURY:2",
+        "B2": "CENTURY_RING:1",
+        "B3": "TOKEN_OF_THE_CENTURY:2",
+        "C1": "TOKEN_OF_THE_CENTURY:2",
+        "C2": "TOKEN_OF_THE_CENTURY:2",
+        "C3": "TOKEN_OF_THE_CENTURY:2",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "CENTURY_ARTIFACT"
+      }
+    ]
+  },
   "CENTURY_RING": {
     "itemid": "minecraft:skull",
     "displayname": "§aRing of the Century",
-    "nbttag": "{ExtraAttributes:{id:\"CENTURY_RING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"86aeb2c7-9c3a-34c0-a366-6653006f9a15\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CdZ1oxPbBBrPWfvJGwmwtU0xG4WVi8EcSvofh7L7KetbeZvlbUSy6hWny1cbPd5Y6CwvA1e4P9wD9sIXfgMYAV8SxeBM7Qr6v9R5nw8ZlJ5S86t6t16f61iGOVvFEknLmj+SrNkZJfBtVxtaRG4leC55UOLnfAIRxiATq4OPwBUL2QCtLI6xo/CQ+ISaAaLwni/1Skiv/7OwZdJfCQmmijL08QgMWxfH/i1w6a3Fc6MG5VuAwpazU7IZ2RWP/rJM5iYhwk2tG/Xw6AwPGTUXzw0MXPnjARCSvIcOx/8nqEYjV10hogU/3EgBfG5z7SuMiDqmA8pdm5MbhZ7w/+W+v/jTtB2OQop6fs+D+gXdesFQBPZA7gIErb1yphMV/113Q1MS+AMeq2tbUB22VjWgdjXh0iSSkm8uUQ11BtI2mCuKTfBKjZ+M/uyqhZgo0M/qVUCIyVD1pDSEYvhOTth7A6cgzqvsYig2jCJ+/HgXrjiDx+/NZ7YHb7B/Zugw8fDHnC6lz/2UwV2OR9cytYo013Efm52G9RhuyCWAmnO+IyZzwnTRT4LiH2mKMgQLbjvUG4iTfRa/OUbGRBBDUDAi/DBSeJ57BKv+EVjwj8dpb+jQWm5mBAW8AKHEPY0OmZ33iUrogpuuUMIM7Ol1pt7F48sNQ+WFy7x8mY7O1SfUlro=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczNTM3OTQyNDg4NSwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZGE5NWIwMjM5ODAyNjEwOWM0MmNjMjJlN2Q4MmQ0ZTFkN2E1OGFkZjExMDA5Y2VkYmVmMzY0OTZmZjhkYzU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7What's better than a party? A party\",1:\"§7with free goodies and an accessory\",2:\"§7upgrade!\",3:\"\",4:\"§8Works while in Accessory Bag!\",5:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aRing of the Century\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CENTURY_RING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"86aeb2c7-9c3a-34c0-a366-6653006f9a15\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CdZ1oxPbBBrPWfvJGwmwtU0xG4WVi8EcSvofh7L7KetbeZvlbUSy6hWny1cbPd5Y6CwvA1e4P9wD9sIXfgMYAV8SxeBM7Qr6v9R5nw8ZlJ5S86t6t16f61iGOVvFEknLmj+SrNkZJfBtVxtaRG4leC55UOLnfAIRxiATq4OPwBUL2QCtLI6xo/CQ+ISaAaLwni/1Skiv/7OwZdJfCQmmijL08QgMWxfH/i1w6a3Fc6MG5VuAwpazU7IZ2RWP/rJM5iYhwk2tG/Xw6AwPGTUXzw0MXPnjARCSvIcOx/8nqEYjV10hogU/3EgBfG5z7SuMiDqmA8pdm5MbhZ7w/+W+v/jTtB2OQop6fs+D+gXdesFQBPZA7gIErb1yphMV/113Q1MS+AMeq2tbUB22VjWgdjXh0iSSkm8uUQ11BtI2mCuKTfBKjZ+M/uyqhZgo0M/qVUCIyVD1pDSEYvhOTth7A6cgzqvsYig2jCJ+/HgXrjiDx+/NZ7YHb7B/Zugw8fDHnC6lz/2UwV2OR9cytYo013Efm52G9RhuyCWAmnO+IyZzwnTRT4LiH2mKMgQLbjvUG4iTfRa/OUbGRBBDUDAi/DBSeJ57BKv+EVjwj8dpb+jQWm5mBAW8AKHEPY0OmZ33iUrogpuuUMIM7Ol1pt7F48sNQ+WFy7x8mY7O1SfUlro=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczNTM3OTQyNDg4NSwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZGE5NWIwMjM5ODAyNjEwOWM0MmNjMjJlN2Q4MmQ0ZTFkN2E1OGFkZjExMDA5Y2VkYmVmMzY0OTZmZjhkYzU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Increases your chances of finding\",1:\"§dCake Souls §7when eating §dCentury\",2:\"§dCakes §7by §a2%§7.\",3:\"\",4:\"§8§oWhat's better than a party? A party\",5:\"§8§owith free goodies and an accessory\",6:\"§8§oupgrade!\",7:\"\",8:\"§8Works while in Accessory Bag!\",9:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aRing of the Century\"}}",
     "damage": 3,
     "lore": [
-      "§7What's better than a party? A party",
-      "§7with free goodies and an accessory",
-      "§7upgrade!",
+      "§7Increases your chances of finding",
+      "§dCake Souls §7when eating §dCentury",
+      "§dCakes §7by §a2%§7.",
+      "",
+      "§8§oWhat's better than a party? A party",
+      "§8§owith free goodies and an accessory",
+      "§8§oupgrade!",
       "",
       "§8Works while in Accessory Bag!",
       "§a§lUNCOMMON ACCESSORY"
@@ -10532,7 +10576,7 @@
     "internalname": "CENTURY_RING",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ring_of_the_Century",
@@ -40772,21 +40816,19 @@
   "HEPHAESTUS_ANVIL": {
     "itemid": "minecraft:skull",
     "displayname": "§5Hephaestus Anvil",
-    "nbttag": "{ExtraAttributes:{id:\"HEPHAESTUS_ANVIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f28d7a86-33b0-3d2d-a634-dbedf24e6177\",Properties:{textures:[0:{Name:\"textures\",Signature:\"s6EtwBwlH/K+wwDcscLwO8bSQTszI6xA3yLfh92afC4nK/9Dvzjvp9G5rXtW62ncEeuNUii3tFukbdFtsrip6KQlvw7w5ycmk9I1Z/6J2ppQ7DEsdmiQW3TqHndjKuWvigZS+vGXwBT00tyj0vivrWEY83GWmd/1JjbXOwDNFGkTIaOoXjEF2/hFcGeRilhm/VoF2VM+vID6uVVbk8iMuKeAE/vHMkriwCGJOwsL7c2BJl60djx5x8Y1bpEzn32onix8ZUSxCCcRf30KPXk/gRybzR5DK476sy14yrV1ZAlkRI5CtXS7+Cx/32qmJx9JcbS0vA8wfWfPMYSWVPVLY0szJyfYUvLQmlOAJBNrS7gqENGPjfwI27BnpK1hUUb5gRWNhC+wGI+qoVXuoHNUX6t7AXn6ZMUTOfeCQtZP0fpSs6GpYAgG+mH65AKEzz6EaHADFKwIHTaVAD59CLD61XtUphrthKZa0gy9zdcpq0tTnu+Yznj+dCRixkZPUn2S7x8me9L0fDkQaPZnBwtmLs0yhKunOsVnrY5oMTN9l16lS4YlLQX5Agc+FzihcwmLbntfa2U69f1OcBib+SNYSRiGtSeb1q48OdmHKtMKkFxbR/pfVVLuFFQEtNVOYbkHScmrMtiDdNl/ZwRogDhpXZAY4UBmU+WPh+KW7Qj4gKc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MDQ4MDUwNTc0MywKICAicHJvZmlsZUlkIiA6ICJkOTcwYzEzZTM4YWI0NzlhOTY1OGM1ZDQ1MjZkMTM0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmltcHlMYWNlODUxMjciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTg4YTE1OWU3NWRjNjI1ODA1MzkzYmY2Yzc1ODcwZGI5YTU5YTRiMTZlNTRkODFhNTQ4NzUwZjhjNmM5OTU5OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Used in crafting to upgrade pet\",1:\"§7items dropped from §2✿ Mythological\",2:\"§7mobs.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Hephaestus Anvil\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"HEPHAESTUS_ANVIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f28d7a86-33b0-3d2d-a634-dbedf24e6177\",Properties:{textures:[0:{Name:\"textures\",Signature:\"s6EtwBwlH/K+wwDcscLwO8bSQTszI6xA3yLfh92afC4nK/9Dvzjvp9G5rXtW62ncEeuNUii3tFukbdFtsrip6KQlvw7w5ycmk9I1Z/6J2ppQ7DEsdmiQW3TqHndjKuWvigZS+vGXwBT00tyj0vivrWEY83GWmd/1JjbXOwDNFGkTIaOoXjEF2/hFcGeRilhm/VoF2VM+vID6uVVbk8iMuKeAE/vHMkriwCGJOwsL7c2BJl60djx5x8Y1bpEzn32onix8ZUSxCCcRf30KPXk/gRybzR5DK476sy14yrV1ZAlkRI5CtXS7+Cx/32qmJx9JcbS0vA8wfWfPMYSWVPVLY0szJyfYUvLQmlOAJBNrS7gqENGPjfwI27BnpK1hUUb5gRWNhC+wGI+qoVXuoHNUX6t7AXn6ZMUTOfeCQtZP0fpSs6GpYAgG+mH65AKEzz6EaHADFKwIHTaVAD59CLD61XtUphrthKZa0gy9zdcpq0tTnu+Yznj+dCRixkZPUn2S7x8me9L0fDkQaPZnBwtmLs0yhKunOsVnrY5oMTN9l16lS4YlLQX5Agc+FzihcwmLbntfa2U69f1OcBib+SNYSRiGtSeb1q48OdmHKtMKkFxbR/pfVVLuFFQEtNVOYbkHScmrMtiDdNl/ZwRogDhpXZAY4UBmU+WPh+KW7Qj4gKc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MDQ4MDUwNTc0MywKICAicHJvZmlsZUlkIiA6ICJkOTcwYzEzZTM4YWI0NzlhOTY1OGM1ZDQ1MjZkMTM0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmltcHlMYWNlODUxMjciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTg4YTE1OWU3NWRjNjI1ODA1MzkzYmY2Yzc1ODcwZGI5YTU5YTRiMTZlNTRkODFhNTQ4NzUwZjhjNmM5OTU5OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Used in crafting to upgrade pet\",1:\"§7items dropped from §2✿ Mythological\",2:\"§7mobs.\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Hephaestus Anvil\"}}",
     "damage": 3,
     "lore": [
       "§7Used in crafting to upgrade pet",
       "§7items dropped from §2✿ Mythological",
       "§7mobs.",
       "",
-      "§eRight-click to view recipes!",
-      "",
       "§5§lEPIC"
     ],
     "internalname": "HEPHAESTUS_ANVIL",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Hephaestus_Anvil",
@@ -42916,12 +42958,12 @@
   "INFERNAL_KUUDRA_CORE": {
     "itemid": "minecraft:skull",
     "displayname": "§6Infernal Kuudra Core",
-    "nbttag": "{ExtraAttributes:{id:\"INFERNAL_KUUDRA_CORE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a53677ad-a8ee-3b0f-af84-2497f10579db\",Properties:{textures:[0:{Name:\"textures\",Signature:\"M9CmBWhyg3bwhmRirCqb3mLL7VFN8rP4jbNI+wkwomYfEneiP+YDtVNl1iQrNqzlfRqQw3cUP9QvzDMzAeoIgzO5Vre2AlMsgyyLhvAzAnr4PCsGulhL084fX5GGJuXYNppWmCbbhiSa/6ZB/B+8DUi9Uo0UZs/6COj5GOYsx4T/Ev13csdi3o4PW07lJaUciz35goaH+j17OVEXg1KFNMpDkgCfgmEkds5QU5byX+DffjXn/7Hb23gTRnmgWznGASzRcgiv+wGgeMDwCeQvPNdTU7uLLCm0w6KiZVaeO3lCAv1a5Lhq1gnDy26dAsenNhFx+sNSAUBaAfWn5ebUymKnzGO3d4SX758tBVWxs4DXj4H3R3g9JnYgjj+s0gO/MjBXzr1ZUWL90ueKYgsLufUmyicOOvgRlBooi2V3OVmg1Ad0BWjuPlhljeFlY2zHdi4DTZLOX2osNvCAvm8Z1WdQ++Hm2YcULbJmq5OHHN8ZSqTe2dRXUHTFojVEkFqjINnQkGg5bPpoJn0qQWXUKRV9qnqpG+1tzJOSPa+xzhqtqI8UHMedwwJjqVHbZY6QZf8T5yVcb4UmpmGa6AznnkWcu+8ziQ3rKxLxmGYN/Biu7yCSK8tJOvN/qfSEEInBhJ0FvvSThuew1DEm8L6fyRk6OhCBpGyU2VZvpeqlWPU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NzA0MDIwMjI1OCwKICAicHJvZmlsZUlkIiA6ICJkNDg1NWJhYWMzYjM0Mjk1YWJmYjBlZjFiYWIyYzBkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21pYXRhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VjZTI1Mjk2M2E1MTg4Y2VmOGVkZTlkODUyM2JkOTFkMjg0YTc4NWI0MThiMzllZWMyOWE5MWFlYTA3YzYxZTIiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Hunter Fortune: §d+3\",1:\"\",2:\"§7Gain §d+3☘ Hunter Fortune§7.\",3:\"\",4:\"§7§oThe dark core of Kuudra!\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Infernal Kuudra Core\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"INFERNAL_KUUDRA_CORE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a53677ad-a8ee-3b0f-af84-2497f10579db\",Properties:{textures:[0:{Name:\"textures\",Signature:\"M9CmBWhyg3bwhmRirCqb3mLL7VFN8rP4jbNI+wkwomYfEneiP+YDtVNl1iQrNqzlfRqQw3cUP9QvzDMzAeoIgzO5Vre2AlMsgyyLhvAzAnr4PCsGulhL084fX5GGJuXYNppWmCbbhiSa/6ZB/B+8DUi9Uo0UZs/6COj5GOYsx4T/Ev13csdi3o4PW07lJaUciz35goaH+j17OVEXg1KFNMpDkgCfgmEkds5QU5byX+DffjXn/7Hb23gTRnmgWznGASzRcgiv+wGgeMDwCeQvPNdTU7uLLCm0w6KiZVaeO3lCAv1a5Lhq1gnDy26dAsenNhFx+sNSAUBaAfWn5ebUymKnzGO3d4SX758tBVWxs4DXj4H3R3g9JnYgjj+s0gO/MjBXzr1ZUWL90ueKYgsLufUmyicOOvgRlBooi2V3OVmg1Ad0BWjuPlhljeFlY2zHdi4DTZLOX2osNvCAvm8Z1WdQ++Hm2YcULbJmq5OHHN8ZSqTe2dRXUHTFojVEkFqjINnQkGg5bPpoJn0qQWXUKRV9qnqpG+1tzJOSPa+xzhqtqI8UHMedwwJjqVHbZY6QZf8T5yVcb4UmpmGa6AznnkWcu+8ziQ3rKxLxmGYN/Biu7yCSK8tJOvN/qfSEEInBhJ0FvvSThuew1DEm8L6fyRk6OhCBpGyU2VZvpeqlWPU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NzA0MDIwMjI1OCwKICAicHJvZmlsZUlkIiA6ICJkNDg1NWJhYWMzYjM0Mjk1YWJmYjBlZjFiYWIyYzBkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21pYXRhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VjZTI1Mjk2M2E1MTg4Y2VmOGVkZTlkODUyM2JkOTFkMjg0YTc4NWI0MThiMzllZWMyOWE5MWFlYTA3YzYxZTIiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Hunter Fortune: §d+3\",1:\"\",2:\"§7Grants §d+3☘ Hunter Fortune§7.\",3:\"\",4:\"§7§oThe dark core of Kuudra!\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Infernal Kuudra Core\"}}",
     "damage": 3,
     "lore": [
       "§7Hunter Fortune: §d+3",
       "",
-      "§7Gain §d+3☘ Hunter Fortune§7.",
+      "§7Grants §d+3☘ Hunter Fortune§7.",
       "",
       "§7§oThe dark core of Kuudra!",
       "",
@@ -42931,7 +42973,7 @@
     "internalname": "INFERNAL_KUUDRA_CORE",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Infernal_Kuudra_Core",
@@ -43008,8 +43050,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "BLAZE_ROD_DISTILLATE:1",
@@ -43048,8 +43090,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "CRUDE_GABAGOOL_DISTILLATE:1",
@@ -43088,8 +43130,8 @@
     "modver": "Firmament 44.0.1+mc1.21.11",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "GLOWSTONE_DUST_DISTILLATE:1",
@@ -43128,8 +43170,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "MAGMA_CREAM_DISTILLATE:1",
@@ -43168,8 +43210,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "NETHER_STALK_DISTILLATE:1",
@@ -43690,8 +43732,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "BLAZE_ROD_DISTILLATE:1",
@@ -43730,8 +43772,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "CRUDE_GABAGOOL_DISTILLATE:1",
@@ -43770,8 +43812,8 @@
     "modver": "Firmament 44.0.1+mc1.21.11",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "GLOWSTONE_DUST_DISTILLATE:1",
@@ -43810,8 +43852,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "MAGMA_CREAM_DISTILLATE:1",
@@ -43850,8 +43892,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "NETHER_STALK_DISTILLATE:1",
@@ -43893,8 +43935,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "BLAZE_ROD_DISTILLATE:1",
@@ -43936,8 +43978,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "CRUDE_GABAGOOL_DISTILLATE:1",
@@ -43979,8 +44021,8 @@
     "modver": "Firmament 44.0.1+mc1.21.11",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "GLOWSTONE_DUST_DISTILLATE:1",
@@ -44022,8 +44064,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "MAGMA_CREAM_DISTILLATE:1",
@@ -44065,8 +44107,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion",
-      "https://wiki.hypixel.net/Inferno_Minion"
+      "https://hypixelskyblock.minecraft.wiki/w/Inferno_Minion_Fuel",
+      "https://wiki.hypixel.net/Inferno_Minion_Fuel"
     ],
     "recipe": {
       "A1": "NETHER_STALK_DISTILLATE:1",
@@ -52494,12 +52536,14 @@
   "MASTER_SKULL_TIER_7": {
     "itemid": "minecraft:skull",
     "displayname": "§6Master Skull - Tier 7",
-    "nbttag": "{ExtraAttributes:{id:\"MASTER_SKULL_TIER_7\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c4aefb26-9e84-3f46-a3c4-79ba57a89059\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ADdLbneeu4flAYhFI+itjF7y12WOQlRO2dvAZDrHSTLoIaR13p3ncrp+o5RJ8nZAQ/F7iYEU34i2eEf/9A49pFNZwBymjnyMvJz8d1MC4ttUWnNTZs5LVVWp21OtH2CnGAsuA60UKi1P9MP+AzJa2iVLX9JqjPcOBDQAsUHHWnzwqKjhnCAEMEsfApWsWEVSSI9lmW+1fndh2IKz8ZUODxtzlxBQicLWsaXEmaryYmua2JxHF//nt3O/MAXcT02aMm4IhieTpYVCLuwQne4rEOFZVkknwwFw4P/KbWb6vMxkigdrkcG8gLpfi2euKea4IfTDw327uGGxfiFCZW9/bq5Tp6lQsWaNNXRc045eFnbT1ZT7/bdMq2Bex2yNGLcmoLxWojYKT4QHl2edNvRg9xb6wDBcFWtQa+4Wwm2bs1DPCELjVqgLOQRV+T+7qyUt4fCyMACW7DvEaBZTuts9gBKM7FsCZV5QCspIP5MbHBQXqEA++ra9dXFlX25/q0pXGVYeoDAu1ZXjAkX1T1YwCs8o8KMyokiRBIeM9fcFMUUSyNnrzkzh3B71rgDbJkGpRHL+73mf+hHBoiLUamGSKRlV/Mzw2/kIg+3R+X14nLqRNvrXARqsf3tAZpjAlvTZ2vg0mX8O0n/GV89RZURFDSfpEv9YLWdrU2nfEDFIAOs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzYyOTgxNSwKICAicHJvZmlsZUlkIiA6ICJiOTE5M2NiMjkzMWI0M2FhYmM1OGQ2NjAwMTg3NGRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiMmJsYWtlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwNGU0N2M0MzU3NmY4ZDcyZWJhYmI0NTg3NjRhZmZiNTg4ZmMwMTgyNjI3MzJlODUxNDlkZjliYmFhYjc3NjciCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Grants §a+10% §c❤ Health§7 and §c❁\",1:\"§cStrength§7 while in §cMaster Mode\",2:\"§7Dungeons.\",3:\"\",4:\"§8Works while in Accessory Bag!\",5:\"§6§lLEGENDARY DUNGEON ACCESSORY\"],Name:\"§6Master Skull - Tier 7\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MASTER_SKULL_TIER_7\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c4aefb26-9e84-3f46-a3c4-79ba57a89059\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ADdLbneeu4flAYhFI+itjF7y12WOQlRO2dvAZDrHSTLoIaR13p3ncrp+o5RJ8nZAQ/F7iYEU34i2eEf/9A49pFNZwBymjnyMvJz8d1MC4ttUWnNTZs5LVVWp21OtH2CnGAsuA60UKi1P9MP+AzJa2iVLX9JqjPcOBDQAsUHHWnzwqKjhnCAEMEsfApWsWEVSSI9lmW+1fndh2IKz8ZUODxtzlxBQicLWsaXEmaryYmua2JxHF//nt3O/MAXcT02aMm4IhieTpYVCLuwQne4rEOFZVkknwwFw4P/KbWb6vMxkigdrkcG8gLpfi2euKea4IfTDw327uGGxfiFCZW9/bq5Tp6lQsWaNNXRc045eFnbT1ZT7/bdMq2Bex2yNGLcmoLxWojYKT4QHl2edNvRg9xb6wDBcFWtQa+4Wwm2bs1DPCELjVqgLOQRV+T+7qyUt4fCyMACW7DvEaBZTuts9gBKM7FsCZV5QCspIP5MbHBQXqEA++ra9dXFlX25/q0pXGVYeoDAu1ZXjAkX1T1YwCs8o8KMyokiRBIeM9fcFMUUSyNnrzkzh3B71rgDbJkGpRHL+73mf+hHBoiLUamGSKRlV/Mzw2/kIg+3R+X14nLqRNvrXARqsf3tAZpjAlvTZ2vg0mX8O0n/GV89RZURFDSfpEv9YLWdrU2nfEDFIAOs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzYyOTgxNSwKICAicHJvZmlsZUlkIiA6ICJiOTE5M2NiMjkzMWI0M2FhYmM1OGQ2NjAwMTg3NGRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiMmJsYWtlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwNGU0N2M0MzU3NmY4ZDcyZWJhYmI0NTg3NjRhZmZiNTg4ZmMwMTgyNjI3MzJlODUxNDlkZjliYmFhYjc3NjciCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Grants §a+10% §c❤ Health§7 and §c❁\",1:\"§cStrength§7 while in §cMaster Mode\",2:\"§7Dungeons.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§6§lLEGENDARY DUNGEON ACCESSORY\"],Name:\"§6Master Skull - Tier 7\"}}",
     "damage": 3,
     "lore": [
       "§7Grants §a+10% §c❤ Health§7 and §c❁",
       "§cStrength§7 while in §cMaster Mode",
       "§7Dungeons.",
+      "",
+      "§eRight-click to view recipes!",
       "",
       "§8Works while in Accessory Bag!",
       "§6§lLEGENDARY DUNGEON ACCESSORY"
@@ -52507,7 +52551,7 @@
     "internalname": "MASTER_SKULL_TIER_7",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Master_Skull_-_Tier_7",
@@ -74186,23 +74230,17 @@
   "SALMON_HAT": {
     "itemid": "minecraft:skull",
     "displayname": "§fSalmon Hat",
-    "nbttag": "{ExtraAttributes:{enchantments:{aqua_affinity:1,depth_strider:1,respiration:5},id:\"SALMON_HAT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"da55496f-a308-3f9a-b08a-c113eda42b9a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ShuiFlqBL5vE7M9El2DnaP2y30QNDZiPI2blfQcmtzwj0amSvUBj+EcYBu5S50AdYkir8l+wEGyz5uV4c1A1ONFDtlmB1bUUTp+k8zukh5vKA6MORq9OIyKJi29ZbR0Lu64F/1tRMQUeHl06fMZsk4NAoit4+B0E72XXlosceo7TDo/KaYI6pMeXmgswQVNDj4hXNmJjCEx8+uZVv1gxNFeP6Q2BIt92cZzTm8dkuznu9naM4ReKp/ULI2/0yGGsf4iroBXPfomCRdWz7XoLixheYRv72omONeVgxNL5pzUACbj6sz4vWbLg4oYtBHAct3YMznUJD6JmeGopP6zPQUVPhtFuJMwS+I4vpx2YWJWypa/M0BIcTBqD/WJ3VUyIap+y4hyUCfc2faVFsfksKj8TeR9yR3h5RbRM5rruT6+LAPrcWXsBAgsY+fnWdhDwyz3cj/icuhpcqr4NvMtr1v0W4hOTI4Dl6PfSrUCnJqcbQO39oZdkGJtkE5a//ytbbadiILZ557QJM6SW1Vu0K6XG8svmY/yItbqhLzDAjDggut5C1K9X+AoXN/Hc5qmJP1RiieogjwrgNKs0j2jdeAyO9/MvxmsVqvg+sNDsf9sCPd5y830lP+A3F5zeFdRdJlJpRSwb6lIdQNIEwXC2KXptxo0AzQzVATfSrAOnFA4=\",Value:\"eyJ0aW1lc3RhbXAiOjE1NzE0OTQwMDUwMTAsInByb2ZpbGVJZCI6ImVkNTNkZDgxNGY5ZDRhM2NiNGViNjUxZGNiYTc3ZTY2IiwicHJvZmlsZU5hbWUiOiJGb3J5eExPTCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTViNDM1MDNiMTBmNTJmNDhmNGJjYzQ3MTViNGEwYTU2ZTdlZjM5NTMzYTE4MWUyNWI0OGY1YzM4YWZmZTcxIn19fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+15\",1:\"§7Speed: §f+2\",2:\"§7Respiration: §3+75\",3:\"\",4:\"§9Aqua Affinity I\",5:\"§7Increases your underwater mining\",6:\"§7rate.\",7:\"§9Depth Strider I\",8:\"§7Reduces how much you are slowed in\",9:\"§7the water by §a33%§7.\",10:\"§9Respiration V\",11:\"§7Grants §3+75⚶ Respiration§7, which\",12:\"§7increases the amount of time you\",13:\"§7can stay under water.\",14:\"\",15:\"§8This item can be reforged!\",16:\"§f§lCOMMON HELMET\"],Name:\"§fSalmon Hat\"},ench:[0:{id:6S,lvl:1S}]}",
+    "nbttag": "{ExtraAttributes:{id:\"SALMON_HAT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"da55496f-a308-3f9a-b08a-c113eda42b9a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ShuiFlqBL5vE7M9El2DnaP2y30QNDZiPI2blfQcmtzwj0amSvUBj+EcYBu5S50AdYkir8l+wEGyz5uV4c1A1ONFDtlmB1bUUTp+k8zukh5vKA6MORq9OIyKJi29ZbR0Lu64F/1tRMQUeHl06fMZsk4NAoit4+B0E72XXlosceo7TDo/KaYI6pMeXmgswQVNDj4hXNmJjCEx8+uZVv1gxNFeP6Q2BIt92cZzTm8dkuznu9naM4ReKp/ULI2/0yGGsf4iroBXPfomCRdWz7XoLixheYRv72omONeVgxNL5pzUACbj6sz4vWbLg4oYtBHAct3YMznUJD6JmeGopP6zPQUVPhtFuJMwS+I4vpx2YWJWypa/M0BIcTBqD/WJ3VUyIap+y4hyUCfc2faVFsfksKj8TeR9yR3h5RbRM5rruT6+LAPrcWXsBAgsY+fnWdhDwyz3cj/icuhpcqr4NvMtr1v0W4hOTI4Dl6PfSrUCnJqcbQO39oZdkGJtkE5a//ytbbadiILZ557QJM6SW1Vu0K6XG8svmY/yItbqhLzDAjDggut5C1K9X+AoXN/Hc5qmJP1RiieogjwrgNKs0j2jdeAyO9/MvxmsVqvg+sNDsf9sCPd5y830lP+A3F5zeFdRdJlJpRSwb6lIdQNIEwXC2KXptxo0AzQzVATfSrAOnFA4=\",Value:\"eyJ0aW1lc3RhbXAiOjE1NzE0OTQwMDUwMTAsInByb2ZpbGVJZCI6ImVkNTNkZDgxNGY5ZDRhM2NiNGViNjUxZGNiYTc3ZTY2IiwicHJvZmlsZU5hbWUiOiJGb3J5eExPTCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTViNDM1MDNiMTBmNTJmNDhmNGJjYzQ3MTViNGEwYTU2ZTdlZjM5NTMzYTE4MWUyNWI0OGY1YzM4YWZmZTcxIn19fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+15\",1:\"§7Speed: §f+2\",2:\"\",3:\"§6Ability: Water Burst  §e§lSNEAK\",4:\"§7When wearing the full set, grants the\",5:\"§7wearer with the ability to §aburst\",6:\"§aforward§7 when sneaking in water.\",7:\"§8Mana Cost: §320\",8:\"\",9:\"§8This item can be reforged!\",10:\"§f§lCOMMON HELMET\"],Name:\"§fSalmon Hat\"}}",
     "damage": 3,
     "lore": [
       "§7Strength: §c+15",
       "§7Speed: §f+2",
-      "§7Respiration: §3+75",
       "",
-      "§9Aqua Affinity I",
-      "§7Increases your underwater mining",
-      "§7rate.",
-      "§9Depth Strider I",
-      "§7Reduces how much you are slowed in",
-      "§7the water by §a33%§7.",
-      "§9Respiration V",
-      "§7Grants §3+75⚶ Respiration§7, which",
-      "§7increases the amount of time you",
-      "§7can stay under water.",
+      "§6Ability: Water Burst  §e§lSNEAK",
+      "§7When wearing the full set, grants the",
+      "§7wearer with the ability to §aburst",
+      "§aforward§7 when sneaking in water.",
+      "§8Mana Cost: §320",
       "",
       "§8This item can be reforged!",
       "§f§lCOMMON HELMET"
@@ -74210,7 +74248,7 @@
     "internalname": "SALMON_HAT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Raw Salmon I",
-    "modver": "Firmament 42.0.0+mc1.21.7",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Salmon_Hat",
