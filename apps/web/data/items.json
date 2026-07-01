@@ -56764,33 +56764,32 @@
     ]
   },
   "DIVAN_DRILL": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§dDivan's Drill",
-    "nbttag": "{ExtraAttributes:{drill_fuel:3000,enchantments:{},id:\"DIVAN_DRILL\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 10\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+1,800 \",4:\"§7Mining Fortune: §6+150\",5:\"§7Gemstones: §8[§7⸕§8] [§7⸕§8] [☘] [☘] [✦]\",6:\"\",7:\"§7Fuel Tank: §cNot Installed\",8:\"§7Increases fuel capacity with\",9:\"§7part installed.\",10:\"\",11:\"§7Drill Engine: §cNot Installed\",12:\"§7Increases §6⸕ Mining Speed\",13:\"§7with part installed.\",14:\"\",15:\"§7Upgrade Module: §cNot Installed\",16:\"§7Applies a passive upgrade with\",17:\"§7part installed.\",18:\"\",19:\"§7Apply Drill Parts to this Drill\",20:\"§7by talking to a §2Drill\",21:\"§2Mechanic§7!\",22:\"\",23:\"§7Fuel: §23,000§8/3k\",24:\"\",25:\"§8This item can be reforged!\",26:\"§4❣ §cRequires §5Heart of the Mountain Tier 7§c.\",27:\"§d§lMYTHIC DRILL\"],Name:\"§dDivan's Drill\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"DIVAN_DRILL\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 10\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+1,800\",4:\"§7Mining Fortune: §6+150\",5:\"§7Gemstones: §8[§7⸕§8] [§7⸕§8] [☘] [☘] [✦]\",6:\"\",7:\"§7Fuel Tank: §cNot Installed\",8:\"§7Increases fuel capacity with part\",9:\"§7installed.\",10:\"\",11:\"§7Drill Engine: §cNot Installed\",12:\"§7Increases §6⸕ Mining Speed §7with part\",13:\"§7installed.\",14:\"\",15:\"§7Upgrade Module: §cNot Installed\",16:\"§7Applies a passive upgrade with part\",17:\"§7installed.\",18:\"\",19:\"§7Apply Drill Parts to this Drill by\",20:\"§7talking to a §2Drill Mechanic§7!\",21:\"\",22:\"§7Fuel: §23,000§8/3k\",23:\"\",24:\"§8This item can be reforged!\",25:\"§4❣ §cRequires §5Heart of the Mountain Tier 7§c.\",26:\"§d§lMYTHIC DRILL\"],Name:\"§dDivan's Drill\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 10",
       "",
       "§7Damage: §c+75",
-      "§7Mining Speed: §6+1,800 ",
+      "§7Mining Speed: §6+1,800",
       "§7Mining Fortune: §6+150",
       "§7Gemstones: §8[§7⸕§8] [§7⸕§8] [☘] [☘] [✦]",
       "",
       "§7Fuel Tank: §cNot Installed",
-      "§7Increases fuel capacity with",
-      "§7part installed.",
+      "§7Increases fuel capacity with part",
+      "§7installed.",
       "",
       "§7Drill Engine: §cNot Installed",
-      "§7Increases §6⸕ Mining Speed",
-      "§7with part installed.",
+      "§7Increases §6⸕ Mining Speed §7with part",
+      "§7installed.",
       "",
       "§7Upgrade Module: §cNot Installed",
-      "§7Applies a passive upgrade with",
-      "§7part installed.",
+      "§7Applies a passive upgrade with part",
+      "§7installed.",
       "",
-      "§7Apply Drill Parts to this Drill",
-      "§7by talking to a §2Drill",
-      "§2Mechanic§7!",
+      "§7Apply Drill Parts to this Drill by",
+      "§7talking to a §2Drill Mechanic§7!",
       "",
       "§7Fuel: §23,000§8/3k",
       "",
@@ -56801,7 +56800,7 @@
     "internalname": "DIVAN_DRILL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 7",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Divan%27s_Drill",
@@ -66267,8 +66266,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Book_Bundle",
+      "https://wiki.hypixel.net/Enchanted_Book_Bundle"
+    ]
   },
   "ENCHANTED_BOOK_BUNDLE_POWER": {
     "itemid": "minecraft:skull",
@@ -66290,8 +66292,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Book_Bundle",
+      "https://wiki.hypixel.net/Enchanted_Book_Bundle"
+    ]
   },
   "ENCHANTED_BOOK_BUNDLE_PRISMATIC": {
     "itemid": "minecraft:skull",
@@ -74701,8 +74706,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Long-Expired_Century_Cake"
+    ]
   },
   "EPOCH_CAKE_GRAY": {
     "itemid": "minecraft:skull",
@@ -74788,8 +74795,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hephaestus%27_Century_Cake"
+    ]
   },
   "EPOCH_CAKE_MAGENTA": {
     "itemid": "minecraft:skull",
@@ -75018,8 +75027,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Starborn_Century_Cake"
+    ]
   },
   "EPOCH_CAKE_WHITE": {
     "itemid": "minecraft:skull",
@@ -93405,9 +93416,9 @@
     ]
   },
   "GEMSTONE_DRILL_1": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§9Ruby Drill TX-15",
-    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_1\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 7\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+150\",4:\"§7Pristine: §5+0.5\",5:\"§7Gemstone Fortune: §6+60\",6:\"§7Gemstones: §8[§7⸕§8] [☘]\",7:\"\",8:\"§7Grants §d+5% Gemstone Powder§7, and\",9:\"§6+800⸕ Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6⸕ Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 4§c.\",31:\"§9§lRARE DRILL\"],Name:\"§9Ruby Drill TX-15\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_1\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 7\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+150\",4:\"§7Pristine: §5+0.5\",5:\"§7Gemstone Fortune: §6+60\",6:\"§7Gemstones: §8[§7⸕§8] [☘]\",7:\"\",8:\"§7Grants §d+5% Gemstone Powder§7, and\",9:\"§6+800⸕ Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6⸕ Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 4§c.\",31:\"§9§lRARE DRILL\"],Name:\"§9Ruby Drill TX-15\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 7",
@@ -93446,7 +93457,7 @@
     "internalname": "GEMSTONE_DRILL_1",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 4",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ruby_Drill_Model_TX-15",
@@ -93467,9 +93478,9 @@
     ]
   },
   "GEMSTONE_DRILL_2": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§9Gemstone Drill LT-522",
-    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_2\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 8\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+300\",4:\"§7Pristine: §5+1\",5:\"§7Gemstone Fortune: §6+80\",6:\"§7Gemstones: §8[§7⸕§8] [☘]\",7:\"\",8:\"§7Grants §d+10% Gemstone Powder§7, and\",9:\"§6+800⸕ Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6⸕ Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 4§c.\",31:\"§9§lRARE DRILL\"],Name:\"§9Gemstone Drill LT-522\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_2\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 8\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+300\",4:\"§7Pristine: §5+1\",5:\"§7Gemstone Fortune: §6+80\",6:\"§7Gemstones: §8[§7⸕§8] [☘]\",7:\"\",8:\"§7Grants §d+10% Gemstone Powder§7, and\",9:\"§6+800⸕ Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6⸕ Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 4§c.\",31:\"§9§lRARE DRILL\"],Name:\"§9Gemstone Drill LT-522\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 8",
@@ -93508,7 +93519,7 @@
     "internalname": "GEMSTONE_DRILL_2",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 4",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Gemstone_Drill_Model_LT-522",
@@ -93528,9 +93539,9 @@
     ]
   },
   "GEMSTONE_DRILL_3": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§5Topaz Drill KGR-12",
-    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_3\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 9\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+450\",4:\"§7Pristine: §5+1.5\",5:\"§7Gemstone Fortune: §6+100\",6:\"§7Gemstones: §8[§7⸕§8] [☘]\",7:\"\",8:\"§7Grants §d+15% Gemstone Powder§7, and\",9:\"§6+800⸕ Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6⸕ Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",31:\"§5§lEPIC DRILL\"],Name:\"§5Topaz Drill KGR-12\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_3\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 9\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+450\",4:\"§7Pristine: §5+1.5\",5:\"§7Gemstone Fortune: §6+100\",6:\"§7Gemstones: §8[§7⸕§8] [☘]\",7:\"\",8:\"§7Grants §d+15% Gemstone Powder§7, and\",9:\"§6+800⸕ Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6⸕ Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",31:\"§5§lEPIC DRILL\"],Name:\"§5Topaz Drill KGR-12\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 9",
@@ -93569,7 +93580,7 @@
     "internalname": "GEMSTONE_DRILL_3",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 5",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Topaz_Drill_KGR-12",
@@ -93591,9 +93602,9 @@
     ]
   },
   "GEMSTONE_DRILL_4": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§5Jasper Drill X",
-    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_4\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 9\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+600\",4:\"§7Pristine: §5+2\",5:\"§7Gemstone Fortune: §6+120\",6:\"§7Gemstones: §8[§7⸕§8] [☘]\",7:\"\",8:\"§7Grants §d+20% Gemstone Powder§7, and\",9:\"§6+800⸕ Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6⸕ Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",31:\"§5§lEPIC DRILL\"],Name:\"§5Jasper Drill X\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_4\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 9\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+600\",4:\"§7Pristine: §5+2\",5:\"§7Gemstone Fortune: §6+120\",6:\"§7Gemstones: §8[§7⸕§8] [☘]\",7:\"\",8:\"§7Grants §d+20% Gemstone Powder§7, and\",9:\"§6+800⸕ Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6⸕ Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",31:\"§5§lEPIC DRILL\"],Name:\"§5Jasper Drill X\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 9",
@@ -93632,7 +93643,7 @@
     "internalname": "GEMSTONE_DRILL_4",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 6",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Jasper_Drill_X",
@@ -111176,8 +111187,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hephaestus%27_Lucky_Dip"
+    ]
   },
   "HEPHAESTUS_PLUSHIE": {
     "itemid": "minecraft:skull",
@@ -139063,7 +139076,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     ]
   },
   "MAGMARIZER;2": {
@@ -139096,7 +139109,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     ]
   },
   "MAGMARIZER;3": {
@@ -139129,7 +139142,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     ]
   },
   "MAGMARIZER;4": {
@@ -139162,7 +139175,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     ]
   },
   "MAGMARIZER;5": {
@@ -139195,7 +139208,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     ]
   },
   "MAGMARIZER;6": {
@@ -139228,7 +139241,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Magmarizer"
+      "https://hypixelskyblock.minecraft.wiki/w/Pyroclasm"
     ]
   },
   "MAGMA_ARROW": {
@@ -141110,8 +141123,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Magma_Urchin_Bundle"
+    ]
   },
   "MAGNET;1": {
     "itemid": "minecraft:enchanted_book",
@@ -148948,9 +148963,9 @@
     }
   },
   "MITHRIL_DRILL_1": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§9Mithril Drill SX-R226",
-    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_DRILL_1\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 5\",1:\"\",2:\"§7Damage: §c+65\",3:\"§7Mining Speed: §6+450\",4:\"§7Mining Fortune: §6+15\",5:\"\",6:\"§7Grants §2+20% Mithril Powder§7.\",7:\"\",8:\"§7Fuel Tank: §cNot Installed\",9:\"§7Increases fuel capacity with part\",10:\"§7installed.\",11:\"\",12:\"§7Drill Engine: §cNot Installed\",13:\"§7Increases §6⸕ Mining Speed §7with part\",14:\"§7installed.\",15:\"\",16:\"§7Upgrade Module: §cNot Installed\",17:\"§7Applies a passive upgrade with part\",18:\"§7installed.\",19:\"\",20:\"§7Apply Drill Parts to this Drill by\",21:\"§7talking to a §2Drill Mechanic§7!\",22:\"\",23:\"§7Fuel: §23,000§8/3k\",24:\"\",25:\"§8This item can be reforged!\",26:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",27:\"§9§lRARE DRILL\"],Name:\"§9Mithril Drill SX-R226\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_DRILL_1\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 5\",1:\"\",2:\"§7Damage: §c+65\",3:\"§7Mining Speed: §6+450\",4:\"§7Mining Fortune: §6+15\",5:\"\",6:\"§7Grants §2+20% Mithril Powder§7.\",7:\"\",8:\"§7Fuel Tank: §cNot Installed\",9:\"§7Increases fuel capacity with part\",10:\"§7installed.\",11:\"\",12:\"§7Drill Engine: §cNot Installed\",13:\"§7Increases §6⸕ Mining Speed §7with part\",14:\"§7installed.\",15:\"\",16:\"§7Upgrade Module: §cNot Installed\",17:\"§7Applies a passive upgrade with part\",18:\"§7installed.\",19:\"\",20:\"§7Apply Drill Parts to this Drill by\",21:\"§7talking to a §2Drill Mechanic§7!\",22:\"\",23:\"§7Fuel: §23,000§8/3k\",24:\"\",25:\"§8This item can be reforged!\",26:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",27:\"§9§lRARE DRILL\"],Name:\"§9Mithril Drill SX-R226\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 5",
@@ -148985,7 +149000,7 @@
     "internalname": "MITHRIL_DRILL_1",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 2",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mithril_Drill_SX-R226",
@@ -149006,9 +149021,9 @@
     ]
   },
   "MITHRIL_DRILL_2": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§9Mithril Drill SX-R326",
-    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_DRILL_2\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 6\",1:\"\",2:\"§7Damage: §c+65\",3:\"§7Mining Speed: §6+600\",4:\"§7Mining Fortune: §6+20\",5:\"\",6:\"§7Grants §2+40% Mithril Powder§7.\",7:\"\",8:\"§7Fuel Tank: §cNot Installed\",9:\"§7Increases fuel capacity with part\",10:\"§7installed.\",11:\"\",12:\"§7Drill Engine: §cNot Installed\",13:\"§7Increases §6⸕ Mining Speed §7with part\",14:\"§7installed.\",15:\"\",16:\"§7Upgrade Module: §cNot Installed\",17:\"§7Applies a passive upgrade with part\",18:\"§7installed.\",19:\"\",20:\"§7Apply Drill Parts to this Drill by\",21:\"§7talking to a §2Drill Mechanic§7!\",22:\"\",23:\"§7Fuel: §23,000§8/3k\",24:\"\",25:\"§8This item can be reforged!\",26:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",27:\"§9§lRARE DRILL\"],Name:\"§9Mithril Drill SX-R326\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_DRILL_2\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 6\",1:\"\",2:\"§7Damage: §c+65\",3:\"§7Mining Speed: §6+600\",4:\"§7Mining Fortune: §6+20\",5:\"\",6:\"§7Grants §2+40% Mithril Powder§7.\",7:\"\",8:\"§7Fuel Tank: §cNot Installed\",9:\"§7Increases fuel capacity with part\",10:\"§7installed.\",11:\"\",12:\"§7Drill Engine: §cNot Installed\",13:\"§7Increases §6⸕ Mining Speed §7with part\",14:\"§7installed.\",15:\"\",16:\"§7Upgrade Module: §cNot Installed\",17:\"§7Applies a passive upgrade with part\",18:\"§7installed.\",19:\"\",20:\"§7Apply Drill Parts to this Drill by\",21:\"§7talking to a §2Drill Mechanic§7!\",22:\"\",23:\"§7Fuel: §23,000§8/3k\",24:\"\",25:\"§8This item can be reforged!\",26:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",27:\"§9§lRARE DRILL\"],Name:\"§9Mithril Drill SX-R326\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 6",
@@ -149043,7 +149058,7 @@
     "internalname": "MITHRIL_DRILL_2",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mithril_Drill_SX-R326",
@@ -171400,8 +171415,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pet-Sized_Cupcake"
+    ]
   },
   "PET_SKIN_AMMONITE_HERMIT_BAKED_BEANS": {
     "itemid": "minecraft:skull",
@@ -210908,8 +210925,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Safety_Badge"
+    ]
   },
   "SALESMAN_NPC": {
     "itemid": "minecraft:skull",
@@ -211184,8 +211203,11 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Salmon_Hat",
+      "https://wiki.hypixel.net/Salmon_Hat"
+    ]
   },
   "SALMON_HELMET": {
     "itemid": "minecraft:leather_helmet",
@@ -222235,8 +222257,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Keychain"
+    ]
   },
   "SKELETON_LORD_BOOTS": {
     "itemid": "minecraft:leather_boots",
@@ -256061,9 +256085,9 @@
     ]
   },
   "TITANIUM_DRILL_1": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§5Titanium Drill DR-X355",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_DRILL_1\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 7\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+700\",4:\"§7Mining Fortune: §6+25\",5:\"\",6:\"§7Fuel Tank: §cNot Installed\",7:\"§7Increases fuel capacity with part\",8:\"§7installed.\",9:\"\",10:\"§7Drill Engine: §cNot Installed\",11:\"§7Increases §6⸕ Mining Speed §7with part\",12:\"§7installed.\",13:\"\",14:\"§7Upgrade Module: §cNot Installed\",15:\"§7Applies a passive upgrade with part\",16:\"§7installed.\",17:\"\",18:\"§7Apply Drill Parts to this Drill by\",19:\"§7talking to a §2Drill Mechanic§7!\",20:\"\",21:\"§7Fuel: §23,000§8/3k\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",25:\"§5§lEPIC DRILL\"],Name:\"§5Titanium Drill DR-X355\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_DRILL_1\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 7\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+700\",4:\"§7Mining Fortune: §6+25\",5:\"\",6:\"§7Fuel Tank: §cNot Installed\",7:\"§7Increases fuel capacity with part\",8:\"§7installed.\",9:\"\",10:\"§7Drill Engine: §cNot Installed\",11:\"§7Increases §6⸕ Mining Speed §7with part\",12:\"§7installed.\",13:\"\",14:\"§7Upgrade Module: §cNot Installed\",15:\"§7Applies a passive upgrade with part\",16:\"§7installed.\",17:\"\",18:\"§7Apply Drill Parts to this Drill by\",19:\"§7talking to a §2Drill Mechanic§7!\",20:\"\",21:\"§7Fuel: §23,000§8/3k\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",25:\"§5§lEPIC DRILL\"],Name:\"§5Titanium Drill DR-X355\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 7",
@@ -256096,7 +256120,7 @@
     "internalname": "TITANIUM_DRILL_1",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 5",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Drill_DR-X355",
@@ -256119,9 +256143,9 @@
     ]
   },
   "TITANIUM_DRILL_2": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§5Titanium Drill DR-X455",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_DRILL_2\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 8\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+900\",4:\"§7Mining Fortune: §6+40\",5:\"§7Gemstones: §8[§7⸕§8]\",6:\"\",7:\"§7Fuel Tank: §cNot Installed\",8:\"§7Increases fuel capacity with part\",9:\"§7installed.\",10:\"\",11:\"§7Drill Engine: §cNot Installed\",12:\"§7Increases §6⸕ Mining Speed §7with part\",13:\"§7installed.\",14:\"\",15:\"§7Upgrade Module: §cNot Installed\",16:\"§7Applies a passive upgrade with part\",17:\"§7installed.\",18:\"\",19:\"§7Apply Drill Parts to this Drill by\",20:\"§7talking to a §2Drill Mechanic§7!\",21:\"\",22:\"§7Fuel: §23,000§8/3k\",23:\"\",24:\"§8This item can be reforged!\",25:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",26:\"§5§lEPIC DRILL\"],Name:\"§5Titanium Drill DR-X455\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_DRILL_2\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 8\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+900\",4:\"§7Mining Fortune: §6+40\",5:\"§7Gemstones: §8[§7⸕§8]\",6:\"\",7:\"§7Fuel Tank: §cNot Installed\",8:\"§7Increases fuel capacity with part\",9:\"§7installed.\",10:\"\",11:\"§7Drill Engine: §cNot Installed\",12:\"§7Increases §6⸕ Mining Speed §7with part\",13:\"§7installed.\",14:\"\",15:\"§7Upgrade Module: §cNot Installed\",16:\"§7Applies a passive upgrade with part\",17:\"§7installed.\",18:\"\",19:\"§7Apply Drill Parts to this Drill by\",20:\"§7talking to a §2Drill Mechanic§7!\",21:\"\",22:\"§7Fuel: §23,000§8/3k\",23:\"\",24:\"§8This item can be reforged!\",25:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",26:\"§5§lEPIC DRILL\"],Name:\"§5Titanium Drill DR-X455\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 8",
@@ -256155,7 +256179,7 @@
     "internalname": "TITANIUM_DRILL_2",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 5",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Drill_DR-X455",
@@ -256177,9 +256201,9 @@
     ]
   },
   "TITANIUM_DRILL_3": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§5Titanium Drill DR-X555",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_DRILL_3\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 9\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+1,200\",4:\"§7Mining Fortune: §6+70\",5:\"§7Gemstones: §8[§7⸕§8] [☘]\",6:\"\",7:\"§7Fuel Tank: §cNot Installed\",8:\"§7Increases fuel capacity with part\",9:\"§7installed.\",10:\"\",11:\"§7Drill Engine: §cNot Installed\",12:\"§7Increases §6⸕ Mining Speed §7with part\",13:\"§7installed.\",14:\"\",15:\"§7Upgrade Module: §cNot Installed\",16:\"§7Applies a passive upgrade with part\",17:\"§7installed.\",18:\"\",19:\"§7Apply Drill Parts to this Drill by\",20:\"§7talking to a §2Drill Mechanic§7!\",21:\"\",22:\"§7Fuel: §23,000§8/3k\",23:\"\",24:\"§8This item can be reforged!\",25:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",26:\"§5§lEPIC DRILL\"],Name:\"§5Titanium Drill DR-X555\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_DRILL_3\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 9\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+1,200\",4:\"§7Mining Fortune: §6+70\",5:\"§7Gemstones: §8[§7⸕§8] [☘]\",6:\"\",7:\"§7Fuel Tank: §cNot Installed\",8:\"§7Increases fuel capacity with part\",9:\"§7installed.\",10:\"\",11:\"§7Drill Engine: §cNot Installed\",12:\"§7Increases §6⸕ Mining Speed §7with part\",13:\"§7installed.\",14:\"\",15:\"§7Upgrade Module: §cNot Installed\",16:\"§7Applies a passive upgrade with part\",17:\"§7installed.\",18:\"\",19:\"§7Apply Drill Parts to this Drill by\",20:\"§7talking to a §2Drill Mechanic§7!\",21:\"\",22:\"§7Fuel: §23,000§8/3k\",23:\"\",24:\"§8This item can be reforged!\",25:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",26:\"§5§lEPIC DRILL\"],Name:\"§5Titanium Drill DR-X555\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 9",
@@ -256213,7 +256237,7 @@
     "internalname": "TITANIUM_DRILL_3",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 5",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Drill_DR-X555",
@@ -256237,9 +256261,9 @@
     ]
   },
   "TITANIUM_DRILL_4": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§6Titanium Drill DR-X655",
-    "nbttag": "{ExtraAttributes:{drill_fuel:3000,id:\"TITANIUM_DRILL_4\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",display:{Lore:[0:\"§8Breaking Power 9\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+1,600\",4:\"§7Mining Fortune: §6+120\",5:\"§7Gemstones: §8[§7⸕§8] [☘] [✦]\",6:\"\",7:\"§7Fuel Tank: §cNot Installed\",8:\"§7Increases fuel capacity with part\",9:\"§7installed.\",10:\"\",11:\"§7Drill Engine: §cNot Installed\",12:\"§7Increases §6⸕ Mining Speed §7with part\",13:\"§7installed.\",14:\"\",15:\"§7Upgrade Module: §cNot Installed\",16:\"§7Applies a passive upgrade with part\",17:\"§7installed.\",18:\"\",19:\"§7Apply Drill Parts to this Drill by\",20:\"§7talking to a §2Drill Mechanic§7!\",21:\"\",22:\"§7Fuel: §23,000§8/3k\",23:\"\",24:\"§8This item can be reforged!\",25:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",26:\"§6§lLEGENDARY DRILL\"],Name:\"§6Titanium Drill DR-X655\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_DRILL_4\"},HideFlags:254,ItemModel:\"minecraft:prismarine_shard\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 9\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+1,600\",4:\"§7Mining Fortune: §6+120\",5:\"§7Gemstones: §8[§7⸕§8] [☘] [✦]\",6:\"\",7:\"§7Fuel Tank: §cNot Installed\",8:\"§7Increases fuel capacity with part\",9:\"§7installed.\",10:\"\",11:\"§7Drill Engine: §cNot Installed\",12:\"§7Increases §6⸕ Mining Speed §7with part\",13:\"§7installed.\",14:\"\",15:\"§7Upgrade Module: §cNot Installed\",16:\"§7Applies a passive upgrade with part\",17:\"§7installed.\",18:\"\",19:\"§7Apply Drill Parts to this Drill by\",20:\"§7talking to a §2Drill Mechanic§7!\",21:\"\",22:\"§7Fuel: §23,000§8/3k\",23:\"\",24:\"§8This item can be reforged!\",25:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",26:\"§6§lLEGENDARY DRILL\"],Name:\"§6Titanium Drill DR-X655\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 9",
@@ -256273,7 +256297,7 @@
     "internalname": "TITANIUM_DRILL_4",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 6",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+gf6d72409",
+    "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Drill_DR-X655",
