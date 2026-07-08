@@ -79693,21 +79693,22 @@
   "FEMURGROWTH_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§5Femurgrowth Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"FEMURGROWTH_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Speed: §f-4\",1:\"\",2:\"§8It's infected slime, it makes you\",3:\"§8slower.\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC LEGGINGS\"],Name:\"§5Femurgrowth Leggings\",color:4783872}}",
+    "nbttag": "{ExtraAttributes:{id:\"FEMURGROWTH_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Rift Time: §a+65s\",1:\"§7Speed: §f-4\",2:\"§7Mana Regen: §b+5%\",3:\"\",4:\"§8It's infected slime, it makes you\",5:\"§8slower.\",6:\"\",7:\"§5§lEPIC LEGGINGS\"],Name:\"§5Femurgrowth Leggings\",color:4783872}}",
     "damage": 0,
     "lore": [
+      "§7Rift Time: §a+65s",
       "§7Speed: §f-4",
+      "§7Mana Regen: §b+5%",
       "",
       "§8It's infected slime, it makes you",
       "§8slower.",
       "",
-      "§8This item can be reforged!",
       "§5§lEPIC LEGGINGS"
     ],
     "internalname": "FEMURGROWTH_LEGGINGS",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0+mc1.21.11",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Femurgrowth_Leggings",
@@ -148497,7 +148498,7 @@
   "MINOTAUR_MONSTER": {
     "itemid": "minecraft:skull",
     "displayname": "§cMinotaur (Mythological Creature)",
-    "nbttag": "{ExtraAttributes:{id:\"MINOTAUR_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0dfc49ee-32db-3a19-8dfc-49ee32dbfa19\",Properties:{textures:[0:{Name:\"textures\",Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzU5MTJkYmQ0MjBjMGYzNWVkYjQxOGFiNmRlOGQ2NTVkYTdkMzRjYzhjNzdiYmVmM2E5MTJiNWRhZjEzZThlYiJ9fX0\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7The Minotaur is a rare mob in the Mythological\",1:\"§7Ritual. It will attack at melee range, and can\",2:\"§7throw an axe at you, temporarily slowing down\",3:\"§7your healing speed. It has a special mechanic\",4:\"§7called Bleed that allows it to do more damage.\",5:\"§7It increases by 1 every time it hits you, and\",6:\"§7increases by 3 every time its axe hits you.\",7:\"\",8:\"§7Mob Types: §2✿ Mythological§7, §e✰ Humanoid\",9:\"§c❤ Health§8:\",10:\"§8[§aGriffin§8] §c60,000 ❤\",11:\"§8[§9Griffin§8/§5Griffin§8] §c625,000 ❤\",12:\"§8[§6Griffin§8] §c2,500,000 ❤\",13:\"\",14:\"§9§lRARE\"],Name:\"§cMinotaur (Mythological Creature)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MINOTAUR_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0dfc49ee-32db-3a19-8dfc-49ee32dbfa19\",Properties:{textures:[0:{Name:\"textures\",Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzU5MTJkYmQ0MjBjMGYzNWVkYjQxOGFiNmRlOGQ2NTVkYTdkMzRjYzhjNzdiYmVmM2E5MTJiNWRhZjEzZThlYiJ9fX0\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7The Minotaur is a rare mob in the Mythological\",1:\"§7Ritual. It will attack at melee range, and can\",2:\"§7throw an axe at you, temporarily slowing down\",3:\"§7your healing speed. It has a special mechanic\",4:\"§7called Bleed that allows it to do more damage.\",5:\"§7It increases by 1 every time it hits you, and\",6:\"§7increases by 3 every time its axe hits you.\",7:\"\",8:\"§7Mob Types: §2✿ Mythological§7, §e✰ Humanoid\",9:\"§c❤ Health§8:\",10:\"§8[§5Griffin§8] §c1,500,000 ❤\",11:\"§8[§6Griffin§8] §c8,000,000 ❤\",12:\"§8[§dGriffin§8] §c15,500,000 ❤\",13:\"\",14:\"§9§lRARE\"],Name:\"§cMinotaur (Mythological Creature)\"}}",
     "damage": 3,
     "lore": [
       "§7The Minotaur is a rare mob in the Mythological",
@@ -148510,9 +148511,9 @@
       "",
       "§7Mob Types: §2✿ Mythological§7, §e✰ Humanoid",
       "§c❤ Health§8:",
-      "§8[§aGriffin§8] §c60,000 ❤",
-      "§8[§9Griffin§8/§5Griffin§8] §c625,000 ❤",
-      "§8[§6Griffin§8] §c2,500,000 ❤",
+      "§8[§5Griffin§8] §c1,500,000 ❤",
+      "§8[§6Griffin§8] §c8,000,000 ❤",
+      "§8[§dGriffin§8] §c15,500,000 ❤",
       "",
       "§9§lRARE"
     ],
@@ -148531,19 +148532,31 @@
         "coins": 150,
         "xp": 5,
         "combat_xp": 30,
-        "name": "§cMinotaur",
+        "name": "§cVenerable Minotaur",
         "render": "@neurepo:mobs/minotaur.json",
         "panorama": "hub",
         "type": "drops",
         "extra": [
           "§cRequirements:",
-          "§7- §aGriffin",
-          "§7Chance: 33.33%"
+          "§7- §5Griffin",
+          "§7Chance: 7.14%"
         ],
         "drops": [
           {
-            "id": "ANCIENT_CLAW:2",
+            "id": "ANCIENT_CLAW:10",
             "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_GOLD:1",
+            "chance": "50%"
+          },
+          {
+            "id": "DAEDALUS_STICK:1",
+            "chance": "0.04%"
+          },
+          {
+            "id": "DYE_MYTHOLOGICAL",
+            "chance": "0.0002%"
           }
         ]
       },
@@ -148552,21 +148565,31 @@
         "coins": 500,
         "xp": 8,
         "combat_xp": 60,
-        "name": "§cStalwart Minotaur",
+        "name": "§cExalted Minotaur",
         "render": "@neurepo:mobs/minotaur.json",
         "panorama": "hub",
         "extra": [
           "§cRequirements:",
-          "§7- §9Griffin",
-          "§7Chance: 33.33%",
-          "§7- §5Griffin",
-          "§7Chance: 23.81%"
+          "§7- §6Griffin",
+          "§7Chance: 6.96%"
         ],
         "type": "drops",
         "drops": [
           {
-            "id": "ANCIENT_CLAW:3",
+            "id": "ANCIENT_CLAW:12",
             "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_GOLD:1",
+            "chance": "50%"
+          },
+          {
+            "id": "DAEDALUS_STICK:1",
+            "chance": "0.06%"
+          },
+          {
+            "id": "DYE_MYTHOLOGICAL",
+            "chance": "0.0002%"
           }
         ]
       },
@@ -148575,39 +148598,31 @@
         "coins": 2000,
         "xp": 15,
         "combat_xp": 150,
-        "name": "§cExalted Minotaur",
+        "name": "§cEmpyrean Minotaur",
         "render": "@neurepo:mobs/minotaur.json",
         "panorama": "hub",
         "extra": [
           "§cRequirements:",
-          "§7- §6Griffin",
-          "§7Chance: 24.69%"
+          "§7- §dGriffin",
+          "§7Chance: 6.92%"
         ],
         "type": "drops",
         "drops": [
           {
-            "id": "ANCIENT_CLAW:10",
+            "id": "ANCIENT_CLAW:14",
             "chance": "100%"
           },
           {
-            "id": "ENCHANTED_GOLD:2",
-            "chance": "100%"
+            "id": "ENCHANTED_GOLD:1",
+            "chance": "50%"
           },
           {
-            "id": "DWARF_TURTLE_SHELMET",
-            "chance": "0.25%"
-          },
-          {
-            "id": "ANTIQUE_REMEDIES",
-            "chance": "0.25%"
-          },
-          {
-            "id": "CROCHET_TIGER_PLUSHIE",
-            "chance": "0.25%"
-          },
-          {
-            "id": "DAEDALUS_STICK",
+            "id": "DAEDALUS_STICK:1",
             "chance": "0.08%"
+          },
+          {
+            "id": "DYE_MYTHOLOGICAL",
+            "chance": "0.0002%"
           }
         ]
       }
@@ -207692,20 +207707,19 @@
   "RIFT_TROPHY_CITIZEN": {
     "itemid": "minecraft:jukebox",
     "displayname": "§cSkyBlock Citizen Timecharm",
-    "nbttag": "{ench:[],HideFlags:254,display:{Lore:[0:\"§7Place this timecharm in the\",1:\"§7§dRift Gallery §7to secure it\",2:\"§7forever!\",3:\"\",4:\"§8§l* §8Soulbound §8§l*\",5:\"§c§lSPECIAL RIFT TIMECHARM\"],Name:\"§cSkyBlock Citizen Timecharm\"},ExtraAttributes:{id:\"RIFT_TROPHY_CITIZEN\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RIFT_TROPHY_CITIZEN\"},HideFlags:254,ItemModel:\"minecraft:jukebox\",display:{Lore:[0:\"§7Place this timecharm in the §dRift\",1:\"§dGallery §7to secure it forever!\",2:\"\",3:\"§8§l* §8Soulbound §8§l*\",4:\"§c§lSPECIAL RIFT TIMECHARM\"],Name:\"§cSkyBlock Citizen Timecharm\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7Place this timecharm in the",
-      "§7§dRift Gallery §7to secure it",
-      "§7forever!",
+      "§7Place this timecharm in the §dRift",
+      "§dGallery §7to secure it forever!",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§c§lSPECIAL RIFT TIMECHARM"
     ],
     "internalname": "RIFT_TROPHY_CITIZEN",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.1.1-PRE",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0+mc1.21.11",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/SkyBlock_Citizen_Timecharm",
@@ -207748,21 +207762,21 @@
   "RIFT_TROPHY_MIRRORED": {
     "itemid": "minecraft:glass",
     "displayname": "§cmrahcemiT esrevrorriM",
-    "nbttag": "{ench:[],HideFlags:254,display:{Lore:[0:\"§7Place this timecharm in the\",1:\"§7§dRift Gallery §7to secure it\",2:\"§7forever!\",3:\"\",4:\"§8§l* §8Soulbound §8§l*\",5:\"§c§lSPECIAL RIFT TIMECHARM\"],Name:\"§cmrahcemiT esrevrorriM\"},ExtraAttributes:{id:\"RIFT_TROPHY_MIRRORED\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RIFT_TROPHY_MIRRORED\"},HideFlags:254,ItemModel:\"minecraft:glass\",display:{Lore:[0:\"§7Place this timecharm in the §dRift\",1:\"§dGallery §7to secure it forever!\",2:\"\",3:\"§8§l* §8Soulbound §8§l*\",4:\"§c§lSPECIAL RIFT TIMECHARM\"],Name:\"§cmrahcemiT esrevrorriM\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7Place this timecharm in the",
-      "§7§dRift Gallery §7to secure it",
-      "§7forever!",
+      "§7Place this timecharm in the §dRift",
+      "§dGallery §7to secure it forever!",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§c§lSPECIAL RIFT TIMECHARM"
     ],
     "internalname": "RIFT_TROPHY_MIRRORED",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.1.1-PRE",
-    "infoType": ""
+    "crafttext": "",
+    "modver": "Firmament 44.2.0+mc1.21.11",
+    "infoType": "",
+    "info": []
   },
   "RIFT_TROPHY_MOUNTAIN": {
     "itemid": "minecraft:lapis_block",
@@ -233690,7 +233704,11 @@
         "name": "§cSphinx",
         "render": "@neurepo:mobs/sphinx.json",
         "panorama": "hub",
-        "extra": [],
+        "extra": [
+          "§cRequirements:",
+          "§7- §6Griffin",
+          "§7Chance: 1.30%"
+        ],
         "type": "drops",
         "drops": [
           {
@@ -233723,7 +233741,11 @@
         "name": "§cSphinx",
         "render": "@neurepo:mobs/sphinx.json",
         "panorama": "hub",
-        "extra": [],
+        "extra": [
+          "§cRequirements:",
+          "§7- §5Griffin",
+          "§7Chance: 1.30%"
+        ],
         "type": "drops",
         "drops": [
           {
