@@ -154,7 +154,7 @@
   "ABYSSAL_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§6Abyssal Boots",
-    "nbttag": "{ExtraAttributes:{id:\"ABYSSAL_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+110\",2:\"§7Sea Creature Chance: §3+2%\",3:\"§7Respiration: §3+5\",4:\"§7Pressure Resistance: §9+20\",5:\"§7Gemstones: §8[☂] [☘]\",6:\"\",7:\"§6Full Set Bonus: One with the Fish §7(0/4)\",8:\"§7Grants the ability to breathe\",9:\"§9permanently §7while §9underwater§7.\",10:\"\",11:\"§8Tiered Bonus: Deep Sea Diver (0/4)\",12:\"§7Grants §6+0⛃ Treasure Chance §7while\",13:\"§9underwater§7.\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires §aFishing Skill 22§c.\",17:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Abyssal Boots\",color:943725}}",
+    "nbttag": "{ExtraAttributes:{id:\"ABYSSAL_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+110\",2:\"§7Sea Creature Chance: §3+2%\",3:\"§7Respiration: §3+5\",4:\"§7Pressure Resistance: §9+20\",5:\"§7Gemstones: §8[] []\",6:\"\",7:\"§6Full Set Bonus: One with the Fish §7(0/4)\",8:\"§7Grants the ability to breathe\",9:\"§9permanently §7while §9underwater§7.\",10:\"\",11:\"§8Tiered Bonus: Deep Sea Diver (0/4)\",12:\"§7Grants §6+0 Treasure Chance §7while\",13:\"§9underwater§7.\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires §aFishing Skill 22§c.\",17:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Abyssal Boots\",color:943725}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+120",
@@ -162,14 +162,14 @@
       "§7Sea Creature Chance: §3+2%",
       "§7Respiration: §3+5",
       "§7Pressure Resistance: §9+20",
-      "§7Gemstones: §8[☂] [☘]",
+      "§7Gemstones: §8[] []",
       "",
       "§6Full Set Bonus: One with the Fish §7(0/4)",
       "§7Grants the ability to breathe",
       "§9permanently §7while §9underwater§7.",
       "",
       "§8Tiered Bonus: Deep Sea Diver (0/4)",
-      "§7Grants §6+0⛃ Treasure Chance §7while",
+      "§7Grants §6+0 Treasure Chance §7while",
       "§9underwater§7.",
       "",
       "§8This item can be reforged!",
@@ -179,7 +179,7 @@
     "internalname": "ABYSSAL_BOOTS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Abyssal_Boots",
@@ -358,7 +358,7 @@
   "ACACIA_BIRDHOUSE": {
     "itemid": "minecraft:skull",
     "displayname": "§9Acacia Birdhouse",
-    "nbttag": "{ExtraAttributes:{id:\"ACACIA_BIRDHOUSE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2f936241-fa7a-398d-bdbf-d0b9da7a847b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"MUsAW1R17NNtYMJgmvpR07MHYJMxFNXSslD56Au5watlrWjllLOFwusAXQh44H9wcWpnGPu89H4QjN+ugnCaD5iL6HkzWE0Go+6x8wOsc10Lf38h/1/4tdB2RW95vfqnYnSy+BU/9Ngoz9sKgGNovzY60CurGYmeWEdyIf6UEI+OuQl8L0yQmEaMF6mOGv2edqCB419QJxYXOzGtxn3PGcH0RfcaJhzN8gRWicjGl2kLz/UwQFkjF9CMQJug/dPhqLNtjgDIOMNvyk2pqlYcG1oVP8ySZuHfJjptCCxtiz+29d9Lb8PWhOky1uqW0leb2Pw+ZDPY6GfKdCeYdo1050aRPBQdpwp0r/Y0LPVpBW6yyUA51pZTTO5md2B6F0IIRvuc1n062wd/rHFFaV4H4tSICQq541SsQcSUL9NHcfkYgSiPlwDC8ByKrpaeqQSHNCny9JoYhytl4oiAwKnyWcZ0kuziG16kCR6Por77nVXCBsbS2k/azdu7v0g1oet5/1LQdVOsstX5HQJ7j9UGFp2c87pOILv6Ktbbj1QyG2MThEUj0fpKAUA/lMS6Q01Ro75mkBE3mO9OkD7s93gvou3+8w8cnMrB7i84dS7LZYZ74b99ltOvRS4ntU1SHFWSObkvRHSGFTJ/XhOY3FqIZzc9HCtZfE39gkHAqOkwOLs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyNjE0MDg1ODQzOCwKICAicHJvZmlsZUlkIiA6ICJjNjc3MGJjZWMzZjE0ODA3ODc4MTU0NWRhMGFmMDI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE5ZTMxNmJhNDhlNTFjNmViNzNjYjA2OGEyZDQ2OGY2NzhlZWQ4MmQ0NTI5ZDRiMTJlZWM4YmZhNzgxOWFhODYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Power Stone\",1:\"§7Combine §a9x §7of this stone at the\",2:\"§6Thaumaturgist §7to permanently unlock the\",3:\"§aForceful §7power.\",4:\"\",5:\"§7At §6250 Magical Power§7:\",6:\"§c+16❤ Health\",7:\"§c+174❁ Strength\",8:\"§9+46☠ Crit Damage\",9:\"\",10:\"§7Unique Power Bonus:\",11:\"§c+4⫽ Ferocity\",12:\"\",13:\"§7Requires §aCombat Skill Level XX§7!\",14:\"\",15:\"§9§lRARE POWER STONE\"],Name:\"§9Acacia Birdhouse\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ACACIA_BIRDHOUSE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2f936241-fa7a-398d-bdbf-d0b9da7a847b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"MUsAW1R17NNtYMJgmvpR07MHYJMxFNXSslD56Au5watlrWjllLOFwusAXQh44H9wcWpnGPu89H4QjN+ugnCaD5iL6HkzWE0Go+6x8wOsc10Lf38h/1/4tdB2RW95vfqnYnSy+BU/9Ngoz9sKgGNovzY60CurGYmeWEdyIf6UEI+OuQl8L0yQmEaMF6mOGv2edqCB419QJxYXOzGtxn3PGcH0RfcaJhzN8gRWicjGl2kLz/UwQFkjF9CMQJug/dPhqLNtjgDIOMNvyk2pqlYcG1oVP8ySZuHfJjptCCxtiz+29d9Lb8PWhOky1uqW0leb2Pw+ZDPY6GfKdCeYdo1050aRPBQdpwp0r/Y0LPVpBW6yyUA51pZTTO5md2B6F0IIRvuc1n062wd/rHFFaV4H4tSICQq541SsQcSUL9NHcfkYgSiPlwDC8ByKrpaeqQSHNCny9JoYhytl4oiAwKnyWcZ0kuziG16kCR6Por77nVXCBsbS2k/azdu7v0g1oet5/1LQdVOsstX5HQJ7j9UGFp2c87pOILv6Ktbbj1QyG2MThEUj0fpKAUA/lMS6Q01Ro75mkBE3mO9OkD7s93gvou3+8w8cnMrB7i84dS7LZYZ74b99ltOvRS4ntU1SHFWSObkvRHSGFTJ/XhOY3FqIZzc9HCtZfE39gkHAqOkwOLs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyNjE0MDg1ODQzOCwKICAicHJvZmlsZUlkIiA6ICJjNjc3MGJjZWMzZjE0ODA3ODc4MTU0NWRhMGFmMDI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE5ZTMxNmJhNDhlNTFjNmViNzNjYjA2OGEyZDQ2OGY2NzhlZWQ4MmQ0NTI5ZDRiMTJlZWM4YmZhNzgxOWFhODYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Power Stone\",1:\"§7Combine §a9x §7of this stone at the\",2:\"§6Thaumaturgist §7to permanently unlock the\",3:\"§aForceful §7power.\",4:\"\",5:\"§7At §62,000 Magical Power§7:\",6:\"§c+86.42 Health\",7:\"§c+925.93 Strength\",8:\"§9+246.92 Crit Damage\",9:\"\",10:\"§7Unique Power Bonus:\",11:\"§c+4 Ferocity\",12:\"\",13:\"§7Requires §aCombat Skill Level XX§7!\",14:\"\",15:\"§9§lRARE POWER STONE\"],Name:\"§9Acacia Birdhouse\"}}",
     "damage": 3,
     "lore": [
       "§8Power Stone",
@@ -366,13 +366,13 @@
       "§6Thaumaturgist §7to permanently unlock the",
       "§aForceful §7power.",
       "",
-      "§7At §6250 Magical Power§7:",
-      "§c+16❤ Health",
-      "§c+174❁ Strength",
-      "§9+46☠ Crit Damage",
+      "§7At §62,000 Magical Power§7:",
+      "§c+86.42 Health",
+      "§c+925.93 Strength",
+      "§9+246.92 Crit Damage",
       "",
       "§7Unique Power Bonus:",
-      "§c+4⫽ Ferocity",
+      "§c+4 Ferocity",
       "",
       "§7Requires §aCombat Skill Level XX§7!",
       "",
@@ -381,7 +381,7 @@
     "internalname": "ACACIA_BIRDHOUSE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Acacia Log IX",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Acacia_Birdhouse",
@@ -1442,17 +1442,17 @@
   "AMBER_NECKLACE": {
     "itemid": "minecraft:skull",
     "displayname": "§5Amber Necklace",
-    "nbttag": "{ExtraAttributes:{id:\"AMBER_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a7f21b4c-2971-382e-aa5d-abe2137f37a9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"QM7qbYcyNEp8iY3kZQxsHMk9wzRZpZdcDJzQvR9bS9D3ScucBpRlNff1Zc37bAfbNxBUkLX3XtaGIR/IX0SsgOVx7AM2rIwyKh89J55oJsCOtYsOwanLdIk7YuEgr+Vj+qKQtZvIvM2XcDlVyJCx7tRgJppV6M3Pic8T5dFNJPZh7KurENRpHgC2rrXIZzcq8ViDt3v1PM22l95OWwHE4hxHv5y2lvIkHde2zYEzPHXFmBFwnIX4YEiOomXcyqxRZPMQBPrW+OlQsW5b+O0two3mH/cN3oHdUOGtxUGB6Qq+XDYMT/SnpyMP6wr1ZAt+2y4qoVyVSEE2kieFFV/6E6/JFR01LaTO/yUhuNqQGNba8iH1kuFrX+0UUz6x4+AeNjlrIAYf4tI1CTkIFgFTnoHuQ9kwMPvdlB6BgCLhNOn0BaT1R82HQ6eoT19iodiU5Ry997NvTKQnP5p4WkhbbPv1w+/voeili8/eOIEKN7Ms+F6WbYPy0a1SUBbW8qtNuYrNEZsxpLZZN6DSpk1vl+Oal64v2J/DHmJrKbSXUeY7TLLEjRTxE/3I9VHy3eZq+YCgDay1ph8iQMfKZD23Sxsu8wSkkd3c40sbDA008B0C6oH/6b0g5Luj/ooccBNEAIWDn4t1xaVI5ys+3/fiBXUGmTR9BTydxYTuU+7phss=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU4NTkwNiwKICAicHJvZmlsZUlkIiA6ICJiZmMyODE3ZWRhZWM0OWY5YTVmMWVkNTdjODZhMGFjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFYm95UmV6YSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZGNhMzVkYTM0M2E4OTdkZjVlZDc5ODU1YzM4NjBjZGQxN2ViNTgyOTEzY2UyYjFlNWQyZGU5YTc2ZDVmNTMzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+30☘ Mining Fortune §7while\",4:\"§7mining §6Amber§7.\",5:\"\",6:\"§6Full Set Bonus: Gemstone Gatherer §7(0/4)\",7:\"§7Grants §6+25☘ Mining Fortune §7while in\",8:\"§7the §5Crystal Hollows§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",12:\"§5§lEPIC NECKLACE\"],Name:\"§5Amber Necklace\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"AMBER_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a7f21b4c-2971-382e-aa5d-abe2137f37a9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"QM7qbYcyNEp8iY3kZQxsHMk9wzRZpZdcDJzQvR9bS9D3ScucBpRlNff1Zc37bAfbNxBUkLX3XtaGIR/IX0SsgOVx7AM2rIwyKh89J55oJsCOtYsOwanLdIk7YuEgr+Vj+qKQtZvIvM2XcDlVyJCx7tRgJppV6M3Pic8T5dFNJPZh7KurENRpHgC2rrXIZzcq8ViDt3v1PM22l95OWwHE4hxHv5y2lvIkHde2zYEzPHXFmBFwnIX4YEiOomXcyqxRZPMQBPrW+OlQsW5b+O0two3mH/cN3oHdUOGtxUGB6Qq+XDYMT/SnpyMP6wr1ZAt+2y4qoVyVSEE2kieFFV/6E6/JFR01LaTO/yUhuNqQGNba8iH1kuFrX+0UUz6x4+AeNjlrIAYf4tI1CTkIFgFTnoHuQ9kwMPvdlB6BgCLhNOn0BaT1R82HQ6eoT19iodiU5Ry997NvTKQnP5p4WkhbbPv1w+/voeili8/eOIEKN7Ms+F6WbYPy0a1SUBbW8qtNuYrNEZsxpLZZN6DSpk1vl+Oal64v2J/DHmJrKbSXUeY7TLLEjRTxE/3I9VHy3eZq+YCgDay1ph8iQMfKZD23Sxsu8wSkkd3c40sbDA008B0C6oH/6b0g5Luj/ooccBNEAIWDn4t1xaVI5ys+3/fiBXUGmTR9BTydxYTuU+7phss=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU4NTkwNiwKICAicHJvZmlsZUlkIiA6ICJiZmMyODE3ZWRhZWM0OWY5YTVmMWVkNTdjODZhMGFjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFYm95UmV6YSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZGNhMzVkYTM0M2E4OTdkZjVlZDc5ODU1YzM4NjBjZGQxN2ViNTgyOTEzY2UyYjFlNWQyZGU5YTc2ZDVmNTMzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+40\",1:\"§7Mining Fortune: §6+12\",2:\"\",3:\"§7Grants §6+30 Mining Fortune §7while\",4:\"§7mining §6Amber§7.\",5:\"\",6:\"§6Full Set Bonus: Gemstone Gatherer §7(0/4)\",7:\"§7Grants §6+25 Mining Fortune §7while in\",8:\"§7the §5Crystal Hollows§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",12:\"§5§lEPIC NECKLACE\"],Name:\"§5Amber Necklace\"}}",
     "damage": 3,
     "lore": [
-      "§7Mining Speed: §6+30",
-      "§7Mining Fortune: §6+10",
+      "§7Mining Speed: §6+40",
+      "§7Mining Fortune: §6+12",
       "",
-      "§7Grants §6+30☘ Mining Fortune §7while",
+      "§7Grants §6+30 Mining Fortune §7while",
       "§7mining §6Amber§7.",
       "",
       "§6Full Set Bonus: Gemstone Gatherer §7(0/4)",
-      "§7Grants §6+25☘ Mining Fortune §7while in",
+      "§7Grants §6+25 Mining Fortune §7while in",
       "§7the §5Crystal Hollows§7.",
       "",
       "§8This item can be reforged!",
@@ -1462,7 +1462,7 @@
     "internalname": "AMBER_NECKLACE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 5",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Amber_Necklace",
@@ -1563,17 +1563,17 @@
   "AMETHYST_GAUNTLET": {
     "itemid": "minecraft:skull",
     "displayname": "§5Amethyst Gauntlet",
-    "nbttag": "{ExtraAttributes:{id:\"AMETHYST_GAUNTLET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2c8650d6-8d44-3e44-bcf0-8f5715288ec7\",Properties:{textures:[0:{Name:\"textures\",Signature:\"M/6Hkmk4wQBIwBGOpTteEBXnTq9YTwPCTHGVMYYj1RirE3Rs2YhYBMvijduBvTHC3+Zgz5GPQjyC1Lz5nTuhq0BPtOq7SU3tYi7gbf5D1rjZKuDN14JLFZM0nMeCXQniYthP/hx5d9pdWlE6Z36aU6hR6wWwhdvaTqvakbehXK9HO1UcbHzEQGMrXu7RMb28T8godMuJyxaRltHCmL0bxANS4cgmcCqGoVXnqAWTdQjSzGYIstcmqE6LdPWPeXbjWugqWhSvvNKC1pvgaHh5GF/jsvT1n4B1G+u8yMIRtwcn19TYyZLPFz+RKYznQM/+mM953bj3FT474HNxQQNhV0XXWoCVIN7qyebWlCgustFXV1ZNZOUf1aKFBpgwYmuv9r3SKFHuSsYWwOfdQbK89Ao0/O7dO2/NuGjm76lHFuePYhZE3eARj5buiFtUjT2KXbRleWim0HY+e4tfnzaIg3VB2SS1RfToMQkZjvMRS674PtHrBJh24nbWjQjC1csp1yBcHurmpC8GLmtb8IulFqtuddy98kZHBueTet9bAaCc33OJIYTzXukvsF6cphlKNR2MFSQO9mT0Dj7mIvZ0+KmVhtiDrNU3MksxPvVMb6TVEyKSe5HVbb2pS4Kpae8smzmsyqT1BdlX0dkGM134un3hq8Ec4z/kMACgeL6XMMo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjYwNDI5MCwKICAicHJvZmlsZUlkIiA6ICI3ZGEyYWIzYTkzY2E0OGVlODMwNDhhZmMzYjgwZTY4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2xkYXBmZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM5Mjc2MTNiNTI0NGZjODA5MmYzYWFjYzI2YTBlMmRjYTUxZjIzYzYzZTdmYTk1OTNjYzE0MGQwYjA5ZDg4NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+30☘ Mining Fortune §7while\",4:\"§7mining §5Amethyst§7.\",5:\"\",6:\"§6Full Set Bonus: Gemstone Gatherer §7(0/4)\",7:\"§7Grants §6+25☘ Mining Fortune §7while in\",8:\"§7the §5Crystal Hollows§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",12:\"§5§lEPIC GLOVES\"],Name:\"§5Amethyst Gauntlet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"AMETHYST_GAUNTLET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2c8650d6-8d44-3e44-bcf0-8f5715288ec7\",Properties:{textures:[0:{Name:\"textures\",Signature:\"M/6Hkmk4wQBIwBGOpTteEBXnTq9YTwPCTHGVMYYj1RirE3Rs2YhYBMvijduBvTHC3+Zgz5GPQjyC1Lz5nTuhq0BPtOq7SU3tYi7gbf5D1rjZKuDN14JLFZM0nMeCXQniYthP/hx5d9pdWlE6Z36aU6hR6wWwhdvaTqvakbehXK9HO1UcbHzEQGMrXu7RMb28T8godMuJyxaRltHCmL0bxANS4cgmcCqGoVXnqAWTdQjSzGYIstcmqE6LdPWPeXbjWugqWhSvvNKC1pvgaHh5GF/jsvT1n4B1G+u8yMIRtwcn19TYyZLPFz+RKYznQM/+mM953bj3FT474HNxQQNhV0XXWoCVIN7qyebWlCgustFXV1ZNZOUf1aKFBpgwYmuv9r3SKFHuSsYWwOfdQbK89Ao0/O7dO2/NuGjm76lHFuePYhZE3eARj5buiFtUjT2KXbRleWim0HY+e4tfnzaIg3VB2SS1RfToMQkZjvMRS674PtHrBJh24nbWjQjC1csp1yBcHurmpC8GLmtb8IulFqtuddy98kZHBueTet9bAaCc33OJIYTzXukvsF6cphlKNR2MFSQO9mT0Dj7mIvZ0+KmVhtiDrNU3MksxPvVMb6TVEyKSe5HVbb2pS4Kpae8smzmsyqT1BdlX0dkGM134un3hq8Ec4z/kMACgeL6XMMo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjYwNDI5MCwKICAicHJvZmlsZUlkIiA6ICI3ZGEyYWIzYTkzY2E0OGVlODMwNDhhZmMzYjgwZTY4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2xkYXBmZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM5Mjc2MTNiNTI0NGZjODA5MmYzYWFjYzI2YTBlMmRjYTUxZjIzYzYzZTdmYTk1OTNjYzE0MGQwYjA5ZDg4NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+30 Mining Fortune §7while\",4:\"§7mining §5Amethyst§7.\",5:\"\",6:\"§6Full Set Bonus: Gemstone Gatherer §7(0/4)\",7:\"§7Grants §6+25 Mining Fortune §7while in\",8:\"§7the §5Crystal Hollows§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",12:\"§5§lEPIC GLOVES\"],Name:\"§5Amethyst Gauntlet\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+30",
       "§7Mining Fortune: §6+10",
       "",
-      "§7Grants §6+30☘ Mining Fortune §7while",
+      "§7Grants §6+30 Mining Fortune §7while",
       "§7mining §5Amethyst§7.",
       "",
       "§6Full Set Bonus: Gemstone Gatherer §7(0/4)",
-      "§7Grants §6+25☘ Mining Fortune §7while in",
+      "§7Grants §6+25 Mining Fortune §7while in",
       "§7the §5Crystal Hollows§7.",
       "",
       "§8This item can be reforged!",
@@ -1583,7 +1583,7 @@
     "internalname": "AMETHYST_GAUNTLET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 5",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Amethyst_Gauntlet",
@@ -6427,7 +6427,7 @@
   "BLIZZARD_BOTTLE": {
     "itemid": "minecraft:skull",
     "displayname": "§6Blizzard in a Bottle",
-    "nbttag": "{ExtraAttributes:{id:\"BLIZZARD_BOTTLE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6c8fd646-11f9-35fa-9f56-54bf9ee7e50e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"cc/fGGl62Rfy0LA/4j8OY/HcpqbYcc+/HKMXkT7wQUKbfGJ3SNRjEPWL8McqVW6OWjQEbJzwd9E/DmgvkpxLMwm+tYurOu45dyKCd/3R7Pux3JZCxT5BpcbEkO6xFd0ruVZq7yBgX9m62x0CLtZ/HdeUuJCDTlAYei4NUZWb6TXPXbX4aTNMLN1AoiPOFBHZQzwW3xZB6paa5sDpduJwJAZzzML5RtGM1dbHSMsctbGvj4jtUhlTw0/JoCN/79G8InrByccQZ+ZlL+M9qjoqcHqkMVGaNtBEBWzqCf2MsA1uF9unfzN5Huzud5M5R1Ro9p2Zk05RRRJvQV9if8Oo0aIqh9d+XwgimiRgsblL2+GJCXNAxnctUKm7KsQrN9Do2f6R3FgeqvIlnNMrWzuYGTCT2wIky4FxfGDjbibD7cLD/yJpHOqSDCQDf7NjsSTtjsqIcs/59ER4hFZkCyysnF9xdN9Waohwb2Alm+Xj4jG6uMwtFIvfWVfmWjWNaOP3wVl5CDrVMEHbGHmY72sfiG3HHOwKx53MrMAdpfFvYRRsb9NmiSTyzIeRIHG7kxtPM4NVqVzgYVLJvL6Ta547CIEdh7c9nw0xT/0lgiXgjg/rWx/+QobDGQpJ6DuBVt/xD/SOKPZEbuuVFaiUKmgQRuD2nDqTRITi0OL2/0r1nQw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2ODkyMjI0OTc1MSwKICAicHJvZmlsZUlkIiA6ICJmZjQ3NzI5YmQwZDI0YWYwOThiMTFjMGE3ZTFiMGVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXRzY2FuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiOGFlZGQ1MmNkZTEyY2EzZmFiZjg0ZjZmYWNhNmE4YTdjYWI4YmMxODFjMTYzMDYxZTlhNTkzZGU1ZTY5MzAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§7Consume to start a §fBlizzard §7while in\",3:\"§cJerry's Workshop §7or the §bGlacite\",4:\"§bTunnels§7, lasting for §a10 minutes§7!\",5:\"\",6:\"§7During a §fBlizzard§7, all players gain\",7:\"§7the following buffs:\",8:\"\",9:\"§b+25☂ Fishing Speed\",10:\"§3+5α Sea Creature Chance\",11:\"§6+5⛃ Treasure Chance\",12:\"§d+2.5❃ Tracking\",13:\"§9+1⚓ Double Hook Chance\",14:\"\",15:\"§eRight-click to consume!\",16:\"\",17:\"§6§lLEGENDARY\"],Name:\"§6Blizzard in a Bottle\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BLIZZARD_BOTTLE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6c8fd646-11f9-35fa-9f56-54bf9ee7e50e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"cc/fGGl62Rfy0LA/4j8OY/HcpqbYcc+/HKMXkT7wQUKbfGJ3SNRjEPWL8McqVW6OWjQEbJzwd9E/DmgvkpxLMwm+tYurOu45dyKCd/3R7Pux3JZCxT5BpcbEkO6xFd0ruVZq7yBgX9m62x0CLtZ/HdeUuJCDTlAYei4NUZWb6TXPXbX4aTNMLN1AoiPOFBHZQzwW3xZB6paa5sDpduJwJAZzzML5RtGM1dbHSMsctbGvj4jtUhlTw0/JoCN/79G8InrByccQZ+ZlL+M9qjoqcHqkMVGaNtBEBWzqCf2MsA1uF9unfzN5Huzud5M5R1Ro9p2Zk05RRRJvQV9if8Oo0aIqh9d+XwgimiRgsblL2+GJCXNAxnctUKm7KsQrN9Do2f6R3FgeqvIlnNMrWzuYGTCT2wIky4FxfGDjbibD7cLD/yJpHOqSDCQDf7NjsSTtjsqIcs/59ER4hFZkCyysnF9xdN9Waohwb2Alm+Xj4jG6uMwtFIvfWVfmWjWNaOP3wVl5CDrVMEHbGHmY72sfiG3HHOwKx53MrMAdpfFvYRRsb9NmiSTyzIeRIHG7kxtPM4NVqVzgYVLJvL6Ta547CIEdh7c9nw0xT/0lgiXgjg/rWx/+QobDGQpJ6DuBVt/xD/SOKPZEbuuVFaiUKmgQRuD2nDqTRITi0OL2/0r1nQw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2ODkyMjI0OTc1MSwKICAicHJvZmlsZUlkIiA6ICJmZjQ3NzI5YmQwZDI0YWYwOThiMTFjMGE3ZTFiMGVlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXRzY2FuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiOGFlZGQ1MmNkZTEyY2EzZmFiZjg0ZjZmYWNhNmE4YTdjYWI4YmMxODFjMTYzMDYxZTlhNTkzZGU1ZTY5MzAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§7Consume to start a §fBlizzard §7while in\",3:\"§cJerry's Workshop §7or the §bGlacite\",4:\"§bTunnels§7, lasting for §a10 minutes§7!\",5:\"\",6:\"§7During a §fBlizzard§7, all players gain\",7:\"§7the following buffs:\",8:\"\",9:\"§b+25 Fishing Speed\",10:\"§3+5 Sea Creature Chance\",11:\"§6+5 Treasure Chance\",12:\"§d+2.5 Tracking\",13:\"§9+1 Double Hook Chance\",14:\"\",15:\"§eRight-click to consume!\",16:\"\",17:\"§6§lLEGENDARY\"],Name:\"§6Blizzard in a Bottle\"}}",
     "damage": 3,
     "lore": [
       "§8Consumable",
@@ -6439,11 +6439,11 @@
       "§7During a §fBlizzard§7, all players gain",
       "§7the following buffs:",
       "",
-      "§b+25☂ Fishing Speed",
-      "§3+5α Sea Creature Chance",
-      "§6+5⛃ Treasure Chance",
-      "§d+2.5❃ Tracking",
-      "§9+1⚓ Double Hook Chance",
+      "§b+25 Fishing Speed",
+      "§3+5 Sea Creature Chance",
+      "§6+5 Treasure Chance",
+      "§d+2.5 Tracking",
+      "§9+1 Double Hook Chance",
       "",
       "§eRight-click to consume!",
       "",
@@ -6452,7 +6452,7 @@
     "internalname": "BLIZZARD_BOTTLE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g93cba9c6",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Blizzard_in_a_Bottle"
@@ -10420,13 +10420,13 @@
   "CAYENNE;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ench:[],HideFlags:254,display:{Lore:[0:\"§9Cayenne IV\",1:\"§7Grants §c+0.8❤ Health §7and\",2:\"§7§f+0.4❂ True Defense §7per digit\",3:\"§7in your §6Magical Power§7.\",4:\"\",5:\"§7Use this on an item in an Anvil\",6:\"§7to apply it!\",7:\"\",8:\"§6Source:\",9:\"§aIV-V: §7Chili Pepper Collection\",10:\"\",11:\"§6Applied To:\",12:\"§7 - §fGloves\",13:\"§7 - §fBelt\",14:\"§7 - §fNecklace\",15:\"§7 - §fBracelet\",16:\"§7 - §fCloak\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ExtraAttributes:{id:\"CAYENNE;4\",enchantments:{cayenne:4}}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{cayenne:4},id:\"CAYENNE;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Cayenne IV\",1:\"§7Grants §c+0.8 Health §7and §f+0.4 True\",2:\"§fDefense §7per digit in your §6Magical\",3:\"§6Power§7.\",4:\"\",5:\"§7Use this on an item in an Anvil\",6:\"§7to apply it!\",7:\"\",8:\"§6Source:\",9:\"§aIV-V: §7Chili Pepper Collection\",10:\"\",11:\"§6Applied To:\",12:\"§7 - §fGloves\",13:\"§7 - §fBelt\",14:\"§7 - §fNecklace\",15:\"§7 - §fBracelet\",16:\"§7 - §fCloak\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§9Cayenne IV",
-      "§7Grants §c+0.8❤ Health §7and",
-      "§7§f+0.4❂ True Defense §7per digit",
-      "§7in your §6Magical Power§7.",
+      "§7Grants §c+0.8 Health §7and §f+0.4 True",
+      "§fDefense §7per digit in your §6Magical",
+      "§6Power§7.",
       "",
       "§7Use this on an item in an Anvil",
       "§7to apply it!",
@@ -10443,6 +10443,15 @@
       "",
       "§f§lCOMMON"
     ],
+    "internalname": "CAYENNE;4",
+    "clickcommand": "viewrecipe",
+    "crafttext": "Requires: Chili Pepper V",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Cayenne",
+      "https://wiki.hypixel.net/Cayenne_Enchantment"
+    ],
     "recipe": {
       "A1": "CHILI_PEPPER:8",
       "A2": "ENCHANTED_IRON_BLOCK:1",
@@ -10453,16 +10462,7 @@
       "C1": "CHILI_PEPPER:8",
       "C2": "ENCHANTED_IRON_BLOCK:1",
       "C3": "CHILI_PEPPER:8"
-    },
-    "internalname": "CAYENNE;4",
-    "clickcommand": "viewrecipe",
-    "modver": "2.1.1-PRE",
-    "crafttext": "Requires: Chili Pepper V",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Cayenne",
-      "https://wiki.hypixel.net/Cayenne_Enchantment"
-    ]
+    }
   },
   "CELESTIAL_MASON_JAR": {
     "itemid": "minecraft:skull",
@@ -18921,7 +18921,7 @@
   "DIAMONITE": {
     "itemid": "minecraft:skull",
     "displayname": "§9Diamonite",
-    "nbttag": "{ExtraAttributes:{id:\"DIAMONITE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"35c69d71-4efc-38d3-a16b-415d25ba38e1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"iMIQ6tiNm80tegmC+NGZoS2Sipe6VGZ3uyaGYvE7+ndKMB0JmAzwHb4iH22os81HHuCE5iDrPUSs8paW0XrDqhBqfGFY/p7JZLgOB4wHlXKE4nSEXOsSu7jHd82HFq3w42Kqk1+gE06oKMQH0KMLqWrgcQHWec+g82+TYEz8g3A/WCZ26Mxw0tG+RnVuTOHzgUtd/NwyaBmgFqN+wjZ/ocvJPgg86fcwjhNL+b0e2M4gQzLQS/g6AQyfRO8PNjXkHX87VDz0A9azqNgMFtHp7Za4eDWJxOMf08w0wtlO01B6c2O8JeTWzI0Z+nRIOPD4AIw+QbD01B/lmVezYvC4hczPwB/Jss4vVKh+n2cXhj8HVs90iEKgkQwDsIZVIZOWNfp4/0GqJcvLKsxx2aW2A9numtpiF/Jwe2d0XW7Z0Jx6pVUpOMuyM6943y5JcvM68kx7oAEao6BCFjtjrWjd8g9r5VJSaq88xE0rLxIOT0HTmv6L/La6vaSVzKFsEH78fDmEPNMu1pFFLJ3hERvUPEmeNCN6suwrbfZbq4WWfw64pX4SNp/fPLedhn8N8auGKh1paY3f0HSByFkzepL2kxzNepDohUmjvgmeVSB8GpnJqTGfU29H14OdAd9Dku8/a7USYkOsZCZV9EGGeR2IvFgeh2ormt2G9xJ+fUSn3ZU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MDg5MDI4NjEzNSwKICAicHJvZmlsZUlkIiA6ICIzNDkxZjJiOTdjMDE0MWE2OTM2YjFjMjJhMmEwMGZiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXNzc3N1aGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTIxOWZlZTkxNDJhODY5ZTUxOTE1MDczZWUwMDc2ZWE2MjllN2YxYzk4MmZiZDY3MjVjZWFkZTcyOWYyZWQ1YSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Fleet §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oMagical form of diamond.\",7:\"\",8:\"§9Fleet §7(§6Legendary§7):\",9:\"§7Mining Speed: §6+50\",10:\"§7Block Fortune: §6+55\",11:\"\",12:\"§9Fleet Bonus\",13:\"§7Grants §e+100▚ Mining Spread §7when\",14:\"§7mining §9Blocks§7.\",15:\"\",16:\"§7Requires §aMining Skill Level XV§7!\",17:\"\",18:\"§9§lRARE REFORGE STONE\"],Name:\"§9Diamonite\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIAMONITE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"35c69d71-4efc-38d3-a16b-415d25ba38e1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"iMIQ6tiNm80tegmC+NGZoS2Sipe6VGZ3uyaGYvE7+ndKMB0JmAzwHb4iH22os81HHuCE5iDrPUSs8paW0XrDqhBqfGFY/p7JZLgOB4wHlXKE4nSEXOsSu7jHd82HFq3w42Kqk1+gE06oKMQH0KMLqWrgcQHWec+g82+TYEz8g3A/WCZ26Mxw0tG+RnVuTOHzgUtd/NwyaBmgFqN+wjZ/ocvJPgg86fcwjhNL+b0e2M4gQzLQS/g6AQyfRO8PNjXkHX87VDz0A9azqNgMFtHp7Za4eDWJxOMf08w0wtlO01B6c2O8JeTWzI0Z+nRIOPD4AIw+QbD01B/lmVezYvC4hczPwB/Jss4vVKh+n2cXhj8HVs90iEKgkQwDsIZVIZOWNfp4/0GqJcvLKsxx2aW2A9numtpiF/Jwe2d0XW7Z0Jx6pVUpOMuyM6943y5JcvM68kx7oAEao6BCFjtjrWjd8g9r5VJSaq88xE0rLxIOT0HTmv6L/La6vaSVzKFsEH78fDmEPNMu1pFFLJ3hERvUPEmeNCN6suwrbfZbq4WWfw64pX4SNp/fPLedhn8N8auGKh1paY3f0HSByFkzepL2kxzNepDohUmjvgmeVSB8GpnJqTGfU29H14OdAd9Dku8/a7USYkOsZCZV9EGGeR2IvFgeh2ormt2G9xJ+fUSn3ZU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MDg5MDI4NjEzNSwKICAicHJvZmlsZUlkIiA6ICIzNDkxZjJiOTdjMDE0MWE2OTM2YjFjMjJhMmEwMGZiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXNzc3N1aGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTIxOWZlZTkxNDJhODY5ZTUxOTE1MDczZWUwMDc2ZWE2MjllN2YxYzk4MmZiZDY3MjVjZWFkZTcyOWYyZWQ1YSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Fleet §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oMagical form of diamond.\",7:\"\",8:\"§9Fleet §7(§6Legendary§7):\",9:\"§7Mining Speed: §6+50\",10:\"§7Block Fortune: §6+55\",11:\"\",12:\"§9Fleet Bonus\",13:\"§7Grants §e+100 Mining Spread §7when\",14:\"§7mining §9Blocks§7.\",15:\"\",16:\"§7Requires §aMining Skill Level XV§7!\",17:\"\",18:\"§9§lRARE REFORGE STONE\"],Name:\"§9Diamonite\"}}",
     "damage": 3,
     "lore": [
       "§8Reforge Stone",
@@ -18937,7 +18937,7 @@
       "§7Block Fortune: §6+55",
       "",
       "§9Fleet Bonus",
-      "§7Grants §e+100▚ Mining Spread §7when",
+      "§7Grants §e+100 Mining Spread §7when",
       "§7mining §9Blocks§7.",
       "",
       "§7Requires §aMining Skill Level XV§7!",
@@ -18947,7 +18947,7 @@
     "internalname": "DIAMONITE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 2",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Diamonite",
@@ -19097,7 +19097,7 @@
   "DISPLACED_LEECH": {
     "itemid": "minecraft:skull",
     "displayname": "§aDisplaced Leech",
-    "nbttag": "{ExtraAttributes:{id:\"DISPLACED_LEECH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fc0e10e9-2969-36a0-bc03-32e6e8d00d37\",Properties:{textures:[0:{Name:\"textures\",Signature:\"AwhQHykYxbkRv5yus+Lvlb1lfhRn4KIRnorkmGR9uI+8BYya2RqLNTx+R1/qUP+Ped9qclAvBmTXm5NokgXL4EjgSzeCFWsVbiIFKFZ9VRjListLY1y0gNHVdNbN+K33pjKhke17QvT2iZK2pzMDrITSFtvAPnpkQBbNXyu4v3CbOE63ve0tc9450dvNkDUq0dRlp3+cI0tkge8J82tAqy/nSJaqFSZ004hRDMtWRVDu5DlQq8QgbBLur0Z6FEj2vXk4tPpyZuZbn0RvP4M64xtGtBqNwMFepAxiIXkVpwWn9DZTOHItOzEX845D935bHWogu7rOwV3D7W9ZNebAEen7UgOGU5oR/ARZpTTFQrFxtkIa1vSz30QTzZDDP3A1vkIosRFAMOg4txfFn6DXvwxhAynDgn/UsI9DesPqNhvlwtlbCAAE/4k/o4QOf46HvTQ86sUZAV9wOlkz6HYpEniftUvU0yLoAVxDDXSQ+4NeT2Q9MlPx/Diw+xcBM75UyUUqq1RBeTovBQ1Y5gOSCKOANeoqu3Yde/zivSUi86gU2mICLH3RVPsE7EQdBZMnupE0631qUDJUMHP75DlilxH34sbsdjQG/FLaJwYPSoZkV9YrVfi98ugvdPTTqf0HO27SCg2T8TsRfqxf25+yiZB2KINMCBroqQIBrWd+Poc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwODA2MzExMTg4OCwKICAicHJvZmlsZUlkIiA6ICIxOTI1MjFiNGVmZGI0MjVjODkzMWYwMmE4NDk2ZTExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJpYWxpemFibGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUzMmNlNWFkZTA2YWZmOWQ2OTgzODIwODBkZWE1Mzk5NDc2NTlmYjU4N2U1OGQ0ZjFkN2MxZmY5MjQwZTNjOCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Power Stone\",1:\"§7Combine §a9x §7of this stone at the\",2:\"§6Thaumaturgist §7to permanently unlock the\",3:\"§aSanguisuge §7power.\",4:\"\",5:\"§7At §6250 Magical Power§7:\",6:\"§c+48.6 Health\",7:\"§c+115.7 Strength\",8:\"§9+46.28 Crit Damage\",9:\"§4+11.56 Vitality\",10:\"\",11:\"§7Unique Power Bonus:\",12:\"§b+100 Intelligence\",13:\"\",14:\"§7Requires §aCombat Skill Level X§7!\",15:\"\",16:\"§a§lUNCOMMON POWER STONE\"],Name:\"§aDisplaced Leech\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DISPLACED_LEECH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fc0e10e9-2969-36a0-bc03-32e6e8d00d37\",Properties:{textures:[0:{Name:\"textures\",Signature:\"AwhQHykYxbkRv5yus+Lvlb1lfhRn4KIRnorkmGR9uI+8BYya2RqLNTx+R1/qUP+Ped9qclAvBmTXm5NokgXL4EjgSzeCFWsVbiIFKFZ9VRjListLY1y0gNHVdNbN+K33pjKhke17QvT2iZK2pzMDrITSFtvAPnpkQBbNXyu4v3CbOE63ve0tc9450dvNkDUq0dRlp3+cI0tkge8J82tAqy/nSJaqFSZ004hRDMtWRVDu5DlQq8QgbBLur0Z6FEj2vXk4tPpyZuZbn0RvP4M64xtGtBqNwMFepAxiIXkVpwWn9DZTOHItOzEX845D935bHWogu7rOwV3D7W9ZNebAEen7UgOGU5oR/ARZpTTFQrFxtkIa1vSz30QTzZDDP3A1vkIosRFAMOg4txfFn6DXvwxhAynDgn/UsI9DesPqNhvlwtlbCAAE/4k/o4QOf46HvTQ86sUZAV9wOlkz6HYpEniftUvU0yLoAVxDDXSQ+4NeT2Q9MlPx/Diw+xcBM75UyUUqq1RBeTovBQ1Y5gOSCKOANeoqu3Yde/zivSUi86gU2mICLH3RVPsE7EQdBZMnupE0631qUDJUMHP75DlilxH34sbsdjQG/FLaJwYPSoZkV9YrVfi98ugvdPTTqf0HO27SCg2T8TsRfqxf25+yiZB2KINMCBroqQIBrWd+Poc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwODA2MzExMTg4OCwKICAicHJvZmlsZUlkIiA6ICIxOTI1MjFiNGVmZGI0MjVjODkzMWYwMmE4NDk2ZTExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJpYWxpemFibGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUzMmNlNWFkZTA2YWZmOWQ2OTgzODIwODBkZWE1Mzk5NDc2NTlmYjU4N2U1OGQ0ZjFkN2MxZmY5MjQwZTNjOCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Power Stone\",1:\"§7Combine §a9x §7of this stone at the\",2:\"§6Thaumaturgist §7to permanently unlock the\",3:\"§aSanguisuge §7power.\",4:\"\",5:\"§7At §62,000 Magical Power§7:\",6:\"§c+259.26 Health\",7:\"§c+617.29 Strength\",8:\"§9+246.92 Crit Damage\",9:\"§4+61.67 Vitality\",10:\"\",11:\"§7Unique Power Bonus:\",12:\"§b+100 Intelligence\",13:\"\",14:\"§7Requires §aCombat Skill Level X§7!\",15:\"\",16:\"§a§lUNCOMMON POWER STONE\"],Name:\"§aDisplaced Leech\"}}",
     "damage": 3,
     "lore": [
       "§8Power Stone",
@@ -19105,11 +19105,11 @@
       "§6Thaumaturgist §7to permanently unlock the",
       "§aSanguisuge §7power.",
       "",
-      "§7At §6250 Magical Power§7:",
-      "§c+48.6 Health",
-      "§c+115.7 Strength",
-      "§9+46.28 Crit Damage",
-      "§4+11.56 Vitality",
+      "§7At §62,000 Magical Power§7:",
+      "§c+259.26 Health",
+      "§c+617.29 Strength",
+      "§9+246.92 Crit Damage",
+      "§4+61.67 Vitality",
       "",
       "§7Unique Power Bonus:",
       "§b+100 Intelligence",
@@ -19147,7 +19147,7 @@
   "DIVAN_BOOTS": {
     "itemid": "minecraft:golden_boots",
     "displayname": "§6Boots of Divan",
-    "nbttag": "{ExtraAttributes:{id:\"DIVAN_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:golden_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+80\",1:\"§7Defense: §a+110\",2:\"§7Mining Speed: §6+80\",3:\"§7Mining Fortune: §6+30\",4:\"§7Heat Resistance: §c+10\",5:\"§7Gemstones: §8[⸕] [☘] [⸕] [☘] [✧]\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",9:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Boots of Divan\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIVAN_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:golden_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+80\",1:\"§7Defense: §a+110\",2:\"§7Mining Speed: §6+80\",3:\"§7Mining Fortune: §6+30\",4:\"§7Heat Resistance: §c+10\",5:\"§7Gemstones: §8[] [] [] [] []\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",9:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Boots of Divan\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+80",
@@ -19155,7 +19155,7 @@
       "§7Mining Speed: §6+80",
       "§7Mining Fortune: §6+30",
       "§7Heat Resistance: §c+10",
-      "§7Gemstones: §8[⸕] [☘] [⸕] [☘] [✧]",
+      "§7Gemstones: §8[] [] [] [] []",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 6§c.",
@@ -19164,7 +19164,7 @@
     "internalname": "DIVAN_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 6",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Boots_Of_Divan",
@@ -19187,7 +19187,7 @@
   "DIVAN_CHESTPLATE": {
     "itemid": "minecraft:golden_chestplate",
     "displayname": "§6Chestplate of Divan",
-    "nbttag": "{ExtraAttributes:{id:\"DIVAN_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:golden_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+200\",1:\"§7Defense: §a+130\",2:\"§7Mining Speed: §6+80\",3:\"§7Mining Fortune: §6+30\",4:\"§7Heat Resistance: §c+10\",5:\"§7Gemstones: §8[⸕] [☘] [⸕] [☘] [✧]\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",9:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Chestplate of Divan\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIVAN_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:golden_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+200\",1:\"§7Defense: §a+130\",2:\"§7Mining Speed: §6+80\",3:\"§7Mining Fortune: §6+30\",4:\"§7Heat Resistance: §c+10\",5:\"§7Gemstones: §8[] [] [] [] []\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",9:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Chestplate of Divan\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+200",
@@ -19195,7 +19195,7 @@
       "§7Mining Speed: §6+80",
       "§7Mining Fortune: §6+30",
       "§7Heat Resistance: §c+10",
-      "§7Gemstones: §8[⸕] [☘] [⸕] [☘] [✧]",
+      "§7Gemstones: §8[] [] [] [] []",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 6§c.",
@@ -19204,7 +19204,7 @@
     "internalname": "DIVAN_CHESTPLATE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 6",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Chestplate_Of_Divan",
@@ -19284,7 +19284,7 @@
   "DIVAN_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§6Helmet of Divan",
-    "nbttag": "{ExtraAttributes:{id:\"DIVAN_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"afc5e49d-8e0d-338a-8e1a-474b21a40eb0\",Properties:{textures:[0:{Name:\"textures\",Signature:\"XEzydDmjX6Sqtofd5eLEPh2Gs5s6lun7ChIeF6dakV4k5neJ7JWGfqzUR+QVrYUhWyTtACSAqbSIYdel29fnkV+Slx0FppjgvS+LFt8MWfwyu3ZY6VzGQqC4e+EGM+zNNvuzr09SDxGIF65byNsEGqHvmpPkdwKFEwQiFc+CZVQF7cy0mkG27dFB9eUNynwU5v2bNoK8QzMyO1QjO0lfcaoEply61zZMRKSsR0foDAmPRX94x0BGwFsu7SeBMfoa310elYD9PTsttQw3nibrWh3USuv9yfzeBDtIcX0/h1VEAtuiIo7UOwyPaxORQBw0O1Z28zyfnlCXmLQnYAp4MR4lm+NSI1hrwf3MY5TghXxkHSSw425vD0qmH4sOoRX/rm3dMAfItYqmSBcN+Y0yx+3MdqBPw6EfZIOeyWkgA+sDkPNRKHy37wJsx7UOxFUvR7of2V/aV31HE1qPk803UueYMzM7czinr6pLkN5TASHb+DruWhL/5Qz2rW/6CxaRWwte5AWn7suT7NZhItTGMgwsWqcqH02HqihJz5gErpOTU79lZDfYLoxDYsAHu7k5eCU/PpjKyxJsChdPC+xf1PkKpr4nkARHQPlK/tQf84ZqjtbNFJ4ZOs0M1SGvCJMWsgILjcJ4C78jge5igs6z8fe7Zm9Uh3HWR+d/w1Cv8LI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDUzNDAyODc4NSwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODNmNjllZjI3ZjMxMjBhNTEwNTBlNmJlNjZhMGUzZjhlODlhZjg4OGQ0ODA2NzE2YmY4NmY1OTBkYTYzODMxNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+100\",1:\"§7Defense: §a+130\",2:\"§7Mining Speed: §6+80\",3:\"§7Mining Fortune: §6+30\",4:\"§7Heat Resistance: §c+10\",5:\"§7Gemstones: §8[⸕] [☘] [⸕] [☘] [✧]\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",9:\"§6§lLEGENDARY HELMET\"],Name:\"§6Helmet of Divan\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIVAN_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"afc5e49d-8e0d-338a-8e1a-474b21a40eb0\",Properties:{textures:[0:{Name:\"textures\",Signature:\"XEzydDmjX6Sqtofd5eLEPh2Gs5s6lun7ChIeF6dakV4k5neJ7JWGfqzUR+QVrYUhWyTtACSAqbSIYdel29fnkV+Slx0FppjgvS+LFt8MWfwyu3ZY6VzGQqC4e+EGM+zNNvuzr09SDxGIF65byNsEGqHvmpPkdwKFEwQiFc+CZVQF7cy0mkG27dFB9eUNynwU5v2bNoK8QzMyO1QjO0lfcaoEply61zZMRKSsR0foDAmPRX94x0BGwFsu7SeBMfoa310elYD9PTsttQw3nibrWh3USuv9yfzeBDtIcX0/h1VEAtuiIo7UOwyPaxORQBw0O1Z28zyfnlCXmLQnYAp4MR4lm+NSI1hrwf3MY5TghXxkHSSw425vD0qmH4sOoRX/rm3dMAfItYqmSBcN+Y0yx+3MdqBPw6EfZIOeyWkgA+sDkPNRKHy37wJsx7UOxFUvR7of2V/aV31HE1qPk803UueYMzM7czinr6pLkN5TASHb+DruWhL/5Qz2rW/6CxaRWwte5AWn7suT7NZhItTGMgwsWqcqH02HqihJz5gErpOTU79lZDfYLoxDYsAHu7k5eCU/PpjKyxJsChdPC+xf1PkKpr4nkARHQPlK/tQf84ZqjtbNFJ4ZOs0M1SGvCJMWsgILjcJ4C78jge5igs6z8fe7Zm9Uh3HWR+d/w1Cv8LI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDUzNDAyODc4NSwKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb19jcmVyYXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODNmNjllZjI3ZjMxMjBhNTEwNTBlNmJlNjZhMGUzZjhlODlhZjg4OGQ0ODA2NzE2YmY4NmY1OTBkYTYzODMxNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+100\",1:\"§7Defense: §a+130\",2:\"§7Mining Speed: §6+80\",3:\"§7Mining Fortune: §6+30\",4:\"§7Heat Resistance: §c+10\",5:\"§7Gemstones: §8[] [] [] [] []\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",9:\"§6§lLEGENDARY HELMET\"],Name:\"§6Helmet of Divan\"}}",
     "damage": 3,
     "lore": [
       "§7Health: §c+100",
@@ -19292,7 +19292,7 @@
       "§7Mining Speed: §6+80",
       "§7Mining Fortune: §6+30",
       "§7Heat Resistance: §c+10",
-      "§7Gemstones: §8[⸕] [☘] [⸕] [☘] [✧]",
+      "§7Gemstones: §8[] [] [] [] []",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 6§c.",
@@ -19301,7 +19301,7 @@
     "internalname": "DIVAN_HELMET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 6",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Helmet_Of_Divan",
@@ -19324,7 +19324,7 @@
   "DIVAN_LEGGINGS": {
     "itemid": "minecraft:golden_leggings",
     "displayname": "§6Leggings of Divan",
-    "nbttag": "{ExtraAttributes:{id:\"DIVAN_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:golden_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+130\",1:\"§7Defense: §a+170\",2:\"§7Mining Speed: §6+80\",3:\"§7Mining Fortune: §6+30\",4:\"§7Heat Resistance: §c+10\",5:\"§7Gemstones: §8[⸕] [☘] [⸕] [☘] [✧]\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",9:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Leggings of Divan\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIVAN_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:golden_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+130\",1:\"§7Defense: §a+170\",2:\"§7Mining Speed: §6+80\",3:\"§7Mining Fortune: §6+30\",4:\"§7Heat Resistance: §c+10\",5:\"§7Gemstones: §8[] [] [] [] []\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §5Heart of the Mountain Tier 6§c.\",9:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Leggings of Divan\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+130",
@@ -19332,7 +19332,7 @@
       "§7Mining Speed: §6+80",
       "§7Mining Fortune: §6+30",
       "§7Heat Resistance: §c+10",
-      "§7Gemstones: §8[⸕] [☘] [⸕] [☘] [✧]",
+      "§7Gemstones: §8[] [] [] [] []",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 6§c.",
@@ -19341,7 +19341,7 @@
     "internalname": "DIVAN_LEGGINGS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 6",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Leggings_Of_Divan",
@@ -19457,7 +19457,7 @@
   "DIVER_BOOTS": {
     "itemid": "minecraft:golden_boots",
     "displayname": "§5Diver's Boots",
-    "nbttag": "{ExtraAttributes:{id:\"DIVER_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:golden_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+125\",1:\"§7Defense: §a+40\",2:\"§7Sea Creature Chance: §3+2%\",3:\"§7Respiration: §3+3\",4:\"§7Pressure Resistance: §9+15\",5:\"§7Gemstones: §8[☂]\",6:\"\",7:\"§6Full Set Bonus: One with the Fish §7(0/4)\",8:\"§7Grants the ability to breathe\",9:\"§9permanently §7while §9underwater§7.\",10:\"\",11:\"§8Tiered Bonus: Deep Sea Diver (0/4)\",12:\"§7Grants §6+0⛃ Treasure Chance §7while\",13:\"§9underwater§7.\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires §aFishing Skill 20§c.\",17:\"§5§lEPIC BOOTS\"],Name:\"§5Diver's Boots\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIVER_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:golden_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+125\",1:\"§7Defense: §a+40\",2:\"§7Sea Creature Chance: §3+2%\",3:\"§7Respiration: §3+3\",4:\"§7Pressure Resistance: §9+15\",5:\"§7Gemstones: §8[]\",6:\"\",7:\"§6Full Set Bonus: One with the Fish §7(0/4)\",8:\"§7Grants the ability to breathe\",9:\"§9permanently §7while §9underwater§7.\",10:\"\",11:\"§8Tiered Bonus: Deep Sea Diver (0/4)\",12:\"§7Grants §6+0 Treasure Chance §7while\",13:\"§9underwater§7.\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires §aFishing Skill 20§c.\",17:\"§5§lEPIC BOOTS\"],Name:\"§5Diver's Boots\"},ench:[0:{id:8S,lvl:3S}]}",
     "damage": 0,
     "lore": [
       "§7Health: §c+125",
@@ -19465,14 +19465,14 @@
       "§7Sea Creature Chance: §3+2%",
       "§7Respiration: §3+3",
       "§7Pressure Resistance: §9+15",
-      "§7Gemstones: §8[☂]",
+      "§7Gemstones: §8[]",
       "",
       "§6Full Set Bonus: One with the Fish §7(0/4)",
       "§7Grants the ability to breathe",
       "§9permanently §7while §9underwater§7.",
       "",
       "§8Tiered Bonus: Deep Sea Diver (0/4)",
-      "§7Grants §6+0⛃ Treasure Chance §7while",
+      "§7Grants §6+0 Treasure Chance §7while",
       "§9underwater§7.",
       "",
       "§8This item can be reforged!",
@@ -19482,7 +19482,7 @@
     "internalname": "DIVER_BOOTS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Diver%27s_Boots",
@@ -19889,7 +19889,7 @@
   "DROPLET_WISP;1": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §aDroplet Wisp",
-    "nbttag": "{ExtraAttributes:{id:\"DROPLET_WISP;1\",petInfo:\"{\\\"type\\\":\\\"DROPLET_WISP\\\",\\\"tier\\\":\\\"UNCOMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"991a7841-b224-3444-9d14-6c2f0b6180dc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ueexEKRwehqgzqYc2Kpn1f99Dfs7DxG5L68z1CDG/e2U7Mi5zNetp3PaFH0HqKbsg43qOzg792xtzKtOWGZXGU2JmSMn+0F+97aLx6plTEmbui8wwHZ36Pv7nq3pQcB2TLPTyg5FCfrUQQ45FTW/D5onh+CMVnf8jQdujqUl6HPGOzvTRpDHzrZbtF9ShyHgvEG3pB6mUZw78k//pi8ThufzLRTQEaUVUdZW7jlVuhHBDCC69juG9tz+DODj7n5PAO/xsqm2TtgXhezh9chzkNjCN4Ei49aS20QlCZ8jfHqTAtZD1lY8gS84uYife5TkcPy8PxDzrTdoZTMXSQPVCjcxd4cCIPK5uP/Q/fdPPUJtdJ/cpe4inwe/vhuozaAFCj7PCjlKXvqpAhdX0jxiEtanVNqhXq/lgg9HNMIsltQVa/hdBpclgv/TG168PY7bPWvHTRZgszBf1htOLkRQKZMWXNCBYsYwxNB87pVxut8ZItUJ/XPqzw/IjHjWefEb8dXf0cp2IL0qGIgm0b3DTifEHw2JPSgJiIuU2TRADJwfZY0cWf/Ya+aNSrkLCtEcflQt8IJRwNxPwVB4BDu/o0f9UgzLvSb/Ae4I5AyjNCnQZlERAx7cm64ayeIYTDI9juTZlUYYfMXrbVG8xr0C5u4NK/5IROsv/oFBK4vzkSM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTk3OTE1MCwKICAicHJvZmlsZUlkIiA6ICIxMzEzZGFmMDc2OGQ0YmQ5Yjc1ODJkMGI1NWUwZGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW50aWNjaGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0MTJlNzAzNzVlYzk5ZWUzOGFlOTRiMzBlOWIxMDc1MmQ0NTk2NjJiNTQ3OTRkZmU2NmZlNmExODNjNjcyZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Gabagool Pet, feed to gain XP\",1:\"\",2:\"§7Health: §c+{HEALTH}\",3:\"§7Damage: §c+{DAMAGE}\",4:\"\",5:\"§6Drophammer\",6:\"§7Lets you break fire pillars, which\",7:\"§7heals you for §c15% §7of your max §c❤\",8:\"§7over §a3s§7.\",9:\"\",10:\"§6Bulwark\",11:\"§7Kill Blazes to gain defense against\",12:\"§7them and demons.\",13:\"§7Bonus: §a+0❈ §7& §f+0❂\",14:\"§7Next Upgrade: §a+30❈ §7& §f+3❂ §8(§a0§7/§c100§8)\",15:\"\",16:\"§6Blaze Slayer\",17:\"§7Gain §b{0}x §7Combat XP against §aBlazes§7.\",18:\"\",19:\"§eRight-click to add this pet to your pet menu!\",20:\"\",21:\"§a§lUNCOMMON\"],Name:\"§7[Lvl {LVL}] §aDroplet Wisp\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DROPLET_WISP;1\",petInfo:\"{\\\"type\\\":\\\"DROPLET_WISP\\\",\\\"tier\\\":\\\"UNCOMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"991a7841-b224-3444-9d14-6c2f0b6180dc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ueexEKRwehqgzqYc2Kpn1f99Dfs7DxG5L68z1CDG/e2U7Mi5zNetp3PaFH0HqKbsg43qOzg792xtzKtOWGZXGU2JmSMn+0F+97aLx6plTEmbui8wwHZ36Pv7nq3pQcB2TLPTyg5FCfrUQQ45FTW/D5onh+CMVnf8jQdujqUl6HPGOzvTRpDHzrZbtF9ShyHgvEG3pB6mUZw78k//pi8ThufzLRTQEaUVUdZW7jlVuhHBDCC69juG9tz+DODj7n5PAO/xsqm2TtgXhezh9chzkNjCN4Ei49aS20QlCZ8jfHqTAtZD1lY8gS84uYife5TkcPy8PxDzrTdoZTMXSQPVCjcxd4cCIPK5uP/Q/fdPPUJtdJ/cpe4inwe/vhuozaAFCj7PCjlKXvqpAhdX0jxiEtanVNqhXq/lgg9HNMIsltQVa/hdBpclgv/TG168PY7bPWvHTRZgszBf1htOLkRQKZMWXNCBYsYwxNB87pVxut8ZItUJ/XPqzw/IjHjWefEb8dXf0cp2IL0qGIgm0b3DTifEHw2JPSgJiIuU2TRADJwfZY0cWf/Ya+aNSrkLCtEcflQt8IJRwNxPwVB4BDu/o0f9UgzLvSb/Ae4I5AyjNCnQZlERAx7cm64ayeIYTDI9juTZlUYYfMXrbVG8xr0C5u4NK/5IROsv/oFBK4vzkSM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTk3OTE1MCwKICAicHJvZmlsZUlkIiA6ICIxMzEzZGFmMDc2OGQ0YmQ5Yjc1ODJkMGI1NWUwZGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW50aWNjaGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0MTJlNzAzNzVlYzk5ZWUzOGFlOTRiMzBlOWIxMDc1MmQ0NTk2NjJiNTQ3OTRkZmU2NmZlNmExODNjNjcyZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Gabagool Pet, feed to gain XP\",1:\"\",2:\"§7Health: §c+{HEALTH}\",3:\"§7Damage: §c+{DAMAGE}\",4:\"\",5:\"§6Drophammer\",6:\"§7Lets you break fire pillars, which\",7:\"§7heals you for §c15% §7of your max §c❤\",8:\"§7over §a3s§7.\",9:\"\",10:\"§6Bulwark\",11:\"§7Kill Blazes to gain defense against\",12:\"§7them and demons.\",13:\"§7Bonus: §a+0 §7& §f+0\",14:\"§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)\",15:\"\",16:\"§6Blaze Slayer\",17:\"§7Gain §b{0}x §7Combat XP against §aBlazes§7.\",18:\"\",19:\"§eRight-click to add this pet to your pet menu!\",20:\"\",21:\"§a§lUNCOMMON\"],Name:\"§7[Lvl {LVL}] §aDroplet Wisp\"}}",
     "damage": 3,
     "lore": [
       "§8Gabagool Pet, feed to gain XP",
@@ -19905,8 +19905,8 @@
       "§6Bulwark",
       "§7Kill Blazes to gain defense against",
       "§7them and demons.",
-      "§7Bonus: §a+0❈ §7& §f+0❂",
-      "§7Next Upgrade: §a+30❈ §7& §f+3❂ §8(§a0§7/§c100§8)",
+      "§7Bonus: §a+0 §7& §f+0",
+      "§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)",
       "",
       "§6Blaze Slayer",
       "§7Gain §b{0}x §7Combat XP against §aBlazes§7.",
@@ -19918,7 +19918,7 @@
     "internalname": "DROPLET_WISP;1",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Droplet_Wisp_Pet",
@@ -27381,7 +27381,7 @@
   "ENTROPY_SUPPRESSOR": {
     "itemid": "minecraft:skull",
     "displayname": "§9Entropy Suppressor",
-    "nbttag": "{ExtraAttributes:{id:\"ENTROPY_SUPPRESSOR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fd3cadaf-e2b0-33eb-b2fb-f7f989ae913e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Z4j6sDkN0lqRzWBbE5a1V7o9YG0JTMmyVOZT6Xe6OhehSmAq8R+rDX88Kug1Cpb6qx20UR0znuVRRs7IwmOlZA1z1Ma3w9Fr1IIVZJ1r3kt2RgBMMdfNX+L6AfHKo3I/tvUf4G3qdOQ5suZ6aFf9AwHcUl0ol15pg09qqOOhwHuLwoTllfov4clOhCDwCFVPrnc/VWb1znKilpL3icIoZFxgqjDFXwc9xQ/r2HI9auMgNnKpMnVJBH7vNdBzRViZt4ZcC7K6fQeDEv6Y70zdx3b+P2Aqh8tDvynUm3vvk7cCborPsG7Zu0rgSTbfBc3tj3dZYGZjgopI0UjGTdThKoI+6gOVc3kESRzzK4Cyqf+tzjZ9SsLOCXZOU1wc6h1+nyTGkKO/qifSnCN6NywhzdWopKnrwFE3yCwSPrY1SfcWZWYtY8SdOXdTNrcoYNpfdvfabKi3ynXVN7qHzkVYcejXLDcpAN8iy/0sx6F0klMQY3jzS4wYydRxhgCJ35/uYelLFAHnQo1ZRQ5i4e6sjwAj4Jh4nOrXPEstcPyJr3SHLAqLVJuqQnGY5FSlAotsCBtVzZApVuuYZv4Ac491mV+wrS/J2fbnfb0VEupOGSfSpFBgIlgSLlC5x7LZhT3Y6g3xW+xRi8BU2xkEiX1fMpH0yruYglYwz1KY4gv0WOg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5MTU4ODc0NTcwMSwKICAicHJvZmlsZUlkIiA6ICIxOTI1MjFiNGVmZGI0MjVjODkzMWYwMmE4NDk2ZTExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJpYWxpemFibGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM4NTgyZTM3ZmJmZWMzMTdmMzkzMzVjYTU4MTYwMTRmMzIyNjJlMjZhYWEyY2I2YjcwYzllOThjM2MyMzk5MSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Coldfused §7reforge when\",4:\"§7combined with a melee weapon.\",5:\"\",6:\"§8§oCan be used with Blaze Slayer\",7:\"§8§odaggers.\",8:\"\",9:\"§9Coldfused §7(§6Legendary§7):\",10:\"§7Strength: §c+45\",11:\"§7Crit Damage: §9+60%\",12:\"§7Magic Find: §b+2\",13:\"\",14:\"§9Coldfused Bonus\",15:\"§8Only if Wisp is equipped\",16:\"§c+75❁ Strength\",17:\"§9+55☠ Crit Damage\",18:\"§7Deal §62x §7to fire pillars, breaking one grants\",19:\"§f+30❂ True Defense §7and §c+1.15x damage §7for §a60s§7.\",20:\"\",21:\"§7Requires §aMining Skill Level XX§7!\",22:\"\",23:\"§9§lRARE REFORGE STONE\"],Name:\"§9Entropy Suppressor\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ENTROPY_SUPPRESSOR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fd3cadaf-e2b0-33eb-b2fb-f7f989ae913e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Z4j6sDkN0lqRzWBbE5a1V7o9YG0JTMmyVOZT6Xe6OhehSmAq8R+rDX88Kug1Cpb6qx20UR0znuVRRs7IwmOlZA1z1Ma3w9Fr1IIVZJ1r3kt2RgBMMdfNX+L6AfHKo3I/tvUf4G3qdOQ5suZ6aFf9AwHcUl0ol15pg09qqOOhwHuLwoTllfov4clOhCDwCFVPrnc/VWb1znKilpL3icIoZFxgqjDFXwc9xQ/r2HI9auMgNnKpMnVJBH7vNdBzRViZt4ZcC7K6fQeDEv6Y70zdx3b+P2Aqh8tDvynUm3vvk7cCborPsG7Zu0rgSTbfBc3tj3dZYGZjgopI0UjGTdThKoI+6gOVc3kESRzzK4Cyqf+tzjZ9SsLOCXZOU1wc6h1+nyTGkKO/qifSnCN6NywhzdWopKnrwFE3yCwSPrY1SfcWZWYtY8SdOXdTNrcoYNpfdvfabKi3ynXVN7qHzkVYcejXLDcpAN8iy/0sx6F0klMQY3jzS4wYydRxhgCJ35/uYelLFAHnQo1ZRQ5i4e6sjwAj4Jh4nOrXPEstcPyJr3SHLAqLVJuqQnGY5FSlAotsCBtVzZApVuuYZv4Ac491mV+wrS/J2fbnfb0VEupOGSfSpFBgIlgSLlC5x7LZhT3Y6g3xW+xRi8BU2xkEiX1fMpH0yruYglYwz1KY4gv0WOg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5MTU4ODc0NTcwMSwKICAicHJvZmlsZUlkIiA6ICIxOTI1MjFiNGVmZGI0MjVjODkzMWYwMmE4NDk2ZTExYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXJpYWxpemFibGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM4NTgyZTM3ZmJmZWMzMTdmMzkzMzVjYTU4MTYwMTRmMzIyNjJlMjZhYWEyY2I2YjcwYzllOThjM2MyMzk5MSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Coldfused §7reforge when\",4:\"§7combined with a melee weapon.\",5:\"\",6:\"§8§oCan be used with Blaze Slayer\",7:\"§8§odaggers.\",8:\"\",9:\"§9Coldfused §7(§6Legendary§7):\",10:\"§7Strength: §c+45\",11:\"§7Crit Damage: §9+60%\",12:\"§7Magic Find: §b+2\",13:\"\",14:\"§9Coldfused Bonus\",15:\"§8Only if Wisp is equipped\",16:\"§c+75 Strength\",17:\"§9+55 Crit Damage\",18:\"§7Deal §62x §7to fire pillars, breaking one grants\",19:\"§f+30 True Defense §7and §c+1.15x damage §7for §a60s§7.\",20:\"\",21:\"§7Requires §aMining Skill Level XX§7!\",22:\"\",23:\"§9§lRARE REFORGE STONE\"],Name:\"§9Entropy Suppressor\"}}",
     "damage": 3,
     "lore": [
       "§8Reforge Stone",
@@ -27400,10 +27400,10 @@
       "",
       "§9Coldfused Bonus",
       "§8Only if Wisp is equipped",
-      "§c+75❁ Strength",
-      "§9+55☠ Crit Damage",
+      "§c+75 Strength",
+      "§9+55 Crit Damage",
       "§7Deal §62x §7to fire pillars, breaking one grants",
-      "§f+30❂ True Defense §7and §c+1.15x damage §7for §a60s§7.",
+      "§f+30 True Defense §7and §c+1.15x damage §7for §a60s§7.",
       "",
       "§7Requires §aMining Skill Level XX§7!",
       "",
@@ -27412,7 +27412,7 @@
     "internalname": "ENTROPY_SUPPRESSOR",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Chili Pepper IV",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Entropy_Suppressor",
@@ -33340,7 +33340,7 @@
   "FRIGID_HUSK": {
     "itemid": "minecraft:skull",
     "displayname": "§6Frigid Husk",
-    "nbttag": "{ExtraAttributes:{id:\"FRIGID_HUSK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6b573c42-f587-308a-8866-94e961887934\",Properties:{textures:[0:{Name:\"textures\",Signature:\"osQNAFn3/j8kB0tICQCFUST+QFnPx2SRd9G2FAYALVDeEh3EbSekkDDSmhnlE2uDLFeZOqoWkK9Bc5Ht+R9Wbd52nbxAOjzKknYGX+bH+/q4eHVE1N3XlDiEmh9FAzyY8lH2qHK1u4hZ6Kfj+HhaZe8EhZbCdTxwTPVOpu0t8ahNjt0ghiql3x37wYtZnEsUgH7X71vTqZVLIZKg/XWdoC0XKsubjLN8yLIdmi9RFExt2IrEhpxnFZd34f2ZmCXEHIAO5x4TKY3LZQoQOJ6tXGFAS74ELLLc1euWMehbK19CnmpMF1nveLsy43RaYvlLflJdBgPDw14b9Cq7j4bQ0aGUyderXMarRp0kV9fUciVewBjuqFBLB4XBVvm3e6LX9rDozI4ljvkwqTMbMnWhVRsPoY4vTsNLMq95yOjR4CdQFH1klH7lKeqCb5kmbCsaa6m9fWbR3aeyb9FhwwlzQQ+ChdtSBw5b/PxPxMTQzQoVqsvyHdGaRnRR/2Mvlkc+LOMZm3gThKhCOe8xzNyXGtTquQOPu17RGSdWg1Sh+WkyDIpuEAg5+5TGaESiS4wGjYkpPSAaX6pEV2LEeuNuPZf/US0ebE8mWTGSFGch27UzdBBAT/CBelKcG1Y9buoLjMp/C9Ys7HQTJBymYIutUDdtdCrY6t1es6YNpV2gP30=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwOTMzMjcyMDc0OCwKICAicHJvZmlsZUlkIiA6ICI4YjA2ZmU5ZGNjNjg0NDNmYWNmM2QzODA0NWNkNTMyNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXN0aWVsY3ZyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzODIxODJlZjA3NjA3MDg4MmVlMGIzYjhmNmRjZmFlMTIzNGFmMmE1ZDIyMDhiYThhMDE2NTg5ZDY1MTg5ZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Glacial §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oSpread like a sickness through the\",7:\"§8§otunnels, sucking the life from\",8:\"§8§oeverything it covered.\",9:\"\",10:\"§9Glacial §7(§6Legendary§7):\",11:\"§7Mining Fortune: §6+16\",12:\"\",13:\"§9Glacial Bonus\",14:\"§7Grants §6+1.4☘ Mining Fortune §7for\",15:\"§7every §b1❄ Cold §7you have.\",16:\"\",17:\"§7Requires §aMining Skill Level XXX§7!\",18:\"\",19:\"§6§lLEGENDARY REFORGE STONE\"],Name:\"§6Frigid Husk\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FRIGID_HUSK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6b573c42-f587-308a-8866-94e961887934\",Properties:{textures:[0:{Name:\"textures\",Signature:\"osQNAFn3/j8kB0tICQCFUST+QFnPx2SRd9G2FAYALVDeEh3EbSekkDDSmhnlE2uDLFeZOqoWkK9Bc5Ht+R9Wbd52nbxAOjzKknYGX+bH+/q4eHVE1N3XlDiEmh9FAzyY8lH2qHK1u4hZ6Kfj+HhaZe8EhZbCdTxwTPVOpu0t8ahNjt0ghiql3x37wYtZnEsUgH7X71vTqZVLIZKg/XWdoC0XKsubjLN8yLIdmi9RFExt2IrEhpxnFZd34f2ZmCXEHIAO5x4TKY3LZQoQOJ6tXGFAS74ELLLc1euWMehbK19CnmpMF1nveLsy43RaYvlLflJdBgPDw14b9Cq7j4bQ0aGUyderXMarRp0kV9fUciVewBjuqFBLB4XBVvm3e6LX9rDozI4ljvkwqTMbMnWhVRsPoY4vTsNLMq95yOjR4CdQFH1klH7lKeqCb5kmbCsaa6m9fWbR3aeyb9FhwwlzQQ+ChdtSBw5b/PxPxMTQzQoVqsvyHdGaRnRR/2Mvlkc+LOMZm3gThKhCOe8xzNyXGtTquQOPu17RGSdWg1Sh+WkyDIpuEAg5+5TGaESiS4wGjYkpPSAaX6pEV2LEeuNuPZf/US0ebE8mWTGSFGch27UzdBBAT/CBelKcG1Y9buoLjMp/C9Ys7HQTJBymYIutUDdtdCrY6t1es6YNpV2gP30=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwOTMzMjcyMDc0OCwKICAicHJvZmlsZUlkIiA6ICI4YjA2ZmU5ZGNjNjg0NDNmYWNmM2QzODA0NWNkNTMyNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXN0aWVsY3ZyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzODIxODJlZjA3NjA3MDg4MmVlMGIzYjhmNmRjZmFlMTIzNGFmMmE1ZDIyMDhiYThhMDE2NTg5ZDY1MTg5ZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Glacial §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oSpread like a sickness through the\",7:\"§8§otunnels, sucking the life from\",8:\"§8§oeverything it covered.\",9:\"\",10:\"§9Glacial §7(§6Legendary§7):\",11:\"§7Mining Fortune: §6+16\",12:\"\",13:\"§9Glacial Bonus\",14:\"§7Grants §6+1.4 Mining Fortune §7for\",15:\"§7every §b1❄ Cold §7you have.\",16:\"\",17:\"§7Requires §aMining Skill Level XXX§7!\",18:\"\",19:\"§6§lLEGENDARY REFORGE STONE\"],Name:\"§6Frigid Husk\"}}",
     "damage": 3,
     "lore": [
       "§8Reforge Stone",
@@ -33357,7 +33357,7 @@
       "§7Mining Fortune: §6+16",
       "",
       "§9Glacial Bonus",
-      "§7Grants §6+1.4☘ Mining Fortune §7for",
+      "§7Grants §6+1.4 Mining Fortune §7for",
       "§7every §b1❄ Cold §7you have.",
       "",
       "§7Requires §aMining Skill Level XXX§7!",
@@ -33367,7 +33367,7 @@
     "internalname": "FRIGID_HUSK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Glacite V & HotM 7",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frigid_Husk",
@@ -34350,7 +34350,7 @@
   "GEMSTONE_DRILL_2": {
     "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§9Gemstone Drill LT-522",
-    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_2\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/gemstone_drill_lt_522\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 8\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+300\",4:\"§7Pristine: §5+1\",5:\"§7Gemstone Fortune: §6+80\",6:\"§7Gemstones: §8[§7§8] []\",7:\"\",8:\"§7Grants §d+10% Gemstone Powder§7, and\",9:\"§6+800 Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6 Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 4§c.\",31:\"§9§lRARE DRILL\"],Name:\"§9Gemstone Drill LT-522\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{drill_fuel:3000,id:\"GEMSTONE_DRILL_2\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/gemstone_drill_lt_522\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 8\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+300\",4:\"§7Pristine: §5+1\",5:\"§7Gemstone Fortune: §6+80\",6:\"§7Gemstones: §8[§7§8] []\",7:\"\",8:\"§7Grants §d+10% Gemstone Powder§7, and\",9:\"§6+800 Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6 Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 4§c.\",31:\"§9§lRARE DRILL\"],Name:\"§9Gemstone Drill LT-522\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 8",
@@ -34389,7 +34389,7 @@
     "internalname": "GEMSTONE_DRILL_2",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Gemstone_Drill_Model_LT-522",
@@ -34411,7 +34411,7 @@
   "GEMSTONE_DRILL_3": {
     "itemid": "minecraft:diamond_pickaxe",
     "displayname": "§5Topaz Drill KGR-12",
-    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_3\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/topaz_drill_kgr_12\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 9\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+450\",4:\"§7Pristine: §5+1.5\",5:\"§7Gemstone Fortune: §6+100\",6:\"§7Gemstones: §8[§7§8] []\",7:\"\",8:\"§7Grants §d+15% Gemstone Powder§7, and\",9:\"§6+800 Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6 Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",31:\"§5§lEPIC DRILL\"],Name:\"§5Topaz Drill KGR-12\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"GEMSTONE_DRILL_3\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/topaz_drill_kgr_12\",Unbreakable:1B,display:{Lore:[0:\"§8Breaking Power 9\",1:\"\",2:\"§7Damage: §c+75\",3:\"§7Mining Speed: §6+450\",4:\"§7Pristine: §5+1.5\",5:\"§7Gemstone Fortune: §6+100\",6:\"§7Gemstones: §8[§7§8] []\",7:\"\",8:\"§7Grants §d+15% Gemstone Powder§7, and\",9:\"§6+800 Mining Speed §7when mining\",10:\"§dGemstones§7.\",11:\"\",12:\"§7Fuel Tank: §cNot Installed\",13:\"§7Increases fuel capacity with part\",14:\"§7installed.\",15:\"\",16:\"§7Drill Engine: §cNot Installed\",17:\"§7Increases §6 Mining Speed §7with part\",18:\"§7installed.\",19:\"\",20:\"§7Upgrade Module: §cNot Installed\",21:\"§7Applies a passive upgrade with part\",22:\"§7installed.\",23:\"\",24:\"§7Apply Drill Parts to this Drill by\",25:\"§7talking to a §2Drill Mechanic§7!\",26:\"\",27:\"§7Fuel: §23,000§8/3k\",28:\"\",29:\"§8This item can be reforged!\",30:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",31:\"§5§lEPIC DRILL\"],Name:\"§5Topaz Drill KGR-12\"},ench:[0:{id:32S,lvl:5S}]}",
     "damage": 0,
     "lore": [
       "§8Breaking Power 9",
@@ -34450,7 +34450,7 @@
     "internalname": "GEMSTONE_DRILL_3",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 5",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Topaz_Drill_KGR-12",
@@ -35392,7 +35392,7 @@
   "GLACIAL_SCYTHE": {
     "itemid": "minecraft:diamond_hoe",
     "displayname": "§5Glacial Scythe",
-    "nbttag": "{ExtraAttributes:{id:\"GLACIAL_SCYTHE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/glacial_scythe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+120\",1:\"§7Intelligence: §b+30\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§6Ability: Ice Bolt  §e§lRIGHT CLICK\",5:\"§7Shoots §a1 §7Ice Bolt that deals §c1,512 §7damage and\",6:\"§7slows enemies hit for §a5 §7seconds! When hitting\",7:\"§7the ground, also creates an explosion of §a3\",8:\"§7blocks, dealing the same damage.\",9:\"§8Mana Cost: §375\",10:\"\",11:\"§8This item can be reforged!\",12:\"§5§lEPIC SWORD\"],Name:\"§5Glacial Scythe\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GLACIAL_SCYTHE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/glacial_scythe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+120\",1:\"§7Intelligence: §b+30\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§6Ability: Ice Bolt  §e§lRIGHT CLICK\",5:\"§7Shoots §a1 §7Ice Bolt that deals §c1,500 §7damage and\",6:\"§7slows enemies hit for §a5 §7seconds! When hitting\",7:\"§7the ground, also creates an explosion of §a3\",8:\"§7blocks, dealing the same damage.\",9:\"§8Mana Cost: §375\",10:\"\",11:\"§8This item can be reforged!\",12:\"§5§lEPIC SWORD\"],Name:\"§5Glacial Scythe\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+120",
@@ -35400,7 +35400,7 @@
       "§7Gemstones: §8[§7§8]",
       "",
       "§6Ability: Ice Bolt  §e§lRIGHT CLICK",
-      "§7Shoots §a1 §7Ice Bolt that deals §c1,512 §7damage and",
+      "§7Shoots §a1 §7Ice Bolt that deals §c1,500 §7damage and",
       "§7slows enemies hit for §a5 §7seconds! When hitting",
       "§7the ground, also creates an explosion of §a3",
       "§7blocks, dealing the same damage.",
@@ -41462,7 +41462,7 @@
   "HORNS_OF_TORMENT": {
     "itemid": "minecraft:skull",
     "displayname": "§5Horns of Torment",
-    "nbttag": "{ExtraAttributes:{id:\"HORNS_OF_TORMENT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7168ad90-0e33-3560-a9d1-e8209ba3bc49\",Properties:{textures:[0:{Name:\"textures\",Signature:\"nNlexroY3PlppCKvessynQkDUaJwTjwoMy6hGd/4lofWzt2XiEaalOUnl2J2+byqFt8Nx4PBEljx6jmrm6dGJ3mPEl9xVC86hKhBcAx4+4vF4h4CAazRUnrQTIHVxyUn7Wn36Yarh+QrrZGjEBkFwUWGrw5WhThg+FkDjl/o71KCqCHeuZw3CISS1iTG5zIkzmAPKWvwCg3hOxG3aQBUTEYgAg1DfbwdbKnb7VQ4Sg33c5zrbtU16P81BZfODB1s8hYpuPr5HRpqAqCp8eQTiI+QYe9cXSvPfQCuWjYN9s82Dia9m7ekYTcMiDlTEk50LOR0zuWL85SL7Z+irKuz4kRegKlO6s9IZe5EtEAStSbvbBtQQ+kKUqlidNm19zAK84uIG5QcDfP++kmAo2wuW2ZW3hLZQiHIA2ukA/+s7nAO0Fn1X7rlg+8lK8mJW6EIrGfGXstjamvKG0ddNRnlkwkaIBMQrAlS6zsP/6hmu7ZrZ/Th2GB/P+bFihwI4GKpIQaYy1NpFZtSI5PF7NljROs1cgIrKHo86P4YsqcnFXT2+VV/SDcP1WzG1Afwv1XobvyuWzSa7vr4w8bjYCjZPo6BRV6NPCk/N1oNhyoKlol/qSz4X5c5uKWtEa0ziKqo9kwLH1LQi3CU36xnbNwkEurytY99eEeyoBTKpdcvvYk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0OTQxNTA4MzkxOSwKICAicHJvZmlsZUlkIiA6ICIzYTdhMDVjMDc0MTI0N2Q2YWVmMDMzMDNkOWNlMjMzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcXJ0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEwNjY2MzJmOTI4ODkxMjUzMWY5NTc0OTJkN2RkNjliYzYxNTJhZmEyYTg0N2YxMjFmODc4OGY0Y2EwOGUwZTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Power Stone\",1:\"§7Combine §a9x §7of this stone at the\",2:\"§6Thaumaturgist §7to permanently unlock the\",3:\"§aDemonic §7power.\",4:\"\",5:\"§7At §62,000 Magical Power§7:\",6:\"§c+284❁ Strength\",7:\"§b+1,426✎ Intelligence\",8:\"\",9:\"§7Unique Power Bonus:\",10:\"§9+50☠ Crit Damage\",11:\"\",12:\"§7Requires §aCombat Skill Level XXV§7!\",13:\"\",14:\"§5§lEPIC POWER STONE\"],Name:\"§5Horns of Torment\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"HORNS_OF_TORMENT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7168ad90-0e33-3560-a9d1-e8209ba3bc49\",Properties:{textures:[0:{Name:\"textures\",Signature:\"nNlexroY3PlppCKvessynQkDUaJwTjwoMy6hGd/4lofWzt2XiEaalOUnl2J2+byqFt8Nx4PBEljx6jmrm6dGJ3mPEl9xVC86hKhBcAx4+4vF4h4CAazRUnrQTIHVxyUn7Wn36Yarh+QrrZGjEBkFwUWGrw5WhThg+FkDjl/o71KCqCHeuZw3CISS1iTG5zIkzmAPKWvwCg3hOxG3aQBUTEYgAg1DfbwdbKnb7VQ4Sg33c5zrbtU16P81BZfODB1s8hYpuPr5HRpqAqCp8eQTiI+QYe9cXSvPfQCuWjYN9s82Dia9m7ekYTcMiDlTEk50LOR0zuWL85SL7Z+irKuz4kRegKlO6s9IZe5EtEAStSbvbBtQQ+kKUqlidNm19zAK84uIG5QcDfP++kmAo2wuW2ZW3hLZQiHIA2ukA/+s7nAO0Fn1X7rlg+8lK8mJW6EIrGfGXstjamvKG0ddNRnlkwkaIBMQrAlS6zsP/6hmu7ZrZ/Th2GB/P+bFihwI4GKpIQaYy1NpFZtSI5PF7NljROs1cgIrKHo86P4YsqcnFXT2+VV/SDcP1WzG1Afwv1XobvyuWzSa7vr4w8bjYCjZPo6BRV6NPCk/N1oNhyoKlol/qSz4X5c5uKWtEa0ziKqo9kwLH1LQi3CU36xnbNwkEurytY99eEeyoBTKpdcvvYk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0OTQxNTA4MzkxOSwKICAicHJvZmlsZUlkIiA6ICIzYTdhMDVjMDc0MTI0N2Q2YWVmMDMzMDNkOWNlMjMzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcXJ0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEwNjY2MzJmOTI4ODkxMjUzMWY5NTc0OTJkN2RkNjliYzYxNTJhZmEyYTg0N2YxMjFmODc4OGY0Y2EwOGUwZTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Power Stone\",1:\"§7Combine §a9x §7of this stone at the\",2:\"§6Thaumaturgist §7to permanently unlock the\",3:\"§aDemonic §7power.\",4:\"\",5:\"§7At §62,000 Magical Power§7:\",6:\"§c+283.95 Strength\",7:\"§b+1,425.94 Intelligence\",8:\"\",9:\"§7Unique Power Bonus:\",10:\"§9+50 Crit Damage\",11:\"\",12:\"§7Requires §aCombat Skill Level XXV§7!\",13:\"\",14:\"§5§lEPIC POWER STONE\"],Name:\"§5Horns of Torment\"}}",
     "damage": 3,
     "lore": [
       "§8Power Stone",
@@ -41471,11 +41471,11 @@
       "§aDemonic §7power.",
       "",
       "§7At §62,000 Magical Power§7:",
-      "§c+284❁ Strength",
-      "§b+1,426✎ Intelligence",
+      "§c+283.95 Strength",
+      "§b+1,425.94 Intelligence",
       "",
       "§7Unique Power Bonus:",
-      "§9+50☠ Crit Damage",
+      "§9+50 Crit Damage",
       "",
       "§7Requires §aCombat Skill Level XXV§7!",
       "",
@@ -41484,7 +41484,7 @@
     "internalname": "HORNS_OF_TORMENT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Raw Mutton IX",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Horns_of_Torment",
@@ -60717,7 +60717,7 @@
   "OBSIDIAN_TABLET": {
     "itemid": "minecraft:skull",
     "displayname": "§9Obsidian Tablet",
-    "nbttag": "{ExtraAttributes:{id:\"OBSIDIAN_TABLET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ba6049ae-2463-3d91-bd18-2c46684df2ad\",Properties:{textures:[0:{Name:\"textures\",Signature:\"L7XqDLjJkXohzaldaj16OX4VxriUsZEefaDJf8v/VgfQWXTLt5twZf6orsFPv6FyNAqzmQOyNUU7XFhty8xZyYCiXHeTknhMAaD0pY4HR8ou41BFNL0bYwGJRs6Egy/COOPApSLa1UsXsctDtWRLs1HUnr0f7QiYYWxLYE1fjHRYVXo8uUNErhjhXsUATVjMhBCZAoV7610eeeSqphYyOt5s6gnHqrAD+Q3axsxD0uCCXVYUYRD52I/NTdrlbabUb9iH7wmyluxE7Z6Qw21ZcW2dw5A7BpqJqiBD8/isv6U1dvuMTGCIh3/7jobE6EhHNv5eHSsf9FmYnJuqLIcqxfvJ3xe9KKQRHYFEkZzqm4XOSGQzMfaGia5ssHqH9BigmBP72XHi9LACeeQ91heyFXtGbejWEm6FMA6ZYrHIOJiknnUFMaZcE3dIJfTizX/NS4FV4Xg+TtIiYUvyeeqYjoxJUpvRpsQdyC0rfMG3cGN4HvlxuQfdouDDYSaGAw278oWFmMbBqlleZS3wBcjjrttn1/Y8iWEgkQcH1B78Nv7wj/Mqt2+XoqwU9mPpeCAa9FiEMTEWSqvQFk8doKiB//zdbEUR1EtijgCxzod9xTYCkSPuP2q3tV8NZ8tKYLjftr10oruIWCAs4PNqSMyW0iCQrqgkWrqweOvNrW+MHa4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1MDAyODM0NjAyNywKICAicHJvZmlsZUlkIiA6ICI4YjgyM2E1YmU0Njk0YjhiOTE0NmE5MWRhMjk4ZTViNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXBoaXRpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYTE1OWQ5YWMyZmRiMTY0ODU4YjYzNTBlMDNjMTkyNGYxN2U1YWE4NjExYTM0N2Q1NWI2Yjg5ODIwZmFmMDk0IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Power Stone\",1:\"§7Combine §a9x §7of this stone at the\",2:\"§6Thaumaturgist §7to permanently unlock the\",3:\"§aMythical §7power.\",4:\"\",5:\"§7At §6250 Magical Power§7:\",6:\"§c+55❤ Health\",7:\"§a+39❈ Defense\",8:\"§f+9✦ Speed\",9:\"§c+39❁ Strength\",10:\"§b+59✎ Intelligence\",11:\"§9+16☣ Crit Chance\",12:\"§9+39☠ Crit Damage\",13:\"\",14:\"§7Unique Power Bonus:\",15:\"§c+150❤ Health\",16:\"§c+40❁ Strength\",17:\"\",18:\"§7Requires §aCombat Skill Level XX§7!\",19:\"\",20:\"§9§lRARE POWER STONE\"],Name:\"§9Obsidian Tablet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OBSIDIAN_TABLET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ba6049ae-2463-3d91-bd18-2c46684df2ad\",Properties:{textures:[0:{Name:\"textures\",Signature:\"L7XqDLjJkXohzaldaj16OX4VxriUsZEefaDJf8v/VgfQWXTLt5twZf6orsFPv6FyNAqzmQOyNUU7XFhty8xZyYCiXHeTknhMAaD0pY4HR8ou41BFNL0bYwGJRs6Egy/COOPApSLa1UsXsctDtWRLs1HUnr0f7QiYYWxLYE1fjHRYVXo8uUNErhjhXsUATVjMhBCZAoV7610eeeSqphYyOt5s6gnHqrAD+Q3axsxD0uCCXVYUYRD52I/NTdrlbabUb9iH7wmyluxE7Z6Qw21ZcW2dw5A7BpqJqiBD8/isv6U1dvuMTGCIh3/7jobE6EhHNv5eHSsf9FmYnJuqLIcqxfvJ3xe9KKQRHYFEkZzqm4XOSGQzMfaGia5ssHqH9BigmBP72XHi9LACeeQ91heyFXtGbejWEm6FMA6ZYrHIOJiknnUFMaZcE3dIJfTizX/NS4FV4Xg+TtIiYUvyeeqYjoxJUpvRpsQdyC0rfMG3cGN4HvlxuQfdouDDYSaGAw278oWFmMbBqlleZS3wBcjjrttn1/Y8iWEgkQcH1B78Nv7wj/Mqt2+XoqwU9mPpeCAa9FiEMTEWSqvQFk8doKiB//zdbEUR1EtijgCxzod9xTYCkSPuP2q3tV8NZ8tKYLjftr10oruIWCAs4PNqSMyW0iCQrqgkWrqweOvNrW+MHa4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1MDAyODM0NjAyNywKICAicHJvZmlsZUlkIiA6ICI4YjgyM2E1YmU0Njk0YjhiOTE0NmE5MWRhMjk4ZTViNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXBoaXRpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYTE1OWQ5YWMyZmRiMTY0ODU4YjYzNTBlMDNjMTkyNGYxN2U1YWE4NjExYTM0N2Q1NWI2Yjg5ODIwZmFmMDk0IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Power Stone\",1:\"§7Combine §a9x §7of this stone at the\",2:\"§6Thaumaturgist §7to permanently unlock the\",3:\"§aMythical §7power.\",4:\"\",5:\"§7At §62,000 Magical Power§7:\",6:\"§c+293.83 Health\",7:\"§a+209.88 Defense\",8:\"§c+209.88 Strength\",9:\"§9+83.95 Crit Chance\",10:\"§9+209.88 Crit Damage\",11:\"§b+314.82 Intelligence\",12:\"§f+49.38 Speed\",13:\"\",14:\"§7Unique Power Bonus:\",15:\"§c+150 Health\",16:\"§c+40 Strength\",17:\"\",18:\"§7Requires §aCombat Skill Level XX§7!\",19:\"\",20:\"§9§lRARE POWER STONE\"],Name:\"§9Obsidian Tablet\"}}",
     "damage": 3,
     "lore": [
       "§8Power Stone",
@@ -60725,18 +60725,18 @@
       "§6Thaumaturgist §7to permanently unlock the",
       "§aMythical §7power.",
       "",
-      "§7At §6250 Magical Power§7:",
-      "§c+55❤ Health",
-      "§a+39❈ Defense",
-      "§f+9✦ Speed",
-      "§c+39❁ Strength",
-      "§b+59✎ Intelligence",
-      "§9+16☣ Crit Chance",
-      "§9+39☠ Crit Damage",
+      "§7At §62,000 Magical Power§7:",
+      "§c+293.83 Health",
+      "§a+209.88 Defense",
+      "§c+209.88 Strength",
+      "§9+83.95 Crit Chance",
+      "§9+209.88 Crit Damage",
+      "§b+314.82 Intelligence",
+      "§f+49.38 Speed",
       "",
       "§7Unique Power Bonus:",
-      "§c+150❤ Health",
-      "§c+40❁ Strength",
+      "§c+150 Health",
+      "§c+40 Strength",
       "",
       "§7Requires §aCombat Skill Level XX§7!",
       "",
@@ -60745,7 +60745,7 @@
     "internalname": "OBSIDIAN_TABLET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Obsidian IX",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Obsidian_Tablet",
@@ -64015,7 +64015,7 @@
   "PETRIFIED_STARFALL": {
     "itemid": "minecraft:skull",
     "displayname": "§5Petrified Starfall",
-    "nbttag": "{ExtraAttributes:{id:\"PETRIFIED_STARFALL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"334f5ebd-5383-3c5d-9a85-b183924e40a3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"SUo8bpYmCPYIyngeqTd3iKATX33gtuDD5uyEBD8X/k8T2OmcKXsZAYFDauuqSCeWL90GH11dcoCs4GWVgrVzs651d8Dv+beDdsa70a67U3FlnQ5N7mugBXUyK+YjYG3R88T6/Hy9xK01HiAzTV22xC1o6pew97yc7Wvh8e5us3ljEM+XXpIiNTGQq0VYxjYWGnn6MVErFaw31YLc7DgF6gCU7qGdKhjNFj0rJ2RQFR0/DjfxMRp4MSe1jFn2cb9rxtpZCw4EMgKFbvqNzoqHH2eGqsQpZMDwgrpkqSTAEZ87kGOrXXgRZdU8kwcRM/cZ08ye4/HwH1rCXCuGc+p/8q1hwzczSwlbEzfR2/tnUT5j9GnGNiY6mKYdMcP9VzXrmbQqidEAKQ4jXTKAyuPhWLgFLC+JPEtoU74lW5537baaCL9fhFSrPpx/Y80qvx26Q0Oehk8FWQj4oAteSuEUkzmxjc5czWKSVYn5pHZaBcMoKg/H9ldvlCv/qvyX5nDLSuXsXG5r8ZfH1geJaMujl9v6yu9JH4Shhf9iThw8wwAqfYkx36711nW5AYOsjRMbVDI/FrUrCPzRfz8qLSn9KSNyDh+dTjr06Gx1GTw31YwQ0mY598rD+jJ6h/rBPaYpqk5Dyd0h1Y2a9ZjiWl6wHQ8z+znnydjAJGOTEj5sOuU=\",Value:\"eyJ0aW1lc3RhbXAiOjE1MjUzNDUzNzEzODksInByb2ZpbGVJZCI6ImMxZWQ5N2Q0ZDE2NzQyYzI5OGI1ODFiZmRiODhhMjFmIiwicHJvZmlsZU5hbWUiOiJ5b2xvX21hdGlzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZGRkNTc3MWY1ODFmNmQwNThiNDFlMmM2NDNkMWZjZWViZDFjNGIyNTY4ZjcxOGRjOWVhNzgzOWMzZGQxYmMifX19\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Stellar §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oIt's not actually a star.\",7:\"\",8:\"§9Stellar §7(§6Legendary§7):\",9:\"§7Mining Speed: §6+40\",10:\"§7Mining Fortune: §6+25\",11:\"\",12:\"§9Stellar Bonus\",13:\"§7Earn §2+14% Mithril Powder §7and §6+55☘\",14:\"§6Mining Fortune §7when mining near a\",15:\"§7Fallen Star.\",16:\"\",17:\"§7Requires §aMining Skill Level XXVI§7!\",18:\"\",19:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Petrified Starfall\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PETRIFIED_STARFALL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"334f5ebd-5383-3c5d-9a85-b183924e40a3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"SUo8bpYmCPYIyngeqTd3iKATX33gtuDD5uyEBD8X/k8T2OmcKXsZAYFDauuqSCeWL90GH11dcoCs4GWVgrVzs651d8Dv+beDdsa70a67U3FlnQ5N7mugBXUyK+YjYG3R88T6/Hy9xK01HiAzTV22xC1o6pew97yc7Wvh8e5us3ljEM+XXpIiNTGQq0VYxjYWGnn6MVErFaw31YLc7DgF6gCU7qGdKhjNFj0rJ2RQFR0/DjfxMRp4MSe1jFn2cb9rxtpZCw4EMgKFbvqNzoqHH2eGqsQpZMDwgrpkqSTAEZ87kGOrXXgRZdU8kwcRM/cZ08ye4/HwH1rCXCuGc+p/8q1hwzczSwlbEzfR2/tnUT5j9GnGNiY6mKYdMcP9VzXrmbQqidEAKQ4jXTKAyuPhWLgFLC+JPEtoU74lW5537baaCL9fhFSrPpx/Y80qvx26Q0Oehk8FWQj4oAteSuEUkzmxjc5czWKSVYn5pHZaBcMoKg/H9ldvlCv/qvyX5nDLSuXsXG5r8ZfH1geJaMujl9v6yu9JH4Shhf9iThw8wwAqfYkx36711nW5AYOsjRMbVDI/FrUrCPzRfz8qLSn9KSNyDh+dTjr06Gx1GTw31YwQ0mY598rD+jJ6h/rBPaYpqk5Dyd0h1Y2a9ZjiWl6wHQ8z+znnydjAJGOTEj5sOuU=\",Value:\"eyJ0aW1lc3RhbXAiOjE1MjUzNDUzNzEzODksInByb2ZpbGVJZCI6ImMxZWQ5N2Q0ZDE2NzQyYzI5OGI1ODFiZmRiODhhMjFmIiwicHJvZmlsZU5hbWUiOiJ5b2xvX21hdGlzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZGRkNTc3MWY1ODFmNmQwNThiNDFlMmM2NDNkMWZjZWViZDFjNGIyNTY4ZjcxOGRjOWVhNzgzOWMzZGQxYmMifX19\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Stellar §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oIt's not actually a star.\",7:\"\",8:\"§9Stellar §7(§6Legendary§7):\",9:\"§7Mining Speed: §6+40\",10:\"§7Mining Fortune: §6+25\",11:\"\",12:\"§9Stellar Bonus\",13:\"§7Earn §2+14% Mithril Powder §7and §6+55\",14:\"§6Mining Fortune §7when mining near a\",15:\"§7Fallen Star.\",16:\"\",17:\"§7Requires §aMining Skill Level XXVI§7!\",18:\"\",19:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Petrified Starfall\"}}",
     "damage": 3,
     "lore": [
       "§8Reforge Stone",
@@ -64031,7 +64031,7 @@
       "§7Mining Fortune: §6+25",
       "",
       "§9Stellar Bonus",
-      "§7Earn §2+14% Mithril Powder §7and §6+55☘",
+      "§7Earn §2+14% Mithril Powder §7and §6+55",
       "§6Mining Fortune §7when mining near a",
       "§7Fallen Star.",
       "",
@@ -64042,7 +64042,7 @@
     "internalname": "PETRIFIED_STARFALL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Petrified_Starfall",
@@ -65030,7 +65030,7 @@
   "POCKET_ICEBERG": {
     "itemid": "minecraft:skull",
     "displayname": "§5Pocket Iceberg",
-    "nbttag": "{ExtraAttributes:{id:\"POCKET_ICEBERG\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"af824311-b9ba-30eb-94b4-ad7f6cc1b777\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ikLEdkG/srG23reNkJeBxhIoJeECuyTf3lLiNnGBkImm0hFiLMTywMY/DZmFFODaLfrPsJRmwJ8oWIPobZT7R0jipvTbNEbi3Pb54x5UwxCk/v0XnKA61UGJi7BP9LW+S3KmdYcWxrRSxQTyaj4H2HFFEdrM9W9kMzP4ebyou7hQPZeXpTmAs+5lla/E8kGGdjuOgDOmCAaW9b1MnsQ89dzefGOPphTBcChIrphWH8jhu9xPAI+Q7mRu0Verk9Gvuj43f5iE6YFy/zbkQPCuY/pH/qlmczWbS7G8yI+60MGLnotq3Inj1+U6f8l4NFYWWiSxD371SBz78u2Hl1UA7U5nkU6hLcfwVylUpjdmngCjXHerXQDwwB43bpTT7U4KYlA99gEQMWPmv8uxowAgMl9Y2el4QLl3tf7rLrce+1U5Lke82KKp73vY3JcjBmZYZJHNMMns4WS4LbIF3Jr/LnvuY8HplDIEmCvTfBtcYuv1QlIqye7emU3Qs2xzULH2zlRfmbEPP5niPEbJpyTyxwkG8IUftIQtuinEsNok6yoqq395TuUcAcSGXHUozm5bCLGtJ7WPVnO0/T/DdjcL4eZHBtGNU4aeFipF9FbHt/LQOcvQPQnulIRj8cFZxDN6vI8FrPgfDPSB+ZSz2WlhDAHKGfUlJt4iD4RF9bBCfvk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMzczNjE4NTgzNiwKICAicHJvZmlsZUlkIiA6ICIxZGI3ZjUxYWZmOWM0NTcyOGZmNmU5MjMxMmZhZGZkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXNtZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTUwY2MxNTYzZTZlZTZhZTRmNjI5YmQ3ZjlkZTk1MGExOGM0ZmI0ZmJiNWQ4MmM3ZWI5MzA2NGMzOGU1OTI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Scraped §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oWoah, woah, too many drops!\",7:\"\",8:\"§9Scraped §7(§6Legendary§7):\",9:\"§7Breaking Power: §2+1\",10:\"§7Mining Wisdom: §3+2\",11:\"\",12:\"§9Scraped Bonus\",13:\"§7Grants §6+25☘ Mining Fortune §7if the\",14:\"§7block you are mining has the same §2Ⓟ\",15:\"§2Breaking Power §7as this tool.\",16:\"\",17:\"§4❣ §cRequires §aMining Skill 25§c.\",18:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Pocket Iceberg\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"POCKET_ICEBERG\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"af824311-b9ba-30eb-94b4-ad7f6cc1b777\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ikLEdkG/srG23reNkJeBxhIoJeECuyTf3lLiNnGBkImm0hFiLMTywMY/DZmFFODaLfrPsJRmwJ8oWIPobZT7R0jipvTbNEbi3Pb54x5UwxCk/v0XnKA61UGJi7BP9LW+S3KmdYcWxrRSxQTyaj4H2HFFEdrM9W9kMzP4ebyou7hQPZeXpTmAs+5lla/E8kGGdjuOgDOmCAaW9b1MnsQ89dzefGOPphTBcChIrphWH8jhu9xPAI+Q7mRu0Verk9Gvuj43f5iE6YFy/zbkQPCuY/pH/qlmczWbS7G8yI+60MGLnotq3Inj1+U6f8l4NFYWWiSxD371SBz78u2Hl1UA7U5nkU6hLcfwVylUpjdmngCjXHerXQDwwB43bpTT7U4KYlA99gEQMWPmv8uxowAgMl9Y2el4QLl3tf7rLrce+1U5Lke82KKp73vY3JcjBmZYZJHNMMns4WS4LbIF3Jr/LnvuY8HplDIEmCvTfBtcYuv1QlIqye7emU3Qs2xzULH2zlRfmbEPP5niPEbJpyTyxwkG8IUftIQtuinEsNok6yoqq395TuUcAcSGXHUozm5bCLGtJ7WPVnO0/T/DdjcL4eZHBtGNU4aeFipF9FbHt/LQOcvQPQnulIRj8cFZxDN6vI8FrPgfDPSB+ZSz2WlhDAHKGfUlJt4iD4RF9bBCfvk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMzczNjE4NTgzNiwKICAicHJvZmlsZUlkIiA6ICIxZGI3ZjUxYWZmOWM0NTcyOGZmNmU5MjMxMmZhZGZkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdXNtZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTUwY2MxNTYzZTZlZTZhZTRmNjI5YmQ3ZjlkZTk1MGExOGM0ZmI0ZmJiNWQ4MmM3ZWI5MzA2NGMzOGU1OTI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Scraped §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oWoah, woah, too many drops!\",7:\"\",8:\"§9Scraped §7(§6Legendary§7):\",9:\"§7Breaking Power: §2+1\",10:\"§7Mining Wisdom: §3+2\",11:\"\",12:\"§9Scraped Bonus\",13:\"§7Grants §6+25 Mining Fortune §7if the\",14:\"§7block you are mining has the same §2\",15:\"§2Breaking Power §7as this tool.\",16:\"\",17:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Pocket Iceberg\"}}",
     "damage": 3,
     "lore": [
       "§8Reforge Stone",
@@ -65046,17 +65046,16 @@
       "§7Mining Wisdom: §3+2",
       "",
       "§9Scraped Bonus",
-      "§7Grants §6+25☘ Mining Fortune §7if the",
-      "§7block you are mining has the same §2Ⓟ",
+      "§7Grants §6+25 Mining Fortune §7if the",
+      "§7block you are mining has the same §2",
       "§2Breaking Power §7as this tool.",
       "",
-      "§4❣ §cRequires §aMining Skill 25§c.",
       "§5§lEPIC REFORGE STONE"
     ],
     "internalname": "POCKET_ICEBERG",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 2",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pocket_Iceberg",
@@ -68565,7 +68564,7 @@
   "PURE_MITHRIL": {
     "itemid": "minecraft:skull",
     "displayname": "§9Pure Mithril",
-    "nbttag": "{ExtraAttributes:{id:\"PURE_MITHRIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d0a5b8ad-f956-342b-9757-043165d5f894\",Properties:{textures:[0:{Name:\"textures\",Signature:\"lOTYBr9WNNlgIknk2dyHLb/+1h/auJ3OHAhYnNbX/JU/nglAKPZvjaNJbbr2T5Y/YM/uOswG6cc1+bUMXH0kS7h8iO7MuEO4GaglEiCqoyeCVBCu5kZ9FXMxPhnnJ+pDL1wQYiSPdb0dgP3+wFKLD+d5qzDRMCqAkCQkZXS8XoVIZKrG6YYMUgEVm8OTMKzUsEAjsv6YuQQwQDvIRsNMlfBcp68ElpwS5F7WCzbcSxytTRZi883SX4Ak5aWLkeJ1ug3C86SDvbtVuApD50CtwZoEv5Usmrp+dg25VNMlea8AJjw8A1keClKDeUJFM5dGI3u1POE99Y9HgumyNaeeApENpSCNgp9PhZVy5eOefjux/qi74O75rf0ai/KWnoLnlx7Sk49m+194gcVerfFi198Rj6R2bO7Vy75Gx0sqMsW33siZBw24WEmS1h8bkVsTFZa2Pl/doWxil4krcJWpmG8pfIeu6EiJ4dNLxQyA6b0pLiWie/7clg+co7Up6ZF2BSpTxBr0dk1j8nP2oiHswYhWSsJ2Pe4FrotwLVzOM1bn5PEfZwuweR4KqBzhamc/q6lZ/sqRBj41iQcbmumJBO+aCM0pfpxAMQA4vqXq5aiKP97CVqExiNzUTVdHPUmJRQsAuUcECEN53J47KQwgNRNRH3X6Ke9zWQ+NivyGZfc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MDg5MDE4ODM5MiwKICAicHJvZmlsZUlkIiA6ICJhMjk1ODZmYmU1ZDk0Nzk2OWZjOGQ4ZGE0NzlhNDNlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaWVydGVsdG9hc3RpaWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQ4MGQ1N2IwZDFkNDMyZTA3NDg3OGM2YWVjNWY0NWEyY2U5OGQ5YzQ4MWZiOGNjODM4MmNmZjE3MWY4MzY5OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Mithraic §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oIt takes a few hours of forging to\",7:\"§8§opurify Mithril - the impurities extract\",8:\"§8§othemselves while the Mithril coalesces.\",9:\"\",10:\"§9Mithraic §7(§6Legendary§7):\",11:\"§7Mining Fortune: §6+16\",12:\"\",13:\"§9Mithraic Bonus\",14:\"§7Grants §6+30☘ Mining Fortune §7when\",15:\"§7mining §2Mithril §7or §fTitanium§7.\",16:\"\",17:\"§7Requires §aMining Skill Level XVIII§7!\",18:\"\",19:\"§9§lRARE REFORGE STONE\"],Name:\"§9Pure Mithril\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PURE_MITHRIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d0a5b8ad-f956-342b-9757-043165d5f894\",Properties:{textures:[0:{Name:\"textures\",Signature:\"lOTYBr9WNNlgIknk2dyHLb/+1h/auJ3OHAhYnNbX/JU/nglAKPZvjaNJbbr2T5Y/YM/uOswG6cc1+bUMXH0kS7h8iO7MuEO4GaglEiCqoyeCVBCu5kZ9FXMxPhnnJ+pDL1wQYiSPdb0dgP3+wFKLD+d5qzDRMCqAkCQkZXS8XoVIZKrG6YYMUgEVm8OTMKzUsEAjsv6YuQQwQDvIRsNMlfBcp68ElpwS5F7WCzbcSxytTRZi883SX4Ak5aWLkeJ1ug3C86SDvbtVuApD50CtwZoEv5Usmrp+dg25VNMlea8AJjw8A1keClKDeUJFM5dGI3u1POE99Y9HgumyNaeeApENpSCNgp9PhZVy5eOefjux/qi74O75rf0ai/KWnoLnlx7Sk49m+194gcVerfFi198Rj6R2bO7Vy75Gx0sqMsW33siZBw24WEmS1h8bkVsTFZa2Pl/doWxil4krcJWpmG8pfIeu6EiJ4dNLxQyA6b0pLiWie/7clg+co7Up6ZF2BSpTxBr0dk1j8nP2oiHswYhWSsJ2Pe4FrotwLVzOM1bn5PEfZwuweR4KqBzhamc/q6lZ/sqRBj41iQcbmumJBO+aCM0pfpxAMQA4vqXq5aiKP97CVqExiNzUTVdHPUmJRQsAuUcECEN53J47KQwgNRNRH3X6Ke9zWQ+NivyGZfc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MDg5MDE4ODM5MiwKICAicHJvZmlsZUlkIiA6ICJhMjk1ODZmYmU1ZDk0Nzk2OWZjOGQ4ZGE0NzlhNDNlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaWVydGVsdG9hc3RpaWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTQ4MGQ1N2IwZDFkNDMyZTA3NDg3OGM2YWVjNWY0NWEyY2U5OGQ5YzQ4MWZiOGNjODM4MmNmZjE3MWY4MzY5OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Mithraic §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oIt takes a few hours of forging to\",7:\"§8§opurify Mithril - the impurities extract\",8:\"§8§othemselves while the Mithril coalesces.\",9:\"\",10:\"§9Mithraic §7(§6Legendary§7):\",11:\"§7Mining Fortune: §6+16\",12:\"\",13:\"§9Mithraic Bonus\",14:\"§7Grants §6+30 Mining Fortune §7when\",15:\"§7mining §2Mithril §7or §fTitanium§7.\",16:\"\",17:\"§7Requires §aMining Skill Level XVIII§7!\",18:\"\",19:\"§9§lRARE REFORGE STONE\"],Name:\"§9Pure Mithril\"}}",
     "damage": 3,
     "lore": [
       "§8Reforge Stone",
@@ -68582,7 +68581,7 @@
       "§7Mining Fortune: §6+16",
       "",
       "§9Mithraic Bonus",
-      "§7Grants §6+30☘ Mining Fortune §7when",
+      "§7Grants §6+30 Mining Fortune §7when",
       "§7mining §2Mithril §7or §fTitanium§7.",
       "",
       "§7Requires §aMining Skill Level XVIII§7!",
@@ -68592,7 +68591,7 @@
     "internalname": "PURE_MITHRIL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pure_Mithril",
@@ -73711,7 +73710,7 @@
   "ROCK_GEMSTONE": {
     "itemid": "minecraft:skull",
     "displayname": "§9Dwarven Geode",
-    "nbttag": "{ExtraAttributes:{id:\"ROCK_GEMSTONE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f6133605-03e3-3d10-a464-33e25f4fb9d2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"pw9oOUz3y6KXu8IL4mOWuNCsZn+g65NR+O1fmKknfkQnuMUolM7TyWQ8nWvVMyaOBNI1X1q0uMSsp2/lX+lKcKP97NqF2irWrSL+mPBqrO6Gy5q8nb+hRsPSnAq+YGkfKYFs670alwCfAAWenvvdzzKIN0N6mc0DxAFDZa97FIffs9ZkJ5sVApTENZNh9e6nkiaUTw3KgE9ehLT3TALaWjBhZ9USBOYSPS/jJa7WbQKYsazpOK5CECozFZ005cyOYa2GIdDQIUohTOP6wfZ3XBgavxst6NP6MlA/J91rfabqbSw3pk0TprtZhA+OdFd6V56c1L/5/dEcIJtVHnfZI5pL83JDDitLGZC17unfVxqtEAtBuWSXaeyMZ5NgJ1A33gycQRX+DcMsxEqgVGyXMPtyy/BFgF7LHugelA4ovgOjfMVfLAIQzZShOo9qIW47NdneAM45eRXxKorwh021x9Fk2o42dDZ8+eAaazQZ1GrYoK+8+6e5Z20NCm3IeJBfFAUeOysfcax1CwNiPIrEFztIFs/7aUIs6sJlMQJ/0ZUbHmEbFh9zEiKoDtBOG++tQTU/QQ6d93fPCz7x5AR+fNDp7oW7ne9aZJfO8Ivw8ntY8eHsZP3PvSLja+vuUS9L6B/CPRKnDNExVtS6PiHZtCRt8tCuAYqSfHkRHZwQv/U=\",Value:\"eyJ0aW1lc3RhbXAiOjE1NjM2NDUwMjQ4MDgsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3ZDFmMGE3OTJkOWU5MTQ0NzdkYWRlNzEyNjM3ZjlkMWVhMWUwNTU1ZWU0YmIyZWRmZTIwYTg3NTk1OTA4ZTgifX19\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Auspicious §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oThe lowest gemstone in the food\",7:\"§8§ochain.\",8:\"\",9:\"§9Auspicious §7(§6Legendary§7):\",10:\"§7Mining Speed: §6+50\",11:\"§7Mining Fortune: §6+16\",12:\"\",13:\"§9Auspicious Bonus\",14:\"§7Grants §6+0.8% ☘ Mining Fortune§7.\",15:\"\",16:\"§7Requires §aMining Skill Level XXI§7!\",17:\"\",18:\"§9§lRARE REFORGE STONE\"],Name:\"§9Dwarven Geode\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ROCK_GEMSTONE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f6133605-03e3-3d10-a464-33e25f4fb9d2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"pw9oOUz3y6KXu8IL4mOWuNCsZn+g65NR+O1fmKknfkQnuMUolM7TyWQ8nWvVMyaOBNI1X1q0uMSsp2/lX+lKcKP97NqF2irWrSL+mPBqrO6Gy5q8nb+hRsPSnAq+YGkfKYFs670alwCfAAWenvvdzzKIN0N6mc0DxAFDZa97FIffs9ZkJ5sVApTENZNh9e6nkiaUTw3KgE9ehLT3TALaWjBhZ9USBOYSPS/jJa7WbQKYsazpOK5CECozFZ005cyOYa2GIdDQIUohTOP6wfZ3XBgavxst6NP6MlA/J91rfabqbSw3pk0TprtZhA+OdFd6V56c1L/5/dEcIJtVHnfZI5pL83JDDitLGZC17unfVxqtEAtBuWSXaeyMZ5NgJ1A33gycQRX+DcMsxEqgVGyXMPtyy/BFgF7LHugelA4ovgOjfMVfLAIQzZShOo9qIW47NdneAM45eRXxKorwh021x9Fk2o42dDZ8+eAaazQZ1GrYoK+8+6e5Z20NCm3IeJBfFAUeOysfcax1CwNiPIrEFztIFs/7aUIs6sJlMQJ/0ZUbHmEbFh9zEiKoDtBOG++tQTU/QQ6d93fPCz7x5AR+fNDp7oW7ne9aZJfO8Ivw8ntY8eHsZP3PvSLja+vuUS9L6B/CPRKnDNExVtS6PiHZtCRt8tCuAYqSfHkRHZwQv/U=\",Value:\"eyJ0aW1lc3RhbXAiOjE1NjM2NDUwMjQ4MDgsInByb2ZpbGVJZCI6IjNmYzdmZGY5Mzk2MzRjNDE5MTE5OWJhM2Y3Y2MzZmVkIiwicHJvZmlsZU5hbWUiOiJZZWxlaGEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3ZDFmMGE3OTJkOWU5MTQ0NzdkYWRlNzEyNjM3ZjlkMWVhMWUwNTU1ZWU0YmIyZWRmZTIwYTg3NTk1OTA4ZTgifX19\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Auspicious §7reforge when\",4:\"§7combined with a mining tool.\",5:\"\",6:\"§8§oThe lowest gemstone in the food\",7:\"§8§ochain.\",8:\"\",9:\"§9Auspicious §7(§6Legendary§7):\",10:\"§7Mining Speed: §6+50\",11:\"§7Mining Fortune: §6+16\",12:\"\",13:\"§9Auspicious Bonus\",14:\"§7Grants §6+0.8%  Mining Fortune§7.\",15:\"\",16:\"§7Requires §aMining Skill Level XXI§7!\",17:\"\",18:\"§9§lRARE REFORGE STONE\"],Name:\"§9Dwarven Geode\"}}",
     "damage": 3,
     "lore": [
       "§8Reforge Stone",
@@ -73728,7 +73727,7 @@
       "§7Mining Fortune: §6+16",
       "",
       "§9Auspicious Bonus",
-      "§7Grants §6+0.8% ☘ Mining Fortune§7.",
+      "§7Grants §6+0.8%  Mining Fortune§7.",
       "",
       "§7Requires §aMining Skill Level XXI§7!",
       "",
@@ -73737,7 +73736,7 @@
     "internalname": "ROCK_GEMSTONE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dwarven_Geode",
@@ -75481,11 +75480,11 @@
   "SCUBA;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{scuba:1},id:\"SCUBA;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Scuba I\",1:\"§7Grants §9+1❍ Pressure Resistance§7.\",2:\"\",3:\"§7Applicable on: §9Armor\",4:\"\",5:\"§7Use this on an item in an Anvil to\",6:\"§7apply it!\",7:\"\",8:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{scuba:1},id:\"SCUBA;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Scuba I\",1:\"§7Grants §9+1 Pressure Resistance§7.\",2:\"\",3:\"§7Applicable on: §9Armor\",4:\"\",5:\"§7Use this on an item in an Anvil to\",6:\"§7apply it!\",7:\"\",8:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§9Scuba I",
-      "§7Grants §9+1❍ Pressure Resistance§7.",
+      "§7Grants §9+1 Pressure Resistance§7.",
       "",
       "§7Applicable on: §9Armor",
       "",
@@ -75497,7 +75496,7 @@
     "internalname": "SCUBA;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g4907900",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Scuba",
@@ -75626,7 +75625,7 @@
     "internalname": "SEARING_STONE",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Searing_Stone",
@@ -77003,7 +77002,7 @@
     "internalname": "SHINY_PRISM",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Shiny_Prism",
@@ -77096,7 +77095,7 @@
     "internalname": "SHRIVELED_CORNEA",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Shriveled_Cornea",
@@ -81815,13 +81814,13 @@
   "SPIDER_QUEENS_STINGER": {
     "itemid": "minecraft:bow",
     "displayname": "§5Spider Queen's Stinger",
-    "nbttag": "{ExtraAttributes:{id:\"SPIDER_QUEENS_STINGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_queens_stinger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+360\",1:\"\",2:\"§7Arrows shot using this bow have an\",3:\"§7aura around them that deals §c370.8\",4:\"§cDamage §7to nearby enemies instead of\",5:\"§7dealing impact damage. Arrows travel\",6:\"§7through enemies.\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5Spider Queen's Stinger\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPIDER_QUEENS_STINGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_queens_stinger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+360\",1:\"\",2:\"§7Arrows shot using this bow have an\",3:\"§7aura around them that deals §c360\",4:\"§cDamage §7to nearby enemies instead of\",5:\"§7dealing impact damage. Arrows travel\",6:\"§7through enemies.\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5Spider Queen's Stinger\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+360",
       "",
       "§7Arrows shot using this bow have an",
-      "§7aura around them that deals §c370.8",
+      "§7aura around them that deals §c360",
       "§cDamage §7to nearby enemies instead of",
       "§7dealing impact damage. Arrows travel",
       "§7through enemies.",
@@ -81834,7 +81833,7 @@
     "internalname": "SPIDER_QUEENS_STINGER",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spider_Queen%27s_Stinger",
@@ -85180,7 +85179,7 @@
   "STARRED_GLACIAL_SCYTHE": {
     "itemid": "minecraft:diamond_hoe",
     "displayname": "§5 Glacial Scythe",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_GLACIAL_SCYTHE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/glacial_scythe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+130\",1:\"§7Intelligence: §b+40\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§6Ability: Ice Bolt  §e§lRIGHT CLICK\",5:\"§7Shoots §a1 §7Ice Bolt that deals §c1,713.6 §7damage\",6:\"§7and slows enemies hit for §a5 §7seconds! When\",7:\"§7hitting the ground, also creates an explosion\",8:\"§7of §a3 §7blocks, dealing the same damage.\",9:\"§8Mana Cost: §375\",10:\"\",11:\"§8This item can be reforged!\",12:\"§5§lEPIC SWORD\"],Name:\"§5 Glacial Scythe\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_GLACIAL_SCYTHE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/glacial_scythe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+130\",1:\"§7Intelligence: §b+40\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§6Ability: Ice Bolt  §e§lRIGHT CLICK\",5:\"§7Shoots §a1 §7Ice Bolt that deals §c1,700 §7damage and\",6:\"§7slows enemies hit for §a5 §7seconds! When hitting\",7:\"§7the ground, also creates an explosion of §a3\",8:\"§7blocks, dealing the same damage.\",9:\"§8Mana Cost: §375\",10:\"\",11:\"§8This item can be reforged!\",12:\"§5§lEPIC SWORD\"],Name:\"§5 Glacial Scythe\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+130",
@@ -85188,10 +85187,10 @@
       "§7Gemstones: §8[§7§8]",
       "",
       "§6Ability: Ice Bolt  §e§lRIGHT CLICK",
-      "§7Shoots §a1 §7Ice Bolt that deals §c1,713.6 §7damage",
-      "§7and slows enemies hit for §a5 §7seconds! When",
-      "§7hitting the ground, also creates an explosion",
-      "§7of §a3 §7blocks, dealing the same damage.",
+      "§7Shoots §a1 §7Ice Bolt that deals §c1,700 §7damage and",
+      "§7slows enemies hit for §a5 §7seconds! When hitting",
+      "§7the ground, also creates an explosion of §a3",
+      "§7blocks, dealing the same damage.",
       "§8Mana Cost: §375",
       "",
       "§8This item can be reforged!",
@@ -87669,7 +87668,7 @@
   "SUNFLOWER_BUTTER": {
     "itemid": "minecraft:skull",
     "displayname": "§9Sunflower Butter",
-    "nbttag": "{ExtraAttributes:{id:\"SUNFLOWER_BUTTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8e0b0ebb-b33a-3202-a008-a06ef4118a13\",Properties:{textures:[0:{Name:\"textures\",Signature:\"kKF2TpiGIjqxk4cCUqtYqP95xPaxazlqtv/TogQ6FmEiFKhREO0RXLfzIgj93KyKQmEl41eFeGC8OsaOoUaLvt5QotDA4v7QzDhcnZmCdsRwnKq6pU0Mo2glLV6r2RbVzXkjiXBm88wTAAKhTUwNpC5074yY1IR4UaZ7kQPrUk9Mrur660seD25LuB0yZ6GnzSpi1XGEcVqih9cRvfvEzSyOEyYKQCYzAknevNf1HR2MPRAAz6FENPx5vacViDUUfH1MK+Mwz9K4cxl4/TXWNEHKtNTI1gAuPKWmv4kJxRAd7msSMpRcn/SGCTsGhuYMhpPCF/ilEfwMJ/oUS2rO5+IZxlQIp4cac/ZAfuN9u4bRtOx3AmLEKIi/LI42Ul0IekBgODHi0DcGdhhT0oG+GTll1Ur7TIO87htFEOvv73myALATmKwAPjnxrmVRdR0G3kD4KD/iur3wcRugjMiTkMsW0gR7Dy6hjCT5gWDBEdShHIBQMY5YPfH/FQXuMmiyWez+lHLdg5T3AmyDXByTFAoxtktAvVNCKc/oH0tbvvcDob2M47RxVdllAAW6bnQ39/w5Pyfudo1XYWtaD2EfEd94uY1wt0nJjkMvxwauqEiWw3AI3M7ql2Ny/zeDaFoXDK/5w7SOBJYWRa8wz5i0NBOR5FrkX80cgEtdv/a8IQ0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTIwMTI3MSwKICAicHJvZmlsZUlkIiA6ICJiNzAwZDM2YjRkYmE0NDQzOTUzNjc4NDVlNWViZTA5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJleGVjdXRvcnkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ5ZjcxMzVjNzdhYzVhZTMzNTU3OGY2MjVkYzFmZGI4OGJkNGQ2N2IwMmE1MTc2ZWFmYTVmZTJlODg2OTQ0ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Power Stone\",1:\"§7Combine §a9x §7of this stone at the\",2:\"§6Thaumaturgist §7to permanently unlock the\",3:\"§aButtery §7power.\",4:\"\",5:\"§7At §61,250 Magical Power§7:\",6:\"§e+82⚔ Attack Speed\",7:\"§f+91✦ Speed\",8:\"\",9:\"§7Unique Power Bonus:\",10:\"§e+5⚔ Attack Speed\",11:\"\",12:\"§7Requires §aCombat Skill Level XX§7!\",13:\"\",14:\"§9§lRARE POWER STONE\"],Name:\"§9Sunflower Butter\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SUNFLOWER_BUTTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8e0b0ebb-b33a-3202-a008-a06ef4118a13\",Properties:{textures:[0:{Name:\"textures\",Signature:\"kKF2TpiGIjqxk4cCUqtYqP95xPaxazlqtv/TogQ6FmEiFKhREO0RXLfzIgj93KyKQmEl41eFeGC8OsaOoUaLvt5QotDA4v7QzDhcnZmCdsRwnKq6pU0Mo2glLV6r2RbVzXkjiXBm88wTAAKhTUwNpC5074yY1IR4UaZ7kQPrUk9Mrur660seD25LuB0yZ6GnzSpi1XGEcVqih9cRvfvEzSyOEyYKQCYzAknevNf1HR2MPRAAz6FENPx5vacViDUUfH1MK+Mwz9K4cxl4/TXWNEHKtNTI1gAuPKWmv4kJxRAd7msSMpRcn/SGCTsGhuYMhpPCF/ilEfwMJ/oUS2rO5+IZxlQIp4cac/ZAfuN9u4bRtOx3AmLEKIi/LI42Ul0IekBgODHi0DcGdhhT0oG+GTll1Ur7TIO87htFEOvv73myALATmKwAPjnxrmVRdR0G3kD4KD/iur3wcRugjMiTkMsW0gR7Dy6hjCT5gWDBEdShHIBQMY5YPfH/FQXuMmiyWez+lHLdg5T3AmyDXByTFAoxtktAvVNCKc/oH0tbvvcDob2M47RxVdllAAW6bnQ39/w5Pyfudo1XYWtaD2EfEd94uY1wt0nJjkMvxwauqEiWw3AI3M7ql2Ny/zeDaFoXDK/5w7SOBJYWRa8wz5i0NBOR5FrkX80cgEtdv/a8IQ0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjE1OTIwMTI3MSwKICAicHJvZmlsZUlkIiA6ICJiNzAwZDM2YjRkYmE0NDQzOTUzNjc4NDVlNWViZTA5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJleGVjdXRvcnkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmQ5ZjcxMzVjNzdhYzVhZTMzNTU3OGY2MjVkYzFmZGI4OGJkNGQ2N2IwMmE1MTc2ZWFmYTVmZTJlODg2OTQ0ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Power Stone\",1:\"§7Combine §a9x §7of this stone at the\",2:\"§6Thaumaturgist §7to permanently unlock the\",3:\"§aButtery §7power.\",4:\"\",5:\"§7At §62,000 Magical Power§7:\",6:\"§e+111.11 Attack Speed\",7:\"§f+123.46 Speed\",8:\"\",9:\"§7Unique Power Bonus:\",10:\"§e+5 Attack Speed\",11:\"\",12:\"§7Requires §aCombat Skill Level XX§7!\",13:\"\",14:\"§9§lRARE POWER STONE\"],Name:\"§9Sunflower Butter\"}}",
     "damage": 3,
     "lore": [
       "§8Power Stone",
@@ -87677,12 +87676,12 @@
       "§6Thaumaturgist §7to permanently unlock the",
       "§aButtery §7power.",
       "",
-      "§7At §61,250 Magical Power§7:",
-      "§e+82⚔ Attack Speed",
-      "§f+91✦ Speed",
+      "§7At §62,000 Magical Power§7:",
+      "§e+111.11 Attack Speed",
+      "§f+123.46 Speed",
       "",
       "§7Unique Power Bonus:",
-      "§e+5⚔ Attack Speed",
+      "§e+5 Attack Speed",
       "",
       "§7Requires §aCombat Skill Level XX§7!",
       "",
@@ -87691,7 +87690,7 @@
     "internalname": "SUNFLOWER_BUTTER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+gcd885b38",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sunflower_Butter"
@@ -88284,7 +88283,7 @@
     "internalname": "SUNSTONE",
     "clickcommand": "",
     "crafttext": "Requires: Sunflower VI",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sunstone"
@@ -92220,7 +92219,7 @@
     "internalname": "TITANIUM_TESSERACT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Tesseract",
