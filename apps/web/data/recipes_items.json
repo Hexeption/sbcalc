@@ -4911,7 +4911,7 @@
   "BIGGER_TEETH": {
     "itemid": "minecraft:ghast_tear",
     "displayname": "§aBigger Teeth",
-    "nbttag": "{ExtraAttributes:{id:\"BIGGER_TEETH\"},HideFlags:254,ItemModel:\"minecraft:ghast_tear\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Grants §9+10☣ Crit Chance§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§a§lUNCOMMON PET ITEM\"],Name:\"§aBigger Teeth\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"BIGGER_TEETH\"},HideFlags:254,ItemModel:\"minecraft:ghast_tear\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Grants §9+10 Crit Chance§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§a§lUNCOMMON PET ITEM\"],Name:\"§aBigger Teeth\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -4922,7 +4922,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Grants §9+10☣ Crit Chance§7.",
+      "§7Grants §9+10 Crit Chance§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -4932,7 +4932,7 @@
     "internalname": "BIGGER_TEETH",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Bigger_Teeth",
@@ -5673,17 +5673,17 @@
   "BLAZE_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§5Blaze Boots",
-    "nbttag": "{ExtraAttributes:{id:\"BLAZE_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+80\",1:\"§7Strength: §c+30\",2:\"§7Speed: §f+2\",3:\"§7Gemstones: §8[❁]\",4:\"\",5:\"§6Full Set Bonus: Blazing Aura §7(0/4)\",6:\"§7Damages mobs within §a5§7 blocks for §a3%\",7:\"§7of their max §c❤ Health §7per second.\",8:\"\",9:\"§7Max §c500 §7damage/s\",10:\"§7Blaze Rod Collection: §60\",11:\"§8+100 per 5,000 rods\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §aCombat Skill 22§c.\",15:\"§5§lEPIC BOOTS\"],Name:\"§5Blaze Boots\",color:16243251}}",
+    "nbttag": "{ExtraAttributes:{id:\"BLAZE_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+80\",1:\"§7Strength: §c+30\",2:\"§7Speed: §f+2\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Full Set Bonus: Blazing Aura §7(0/4)\",6:\"§7Damages mobs within §a5§7 blocks for §a3%\",7:\"§7of their max §c Health §7per second.\",8:\"\",9:\"§7Max §c500 §7damage/s\",10:\"§7Blaze Rod Collection: §60\",11:\"§8+100 per 5,000 rods\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §aCombat Skill 22§c.\",15:\"§5§lEPIC BOOTS\"],Name:\"§5Blaze Boots\",color:16243251}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+80",
       "§7Strength: §c+30",
       "§7Speed: §f+2",
-      "§7Gemstones: §8[❁]",
+      "§7Gemstones: §8[]",
       "",
       "§6Full Set Bonus: Blazing Aura §7(0/4)",
       "§7Damages mobs within §a5§7 blocks for §a3%",
-      "§7of their max §c❤ Health §7per second.",
+      "§7of their max §c Health §7per second.",
       "",
       "§7Max §c500 §7damage/s",
       "§7Blaze Rod Collection: §60",
@@ -5696,7 +5696,7 @@
     "internalname": "BLAZE_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Blaze Rod VIII",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Blaze_Boots",
@@ -6190,17 +6190,17 @@
   "BLAZE_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§5Blaze Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"BLAZE_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a305252c-9c4d-3a32-bc7a-89649edb608d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ivnfPyZ0z10MEDvezwNheMSCZ5OvCJgKuE1xzsttxOqEtG1T6nnFniaZ8R4NL6hOeanKU+y9f4bAgEHcKMx5+cggSOM0wIZf2QizX3y+ywcK6MXrbWAIGS7TD9eCjS2tmNJdp/toMQbQ7MQClHZLAxuFOrjIZ7GPswvG8q84JrMZ9a1/xUfIh29//S88pnsknv8+KsnEZAi96W/PLqBWWX/ZZi4zkGFFy1exJbcFWV/MDk3tLTNP8LbeJeR9DsSXZ6iA/A4p1hYxJk9QhXVdFhOMIbgjprvfcC/ci2VfXxXuiLfPNdyI3k+YDuoWFdD1dkNLy9kX2lUuKNiXvCZl/XjAJZPN6avhGJW3xtp2VzRbqpjA58LVCqjgM8xYHrBP8BY4OckXMgg/rHlKmPPPmRo9lazwZUtgEjE3BMScRtRVN1z9HP1cm/QKvsA6+CA+ngZDRdLWVIdV4BKKA/KpuPlXRurj5YaTxVV45Tdj+c2IYZHNAtSfWLNww3nBTRTrLcsqJZlnihBF2oy81HnSLBdqvq8UjpQkp3cJAC3lq3JyohJ7DPo8Sf2HGb9g2cX6nENqGPTl0JTlMNUOZ5bmoVT48Fb6IeaVvo/Rk3CzdE3PiO6Qndi1eHChMHGGYVnkI1Oq0zwycjCcpL+ZhQiTmE0Htxkbig+VSPUT9UWjH9U=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzE4ODMwMSwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzFiMjE4MzM5MmViY2ZmZTIxN2E5ODNjOTZhNTczY2Y5MGRkNTg2ODdkMThmZDYzMDM2Y2NjNTllYjJmNDdkIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Defense: §a+90\",1:\"§7Strength: §c+30\",2:\"§7Speed: §f+2\",3:\"§7Gemstones: §8[❁]\",4:\"\",5:\"§6Full Set Bonus: Blazing Aura §7(0/4)\",6:\"§7Damages mobs within §a5§7 blocks for §a3%\",7:\"§7of their max §c❤ Health §7per second.\",8:\"\",9:\"§7Max §c500 §7damage/s\",10:\"§7Blaze Rod Collection: §60\",11:\"§8+100 per 5,000 rods\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §aCombat Skill 22§c.\",15:\"§5§lEPIC HELMET\"],Name:\"§5Blaze Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BLAZE_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a305252c-9c4d-3a32-bc7a-89649edb608d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ivnfPyZ0z10MEDvezwNheMSCZ5OvCJgKuE1xzsttxOqEtG1T6nnFniaZ8R4NL6hOeanKU+y9f4bAgEHcKMx5+cggSOM0wIZf2QizX3y+ywcK6MXrbWAIGS7TD9eCjS2tmNJdp/toMQbQ7MQClHZLAxuFOrjIZ7GPswvG8q84JrMZ9a1/xUfIh29//S88pnsknv8+KsnEZAi96W/PLqBWWX/ZZi4zkGFFy1exJbcFWV/MDk3tLTNP8LbeJeR9DsSXZ6iA/A4p1hYxJk9QhXVdFhOMIbgjprvfcC/ci2VfXxXuiLfPNdyI3k+YDuoWFdD1dkNLy9kX2lUuKNiXvCZl/XjAJZPN6avhGJW3xtp2VzRbqpjA58LVCqjgM8xYHrBP8BY4OckXMgg/rHlKmPPPmRo9lazwZUtgEjE3BMScRtRVN1z9HP1cm/QKvsA6+CA+ngZDRdLWVIdV4BKKA/KpuPlXRurj5YaTxVV45Tdj+c2IYZHNAtSfWLNww3nBTRTrLcsqJZlnihBF2oy81HnSLBdqvq8UjpQkp3cJAC3lq3JyohJ7DPo8Sf2HGb9g2cX6nENqGPTl0JTlMNUOZ5bmoVT48Fb6IeaVvo/Rk3CzdE3PiO6Qndi1eHChMHGGYVnkI1Oq0zwycjCcpL+ZhQiTmE0Htxkbig+VSPUT9UWjH9U=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzE4ODMwMSwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzFiMjE4MzM5MmViY2ZmZTIxN2E5ODNjOTZhNTczY2Y5MGRkNTg2ODdkMThmZDYzMDM2Y2NjNTllYjJmNDdkIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Defense: §a+90\",1:\"§7Strength: §c+30\",2:\"§7Speed: §f+2\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Full Set Bonus: Blazing Aura §7(0/4)\",6:\"§7Damages mobs within §a5§7 blocks for §a3%\",7:\"§7of their max §c Health §7per second.\",8:\"\",9:\"§7Max §c500 §7damage/s\",10:\"§7Blaze Rod Collection: §60\",11:\"§8+100 per 5,000 rods\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §aCombat Skill 22§c.\",15:\"§5§lEPIC HELMET\"],Name:\"§5Blaze Helmet\"}}",
     "damage": 3,
     "lore": [
       "§7Defense: §a+90",
       "§7Strength: §c+30",
       "§7Speed: §f+2",
-      "§7Gemstones: §8[❁]",
+      "§7Gemstones: §8[]",
       "",
       "§6Full Set Bonus: Blazing Aura §7(0/4)",
       "§7Damages mobs within §a5§7 blocks for §a3%",
-      "§7of their max §c❤ Health §7per second.",
+      "§7of their max §c Health §7per second.",
       "",
       "§7Max §c500 §7damage/s",
       "§7Blaze Rod Collection: §60",
@@ -6213,7 +6213,7 @@
     "internalname": "BLAZE_HELMET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Blaze Rod VIII",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Blaze_Helmet",
@@ -6234,17 +6234,17 @@
   "BLAZE_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§5Blaze Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"BLAZE_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+130\",1:\"§7Strength: §c+30\",2:\"§7Speed: §f+2\",3:\"§7Gemstones: §8[❁]\",4:\"\",5:\"§6Full Set Bonus: Blazing Aura §7(0/4)\",6:\"§7Damages mobs within §a5§7 blocks for §a3%\",7:\"§7of their max §c❤ Health §7per second.\",8:\"\",9:\"§7Max §c500 §7damage/s\",10:\"§7Blaze Rod Collection: §60\",11:\"§8+100 per 5,000 rods\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §aCombat Skill 22§c.\",15:\"§5§lEPIC LEGGINGS\"],Name:\"§5Blaze Leggings\",color:16243251}}",
+    "nbttag": "{ExtraAttributes:{id:\"BLAZE_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+130\",1:\"§7Strength: §c+30\",2:\"§7Speed: §f+2\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Full Set Bonus: Blazing Aura §7(0/4)\",6:\"§7Damages mobs within §a5§7 blocks for §a3%\",7:\"§7of their max §c Health §7per second.\",8:\"\",9:\"§7Max §c500 §7damage/s\",10:\"§7Blaze Rod Collection: §60\",11:\"§8+100 per 5,000 rods\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §aCombat Skill 22§c.\",15:\"§5§lEPIC LEGGINGS\"],Name:\"§5Blaze Leggings\",color:16243251}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+130",
       "§7Strength: §c+30",
       "§7Speed: §f+2",
-      "§7Gemstones: §8[❁]",
+      "§7Gemstones: §8[]",
       "",
       "§6Full Set Bonus: Blazing Aura §7(0/4)",
       "§7Damages mobs within §a5§7 blocks for §a3%",
-      "§7of their max §c❤ Health §7per second.",
+      "§7of their max §c Health §7per second.",
       "",
       "§7Max §c500 §7damage/s",
       "§7Blaze Rod Collection: §60",
@@ -6257,7 +6257,7 @@
     "internalname": "BLAZE_LEGGINGS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Blaze Rod VIII",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Blaze_Leggings",
@@ -31272,7 +31272,7 @@
   "FLAME_BREAKER_HELMET": {
     "itemid": "minecraft:chainmail_helmet",
     "displayname": "§5Flamebreaker Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"FLAME_BREAKER_HELMET\"},HideFlags:254,ItemModel:\"minecraft:chainmail_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+40\",1:\"§7Defense: §a+40\",2:\"§7Mining Speed: §6+25\",3:\"§7Mining Fortune: §6+15\",4:\"§7Heat Resistance: §c+5\",5:\"§7Gemstones: §8[§7❤§8] [⸕] [☘]\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aHard Stone Collection V§c.\",9:\"§5§lEPIC HELMET\"],Name:\"§5Flamebreaker Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FLAME_BREAKER_HELMET\"},HideFlags:254,ItemModel:\"minecraft:chainmail_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+40\",1:\"§7Defense: §a+40\",2:\"§7Mining Speed: §6+25\",3:\"§7Mining Fortune: §6+15\",4:\"§7Heat Resistance: §c+5\",5:\"§7Gemstones: §8[§7§8] [] []\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aHard Stone Collection V§c.\",9:\"§5§lEPIC HELMET\"],Name:\"§5Flamebreaker Helmet\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+40",
@@ -31280,7 +31280,7 @@
       "§7Mining Speed: §6+25",
       "§7Mining Fortune: §6+15",
       "§7Heat Resistance: §c+5",
-      "§7Gemstones: §8[§7❤§8] [⸕] [☘]",
+      "§7Gemstones: §8[§7§8] [] []",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §aHard Stone Collection V§c.",
@@ -31289,7 +31289,7 @@
     "internalname": "FLAME_BREAKER_HELMET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Hard Stone V",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Flamebreaker_Helmet",
@@ -31310,7 +31310,7 @@
   "FLAME_BREAKER_LEGGINGS": {
     "itemid": "minecraft:chainmail_leggings",
     "displayname": "§5Flamebreaker Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"FLAME_BREAKER_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:chainmail_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+60\",1:\"§7Defense: §a+60\",2:\"§7Mining Speed: §6+25\",3:\"§7Mining Fortune: §6+15\",4:\"§7Heat Resistance: §c+5\",5:\"§7Gemstones: §8[§7❤§8] [⸕] [☘]\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aHard Stone Collection V§c.\",9:\"§5§lEPIC LEGGINGS\"],Name:\"§5Flamebreaker Leggings\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FLAME_BREAKER_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:chainmail_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+60\",1:\"§7Defense: §a+60\",2:\"§7Mining Speed: §6+25\",3:\"§7Mining Fortune: §6+15\",4:\"§7Heat Resistance: §c+5\",5:\"§7Gemstones: §8[§7§8] [] []\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aHard Stone Collection V§c.\",9:\"§5§lEPIC LEGGINGS\"],Name:\"§5Flamebreaker Leggings\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+60",
@@ -31318,7 +31318,7 @@
       "§7Mining Speed: §6+25",
       "§7Mining Fortune: §6+15",
       "§7Heat Resistance: §c+5",
-      "§7Gemstones: §8[§7❤§8] [⸕] [☘]",
+      "§7Gemstones: §8[§7§8] [] []",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §aHard Stone Collection V§c.",
@@ -31327,7 +31327,7 @@
     "internalname": "FLAME_BREAKER_LEGGINGS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Hard Stone V",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Flamebreaker_Leggings",
@@ -61579,11 +61579,11 @@
   "PERFECT_BOOTS_10": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§6Perfect Boots - Tier X",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_10\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+270\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Perfect Boots - Tier X\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_10\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+270\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Perfect Boots - Tier X\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+270",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -61593,7 +61593,7 @@
     "internalname": "PERFECT_BOOTS_10",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor",
@@ -61615,11 +61615,11 @@
   "PERFECT_BOOTS_11": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§6Perfect Boots - Tier XI",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_11\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+290\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Perfect Boots - Tier XI\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_11\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+290\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Perfect Boots - Tier XI\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+290",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -61629,7 +61629,7 @@
     "internalname": "PERFECT_BOOTS_11",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XI",
@@ -61687,11 +61687,11 @@
   "PERFECT_BOOTS_2": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§9Perfect Boots - Tier II",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_2\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+110\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE BOOTS\"],Name:\"§9Perfect Boots - Tier II\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_2\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+110\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE BOOTS\"],Name:\"§9Perfect Boots - Tier II\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+110",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -61701,7 +61701,7 @@
     "internalname": "PERFECT_BOOTS_2",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_II",
@@ -61723,11 +61723,11 @@
   "PERFECT_BOOTS_3": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§9Perfect Boots - Tier III",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_3\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+130\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE BOOTS\"],Name:\"§9Perfect Boots - Tier III\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_3\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+130\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE BOOTS\"],Name:\"§9Perfect Boots - Tier III\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+130",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -61737,7 +61737,7 @@
     "internalname": "PERFECT_BOOTS_3",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_III",
@@ -61759,11 +61759,11 @@
   "PERFECT_BOOTS_4": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§5Perfect Boots - Tier IV",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_4\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+150\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC BOOTS\"],Name:\"§5Perfect Boots - Tier IV\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_4\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+150\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC BOOTS\"],Name:\"§5Perfect Boots - Tier IV\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+150",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -61773,7 +61773,7 @@
     "internalname": "PERFECT_BOOTS_4",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IV",
@@ -61795,11 +61795,11 @@
   "PERFECT_BOOTS_5": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§5Perfect Boots - Tier V",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_5\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+170\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC BOOTS\"],Name:\"§5Perfect Boots - Tier V\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_5\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+170\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC BOOTS\"],Name:\"§5Perfect Boots - Tier V\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+170",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -61809,7 +61809,7 @@
     "internalname": "PERFECT_BOOTS_5",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor",
@@ -61831,11 +61831,11 @@
   "PERFECT_BOOTS_6": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§5Perfect Boots - Tier VI",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_6\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+190\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC BOOTS\"],Name:\"§5Perfect Boots - Tier VI\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_6\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+190\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC BOOTS\"],Name:\"§5Perfect Boots - Tier VI\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+190",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -61845,7 +61845,7 @@
     "internalname": "PERFECT_BOOTS_6",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VI",
@@ -61867,11 +61867,11 @@
   "PERFECT_BOOTS_7": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§5Perfect Boots - Tier VII",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_7\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+210\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC BOOTS\"],Name:\"§5Perfect Boots - Tier VII\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_7\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+210\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC BOOTS\"],Name:\"§5Perfect Boots - Tier VII\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+210",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -61881,7 +61881,7 @@
     "internalname": "PERFECT_BOOTS_7",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VII",
@@ -61903,11 +61903,11 @@
   "PERFECT_BOOTS_8": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§6Perfect Boots - Tier VIII",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_8\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+230\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Perfect Boots - Tier VIII\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_8\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+230\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Perfect Boots - Tier VIII\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+230",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -61917,7 +61917,7 @@
     "internalname": "PERFECT_BOOTS_8",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VIII",
@@ -61939,11 +61939,11 @@
   "PERFECT_BOOTS_9": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§6Perfect Boots - Tier IX",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_9\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+250\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Perfect Boots - Tier IX\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_BOOTS_9\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+250\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Perfect Boots - Tier IX\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+250",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -61953,7 +61953,7 @@
     "internalname": "PERFECT_BOOTS_9",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IX",
@@ -62010,11 +62010,11 @@
   "PERFECT_CHESTPLATE_10": {
     "itemid": "minecraft:diamond_chestplate",
     "displayname": "§6Perfect Chestplate - Tier X",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_10\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+340\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Perfect Chestplate - Tier X\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_10\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+340\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Perfect Chestplate - Tier X\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+340",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62024,7 +62024,7 @@
     "internalname": "PERFECT_CHESTPLATE_10",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor",
@@ -62046,11 +62046,11 @@
   "PERFECT_CHESTPLATE_11": {
     "itemid": "minecraft:diamond_chestplate",
     "displayname": "§6Perfect Chestplate - Tier XI",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_11\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+360\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Perfect Chestplate - Tier XI\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_11\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+360\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Perfect Chestplate - Tier XI\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+360",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62060,7 +62060,7 @@
     "internalname": "PERFECT_CHESTPLATE_11",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XI",
@@ -62118,11 +62118,11 @@
   "PERFECT_CHESTPLATE_2": {
     "itemid": "minecraft:diamond_chestplate",
     "displayname": "§9Perfect Chestplate - Tier II",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_2\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+180\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE CHESTPLATE\"],Name:\"§9Perfect Chestplate - Tier II\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_2\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+180\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE CHESTPLATE\"],Name:\"§9Perfect Chestplate - Tier II\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+180",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62132,7 +62132,7 @@
     "internalname": "PERFECT_CHESTPLATE_2",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_II",
@@ -62190,11 +62190,11 @@
   "PERFECT_CHESTPLATE_4": {
     "itemid": "minecraft:diamond_chestplate",
     "displayname": "§5Perfect Chestplate - Tier IV",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_4\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+220\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Perfect Chestplate - Tier IV\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_4\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+220\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Perfect Chestplate - Tier IV\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+220",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62204,7 +62204,7 @@
     "internalname": "PERFECT_CHESTPLATE_4",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IV",
@@ -62226,11 +62226,11 @@
   "PERFECT_CHESTPLATE_5": {
     "itemid": "minecraft:diamond_chestplate",
     "displayname": "§5Perfect Chestplate - Tier V",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_5\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+240\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Perfect Chestplate - Tier V\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_5\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+240\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Perfect Chestplate - Tier V\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+240",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62240,7 +62240,7 @@
     "internalname": "PERFECT_CHESTPLATE_5",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor",
@@ -62298,11 +62298,11 @@
   "PERFECT_CHESTPLATE_7": {
     "itemid": "minecraft:diamond_chestplate",
     "displayname": "§5Perfect Chestplate - Tier VII",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_7\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+280\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Perfect Chestplate - Tier VII\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_7\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+280\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Perfect Chestplate - Tier VII\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+280",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62312,7 +62312,7 @@
     "internalname": "PERFECT_CHESTPLATE_7",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VII",
@@ -62334,11 +62334,11 @@
   "PERFECT_CHESTPLATE_8": {
     "itemid": "minecraft:diamond_chestplate",
     "displayname": "§6Perfect Chestplate - Tier VIII",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_8\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+300\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Perfect Chestplate - Tier VIII\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_8\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+300\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Perfect Chestplate - Tier VIII\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+300",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62348,7 +62348,7 @@
     "internalname": "PERFECT_CHESTPLATE_8",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VIII",
@@ -62370,11 +62370,11 @@
   "PERFECT_CHESTPLATE_9": {
     "itemid": "minecraft:diamond_chestplate",
     "displayname": "§6Perfect Chestplate - Tier IX",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_9\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+320\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Perfect Chestplate - Tier IX\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_CHESTPLATE_9\"},HideFlags:254,ItemModel:\"minecraft:diamond_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+320\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Perfect Chestplate - Tier IX\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+320",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62384,7 +62384,7 @@
     "internalname": "PERFECT_CHESTPLATE_9",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IX",
@@ -62521,11 +62521,11 @@
   "PERFECT_HELMET_10": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§6Perfect Helmet - Tier X",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_10\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+290\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY HELMET\"],Name:\"§6Perfect Helmet - Tier X\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_10\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+290\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY HELMET\"],Name:\"§6Perfect Helmet - Tier X\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+290",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62535,7 +62535,7 @@
     "internalname": "PERFECT_HELMET_10",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor",
@@ -62557,11 +62557,11 @@
   "PERFECT_HELMET_11": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§6Perfect Helmet - Tier XI",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_11\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+310\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY HELMET\"],Name:\"§6Perfect Helmet - Tier XI\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_11\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+310\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY HELMET\"],Name:\"§6Perfect Helmet - Tier XI\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+310",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62571,7 +62571,7 @@
     "internalname": "PERFECT_HELMET_11",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XI",
@@ -62629,11 +62629,11 @@
   "PERFECT_HELMET_2": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§9Perfect Helmet - Tier II",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_2\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+130\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE HELMET\"],Name:\"§9Perfect Helmet - Tier II\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_2\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+130\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE HELMET\"],Name:\"§9Perfect Helmet - Tier II\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+130",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62643,7 +62643,7 @@
     "internalname": "PERFECT_HELMET_2",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_II",
@@ -62665,11 +62665,11 @@
   "PERFECT_HELMET_3": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§9Perfect Helmet - Tier III",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_3\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+150\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE HELMET\"],Name:\"§9Perfect Helmet - Tier III\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_3\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+150\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE HELMET\"],Name:\"§9Perfect Helmet - Tier III\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+150",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62679,7 +62679,7 @@
     "internalname": "PERFECT_HELMET_3",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_III",
@@ -62701,11 +62701,11 @@
   "PERFECT_HELMET_4": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§5Perfect Helmet - Tier IV",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_4\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+170\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC HELMET\"],Name:\"§5Perfect Helmet - Tier IV\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_4\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+170\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC HELMET\"],Name:\"§5Perfect Helmet - Tier IV\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+170",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62715,7 +62715,7 @@
     "internalname": "PERFECT_HELMET_4",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IV",
@@ -62737,11 +62737,11 @@
   "PERFECT_HELMET_5": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§5Perfect Helmet - Tier V",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_5\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+190\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC HELMET\"],Name:\"§5Perfect Helmet - Tier V\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_5\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+190\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC HELMET\"],Name:\"§5Perfect Helmet - Tier V\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+190",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62751,7 +62751,7 @@
     "internalname": "PERFECT_HELMET_5",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor",
@@ -62773,11 +62773,11 @@
   "PERFECT_HELMET_6": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§5Perfect Helmet - Tier VI",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_6\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+210\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC HELMET\"],Name:\"§5Perfect Helmet - Tier VI\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_6\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+210\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC HELMET\"],Name:\"§5Perfect Helmet - Tier VI\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+210",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62787,7 +62787,7 @@
     "internalname": "PERFECT_HELMET_6",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VI",
@@ -62845,11 +62845,11 @@
   "PERFECT_HELMET_8": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§6Perfect Helmet - Tier VIII",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_8\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+250\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY HELMET\"],Name:\"§6Perfect Helmet - Tier VIII\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_8\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+250\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY HELMET\"],Name:\"§6Perfect Helmet - Tier VIII\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+250",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62859,7 +62859,7 @@
     "internalname": "PERFECT_HELMET_8",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VIII",
@@ -62881,11 +62881,11 @@
   "PERFECT_HELMET_9": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§6Perfect Helmet - Tier IX",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_9\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+270\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY HELMET\"],Name:\"§6Perfect Helmet - Tier IX\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_HELMET_9\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+270\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY HELMET\"],Name:\"§6Perfect Helmet - Tier IX\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+270",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -62895,7 +62895,7 @@
     "internalname": "PERFECT_HELMET_9",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IX",
@@ -63028,11 +63028,11 @@
   "PERFECT_LEGGINGS_10": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§6Perfect Leggings - Tier X",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_10\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+320\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Perfect Leggings - Tier X\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_10\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+320\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Perfect Leggings - Tier X\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+320",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -63042,7 +63042,7 @@
     "internalname": "PERFECT_LEGGINGS_10",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor",
@@ -63064,11 +63064,11 @@
   "PERFECT_LEGGINGS_11": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§6Perfect Leggings - Tier XI",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_11\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+340\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Perfect Leggings - Tier XI\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_11\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+340\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Perfect Leggings - Tier XI\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+340",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -63078,7 +63078,7 @@
     "internalname": "PERFECT_LEGGINGS_11",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XI",
@@ -63136,11 +63136,11 @@
   "PERFECT_LEGGINGS_2": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§9Perfect Leggings - Tier II",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_2\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+160\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE LEGGINGS\"],Name:\"§9Perfect Leggings - Tier II\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_2\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+160\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE LEGGINGS\"],Name:\"§9Perfect Leggings - Tier II\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+160",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -63150,7 +63150,7 @@
     "internalname": "PERFECT_LEGGINGS_2",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_II",
@@ -63172,11 +63172,11 @@
   "PERFECT_LEGGINGS_3": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§9Perfect Leggings - Tier III",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_3\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+180\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE LEGGINGS\"],Name:\"§9Perfect Leggings - Tier III\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_3\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+180\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE LEGGINGS\"],Name:\"§9Perfect Leggings - Tier III\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+180",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -63186,7 +63186,7 @@
     "internalname": "PERFECT_LEGGINGS_3",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_III",
@@ -63208,11 +63208,11 @@
   "PERFECT_LEGGINGS_4": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§5Perfect Leggings - Tier IV",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_4\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+200\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC LEGGINGS\"],Name:\"§5Perfect Leggings - Tier IV\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_4\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+200\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC LEGGINGS\"],Name:\"§5Perfect Leggings - Tier IV\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+200",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -63222,7 +63222,7 @@
     "internalname": "PERFECT_LEGGINGS_4",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IV",
@@ -63244,11 +63244,11 @@
   "PERFECT_LEGGINGS_5": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§5Perfect Leggings - Tier V",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_5\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+220\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC LEGGINGS\"],Name:\"§5Perfect Leggings - Tier V\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_5\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+220\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC LEGGINGS\"],Name:\"§5Perfect Leggings - Tier V\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+220",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -63258,7 +63258,7 @@
     "internalname": "PERFECT_LEGGINGS_5",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor",
@@ -63280,11 +63280,11 @@
   "PERFECT_LEGGINGS_6": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§5Perfect Leggings - Tier VI",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_6\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+240\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC LEGGINGS\"],Name:\"§5Perfect Leggings - Tier VI\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_6\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+240\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC LEGGINGS\"],Name:\"§5Perfect Leggings - Tier VI\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+240",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -63294,7 +63294,7 @@
     "internalname": "PERFECT_LEGGINGS_6",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VI",
@@ -63316,11 +63316,11 @@
   "PERFECT_LEGGINGS_7": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§5Perfect Leggings - Tier VII",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_7\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+260\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC LEGGINGS\"],Name:\"§5Perfect Leggings - Tier VII\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_7\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+260\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§5§lEPIC LEGGINGS\"],Name:\"§5Perfect Leggings - Tier VII\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+260",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -63330,7 +63330,7 @@
     "internalname": "PERFECT_LEGGINGS_7",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VII",
@@ -63352,11 +63352,11 @@
   "PERFECT_LEGGINGS_8": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§6Perfect Leggings - Tier VIII",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_8\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+280\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Perfect Leggings - Tier VIII\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_8\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+280\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Perfect Leggings - Tier VIII\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+280",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -63366,7 +63366,7 @@
     "internalname": "PERFECT_LEGGINGS_8",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VIII",
@@ -63388,11 +63388,11 @@
   "PERFECT_LEGGINGS_9": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§6Perfect Leggings - Tier IX",
-    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_9\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+300\",1:\"§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Perfect Leggings - Tier IX\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PERFECT_LEGGINGS_9\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+300\",1:\"§7Gemstones: §8[§7§8] [§7§8] [§7§8]\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Perfect Leggings - Tier IX\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+300",
-      "§7Gemstones: §8[§7❈§8] [§7❈§8] [§7❈§8]",
+      "§7Gemstones: §8[§7§8] [§7§8] [§7§8]",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -63402,7 +63402,7 @@
     "internalname": "PERFECT_LEGGINGS_9",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IX",
@@ -67017,7 +67017,7 @@
   "PRIMORDIAL_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§6Primordial Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+135\",1:\"§7Defense: §a+105\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+105\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% ❁\",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0❈\",15:\"§7Next Upgrade: §a+20❈ §8(§a0§7/§c50§8)\",16:\"\",17:\"§4This item is Arachnal Ж!\",18:\"\",19:\"§6Extra Bonus: §aBrood\",20:\"§7Increases the base stats of the\",21:\"§6Tarantula Pet§7 by §a100%§7.\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4☠ §cRequires §5Spider Slayer 7§c.\",25:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Primordial Leggings\",color:923446}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+135\",1:\"§7Defense: §a+105\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+105\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§4This item is Arachnal !\",18:\"\",19:\"§6Extra Bonus: §aBrood\",20:\"§7Increases the base stats of the\",21:\"§6Tarantula Pet§7 by §a100%§7.\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4☠ §cRequires §5Spider Slayer 7§c.\",25:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Primordial Leggings\",color:923446}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+135",
@@ -67027,17 +67027,17 @@
       "§7Gemstones: §8[⚔]",
       "",
       "§8Tiered Bonus: Octodexterity (0/4)",
-      "§7Every 3rd strike, deal §c+50% ❁",
+      "§7Every 3rd strike, deal §c+50% ",
       "§cDamage §7and apply §2Venom§7 reducing",
       "§7healing by §210% §7for §a4 §7seconds.",
       "",
       "§6Piece Bonus: Spider Bulwark",
       "§7Kill Spiders to accumulate defense",
       "§7against them.",
-      "§7Piece Bonus: §a+0❈",
-      "§7Next Upgrade: §a+20❈ §8(§a0§7/§c50§8)",
+      "§7Piece Bonus: §a+0",
+      "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal Ж!",
+      "§4This item is Arachnal !",
       "",
       "§6Extra Bonus: §aBrood",
       "§7Increases the base stats of the",
@@ -67050,7 +67050,7 @@
     "internalname": "PRIMORDIAL_LEGGINGS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Primordial_Leggings",
@@ -74149,13 +74149,13 @@
   "SALMON_BOOTS_NEW": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§9Salmon Boots",
-    "nbttag": "{ExtraAttributes:{id:\"SALMON_BOOTS_NEW\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+85\",1:\"§7Defense: §a+20\",2:\"§7Sea Creature Chance: §3+1.5%\",3:\"§7Gemstones: §8[☂]\",4:\"\",5:\"§6Ability: Water Burst  §e§lSNEAK\",6:\"§7When wearing the full set, grants the\",7:\"§7wearer with the ability to §aburst\",8:\"§aforward§7 when sneaking in water.\",9:\"§8Mana Cost: §320\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aFishing Skill 13§c.\",13:\"§9§lRARE BOOTS\"],Name:\"§9Salmon Boots\",color:12663823}}",
+    "nbttag": "{ExtraAttributes:{id:\"SALMON_BOOTS_NEW\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+85\",1:\"§7Defense: §a+20\",2:\"§7Sea Creature Chance: §3+1.5%\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Ability: Water Burst  §e§lSNEAK\",6:\"§7When wearing the full set, grants the\",7:\"§7wearer with the ability to §aburst\",8:\"§aforward§7 when sneaking in water.\",9:\"§8Mana Cost: §320\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aFishing Skill 13§c.\",13:\"§9§lRARE BOOTS\"],Name:\"§9Salmon Boots\",color:12663823}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+85",
       "§7Defense: §a+20",
       "§7Sea Creature Chance: §3+1.5%",
-      "§7Gemstones: §8[☂]",
+      "§7Gemstones: §8[]",
       "",
       "§6Ability: Water Burst  §e§lSNEAK",
       "§7When wearing the full set, grants the",
@@ -74170,7 +74170,7 @@
     "internalname": "SALMON_BOOTS_NEW",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Raw Salmon VI",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Salmon_Boots",
@@ -74314,13 +74314,13 @@
   "SALMON_LEGGINGS_NEW": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§9Salmon Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"SALMON_LEGGINGS_NEW\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+115\",1:\"§7Defense: §a+45\",2:\"§7Sea Creature Chance: §3+1.5%\",3:\"§7Gemstones: §8[☂]\",4:\"\",5:\"§6Ability: Water Burst  §e§lSNEAK\",6:\"§7When wearing the full set, grants the\",7:\"§7wearer with the ability to §aburst\",8:\"§aforward§7 when sneaking in water.\",9:\"§8Mana Cost: §320\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aFishing Skill 13§c.\",13:\"§9§lRARE LEGGINGS\"],Name:\"§9Salmon Leggings\",color:11021174}}",
+    "nbttag": "{ExtraAttributes:{id:\"SALMON_LEGGINGS_NEW\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+115\",1:\"§7Defense: §a+45\",2:\"§7Sea Creature Chance: §3+1.5%\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Ability: Water Burst  §e§lSNEAK\",6:\"§7When wearing the full set, grants the\",7:\"§7wearer with the ability to §aburst\",8:\"§aforward§7 when sneaking in water.\",9:\"§8Mana Cost: §320\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aFishing Skill 13§c.\",13:\"§9§lRARE LEGGINGS\"],Name:\"§9Salmon Leggings\",color:11021174}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+115",
       "§7Defense: §a+45",
       "§7Sea Creature Chance: §3+1.5%",
-      "§7Gemstones: §8[☂]",
+      "§7Gemstones: §8[]",
       "",
       "§6Ability: Water Burst  §e§lSNEAK",
       "§7When wearing the full set, grants the",
@@ -74335,7 +74335,7 @@
     "internalname": "SALMON_LEGGINGS_NEW",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Raw Salmon VI",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Salmon_Leggings",
@@ -84648,7 +84648,7 @@
   "STARRED_ADAPTIVE_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§5 Adaptive Boots",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_ADAPTIVE_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d283\",1:\"§7Health: §c+100\",2:\"§7Defense: §a+55\",3:\"§7Strength: §c+15\",4:\"§7Intelligence: §b+15\",5:\"§7Gemstones: §8[§7⚔§8]\",6:\"\",7:\"§6Full Set Bonus: Efficient training §7(0/4)\",8:\"§7Every §b5 §7Catacombs levels, this armor piece\",9:\"§7gains +§a2% §7stats.\",10:\"\",11:\"§7Grants additional bonuses based on your\",12:\"§7selected dungeon class!\",13:\"\",14:\"§bBerserk§7: +§c20❁ Strength\",15:\"§bHealer§7: +§a5☄ Mending§7, +§c40❤ Health\",16:\"§bMage§7: +§b50✎ Intelligence\",17:\"§bTank§7: +§a30❈ Defense§7 and reduces damage\",18:\"§7taken by §b5% §7for each piece you have equipped\",19:\"§7if you are hit by the same monster within §e10\",20:\"§7seconds.\",21:\"§bArcher§7: +§95☣ Crit Chance§7, +§915☠ Crit Damage\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4❣ §cRequires The Catacombs Floor III Completion.\",25:\"§5§lEPIC DUNGEON BOOTS\"],Name:\"§5 Adaptive Boots\",color:12565682}}",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_ADAPTIVE_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d283\",1:\"§7Health: §c+100\",2:\"§7Defense: §a+55\",3:\"§7Strength: §c+15\",4:\"§7Intelligence: §b+15\",5:\"§7Gemstones: §8[§7⚔§8]\",6:\"\",7:\"§6Full Set Bonus: Efficient training §7(0/4)\",8:\"§7Every §b5 §7Catacombs levels, this armor piece\",9:\"§7gains +§a2% §7stats.\",10:\"\",11:\"§7Grants additional bonuses based on your\",12:\"§7selected dungeon class!\",13:\"\",14:\"§bBerserk§7: +§c20 Strength\",15:\"§bHealer§7: +§a5 Mending§7, +§c40 Health\",16:\"§bMage§7: +§b50 Intelligence\",17:\"§bTank§7: +§a30 Defense§7 and reduces damage\",18:\"§7taken by §b5% §7for each piece you have equipped\",19:\"§7if you are hit by the same monster within §e10\",20:\"§7seconds.\",21:\"§bArcher§7: +§95 Crit Chance§7, +§915 Crit Damage\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4❣ §cRequires The Catacombs Floor III Completion.\",25:\"§5§lEPIC DUNGEON BOOTS\"],Name:\"§5 Adaptive Boots\",color:12565682}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d283",
@@ -84665,14 +84665,14 @@
       "§7Grants additional bonuses based on your",
       "§7selected dungeon class!",
       "",
-      "§bBerserk§7: +§c20❁ Strength",
-      "§bHealer§7: +§a5☄ Mending§7, +§c40❤ Health",
-      "§bMage§7: +§b50✎ Intelligence",
-      "§bTank§7: +§a30❈ Defense§7 and reduces damage",
+      "§bBerserk§7: +§c20 Strength",
+      "§bHealer§7: +§a5 Mending§7, +§c40 Health",
+      "§bMage§7: +§b50 Intelligence",
+      "§bTank§7: +§a30 Defense§7 and reduces damage",
       "§7taken by §b5% §7for each piece you have equipped",
       "§7if you are hit by the same monster within §e10",
       "§7seconds.",
-      "§bArcher§7: +§95☣ Crit Chance§7, +§915☠ Crit Damage",
+      "§bArcher§7: +§95 Crit Chance§7, +§915 Crit Damage",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires The Catacombs Floor III Completion.",
@@ -84681,7 +84681,7 @@
     "internalname": "STARRED_ADAPTIVE_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Adaptive_Boots",
@@ -84703,7 +84703,7 @@
   "STARRED_ADAPTIVE_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§5 Adaptive Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_ADAPTIVE_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d443\",1:\"§7Health: §c+180\",2:\"§7Defense: §a+95\",3:\"§7Strength: §c+15\",4:\"§7Intelligence: §b+15\",5:\"§7Gemstones: §8[§7⚔§8]\",6:\"\",7:\"§6Full Set Bonus: Efficient training §7(0/4)\",8:\"§7Every §b5 §7Catacombs levels, this armor piece\",9:\"§7gains +§a2% §7stats.\",10:\"\",11:\"§7Grants additional bonuses based on your\",12:\"§7selected dungeon class!\",13:\"\",14:\"§bBerserk§7: +§c20❁ Strength\",15:\"§bHealer§7: +§a5☄ Mending§7, +§c40❤ Health\",16:\"§bMage§7: +§b50✎ Intelligence\",17:\"§bTank§7: +§a30❈ Defense§7 and reduces damage\",18:\"§7taken by §b5% §7for each piece you have equipped\",19:\"§7if you are hit by the same monster within §e10\",20:\"§7seconds.\",21:\"§bArcher§7: +§95☣ Crit Chance§7, +§915☠ Crit Damage\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4❣ §cRequires The Catacombs Floor III Completion.\",25:\"§5§lEPIC DUNGEON CHESTPLATE\"],Name:\"§5 Adaptive Chestplate\",color:12565682}}",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_ADAPTIVE_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d443\",1:\"§7Health: §c+180\",2:\"§7Defense: §a+95\",3:\"§7Strength: §c+15\",4:\"§7Intelligence: §b+15\",5:\"§7Gemstones: §8[§7⚔§8]\",6:\"\",7:\"§6Full Set Bonus: Efficient training §7(0/4)\",8:\"§7Every §b5 §7Catacombs levels, this armor piece\",9:\"§7gains +§a2% §7stats.\",10:\"\",11:\"§7Grants additional bonuses based on your\",12:\"§7selected dungeon class!\",13:\"\",14:\"§bBerserk§7: +§c20 Strength\",15:\"§bHealer§7: +§a5 Mending§7, +§c40 Health\",16:\"§bMage§7: +§b50 Intelligence\",17:\"§bTank§7: +§a30 Defense§7 and reduces damage\",18:\"§7taken by §b5% §7for each piece you have equipped\",19:\"§7if you are hit by the same monster within §e10\",20:\"§7seconds.\",21:\"§bArcher§7: +§95 Crit Chance§7, +§915 Crit Damage\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4❣ §cRequires The Catacombs Floor III Completion.\",25:\"§5§lEPIC DUNGEON CHESTPLATE\"],Name:\"§5 Adaptive Chestplate\",color:12565682}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d443",
@@ -84720,14 +84720,14 @@
       "§7Grants additional bonuses based on your",
       "§7selected dungeon class!",
       "",
-      "§bBerserk§7: +§c20❁ Strength",
-      "§bHealer§7: +§a5☄ Mending§7, +§c40❤ Health",
-      "§bMage§7: +§b50✎ Intelligence",
-      "§bTank§7: +§a30❈ Defense§7 and reduces damage",
+      "§bBerserk§7: +§c20 Strength",
+      "§bHealer§7: +§a5 Mending§7, +§c40 Health",
+      "§bMage§7: +§b50 Intelligence",
+      "§bTank§7: +§a30 Defense§7 and reduces damage",
       "§7taken by §b5% §7for each piece you have equipped",
       "§7if you are hit by the same monster within §e10",
       "§7seconds.",
-      "§bArcher§7: +§95☣ Crit Chance§7, +§915☠ Crit Damage",
+      "§bArcher§7: +§95 Crit Chance§7, +§915 Crit Damage",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires The Catacombs Floor III Completion.",
@@ -84736,7 +84736,7 @@
     "internalname": "STARRED_ADAPTIVE_CHESTPLATE",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Adaptive_Chestplate",
@@ -84758,7 +84758,7 @@
   "STARRED_ADAPTIVE_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§5 Adaptive Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_ADAPTIVE_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6fe4c40d-f1f3-3bea-bde8-30a710f1829e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"QfLJiNZ9i91JW40kadnY8AbPTyDZeAS9LpG1aD5SKpjZGL8i7jra84kmwKmwlyX6nnr15trZeV+92CRJLntf9pbbX0r9iDyArci1mebLVYn58WmwK1hAudPb03lspY72KEzjFJO4bcJgxvqDb/xjXdicyxOgQl63QQf2tQWECtIJj2bH1nFrSsHrRf94jM8lmmAQZqPu8UE3RiQf3gZsuAvlvPgE6WomL7W2ds4gp5B5MgqpMvGq00eE5+9b6jXGMc76b+j4O2iP9Xi8COSZJNqNxx6V95Gqa4+eEINpLRa/Gq2byXr+AsV+XIGfCxCGgkqfWCPPRs5eucln67xpeqLSbn2G3LEyLwIYQJXCE0Ik6oINRxZhk0GXhYg+9JKqVwFOe8pUsMfRkkss6LiA5Du+5c8BzamogH3tuyfSEzRoydPSZU9wYT5CfjQ5iJpDHeAyeofwbSnJ3EYeZYypipGN5cRD4+o+uO+4xiX/YQ7gmN+d679+CTwpetjrMmZe+SeRv3LNh6RZfh2Y/fffiwRb7NhPWLXA4Q/RsgvBlotHRych0036BOHXXQxGLVAVnNjm4hus9HUXJBf7qGIw1Sa4/jOoUN4AALXpHH2pYWvT+PMHLGaWmZDVQ5NDwzURoatEbXwQFKqGGfXu4rGhxvpoXqgvletGwYjm3Pm6utM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDAzOTAzMjUzOCwKICAicHJvZmlsZUlkIiA6ICI1MzgyNzM1OGIzOTc0ZmJiOTg0OTY5MWM5Yzg3NTA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPdmVyQmlnYm95MTIzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2ZjBkMzRhYWE3MTQzNzc5ODM3MDFjMWJiZTliM2Y2ZTdiMzBjYjM4NTcxYmMwYTJmZDc1NDFkN2VkYjE2MzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Gear Score: §d313\",1:\"§7Health: §c+120\",2:\"§7Defense: §a+60\",3:\"§7Strength: §c+15\",4:\"§7Intelligence: §b+15\",5:\"§7Gemstones: §8[§7⚔§8]\",6:\"\",7:\"§6Full Set Bonus: Efficient training §7(0/4)\",8:\"§7Every §b5 §7Catacombs levels, this armor piece\",9:\"§7gains +§a2% §7stats.\",10:\"\",11:\"§7Grants additional bonuses based on your\",12:\"§7selected dungeon class!\",13:\"\",14:\"§bBerserk§7: +§c20❁ Strength\",15:\"§bHealer§7: +§a5☄ Mending§7, +§c40❤ Health\",16:\"§bMage§7: +§b50✎ Intelligence\",17:\"§bTank§7: +§a30❈ Defense§7 and reduces damage\",18:\"§7taken by §b5% §7for each piece you have equipped\",19:\"§7if you are hit by the same monster within §e10\",20:\"§7seconds.\",21:\"§bArcher§7: +§95☣ Crit Chance§7, +§915☠ Crit Damage\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4❣ §cRequires The Catacombs Floor III Completion.\",25:\"§5§lEPIC DUNGEON HELMET\"],Name:\"§5 Adaptive Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_ADAPTIVE_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6fe4c40d-f1f3-3bea-bde8-30a710f1829e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"QfLJiNZ9i91JW40kadnY8AbPTyDZeAS9LpG1aD5SKpjZGL8i7jra84kmwKmwlyX6nnr15trZeV+92CRJLntf9pbbX0r9iDyArci1mebLVYn58WmwK1hAudPb03lspY72KEzjFJO4bcJgxvqDb/xjXdicyxOgQl63QQf2tQWECtIJj2bH1nFrSsHrRf94jM8lmmAQZqPu8UE3RiQf3gZsuAvlvPgE6WomL7W2ds4gp5B5MgqpMvGq00eE5+9b6jXGMc76b+j4O2iP9Xi8COSZJNqNxx6V95Gqa4+eEINpLRa/Gq2byXr+AsV+XIGfCxCGgkqfWCPPRs5eucln67xpeqLSbn2G3LEyLwIYQJXCE0Ik6oINRxZhk0GXhYg+9JKqVwFOe8pUsMfRkkss6LiA5Du+5c8BzamogH3tuyfSEzRoydPSZU9wYT5CfjQ5iJpDHeAyeofwbSnJ3EYeZYypipGN5cRD4+o+uO+4xiX/YQ7gmN+d679+CTwpetjrMmZe+SeRv3LNh6RZfh2Y/fffiwRb7NhPWLXA4Q/RsgvBlotHRych0036BOHXXQxGLVAVnNjm4hus9HUXJBf7qGIw1Sa4/jOoUN4AALXpHH2pYWvT+PMHLGaWmZDVQ5NDwzURoatEbXwQFKqGGfXu4rGhxvpoXqgvletGwYjm3Pm6utM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDAzOTAzMjUzOCwKICAicHJvZmlsZUlkIiA6ICI1MzgyNzM1OGIzOTc0ZmJiOTg0OTY5MWM5Yzg3NTA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPdmVyQmlnYm95MTIzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2ZjBkMzRhYWE3MTQzNzc5ODM3MDFjMWJiZTliM2Y2ZTdiMzBjYjM4NTcxYmMwYTJmZDc1NDFkN2VkYjE2MzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Gear Score: §d313\",1:\"§7Health: §c+120\",2:\"§7Defense: §a+60\",3:\"§7Strength: §c+15\",4:\"§7Intelligence: §b+15\",5:\"§7Gemstones: §8[§7⚔§8]\",6:\"\",7:\"§6Full Set Bonus: Efficient training §7(0/4)\",8:\"§7Every §b5 §7Catacombs levels, this armor piece\",9:\"§7gains +§a2% §7stats.\",10:\"\",11:\"§7Grants additional bonuses based on your\",12:\"§7selected dungeon class!\",13:\"\",14:\"§bBerserk§7: +§c20 Strength\",15:\"§bHealer§7: +§a5 Mending§7, +§c40 Health\",16:\"§bMage§7: +§b50 Intelligence\",17:\"§bTank§7: +§a30 Defense§7 and reduces damage\",18:\"§7taken by §b5% §7for each piece you have equipped\",19:\"§7if you are hit by the same monster within §e10\",20:\"§7seconds.\",21:\"§bArcher§7: +§95 Crit Chance§7, +§915 Crit Damage\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4❣ §cRequires The Catacombs Floor III Completion.\",25:\"§5§lEPIC DUNGEON HELMET\"],Name:\"§5 Adaptive Helmet\"}}",
     "damage": 3,
     "lore": [
       "§7Gear Score: §d313",
@@ -84775,14 +84775,14 @@
       "§7Grants additional bonuses based on your",
       "§7selected dungeon class!",
       "",
-      "§bBerserk§7: +§c20❁ Strength",
-      "§bHealer§7: +§a5☄ Mending§7, +§c40❤ Health",
-      "§bMage§7: +§b50✎ Intelligence",
-      "§bTank§7: +§a30❈ Defense§7 and reduces damage",
+      "§bBerserk§7: +§c20 Strength",
+      "§bHealer§7: +§a5 Mending§7, +§c40 Health",
+      "§bMage§7: +§b50 Intelligence",
+      "§bTank§7: +§a30 Defense§7 and reduces damage",
       "§7taken by §b5% §7for each piece you have equipped",
       "§7if you are hit by the same monster within §e10",
       "§7seconds.",
-      "§bArcher§7: +§95☣ Crit Chance§7, +§915☠ Crit Damage",
+      "§bArcher§7: +§95 Crit Chance§7, +§915 Crit Damage",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires The Catacombs Floor III Completion.",
@@ -84791,7 +84791,7 @@
     "internalname": "STARRED_ADAPTIVE_HELMET",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Adaptive_Helmet",
@@ -84813,7 +84813,7 @@
   "STARRED_ADAPTIVE_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§5 Adaptive Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_ADAPTIVE_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d378\",1:\"§7Health: §c+155\",2:\"§7Defense: §a+75\",3:\"§7Strength: §c+15\",4:\"§7Intelligence: §b+15\",5:\"§7Gemstones: §8[§7⚔§8]\",6:\"\",7:\"§6Full Set Bonus: Efficient training §7(0/4)\",8:\"§7Every §b5 §7Catacombs levels, this armor piece\",9:\"§7gains +§a2% §7stats.\",10:\"\",11:\"§7Grants additional bonuses based on your\",12:\"§7selected dungeon class!\",13:\"\",14:\"§bBerserk§7: +§c20❁ Strength\",15:\"§bHealer§7: +§a5☄ Mending§7, +§c40❤ Health\",16:\"§bMage§7: +§b50✎ Intelligence\",17:\"§bTank§7: +§a30❈ Defense§7 and reduces damage\",18:\"§7taken by §b5% §7for each piece you have equipped\",19:\"§7if you are hit by the same monster within §e10\",20:\"§7seconds.\",21:\"§bArcher§7: +§95☣ Crit Chance§7, +§915☠ Crit Damage\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4❣ §cRequires The Catacombs Floor III Completion.\",25:\"§5§lEPIC DUNGEON LEGGINGS\"],Name:\"§5 Adaptive Leggings\",color:12565682}}",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_ADAPTIVE_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d378\",1:\"§7Health: §c+155\",2:\"§7Defense: §a+75\",3:\"§7Strength: §c+15\",4:\"§7Intelligence: §b+15\",5:\"§7Gemstones: §8[§7⚔§8]\",6:\"\",7:\"§6Full Set Bonus: Efficient training §7(0/4)\",8:\"§7Every §b5 §7Catacombs levels, this armor piece\",9:\"§7gains +§a2% §7stats.\",10:\"\",11:\"§7Grants additional bonuses based on your\",12:\"§7selected dungeon class!\",13:\"\",14:\"§bBerserk§7: +§c20 Strength\",15:\"§bHealer§7: +§a5 Mending§7, +§c40 Health\",16:\"§bMage§7: +§b50 Intelligence\",17:\"§bTank§7: +§a30 Defense§7 and reduces damage\",18:\"§7taken by §b5% §7for each piece you have equipped\",19:\"§7if you are hit by the same monster within §e10\",20:\"§7seconds.\",21:\"§bArcher§7: +§95 Crit Chance§7, +§915 Crit Damage\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4❣ §cRequires The Catacombs Floor III Completion.\",25:\"§5§lEPIC DUNGEON LEGGINGS\"],Name:\"§5 Adaptive Leggings\",color:12565682}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d378",
@@ -84830,14 +84830,14 @@
       "§7Grants additional bonuses based on your",
       "§7selected dungeon class!",
       "",
-      "§bBerserk§7: +§c20❁ Strength",
-      "§bHealer§7: +§a5☄ Mending§7, +§c40❤ Health",
-      "§bMage§7: +§b50✎ Intelligence",
-      "§bTank§7: +§a30❈ Defense§7 and reduces damage",
+      "§bBerserk§7: +§c20 Strength",
+      "§bHealer§7: +§a5 Mending§7, +§c40 Health",
+      "§bMage§7: +§b50 Intelligence",
+      "§bTank§7: +§a30 Defense§7 and reduces damage",
       "§7taken by §b5% §7for each piece you have equipped",
       "§7if you are hit by the same monster within §e10",
       "§7seconds.",
-      "§bArcher§7: +§95☣ Crit Chance§7, +§915☠ Crit Damage",
+      "§bArcher§7: +§95 Crit Chance§7, +§915 Crit Damage",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires The Catacombs Floor III Completion.",
@@ -84846,7 +84846,7 @@
     "internalname": "STARRED_ADAPTIVE_LEGGINGS",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Adaptive_Leggings",
@@ -85849,7 +85849,7 @@
     "internalname": "STARRED_STONE_BLADE",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Adaptive_Blade",
@@ -88963,7 +88963,7 @@
   "TACTICAL_INSERTION": {
     "itemid": "minecraft:blaze_rod",
     "displayname": "§5Tactical Insertion",
-    "nbttag": "{ExtraAttributes:{id:\"TACTICAL_INSERTION\"},HideFlags:254,ItemModel:\"minecraft:blaze_rod\",display:{Lore:[0:\"§6Ability: Gorilla Tactics  §e§lRIGHT CLICK\",1:\"§7Marks your location and teleport back there\",2:\"§7after §a3s§7.\",3:\"\",4:\"§7On coming back, §6burn §7enemies within §b3 §7blocks\",5:\"§7and set your §c❤ Health §7to HALF of what it was.\",6:\"\",7:\"§7The §6burn §7deals §c10% §7of ALL damage you dealt\",8:\"§7within the §a3s§7, spread over §66s§7.\",9:\"§8Mana Cost: §3200\",10:\"§8Cooldown: §a20s\",11:\"\",12:\"§4☠ §cRequires §5Blaze Slayer 5§c.\",13:\"§5§lEPIC\"],Name:\"§5Tactical Insertion\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"TACTICAL_INSERTION\"},HideFlags:254,ItemModel:\"minecraft:blaze_rod\",display:{Lore:[0:\"§6Ability: Gorilla Tactics  §e§lRIGHT CLICK\",1:\"§7Marks your location and teleport back there\",2:\"§7after §a3s§7.\",3:\"\",4:\"§7On coming back, §6burn §7enemies within §b3 §7blocks\",5:\"§7and set your §c Health §7to HALF of what it was.\",6:\"\",7:\"§7The §6burn §7deals §c10% §7of ALL damage you dealt\",8:\"§7within the §a3s§7, spread over §66s§7.\",9:\"§8Mana Cost: §3200\",10:\"§8Cooldown: §a20s\",11:\"\",12:\"§4☠ §cRequires §5Blaze Slayer 5§c.\",13:\"§5§lEPIC\"],Name:\"§5Tactical Insertion\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§6Ability: Gorilla Tactics  §e§lRIGHT CLICK",
@@ -88971,7 +88971,7 @@
       "§7after §a3s§7.",
       "",
       "§7On coming back, §6burn §7enemies within §b3 §7blocks",
-      "§7and set your §c❤ Health §7to HALF of what it was.",
+      "§7and set your §c Health §7to HALF of what it was.",
       "",
       "§7The §6burn §7deals §c10% §7of ALL damage you dealt",
       "§7within the §a3s§7, spread over §66s§7.",
@@ -88984,7 +88984,7 @@
     "internalname": "TACTICAL_INSERTION",
     "clickcommand": "",
     "crafttext": "Requires: Blaze Slayer 5",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tactical_Insertion",
@@ -91555,17 +91555,17 @@
   "TITANIUM_BELT": {
     "itemid": "minecraft:skull",
     "displayname": "§9Titanium Belt",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cf36dddd-8738-3b10-81e4-dde502d1c0bc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"rUoZSDXACzJhBV7GMsdvG/BvdEn4D3aSXsOpj2KKIG+OqeFtftWYcBaQtWjzQhRCi6nxr/a/Vvx8X4FdGlpBj/bnfERnCztknqu/hbOJDqlw1EzPUjTHqQzK0V24/Vude7sofOkKRXDT9n6+4Fj9mT/74QRQlWlKwtp8lOI3q6t2+HPtUAWQpBCPsSOt5+MQM/eHRFxDBYnyeGAuid1zD9LV3lufMd+5yyr1WTkUZOxvkKl+qBAtlGqC0kOkrkD3obYTmwqZq7cIeDHKDOghfXQIVGwZJmaMy22ucocgIXF2udB78qVhW86+UAXvkRdTmDlLmPj8X5WwwTLrtDRl2ZaiZ12/Q5LCDgJs9gUK4JZvwMQGMAJyeNkpdH326YBg7DSLdu6pdsautXXVspKfs+MGe89/W2HNDDytjukSoyh10cOjHwlt9ap3hTlLZRXP8N33dDl8WnrSoyoy4zug28EkON0/f8yO7mf7P9uoh2YqnNFnSli8+dcCBzE65w2uqgSl6jCfriIpIdQZnD1DTPCbrBqqtBFsbI4WlKuHAJnUGRy2NpRQxPXFBn46Frxb8opv2yL5rMkYHFPXD6amW0b2P2OTUqtGxmyIYMZjRkKoEQ+78E1MPOspl/KCYDv5k9S4uAcHHDcyb5sHQp3/0hRCJpq2amlixmVFov3eixg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2MDkxNywKICAicHJvZmlsZUlkIiA6ICIyMDJiZWVlYWY4NTk0MmQ0ODI3NGJjNzYwM2VhYWZhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaWtvcjk4NiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTYyMzAzYmNkZDc3MGFlYmU3ZmQxOWZhMjYzNzEzOTBhNzUxNTE0MDM1ODU0ODA4NDM2MWI1MDU2Y2RjNGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10☘ Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50⸕ Mining Speed §7and §6+40☘\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",13:\"§9§lRARE BELT\"],Name:\"§9Titanium Belt\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cf36dddd-8738-3b10-81e4-dde502d1c0bc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"rUoZSDXACzJhBV7GMsdvG/BvdEn4D3aSXsOpj2KKIG+OqeFtftWYcBaQtWjzQhRCi6nxr/a/Vvx8X4FdGlpBj/bnfERnCztknqu/hbOJDqlw1EzPUjTHqQzK0V24/Vude7sofOkKRXDT9n6+4Fj9mT/74QRQlWlKwtp8lOI3q6t2+HPtUAWQpBCPsSOt5+MQM/eHRFxDBYnyeGAuid1zD9LV3lufMd+5yyr1WTkUZOxvkKl+qBAtlGqC0kOkrkD3obYTmwqZq7cIeDHKDOghfXQIVGwZJmaMy22ucocgIXF2udB78qVhW86+UAXvkRdTmDlLmPj8X5WwwTLrtDRl2ZaiZ12/Q5LCDgJs9gUK4JZvwMQGMAJyeNkpdH326YBg7DSLdu6pdsautXXVspKfs+MGe89/W2HNDDytjukSoyh10cOjHwlt9ap3hTlLZRXP8N33dDl8WnrSoyoy4zug28EkON0/f8yO7mf7P9uoh2YqnNFnSli8+dcCBzE65w2uqgSl6jCfriIpIdQZnD1DTPCbrBqqtBFsbI4WlKuHAJnUGRy2NpRQxPXFBn46Frxb8opv2yL5rMkYHFPXD6amW0b2P2OTUqtGxmyIYMZjRkKoEQ+78E1MPOspl/KCYDv5k9S4uAcHHDcyb5sHQp3/0hRCJpq2amlixmVFov3eixg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2MDkxNywKICAicHJvZmlsZUlkIiA6ICIyMDJiZWVlYWY4NTk0MmQ0ODI3NGJjNzYwM2VhYWZhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaWtvcjk4NiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTYyMzAzYmNkZDc3MGFlYmU3ZmQxOWZhMjYzNzEzOTBhNzUxNTE0MDM1ODU0ODA4NDM2MWI1MDU2Y2RjNGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",13:\"§9§lRARE BELT\"],Name:\"§9Titanium Belt\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+30",
       "§7Mining Fortune: §6+10",
       "",
-      "§7Grants §6+10☘ Mining Fortune §7while",
+      "§7Grants §6+10 Mining Fortune §7while",
       "§7mining §2Mithril §7and §fTitanium§7.",
       "",
       "§6Full Set Bonus: True Dwarf §7(0/4)",
-      "§7Grants §6+50⸕ Mining Speed §7and §6+40☘",
+      "§7Grants §6+50 Mining Speed §7and §6+40",
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
@@ -91576,7 +91576,7 @@
     "internalname": "TITANIUM_BELT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Belt",
@@ -91599,17 +91599,17 @@
   "TITANIUM_CLOAK": {
     "itemid": "minecraft:skull",
     "displayname": "§9Titanium Cloak",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fcc18098-ba03-33b6-b1dd-110c64da3992\",Properties:{textures:[0:{Name:\"textures\",Signature:\"wlwlN3YQtn6u3OVBalvFCatKFBGXPi5RHrwd6jP7o7TDX0o4eHqiRXMkEoEfuuAi54Qopmnz9GK7uA7ikbyDrLeW0zE7Jb8YNqRU0gT+eEw2NLEmuFYDJiYAuCd1TvBIVgkon39WODZNPrr0OxJqfyV+KBHIB3yVqC/W15DLKfwD6H/Enfv6RjiF5qQRXcvmq4VikBUIQAhtR4IhKYNcbuOdr190DkpwG9ULHFMV0VZWVDboQmVgxU9/chZf39SWM07vBbH6MYwk662StYU4gb9YKd4YJRjk7P1dDgOk9WWjr/PgEppY6NhXtPwKWO3PHw+DarVSAnMD2rUanLDtlUafMnaZd2Qp4bZsleX//7C34S2ZkUdYrfxi4VRr6HUoze9aSs6nL+B9HyG0E2E23tZReUey8WQX0aweV0tN0eCyX0BRHrz9Nj+Pu724TltTZ2t/hP1yTwE2cJ+PdA8l66W4NGmcivDgbAi7FmPT6kEinD/Fy8XpOIX0DsbOLj6wBRUrp5i/ZWJGpYdiFngULqbCkD7U7aFdg43f187SiodQegdCT+kLX5GGBYb+fQVxEaueYbPdYD6ulOGSFuBvugKSkzcp5D3tysXrIfC6uiMOpJgLzxw9bUrdHg9mAeNiQQmURerWGiuwi6ah/38NhfBDWM9ps//mUHqNNBVudkg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjkyNzU1NywKICAicHJvZmlsZUlkIiA6ICIxNDU1MDNhNDRjZmI0NzcwYmM3NWNjMTRjYjUwMDE4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWtlbHlFcmljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ5ODIxNDEwNjMxMTg2YzZmM2ZiYmFlNWYwZWY1Yjk0N2Y0NzVlYjMyMDI3YThhYWQwYTQ1NjUxMjU0N2MyMDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10☘ Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50⸕ Mining Speed §7and §6+40☘\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",13:\"§9§lRARE CLOAK\"],Name:\"§9Titanium Cloak\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fcc18098-ba03-33b6-b1dd-110c64da3992\",Properties:{textures:[0:{Name:\"textures\",Signature:\"wlwlN3YQtn6u3OVBalvFCatKFBGXPi5RHrwd6jP7o7TDX0o4eHqiRXMkEoEfuuAi54Qopmnz9GK7uA7ikbyDrLeW0zE7Jb8YNqRU0gT+eEw2NLEmuFYDJiYAuCd1TvBIVgkon39WODZNPrr0OxJqfyV+KBHIB3yVqC/W15DLKfwD6H/Enfv6RjiF5qQRXcvmq4VikBUIQAhtR4IhKYNcbuOdr190DkpwG9ULHFMV0VZWVDboQmVgxU9/chZf39SWM07vBbH6MYwk662StYU4gb9YKd4YJRjk7P1dDgOk9WWjr/PgEppY6NhXtPwKWO3PHw+DarVSAnMD2rUanLDtlUafMnaZd2Qp4bZsleX//7C34S2ZkUdYrfxi4VRr6HUoze9aSs6nL+B9HyG0E2E23tZReUey8WQX0aweV0tN0eCyX0BRHrz9Nj+Pu724TltTZ2t/hP1yTwE2cJ+PdA8l66W4NGmcivDgbAi7FmPT6kEinD/Fy8XpOIX0DsbOLj6wBRUrp5i/ZWJGpYdiFngULqbCkD7U7aFdg43f187SiodQegdCT+kLX5GGBYb+fQVxEaueYbPdYD6ulOGSFuBvugKSkzcp5D3tysXrIfC6uiMOpJgLzxw9bUrdHg9mAeNiQQmURerWGiuwi6ah/38NhfBDWM9ps//mUHqNNBVudkg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjkyNzU1NywKICAicHJvZmlsZUlkIiA6ICIxNDU1MDNhNDRjZmI0NzcwYmM3NWNjMTRjYjUwMDE4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWtlbHlFcmljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ5ODIxNDEwNjMxMTg2YzZmM2ZiYmFlNWYwZWY1Yjk0N2Y0NzVlYjMyMDI3YThhYWQwYTQ1NjUxMjU0N2MyMDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",13:\"§9§lRARE CLOAK\"],Name:\"§9Titanium Cloak\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+30",
       "§7Mining Fortune: §6+10",
       "",
-      "§7Grants §6+10☘ Mining Fortune §7while",
+      "§7Grants §6+10 Mining Fortune §7while",
       "§7mining §2Mithril §7and §fTitanium§7.",
       "",
       "§6Full Set Bonus: True Dwarf §7(0/4)",
-      "§7Grants §6+50⸕ Mining Speed §7and §6+40☘",
+      "§7Grants §6+50 Mining Speed §7and §6+40",
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
@@ -91620,7 +91620,7 @@
     "internalname": "TITANIUM_CLOAK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Cloak",
@@ -92050,17 +92050,17 @@
   "TITANIUM_NECKLACE": {
     "itemid": "minecraft:skull",
     "displayname": "§9Titanium Necklace",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"76c2d18b-6cba-36a8-bd27-787014c91604\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oODHpPsVhDyPjRXl2OKTSUPBzjxUuU+u8o7Nu+ezlGDolA0FuQGK4E1s5CHxoCd0SPw8ayj9uTgMmQNGqiJ2kHTpVE4XA2s2dEmX1FK3q3UtveT7bA3B5t7j/IUO+jaKaEQq/czBRoHFeSvx2UShchGG71/M6U4mNYwEgzCj7qCIQr2nD8Sf+oZNnkRNVz4C3c5Wg3he+Ngs6unbCNkYPTBZySHPs/9RXGNka39hMZCQO0bo9nwjusyZ1ThJ5bYCCFpAKyilDcW8Oi0TFSJjf2UcghZq1BzBtsIYRJe4ap8EMUiZKoOCCVJJ053ArHmD27qA5MEUmFXGKmx2eDfmJQljxe5z4MKu0UxCmhNIFdorL8yhCuBL+xD54tFtjjuP1UusxwZbglCi+PPVy1JlO536HLEaEh+8TJhI803pTRYqGRGWs749NTW0QWvSdoWLqW9c1rP07J+UBw5dBKhndYdBoI0M1Z0YF4aaxCkpThVgK8ic3AVC8itWnKuSMH/f5064a+A8CnPCaqNYkYRBgue2r2SYxHhYgZgymaX2jw5syW5aJP+x7LVqXZmbSfvL+LfE3JEV10KpC4yNi2ykBdA2+epUDQDZ/jvXM7CsZMDRSPx/HCa9rtT717mbCYsvzt4KIhSCSnqi+eqCmRBr9B18QeK+x3CU1+WsqOOYkNA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjQ5NzEwMiwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjNiOTFiNmFhNzEyNGYzMGVkNGFkMWIyYmIwMTJhODI5ODVhMzM2NDA1NTVlMThlNzkyZjk2YWY4ZjU4ZWM2IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10☘ Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50⸕ Mining Speed §7and §6+40☘\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",13:\"§9§lRARE NECKLACE\"],Name:\"§9Titanium Necklace\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"76c2d18b-6cba-36a8-bd27-787014c91604\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oODHpPsVhDyPjRXl2OKTSUPBzjxUuU+u8o7Nu+ezlGDolA0FuQGK4E1s5CHxoCd0SPw8ayj9uTgMmQNGqiJ2kHTpVE4XA2s2dEmX1FK3q3UtveT7bA3B5t7j/IUO+jaKaEQq/czBRoHFeSvx2UShchGG71/M6U4mNYwEgzCj7qCIQr2nD8Sf+oZNnkRNVz4C3c5Wg3he+Ngs6unbCNkYPTBZySHPs/9RXGNka39hMZCQO0bo9nwjusyZ1ThJ5bYCCFpAKyilDcW8Oi0TFSJjf2UcghZq1BzBtsIYRJe4ap8EMUiZKoOCCVJJ053ArHmD27qA5MEUmFXGKmx2eDfmJQljxe5z4MKu0UxCmhNIFdorL8yhCuBL+xD54tFtjjuP1UusxwZbglCi+PPVy1JlO536HLEaEh+8TJhI803pTRYqGRGWs749NTW0QWvSdoWLqW9c1rP07J+UBw5dBKhndYdBoI0M1Z0YF4aaxCkpThVgK8ic3AVC8itWnKuSMH/f5064a+A8CnPCaqNYkYRBgue2r2SYxHhYgZgymaX2jw5syW5aJP+x7LVqXZmbSfvL+LfE3JEV10KpC4yNi2ykBdA2+epUDQDZ/jvXM7CsZMDRSPx/HCa9rtT717mbCYsvzt4KIhSCSnqi+eqCmRBr9B18QeK+x3CU1+WsqOOYkNA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjQ5NzEwMiwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjNiOTFiNmFhNzEyNGYzMGVkNGFkMWIyYmIwMTJhODI5ODVhMzM2NDA1NTVlMThlNzkyZjk2YWY4ZjU4ZWM2IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",13:\"§9§lRARE NECKLACE\"],Name:\"§9Titanium Necklace\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+30",
       "§7Mining Fortune: §6+10",
       "",
-      "§7Grants §6+10☘ Mining Fortune §7while",
+      "§7Grants §6+10 Mining Fortune §7while",
       "§7mining §2Mithril §7and §fTitanium§7.",
       "",
       "§6Full Set Bonus: True Dwarf §7(0/4)",
-      "§7Grants §6+50⸕ Mining Speed §7and §6+40☘",
+      "§7Grants §6+50 Mining Speed §7and §6+40",
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
@@ -92071,7 +92071,7 @@
     "internalname": "TITANIUM_NECKLACE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Necklace",
