@@ -1642,7 +1642,7 @@
   "AMMONITE;4": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §6Ammonite",
-    "nbttag": "{ExtraAttributes:{id:\"AMMONITE;4\",petInfo:\"{\\\"type\\\":\\\"AMMONITE\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d05d927e-f686-323e-9c21-a99d0e0cc2ca\",Properties:{textures:[0:{Name:\"textures\",Signature:\"enb/V0ziWjq/jeAfp3Ia4aAbGp6eBvyy3y/JViIygHWMRMEnG3xsHiQAaSdgeFqjBIuF5PvA7KrRLrRkD7cGxkGchfYmV6JL+RhOzYBeCEAazQsaSHPrdfp3WTbv4xcHjg1p8aRqpeBcEUUmP1+RniWpVNnyYiP3z5vun0o59dAa9eBsb5Ub3AlbtJhswp3ywPDjxnXMokEXOrx+OAvy/C+DQGkrF9TF0c8GTggBPHUxNTaaUy2ET/sXUsYIq3L1D9Ms5txxmqwHTBRRwcac947PFplELapqU4/Yptf3bhcWMS0daVbubtdiFX5WRF4Tt1QAZsJiIPIf+QdHLwzgXdn3YBs1gzEY5P0tVk1PzqWAB5nWBerGEQUHa9z5jcBl7unbJlKLc/lIUMb3lDsBblrfujObuqsRb3YPYI8gUZjG+ilrK6gmXpGsO4u8oxBUvYnKgHLT2vnmx54V9VCiOOOdl9y1weoVXl20dLLM63ET52E0j139Hzo2eu9K2h1tKS64Di7wryWKGoa61tBfes5LMejyxre5OPMtni39uvqIGjrcsuruMad1hTtkmw/A3Gs1b/t3QiJUQ0h9IqRH8YXAlPfwvEjYsVvw83SVoaUNiUMQazmWT4lL9WaMxE6xc8s028Rvkj834eaWDNzRQkjFPXIyhd3/lCl5I8I7eQg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDExNTI5NDE1NiwKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTA3NGE3YmQ5NzZmZTZhYmExNjI0MTYxNzkzYmU1NDdkNTRjODM1Y2Y0MjIyNDNhODUxYmEwOWQxZTY1MDU1MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Pet\",1:\"\",2:\"§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}\",3:\"\",4:\"§6Heart of the Sea\",5:\"§7Grants §3+{0}α Sea Creature Chance\",6:\"§7to your pet for each §5Heart of the\",7:\"§5Mountain §7level.\",8:\"\",9:\"§6Expert Cave Fisher\",10:\"§7Grants §9+{1}⚓ Double Hook Chance\",11:\"§7for each §5Heart of the Mountain §7level\",12:\"§7while in the §5Crystal Hollows§7.\",13:\"\",14:\"§6Gift of the Ammonite\",15:\"§7Each Mining and Fishing level grants\",16:\"§b+{2}☂ Fishing Speed§7, §f+{3}✦ Speed\",17:\"§7and §a+{4}❈ Defense§7.\",18:\"\",19:\"§eRight-click to add this pet to your pet menu!\",20:\"\",21:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Ammonite\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"AMMONITE;4\",petInfo:\"{\\\"type\\\":\\\"AMMONITE\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d05d927e-f686-323e-9c21-a99d0e0cc2ca\",Properties:{textures:[0:{Name:\"textures\",Signature:\"enb/V0ziWjq/jeAfp3Ia4aAbGp6eBvyy3y/JViIygHWMRMEnG3xsHiQAaSdgeFqjBIuF5PvA7KrRLrRkD7cGxkGchfYmV6JL+RhOzYBeCEAazQsaSHPrdfp3WTbv4xcHjg1p8aRqpeBcEUUmP1+RniWpVNnyYiP3z5vun0o59dAa9eBsb5Ub3AlbtJhswp3ywPDjxnXMokEXOrx+OAvy/C+DQGkrF9TF0c8GTggBPHUxNTaaUy2ET/sXUsYIq3L1D9Ms5txxmqwHTBRRwcac947PFplELapqU4/Yptf3bhcWMS0daVbubtdiFX5WRF4Tt1QAZsJiIPIf+QdHLwzgXdn3YBs1gzEY5P0tVk1PzqWAB5nWBerGEQUHa9z5jcBl7unbJlKLc/lIUMb3lDsBblrfujObuqsRb3YPYI8gUZjG+ilrK6gmXpGsO4u8oxBUvYnKgHLT2vnmx54V9VCiOOOdl9y1weoVXl20dLLM63ET52E0j139Hzo2eu9K2h1tKS64Di7wryWKGoa61tBfes5LMejyxre5OPMtni39uvqIGjrcsuruMad1hTtkmw/A3Gs1b/t3QiJUQ0h9IqRH8YXAlPfwvEjYsVvw83SVoaUNiUMQazmWT4lL9WaMxE6xc8s028Rvkj834eaWDNzRQkjFPXIyhd3/lCl5I8I7eQg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDExNTI5NDE1NiwKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTA3NGE3YmQ5NzZmZTZhYmExNjI0MTYxNzkzYmU1NDdkNTRjODM1Y2Y0MjIyNDNhODUxYmEwOWQxZTY1MDU1MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Pet\",1:\"\",2:\"§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}\",3:\"\",4:\"§6Heart of the Sea\",5:\"§7Grants §3+{0} Sea Creature Chance\",6:\"§7to your pet for each §5Heart of the\",7:\"§5Mountain §7level.\",8:\"\",9:\"§6Expert Cave Fisher\",10:\"§7Grants §9+{1}⚓ Double Hook Chance\",11:\"§7for each §5Heart of the Mountain §7level\",12:\"§7while in the §5Crystal Hollows§7.\",13:\"\",14:\"§6Gift of the Ammonite\",15:\"§7Each Mining and Fishing level grants\",16:\"§b+{2}☂ Fishing Speed§7, §f+{3}✦ Speed\",17:\"§7and §a+{4}❈ Defense§7.\",18:\"\",19:\"§eRight-click to add this pet to your pet menu!\",20:\"\",21:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Ammonite\"}}",
     "damage": 3,
     "lore": [
       "§8Fishing Pet",
@@ -1650,7 +1650,7 @@
       "§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}",
       "",
       "§6Heart of the Sea",
-      "§7Grants §3+{0}α Sea Creature Chance",
+      "§7Grants §3+{0} Sea Creature Chance",
       "§7to your pet for each §5Heart of the",
       "§5Mountain §7level.",
       "",
@@ -1671,7 +1671,7 @@
     "internalname": "AMMONITE;4",
     "clickcommand": "",
     "crafttext": "Requires: HotM 4",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ammonite_Pet",
@@ -8812,15 +8812,18 @@
   "CAKE": {
     "itemid": "minecraft:cake",
     "displayname": "§fCake",
-    "nbttag": "{HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCake\"},ExtraAttributes:{id:\"CAKE\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CAKE\"},HideFlags:254,ItemModel:\"minecraft:cake\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCake\"}}",
     "damage": 0,
     "lore": [
       "§f§lCOMMON"
     ],
     "internalname": "CAKE",
-    "modver": "1.3-REL",
-    "vanilla": true,
     "clickcommand": "viewrecipe",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "infoType": "",
+    "info": [],
+    "vanilla": true,
     "recipe": {
       "A1": "MILK_BUCKET:1",
       "A2": "MILK_BUCKET:1",
@@ -9874,15 +9877,18 @@
   "CARROT_STICK": {
     "itemid": "minecraft:carrot_on_a_stick",
     "displayname": "§fCarrot on a Stick",
-    "nbttag": "{HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCarrot on a Stick\"},ExtraAttributes:{id:\"CARROT_STICK\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CARROT_STICK\"},HideFlags:254,ItemModel:\"minecraft:carrot_on_a_stick\",Unbreakable:1B,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fCarrot on a Stick\"}}",
     "damage": 0,
     "lore": [
       "§f§lCOMMON"
     ],
     "internalname": "CARROT_STICK",
-    "modver": "1.3-REL",
-    "vanilla": true,
     "clickcommand": "viewrecipe",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "infoType": "",
+    "info": [],
+    "vanilla": true,
     "recipe": {
       "A1": "FISHING_ROD:1",
       "A2": "",
@@ -39877,10 +39883,10 @@
   "HASTE_BLOCK": {
     "itemid": "minecraft:end_stone",
     "displayname": "§aHaste Block",
-    "nbttag": "{ExtraAttributes:{id:\"HASTE_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:end_stone\",display:{Lore:[0:\"§7Gives §a+100 §f✦ Speed§7 when standing\",1:\"§7on top of this block.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aHaste Block\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"HASTE_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:end_stone\",display:{Lore:[0:\"§7Gives §a+100 §f Speed§7 when standing\",1:\"§7on top of this block.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aHaste Block\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7Gives §a+100 §f✦ Speed§7 when standing",
+      "§7Gives §a+100 §f Speed§7 when standing",
       "§7on top of this block.",
       "",
       "§a§lUNCOMMON"
@@ -39888,7 +39894,7 @@
     "internalname": "HASTE_BLOCK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: End Stone VI",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Haste_Block",
@@ -65187,19 +65193,19 @@
   "POLARVOID_BOOK": {
     "itemid": "minecraft:book",
     "displayname": "§9Polarvoid Book",
-    "nbttag": "{ExtraAttributes:{id:\"POLARVOID_BOOK\"},HideFlags:254,ItemModel:\"minecraft:book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to a drill, grants §6+10⸕\",3:\"§6Mining Speed§7.\",4:\"\",5:\"§7This can be applied to an item up to\",6:\"§a5 §7times!\",7:\"\",8:\"§7If at least 1 book is applied, grants\",9:\"§6+5☘ Mining Fortune§7.\",10:\"\",11:\"§5§kX§5 Rift-Transferable §5§kX\",12:\"§9§lRARE\"],Name:\"§9Polarvoid Book\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"POLARVOID_BOOK\"},HideFlags:254,ItemModel:\"minecraft:book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to a drill, grants §6+10\",3:\"§6Mining Speed§7.\",4:\"\",5:\"§7This can be applied to an item up to\",6:\"§a5 §7times!\",7:\"\",8:\"§7If at least 1 book is applied, grants\",9:\"§6+5 Mining Fortune§7.\",10:\"\",11:\"§5§kX§5 Rift-Transferable §5§kX\",12:\"§9§lRARE\"],Name:\"§9Polarvoid Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
-      "§7When applied to a drill, grants §6+10⸕",
+      "§7When applied to a drill, grants §6+10",
       "§6Mining Speed§7.",
       "",
       "§7This can be applied to an item up to",
       "§a5 §7times!",
       "",
       "§7If at least 1 book is applied, grants",
-      "§6+5☘ Mining Fortune§7.",
+      "§6+5 Mining Fortune§7.",
       "",
       "§5§kX§5 Rift-Transferable §5§kX",
       "§9§lRARE"
@@ -65207,7 +65213,7 @@
     "internalname": "POLARVOID_BOOK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Living Metal Heart IV",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Polarvoid_Book",
@@ -88329,7 +88335,7 @@
     "internalname": "SUNS_GRASP",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g84c3679e",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sun%27s_Grasp"
