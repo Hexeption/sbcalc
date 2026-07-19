@@ -33581,8 +33581,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    ]
   },
   "CAKE_HAT_2026_BLACK": {
     "itemid": "minecraft:skull",
@@ -33609,8 +33611,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    ]
   },
   "CAKE_HAT_2026_GREEN": {
     "itemid": "minecraft:skull",
@@ -33637,8 +33641,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    ]
   },
   "CAKE_HAT_2026_LIME": {
     "itemid": "minecraft:skull",
@@ -33665,8 +33671,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    ]
   },
   "CAKE_HAT_2026_ORANGE": {
     "itemid": "minecraft:skull",
@@ -33693,8 +33701,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    ]
   },
   "CAKE_HAT_2026_PINK": {
     "itemid": "minecraft:skull",
@@ -33721,8 +33731,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    ]
   },
   "CAKE_HAT_2026_PURPLE": {
     "itemid": "minecraft:skull",
@@ -33749,8 +33761,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    ]
   },
   "CAKE_HAT_2026_RED": {
     "itemid": "minecraft:skull",
@@ -33777,8 +33791,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    ]
   },
   "CAKE_HAT_2026_YELLOW": {
     "itemid": "minecraft:skull",
@@ -33805,8 +33821,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+    ]
   },
   "CAKE_SOUL": {
     "itemid": "minecraft:dye",
@@ -144171,7 +144189,8 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Mediocre_Drawing__A_Fish"
+      "https://hypixelskyblock.minecraft.wiki/w/Mediocre_Drawing_of_a_Fish",
+      "https://wiki.hypixel.net/Mediocre_Drawing_Of_A_Fish"
     ]
   },
   "MEDIUM_AGRONOMY_SACK": {
@@ -152982,6 +153001,24 @@
       "C2": "RED_MUSHROOM:1",
       "C3": "RED_MUSHROOM:1"
     }
+  },
+  "MUSHROOM_COLLECTION": {
+    "itemid": "minecraft:red_mushroom",
+    "displayname": "§fMushroom",
+    "nbttag": "{ExtraAttributes:{id:\"MUSHROOM_COLLECTION\"},HideFlags:254,ItemModel:\"minecraft:red_mushroom\",display:{Lore:[0:\"§fCOMMON\"],Name:\"§fMushroom\"}}",
+    "damage": 0,
+    "lore": [
+      "§fCOMMON"
+    ],
+    "internalname": "MUSHROOM_COLLECTION",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Mushroom",
+      "https://wiki.hypixel.net/Mushroom"
+    ]
   },
   "MUSHROOM_COW_ANIMAL": {
     "itemid": "minecraft:skull",
@@ -207707,6 +207744,7 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
     "infoType": "WIKI_URL",
     "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/There_and_Back_Again",
       "https://wiki.hypixel.net/There_And_Back_Again"
     ]
   },
@@ -236148,6 +236186,7 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
     "infoType": "WIKI_URL",
     "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Splendid_Drawing_of_a_Fish",
       "https://wiki.hypixel.net/Splendid_Drawing_Of_A_Fish"
     ]
   },
