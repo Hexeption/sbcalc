@@ -2,8 +2,8 @@ import { create } from "zustand";
 import {
   type CatsArchive,
   extractFile,
-  extractFileAsText,
   extractFileAsObjectURL,
+  extractFileAsText,
   listFiles,
   parseCats,
 } from "@/lib/cats-parser";
@@ -36,11 +36,17 @@ interface TexturePackState {
 }
 
 const STORAGE_KEY = "sbcalc-texture-pack";
+const DEFAULT_PACK_ID = "hypixel";
 
 const PACK_REGISTRY: Omit<
   TexturePackEntry,
   "enabled" | "loaded" | "loading" | "error" | "textures"
 >[] = [
+  {
+    id: "hypixel",
+    name: "Hypixel Official",
+    url: "/hypixel.cats",
+  },
   { id: "fursky", name: "FurfSky Reborn", url: "/fursky.cats" },
   { id: "packshq", name: "PacksHQ", url: "/packshq.cats" },
 ];
@@ -50,7 +56,7 @@ function loadSelectedPack(): string | null {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (raw) return raw;
   } catch {}
-  return PACK_REGISTRY[0]?.id ?? null;
+  return DEFAULT_PACK_ID;
 }
 
 function saveSelectedPack(id: string | null) {
@@ -84,7 +90,7 @@ function stripNs(type: string | undefined): string {
 }
 
 // Walk a model JSON tree and return the first concrete model reference.
-// Handles: model, condition, select, range_dispatch.
+// Handles: model, composite, condition, select, range_dispatch.
 function extractFirstModelRef(obj: unknown): string | null {
   if (!obj || typeof obj !== "object") return null;
   const o = obj as Record<string, unknown>;
@@ -92,6 +98,15 @@ function extractFirstModelRef(obj: unknown): string | null {
 
   if (t === "model" && typeof o.model === "string") {
     return o.model;
+  }
+  if (t === "composite") {
+    const models = o.models;
+    if (Array.isArray(models)) {
+      for (const model of models) {
+        const modelRef = extractFirstModelRef(model);
+        if (modelRef) return modelRef;
+      }
+    }
   }
   if (t === "condition") {
     return extractFirstModelRef(o.on_false) ?? extractFirstModelRef(o.on_true);
@@ -118,22 +133,27 @@ async function indexTextures(
 ): Promise<Map<string, TextureInfo>> {
   const files = listFiles(archive);
 
-  // Step 1: Find all skyblock item definition files
-  // Pattern: /*/assets/skyblock/items/<item_id>.json
+  // Step 1: Find all SkyBlock item definition files.
+  // Supports both the older assets/skyblock/items layout and Hypixel's
+  // official assets/hypixel_skyblock/items layout.
   const sbItemFiles = files.filter((f) => {
     const parts = f.split("/");
+    const assetsIndex = parts.indexOf("assets");
+    if (assetsIndex === -1) return false;
+    const namespace = parts[assetsIndex + 1];
     return (
-      parts.length >= 5 &&
-      parts[2] === "assets" &&
-      parts[3] === "skyblock" &&
-      parts[4] === "items" &&
-      parts[parts.length - 1]!.endsWith(".json")
+      (namespace === "skyblock" || namespace === "hypixel_skyblock") &&
+      parts[assetsIndex + 2] === "items" &&
+      parts.at(-1)?.endsWith(".json")
     );
   });
 
   // Step 2: Build model reference index from item files
   // item_id -> model reference string (e.g., "item_item:item/essence_wither")
   const itemModelRefs = new Map<string, string>();
+  // item_id -> item definition resource location. NEU can have multiple
+  // internal IDs that point at this same location, so it is also a lookup key.
+  const itemAliases = new Map<string, string>();
 
   await Promise.all(
     sbItemFiles.map(async (filePath) => {
@@ -151,6 +171,18 @@ async function indexTextures(
         const fileName = filePath.split("/").pop()!;
         const itemId = fileName.replace(".json", "").toUpperCase();
         itemModelRefs.set(itemId, modelRef);
+
+        const assetsIndex = filePath.indexOf("/assets/");
+        const itemsMarker = "/items/";
+        const itemsIndex = filePath.indexOf(itemsMarker, assetsIndex);
+        if (assetsIndex !== -1 && itemsIndex !== -1) {
+          const namespaceStart = assetsIndex + "/assets/".length;
+          const namespace = filePath.substring(namespaceStart, itemsIndex);
+          const itemPath = filePath
+            .substring(itemsIndex + itemsMarker.length)
+            .replace(/\.json$/, "");
+          itemAliases.set(itemId, `${namespace}:${itemPath}`.toUpperCase());
+        }
       } catch {
         // skip unparseable files
       }
@@ -241,7 +273,11 @@ async function indexTextures(
         }
       }
 
-      textures.set(itemId, { url, frameCount, frametime });
+      const texture = { url, frameCount, frametime };
+      textures.set(itemId, texture);
+
+      const alias = itemAliases.get(itemId);
+      if (alias) textures.set(alias, texture);
     }),
   );
 

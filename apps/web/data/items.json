@@ -21016,8 +21016,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Coal II",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beginner_Mining_Sack"
+    ],
     "recipes": [
       {
         "A1": "COAL:1",
@@ -174396,6 +174398,114 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Zodiac_Monkey_Skin"
     ]
+  },
+  "PET_SKIN_MOOSHROOM_COW_HIGHLAND_BLACK": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Highland Black Mooshroom Cow Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_MOOSHROOM_COW_HIGHLAND_BLACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1d2be2f8-273b-3126-a86d-eebd6eadbcc4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"fuvFSkIOJKXU05OFjpT5HYna7wt0mFuzZiR9T6+mMnSDmzAsbd5ghPUWFgzwckDKSm+fcprTCVg9PWQKx/ApCsp60lqwwSH1o3tTWgxJtTdgyZqZ7fxYkR29f0AP9CXee5rqJlJv0zhwUwWxcVWSuXaWoePzJ74XdZskMS9lq7jKJizi9tHUMuj3llHXwaIv2T8mWu356kV/SJLwMQFHVxSR8HyzeRwfRj0kn+cpdppa4V0bmccM2fYART41rRhPPeVurKF3u/1kyuLQ6OsN3EbRkdb9s6i71xX8s2MU5Acy8kmQ8Gh0tVbKJyw3h5h5IMdmDzr96YiediJVg7O2krJnJvIrqkGcqU62e1jhp2vR3dpNbMz9CoX635tm8VT+angvA3kq1IQZOrr1ks4d8IVMlVkImspdB5X/0jLjUsIK0Qx6IWASP0v9dN71pr+y0oko3dUIw3tjJIhWpLCSwCCky1t0g5nlHvPDCil0uonHLgQTIz9gi1jRWaLLF4G8mDuf0Ta4PuvV0SlhtLg2Fo0OZpokOrJqSfWF0+1SCPwAqLqzOKqXZ+rQ6aMTiJEQJriravR09JBDHNXOKCKyA0qT6BzW36ErlMUCUhLxN1A+ep8k8WzV+4baGKX7FctGJGnTqAa3QKN9VWTNDRfVt3K25Qia9vMDCFiOcKyqLJc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDcyNTc1MzM0OCwKICAicHJvZmlsZUlkIiA6ICI1NjExYmE1MjFmNDM0OWYwOWE0MTI5ZTM0NjQzMDM1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdXlOYW1lZEthaW5lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiMWJkODg1MDEyYWRkMDA4M2RlNzgzNjJkYWE2M2VjOGQzNzhmMWFhZTgxMmZmZGI0OGM5NmZhZDVmZTA3MzAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aMooshroom Cow§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Highland Black Mooshroom Cow Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aMooshroom Cow§7 pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_BLACK",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": []
+  },
+  "PET_SKIN_MOOSHROOM_COW_HIGHLAND_ORANGE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Highland Orange Mooshroom Cow Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_MOOSHROOM_COW_HIGHLAND_ORANGE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"32651b8f-61ca-3a26-972d-b0ba47d9a6ad\",Properties:{textures:[0:{Name:\"textures\",Signature:\"vcQTchey5OJ7l1ge9D+iPFDA8a532fIkHkIUhdLsZ/g4d9d+wB8uLNXXZeaSTMLRZl/k/+MCjWozV8LWW9IsNt3Ori1sUZ2Ma8Jg/BVHA+Qu21FdmuOYES9ML6BRe8Bq+vcrv7BvUeogKToqoQGt4knGCPVIW9//g9RVly7YVaL7maWCxoOQNozUX5Q7hFNdwBVjLEkgbpq6NqGgvNubowYldNnuZMf0tH7ve0QBYRfzObN/7f7CM9sV/MRM4S/37bP+KJvQxV6z5YqTsBPxkvd+6ggU+pTzhDKSZYJqJc3TbRS9+0PelObbc0+epAmQ2VPo2owN3nx402XkV2xzVbjfzRQOYCJ7DHQ35DLwdGFdv4Sfdkv8Iy6J47qMrZXHtehQO/Tyzo6sE096Di8uIwyopIYo4Th6GhI5296dUcKYLXOQuJ+GvXdtsg6n5mBJMD6gJE8OZVOekoKBw2SnWs5rDXduG2lZgAWqLfENagqlHJG2FBqwZP6y5x4sGZEX3leb9tVpJeucUx2y6tmPv/ubbayxGPpalWMPihQcG8raBxiUYMks4nNZgLNU4urqwANaVIUJZE6LZftHwDUn0el45u2VZRs1VFU85epr4pRIQOEIzLrd94JLMOJq1f1SYVus6yAhZckXfEYFmy1mPuURM4DJCKDQCzIHeukquxg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDcyNTc1NTMxMywKICAicHJvZmlsZUlkIiA6ICI2OTY0OGJkMDMwMDU0MDRlOTk4YTI5OTRhNGE4NmY1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJxd2VycmllcXVhcnJpZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZDAyYTYxZGUzMTYxOWI5YjE5MGZlMzRkY2E2ZDA3NzZiYjhmNjBjZjgyNjY4MGI1Nzg1NTFlODFmNDczYTllIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aMooshroom Cow§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Highland Orange Mooshroom Cow Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aMooshroom Cow§7 pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_ORANGE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": []
+  },
+  "PET_SKIN_MOOSHROOM_COW_HIGHLAND_SANDY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Highland Sandy Mooshroom Cow Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_MOOSHROOM_COW_HIGHLAND_SANDY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a09e4f29-4321-39fe-b6c1-9cf302ac87e9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"igX1xLcJWlvsMuENddxwePY8QZ3uHmLUCtxzzaWerfHMqRoGZqso1LkWbwx2ZEkH2p4aTsPhWVQacMOsUV+QRiGclBBk+AyCmVtCwkHnPRyI52669eVl6rOjyAoedqKkdRST1xt5nEs/vTMAoMdHiH6uTYDd3Ol7XLXxelb3WoQiFDXP9yJu4nuvOtJAB4rj2mDg+vjlV3sFoU5kqWhrbOgHnAqqJHPgz0U96qQWhblxSB1zMihxo+6eqPdejZ38y/BA5uxZ2GOHyGJfTQ1RlwNTFMtvOpYgKdklaIw7k2w7cXGtc3QbiWdEMJ8whekU+N1vb9eNUwQFbNh4YZeIvhSvEhWubNF4+lZGzB4LRxt3Neeh1bx6nDkXCLwIYuKZWexl7GVGPUIRAXz21ZE50mlOnulzKqxYZaGUQbcC8dHalvHdmc0/wbilIJ7tBw9xQH6d0X3+9y8+MDnk9/bOdyz+JikI85ERa32xFAjcJXdyvAassYIBKQPB7AQlyOOuzLeFkiK2jCuu12JTf+5+L9v06PH2l2jAQuQiVAcM0dJO/6LrOydWVe1Axy5X2HshshrJH0WOmaPT8jZd3y4eEIYNnTnRuMlEoDYn6LiC6aMt+Fb+USswpTlYM08+g7GLSLOaVmbWtQSOFdLGXU18MQNbBc+eQfBPHUne96upKiE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDcyNTc1NTY0NCwKICAicHJvZmlsZUlkIiA6ICJmZDJlZDMzMzI0Mjk0ZThmOWVlZGNiN2RhMWJiNzlkZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcmFtYWdnIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E4NWZlNmM0ZWQzYTVmYTE5Y2IyMmQyNjQ2ZjMzZmE3MzJiNzZjYmNjNTI3NzQ4Yjc3Y2IxNTIxNzYzMDc0YWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aMooshroom Cow§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Highland Sandy Mooshroom Cow Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aMooshroom Cow§7 pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_SANDY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": []
+  },
+  "PET_SKIN_MOOSHROOM_COW_HIGHLAND_WHITE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Highland White Mooshroom Cow Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_MOOSHROOM_COW_HIGHLAND_WHITE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fbafc9eb-4dbf-3f44-83ef-4ac158e6510d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"UZsYNcu3eG444Ve9/B67TxBMfO7VmroPypJIYCVZRq/DwcKVDSS4x5vXuCcz3wX2O7eskIwtqfel46oLV88SKqvoX1Of+xRsntKmkkDmeavi0mTrH3TnP0xiogFCUPs5KyW3yidvxnCsYMXKyPI07ItTj3Nfl9Rc0GkIX+3/QZs8SgDanjGe4PZO8SVhWffn3fz3a3C+RBERLxTq8eyt1oCT5c/MsztuCWYOnLKG4R0LmaC9AgYV5ftOEoWNS3zstvxndhd2Tcasqgs4rqJNodeFnr60WS3XVSCFtBm666eVrgganjryDqAePEVxL1VZS+OLVw6rKKYLDW9KhT1KdBaFqXcMD/ywKW/OQOQ2BZB8Fs+WuPP2WuNLZaRBajuedW4jtsnertAT4ln+egBghshHL7Vq907HM554Yl2AbLqMZBxHWOQrFPziBUfSmoq+mjF5freGir8HXQ1PHIEz828rLrv+mzUql0W4x3Zk3dO0Nc5PRH39E9TpwZBYm5PdRofKn2/Y07GtNH1JqDEdE/D5sQzXe6seq9el3ENlpE0JgELdhXcpK/AxRUY2TJHlQZ0lvMmBrXdHMm6o5p+Wh/h+KIgzT9XQvxymhWjN6gWVnaU99pE9heTJUaBs4UDAA7j2OU4qRpaIhgzW2QPg2JzzqLGVDA0zlfzpdPLJ3wM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDcyNTc1NjE2MCwKICAicHJvZmlsZUlkIiA6ICJiZDI3NmE5YjU1NWU0MWE1OWZhMmRiMzEzMWFkNzE1OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFZ2dUYW1hZ290Y2hpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VjMDg5YTQ1ZTY2ZWQ2OGJkNjNjMjgxMTlmYzZmODk1NzRmZTUyZTBjYzY5MzI5NmM3NmI3YzRhZmU0ZTc0YmYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aMooshroom Cow§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Highland White Mooshroom Cow Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aMooshroom Cow§7 pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_MOOSHROOM_COW_HIGHLAND_WHITE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": []
   },
   "PET_SKIN_MOOSHROOM_COW_LUNAR_OX": {
     "itemid": "minecraft:skull",

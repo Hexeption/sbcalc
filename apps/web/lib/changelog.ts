@@ -13,6 +13,17 @@ export interface ChangelogEntry {
 // Keep the newest entries first for easy visibility.
 export const CHANGELOG: ChangelogEntry[] = [
   {
+    date: "2026-07-25",
+    title: "July 2026",
+    items: [
+      {
+        title: "Official Hypixel texture pack",
+        description:
+          "Hypixel's official SkyBlock resource pack is now the default for item icons and is refreshed automatically with the daily item data update.",
+      },
+    ],
+  },
+  {
     date: "2026-04-12",
     title: "April 2026",
     items: [

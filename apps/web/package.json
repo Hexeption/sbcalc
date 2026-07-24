@@ -13,11 +13,13 @@
     "react"
   ],
   "scripts": {
-    "generate:recipes": "pnpm --filter sbcalc-web run generate:recipes",
-    "generate:recipes:clean": "pnpm --filter sbcalc-web run generate:recipes:clean",
-    "dev": "pnpm run generate:recipes && next dev --turbopack",
-    "build": "pnpm run generate:recipes && next build",
-    "build:clean": "pnpm run generate:recipes:clean && next build",
+    "generate:recipes": "node ../../scripts/generate-recipes.js",
+    "generate:recipes:clean": "node ../../scripts/generate-recipes-clean.js",
+    "generate:texture-pack": "node ../../scripts/generate-hypixel-texture-pack.js",
+    "generate:data": "pnpm run generate:recipes && pnpm run generate:texture-pack",
+    "dev": "pnpm run generate:data && next dev --turbopack",
+    "build": "pnpm run generate:data && next build",
+    "build:clean": "pnpm run generate:recipes:clean && pnpm run generate:texture-pack && next build",
     "start": "next start",
     "lint": "biome check .",
     "lint:fix": "biome check --write .",

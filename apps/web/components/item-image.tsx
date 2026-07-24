@@ -104,21 +104,29 @@ export function ItemImage({
   }, [init]);
 
   React.useEffect(() => {
-    // Check texture pack first
-    const tex = getTexture(internalname);
-    if (tex) {
-      setTexture(tex);
-      setSrc(tex.url);
-      return;
-    }
-    setTexture(null);
-
     let currentEntry = entry;
 
     // If no entry in recipes, try to get from items data
     if (!currentEntry && itemsData) {
       currentEntry = itemsData[internalname];
     }
+
+    // NEU's ItemModel is also the official pack's item-definition resource
+    // location, and can alias multiple internal IDs to one texture.
+    let itemModel: string | null = null;
+    if (currentEntry?.nbttag) {
+      itemModel = extractFromSNBT(currentEntry.nbttag).itemModel;
+    }
+
+    // Check texture pack first
+    const tex =
+      getTexture(internalname) ?? (itemModel ? getTexture(itemModel) : null);
+    if (tex) {
+      setTexture(tex);
+      setSrc(tex.url);
+      return;
+    }
+    setTexture(null);
 
     // Special handling for SKYBLOCK_COIN
     if (internalname === "SKYBLOCK_COIN") {
@@ -141,11 +149,13 @@ export function ItemImage({
       return;
     }
 
-    // Use ItemModel from nbttag if present, otherwise fallback to itemid
+    // Use vanilla ItemModel values when present. Custom namespaced model IDs
+    // only exist in resource packs and must not be requested from /vanilla/.
     let modelId: string | null = null;
-    if (currentEntry.nbttag) {
-      const { itemModel } = extractFromSNBT(currentEntry.nbttag);
-      if (itemModel) modelId = itemModel;
+    if (itemModel?.startsWith("minecraft:")) {
+      modelId = itemModel.substring("minecraft:".length);
+    } else if (itemModel && !itemModel.includes(":")) {
+      modelId = itemModel;
     }
 
     // Fallback to itemid

@@ -71,6 +71,9 @@ pnpm --filter sbcalc-web run build:clean
 ```
 
 Regular dev/build scripts in `apps/web` will generate data as part of the run.
+They also clone or update the `26.2` branch of Hypixel's official SkyBlock
+resource pack and generate `apps/web/public/hypixel.cats`. The daily data
+workflow commits changes from both upstream repositories.
 
 ## Contributing
 

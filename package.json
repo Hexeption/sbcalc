@@ -31,7 +31,9 @@
     "check:fix": "biome check --write .",
     "format": "biome format --write .",
     "generate:recipes": "node scripts/generate-recipes.js",
-    "generate:recipes:clean": "node scripts/generate-recipes-clean.js"
+    "generate:recipes:clean": "node scripts/generate-recipes-clean.js",
+    "generate:texture-pack": "node scripts/generate-hypixel-texture-pack.js",
+    "generate:data": "pnpm run generate:recipes && pnpm run generate:texture-pack"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.10",

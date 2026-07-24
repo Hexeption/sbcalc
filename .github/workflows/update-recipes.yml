@@ -1,4 +1,4 @@
-name: Update Recipe Data
+name: Update SkyBlock Data
 
 on:
   schedule:
@@ -30,6 +30,9 @@ jobs:
       
       - name: Generate recipes
         run: pnpm run generate:recipes:clean
+
+      - name: Generate official Hypixel texture pack
+        run: pnpm run generate:texture-pack
       
       - name: Check for changes
         id: git-check
@@ -41,6 +44,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add apps/web/data/recipes_items.json apps/web/data/items.json
-          git commit -m "meta: update item data"
+          git add apps/web/data/recipes_items.json apps/web/data/items.json apps/web/public/hypixel.cats
+          git commit -m "meta: update SkyBlock data"
           git push

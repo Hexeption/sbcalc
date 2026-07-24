@@ -1,10 +1,11 @@
 "use client";
 
-import { ExternalLink } from "lucide-react";
 import { Label } from "@workspace/ui/components/label";
+import { ExternalLink } from "lucide-react";
 import { useTexturePackStore } from "@/lib/texture-pack-store";
 
 const packLinks: Record<string, string> = {
+  hypixel: "https://github.com/meowdding/hypixel-pack/tree/26.2",
   fursky: "https://modrinth.com/resourcepack/furfsky-reborn",
   packshq: "https://modrinth.com/resourcepack/packshq",
 };

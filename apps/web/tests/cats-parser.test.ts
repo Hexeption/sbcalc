@@ -9,7 +9,7 @@ import {
   parseCats,
 } from "@/lib/cats-parser";
 
-const PACK_PATH = resolve(import.meta.dirname, "../../../pack.cats");
+const PACK_PATH = resolve(import.meta.dirname, "../public/hypixel.cats");
 
 function loadPack(): ArrayBuffer {
   const buf = readFileSync(PACK_PATH);
