@@ -4560,8 +4560,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Wheat II",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beginner_Agronomy_Sack"
+    ],
     "recipes": [
       {
         "A1": "WHEAT:1",
@@ -4600,8 +4602,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Rotten Flesh II",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beginner_Combat_Sack"
+    ],
     "recipes": [
       {
         "A1": "ROTTEN_FLESH:1",
@@ -4640,8 +4644,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Pufferfish II",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beginner_Fishing_Sack"
+    ],
     "recipes": [
       {
         "A1": "RAW_FISH-3:1",
@@ -4680,8 +4686,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Birch Log II",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beginner_Foraging_Sack"
+    ],
     "recipes": [
       {
         "A1": "LOG-2:1",
@@ -4720,8 +4728,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Raw Mutton II",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beginner_Husbandry_Sack"
+    ],
     "recipes": [
       {
         "A1": "MUTTON:1",
@@ -15800,10 +15810,12 @@
   "CRUX_TALISMAN_1": {
     "itemid": "minecraft:skull",
     "displayname": "§fCrux Talisman",
-    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"30efd643-7a23-3b2c-8411-739e759aaf5f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"WLs99AtorvOAkNKDH6sm+lNkimk9C8ePaXq0Jnk5isoEanbMzXCoP06UDazn9u13kcqBJ5FafaY3ymxeQLr9t39MdnC/zvmd5iEJd770j4dmcDtaM+FhE4GkvuXESyMUtxfln32fq3yoDQAp9N9AcFf0JgPYnkwOoYmkJ0vjqCMrXLO7aR8cBmIv9k4NmwRw5zFtf80JXJcs7wRnqD43sHx9iR6lo5MCjpnZGQ/mBs3AS9irjROJ9+AGKyi20CI2ngSjjtZLXVreYZ6XH03BDNRgSNwqbmGzGII23TL1QRGTSvZVZmQ/rSiq9sWGI8mCseJVJI/UF+BBMqAWWssflWq3f20Xv5Du0p6Wcclj/CHluYTLpGSu40jUXMaMV8mzJ5CWWwFiuqTsRn4WPcxHlbz350+8Sxl9YKFk3nnYeiizrdS0/XwhOTRYTFNTpC2Tg6xPkokEKE6KnSduAB2BBL/n+BSN5BJhMfgpzThLcEAloE4Iq0zHlivGacmuIvSTlRxgZxtTGO20yGQ5e/mFFlGUID1Ie2GgPxOdrWqeeTBXDCN7Koex1az/0jmKem5ja5pa3NRDEA4PULaDsG4fsjn5bI6VbtDNEhMtkpP/hd/X+C4ZKlIQlr3tlYDyCbExfT76ww3T/i4EpLF6D/nhX7MwaYk+a9LNB2GUq25eevI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzI3NzQ3NywKICAicHJvZmlsZUlkIiA6ICIxNmJhNWU4MDJhMmU0ZDJhYjEwZmZiYWJiYmQ1MDdlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGlua3l1c2VyMzMxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YjIyNTRkYmJmNTJjMzg4NTU3ODQ5MTA4ZTkzZGNjNWE5YjNiN2ZhNDdlNjRmNGNhMDYzZGZhYTFhMzAyYzYwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Defeat shies to gain §a+5ф Rift Time §7and §6+5\",1:\"§6Crux Fortune §7per kill milestone.\",2:\"§8Crux Fortune boosts the chance for\",3:\"§8bonus crux drops.\",4:\"\",5:\"§7Kill Milestones\",6:\"  §2- Shy§7: §e0§7/§a10 §7kills\",7:\"\",8:\"§8Works while in Accessory Bag!\",9:\"§f§lCOMMON ACCESSORY\"],Name:\"§fCrux Talisman\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"30efd643-7a23-3b2c-8411-739e759aaf5f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"WLs99AtorvOAkNKDH6sm+lNkimk9C8ePaXq0Jnk5isoEanbMzXCoP06UDazn9u13kcqBJ5FafaY3ymxeQLr9t39MdnC/zvmd5iEJd770j4dmcDtaM+FhE4GkvuXESyMUtxfln32fq3yoDQAp9N9AcFf0JgPYnkwOoYmkJ0vjqCMrXLO7aR8cBmIv9k4NmwRw5zFtf80JXJcs7wRnqD43sHx9iR6lo5MCjpnZGQ/mBs3AS9irjROJ9+AGKyi20CI2ngSjjtZLXVreYZ6XH03BDNRgSNwqbmGzGII23TL1QRGTSvZVZmQ/rSiq9sWGI8mCseJVJI/UF+BBMqAWWssflWq3f20Xv5Du0p6Wcclj/CHluYTLpGSu40jUXMaMV8mzJ5CWWwFiuqTsRn4WPcxHlbz350+8Sxl9YKFk3nnYeiizrdS0/XwhOTRYTFNTpC2Tg6xPkokEKE6KnSduAB2BBL/n+BSN5BJhMfgpzThLcEAloE4Iq0zHlivGacmuIvSTlRxgZxtTGO20yGQ5e/mFFlGUID1Ie2GgPxOdrWqeeTBXDCN7Koex1az/0jmKem5ja5pa3NRDEA4PULaDsG4fsjn5bI6VbtDNEhMtkpP/hd/X+C4ZKlIQlr3tlYDyCbExfT76ww3T/i4EpLF6D/nhX7MwaYk+a9LNB2GUq25eevI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzI3NzQ3NywKICAicHJvZmlsZUlkIiA6ICIxNmJhNWU4MDJhMmU0ZDJhYjEwZmZiYWJiYmQ1MDdlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGlua3l1c2VyMzMxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YjIyNTRkYmJmNTJjMzg4NTU3ODQ5MTA4ZTkzZGNjNWE5YjNiN2ZhNDdlNjRmNGNhMDYzZGZhYTFhMzAyYzYwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7Defeat shies to gain §a+5 Rift Time §7and §6+5\",3:\"§6Crux Fortune §7per kill milestone.\",4:\"§8Crux Fortune boosts the chance for\",5:\"§8bonus crux drops.\",6:\"\",7:\"§7Kill Milestones\",8:\"  §2- Shy§7: §e0§7/§a10 §7kills\",9:\"\",10:\"§8Works while in Accessory Bag!\",11:\"§f§lCOMMON ACCESSORY\"],Name:\"§fCrux Talisman\"}}",
     "damage": 3,
     "lore": [
-      "§7Defeat shies to gain §a+5ф Rift Time §7and §6+5",
+      "§7Accessory Power: §6+3",
+      "",
+      "§7Defeat shies to gain §a+5 Rift Time §7and §6+5",
       "§6Crux Fortune §7per kill milestone.",
       "§8Crux Fortune boosts the chance for",
       "§8bonus crux drops.",
@@ -15817,7 +15829,7 @@
     "internalname": "CRUX_TALISMAN_1",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Crux_Talisman"
@@ -18993,18 +19005,18 @@
   "DISCRITE": {
     "itemid": "minecraft:skull",
     "displayname": "§9Discrite",
-    "nbttag": "{ExtraAttributes:{id:\"DISCRITE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bb2f49bf-5d7d-3f65-9a08-29ccaba0e3c7\",Properties:{textures:[0:{Name:\"textures\",Signature:\"x4MbJCROz+7OpqM9GWLknQF70HKlar6GPsCXlc0nLi2aoZ+XDnrqYxH8DLQGS5ehKv8wetvNs1JHtpsD6JfhXazftS2ctmVeI2DrEsXzrLb/05lISns/pG9weYEWIuoQYocSntx0sZAhfp3pAU5vyMP1FmCLrLnNKQwx4ScQbnjfH3s+XILv0/rN273iwewTNxdpO6XKRHfrmo2mrAvVbwPUe7XBiFw8f4H+31nc8Ta27XzJw0lHikIapd45JFBbhZDNWy2kPwbFPYOsPiWrgmcYFogAxVOP7oDv3j2afZf2yDGS1bKc3HYTm36N7+9tFdQZqS+kSClGPjNe+1z6afGnOh07X7FIawOSb3wAcDqiSY1/BTcnamDVNOvG/7LRoxbCkWrQJ8sDll8au+4d6sCnEhb+NXpB3czK7ZIo56I6prP266FfG/Oc5rQQHP/7kbPcghw56JcwgBz19zf7oXBAAho+WcnI7Cs3mGXk6CXxxBdQl8tDpQnA39/kzQfGvy5KFOmISAIjEJMntvciDlMke0PNmic4TQmTGDa8OEaBp1tE9Lu0gHka/S5W881TtU1TOZVX2IaNekJYe0eZ0crGlgkS1TFudddDp/hcZSUkCoi9fJTz1tF2MRayMyvzoU0nVrdWEKH9nLe6FNJj4NI3MrEnXKcFLhRiSX9kD34=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMzY2NjUzMzk2NywKICAicHJvZmlsZUlkIiA6ICJmNThkZWJkNTlmNTA0MjIyOGY2MDIyMjExZDRjMTQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnZlbnRpdmV0YWxlbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFlYzI5MmIzYWE2NjVkNjAwMWE5OTgzMTM5NjYyMTJlYWM1NDE3ZWE5MGY4M2JhYTQ2YjQ4YTk5NDI2OThmMyIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Consume to boost your §c Health\",1:\"§cRegen §7and §a Rift Time §7for §a60m§7.\",2:\"\",3:\"§7Keep this item in your inventory to\",4:\"§7increase the bonus up to §c+300\",5:\"§cHealth Regen §7and §a+300 Rift Time§7, at\",6:\"§7which point the item §c§oevolves§7!\",7:\"\",8:\"§7Current Bonus: §c+0 Health Regen\",9:\"\",10:\"§9§lPRO TIP!\",11:\"§7Bonus §a Rift Time §7will be granted\",12:\"§7whenever you enter the §dRift§7- only\",13:\"§7while this item is active!\",14:\"\",15:\"§5§kX§5 Rift-Exportable §5§kX\",16:\"§8Loses motes value when crossing\",17:\"§8dimensions.\",18:\"§9§lRARE\"],Name:\"§9Discrite\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DISCRITE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bb2f49bf-5d7d-3f65-9a08-29ccaba0e3c7\",Properties:{textures:[0:{Name:\"textures\",Signature:\"x4MbJCROz+7OpqM9GWLknQF70HKlar6GPsCXlc0nLi2aoZ+XDnrqYxH8DLQGS5ehKv8wetvNs1JHtpsD6JfhXazftS2ctmVeI2DrEsXzrLb/05lISns/pG9weYEWIuoQYocSntx0sZAhfp3pAU5vyMP1FmCLrLnNKQwx4ScQbnjfH3s+XILv0/rN273iwewTNxdpO6XKRHfrmo2mrAvVbwPUe7XBiFw8f4H+31nc8Ta27XzJw0lHikIapd45JFBbhZDNWy2kPwbFPYOsPiWrgmcYFogAxVOP7oDv3j2afZf2yDGS1bKc3HYTm36N7+9tFdQZqS+kSClGPjNe+1z6afGnOh07X7FIawOSb3wAcDqiSY1/BTcnamDVNOvG/7LRoxbCkWrQJ8sDll8au+4d6sCnEhb+NXpB3czK7ZIo56I6prP266FfG/Oc5rQQHP/7kbPcghw56JcwgBz19zf7oXBAAho+WcnI7Cs3mGXk6CXxxBdQl8tDpQnA39/kzQfGvy5KFOmISAIjEJMntvciDlMke0PNmic4TQmTGDa8OEaBp1tE9Lu0gHka/S5W881TtU1TOZVX2IaNekJYe0eZ0crGlgkS1TFudddDp/hcZSUkCoi9fJTz1tF2MRayMyvzoU0nVrdWEKH9nLe6FNJj4NI3MrEnXKcFLhRiSX9kD34=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMzY2NjUzMzk2NywKICAicHJvZmlsZUlkIiA6ICJmNThkZWJkNTlmNTA0MjIyOGY2MDIyMjExZDRjMTQwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1bnZlbnRpdmV0YWxlbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzFlYzI5MmIzYWE2NjVkNjAwMWE5OTgzMTM5NjYyMTJlYWM1NDE3ZWE5MGY4M2JhYTQ2YjQ4YTk5NDI2OThmMyIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Consume to boost your §c Health §7and\",1:\"§a Rift Time §7for §a60m§7.\",2:\"\",3:\"§7Keep this item in your inventory to\",4:\"§7increase the bonus up to §c+150\",5:\"§cHealth §7and §a+150 Rift Time§7, at which\",6:\"§7point the item §c§oevolves§7!\",7:\"\",8:\"§7Current Bonus: §c+0 Health\",9:\"\",10:\"§9§lPRO TIP!\",11:\"§7Bonus §a Rift Time §7will be granted\",12:\"§7whenever you enter the §dRift§7- only\",13:\"§7while this item is active!\",14:\"\",15:\"§5§kX§5 Rift-Exportable §5§kX\",16:\"§8Loses motes value when crossing\",17:\"§8dimensions.\",18:\"§9§lRARE\"],Name:\"§9Discrite\"}}",
     "damage": 3,
     "lore": [
-      "§7Consume to boost your §c Health",
-      "§cRegen §7and §a Rift Time §7for §a60m§7.",
+      "§7Consume to boost your §c Health §7and",
+      "§a Rift Time §7for §a60m§7.",
       "",
       "§7Keep this item in your inventory to",
-      "§7increase the bonus up to §c+300",
-      "§cHealth Regen §7and §a+300 Rift Time§7, at",
-      "§7which point the item §c§oevolves§7!",
+      "§7increase the bonus up to §c+150",
+      "§cHealth §7and §a+150 Rift Time§7, at which",
+      "§7point the item §c§oevolves§7!",
       "",
-      "§7Current Bonus: §c+0 Health Regen",
+      "§7Current Bonus: §c+0 Health",
       "",
       "§9§lPRO TIP!",
       "§7Bonus §a Rift Time §7will be granted",
@@ -19019,7 +19031,7 @@
     "internalname": "DISCRITE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Timite VI",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Discrite"
@@ -19326,7 +19338,7 @@
   "DIVAN_PENDANT": {
     "itemid": "minecraft:skull",
     "displayname": "§6Pendant of Divan",
-    "nbttag": "{ExtraAttributes:{id:\"DIVAN_PENDANT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6d4bc523-904b-32e8-bf9f-d0842aa6fbfb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"xKffTyh5mJMYN1kkfYkGjQP1kCcpDuW54z0aYwKf5mHR8vurL4NLqnTL4lLq4E/Fv0qdcYFSae0J6gJP8juyicrAdLhIasJ8rEf9Ot15iKBL3vTWwP4MQnxuMKga4yj31GOV+7fvakKBWDMv5ghrwtLkKZAJKaTCQvlN2U9pIQreBNCbOJlwmyyHLDqqMqHdpLJzY0g9ZzU2RkW1W+WFGFJeOI/pOTBzbqNoFiTCMvy9XURjAfhPsJnX2oYdo5IZ5MG9H4rxHUkvTnPIDvnRbMHRFX595zCofRHrB9IvIaCnGy3N7xrtfsV7QVtQn5QMGZg8O7G9P5c4j8jC4GesNJvcRIFUR5O+55nzzzw9B5subZ5unbh2upel47p9GNgUcuMNTp/4Ps806gN4WmbyFq5lYBU+7GeQAMYs7hR+ZktwwEI0XSfTCzrDooL4EkA52hZZp/sjkPSnjlYzsec8dS1bBe0gLxY9oxwwSYhIRvOjW9Y3X1XBYTbvd9cG4fIh61xnO5a2A9IknCNHlxeZBl573LlgIFyOQym+LFYSXLvpIPwV5+z6m9ToxIP7ImwglLaOnAuJ1J1zQo5InRdDZZwbPXRBcHRJSmAe99NI2SjrKBQqyFLdpqHoSHft7iMKMoZWy89utQxqw2qTYHhWIgA8I+M4pFXGyRcqgGuUwZo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTI2MjE1NywKICAicHJvZmlsZUlkIiA6ICI2ZjhlYWI1MTVmNTc0MmRhOWYxZDYzMzY1ODAxMDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kZXJGb3hfMjAwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWM3MTM0ZmI1YWJmMGE0OGM5ZTk5Y2I3OWQyY2Y3NTk4YzljZTI4NTkxMWMxOTMxZDQ1ZjgyODhiOGEyMGJjIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+100\",1:\"§7Mining Fortune: §6+25\",2:\"§7Cold Resistance: §b+10\",3:\"§7Gemstones: §8[] []\",4:\"\",5:\"§8Tiered Bonus: Legacy (0/1)\",6:\"§7Grants §5+0.25 Pristine §7and §e+2.5\",7:\"§eGemstone Spread §7while inside the\",8:\"§bGlacite Mineshafts§7.\",9:\"\",10:\"§8§oAn item treasured by the greatest\",11:\"§8§oDwarf who ever lived. Why would he\",12:\"§8§oleave it behind?\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires §5Heart of the Mountain Tier 10§c.\",16:\"§6§lLEGENDARY NECKLACE\"],Name:\"§6Pendant of Divan\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIVAN_PENDANT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6d4bc523-904b-32e8-bf9f-d0842aa6fbfb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"xKffTyh5mJMYN1kkfYkGjQP1kCcpDuW54z0aYwKf5mHR8vurL4NLqnTL4lLq4E/Fv0qdcYFSae0J6gJP8juyicrAdLhIasJ8rEf9Ot15iKBL3vTWwP4MQnxuMKga4yj31GOV+7fvakKBWDMv5ghrwtLkKZAJKaTCQvlN2U9pIQreBNCbOJlwmyyHLDqqMqHdpLJzY0g9ZzU2RkW1W+WFGFJeOI/pOTBzbqNoFiTCMvy9XURjAfhPsJnX2oYdo5IZ5MG9H4rxHUkvTnPIDvnRbMHRFX595zCofRHrB9IvIaCnGy3N7xrtfsV7QVtQn5QMGZg8O7G9P5c4j8jC4GesNJvcRIFUR5O+55nzzzw9B5subZ5unbh2upel47p9GNgUcuMNTp/4Ps806gN4WmbyFq5lYBU+7GeQAMYs7hR+ZktwwEI0XSfTCzrDooL4EkA52hZZp/sjkPSnjlYzsec8dS1bBe0gLxY9oxwwSYhIRvOjW9Y3X1XBYTbvd9cG4fIh61xnO5a2A9IknCNHlxeZBl573LlgIFyOQym+LFYSXLvpIPwV5+z6m9ToxIP7ImwglLaOnAuJ1J1zQo5InRdDZZwbPXRBcHRJSmAe99NI2SjrKBQqyFLdpqHoSHft7iMKMoZWy89utQxqw2qTYHhWIgA8I+M4pFXGyRcqgGuUwZo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTI2MjE1NywKICAicHJvZmlsZUlkIiA6ICI2ZjhlYWI1MTVmNTc0MmRhOWYxZDYzMzY1ODAxMDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kZXJGb3hfMjAwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YWM3MTM0ZmI1YWJmMGE0OGM5ZTk5Y2I3OWQyY2Y3NTk4YzljZTI4NTkxMWMxOTMxZDQ1ZjgyODhiOGEyMGJjIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+100\",1:\"§7Mining Fortune: §6+25\",2:\"§7Cold Resistance: §b+10\",3:\"§7Gemstones: §8[] []\",4:\"\",5:\"§8Tiered Bonus: Legacy (0/1)\",6:\"§7Grants §5+0.25 Pristine §7and §e+2.5\",7:\"§eGemstone Spread §7while inside the\",8:\"§bGlacite Mineshafts§7.\",9:\"\",10:\"§8§oAn item treasured by the greatest\",11:\"§8§oDwarf who ever lived. Why would he\",12:\"§8§oleave it behind?\",13:\"\",14:\"§eRight-click to equip!\",15:\"\",16:\"§8This item can be reforged!\",17:\"§4❣ §cRequires §5Heart of the Mountain Tier 10§c.\",18:\"§6§lLEGENDARY NECKLACE\"],Name:\"§6Pendant of Divan\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+100",
@@ -19343,6 +19355,8 @@
       "§8§oDwarf who ever lived. Why would he",
       "§8§oleave it behind?",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 10§c.",
       "§6§lLEGENDARY NECKLACE"
@@ -19350,7 +19364,7 @@
     "internalname": "DIVAN_PENDANT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 10",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pendant_of_Divan"
@@ -19994,12 +20008,14 @@
   "DWARVEN_HANDWARMERS": {
     "itemid": "minecraft:skull",
     "displayname": "§5Dwarven Handwarmers",
-    "nbttag": "{ExtraAttributes:{id:\"DWARVEN_HANDWARMERS\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7832fa38-404c-3f31-a749-66fe3422bf4e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"qrE6sT7y5+VtWG/pWsUoxoTxp/aPXrpbbF5H6alxNRai2y3Syi1VvG380XLBqo5Pvsd/RAHq8AvkNYAJyFL0M4tkIdjmy4nCpIF0PC4vqf1Yph0opY55laeAhdbAzXBz9Bgx+yZDmVvqbIUWO30RwsHFlOPnqOH8VOOOEOdnYhdBcaRXhLlAY+yH1Hn5p9B2IfbZ9VEiAX5oXSuAxWvPbqumLtw+aQ21IF3Didu+RCM6OOmgbyxOL7HDQaKib8xeWzUGbHoX4K3I9c5cdbBFziOumh01droAULCptleJ/YX9hP3Gx9KBxtIZZNjB6ECN3QIX3i3ubYjzDiCNij5wJ8ZfuXuMv0b3BiaiQVcaQOTxFoygB/XD6bwidMxQxCTqZngCxK/oWyZ/KRuWNHJR+wcCM2UUpWcnrl4+vOvPjkWLCenZY1i5qYh3TfnUuFdKTvLFhNcDNZTcHxx99YugL4Bk8dDKbTvV//1iEQKHmAwqpEOTYBPo0XzQCZgB8dq1N9C7usRwoTvPtSzXR5yjnFMNQt6WGIElAva8JGSwXmpZiNNBgWVKzHSoT054yWp4AfMRw7dwXE1UCXQIuZ4Da+DL7SOEcLm0NiJiN6spAxxYkwIW2/jfdJ4SPcWYfy3CorkMSJsrXSczf16ugrFuAdoeRVTUNZIORAPkjae8PRc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTI0Njg1MywKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMwMWQ5ZjliNmYxOGRkZWVjYzU3YjUyMjkxNmNjNzU2NmMzOTdkNjQ5ZjIzYzMxOGUzZjVlZjY3Y2JjZjI2NiIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+45\",1:\"§7Mining Fortune: §6+30\",2:\"§7Cold Resistance: §b+5\",3:\"\",4:\"§8This item can be reforged!\",5:\"§4❣ §cRequires §5Heart of the Mountain Tier 8§c.\",6:\"§5§lEPIC GLOVES\"],Name:\"§5Dwarven Handwarmers\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DWARVEN_HANDWARMERS\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7832fa38-404c-3f31-a749-66fe3422bf4e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"qrE6sT7y5+VtWG/pWsUoxoTxp/aPXrpbbF5H6alxNRai2y3Syi1VvG380XLBqo5Pvsd/RAHq8AvkNYAJyFL0M4tkIdjmy4nCpIF0PC4vqf1Yph0opY55laeAhdbAzXBz9Bgx+yZDmVvqbIUWO30RwsHFlOPnqOH8VOOOEOdnYhdBcaRXhLlAY+yH1Hn5p9B2IfbZ9VEiAX5oXSuAxWvPbqumLtw+aQ21IF3Didu+RCM6OOmgbyxOL7HDQaKib8xeWzUGbHoX4K3I9c5cdbBFziOumh01droAULCptleJ/YX9hP3Gx9KBxtIZZNjB6ECN3QIX3i3ubYjzDiCNij5wJ8ZfuXuMv0b3BiaiQVcaQOTxFoygB/XD6bwidMxQxCTqZngCxK/oWyZ/KRuWNHJR+wcCM2UUpWcnrl4+vOvPjkWLCenZY1i5qYh3TfnUuFdKTvLFhNcDNZTcHxx99YugL4Bk8dDKbTvV//1iEQKHmAwqpEOTYBPo0XzQCZgB8dq1N9C7usRwoTvPtSzXR5yjnFMNQt6WGIElAva8JGSwXmpZiNNBgWVKzHSoT054yWp4AfMRw7dwXE1UCXQIuZ4Da+DL7SOEcLm0NiJiN6spAxxYkwIW2/jfdJ4SPcWYfy3CorkMSJsrXSczf16ugrFuAdoeRVTUNZIORAPkjae8PRc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTI0Njg1MywKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMwMWQ5ZjliNmYxOGRkZWVjYzU3YjUyMjkxNmNjNzU2NmMzOTdkNjQ5ZjIzYzMxOGUzZjVlZjY3Y2JjZjI2NiIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+45\",1:\"§7Mining Fortune: §6+30\",2:\"§7Cold Resistance: §b+5\",3:\"\",4:\"§eRight-click to equip!\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §5Heart of the Mountain Tier 8§c.\",8:\"§5§lEPIC GLOVES\"],Name:\"§5Dwarven Handwarmers\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+45",
       "§7Mining Fortune: §6+30",
       "§7Cold Resistance: §b+5",
+      "",
+      "§eRight-click to equip!",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 8§c.",
@@ -20008,7 +20024,7 @@
     "internalname": "DWARVEN_HANDWARMERS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 8",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dwarven_Handwarmers"
@@ -27271,9 +27287,11 @@
   "EVERBURNING_FLAME": {
     "itemid": "minecraft:paper",
     "displayname": "§5Everburning Flame",
-    "nbttag": "{ExtraAttributes:{id:\"EVERBURNING_FLAME\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/everburning_flame\",display:{Lore:[0:\"§7Increases the speed of your minion\",1:\"§7by §a35%§7. Unlimited Duration!\",2:\"\",3:\"§6Everburning Bonus§7: §a5% §7extra speed on\",4:\"§7Combat minions.\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Everburning Flame\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"EVERBURNING_FLAME\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/everburning_flame\",display:{Lore:[0:\"§8Minion Fuel\",1:\"\",2:\"§7Increases the speed of your minion\",3:\"§7by §a35%§7. Unlimited Duration!\",4:\"\",5:\"§6Everburning Bonus§7: §a5% §7extra speed on\",6:\"§7Combat minions.\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Everburning Flame\"}}",
     "damage": 0,
     "lore": [
+      "§8Minion Fuel",
+      "",
       "§7Increases the speed of your minion",
       "§7by §a35%§7. Unlimited Duration!",
       "",
@@ -33501,6 +33519,59 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "FULL_JAW_FANGING_KIT": {
+    "itemid": "minecraft:dye",
+    "displayname": "§9Full-Jaw Fanging Kit",
+    "nbttag": "{ExtraAttributes:{id:\"FULL_JAW_FANGING_KIT\"},HideFlags:254,ItemModel:\"minecraft:bone_meal\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Fanged §7reforge when\",4:\"§7combined with a melee weapon.\",5:\"\",6:\"§8§oFangs! Very menacing.\",7:\"\",8:\"§9Fanged §7(§6Legendary§7):\",9:\"§7Strength: §c+60\",10:\"§7Crit Chance: §9+8%\",11:\"§7Attack Speed: §e+9%\",12:\"§7Vitality: §4+4\",13:\"\",14:\"§9Fanged Bonus\",15:\"§7Every §c7th §7melee hit on an enemy\",16:\"§7deals §c+100% §7damage.\",17:\"\",18:\"§4❣ §cRequires §aMining Skill 13§c.\",19:\"\",20:\"§9§lRARE REFORGE STONE\"],Name:\"§9Full-Jaw Fanging Kit\"},ench:[]}",
+    "damage": 15,
+    "lore": [
+      "§8Reforge Stone",
+      "§8Combinable in Anvil",
+      "",
+      "§7Applies the §9Fanged §7reforge when",
+      "§7combined with a melee weapon.",
+      "",
+      "§8§oFangs! Very menacing.",
+      "",
+      "§9Fanged §7(§6Legendary§7):",
+      "§7Strength: §c+60",
+      "§7Crit Chance: §9+8%",
+      "§7Attack Speed: §e+9%",
+      "§7Vitality: §4+4",
+      "",
+      "§9Fanged Bonus",
+      "§7Every §c7th §7melee hit on an enemy",
+      "§7deals §c+100% §7damage.",
+      "",
+      "§4❣ §cRequires §aMining Skill 13§c.",
+      "",
+      "§9§lRARE REFORGE STONE"
+    ],
+    "internalname": "FULL_JAW_FANGING_KIT",
+    "clickcommand": "",
+    "crafttext": "Requires: Hemovibe VII",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Full-Jaw_Fanging_Kit"
+    ],
+    "recipes": [
+      {
+        "A1": "HEMOGLASS:16",
+        "A2": "",
+        "A3": "HEMOGLASS:16",
+        "B1": "ENCHANTED_REDSTONE_BLOCK:1",
+        "B2": "ENCHANTED_REDSTONE_BLOCK:1",
+        "B3": "ENCHANTED_REDSTONE_BLOCK:1",
+        "C1": "ENCHANTED_BONE_BLOCK:1",
+        "C2": "ENCHANTED_BONE_BLOCK:1",
+        "C3": "ENCHANTED_BONE_BLOCK:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "FULL_JAW_FANGING_KIT"
+      }
+    ]
   },
   "FUNGAL_TIP_JAR": {
     "itemid": "minecraft:flower_pot",
@@ -45197,7 +45268,7 @@
   "JADE_BELT": {
     "itemid": "minecraft:skull",
     "displayname": "§5Jade Belt",
-    "nbttag": "{ExtraAttributes:{id:\"JADE_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2313b286-a800-3578-a15a-9af56cb17819\",Properties:{textures:[0:{Name:\"textures\",Signature:\"XhgV2/u9v3/1chm0RBpEaey/sYKr6tK/OAp/1nUtVxCog9esgEDdQQN9/b3tqLu11pKoij6cP8XfG3cuzdAHVVYTGlBgrnS/k0Ybu0YENUa0reK4kw/GPIKDL6rMv/GbGKnZVJsNClQCvvOeW9mM2p7R0oQSsyg9ngdE48f+pObg0rSAHy0STO59asxGT20V5n9xsThbFu5P3yLxSsj2zfukyXJkVLKy+n06/Eea7UTChc/c/oII18aLCdgoDrQ64wbpX7m29AHl8oSuNX8mYIrK5xOYNUyY5GzHwqB4FJXjyMboOyNRt5e5kLUfVozFUbKXCL9kAv1QSEs1oWtlWjkvYDDsa8oyATRNjxnuUVcu/ly9+XewfTLOg03fN2Ng7SWHhLo2lLZ9maKKq6z1XBRyHJolQSAk0lanrjXq96o+87TiHKcKClNJ3CcMydyMDRNecut3fMsvjQkVeMOnZxbdCeXWrGzdOIXEVB3V1J3JvkjFhYKgVRK4egzM2eHDrXEbJvDbTzukKfDD/PT2kR6ORTx3eZyHRlMMU2938kCzMAjHOrb15/8hqraHoLJx3qyFdad/NVZF5Re4H7PqL1QpYnG5x13iJQ5pl7nbf17SRJsI2h4Jj3OkxQyBmpBYdkoc0jxZOZl/U7n5dt38vVEPvJ6t+UBuo/30WCTsiSk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU0NjYzMSwKICAicHJvZmlsZUlkIiA6ICJiZDNhNWRmY2ZkZjg0NDczOTViZDJiZmUwNGY0YzAzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcmVja3Jhc25vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdlZDMwYmEwNDM1MzA3YmYwNGExNTA0YzU4NmE4ZmZkNzk0OWMwNjg0YjBmMDE1NmFhOTNmYjkyMWNjNmRmMDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+30 Mining Fortune §7while\",4:\"§7mining §aJade§7.\",5:\"\",6:\"§6Full Set Bonus: Gemstone Gatherer §7(0/4)\",7:\"§7Grants §6+25 Mining Fortune §7while in\",8:\"§7the §5Crystal Hollows§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",12:\"§5§lEPIC BELT\"],Name:\"§5Jade Belt\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"JADE_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2313b286-a800-3578-a15a-9af56cb17819\",Properties:{textures:[0:{Name:\"textures\",Signature:\"XhgV2/u9v3/1chm0RBpEaey/sYKr6tK/OAp/1nUtVxCog9esgEDdQQN9/b3tqLu11pKoij6cP8XfG3cuzdAHVVYTGlBgrnS/k0Ybu0YENUa0reK4kw/GPIKDL6rMv/GbGKnZVJsNClQCvvOeW9mM2p7R0oQSsyg9ngdE48f+pObg0rSAHy0STO59asxGT20V5n9xsThbFu5P3yLxSsj2zfukyXJkVLKy+n06/Eea7UTChc/c/oII18aLCdgoDrQ64wbpX7m29AHl8oSuNX8mYIrK5xOYNUyY5GzHwqB4FJXjyMboOyNRt5e5kLUfVozFUbKXCL9kAv1QSEs1oWtlWjkvYDDsa8oyATRNjxnuUVcu/ly9+XewfTLOg03fN2Ng7SWHhLo2lLZ9maKKq6z1XBRyHJolQSAk0lanrjXq96o+87TiHKcKClNJ3CcMydyMDRNecut3fMsvjQkVeMOnZxbdCeXWrGzdOIXEVB3V1J3JvkjFhYKgVRK4egzM2eHDrXEbJvDbTzukKfDD/PT2kR6ORTx3eZyHRlMMU2938kCzMAjHOrb15/8hqraHoLJx3qyFdad/NVZF5Re4H7PqL1QpYnG5x13iJQ5pl7nbf17SRJsI2h4Jj3OkxQyBmpBYdkoc0jxZOZl/U7n5dt38vVEPvJ6t+UBuo/30WCTsiSk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU0NjYzMSwKICAicHJvZmlsZUlkIiA6ICJiZDNhNWRmY2ZkZjg0NDczOTViZDJiZmUwNGY0YzAzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwcmVja3Jhc25vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdlZDMwYmEwNDM1MzA3YmYwNGExNTA0YzU4NmE4ZmZkNzk0OWMwNjg0YjBmMDE1NmFhOTNmYjkyMWNjNmRmMDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+30 Mining Fortune §7while\",4:\"§7mining §aJade§7.\",5:\"\",6:\"§6Full Set Bonus: Gemstone Gatherer §7(0/4)\",7:\"§7Grants §6+25 Mining Fortune §7while in\",8:\"§7the §5Crystal Hollows§7.\",9:\"\",10:\"§eRight-click to equip!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",14:\"§5§lEPIC BELT\"],Name:\"§5Jade Belt\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+30",
@@ -45210,6 +45281,8 @@
       "§7Grants §6+25 Mining Fortune §7while in",
       "§7the §5Crystal Hollows§7.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 5§c.",
       "§5§lEPIC BELT"
@@ -45217,7 +45290,7 @@
     "internalname": "JADE_BELT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 5",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Jade_Belt"
@@ -51281,11 +51354,13 @@
   "MANGROVE_GRIPPERS": {
     "itemid": "minecraft:skull",
     "displayname": "§9Mangrove Grippers",
-    "nbttag": "{ExtraAttributes:{id:\"MANGROVE_GRIPPERS\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"69fb99b0-7616-3a26-82f1-938d414c4e9f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"vtmVgh6Ncz9fWgWLTuR5MM1YthcncSoFidFqiE0JRLg+Wzg5Nv+YGKBcl4DGYIZuSdmtd5i5+hb+yW/0+UDrJj1wwV0o7k//wmYDUDFlIbR3DmD6RYYAiiK1T1teSlDzHhGRNdruxBiqLik3nBrGXiuWFy+2CNVA1hk9zJ0Mx6eVJDtztdP1YBOgq46d7VwDX8LshgHi/4RuBwhghc9+Jp0sMYzvFZXu0D49Sb5A6wKxUR0E4BzXhXWdQE8FEjylxVI9vwEilpGhyCgmg4vicIbrabP8InqWlGDzjDz7cdF45LgvoNlFGy1sjF3xHKekbH3cjSKjPljYdsASvDhi6PSDUiKymUnTUOaeFilIQ4LKBcV0XYbP4evxD8aZOn3iVfDGrdPKaiVOWT//uEpEfpzQjNrGZ+YxtqjRAKZuUgQ6UsCoRi5y/oBqC30oCeVMsEkjniI7lUPGM9QR1JYTem+HyfOnzXgR6DWT3NlpZuECmkGUc7ANpRP6DOeszdV4w7asJKnZhoGU6CGgZZXhNMx8ZsUrAyk+Uy7oxaFTkPUkfwmGtGyUVCxy9KGehpOBYqF1wUw/dxGBfGT6s4lwxjEQ5g277MAbB7HM0wNTq5h+2I2qjPx70MPE8wQTQxE2ihat5wwiJv0yqlq1Dc15fLBd1EC5+5pBCgE2orDuq18=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjUyOTA5NCwKICAicHJvZmlsZUlkIiA6ICJhMmI1ZjhlM2MxZDI0ZmUzYTlkMzNiZTFhNzEzYTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXBpb0dvZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYTRjZmE1ZGMwOWZiNDk4YmFiMjg1NDYzYWE4ZDc1NDBkZWNjNGRiYWFmYzQyN2I1NjI1MTg2NWFhMmYzMDhiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Sweep: §2+1\",1:\"§7Foraging Fortune: §6+5\",2:\"\",3:\"§8This item can be reforged!\",4:\"§4❣ §cRequires §aForaging Skill 12§c.\",5:\"§9§lRARE GLOVES\"],Name:\"§9Mangrove Grippers\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MANGROVE_GRIPPERS\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"69fb99b0-7616-3a26-82f1-938d414c4e9f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"vtmVgh6Ncz9fWgWLTuR5MM1YthcncSoFidFqiE0JRLg+Wzg5Nv+YGKBcl4DGYIZuSdmtd5i5+hb+yW/0+UDrJj1wwV0o7k//wmYDUDFlIbR3DmD6RYYAiiK1T1teSlDzHhGRNdruxBiqLik3nBrGXiuWFy+2CNVA1hk9zJ0Mx6eVJDtztdP1YBOgq46d7VwDX8LshgHi/4RuBwhghc9+Jp0sMYzvFZXu0D49Sb5A6wKxUR0E4BzXhXWdQE8FEjylxVI9vwEilpGhyCgmg4vicIbrabP8InqWlGDzjDz7cdF45LgvoNlFGy1sjF3xHKekbH3cjSKjPljYdsASvDhi6PSDUiKymUnTUOaeFilIQ4LKBcV0XYbP4evxD8aZOn3iVfDGrdPKaiVOWT//uEpEfpzQjNrGZ+YxtqjRAKZuUgQ6UsCoRi5y/oBqC30oCeVMsEkjniI7lUPGM9QR1JYTem+HyfOnzXgR6DWT3NlpZuECmkGUc7ANpRP6DOeszdV4w7asJKnZhoGU6CGgZZXhNMx8ZsUrAyk+Uy7oxaFTkPUkfwmGtGyUVCxy9KGehpOBYqF1wUw/dxGBfGT6s4lwxjEQ5g277MAbB7HM0wNTq5h+2I2qjPx70MPE8wQTQxE2ihat5wwiJv0yqlq1Dc15fLBd1EC5+5pBCgE2orDuq18=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjUyOTA5NCwKICAicHJvZmlsZUlkIiA6ICJhMmI1ZjhlM2MxZDI0ZmUzYTlkMzNiZTFhNzEzYTUwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXBpb0dvZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYTRjZmE1ZGMwOWZiNDk4YmFiMjg1NDYzYWE4ZDc1NDBkZWNjNGRiYWFmYzQyN2I1NjI1MTg2NWFhMmYzMDhiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Sweep: §2+1\",1:\"§7Foraging Fortune: §6+5\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 12§c.\",7:\"§9§lRARE GLOVES\"],Name:\"§9Mangrove Grippers\"}}",
     "damage": 3,
     "lore": [
       "§7Sweep: §2+1",
       "§7Foraging Fortune: §6+5",
+      "",
+      "§eRight-click to equip!",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §aForaging Skill 12§c.",
@@ -51294,7 +51369,7 @@
     "internalname": "MANGROVE_GRIPPERS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.0+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mangrove_Grippers"
@@ -51319,11 +51394,13 @@
   "MANGROVE_LOCKET": {
     "itemid": "minecraft:skull",
     "displayname": "§9Mangrove Locket",
-    "nbttag": "{ExtraAttributes:{id:\"MANGROVE_LOCKET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1f008c08-b643-33ed-b47c-ff1be04a8f15\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CxPbWdqgmr7/BEuiGHQUo8kqsLuMVXYCL/U0+K0rK9gNwZbO044HcrYS2fOKj7J5Yun8YSXoyJEnv3sB3jWSPrUsow0h+lUWhcZoqd2xckaq7E0fMePUSnI6xqW8384srLmsB2Qs5QMtI3I7sbmKK4IW1EJg0evYbtpu5Smi6sZlRK7yJdkqaTAkgZJCxAStvVrj/kr8bKiA6moge91uexIl6WTbHWCzYqfuRHHs5dxiglIcauJM8Yodv5sM8V3dRPGU3U7n3FQ56d0/96NE0iD39IcEqY1MtWotIvH49WEc/7QWnfxx79GGNZ/Yy+8yJp1J3r9ssoUbPhQ6VdWWzMX3mqwgj/3vSqBiMHNr7FGJAloaekmFmo1nKTeDabsfr2PhSyW28MbN4/JSKN1Ws95ITV9D4RaGhkQwsCiyay1Vs6Trk+dH8Kql6hSGyd/w+loOmxyBXSvM/kHWUT6wy6Ch1FIHyozKM6T1zYr6MKLkEp73t4anH44dLCgLEO2J+iTYk26yxWTUXMH4I7oLTwPl8yr8TNuaBdT6bHmVOML0I9ujg1/4FUR4p4m0vxFkpU1sU1dp5Ig6zMFpLta2WxdnGGLowHDdwV0C3/qHnMnnf4o86CEgM9knO6vLW6I0KmAMLH5skI1mCuqSbX57Y8ejDJhjDy/PYVaHFfCRUq0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjMyOTg1NSwKICAicHJvZmlsZUlkIiA6ICI2ZjhlYWI1MTVmNTc0MmRhOWYxZDYzMzY1ODAxMDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kZXJGb3hfMjAwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTYzNjlkYTNhN2Q2MWNmMGFkNzkxM2E3ODRkMGUyYTkwMWUwNDJmZTBmNzE3ZjI5ZTY2NWJhNjlkNzYwNGVkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Sweep: §2+1\",1:\"§7Foraging Fortune: §6+5\",2:\"\",3:\"§8This item can be reforged!\",4:\"§4❣ §cRequires §aForaging Skill 12§c.\",5:\"§9§lRARE NECKLACE\"],Name:\"§9Mangrove Locket\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MANGROVE_LOCKET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1f008c08-b643-33ed-b47c-ff1be04a8f15\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CxPbWdqgmr7/BEuiGHQUo8kqsLuMVXYCL/U0+K0rK9gNwZbO044HcrYS2fOKj7J5Yun8YSXoyJEnv3sB3jWSPrUsow0h+lUWhcZoqd2xckaq7E0fMePUSnI6xqW8384srLmsB2Qs5QMtI3I7sbmKK4IW1EJg0evYbtpu5Smi6sZlRK7yJdkqaTAkgZJCxAStvVrj/kr8bKiA6moge91uexIl6WTbHWCzYqfuRHHs5dxiglIcauJM8Yodv5sM8V3dRPGU3U7n3FQ56d0/96NE0iD39IcEqY1MtWotIvH49WEc/7QWnfxx79GGNZ/Yy+8yJp1J3r9ssoUbPhQ6VdWWzMX3mqwgj/3vSqBiMHNr7FGJAloaekmFmo1nKTeDabsfr2PhSyW28MbN4/JSKN1Ws95ITV9D4RaGhkQwsCiyay1Vs6Trk+dH8Kql6hSGyd/w+loOmxyBXSvM/kHWUT6wy6Ch1FIHyozKM6T1zYr6MKLkEp73t4anH44dLCgLEO2J+iTYk26yxWTUXMH4I7oLTwPl8yr8TNuaBdT6bHmVOML0I9ujg1/4FUR4p4m0vxFkpU1sU1dp5Ig6zMFpLta2WxdnGGLowHDdwV0C3/qHnMnnf4o86CEgM9knO6vLW6I0KmAMLH5skI1mCuqSbX57Y8ejDJhjDy/PYVaHFfCRUq0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjMyOTg1NSwKICAicHJvZmlsZUlkIiA6ICI2ZjhlYWI1MTVmNTc0MmRhOWYxZDYzMzY1ODAxMDU4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW5kZXJGb3hfMjAwNiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTYzNjlkYTNhN2Q2MWNmMGFkNzkxM2E3ODRkMGUyYTkwMWUwNDJmZTBmNzE3ZjI5ZTY2NWJhNjlkNzYwNGVkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Sweep: §2+1\",1:\"§7Foraging Fortune: §6+5\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 12§c.\",7:\"§9§lRARE NECKLACE\"],Name:\"§9Mangrove Locket\"}}",
     "damage": 3,
     "lore": [
       "§7Sweep: §2+1",
       "§7Foraging Fortune: §6+5",
+      "",
+      "§eRight-click to equip!",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §aForaging Skill 12§c.",
@@ -51332,7 +51409,7 @@
     "internalname": "MANGROVE_LOCKET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.0+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mangrove_Locket"
@@ -51357,11 +51434,13 @@
   "MANGROVE_VINE": {
     "itemid": "minecraft:skull",
     "displayname": "§9Mangrove Vine",
-    "nbttag": "{ExtraAttributes:{id:\"MANGROVE_VINE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"43502fd1-93bf-35d3-b82e-f6f58e4aca8c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"LPOYn08K8RCP3NkHv6/HjdQw+9Tgj3K+Mtd/cG4mnkVh74eDLlQWSdgXhccLS6NEdSji/wgPOQ3c4MhR2Sal0JUQuH8eyCRbRbympkHV0PNjTNf7bWcYiWjNUo8J11pgME2UwRkGiCgE3qWwDl/2I86DSqimeP7CO/4Va1zLezmfNTRLXnEI8BdKXfxzyDJnKpUumxy0gMl5Xq0lWQrKq9iNDMRWyvXGlvzXnPwdK08o9o1vzAI5RdMwlr8VGO71jsY9o4C4MkXL9ASSeZdT7cqffQLThufG4BQueQNGNYO7jTrJYPWPg5I9+NPJ947f2Es4s1uXAhnuhZhVUf7Q/8V7HIsJSNy4Ub03dpvVMIkuKiUhNU1QRIJJ1jqAeoys4Yj4tfeI4EMimeEcWYekfnqosPq0AAACysMnglqKmL2i3sTF1ByJlq7r2W1NN5JhYlrMR1RevUBLL/g6r7EpVqo6uqBR5g9HBBdhsT/E8YKuIQ2e5BzirDAAR1+xluZHTpuO0KiA0wDwh0uYvJI4OwDQQhdpBWEKvQD/TfNkq4uJ3fBsEBlBdMyUqvl3a80pr3tEZHpChr6evO4is/CN7Z5+NDSvWPaV6hCQyND9jDjFC1K8BY6a1iR9aiYIClNlfUuQvDdsTg0VGOZuKyI7c1hsGyeEO+ugD0o97AReGeE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjM4MjEwNiwKICAicHJvZmlsZUlkIiA6ICI0NWRjNjlmYTIzNjE0OTdkYTQ3ZTI3MTg0ZGE2ZDlkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZXNzeTE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNWQxMGI2NjIxZWQxNGZiMmFiYzQ2NzJjZWY0YTk2YmQwYjFkY2RiZTYwYjQyMGRlZWNlNWZmNDZhYzg3NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Sweep: §2+1\",1:\"§7Foraging Fortune: §6+5\",2:\"\",3:\"§8This item can be reforged!\",4:\"§4❣ §cRequires §aForaging Skill 12§c.\",5:\"§9§lRARE BELT\"],Name:\"§9Mangrove Vine\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MANGROVE_VINE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"43502fd1-93bf-35d3-b82e-f6f58e4aca8c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"LPOYn08K8RCP3NkHv6/HjdQw+9Tgj3K+Mtd/cG4mnkVh74eDLlQWSdgXhccLS6NEdSji/wgPOQ3c4MhR2Sal0JUQuH8eyCRbRbympkHV0PNjTNf7bWcYiWjNUo8J11pgME2UwRkGiCgE3qWwDl/2I86DSqimeP7CO/4Va1zLezmfNTRLXnEI8BdKXfxzyDJnKpUumxy0gMl5Xq0lWQrKq9iNDMRWyvXGlvzXnPwdK08o9o1vzAI5RdMwlr8VGO71jsY9o4C4MkXL9ASSeZdT7cqffQLThufG4BQueQNGNYO7jTrJYPWPg5I9+NPJ947f2Es4s1uXAhnuhZhVUf7Q/8V7HIsJSNy4Ub03dpvVMIkuKiUhNU1QRIJJ1jqAeoys4Yj4tfeI4EMimeEcWYekfnqosPq0AAACysMnglqKmL2i3sTF1ByJlq7r2W1NN5JhYlrMR1RevUBLL/g6r7EpVqo6uqBR5g9HBBdhsT/E8YKuIQ2e5BzirDAAR1+xluZHTpuO0KiA0wDwh0uYvJI4OwDQQhdpBWEKvQD/TfNkq4uJ3fBsEBlBdMyUqvl3a80pr3tEZHpChr6evO4is/CN7Z5+NDSvWPaV6hCQyND9jDjFC1K8BY6a1iR9aiYIClNlfUuQvDdsTg0VGOZuKyI7c1hsGyeEO+ugD0o97AReGeE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjM4MjEwNiwKICAicHJvZmlsZUlkIiA6ICI0NWRjNjlmYTIzNjE0OTdkYTQ3ZTI3MTg0ZGE2ZDlkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZXNzeTE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNWQxMGI2NjIxZWQxNGZiMmFiYzQ2NzJjZWY0YTk2YmQwYjFkY2RiZTYwYjQyMGRlZWNlNWZmNDZhYzg3NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Sweep: §2+1\",1:\"§7Foraging Fortune: §6+5\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 12§c.\",7:\"§9§lRARE BELT\"],Name:\"§9Mangrove Vine\"}}",
     "damage": 3,
     "lore": [
       "§7Sweep: §2+1",
       "§7Foraging Fortune: §6+5",
+      "",
+      "§eRight-click to equip!",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §aForaging Skill 12§c.",
@@ -51370,7 +51449,7 @@
     "internalname": "MANGROVE_VINE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.0+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mangrove_Vine"
@@ -51395,7 +51474,7 @@
   "MANTICORE_CLAW": {
     "itemid": "minecraft:skull",
     "displayname": "§6Manticore Claw",
-    "nbttag": "{ExtraAttributes:{id:\"MANTICORE_CLAW\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"17606af8-b760-3410-9a59-3147b4c35e8d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZtTX56SWprTXjzlECEKzPblxY5JXDVTGEugYJgYUhoiXbHqUrYp9DEt+Xgo2M0C3z7BhzqMNJtCqQQWOYYZ6Po6k6HdXUlY7Sz0MHhk/dDH+VEIeoVygGcZLarrvKRhzLGLuH3PIvo/nn0an8RfejV3fGNt99QDxKie9USHjwB/CrKTW0QjnwTcQ5BF5nJedBfIEa2sxVBpG0wBC5xDQ3ghrW1kiw/lUtuK5KKVGD6upvIz2m/Vde8DfpWMHCectYAzmKoItnvamK8yRPDGz56eKUDak5LokLL27tn2sr4RTxQlUhm9HwQSw0HUhu4M/uGi6gJmdkcCW7hQ8D8ShUer9VXhpANeDxckgA3bx0eUDrIvGDrQrxgwrh7zm3mTunuv6y2E56+Vlu09ZLMzl/9ioXemsKXh0t/KbOcHa97QwjJzJZYhv7RhRVMdQhgGtATKl2AbgnHIVtzA+jtSp7aUk+NPWbdIsUPnEBhW69XobmRyr+HA4Kd0JntAaTrzF5FGJucXlauehaMxn00qK2azTJGA/EGJNy4m6oJpl47g8zg2g6iYBN0X2+cSqh3bjpTllkco5JFWt30ZLC6iXgEiQAuBHr8LypQkQxqBePn6ZquxFIrIcF2nO/TeO0QdBTZuYY1A34qgE0UGthtWJqBn8Ol8JiehZQRLuttEUbdI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1MjUxNDEzNjI2MywKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE2OGQ0ZjYxMDA4ZTBiMDNlYjE3ZTFjNDI0ZGEzM2EyNjUyZjQ2ZGI0YmJkMzdhY2E3YTVmZThmZTA1YmFiMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+20\",1:\"§7Attack Speed: §e+2.5%\",2:\"§7Ferocity: §c+4\",3:\"\",4:\"§6Ability: Chimeric Core \",5:\"§7Copies §a10% §7of your active pet's\",6:\"§cCombat §7stats.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Manticore Claw\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MANTICORE_CLAW\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"17606af8-b760-3410-9a59-3147b4c35e8d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZtTX56SWprTXjzlECEKzPblxY5JXDVTGEugYJgYUhoiXbHqUrYp9DEt+Xgo2M0C3z7BhzqMNJtCqQQWOYYZ6Po6k6HdXUlY7Sz0MHhk/dDH+VEIeoVygGcZLarrvKRhzLGLuH3PIvo/nn0an8RfejV3fGNt99QDxKie9USHjwB/CrKTW0QjnwTcQ5BF5nJedBfIEa2sxVBpG0wBC5xDQ3ghrW1kiw/lUtuK5KKVGD6upvIz2m/Vde8DfpWMHCectYAzmKoItnvamK8yRPDGz56eKUDak5LokLL27tn2sr4RTxQlUhm9HwQSw0HUhu4M/uGi6gJmdkcCW7hQ8D8ShUer9VXhpANeDxckgA3bx0eUDrIvGDrQrxgwrh7zm3mTunuv6y2E56+Vlu09ZLMzl/9ioXemsKXh0t/KbOcHa97QwjJzJZYhv7RhRVMdQhgGtATKl2AbgnHIVtzA+jtSp7aUk+NPWbdIsUPnEBhW69XobmRyr+HA4Kd0JntAaTrzF5FGJucXlauehaMxn00qK2azTJGA/EGJNy4m6oJpl47g8zg2g6iYBN0X2+cSqh3bjpTllkco5JFWt30ZLC6iXgEiQAuBHr8LypQkQxqBePn6ZquxFIrIcF2nO/TeO0QdBTZuYY1A34qgE0UGthtWJqBn8Ol8JiehZQRLuttEUbdI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1MjUxNDEzNjI2MywKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE2OGQ0ZjYxMDA4ZTBiMDNlYjE3ZTFjNDI0ZGEzM2EyNjUyZjQ2ZGI0YmJkMzdhY2E3YTVmZThmZTA1YmFiMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+20\",1:\"§7Attack Speed: §e+2.5%\",2:\"§7Ferocity: §c+4\",3:\"\",4:\"§6Ability: Chimeric Core \",5:\"§7Copies §a10% §7of your active pet's\",6:\"§cCombat §7stats.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Manticore Claw\"}}",
     "damage": 3,
     "lore": [
       "§7Strength: §c+20",
@@ -51406,13 +51485,15 @@
       "§7Copies §a10% §7of your active pet's",
       "§cCombat §7stats.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§6§lLEGENDARY GLOVES"
     ],
     "internalname": "MANTICORE_CLAW",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Manticore_Claw"
@@ -54201,7 +54282,7 @@
   "MITHRIL_BELT": {
     "itemid": "minecraft:skull",
     "displayname": "§aMithril Belt",
-    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1f43be71-3e6f-30f4-9254-4e377322d95e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"sGopMeC9rdnea8dPNb5PGz0TSRAeHz3uaKFdZDeJx7YJEQUxloRWYrQeqHiO9/rgtcG6tL4LlhaLL0KqND0S8+7jVXnlyiFaXf4oz3HQyOhBpoCU0fG9yG9bG24qQOyuiZyeTaWgHWwHxiW1MsGhP0isK8iUWQA5odMJQPP00bEnF/J611YS6vJaoFU5ZTR4RNuDtbmST32aTuXOhLFTmY05rcTs/E8NrCE3ixVM35fUIOHOQ78fwH9oPmcLF8h/VfdClZsDJb/LpmlWH6bVvY0pHNxXhwl6rFnsnKuAiCy3/U1EP46ooQFDO3haAG581vRSq/LHwGp1ZEp8On9pgkvXyF2iDZA3HOONwqPoEJVch1aLdK8FHDw/sL3vCpt1fgAGHFivRszqr2pIJfxTaHJ7mHeNYSUFKkpMWjzhT6aT9sBbqQ21TGC4g5lGjHenRI+kd7V3PDc0ak+ZoWV+sSSduX867XIjS/1M6mPh1ukQ/KZEy9kzqFQS7g+saIwdkeua+3nnxI6M/2Ouj6si8xY6imskS31zzZXMMDmwwE2SJxsh/v/h6eACwvzGiRfu30mnSWoRmbx7gtspKFlsAgoCDsnQ75Jp5ZE8zms75Qe+GOMxEFD/nxrXbDazY3SZXAL1i6IOMSMAR6pb5aM4qig3/4BhQMNbhsoeTxbwfg8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU5OTQ5NywKICAicHJvZmlsZUlkIiA6ICJmY2ZhYTg0MzA0YjE0NDUxOThkNWYxNzQ3ZjI0Y2Q5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXJzVGhlV29sZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNzViZGU0Y2E4NTZhOTk3ZjBiYmMwZDY1ZWUyYTJkZGUyMTViNDAyMGY1ZmZkNWY3ZmU5OWY2ZjEwMjRiZDhhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+20\",1:\"§7Mining Fortune: §6+5\",2:\"\",3:\"§7Grants §6+5 Mining Fortune §7while\",4:\"§7mining §2Mithril§7.\",5:\"\",6:\"§6Full Set Bonus: Dwarf Wannabe §7(0/4)\",7:\"§7Grants §6+30 Mining Speed §7and §6+5\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",13:\"§a§lUNCOMMON BELT\"],Name:\"§aMithril Belt\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1f43be71-3e6f-30f4-9254-4e377322d95e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"sGopMeC9rdnea8dPNb5PGz0TSRAeHz3uaKFdZDeJx7YJEQUxloRWYrQeqHiO9/rgtcG6tL4LlhaLL0KqND0S8+7jVXnlyiFaXf4oz3HQyOhBpoCU0fG9yG9bG24qQOyuiZyeTaWgHWwHxiW1MsGhP0isK8iUWQA5odMJQPP00bEnF/J611YS6vJaoFU5ZTR4RNuDtbmST32aTuXOhLFTmY05rcTs/E8NrCE3ixVM35fUIOHOQ78fwH9oPmcLF8h/VfdClZsDJb/LpmlWH6bVvY0pHNxXhwl6rFnsnKuAiCy3/U1EP46ooQFDO3haAG581vRSq/LHwGp1ZEp8On9pgkvXyF2iDZA3HOONwqPoEJVch1aLdK8FHDw/sL3vCpt1fgAGHFivRszqr2pIJfxTaHJ7mHeNYSUFKkpMWjzhT6aT9sBbqQ21TGC4g5lGjHenRI+kd7V3PDc0ak+ZoWV+sSSduX867XIjS/1M6mPh1ukQ/KZEy9kzqFQS7g+saIwdkeua+3nnxI6M/2Ouj6si8xY6imskS31zzZXMMDmwwE2SJxsh/v/h6eACwvzGiRfu30mnSWoRmbx7gtspKFlsAgoCDsnQ75Jp5ZE8zms75Qe+GOMxEFD/nxrXbDazY3SZXAL1i6IOMSMAR6pb5aM4qig3/4BhQMNbhsoeTxbwfg8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU5OTQ5NywKICAicHJvZmlsZUlkIiA6ICJmY2ZhYTg0MzA0YjE0NDUxOThkNWYxNzQ3ZjI0Y2Q5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXJzVGhlV29sZiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNzViZGU0Y2E4NTZhOTk3ZjBiYmMwZDY1ZWUyYTJkZGUyMTViNDAyMGY1ZmZkNWY3ZmU5OWY2ZjEwMjRiZDhhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+20\",1:\"§7Mining Fortune: §6+5\",2:\"\",3:\"§7Grants §6+5 Mining Fortune §7while\",4:\"§7mining §2Mithril§7.\",5:\"\",6:\"§6Full Set Bonus: Dwarf Wannabe §7(0/4)\",7:\"§7Grants §6+30 Mining Speed §7and §6+5\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",15:\"§a§lUNCOMMON BELT\"],Name:\"§aMithril Belt\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+20",
@@ -54215,6 +54296,8 @@
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 2§c.",
       "§a§lUNCOMMON BELT"
@@ -54222,7 +54305,7 @@
     "internalname": "MITHRIL_BELT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 1",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mithril_Belt"
@@ -54242,7 +54325,7 @@
   "MITHRIL_CLOAK": {
     "itemid": "minecraft:skull",
     "displayname": "§aMithril Cloak",
-    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dfe7437c-a4bd-311c-937f-646672063ed4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uP0WWLfe3IsXJKxhBq1m4ZLb8HY854zpmZC99hVRnRFEg9BUBNnp64ILCXyndbgLB9hxsSQpXdDBcCM2OrinqRrQd8fQCjKpSKFka5kgbyX/OaBE9rv/a72CuTaqWLvNOACumaxtpd//3GXFpzR9/nEEXecl/p5nuiXUVtT6LOE4d8ppr0CfCnH/4DAtFCA+l9+S4NSW9GlKTSqSnYGbMWCk4EC9BcpfFPra2gkQ8MOcz2dyeC89LbQPa8ez5EZYDsqsm8ReBWw/+BXQ4uzsMQcfHbnuk2tEKem1UuMEFBDsxkQfN/5VBaB6R7X7Eq/qxjePDWrzxK1FoOy/OysInkBg8SNGFPSzRhcaLVqZA1ys69lVJyK8k2l1FGWE6oS+b9gpBY6jLEKRiJgoFVTcNebDXDwP6xe3+f5LRR6CBfs33KEdYxhtqyqfBa46EFMTnisLIymAtrMrEORwdtd5li9Kd+Nr4xykxMihJbGChy/DvmDbyy5MAPM4kIQ3rxnMhO3yJWLzZAl4Rhrmm9fnLnkqf25Cx5yccP/tSqq5FmIjd4ph0YhbFeCZqdo2ZYZKPVk+FwuqGByNaqMTlcJvSFtB96MDGKkhU0veMOXWHD3bBoDHxOZYfQshoyeCPlHjTlHRKZJOWj+u80BqgAEyg7432V9TAiLxIYLTsNvDK4o=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjUyNDIwMywKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3YWRhMTk4YjY1ZjMwMTJiMTFkNThiMzM2MWNlYmUzZmQ4NTYwMWRmNzI5YmRjYjllYmFlMmJiYjk1NDQ3ODgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+20\",1:\"§7Mining Fortune: §6+5\",2:\"\",3:\"§7Grants §6+5 Mining Fortune §7while\",4:\"§7mining §2Mithril§7.\",5:\"\",6:\"§6Full Set Bonus: Dwarf Wannabe §7(0/4)\",7:\"§7Grants §6+30 Mining Speed §7and §6+5\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",13:\"§a§lUNCOMMON CLOAK\"],Name:\"§aMithril Cloak\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dfe7437c-a4bd-311c-937f-646672063ed4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uP0WWLfe3IsXJKxhBq1m4ZLb8HY854zpmZC99hVRnRFEg9BUBNnp64ILCXyndbgLB9hxsSQpXdDBcCM2OrinqRrQd8fQCjKpSKFka5kgbyX/OaBE9rv/a72CuTaqWLvNOACumaxtpd//3GXFpzR9/nEEXecl/p5nuiXUVtT6LOE4d8ppr0CfCnH/4DAtFCA+l9+S4NSW9GlKTSqSnYGbMWCk4EC9BcpfFPra2gkQ8MOcz2dyeC89LbQPa8ez5EZYDsqsm8ReBWw/+BXQ4uzsMQcfHbnuk2tEKem1UuMEFBDsxkQfN/5VBaB6R7X7Eq/qxjePDWrzxK1FoOy/OysInkBg8SNGFPSzRhcaLVqZA1ys69lVJyK8k2l1FGWE6oS+b9gpBY6jLEKRiJgoFVTcNebDXDwP6xe3+f5LRR6CBfs33KEdYxhtqyqfBa46EFMTnisLIymAtrMrEORwdtd5li9Kd+Nr4xykxMihJbGChy/DvmDbyy5MAPM4kIQ3rxnMhO3yJWLzZAl4Rhrmm9fnLnkqf25Cx5yccP/tSqq5FmIjd4ph0YhbFeCZqdo2ZYZKPVk+FwuqGByNaqMTlcJvSFtB96MDGKkhU0veMOXWHD3bBoDHxOZYfQshoyeCPlHjTlHRKZJOWj+u80BqgAEyg7432V9TAiLxIYLTsNvDK4o=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjUyNDIwMywKICAicHJvZmlsZUlkIiA6ICJmNTBjOGRkN2FiN2Y0ZmUyYWI4ZGI1M2NjYzRiYWQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWNoYWRvVF9UIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3YWRhMTk4YjY1ZjMwMTJiMTFkNThiMzM2MWNlYmUzZmQ4NTYwMWRmNzI5YmRjYjllYmFlMmJiYjk1NDQ3ODgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+20\",1:\"§7Mining Fortune: §6+5\",2:\"\",3:\"§7Grants §6+5 Mining Fortune §7while\",4:\"§7mining §2Mithril§7.\",5:\"\",6:\"§6Full Set Bonus: Dwarf Wannabe §7(0/4)\",7:\"§7Grants §6+30 Mining Speed §7and §6+5\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",15:\"§a§lUNCOMMON CLOAK\"],Name:\"§aMithril Cloak\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+20",
@@ -54256,6 +54339,8 @@
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 2§c.",
       "§a§lUNCOMMON CLOAK"
@@ -54263,7 +54348,7 @@
     "internalname": "MITHRIL_CLOAK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 1",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mithril_Cloak"
@@ -54544,7 +54629,7 @@
   "MITHRIL_GAUNTLET": {
     "itemid": "minecraft:skull",
     "displayname": "§aMithril Gauntlet",
-    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_GAUNTLET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cb305279-0f25-3d92-828f-68e0d865e335\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CVuvavYIsplXgGNd/vDDTkNDHJPYzTw+HPD5Yh3AfFoCZK5coxpb7UPixlKkpPQ6ZV2RNsWwIrKHV/eqHcHSn4grjzetlC8MeRQ8GWlbuCc9AeZx1pDY5ldhKiK5WI4Hl1pDOjkGLqshg785045en7T9h1CH/QFTHQt05H03djFKDPaq5RZlcE8oodcuGz7XrayzDvM+AtzlhiyRD/ad40xJLl4x0OxxilXDqjotgRKJVFUshw9nBiqQBHWECld7P5WE9l+iy82KuqDle2WXLQTqmH5NRRsuCr0b7qULmPK5tOJIp52dL+YjSn+rvWLBlz8Af/Vp4VG3+Sba2K0Ryllsn4+u58wqhGrbzt/2cimyGjJjI79kTkRysjWbbqq90sNADHvDva5fNoRieIkI8+ss/QTbzdHnsTGc3WnRRGbGoahozbdtINvOvJa4qUUCmrHNYZGulcGUne6p33laqrIXyxcEaD/wPngWJYwwX4lbnJhkq7EXeXmlHYFFyHL4baGSF0D82fJGk+nGe3Mdxlx7MjnBMZsvCbXaD4XASLyAVPgMpXUv7tCoMj23ei4uMtmyHLfmW1Rj2GQ7gr/qPkUJH9uvXgfhNFsjLNiZ/CH0KTEhp87fn4WcLcWbeszlq16Z+vX2xDgpJb1/J5fBj0J/dJX8QAqDGQ+HX4TSnwQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjYwODA0OCwKICAicHJvZmlsZUlkIiA6ICJmYjNhZTU0OTU3ODQ0MGVlODIzODJlMDY2MzlhYTkzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXZWx0ZXJ3ZWlnaHQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFmYTJiOTcxZGNhMTU3Yjc0MmEwZTM3ZGY1ZTIyZDYxMTkyMTQ1NmZkZWM0MjU4ZGQxYWQwZmUwODBlZGM0NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+20\",1:\"§7Mining Fortune: §6+5\",2:\"\",3:\"§7Grants §6+5 Mining Fortune §7while\",4:\"§7mining §2Mithril§7.\",5:\"\",6:\"§6Full Set Bonus: Dwarf Wannabe §7(0/4)\",7:\"§7Grants §6+30 Mining Speed §7and §6+5\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",13:\"§a§lUNCOMMON GLOVES\"],Name:\"§aMithril Gauntlet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_GAUNTLET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cb305279-0f25-3d92-828f-68e0d865e335\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CVuvavYIsplXgGNd/vDDTkNDHJPYzTw+HPD5Yh3AfFoCZK5coxpb7UPixlKkpPQ6ZV2RNsWwIrKHV/eqHcHSn4grjzetlC8MeRQ8GWlbuCc9AeZx1pDY5ldhKiK5WI4Hl1pDOjkGLqshg785045en7T9h1CH/QFTHQt05H03djFKDPaq5RZlcE8oodcuGz7XrayzDvM+AtzlhiyRD/ad40xJLl4x0OxxilXDqjotgRKJVFUshw9nBiqQBHWECld7P5WE9l+iy82KuqDle2WXLQTqmH5NRRsuCr0b7qULmPK5tOJIp52dL+YjSn+rvWLBlz8Af/Vp4VG3+Sba2K0Ryllsn4+u58wqhGrbzt/2cimyGjJjI79kTkRysjWbbqq90sNADHvDva5fNoRieIkI8+ss/QTbzdHnsTGc3WnRRGbGoahozbdtINvOvJa4qUUCmrHNYZGulcGUne6p33laqrIXyxcEaD/wPngWJYwwX4lbnJhkq7EXeXmlHYFFyHL4baGSF0D82fJGk+nGe3Mdxlx7MjnBMZsvCbXaD4XASLyAVPgMpXUv7tCoMj23ei4uMtmyHLfmW1Rj2GQ7gr/qPkUJH9uvXgfhNFsjLNiZ/CH0KTEhp87fn4WcLcWbeszlq16Z+vX2xDgpJb1/J5fBj0J/dJX8QAqDGQ+HX4TSnwQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjYwODA0OCwKICAicHJvZmlsZUlkIiA6ICJmYjNhZTU0OTU3ODQ0MGVlODIzODJlMDY2MzlhYTkzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXZWx0ZXJ3ZWlnaHQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFmYTJiOTcxZGNhMTU3Yjc0MmEwZTM3ZGY1ZTIyZDYxMTkyMTQ1NmZkZWM0MjU4ZGQxYWQwZmUwODBlZGM0NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+20\",1:\"§7Mining Fortune: §6+5\",2:\"\",3:\"§7Grants §6+5 Mining Fortune §7while\",4:\"§7mining §2Mithril§7.\",5:\"\",6:\"§6Full Set Bonus: Dwarf Wannabe §7(0/4)\",7:\"§7Grants §6+30 Mining Speed §7and §6+5\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",15:\"§a§lUNCOMMON GLOVES\"],Name:\"§aMithril Gauntlet\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+20",
@@ -54558,6 +54643,8 @@
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 2§c.",
       "§a§lUNCOMMON GLOVES"
@@ -54565,7 +54652,7 @@
     "internalname": "MITHRIL_GAUNTLET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 1",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mithril_Gauntlet"
@@ -55136,7 +55223,7 @@
   "MITHRIL_NECKLACE": {
     "itemid": "minecraft:skull",
     "displayname": "§aMithril Necklace",
-    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f5dae7ea-e97e-3837-b6ae-922984a1c1b1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"R36NOd187fu+sDTvPuM/b33Lic5AUrpePNuEsP4GaxbP5Vr3vsEWB6hWXif8Ls8JfD2RnqkSjip3VK0U0EGxXm9pBHgXwriPxOReO368Wbs5uvaE15xhHXbRzHnSRqqYsCPHx1ROVZRO/rICsZUlXMr7rpG/W+O3wyIR+nLeEZNxPtOL+VSXhm5Zt2RINT2FA6HUrq+dyzkhSKHQ8GNX1mli8eZsdqzAsJxTZ2gegde/4yY+uc4sorFXxRebvWWBE4QTChxPbaXPUqUL535tW8oNNQjs4XAuR7be5ZofuVYyb/fKhdEb0MXINiYyg0fQdOYOJ69xpy7iEC0Wz+NfQj2RR8pJK9zLxDStiLTYYTFcHteNMZoiZnZp/7WZa2Yc0OR64kYG2JDx8hAj+6Bj7kNJN9Tx46IqL42yq9otCOAwvkk4x4/xW2sUrn8BpjlTuhqEDBV+gpSg9uSmRw33JVgnbZWejSNPYT5mGKewQ0zuWRh8Kg8MEmnqTXfRNfs0t8KSaPwz1xkf44usitQo7hfLHkdTDCNnad7yzrjX15BmnqBfI2n6xofD+qMdUqiMOnnHanMh11ODASP7WflObjD34arvNwuocvwnqTWNnVOSdPPD9VRGSY91HLcATAY1ueBB7qhuL8Hc9G4CPiQtj6DH7FjmqVDz9qzzuLsMgbQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2NTYyNiwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNkZDNhMzUzYWQ1ZmE3OGUyNDJlM2EyYjIwMjVlOTk0NDczMjVmMWYzZjQ3ZDU4YzE5MWZkMzA3MGExZTc3OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+20\",1:\"§7Mining Fortune: §6+5\",2:\"\",3:\"§7Grants §6+5 Mining Fortune §7while\",4:\"§7mining §2Mithril§7.\",5:\"\",6:\"§6Full Set Bonus: Dwarf Wannabe §7(0/4)\",7:\"§7Grants §6+30 Mining Speed §7and §6+5\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",13:\"§a§lUNCOMMON NECKLACE\"],Name:\"§aMithril Necklace\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f5dae7ea-e97e-3837-b6ae-922984a1c1b1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"R36NOd187fu+sDTvPuM/b33Lic5AUrpePNuEsP4GaxbP5Vr3vsEWB6hWXif8Ls8JfD2RnqkSjip3VK0U0EGxXm9pBHgXwriPxOReO368Wbs5uvaE15xhHXbRzHnSRqqYsCPHx1ROVZRO/rICsZUlXMr7rpG/W+O3wyIR+nLeEZNxPtOL+VSXhm5Zt2RINT2FA6HUrq+dyzkhSKHQ8GNX1mli8eZsdqzAsJxTZ2gegde/4yY+uc4sorFXxRebvWWBE4QTChxPbaXPUqUL535tW8oNNQjs4XAuR7be5ZofuVYyb/fKhdEb0MXINiYyg0fQdOYOJ69xpy7iEC0Wz+NfQj2RR8pJK9zLxDStiLTYYTFcHteNMZoiZnZp/7WZa2Yc0OR64kYG2JDx8hAj+6Bj7kNJN9Tx46IqL42yq9otCOAwvkk4x4/xW2sUrn8BpjlTuhqEDBV+gpSg9uSmRw33JVgnbZWejSNPYT5mGKewQ0zuWRh8Kg8MEmnqTXfRNfs0t8KSaPwz1xkf44usitQo7hfLHkdTDCNnad7yzrjX15BmnqBfI2n6xofD+qMdUqiMOnnHanMh11ODASP7WflObjD34arvNwuocvwnqTWNnVOSdPPD9VRGSY91HLcATAY1ueBB7qhuL8Hc9G4CPiQtj6DH7FjmqVDz9qzzuLsMgbQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2NTYyNiwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNkZDNhMzUzYWQ1ZmE3OGUyNDJlM2EyYjIwMjVlOTk0NDczMjVmMWYzZjQ3ZDU4YzE5MWZkMzA3MGExZTc3OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+20\",1:\"§7Mining Fortune: §6+5\",2:\"\",3:\"§7Grants §6+5 Mining Fortune §7while\",4:\"§7mining §2Mithril§7.\",5:\"\",6:\"§6Full Set Bonus: Dwarf Wannabe §7(0/4)\",7:\"§7Grants §6+30 Mining Speed §7and §6+5\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §5Heart of the Mountain Tier 2§c.\",15:\"§a§lUNCOMMON NECKLACE\"],Name:\"§aMithril Necklace\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+20",
@@ -55150,6 +55237,8 @@
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 2§c.",
       "§a§lUNCOMMON NECKLACE"
@@ -55157,7 +55246,7 @@
     "internalname": "MITHRIL_NECKLACE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 1",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mithril_Necklace"
@@ -65047,13 +65136,14 @@
   "POWER_RELIC": {
     "itemid": "minecraft:skull",
     "displayname": "§5Relic of Power",
-    "nbttag": "{ExtraAttributes:{id:\"POWER_RELIC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0d03b59a-2bb1-3f62-94e5-aa08db7a23fc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DbMVdT1onltjh1JOEuPTfQv0tCtTJzrAU8SfXJTzxz31LBk1pFspPzfYsXcZPUKCBuZSBZqGUIkmr/4q1zK1h+I+mU2IKxihHMo9WsmLI4OMQkz7y1bNoLrRTKrPocL7VpVfaB5e84gicIFHsfJkujCxpH9jbky3ex+rrnTVZNiEJI3UqCLkdNzg409TanzohtCsjDkrqGsc0n2CJUQgqycZLomgREE1oMJ+rV7tp/EtE/oPi9BMtxZ176uSszVCM0IVmuZFcmPvesONw04Elj2UuVPmwu4PIY7ItYiIHOlx3J5271ejk95f1EEwpdsis7GCyScBCz2O7fg8tD75F7AMGmlMtgJvXalflMifjyYv6B5vPl0+DsdOSoyk6rCkCit8+aDrhoqOnLIndOK5/aDRWJmzn3alahMUIzeJFj9l6nR87cGBjPVM5KZ3TW08ka2FGgZVnvKjp/7Vtiz/lRKMiT/NH/J+38N5hLujzybE2LvuT8FWmQVmZt0GmwvL5U+vL/lqdFlDWbeZhgnHqIYNemNlnY4doj9hs8o0dtThK+sCfpQP+gWmeRURiLHqSNHa+ajjt32jc1SLWE8yVCsxyQB1H/RUMejx/elGVC7huS6xQne3cB9Exh2o+MY8eSroYIeNDnGvRy+bPDyWMLJ4cC/zplf+unZ1bRTpm0Y=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMDEwODgyNzM3NiwKICAicHJvZmlsZUlkIiA6ICI1OWZmOTU1YzMxYjk0MWI0YWQwNDg4NDk0ODkzNzUzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdhMzQ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4ZmRjODcwMjNjZmYyNjM1NjQ3N2YyZTA5N2EyZGU4M2I1NTBkODhhNmYxYTg3N2RhNGY5NWM0ZGIxMTU2N2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Gemstones:\",1:\" §8[§7☘§8] [§7⸕§8] [§7✧§8] [§7✎§8] [§7❈§8]\",2:\" §8[§7❁§8] [§7❤§8] [§7❂§8] [§7☠§8] [§7☘§8]\",3:\" §8[§7☘§8] [§7☂§8]\",4:\"\",5:\"§7Allows you to harness the power of\",6:\"§a12§7 Gemstones, although only half of\",7:\"§7the normal power can be harnessed!\",8:\"\",9:\"§4❣ §cRequires §5Heart of the Mountain Tier 10§c.\",10:\"§8Works while in Accessory Bag!\",11:\"§5§lEPIC ACCESSORY\"],Name:\"§5Relic of Power\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"POWER_RELIC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0d03b59a-2bb1-3f62-94e5-aa08db7a23fc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DbMVdT1onltjh1JOEuPTfQv0tCtTJzrAU8SfXJTzxz31LBk1pFspPzfYsXcZPUKCBuZSBZqGUIkmr/4q1zK1h+I+mU2IKxihHMo9WsmLI4OMQkz7y1bNoLrRTKrPocL7VpVfaB5e84gicIFHsfJkujCxpH9jbky3ex+rrnTVZNiEJI3UqCLkdNzg409TanzohtCsjDkrqGsc0n2CJUQgqycZLomgREE1oMJ+rV7tp/EtE/oPi9BMtxZ176uSszVCM0IVmuZFcmPvesONw04Elj2UuVPmwu4PIY7ItYiIHOlx3J5271ejk95f1EEwpdsis7GCyScBCz2O7fg8tD75F7AMGmlMtgJvXalflMifjyYv6B5vPl0+DsdOSoyk6rCkCit8+aDrhoqOnLIndOK5/aDRWJmzn3alahMUIzeJFj9l6nR87cGBjPVM5KZ3TW08ka2FGgZVnvKjp/7Vtiz/lRKMiT/NH/J+38N5hLujzybE2LvuT8FWmQVmZt0GmwvL5U+vL/lqdFlDWbeZhgnHqIYNemNlnY4doj9hs8o0dtThK+sCfpQP+gWmeRURiLHqSNHa+ajjt32jc1SLWE8yVCsxyQB1H/RUMejx/elGVC7huS6xQne3cB9Exh2o+MY8eSroYIeNDnGvRy+bPDyWMLJ4cC/zplf+unZ1bRTpm0Y=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMDEwODgyNzM3NiwKICAicHJvZmlsZUlkIiA6ICI1OWZmOTU1YzMxYjk0MWI0YWQwNDg4NDk0ODkzNzUzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdhMzQ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4ZmRjODcwMjNjZmYyNjM1NjQ3N2YyZTA5N2EyZGU4M2I1NTBkODhhNmYxYTg3N2RhNGY5NWM0ZGIxMTU2N2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"§7Gemstones:\",2:\" §8[§7§8] [§7§8] [§7§8] [§7§8] [§7§8]\",3:\" §8[§7§8] [§7§8] [§7§8] [§7§8] [§7§8]\",4:\" §8[§7§8] [§7§8]\",5:\"\",6:\"§7Allows you to harness the power of\",7:\"§a12§7 Gemstones, although only half of\",8:\"§7the normal power can be harnessed!\",9:\"\",10:\"§4❣ §cRequires §5Heart of the Mountain Tier 10§c.\",11:\"§8Works while in Accessory Bag!\",12:\"§5§lEPIC ACCESSORY\"],Name:\"§5Relic of Power\"}}",
     "damage": 3,
     "lore": [
+      "§7Accessory Power: §6+12",
       "§7Gemstones:",
-      " §8[§7☘§8] [§7⸕§8] [§7✧§8] [§7✎§8] [§7❈§8]",
-      " §8[§7❁§8] [§7❤§8] [§7❂§8] [§7☠§8] [§7☘§8]",
-      " §8[§7☘§8] [§7☂§8]",
+      " §8[§7§8] [§7§8] [§7§8] [§7§8] [§7§8]",
+      " §8[§7§8] [§7§8] [§7§8] [§7§8] [§7§8]",
+      " §8[§7§8] [§7§8]",
       "",
       "§7Allows you to harness the power of",
       "§a12§7 Gemstones, although only half of",
@@ -65066,7 +65156,7 @@
     "internalname": "POWER_RELIC",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 10",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+gf6d72409",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Relic_of_Power"
@@ -65784,7 +65874,7 @@
   "PRIMORDIAL_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§6Primordial Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+150\",1:\"§7Defense: §a+115\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+110\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§4This item is Arachnal !\",18:\"\",19:\"§6Extra Bonus: §aAnti-Toxin\",20:\"§7Healing reduction is §a50%§7 less\",21:\"§7effective on you.\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4☠ §cRequires §5Spider Slayer 7§c.\",25:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Primordial Chestplate\",color:923446}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+150\",1:\"§7Defense: §a+115\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+110\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§4This item is Arachnal !\",18:\"\",19:\"§6Extra Bonus: §aAnti-Toxin\",20:\"§cTarantula Broodfather's §4 Vitality\",21:\"§7reduction is §a50% §7less effective\",22:\"§7against you.\",23:\"\",24:\"§8This item can be reforged!\",25:\"§4☠ §cRequires §5Spider Slayer 7§c.\",26:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Primordial Chestplate\",color:923446}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+150",
@@ -65807,8 +65897,9 @@
       "§4This item is Arachnal !",
       "",
       "§6Extra Bonus: §aAnti-Toxin",
-      "§7Healing reduction is §a50%§7 less",
-      "§7effective on you.",
+      "§cTarantula Broodfather's §4 Vitality",
+      "§7reduction is §a50% §7less effective",
+      "§7against you.",
       "",
       "§8This item can be reforged!",
       "§4☠ §cRequires §5Spider Slayer 7§c.",
@@ -65817,7 +65908,7 @@
     "internalname": "PRIMORDIAL_CHESTPLATE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Primordial_Chestplate"
@@ -73134,8 +73225,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Salty_Nozzle"
+    ],
     "recipes": [
       {
         "A1": "",
@@ -73685,7 +73778,7 @@
   "SAPPHIRE_CLOAK": {
     "itemid": "minecraft:skull",
     "displayname": "§5Sapphire Cloak",
-    "nbttag": "{ExtraAttributes:{id:\"SAPPHIRE_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"65009073-9902-3bdc-92f1-8733f20f7ef5\",Properties:{textures:[0:{Name:\"textures\",Signature:\"UMjYoC9/6tRAjGsjFZnk7LccYYiZvFubrsAqDgtF09l8TIEx0/aV18sM4w7XeMVrak+OTgtOKgN1vlaS8J1OFk3AzOzwHlGu9u5t503yQH/Y0npA5+YNFhsNanMviX70pYLp7ZXYSOg/oifktjEkZ25Zh2F9gzAhjQNhtnG9rRJWlRYKoEYtkkqBKV70LY0NzfEW8JEfsen+2PD2Qaqnj4TvqtZnGwbPOlXPhC9CNcLN8bbSjLhryvjiYjF4C2/2MTJscLcecyZ+RH+5H/6xlz69VMOha6cNAgKG1XCFlmo60LCiX3mbVsAtTN7eX+bGSFYpH1vC33HVJdFMZlgMHPCJbkx2FXWrRR5VytqkSH9N1b+CbJlyeuDGijCFJr8StbYygd9en1KXn3TfwTakwfK3MiJ+tB2itAd5l72AOxuDsF/dWhbF28+5cZbMeyTMqlMwM06JJ8MPU9v6nTEjxqieYtOS7mS8eMWlU75iiGSdiIxH82mJxJLBTdgE4D9BqygWb0FyMZEDB+FxTf0zM8BbZuhtY3BptooAssfc2z3OTQG2G4OCinm/mULe0AwZqfV0Uy1wcKsOWlTsvREj3XVgO7YdnWTXXgtHZijw3ojhY9PrNSN1OhK3V9Gg2++ttBCHAFJQzirXs6l8oFUQW3lQ7R7bekA6WKR5yL+ut7E=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjUyMDUzMSwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MWZjMjY3YmM3NjE2MmNmMTUxN2U5ZTVmNDg3OGY4NzAwNGQ2Y2I5ODFmNGYwMDc1N2RjNDAxNDI3YjljMTBkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+30 Mining Fortune §7while\",4:\"§7mining §bSapphire§7.\",5:\"\",6:\"§6Full Set Bonus: Gemstone Gatherer §7(0/4)\",7:\"§7Grants §6+25 Mining Fortune §7while in\",8:\"§7the §5Crystal Hollows§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",12:\"§5§lEPIC CLOAK\"],Name:\"§5Sapphire Cloak\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SAPPHIRE_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"65009073-9902-3bdc-92f1-8733f20f7ef5\",Properties:{textures:[0:{Name:\"textures\",Signature:\"UMjYoC9/6tRAjGsjFZnk7LccYYiZvFubrsAqDgtF09l8TIEx0/aV18sM4w7XeMVrak+OTgtOKgN1vlaS8J1OFk3AzOzwHlGu9u5t503yQH/Y0npA5+YNFhsNanMviX70pYLp7ZXYSOg/oifktjEkZ25Zh2F9gzAhjQNhtnG9rRJWlRYKoEYtkkqBKV70LY0NzfEW8JEfsen+2PD2Qaqnj4TvqtZnGwbPOlXPhC9CNcLN8bbSjLhryvjiYjF4C2/2MTJscLcecyZ+RH+5H/6xlz69VMOha6cNAgKG1XCFlmo60LCiX3mbVsAtTN7eX+bGSFYpH1vC33HVJdFMZlgMHPCJbkx2FXWrRR5VytqkSH9N1b+CbJlyeuDGijCFJr8StbYygd9en1KXn3TfwTakwfK3MiJ+tB2itAd5l72AOxuDsF/dWhbF28+5cZbMeyTMqlMwM06JJ8MPU9v6nTEjxqieYtOS7mS8eMWlU75iiGSdiIxH82mJxJLBTdgE4D9BqygWb0FyMZEDB+FxTf0zM8BbZuhtY3BptooAssfc2z3OTQG2G4OCinm/mULe0AwZqfV0Uy1wcKsOWlTsvREj3XVgO7YdnWTXXgtHZijw3ojhY9PrNSN1OhK3V9Gg2++ttBCHAFJQzirXs6l8oFUQW3lQ7R7bekA6WKR5yL+ut7E=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjUyMDUzMSwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MWZjMjY3YmM3NjE2MmNmMTUxN2U5ZTVmNDg3OGY4NzAwNGQ2Y2I5ODFmNGYwMDc1N2RjNDAxNDI3YjljMTBkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+30 Mining Fortune §7while\",4:\"§7mining §bSapphire§7.\",5:\"\",6:\"§6Full Set Bonus: Gemstone Gatherer §7(0/4)\",7:\"§7Grants §6+25 Mining Fortune §7while in\",8:\"§7the §5Crystal Hollows§7.\",9:\"\",10:\"§eRight-click to equip!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §5Heart of the Mountain Tier 5§c.\",14:\"§5§lEPIC CLOAK\"],Name:\"§5Sapphire Cloak\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+30",
@@ -73698,6 +73791,8 @@
       "§7Grants §6+25 Mining Fortune §7while in",
       "§7the §5Crystal Hollows§7.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 5§c.",
       "§5§lEPIC CLOAK"
@@ -73705,7 +73800,7 @@
     "internalname": "SAPPHIRE_CLOAK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 5",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sapphire_Cloak"
@@ -74562,9 +74657,11 @@
   "SEA_LANTERN_HAT": {
     "itemid": "minecraft:sea_lantern",
     "displayname": "§aSea Lantern Hat",
-    "nbttag": "{ExtraAttributes:{id:\"SEA_LANTERN_HAT\"},HideFlags:254,ItemModel:\"minecraft:sea_lantern\",display:{Lore:[0:\"§7Breathe §a5x §7as long underwater when\",1:\"§7wearing!\",2:\"\",3:\"§8This item can be reforged!\",4:\"§a§lUNCOMMON HELMET\"],Name:\"§aSea Lantern Hat\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SEA_LANTERN_HAT\"},HideFlags:254,ItemModel:\"minecraft:sea_lantern\",display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7Breathe §a5x §7as long underwater when\",3:\"§7wearing!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON HELMET\"],Name:\"§aSea Lantern Hat\"}}",
     "damage": 0,
     "lore": [
+      "§8Minion Upgrade",
+      "",
       "§7Breathe §a5x §7as long underwater when",
       "§7wearing!",
       "",
@@ -74574,7 +74671,7 @@
     "internalname": "SEA_LANTERN_HAT",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sea_Lantern_Hat"
@@ -79015,9 +79112,11 @@
   "SOULFLOW_BATTERY": {
     "itemid": "minecraft:skull",
     "displayname": "§9Soulflow Battery",
-    "nbttag": "{ExtraAttributes:{id:\"SOULFLOW_BATTERY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1756f5b9-5b78-36bd-b840-5f6a27e8f99e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uwqX2uKa5Zj6R6jOaAYu3DFH/F1lqPSRIcoSBFtHYc/ywf7peLgY5zyjZ1t3d7YPUOYzxes12LycRXclUb6RBuLjp3/PYniQdDdZHG49ZHlcEF2BOJ9JOcrM7SCKLc3YDJ7tparhW+AwcE6HHSrigXEIskYq+p2CoMla9oLgK4byMw/rl45eU3WlkXzYZN+NGPKwhsmsiEmcSj8BjTdPoFpxQTEqkFPfv/Eghs+Av9CH+1q5yy0D2SnPZDvEm6eXCKK7/XntY6VVvonksbnjAHOcPHY9zMAop6+6yC2+aoQwgvFk1oyPB6ysNivGZW4l4AivnthuFk5vHHthMFBeIpnhDkQwCiwlZRtx1tSRqomlBp5ZKe2/UJmtQTDVkicyCagI6y+vwHss1fYaBw/wS//rwO+EA5hgPcG+Of4uxKKboNN8RLqCR6TvFJbzXjMK+JA7oRhxRKS0OnzwWkXCRwKz/cpjjZd1NAE6CqYCOUgm8M6wzWJ+r1LVaSwbKG3vnmZrIWrU+N3ayjC3baJRFAyUN/LgZOFgZBDmDxu06Jgm4U6/e2lasuPbIv5JmKcPfcJL0XUYq2PbI7v76Kd4F13OkQ0Cx39nfTZkIfhBhgmRZwwbJBhEONbDkrsgNn6+Q1Z5qfhVbwsV8/hGEeJj/XrrxvWt5q/+fmdhZNMJ564=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0ODE3NDU2MDgxOCwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2OGMxZmE0YTIxYmE0ZjI3ZGNiMzBhYjNiZmFiMGRjMjJhMWU0ZmNmOWVkMTJjMWQ3YTcwZmViMDdmOGQ3YWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Internalized: §30⸎ Soulflow\",1:\"\",2:\"§6Ability: Overflow Mana \",3:\"§7When leaving combat, convert up to\",4:\"§34⸎ Soulflow §7into §3400 Overflow\",5:\"§3Mana§7.\",6:\"\",7:\"§7Enabled: §aOn\",8:\"§eRight-click to toggle!\",9:\"\",10:\"§8Soulflow from abilities is drained from\",11:\"§8your internalized ⸎.\",12:\"\",13:\"§4☠ §cRequires §5Enderman Slayer 5§c.\",14:\"§8Works while in Accessory Bag!\",15:\"§9§lRARE ACCESSORY\"],Name:\"§9Soulflow Battery\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SOULFLOW_BATTERY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1756f5b9-5b78-36bd-b840-5f6a27e8f99e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uwqX2uKa5Zj6R6jOaAYu3DFH/F1lqPSRIcoSBFtHYc/ywf7peLgY5zyjZ1t3d7YPUOYzxes12LycRXclUb6RBuLjp3/PYniQdDdZHG49ZHlcEF2BOJ9JOcrM7SCKLc3YDJ7tparhW+AwcE6HHSrigXEIskYq+p2CoMla9oLgK4byMw/rl45eU3WlkXzYZN+NGPKwhsmsiEmcSj8BjTdPoFpxQTEqkFPfv/Eghs+Av9CH+1q5yy0D2SnPZDvEm6eXCKK7/XntY6VVvonksbnjAHOcPHY9zMAop6+6yC2+aoQwgvFk1oyPB6ysNivGZW4l4AivnthuFk5vHHthMFBeIpnhDkQwCiwlZRtx1tSRqomlBp5ZKe2/UJmtQTDVkicyCagI6y+vwHss1fYaBw/wS//rwO+EA5hgPcG+Of4uxKKboNN8RLqCR6TvFJbzXjMK+JA7oRhxRKS0OnzwWkXCRwKz/cpjjZd1NAE6CqYCOUgm8M6wzWJ+r1LVaSwbKG3vnmZrIWrU+N3ayjC3baJRFAyUN/LgZOFgZBDmDxu06Jgm4U6/e2lasuPbIv5JmKcPfcJL0XUYq2PbI7v76Kd4F13OkQ0Cx39nfTZkIfhBhgmRZwwbJBhEONbDkrsgNn6+Q1Z5qfhVbwsV8/hGEeJj/XrrxvWt5q/+fmdhZNMJ564=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0ODE3NDU2MDgxOCwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2OGMxZmE0YTIxYmE0ZjI3ZGNiMzBhYjNiZmFiMGRjMjJhMWU0ZmNmOWVkMTJjMWQ3YTcwZmViMDdmOGQ3YWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Internalized: §30⸎ Soulflow\",3:\"\",4:\"§6Ability: Overflow Mana \",5:\"§7When leaving combat, convert up to\",6:\"§34⸎ Soulflow §7into §3400 Overflow\",7:\"§3Mana§7.\",8:\"\",9:\"§7Enabled: §aOn\",10:\"§eRight-click to toggle!\",11:\"\",12:\"§8Soulflow from abilities is drained from\",13:\"§8your internalized ⸎.\",14:\"\",15:\"§4☠ §cRequires §5Enderman Slayer 5§c.\",16:\"§8Works while in Accessory Bag!\",17:\"§9§lRARE ACCESSORY\"],Name:\"§9Soulflow Battery\"}}",
     "damage": 3,
     "lore": [
+      "§7Accessory Power: §6+8",
+      "",
       "§7Internalized: §30⸎ Soulflow",
       "",
       "§6Ability: Overflow Mana ",
@@ -79038,7 +79137,7 @@
     "internalname": "SOULFLOW_BATTERY",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Enderman Slayer 5",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Soulflow_Battery"
@@ -79101,12 +79200,12 @@
   "SOULFLOW_PILE": {
     "itemid": "minecraft:skull",
     "displayname": "§aSoulflow Pile",
-    "nbttag": "{ExtraAttributes:{id:\"SOULFLOW_PILE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1756f5b9-5b78-36bd-b840-5f6a27e8f99e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uwqX2uKa5Zj6R6jOaAYu3DFH/F1lqPSRIcoSBFtHYc/ywf7peLgY5zyjZ1t3d7YPUOYzxes12LycRXclUb6RBuLjp3/PYniQdDdZHG49ZHlcEF2BOJ9JOcrM7SCKLc3YDJ7tparhW+AwcE6HHSrigXEIskYq+p2CoMla9oLgK4byMw/rl45eU3WlkXzYZN+NGPKwhsmsiEmcSj8BjTdPoFpxQTEqkFPfv/Eghs+Av9CH+1q5yy0D2SnPZDvEm6eXCKK7/XntY6VVvonksbnjAHOcPHY9zMAop6+6yC2+aoQwgvFk1oyPB6ysNivGZW4l4AivnthuFk5vHHthMFBeIpnhDkQwCiwlZRtx1tSRqomlBp5ZKe2/UJmtQTDVkicyCagI6y+vwHss1fYaBw/wS//rwO+EA5hgPcG+Of4uxKKboNN8RLqCR6TvFJbzXjMK+JA7oRhxRKS0OnzwWkXCRwKz/cpjjZd1NAE6CqYCOUgm8M6wzWJ+r1LVaSwbKG3vnmZrIWrU+N3ayjC3baJRFAyUN/LgZOFgZBDmDxu06Jgm4U6/e2lasuPbIv5JmKcPfcJL0XUYq2PbI7v76Kd4F13OkQ0Cx39nfTZkIfhBhgmRZwwbJBhEONbDkrsgNn6+Q1Z5qfhVbwsV8/hGEeJj/XrrxvWt5q/+fmdhZNMJ564=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0ODE3NDU2MDgxOCwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2OGMxZmE0YTIxYmE0ZjI3ZGNiMzBhYjNiZmFiMGRjMjJhMWU0ZmNmOWVkMTJjMWQ3YTcwZmViMDdmOGQ3YWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Internalized: §3153,888⸎ Soulflow\",3:\"\",4:\"§6Ability: Overflow Mana \",5:\"§7When leaving combat, convert up to\",6:\"§35⸎ Soulflow §7into §3200 Overflow\",7:\"§3Mana§7.\",8:\"\",9:\"§7Enabled: §aOn\",10:\"§eRight-click to toggle!\",11:\"\",12:\"§8Soulflow from abilities is drained from\",13:\"§8your internalized ⸎.\",14:\"\",15:\"§8Works while in Accessory Bag!\",16:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aSoulflow Pile\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SOULFLOW_PILE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1756f5b9-5b78-36bd-b840-5f6a27e8f99e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uwqX2uKa5Zj6R6jOaAYu3DFH/F1lqPSRIcoSBFtHYc/ywf7peLgY5zyjZ1t3d7YPUOYzxes12LycRXclUb6RBuLjp3/PYniQdDdZHG49ZHlcEF2BOJ9JOcrM7SCKLc3YDJ7tparhW+AwcE6HHSrigXEIskYq+p2CoMla9oLgK4byMw/rl45eU3WlkXzYZN+NGPKwhsmsiEmcSj8BjTdPoFpxQTEqkFPfv/Eghs+Av9CH+1q5yy0D2SnPZDvEm6eXCKK7/XntY6VVvonksbnjAHOcPHY9zMAop6+6yC2+aoQwgvFk1oyPB6ysNivGZW4l4AivnthuFk5vHHthMFBeIpnhDkQwCiwlZRtx1tSRqomlBp5ZKe2/UJmtQTDVkicyCagI6y+vwHss1fYaBw/wS//rwO+EA5hgPcG+Of4uxKKboNN8RLqCR6TvFJbzXjMK+JA7oRhxRKS0OnzwWkXCRwKz/cpjjZd1NAE6CqYCOUgm8M6wzWJ+r1LVaSwbKG3vnmZrIWrU+N3ayjC3baJRFAyUN/LgZOFgZBDmDxu06Jgm4U6/e2lasuPbIv5JmKcPfcJL0XUYq2PbI7v76Kd4F13OkQ0Cx39nfTZkIfhBhgmRZwwbJBhEONbDkrsgNn6+Q1Z5qfhVbwsV8/hGEeJj/XrrxvWt5q/+fmdhZNMJ564=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0ODE3NDU2MDgxOCwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2OGMxZmE0YTIxYmE0ZjI3ZGNiMzBhYjNiZmFiMGRjMjJhMWU0ZmNmOWVkMTJjMWQ3YTcwZmViMDdmOGQ3YWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Internalized: §30⸎ Soulflow\",3:\"\",4:\"§6Ability: Overflow Mana \",5:\"§7When leaving combat, convert up to\",6:\"§35⸎ Soulflow §7into §3200 Overflow\",7:\"§3Mana§7.\",8:\"\",9:\"§7Enabled: §aOn\",10:\"§eRight-click to toggle!\",11:\"\",12:\"§8Soulflow from abilities is drained from\",13:\"§8your internalized ⸎.\",14:\"\",15:\"§4☠ §cRequires §5Enderman Slayer 2§c.\",16:\"§8Works while in Accessory Bag!\",17:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aSoulflow Pile\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+5",
       "",
-      "§7Internalized: §3153,888⸎ Soulflow",
+      "§7Internalized: §30⸎ Soulflow",
       "",
       "§6Ability: Overflow Mana ",
       "§7When leaving combat, convert up to",
@@ -79119,13 +79218,14 @@
       "§8Soulflow from abilities is drained from",
       "§8your internalized ⸎.",
       "",
+      "§4☠ §cRequires §5Enderman Slayer 2§c.",
       "§8Works while in Accessory Bag!",
       "§a§lUNCOMMON ACCESSORY"
     ],
     "internalname": "SOULFLOW_PILE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Enderman Slayer 2",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Soulflow_Pile"
@@ -79146,9 +79246,11 @@
   "SOULFLOW_SUPERCELL": {
     "itemid": "minecraft:skull",
     "displayname": "§5Soulflow Supercell",
-    "nbttag": "{ExtraAttributes:{id:\"SOULFLOW_SUPERCELL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1756f5b9-5b78-36bd-b840-5f6a27e8f99e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uwqX2uKa5Zj6R6jOaAYu3DFH/F1lqPSRIcoSBFtHYc/ywf7peLgY5zyjZ1t3d7YPUOYzxes12LycRXclUb6RBuLjp3/PYniQdDdZHG49ZHlcEF2BOJ9JOcrM7SCKLc3YDJ7tparhW+AwcE6HHSrigXEIskYq+p2CoMla9oLgK4byMw/rl45eU3WlkXzYZN+NGPKwhsmsiEmcSj8BjTdPoFpxQTEqkFPfv/Eghs+Av9CH+1q5yy0D2SnPZDvEm6eXCKK7/XntY6VVvonksbnjAHOcPHY9zMAop6+6yC2+aoQwgvFk1oyPB6ysNivGZW4l4AivnthuFk5vHHthMFBeIpnhDkQwCiwlZRtx1tSRqomlBp5ZKe2/UJmtQTDVkicyCagI6y+vwHss1fYaBw/wS//rwO+EA5hgPcG+Of4uxKKboNN8RLqCR6TvFJbzXjMK+JA7oRhxRKS0OnzwWkXCRwKz/cpjjZd1NAE6CqYCOUgm8M6wzWJ+r1LVaSwbKG3vnmZrIWrU+N3ayjC3baJRFAyUN/LgZOFgZBDmDxu06Jgm4U6/e2lasuPbIv5JmKcPfcJL0XUYq2PbI7v76Kd4F13OkQ0Cx39nfTZkIfhBhgmRZwwbJBhEONbDkrsgNn6+Q1Z5qfhVbwsV8/hGEeJj/XrrxvWt5q/+fmdhZNMJ564=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0ODE3NDU2MDgxOCwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2OGMxZmE0YTIxYmE0ZjI3ZGNiMzBhYjNiZmFiMGRjMjJhMWU0ZmNmOWVkMTJjMWQ3YTcwZmViMDdmOGQ3YWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Internalized: §30⸎ Soulflow\",1:\"\",2:\"§6Ability: Overflow Mana \",3:\"§7When leaving combat, convert up to\",4:\"§34⸎ Soulflow §7into §3600 Overflow\",5:\"§3Mana§7.\",6:\"\",7:\"§7Enabled: §aOn\",8:\"§eRight-click to toggle!\",9:\"\",10:\"§8Soulflow from abilities is drained from\",11:\"§8your internalized ⸎.\",12:\"\",13:\"§4☠ §cRequires §5Enderman Slayer 7§c.\",14:\"§8Works while in Accessory Bag!\",15:\"§5§lEPIC ACCESSORY\"],Name:\"§5Soulflow Supercell\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SOULFLOW_SUPERCELL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1756f5b9-5b78-36bd-b840-5f6a27e8f99e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uwqX2uKa5Zj6R6jOaAYu3DFH/F1lqPSRIcoSBFtHYc/ywf7peLgY5zyjZ1t3d7YPUOYzxes12LycRXclUb6RBuLjp3/PYniQdDdZHG49ZHlcEF2BOJ9JOcrM7SCKLc3YDJ7tparhW+AwcE6HHSrigXEIskYq+p2CoMla9oLgK4byMw/rl45eU3WlkXzYZN+NGPKwhsmsiEmcSj8BjTdPoFpxQTEqkFPfv/Eghs+Av9CH+1q5yy0D2SnPZDvEm6eXCKK7/XntY6VVvonksbnjAHOcPHY9zMAop6+6yC2+aoQwgvFk1oyPB6ysNivGZW4l4AivnthuFk5vHHthMFBeIpnhDkQwCiwlZRtx1tSRqomlBp5ZKe2/UJmtQTDVkicyCagI6y+vwHss1fYaBw/wS//rwO+EA5hgPcG+Of4uxKKboNN8RLqCR6TvFJbzXjMK+JA7oRhxRKS0OnzwWkXCRwKz/cpjjZd1NAE6CqYCOUgm8M6wzWJ+r1LVaSwbKG3vnmZrIWrU+N3ayjC3baJRFAyUN/LgZOFgZBDmDxu06Jgm4U6/e2lasuPbIv5JmKcPfcJL0XUYq2PbI7v76Kd4F13OkQ0Cx39nfTZkIfhBhgmRZwwbJBhEONbDkrsgNn6+Q1Z5qfhVbwsV8/hGEeJj/XrrxvWt5q/+fmdhZNMJ564=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0ODE3NDU2MDgxOCwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2OGMxZmE0YTIxYmE0ZjI3ZGNiMzBhYjNiZmFiMGRjMjJhMWU0ZmNmOWVkMTJjMWQ3YTcwZmViMDdmOGQ3YWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Internalized: §30⸎ Soulflow\",3:\"\",4:\"§6Ability: Overflow Mana \",5:\"§7When leaving combat, convert up to\",6:\"§34⸎ Soulflow §7into §3600 Overflow\",7:\"§3Mana§7.\",8:\"\",9:\"§7Enabled: §aOn\",10:\"§eRight-click to toggle!\",11:\"\",12:\"§8Soulflow from abilities is drained from\",13:\"§8your internalized ⸎.\",14:\"\",15:\"§4☠ §cRequires §5Enderman Slayer 7§c.\",16:\"§8Works while in Accessory Bag!\",17:\"§5§lEPIC ACCESSORY\"],Name:\"§5Soulflow Supercell\"}}",
     "damage": 3,
     "lore": [
+      "§7Accessory Power: §6+12",
+      "",
       "§7Internalized: §30⸎ Soulflow",
       "",
       "§6Ability: Overflow Mana ",
@@ -79169,7 +79271,7 @@
     "internalname": "SOULFLOW_SUPERCELL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Enderman Slayer 7",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Soulflow_Supercell"
@@ -87825,7 +87927,7 @@
   "TARANTULA_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§5Tarantula Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+100\",2:\"§7Intelligence: §b+100\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§4This item is Arachnal !\",16:\"\",17:\"§6Extra Bonus: §aAnti-Toxin\",18:\"§7Healing reduction is §a25%§7 less\",19:\"§7effective on you.\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Spider Slayer 4§c.\",23:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Tarantula Chestplate\",color:0}}",
+    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+100\",2:\"§7Intelligence: §b+100\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§4This item is Arachnal !\",16:\"\",17:\"§6Extra Bonus: §aAnti-Toxin\",18:\"§cTarantula Broodfather's §4 Vitality\",19:\"§7reduction is §a25% §7less effective\",20:\"§7against you.\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Spider Slayer 4§c.\",24:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Tarantula Chestplate\",color:0}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+120",
@@ -87846,8 +87948,9 @@
       "§4This item is Arachnal !",
       "",
       "§6Extra Bonus: §aAnti-Toxin",
-      "§7Healing reduction is §a25%§7 less",
-      "§7effective on you.",
+      "§cTarantula Broodfather's §4 Vitality",
+      "§7reduction is §a25% §7less effective",
+      "§7against you.",
       "",
       "§8This item can be reforged!",
       "§4☠ §cRequires §5Spider Slayer 4§c.",
@@ -87856,7 +87959,7 @@
     "internalname": "TARANTULA_CHESTPLATE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Chestplate"
@@ -88488,9 +88591,11 @@
   "TARANTULA_RING": {
     "itemid": "minecraft:skull",
     "displayname": "§6Tarantula Ring",
-    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_RING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"99534e6a-ffa0-3aed-92c7-2c5575a78398\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FeYMzZcWw/pMYwo+8m4AZ+Py7e6TIpaA2RmEqt7OUO+alt0R0s34/M39GUicyV5uZTXjaNNsdprDTheRQKca5wlw2EovTmxj6dLVdnCSc64c2zwb7K29kVZO7KY/vjg973RuvsYDalXJZs3hCa3jK8E9b1BvkKKiic0KWm0RLmQ82EGJdIcU5YUa+gd/0gmJEqq8+ziBjXnlVBpeuUkNGIDmoZ1l8tYpIRa2W6qRH7fvn3OEnqPLwPvDVoDnQ0iBZgM7+CZ9tEBc+SZHd3AGoiJv9jfAso6iItZaAnFPkIBzQR6XBsZKyrFaDHU+11pc3cvTjMIRqA83vu+OKqDzP+O9cgIjSzFy+WVEvEACx6EG+dBZVtVLJQE3yKaRHg9X9igtKrQk48awYXfithlOAhkGd0hQ27oL1e/RS5Rnri3MBSeaxYvxBQl4036Q9yjsvrQIktoBa1SplXWlK3clX2CP3PT+AzuFZEVqPi9GQ8fbVMW0/CjgPKA/kaXlY3yKnZOPvJoLfffondOz3M1MgEqICtOV64Hhi9WZ0t6A38ULeRbYWjWULVCeaUxpuq8qnyMmt6hDYmYJ0aaUgG4Fv5mUq6iJV6A/0iryEZnRwa53cU99CAONoiiGQpmonWA+zSq76UJtPFGkFAJdiKbCFENsVPWewBlQoBcOyl/UHWI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczODMyNjM3MjU0NiwKICAicHJvZmlsZUlkIiA6ICJmNzM0MmExODMxZDA0ZDA5ODc4Y2ViOTVmOTUxYTllMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNMWtzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViNTIyMDI0YTk5MmQ2MGE1YThlODkxMTk0MWQxNDMwODJhMzA0ZTA1MTA3MzIxYjA5YjBiNTcwNGI4NWU4Y2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Every §a10th §7melee hit on the same\",1:\"§7enemy deals §c+15% §7damage.\",2:\"\",3:\"§4☠ §cRequires §5Spider Slayer 7§c.\",4:\"§8Works while in Accessory Bag!\",5:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Tarantula Ring\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_RING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"99534e6a-ffa0-3aed-92c7-2c5575a78398\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FeYMzZcWw/pMYwo+8m4AZ+Py7e6TIpaA2RmEqt7OUO+alt0R0s34/M39GUicyV5uZTXjaNNsdprDTheRQKca5wlw2EovTmxj6dLVdnCSc64c2zwb7K29kVZO7KY/vjg973RuvsYDalXJZs3hCa3jK8E9b1BvkKKiic0KWm0RLmQ82EGJdIcU5YUa+gd/0gmJEqq8+ziBjXnlVBpeuUkNGIDmoZ1l8tYpIRa2W6qRH7fvn3OEnqPLwPvDVoDnQ0iBZgM7+CZ9tEBc+SZHd3AGoiJv9jfAso6iItZaAnFPkIBzQR6XBsZKyrFaDHU+11pc3cvTjMIRqA83vu+OKqDzP+O9cgIjSzFy+WVEvEACx6EG+dBZVtVLJQE3yKaRHg9X9igtKrQk48awYXfithlOAhkGd0hQ27oL1e/RS5Rnri3MBSeaxYvxBQl4036Q9yjsvrQIktoBa1SplXWlK3clX2CP3PT+AzuFZEVqPi9GQ8fbVMW0/CjgPKA/kaXlY3yKnZOPvJoLfffondOz3M1MgEqICtOV64Hhi9WZ0t6A38ULeRbYWjWULVCeaUxpuq8qnyMmt6hDYmYJ0aaUgG4Fv5mUq6iJV6A/0iryEZnRwa53cU99CAONoiiGQpmonWA+zSq76UJtPFGkFAJdiKbCFENsVPWewBlQoBcOyl/UHWI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczODMyNjM3MjU0NiwKICAicHJvZmlsZUlkIiA6ICJmNzM0MmExODMxZDA0ZDA5ODc4Y2ViOTVmOTUxYTllMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNMWtzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViNTIyMDI0YTk5MmQ2MGE1YThlODkxMTk0MWQxNDMwODJhMzA0ZTA1MTA3MzIxYjA5YjBiNTcwNGI4NWU4Y2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+16\",1:\"\",2:\"§7Every §a10th §7melee hit on the same\",3:\"§7enemy deals §c+15% §7damage.\",4:\"\",5:\"§4☠ §cRequires §5Spider Slayer 7§c.\",6:\"§8Works while in Accessory Bag!\",7:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Tarantula Ring\"}}",
     "damage": 3,
     "lore": [
+      "§7Accessory Power: §6+16",
+      "",
       "§7Every §a10th §7melee hit on the same",
       "§7enemy deals §c+15% §7damage.",
       "",
@@ -88501,7 +88606,7 @@
     "internalname": "TARANTULA_RING",
     "clickcommand": "",
     "crafttext": "Requires: Spider Slayer 7",
-    "modver": "Firmament 44.2.0-dev+mc1.21.11+g610fbd78",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Ring"
@@ -89499,7 +89604,7 @@
   "THE_PRIMORDIAL": {
     "itemid": "minecraft:skull",
     "displayname": "§6The Primordial",
-    "nbttag": "{ExtraAttributes:{id:\"THE_PRIMORDIAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e4cc1c23-2e51-3948-96e4-daecffec7b9f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"BMzmpIPvd3nfqW/AbKQ5lbFGFxtn1ojz1D8FjguVNgVrl52zW7wKrklGgiRBubW2S75hzwWPsH2/Mmk637HOvsF03JMKvRKQiVrCHtza2qorM1U3Kg2GiSNKdXjx3Itt8RxdP9kACzgdoRDDJwQ7G09PtPrkdQukfTkD/YYAr9L9uTZrfGKp7IqSJ7X4K3w3NpYjXkjKii7Sc/OOuS53aL78RCRAEG3yKe7M/anFF9juOtZ5WMM4WfVbVNiFigvTsawKRF1CI64rhYQLJT0zpeq/cUtGVy5qG2amBQo+z69iG6e6AFEUcZV/2nWD6neX/zagRtU0LWVSJ31hdKU/x5eTzsjcY/WBMxAX+HAy53UmG+u1hA/aGaJ6Zk5N+5+XLB3a5QuuYH+At7tKMt7VMI7F6i14AkmF71ufmxLl6AtXtqz8PDWYVUKE0chzSF6sDt8Y57YYTbfAmR5Ul/HSaoAciRmcPoUwbNlitULNEkx25hbDW91DF+NbMOm0TCWfGVXEVTvIWY1R+YR6YEVObFMVTQUBYFGuLi7OUBfBTiL977DISC+L/wLTBI5esEqSlB7cVDX1ndz2YZ4msduApdUHCoudxzMXrNQA8DYPenxCI79rYUs6o+SnCSXJbcRb2st4dsePm78bFPcuY2VwJMf3ZRdZnhrloemwbK+ItP0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczODkzMDcyODU0NywKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JkYzEyYjhkZjJhMDlmMDkwZDNiZjU3ODAwNWQyN2RhMGNlZGRiZWU0NzkwNDkwZTExZDE0NDkxYTM5MzIxMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+15\",1:\"§7Crit Damage: §9+20%\",2:\"\",3:\"§6Ability: Forced Metamorphosis \",4:\"§7When killing a §cSlayer Boss§7 or §cSlayer Miniboss§7,\",5:\"§7have a §a10%§7 chance to cocoon them!\",6:\"§7Cocooned enemies will quickly hatch, and can be\",7:\"§7killed again.\",8:\"\",9:\"§8§oAn eye torn from the Primordial Brood sits dead\",10:\"§8§ocenter, patiently observing. Are you truly the\",11:\"§8§oone in control here?\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4☠ §cRequires §5Spider Slayer 8§c.\",15:\"§6§lLEGENDARY BELT\"],Name:\"§6The Primordial\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"THE_PRIMORDIAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e4cc1c23-2e51-3948-96e4-daecffec7b9f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"BMzmpIPvd3nfqW/AbKQ5lbFGFxtn1ojz1D8FjguVNgVrl52zW7wKrklGgiRBubW2S75hzwWPsH2/Mmk637HOvsF03JMKvRKQiVrCHtza2qorM1U3Kg2GiSNKdXjx3Itt8RxdP9kACzgdoRDDJwQ7G09PtPrkdQukfTkD/YYAr9L9uTZrfGKp7IqSJ7X4K3w3NpYjXkjKii7Sc/OOuS53aL78RCRAEG3yKe7M/anFF9juOtZ5WMM4WfVbVNiFigvTsawKRF1CI64rhYQLJT0zpeq/cUtGVy5qG2amBQo+z69iG6e6AFEUcZV/2nWD6neX/zagRtU0LWVSJ31hdKU/x5eTzsjcY/WBMxAX+HAy53UmG+u1hA/aGaJ6Zk5N+5+XLB3a5QuuYH+At7tKMt7VMI7F6i14AkmF71ufmxLl6AtXtqz8PDWYVUKE0chzSF6sDt8Y57YYTbfAmR5Ul/HSaoAciRmcPoUwbNlitULNEkx25hbDW91DF+NbMOm0TCWfGVXEVTvIWY1R+YR6YEVObFMVTQUBYFGuLi7OUBfBTiL977DISC+L/wLTBI5esEqSlB7cVDX1ndz2YZ4msduApdUHCoudxzMXrNQA8DYPenxCI79rYUs6o+SnCSXJbcRb2st4dsePm78bFPcuY2VwJMf3ZRdZnhrloemwbK+ItP0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczODkzMDcyODU0NywKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JkYzEyYjhkZjJhMDlmMDkwZDNiZjU3ODAwNWQyN2RhMGNlZGRiZWU0NzkwNDkwZTExZDE0NDkxYTM5MzIxMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+15\",1:\"§7Crit Damage: §9+20%\",2:\"\",3:\"§6Ability: Forced Metamorphosis \",4:\"§7When killing a §cSlayer Boss§7 or §cSlayer Miniboss§7,\",5:\"§7have a §a10%§7 chance to cocoon them!\",6:\"§7Cocooned enemies will quickly hatch, and can be\",7:\"§7killed again.\",8:\"\",9:\"§8§oAn eye torn from the Primordial Brood sits dead\",10:\"§8§ocenter, patiently observing. Are you truly the\",11:\"§8§oone in control here?\",12:\"\",13:\"§eRight-click to equip!\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4☠ §cRequires §5Spider Slayer 8§c.\",17:\"§6§lLEGENDARY BELT\"],Name:\"§6The Primordial\"}}",
     "damage": 3,
     "lore": [
       "§7Strength: §c+15",
@@ -89515,6 +89620,8 @@
       "§8§ocenter, patiently observing. Are you truly the",
       "§8§oone in control here?",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4☠ §cRequires §5Spider Slayer 8§c.",
       "§6§lLEGENDARY BELT"
@@ -89522,7 +89629,7 @@
     "internalname": "THE_PRIMORDIAL",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/The_Primordial"
@@ -90019,10 +90126,11 @@
   "TITANIUM_ARTIFACT": {
     "itemid": "minecraft:skull",
     "displayname": "§5Titanium Artifact",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_ARTIFACT\",originTag:\"FORGE_MENU\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e487bb56-a47b-3ca1-b21b-8977524b9701\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Tgrj5gI9ckwdY+8Jecv/2veO6hDjD/DRIeS4wpoI0suqXyh0Z2104DXdb6aFhxQf6g3d3A4Z9Kq10Ra67j0n0G7KUS1CpimYhvfWqqQeP/Ls4RflajzhblmXMqn/bJ1z8iUhYypqsA8zU33qLN5TT7j6ZyWOQPR8qZQtpkbgm7/+tjmA2ANO7TKbVVaAutavPO8bt/AdCafTrlJXmkH9vQMmdzEW8x9SxnV6bzE1ZNeTLzqVuvDVHNIis2VX/19lepQyhnwevTPtGwtIcmqTdoab1VnB0tnvbSu7zgu8LB7/ugnd5dorQNRCoE8nkqyra7FnUAh0sJS3fwnfHRK6pav+XyzbW37WDeSa1QRc/HcGRdAIKs3jmmoe8J/xKe1MHCVFlyaij1GGfgw9h+64yETli2tlZM2HAd8uJR2Ldf9JtF+veBaLpFOtdKC700tRWl0QJTGml+GhZ4EiFze4iM8R/vlnsGhjnSRdFDvOqkASG/xamrXklKchsfoPTKiqEb1P/gYBP6HrQqO9KzHY2n0ttlo7iT+3uOb8Y59QkvsmkDj2pbVCK8mfTak0sousWv10S5nO1OE31GFDQiXxTAvv0Zw+MuJeifLLbNDCK5EaReZe+uliGuufvbBsJKQIhZimpUzac69CheDvdGr/3UYKjH4MLI/m9aql2XiyMfs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxMDQ4MDc5MjAxMiwKICAicHJvZmlsZUlkIiA6ICIxZDUyMzNkMzg4NjI0YmFmYjAwZTMxNTBhN2FhM2E4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDBKIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4ZWMyMWQyMGYxYWFmNTYzNWY0OGJlZGE4ODYyNjQwM2M2Mzg1YjgxNjczZmI3Y2ZhN2ZmODIxNzljNjNlMzkiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+45\",1:\"\",2:\"§4❣ §cRequires §5Heart of the Mountain Tier 4§c.\",3:\"§8Works while in Accessory Bag!\",4:\"§5§lEPIC ACCESSORY\"],Name:\"§5Titanium Artifact\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e487bb56-a47b-3ca1-b21b-8977524b9701\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Tgrj5gI9ckwdY+8Jecv/2veO6hDjD/DRIeS4wpoI0suqXyh0Z2104DXdb6aFhxQf6g3d3A4Z9Kq10Ra67j0n0G7KUS1CpimYhvfWqqQeP/Ls4RflajzhblmXMqn/bJ1z8iUhYypqsA8zU33qLN5TT7j6ZyWOQPR8qZQtpkbgm7/+tjmA2ANO7TKbVVaAutavPO8bt/AdCafTrlJXmkH9vQMmdzEW8x9SxnV6bzE1ZNeTLzqVuvDVHNIis2VX/19lepQyhnwevTPtGwtIcmqTdoab1VnB0tnvbSu7zgu8LB7/ugnd5dorQNRCoE8nkqyra7FnUAh0sJS3fwnfHRK6pav+XyzbW37WDeSa1QRc/HcGRdAIKs3jmmoe8J/xKe1MHCVFlyaij1GGfgw9h+64yETli2tlZM2HAd8uJR2Ldf9JtF+veBaLpFOtdKC700tRWl0QJTGml+GhZ4EiFze4iM8R/vlnsGhjnSRdFDvOqkASG/xamrXklKchsfoPTKiqEb1P/gYBP6HrQqO9KzHY2n0ttlo7iT+3uOb8Y59QkvsmkDj2pbVCK8mfTak0sousWv10S5nO1OE31GFDQiXxTAvv0Zw+MuJeifLLbNDCK5EaReZe+uliGuufvbBsJKQIhZimpUzac69CheDvdGr/3UYKjH4MLI/m9aql2XiyMfs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxMDQ4MDc5MjAxMiwKICAicHJvZmlsZUlkIiA6ICIxZDUyMzNkMzg4NjI0YmFmYjAwZTMxNTBhN2FhM2E4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICIwMDAwMDAwMDAwMDAwMDBKIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4ZWMyMWQyMGYxYWFmNTYzNWY0OGJlZGE4ODYyNjQwM2M2Mzg1YjgxNjczZmI3Y2ZhN2ZmODIxNzljNjNlMzkiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+45\",1:\"§7Accessory Power: §6+12\",2:\"\",3:\"§4❣ §cRequires §5Heart of the Mountain Tier 4§c.\",4:\"§8Works while in Accessory Bag!\",5:\"§5§lEPIC ACCESSORY\"],Name:\"§5Titanium Artifact\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+45",
+      "§7Accessory Power: §6+12",
       "",
       "§4❣ §cRequires §5Heart of the Mountain Tier 4§c.",
       "§8Works while in Accessory Bag!",
@@ -90031,7 +90139,7 @@
     "internalname": "TITANIUM_ARTIFACT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 4",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Artifact"
@@ -90052,7 +90160,7 @@
   "TITANIUM_BELT": {
     "itemid": "minecraft:skull",
     "displayname": "§9Titanium Belt",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cf36dddd-8738-3b10-81e4-dde502d1c0bc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"rUoZSDXACzJhBV7GMsdvG/BvdEn4D3aSXsOpj2KKIG+OqeFtftWYcBaQtWjzQhRCi6nxr/a/Vvx8X4FdGlpBj/bnfERnCztknqu/hbOJDqlw1EzPUjTHqQzK0V24/Vude7sofOkKRXDT9n6+4Fj9mT/74QRQlWlKwtp8lOI3q6t2+HPtUAWQpBCPsSOt5+MQM/eHRFxDBYnyeGAuid1zD9LV3lufMd+5yyr1WTkUZOxvkKl+qBAtlGqC0kOkrkD3obYTmwqZq7cIeDHKDOghfXQIVGwZJmaMy22ucocgIXF2udB78qVhW86+UAXvkRdTmDlLmPj8X5WwwTLrtDRl2ZaiZ12/Q5LCDgJs9gUK4JZvwMQGMAJyeNkpdH326YBg7DSLdu6pdsautXXVspKfs+MGe89/W2HNDDytjukSoyh10cOjHwlt9ap3hTlLZRXP8N33dDl8WnrSoyoy4zug28EkON0/f8yO7mf7P9uoh2YqnNFnSli8+dcCBzE65w2uqgSl6jCfriIpIdQZnD1DTPCbrBqqtBFsbI4WlKuHAJnUGRy2NpRQxPXFBn46Frxb8opv2yL5rMkYHFPXD6amW0b2P2OTUqtGxmyIYMZjRkKoEQ+78E1MPOspl/KCYDv5k9S4uAcHHDcyb5sHQp3/0hRCJpq2amlixmVFov3eixg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2MDkxNywKICAicHJvZmlsZUlkIiA6ICIyMDJiZWVlYWY4NTk0MmQ0ODI3NGJjNzYwM2VhYWZhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaWtvcjk4NiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTYyMzAzYmNkZDc3MGFlYmU3ZmQxOWZhMjYzNzEzOTBhNzUxNTE0MDM1ODU0ODA4NDM2MWI1MDU2Y2RjNGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",13:\"§9§lRARE BELT\"],Name:\"§9Titanium Belt\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cf36dddd-8738-3b10-81e4-dde502d1c0bc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"rUoZSDXACzJhBV7GMsdvG/BvdEn4D3aSXsOpj2KKIG+OqeFtftWYcBaQtWjzQhRCi6nxr/a/Vvx8X4FdGlpBj/bnfERnCztknqu/hbOJDqlw1EzPUjTHqQzK0V24/Vude7sofOkKRXDT9n6+4Fj9mT/74QRQlWlKwtp8lOI3q6t2+HPtUAWQpBCPsSOt5+MQM/eHRFxDBYnyeGAuid1zD9LV3lufMd+5yyr1WTkUZOxvkKl+qBAtlGqC0kOkrkD3obYTmwqZq7cIeDHKDOghfXQIVGwZJmaMy22ucocgIXF2udB78qVhW86+UAXvkRdTmDlLmPj8X5WwwTLrtDRl2ZaiZ12/Q5LCDgJs9gUK4JZvwMQGMAJyeNkpdH326YBg7DSLdu6pdsautXXVspKfs+MGe89/W2HNDDytjukSoyh10cOjHwlt9ap3hTlLZRXP8N33dDl8WnrSoyoy4zug28EkON0/f8yO7mf7P9uoh2YqnNFnSli8+dcCBzE65w2uqgSl6jCfriIpIdQZnD1DTPCbrBqqtBFsbI4WlKuHAJnUGRy2NpRQxPXFBn46Frxb8opv2yL5rMkYHFPXD6amW0b2P2OTUqtGxmyIYMZjRkKoEQ+78E1MPOspl/KCYDv5k9S4uAcHHDcyb5sHQp3/0hRCJpq2amlixmVFov3eixg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2MDkxNywKICAicHJvZmlsZUlkIiA6ICIyMDJiZWVlYWY4NTk0MmQ0ODI3NGJjNzYwM2VhYWZhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaWtvcjk4NiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTYyMzAzYmNkZDc3MGFlYmU3ZmQxOWZhMjYzNzEzOTBhNzUxNTE0MDM1ODU0ODA4NDM2MWI1MDU2Y2RjNGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",15:\"§9§lRARE BELT\"],Name:\"§9Titanium Belt\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+30",
@@ -90066,6 +90174,8 @@
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 3§c.",
       "§9§lRARE BELT"
@@ -90073,7 +90183,7 @@
     "internalname": "TITANIUM_BELT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Belt"
@@ -90095,7 +90205,7 @@
   "TITANIUM_CLOAK": {
     "itemid": "minecraft:skull",
     "displayname": "§9Titanium Cloak",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fcc18098-ba03-33b6-b1dd-110c64da3992\",Properties:{textures:[0:{Name:\"textures\",Signature:\"wlwlN3YQtn6u3OVBalvFCatKFBGXPi5RHrwd6jP7o7TDX0o4eHqiRXMkEoEfuuAi54Qopmnz9GK7uA7ikbyDrLeW0zE7Jb8YNqRU0gT+eEw2NLEmuFYDJiYAuCd1TvBIVgkon39WODZNPrr0OxJqfyV+KBHIB3yVqC/W15DLKfwD6H/Enfv6RjiF5qQRXcvmq4VikBUIQAhtR4IhKYNcbuOdr190DkpwG9ULHFMV0VZWVDboQmVgxU9/chZf39SWM07vBbH6MYwk662StYU4gb9YKd4YJRjk7P1dDgOk9WWjr/PgEppY6NhXtPwKWO3PHw+DarVSAnMD2rUanLDtlUafMnaZd2Qp4bZsleX//7C34S2ZkUdYrfxi4VRr6HUoze9aSs6nL+B9HyG0E2E23tZReUey8WQX0aweV0tN0eCyX0BRHrz9Nj+Pu724TltTZ2t/hP1yTwE2cJ+PdA8l66W4NGmcivDgbAi7FmPT6kEinD/Fy8XpOIX0DsbOLj6wBRUrp5i/ZWJGpYdiFngULqbCkD7U7aFdg43f187SiodQegdCT+kLX5GGBYb+fQVxEaueYbPdYD6ulOGSFuBvugKSkzcp5D3tysXrIfC6uiMOpJgLzxw9bUrdHg9mAeNiQQmURerWGiuwi6ah/38NhfBDWM9ps//mUHqNNBVudkg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjkyNzU1NywKICAicHJvZmlsZUlkIiA6ICIxNDU1MDNhNDRjZmI0NzcwYmM3NWNjMTRjYjUwMDE4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWtlbHlFcmljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ5ODIxNDEwNjMxMTg2YzZmM2ZiYmFlNWYwZWY1Yjk0N2Y0NzVlYjMyMDI3YThhYWQwYTQ1NjUxMjU0N2MyMDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",13:\"§9§lRARE CLOAK\"],Name:\"§9Titanium Cloak\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fcc18098-ba03-33b6-b1dd-110c64da3992\",Properties:{textures:[0:{Name:\"textures\",Signature:\"wlwlN3YQtn6u3OVBalvFCatKFBGXPi5RHrwd6jP7o7TDX0o4eHqiRXMkEoEfuuAi54Qopmnz9GK7uA7ikbyDrLeW0zE7Jb8YNqRU0gT+eEw2NLEmuFYDJiYAuCd1TvBIVgkon39WODZNPrr0OxJqfyV+KBHIB3yVqC/W15DLKfwD6H/Enfv6RjiF5qQRXcvmq4VikBUIQAhtR4IhKYNcbuOdr190DkpwG9ULHFMV0VZWVDboQmVgxU9/chZf39SWM07vBbH6MYwk662StYU4gb9YKd4YJRjk7P1dDgOk9WWjr/PgEppY6NhXtPwKWO3PHw+DarVSAnMD2rUanLDtlUafMnaZd2Qp4bZsleX//7C34S2ZkUdYrfxi4VRr6HUoze9aSs6nL+B9HyG0E2E23tZReUey8WQX0aweV0tN0eCyX0BRHrz9Nj+Pu724TltTZ2t/hP1yTwE2cJ+PdA8l66W4NGmcivDgbAi7FmPT6kEinD/Fy8XpOIX0DsbOLj6wBRUrp5i/ZWJGpYdiFngULqbCkD7U7aFdg43f187SiodQegdCT+kLX5GGBYb+fQVxEaueYbPdYD6ulOGSFuBvugKSkzcp5D3tysXrIfC6uiMOpJgLzxw9bUrdHg9mAeNiQQmURerWGiuwi6ah/38NhfBDWM9ps//mUHqNNBVudkg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjkyNzU1NywKICAicHJvZmlsZUlkIiA6ICIxNDU1MDNhNDRjZmI0NzcwYmM3NWNjMTRjYjUwMDE4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWtlbHlFcmljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ5ODIxNDEwNjMxMTg2YzZmM2ZiYmFlNWYwZWY1Yjk0N2Y0NzVlYjMyMDI3YThhYWQwYTQ1NjUxMjU0N2MyMDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",15:\"§9§lRARE CLOAK\"],Name:\"§9Titanium Cloak\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+30",
@@ -90109,6 +90219,8 @@
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 3§c.",
       "§9§lRARE CLOAK"
@@ -90116,7 +90228,7 @@
     "internalname": "TITANIUM_CLOAK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Cloak"
@@ -90450,7 +90562,7 @@
   "TITANIUM_GAUNTLET": {
     "itemid": "minecraft:skull",
     "displayname": "§9Titanium Gauntlet",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_GAUNTLET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1cca15f8-e9fc-3e15-b676-93f719002c46\",Properties:{textures:[0:{Name:\"textures\",Signature:\"EI/sLFrU6UlyqPOaUXItbv7nTAPYyy1njTEfKXHu5xlRLpfVKlWxmJwRz2RjDYS2jKNCvuY2C6VMXj1+ok2R5RrbwU/JYTdvhkxNo3dESotUY3cv1vuu44CPykDCxGy741W0SFRmD1j8tZsKUj0Yt/7CfCbO14a5/HMaHB/yD1x34NVuQ7fe3yf17gvUlcnpqD07d2gbdMI20hSEmgVmm2MzHpG3XRdI2pfyaoJDdLavFw/rxwrark8eZZUUj+p/taOHM5AmZsio2dqP52tOTqG6TD5U/p2VkB8UQUKRMYoBcEwdkILvDVcxCM83McvOV3zcpWHLzSskoNwDmmiNhlFKxPgXCTz7JumeO3P1IuAIaLBF/HFAJIfWlCHoFbMnDuZ6VJOaaDRIhjDrQe4aPZfm3cMZ5551lUkNf+kLH03oOdZ5ZiOP49IldFOXCXSerGmV4T2jlUM2x8eQzfNUencrbpK+JT4yimvrqV6rKmlw4CSRHJV2y6zyXrHVWUH7Xf0M5tMyVVMmyS1yeEBLiJkA7ItE+ZdeIhEbKYCLEcR83XGChxlMm9b7ooOKnExGxZWgblEWub+jk095f1JD7gnO+50dY97jK4im/A+ZuMC+rax5FHlAIg8EOS4qwwkl1VNBBPAIjibJWhOevHlCiw/mGSvU2kEbM1E1+0OZB1E=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNzUyMTQzMzg2MiwKICAicHJvZmlsZUlkIiA6ICJkZDNjZGJiOTE2M2Q0NzgyOGQ0YmZkODZmYWE4NGY5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTFdhbEtlUkpBSkEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2M4MDI3YzhhOGE2NzY3MDEwN2FkYWRlNDEwMjAwZjExYjIxYzkzYTEwMWE4ZWViMzI1OGVhYzM0NmQ1YzkwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",13:\"§9§lRARE GLOVES\"],Name:\"§9Titanium Gauntlet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_GAUNTLET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1cca15f8-e9fc-3e15-b676-93f719002c46\",Properties:{textures:[0:{Name:\"textures\",Signature:\"EI/sLFrU6UlyqPOaUXItbv7nTAPYyy1njTEfKXHu5xlRLpfVKlWxmJwRz2RjDYS2jKNCvuY2C6VMXj1+ok2R5RrbwU/JYTdvhkxNo3dESotUY3cv1vuu44CPykDCxGy741W0SFRmD1j8tZsKUj0Yt/7CfCbO14a5/HMaHB/yD1x34NVuQ7fe3yf17gvUlcnpqD07d2gbdMI20hSEmgVmm2MzHpG3XRdI2pfyaoJDdLavFw/rxwrark8eZZUUj+p/taOHM5AmZsio2dqP52tOTqG6TD5U/p2VkB8UQUKRMYoBcEwdkILvDVcxCM83McvOV3zcpWHLzSskoNwDmmiNhlFKxPgXCTz7JumeO3P1IuAIaLBF/HFAJIfWlCHoFbMnDuZ6VJOaaDRIhjDrQe4aPZfm3cMZ5551lUkNf+kLH03oOdZ5ZiOP49IldFOXCXSerGmV4T2jlUM2x8eQzfNUencrbpK+JT4yimvrqV6rKmlw4CSRHJV2y6zyXrHVWUH7Xf0M5tMyVVMmyS1yeEBLiJkA7ItE+ZdeIhEbKYCLEcR83XGChxlMm9b7ooOKnExGxZWgblEWub+jk095f1JD7gnO+50dY97jK4im/A+ZuMC+rax5FHlAIg8EOS4qwwkl1VNBBPAIjibJWhOevHlCiw/mGSvU2kEbM1E1+0OZB1E=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNzUyMTQzMzg2MiwKICAicHJvZmlsZUlkIiA6ICJkZDNjZGJiOTE2M2Q0NzgyOGQ0YmZkODZmYWE4NGY5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTFdhbEtlUkpBSkEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2M4MDI3YzhhOGE2NzY3MDEwN2FkYWRlNDEwMjAwZjExYjIxYzkzYTEwMWE4ZWViMzI1OGVhYzM0NmQ1YzkwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",15:\"§9§lRARE GLOVES\"],Name:\"§9Titanium Gauntlet\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+30",
@@ -90464,6 +90576,8 @@
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 3§c.",
       "§9§lRARE GLOVES"
@@ -90471,7 +90585,7 @@
     "internalname": "TITANIUM_GAUNTLET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Gauntlet"
@@ -90538,7 +90652,7 @@
   "TITANIUM_NECKLACE": {
     "itemid": "minecraft:skull",
     "displayname": "§9Titanium Necklace",
-    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"76c2d18b-6cba-36a8-bd27-787014c91604\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oODHpPsVhDyPjRXl2OKTSUPBzjxUuU+u8o7Nu+ezlGDolA0FuQGK4E1s5CHxoCd0SPw8ayj9uTgMmQNGqiJ2kHTpVE4XA2s2dEmX1FK3q3UtveT7bA3B5t7j/IUO+jaKaEQq/czBRoHFeSvx2UShchGG71/M6U4mNYwEgzCj7qCIQr2nD8Sf+oZNnkRNVz4C3c5Wg3he+Ngs6unbCNkYPTBZySHPs/9RXGNka39hMZCQO0bo9nwjusyZ1ThJ5bYCCFpAKyilDcW8Oi0TFSJjf2UcghZq1BzBtsIYRJe4ap8EMUiZKoOCCVJJ053ArHmD27qA5MEUmFXGKmx2eDfmJQljxe5z4MKu0UxCmhNIFdorL8yhCuBL+xD54tFtjjuP1UusxwZbglCi+PPVy1JlO536HLEaEh+8TJhI803pTRYqGRGWs749NTW0QWvSdoWLqW9c1rP07J+UBw5dBKhndYdBoI0M1Z0YF4aaxCkpThVgK8ic3AVC8itWnKuSMH/f5064a+A8CnPCaqNYkYRBgue2r2SYxHhYgZgymaX2jw5syW5aJP+x7LVqXZmbSfvL+LfE3JEV10KpC4yNi2ykBdA2+epUDQDZ/jvXM7CsZMDRSPx/HCa9rtT717mbCYsvzt4KIhSCSnqi+eqCmRBr9B18QeK+x3CU1+WsqOOYkNA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjQ5NzEwMiwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjNiOTFiNmFhNzEyNGYzMGVkNGFkMWIyYmIwMTJhODI5ODVhMzM2NDA1NTVlMThlNzkyZjk2YWY4ZjU4ZWM2IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",13:\"§9§lRARE NECKLACE\"],Name:\"§9Titanium Necklace\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TITANIUM_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"76c2d18b-6cba-36a8-bd27-787014c91604\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oODHpPsVhDyPjRXl2OKTSUPBzjxUuU+u8o7Nu+ezlGDolA0FuQGK4E1s5CHxoCd0SPw8ayj9uTgMmQNGqiJ2kHTpVE4XA2s2dEmX1FK3q3UtveT7bA3B5t7j/IUO+jaKaEQq/czBRoHFeSvx2UShchGG71/M6U4mNYwEgzCj7qCIQr2nD8Sf+oZNnkRNVz4C3c5Wg3he+Ngs6unbCNkYPTBZySHPs/9RXGNka39hMZCQO0bo9nwjusyZ1ThJ5bYCCFpAKyilDcW8Oi0TFSJjf2UcghZq1BzBtsIYRJe4ap8EMUiZKoOCCVJJ053ArHmD27qA5MEUmFXGKmx2eDfmJQljxe5z4MKu0UxCmhNIFdorL8yhCuBL+xD54tFtjjuP1UusxwZbglCi+PPVy1JlO536HLEaEh+8TJhI803pTRYqGRGWs749NTW0QWvSdoWLqW9c1rP07J+UBw5dBKhndYdBoI0M1Z0YF4aaxCkpThVgK8ic3AVC8itWnKuSMH/f5064a+A8CnPCaqNYkYRBgue2r2SYxHhYgZgymaX2jw5syW5aJP+x7LVqXZmbSfvL+LfE3JEV10KpC4yNi2ykBdA2+epUDQDZ/jvXM7CsZMDRSPx/HCa9rtT717mbCYsvzt4KIhSCSnqi+eqCmRBr9B18QeK+x3CU1+WsqOOYkNA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjQ5NzEwMiwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjNiOTFiNmFhNzEyNGYzMGVkNGFkMWIyYmIwMTJhODI5ODVhMzM2NDA1NTVlMThlNzkyZjk2YWY4ZjU4ZWM2IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mining Speed: §6+30\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Grants §6+10 Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"\",6:\"§6Full Set Bonus: True Dwarf §7(0/4)\",7:\"§7Grants §6+50 Mining Speed §7and §6+40\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §5Heart of the Mountain Tier 3§c.\",15:\"§9§lRARE NECKLACE\"],Name:\"§9Titanium Necklace\"}}",
     "damage": 3,
     "lore": [
       "§7Mining Speed: §6+30",
@@ -90552,6 +90666,8 @@
       "§6Mining Fortune §7while in the §2Dwarven",
       "§2Mines§7.",
       "",
+      "§eRight-click to equip!",
+      "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §5Heart of the Mountain Tier 3§c.",
       "§9§lRARE NECKLACE"
@@ -90559,7 +90675,7 @@
     "internalname": "TITANIUM_NECKLACE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 3",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titanium_Necklace"
