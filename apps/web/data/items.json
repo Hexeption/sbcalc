@@ -4244,21 +4244,23 @@
   "ANANKE_FEATHER": {
     "itemid": "minecraft:feather",
     "displayname": "§9Ananke Feather",
-    "nbttag": "{ExtraAttributes:{id:\"ANANKE_FEATHER\"},HideFlags:254,ItemModel:\"minecraft:feather\",display:{Lore:[0:\"§7Consume this feather to grant\",1:\"§7yourself progress in the §dRNG Meter\",2:\"§7of your choice.\",3:\"\",4:\"§eRight-click to open!\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Ananke Feather\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ANANKE_FEATHER\"},HideFlags:254,ItemModel:\"minecraft:feather\",display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§7Consume this delicate feather to add\",3:\"§7a large amount of progress to an\",4:\"§dRNG Meter §7of your choosing.\",5:\"\",6:\"§eRight-click to consume!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Ananke Feather\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7Consume this feather to grant",
-      "§7yourself progress in the §dRNG Meter",
-      "§7of your choice.",
+      "§8Consumable",
       "",
-      "§eRight-click to open!",
+      "§7Consume this delicate feather to add",
+      "§7a large amount of progress to an",
+      "§dRNG Meter §7of your choosing.",
+      "",
+      "§eRight-click to consume!",
       "",
       "§9§lRARE"
     ],
     "internalname": "ANANKE_FEATHER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ananke_Feather"
@@ -52039,21 +52041,18 @@
   "DAVIDS_CLOAK": {
     "itemid": "minecraft:skull",
     "displayname": "§fDavid's Cloak",
-    "nbttag": "{ExtraAttributes:{id:\"DAVIDS_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6f21e940-b23f-3149-a513-d529e5071131\",Properties:{textures:[0:{Name:\"textures\",Signature:\"iriFEhiDsS3PvOBdvJ5BApnyLTcP8cU6zTcd0wnMMbnm0UUw5TGv68OKsmU80FyhPMXLlqMvAyNzruP/I+FwHvU5pAUHkGSJUYNNXpDik3NzH4F53Yclm2IXkIEcdw8nc0T5k5i3Hndb22eSyoOsSHSJqodZKS5EIiYEjizhyJKufTlNTwuAxRNg3xIIYsyRGcAfnOjBUMeBn1Ye1dBOmet8dKA7N3gtlIq6c03+Lz5gsz8fn+xRTH7wl+YXeY23sO0sOh0jReZo+JQ9w9Hjj1WLGZJlGHO6nDQtWrJe4Ux/1G7eUMU+LIill12pxIxuKEbshxl4fnUo9TrpycAp15PBDa2k5lvBilHbkJRf5aey0504nyppwv5fiy1j5LedFDemxCf/xisIMEFcku25k+upfrDbZkBbkcHiROGrgJaXy8zM/j6kWE2bagLY+fZZhwhGzSV/CBHoQhcE0ls48pkcQm0dIhu7VfyApvPaAfjTCVRVjZUaqieSGqEE4gqvze8GedEL0F/UrNwWh1ZEYkkjHXBZ13PIMqNi6606k1K2ZnGGqYPVAbzuJKJdZx+9lkkkVJwuQnw73lDsUKqUr8YG/IavwNWWt2s7ju7AmWCdItg27RlqNPIJcXtUEaYLCVp8xyGmK4NJzLkL7NZ8Vt+xJtEMygC08NKUKKu2sZ0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxOTI2MjM0NzExMywKICAicHJvZmlsZUlkIiA6ICJiM2E3NjExNGVmMzI0ZjYyYWM4NDRiOWJmNTY1NGFiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcmd1eW1hbnBlcnNvbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNTgyZmNkZTY4OTIxYjE0YmY2ZWJkYTZkNjNmZWM4MWIyYzBlNjY4ZTJmYzJmYmZlOWFmNmY0YjdkNzJlMmYyIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+50\",1:\"§7Magic Find: §a+2\",2:\"§7Foraging Fortune: §a+11\",3:\"§7Foraging Wisdom: §a+1\",4:\"§7Hunting Wisdom: §a+1\",5:\"§7Hunter Fortune: §a+12\",6:\"§7Sweep: §a+9\",7:\"\",8:\"§7The more you Hunt, the stronger this\",9:\"§7cloak gets!\",10:\"\",11:\"§7Talk to §bDavid §7to view your progress!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§8§l* §8Soulbound §8§l*\",15:\"§f§lCOMMON CLOAK\"],Name:\"§fDavid's Cloak\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DAVIDS_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6f21e940-b23f-3149-a513-d529e5071131\",Properties:{textures:[0:{Name:\"textures\",Signature:\"iriFEhiDsS3PvOBdvJ5BApnyLTcP8cU6zTcd0wnMMbnm0UUw5TGv68OKsmU80FyhPMXLlqMvAyNzruP/I+FwHvU5pAUHkGSJUYNNXpDik3NzH4F53Yclm2IXkIEcdw8nc0T5k5i3Hndb22eSyoOsSHSJqodZKS5EIiYEjizhyJKufTlNTwuAxRNg3xIIYsyRGcAfnOjBUMeBn1Ye1dBOmet8dKA7N3gtlIq6c03+Lz5gsz8fn+xRTH7wl+YXeY23sO0sOh0jReZo+JQ9w9Hjj1WLGZJlGHO6nDQtWrJe4Ux/1G7eUMU+LIill12pxIxuKEbshxl4fnUo9TrpycAp15PBDa2k5lvBilHbkJRf5aey0504nyppwv5fiy1j5LedFDemxCf/xisIMEFcku25k+upfrDbZkBbkcHiROGrgJaXy8zM/j6kWE2bagLY+fZZhwhGzSV/CBHoQhcE0ls48pkcQm0dIhu7VfyApvPaAfjTCVRVjZUaqieSGqEE4gqvze8GedEL0F/UrNwWh1ZEYkkjHXBZ13PIMqNi6606k1K2ZnGGqYPVAbzuJKJdZx+9lkkkVJwuQnw73lDsUKqUr8YG/IavwNWWt2s7ju7AmWCdItg27RlqNPIJcXtUEaYLCVp8xyGmK4NJzLkL7NZ8Vt+xJtEMygC08NKUKKu2sZ0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxOTI2MjM0NzExMywKICAicHJvZmlsZUlkIiA6ICJiM2E3NjExNGVmMzI0ZjYyYWM4NDRiOWJmNTY1NGFiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcmd1eW1hbnBlcnNvbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zNTgyZmNkZTY4OTIxYjE0YmY2ZWJkYTZkNjNmZWM4MWIyYzBlNjY4ZTJmYzJmYmZlOWFmNmY0YjdkNzJlMmYyIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+50\",1:\"§7Magic Find: §b+2\",2:\"\",3:\"§7The more you Hunt, the stronger this\",4:\"§7cloak gets!\",5:\"\",6:\"§7Talk to §bDavid §7to view your progress!\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§8§l* §8Soulbound §8§l*\",12:\"§f§lCOMMON CLOAK\"],Name:\"§fDavid's Cloak\"}}",
     "damage": 3,
     "lore": [
       "§7Health: §c+50",
-      "§7Magic Find: §a+2",
-      "§7Foraging Fortune: §a+11",
-      "§7Foraging Wisdom: §a+1",
-      "§7Hunting Wisdom: §a+1",
-      "§7Hunter Fortune: §a+12",
-      "§7Sweep: §a+9",
+      "§7Magic Find: §b+2",
       "",
       "§7The more you Hunt, the stronger this",
       "§7cloak gets!",
       "",
       "§7Talk to §bDavid §7to view your progress!",
+      "",
+      "§eRight-click to equip!",
       "",
       "§8This item can be reforged!",
       "§8§l* §8Soulbound §8§l*",
@@ -52062,7 +52061,7 @@
     "internalname": "DAVIDS_CLOAK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/David%27s_Cloak"
@@ -80670,7 +80669,7 @@
     "internalname": "FIGHTING_BOOSTER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g4402b1f",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fighting_Booster"
@@ -87490,7 +87489,7 @@
     "internalname": "FORAGING_WISDOM_BOOSTER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Foraging_Wisdom_Booster"
@@ -122848,7 +122847,7 @@
       {
         "A1": "",
         "A2": "ENCHANTED_MELON:32",
-        "A3": "ENCHANTED_MELON:32",
+        "A3": "",
         "B1": "ENCHANTED_MELON:32",
         "B2": "ENCHANTED_MELON:32",
         "B3": "ENCHANTED_MELON:32",
@@ -128739,29 +128738,24 @@
   "LARGE_WINTER_SACK": {
     "itemid": "minecraft:skull",
     "displayname": "§9Winter Sack",
-    "nbttag": "{ExtraAttributes:{id:\"LARGE_WINTER_SACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"befbe342-02e8-312e-a98f-1376ad8aa174\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eqApSbvoqYEhjX75R6lIqkVQg5oqOop3+H+d5aHawloQzrQJii7zrRwmNje+guFQjfphrssTs4Jpx3wLpgG7yHijzgDTMqPPgtxDT8c/eYtbP7gEv4U1czH+zQIs8pyKA86WCUDakawuBWRbkAgV/CgxshaEB1abanIpmLO2WWMkl5EmxlQ0U1kd1+XGdY+4dPC0HuXhN+oFL2wgfrrv/UzG7zyR4woZ17myqpFADGGZ1Znt3VkyMI32OyrVS4rfnNSLOTXgAy8NmPCQeus0PrS8wCpHC5ZZa+ZDt0HHE4pFOyb4BcyFJCXtiEjVAT4kt1QUDKxTo/jJ1Vd22/fXt39hJiAGAPSV7GJw+JRyEoWoch3fiu2e8hXVhx6JLOggyaN1nsg5gM0+mYZqRjWgGWURu2DxJ8ZXoqRlHjEJJstD2NKS82jB3V+nLJtADVr5sHPxBUYZCFY2btPTuCqeTf7ibLtyTZr+DcEKi8zH0lDYmjnl6bmmCRsatlC9qJQRCnKI1N77QEC+KipnOCAoOFikMylxS3mXu2r+OJypIfNrmg6EeSEgdulwi4wmuUai2xIhAEPOVd8BZ2yVXJgbbnL2590zaCU6ul9yUz6bLFnxD5qij0mF5u6MU/sk9QWKimHFjDuMuR9sYa8GQdPRYKg6WkIgSnhnkHTAP5BnCIo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwNDY4NjI2MDEyMiwKICAicHJvZmlsZUlkIiA6ICJmMzA1ZjA5NDI0NTg0ZjU4YmEyYjY0ZjAyZDcyNDYyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJqcm9ja2EzMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYjMzOWIxY2Q0MDA1M2RlZmQ3ZDM1MjhlMDFmZWE4NzZkNDFiNDJmOWQ5MjY4NDYxZGE3OWY1ZjY2NzcxMjM2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Item pickups go directly into your\",1:\"§7sacks.\",2:\"\",3:\"§7Items: §aEnchanted Ice§7, §aEnchanted Packed Ice§7, §aEnchanted\",4:\"§aSnow Block§7, §aGlacial Fragment§7, §aGreen Gift§7, §aHunk of Blue\",5:\"§aIce§7, §aHunk of Ice§7, §aIce§7, §aPacked Ice§7, §aParty Gift§7, §aSnow Block§7,\",6:\"§aSnowball§7, §aWalnut§7, §aWhite Gift§7, §aWinter Fragment§7, §cRed Gift§7,\",7:\"§cVolcanic Rock\",8:\"\",9:\"§7Capacity: §e20,160 per item\",10:\"§8Sacks sum their capacity.\",11:\"\",12:\"§eRight Click to open sack!\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Winter Sack\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"LARGE_WINTER_SACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"befbe342-02e8-312e-a98f-1376ad8aa174\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eqApSbvoqYEhjX75R6lIqkVQg5oqOop3+H+d5aHawloQzrQJii7zrRwmNje+guFQjfphrssTs4Jpx3wLpgG7yHijzgDTMqPPgtxDT8c/eYtbP7gEv4U1czH+zQIs8pyKA86WCUDakawuBWRbkAgV/CgxshaEB1abanIpmLO2WWMkl5EmxlQ0U1kd1+XGdY+4dPC0HuXhN+oFL2wgfrrv/UzG7zyR4woZ17myqpFADGGZ1Znt3VkyMI32OyrVS4rfnNSLOTXgAy8NmPCQeus0PrS8wCpHC5ZZa+ZDt0HHE4pFOyb4BcyFJCXtiEjVAT4kt1QUDKxTo/jJ1Vd22/fXt39hJiAGAPSV7GJw+JRyEoWoch3fiu2e8hXVhx6JLOggyaN1nsg5gM0+mYZqRjWgGWURu2DxJ8ZXoqRlHjEJJstD2NKS82jB3V+nLJtADVr5sHPxBUYZCFY2btPTuCqeTf7ibLtyTZr+DcEKi8zH0lDYmjnl6bmmCRsatlC9qJQRCnKI1N77QEC+KipnOCAoOFikMylxS3mXu2r+OJypIfNrmg6EeSEgdulwi4wmuUai2xIhAEPOVd8BZ2yVXJgbbnL2590zaCU6ul9yUz6bLFnxD5qij0mF5u6MU/sk9QWKimHFjDuMuR9sYa8GQdPRYKg6WkIgSnhnkHTAP5BnCIo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwNDY4NjI2MDEyMiwKICAicHJvZmlsZUlkIiA6ICJmMzA1ZjA5NDI0NTg0ZjU4YmEyYjY0ZjAyZDcyNDYyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJqcm9ja2EzMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYjMzOWIxY2Q0MDA1M2RlZmQ3ZDM1MjhlMDFmZWE4NzZkNDFiNDJmOWQ5MjY4NDYxZGE3OWY1ZjY2NzcxMjM2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Holds items commonly found on\",1:\"§cJerry's Workshop§7! Items you pickup\",2:\"§7go directly into your sacks.\",3:\"\",4:\"§7Capacity: §e20,160 of each item\",5:\"§8Multiple sacks sum their capacity!\",6:\"\",7:\"§eRight Click to open!\",8:\"\",9:\"§9§lRARE SACK\"],Name:\"§9Winter Sack\"}}",
     "damage": 3,
     "lore": [
-      "§7Item pickups go directly into your",
-      "§7sacks.",
+      "§7Holds items commonly found on",
+      "§cJerry's Workshop§7! Items you pickup",
+      "§7go directly into your sacks.",
       "",
-      "§7Items: §aEnchanted Ice§7, §aEnchanted Packed Ice§7, §aEnchanted",
-      "§aSnow Block§7, §aGlacial Fragment§7, §aGreen Gift§7, §aHunk of Blue",
-      "§aIce§7, §aHunk of Ice§7, §aIce§7, §aPacked Ice§7, §aParty Gift§7, §aSnow Block§7,",
-      "§aSnowball§7, §aWalnut§7, §aWhite Gift§7, §aWinter Fragment§7, §cRed Gift§7,",
-      "§cVolcanic Rock",
+      "§7Capacity: §e20,160 of each item",
+      "§8Multiple sacks sum their capacity!",
       "",
-      "§7Capacity: §e20,160 per item",
-      "§8Sacks sum their capacity.",
+      "§eRight Click to open!",
       "",
-      "§eRight Click to open sack!",
-      "",
-      "§9§lRARE"
+      "§9§lRARE SACK"
     ],
     "internalname": "LARGE_WINTER_SACK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g54d9233",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Winter_Sack"
@@ -142055,30 +142049,24 @@
   "MEDIUM_LAVA_FISHING_SACK": {
     "itemid": "minecraft:skull",
     "displayname": "§9Medium Lava Fishing Sack",
-    "nbttag": "{ExtraAttributes:{id:\"MEDIUM_LAVA_FISHING_SACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"99da6a75-64a9-3c62-ab9c-4455dbfb4b10\",Properties:{textures:[0:{Name:\"textures\",Signature:\"YuSIngQiQDp/MAvQT1D+iSX6rInIBOC06NvrvSjl3/6HSwq3aQ8zL163jBQ0r2awbuM1Ani5/jekuuuXmvcjAKso2RQvMCFIdZ1i71HUEZ8oJamarKnqYWTPuGcCVwkj9gvFYM2B7iso/O8FgFKsK/duXTqeGuxBy2BpuZ+M5Bzh1WDNRXNmVw+PWQx2YIFM8fdH77ZAmyNpS6OftSBjQM0TNA0zAV49xJLUXzUFUdgC1V3tiCwt+e1Y77FO/VZK/m74Y8zXfr8yfrs9DSJvTFf77MLVwrj5aaH0P5k8feW1kYI+pKPG1XIErPmw5oEtfpjiaAhga9KqNONLrf65GpLNVWRClvla4QlfD+uR5KsLaZoSw+OLOLk14xmMTiwlFu/I6c9ndSvYbtBdFDH9Gf+aEIByUEcKdFOqX27brZLdHqdTI/dDaOkmg788Jc3ZcvmXctKU0qOtPK3x4LoqL/kzL10qXUWZSaBcp7lLDdbAdG7qg4s2PX587OXc10vVXIEVD+4LbJI87VBaN0kwnHkO5dsZLb196tEIxYfkhy/s8SWM0b9u4qAP8S+j0+Fehdv3Dcrd5664XDkK7MpHtn+o1mNTQSRBxIWne0Ise5GdaidwwJujTTHYza6cQP37iuKU5IZAb1UcUoSzQRmv9B14WUJWID/Afvur0OAvYKQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwNjIxNTE0NywKICAicHJvZmlsZUlkIiA6ICJkYmQ4MDQ2M2EwMzY0Y2FjYjI3OGNhODBhMDBkZGIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bG9nMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZTFhMzFmZDUxNzZhYTg4OGFlNGZjMmZlNzVkOGUxMjE4NWFhMDQ1NGYwMzc0MjUyNTBlMjE2YzcwOTc1YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Item pickups go directly into your\",1:\"§7sacks.\",2:\"\",3:\"§7Items: §aBlaze Powder§7, §aCoal§7, §aCup of Blood§7, §aFlaming Heart§7,\",4:\"§aFried Feather§7, §aGold Magmafish§7, §aHorn of Taurus§7, §aLava\",5:\"§aShell§7, §aLump of Magma§7, §aMagma Cream§7, §aMagmafish§7, §aMoogma\",6:\"§aPelt§7, §aNetherrack§7, §aOrb of Energy§7, §aPyroclastic Scale§7,\",7:\"§aScorched Crab Stick§7, §aSeared Escargot§7, §aSilver\",8:\"§aMagmafish§7, §aSinged Powder§7, §aThunder Fragment\",9:\"\",10:\"§7Capacity: §e6,720 per item\",11:\"§8Sacks sum their capacity.\",12:\"\",13:\"§eRight Click to open sack!\",14:\"\",15:\"§9§lRARE\"],Name:\"§9Medium Lava Fishing Sack\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MEDIUM_LAVA_FISHING_SACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"99da6a75-64a9-3c62-ab9c-4455dbfb4b10\",Properties:{textures:[0:{Name:\"textures\",Signature:\"YuSIngQiQDp/MAvQT1D+iSX6rInIBOC06NvrvSjl3/6HSwq3aQ8zL163jBQ0r2awbuM1Ani5/jekuuuXmvcjAKso2RQvMCFIdZ1i71HUEZ8oJamarKnqYWTPuGcCVwkj9gvFYM2B7iso/O8FgFKsK/duXTqeGuxBy2BpuZ+M5Bzh1WDNRXNmVw+PWQx2YIFM8fdH77ZAmyNpS6OftSBjQM0TNA0zAV49xJLUXzUFUdgC1V3tiCwt+e1Y77FO/VZK/m74Y8zXfr8yfrs9DSJvTFf77MLVwrj5aaH0P5k8feW1kYI+pKPG1XIErPmw5oEtfpjiaAhga9KqNONLrf65GpLNVWRClvla4QlfD+uR5KsLaZoSw+OLOLk14xmMTiwlFu/I6c9ndSvYbtBdFDH9Gf+aEIByUEcKdFOqX27brZLdHqdTI/dDaOkmg788Jc3ZcvmXctKU0qOtPK3x4LoqL/kzL10qXUWZSaBcp7lLDdbAdG7qg4s2PX587OXc10vVXIEVD+4LbJI87VBaN0kwnHkO5dsZLb196tEIxYfkhy/s8SWM0b9u4qAP8S+j0+Fehdv3Dcrd5664XDkK7MpHtn+o1mNTQSRBxIWne0Ise5GdaidwwJujTTHYza6cQP37iuKU5IZAb1UcUoSzQRmv9B14WUJWID/Afvur0OAvYKQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwNjIxNTE0NywKICAicHJvZmlsZUlkIiA6ICJkYmQ4MDQ2M2EwMzY0Y2FjYjI3OGNhODBhMDBkZGIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bG9nMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTg0ZTFhMzFmZDUxNzZhYTg4OGFlNGZjMmZlNzVkOGUxMjE4NWFhMDQ1NGYwMzc0MjUyNTBlMjE2YzcwOTc1YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Holds Lava Fishing items commonly\",1:\"§7found in the §cCrimson Isle§7! Items you\",2:\"§7pickup go directly into your sacks.\",3:\"\",4:\"§7Capacity: §e6,720 of each item\",5:\"§8Multiple sacks sum their capacity!\",6:\"\",7:\"§eRight Click to open!\",8:\"\",9:\"§9§lRARE SACK\"],Name:\"§9Medium Lava Fishing Sack\"}}",
     "damage": 3,
     "lore": [
-      "§7Item pickups go directly into your",
-      "§7sacks.",
+      "§7Holds Lava Fishing items commonly",
+      "§7found in the §cCrimson Isle§7! Items you",
+      "§7pickup go directly into your sacks.",
       "",
-      "§7Items: §aBlaze Powder§7, §aCoal§7, §aCup of Blood§7, §aFlaming Heart§7,",
-      "§aFried Feather§7, §aGold Magmafish§7, §aHorn of Taurus§7, §aLava",
-      "§aShell§7, §aLump of Magma§7, §aMagma Cream§7, §aMagmafish§7, §aMoogma",
-      "§aPelt§7, §aNetherrack§7, §aOrb of Energy§7, §aPyroclastic Scale§7,",
-      "§aScorched Crab Stick§7, §aSeared Escargot§7, §aSilver",
-      "§aMagmafish§7, §aSinged Powder§7, §aThunder Fragment",
+      "§7Capacity: §e6,720 of each item",
+      "§8Multiple sacks sum their capacity!",
       "",
-      "§7Capacity: §e6,720 per item",
-      "§8Sacks sum their capacity.",
+      "§eRight Click to open!",
       "",
-      "§eRight Click to open sack!",
-      "",
-      "§9§lRARE"
+      "§9§lRARE SACK"
     ],
     "internalname": "MEDIUM_LAVA_FISHING_SACK",
     "clickcommand": "",
     "crafttext": "Requires: Magmafish IX",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g54d9233",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Medium_Lava_Fishing_Sack"
@@ -142263,7 +142251,7 @@
     "internalname": "MEDIUM_POCKET_BLACK_HOLE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Medium_Pocket_Black_Hole"
@@ -219457,7 +219445,7 @@
     "internalname": "SKELETON_THE_FISH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0+mc1.21.5",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton__Fish"
@@ -223957,7 +223945,7 @@
     "internalname": "SMALL_POCKET_BLACK_HOLE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Pocket_Black_Hole"
@@ -224031,32 +224019,24 @@
   "SMALL_SLAYER_SACK": {
     "itemid": "minecraft:skull",
     "displayname": "§aSmall Slayer Sack",
-    "nbttag": "{ExtraAttributes:{id:\"SMALL_SLAYER_SACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2e9e06a1-de1c-349f-acab-253355a0a5d3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GXeDQYlqyu/nVZcYi+h3nil2BvbVY+zbuRel8h4WgwNK1wJU59t3QXDk7MKW5V94/XX5bv8i4Dk+oCtKVz3eH359IncE+eN7L56PHX1ZQiNP4gcYZketOZSr2YvYwCJFkfnSn02LsKQM/KtoMZMubjjGXBR8OuYqZCCGAOxaYTrzJz1nkP2uc/SchhapJ/Idpel/ZIQknRvLMuFcEgmnkRRkU2Bwy6cpHY3hoK7mSa1gpsFCnxNbTi04F+U2ZXzy3GJdpiR8Oq5hvHfxzuVfY1yTQZOBa7+UoFPNmdWRvI/6v/ZRDja/01CnmJZ8wpspOC2WMh2V+p3kNcZVzrzW9knivseS0w9lrXz3JWv80bUHNYozUQXoQ4iUx3DdFO37TDGD83Do9/vV382HE9awXbx0P1jcam83N0Ib8309ce4NOAJOtSlggoBU8nwXe8HDSuW6ZQk2zhaP5EReRH0l0AjNm3BvuLmABlgGMs6SAjE7qQSr45dQe9a2N6MZq1861YIiwIWaSVAJcp4hc//XH78yGjeiDemxHga8lwM6d4cHUzfiJhrrfQYnHj2hiI8ES4e51Du/sltB/dA/Mzxw2ccoS6Z9WHrzZQxlZifhBrjGrovCAdP4GYlMzP8YXoYXduDw9bAzU/sGZMz3c369ncqi9qSDlFvgC9e8yCuHx3Y=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDkwMjExNiwKICAicHJvZmlsZUlkIiA6ICI0NTM1Y2RjNjk3NGU0Nzk4YjljYzY4ODlkZWY1MDk2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIzZXlyZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM2Y2Y1OTFhYTIzNjNiZDg0MzQyNDA0ZGM1OTQxNjhiOTA0ZjY1YTFlMjVmOGJlNjU4YjkxYjU2NzYyOWRhZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Item pickups go directly into your\",1:\"§7sacks.\",2:\"\",3:\"§7Items: §aBlaze Rod Distillate§7, §aCrude Gabagool§7, §aDerelict\",4:\"§aAshe§7, §aGabagool Distillate§7, §aGlowstone Distillate§7, §aGolden\",5:\"§aTooth§7, §aMagma Cream Distillate§7, §aMolten Powder§7, §aNether\",6:\"§aWart Distillate§7, §aNull Atom§7, §aNull Ovoid§7, §aNull Sphere§7, §aRaw\",7:\"§aSoulflow§7, §aRevenant Catalyst§7, §aRevenant Flesh§7, §aRevenant\",8:\"§aViscera§7, §aSoulflow§7, §aSpider Catalyst§7, §aTarantula Catalyst§7,\",9:\"§aTarantula Silk§7, §aTarantula Web§7, §aToxic Arrow Poison§7,\",10:\"§aTwilight Arrow Poison§7, §aUndead Catalyst§7, §aWolf Tooth\",11:\"\",12:\"§7Capacity: §e2,240 per item\",13:\"§8Sacks sum their capacity.\",14:\"\",15:\"§eRight Click to open sack!\",16:\"\",17:\"§a§lUNCOMMON\"],Name:\"§aSmall Slayer Sack\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SMALL_SLAYER_SACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2e9e06a1-de1c-349f-acab-253355a0a5d3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GXeDQYlqyu/nVZcYi+h3nil2BvbVY+zbuRel8h4WgwNK1wJU59t3QXDk7MKW5V94/XX5bv8i4Dk+oCtKVz3eH359IncE+eN7L56PHX1ZQiNP4gcYZketOZSr2YvYwCJFkfnSn02LsKQM/KtoMZMubjjGXBR8OuYqZCCGAOxaYTrzJz1nkP2uc/SchhapJ/Idpel/ZIQknRvLMuFcEgmnkRRkU2Bwy6cpHY3hoK7mSa1gpsFCnxNbTi04F+U2ZXzy3GJdpiR8Oq5hvHfxzuVfY1yTQZOBa7+UoFPNmdWRvI/6v/ZRDja/01CnmJZ8wpspOC2WMh2V+p3kNcZVzrzW9knivseS0w9lrXz3JWv80bUHNYozUQXoQ4iUx3DdFO37TDGD83Do9/vV382HE9awXbx0P1jcam83N0Ib8309ce4NOAJOtSlggoBU8nwXe8HDSuW6ZQk2zhaP5EReRH0l0AjNm3BvuLmABlgGMs6SAjE7qQSr45dQe9a2N6MZq1861YIiwIWaSVAJcp4hc//XH78yGjeiDemxHga8lwM6d4cHUzfiJhrrfQYnHj2hiI8ES4e51Du/sltB/dA/Mzxw2ccoS6Z9WHrzZQxlZifhBrjGrovCAdP4GYlMzP8YXoYXduDw9bAzU/sGZMz3c369ncqi9qSDlFvgC9e8yCuHx3Y=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NDkwMjExNiwKICAicHJvZmlsZUlkIiA6ICI0NTM1Y2RjNjk3NGU0Nzk4YjljYzY4ODlkZWY1MDk2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIzZXlyZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM2Y2Y1OTFhYTIzNjNiZDg0MzQyNDA0ZGM1OTQxNjhiOTA0ZjY1YTFlMjVmOGJlNjU4YjkxYjU2NzYyOWRhZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Holds items commonly dropped by\",1:\"§cSlayers§7! Items you pickup go directly\",2:\"§7into your sacks.\",3:\"\",4:\"§7Capacity: §e2,240 of each item\",5:\"§8Multiple sacks sum their capacity!\",6:\"\",7:\"§eRight Click to open!\",8:\"\",9:\"§a§lUNCOMMON SACK\"],Name:\"§aSmall Slayer Sack\"}}",
     "damage": 3,
     "lore": [
-      "§7Item pickups go directly into your",
-      "§7sacks.",
+      "§7Holds items commonly dropped by",
+      "§cSlayers§7! Items you pickup go directly",
+      "§7into your sacks.",
       "",
-      "§7Items: §aBlaze Rod Distillate§7, §aCrude Gabagool§7, §aDerelict",
-      "§aAshe§7, §aGabagool Distillate§7, §aGlowstone Distillate§7, §aGolden",
-      "§aTooth§7, §aMagma Cream Distillate§7, §aMolten Powder§7, §aNether",
-      "§aWart Distillate§7, §aNull Atom§7, §aNull Ovoid§7, §aNull Sphere§7, §aRaw",
-      "§aSoulflow§7, §aRevenant Catalyst§7, §aRevenant Flesh§7, §aRevenant",
-      "§aViscera§7, §aSoulflow§7, §aSpider Catalyst§7, §aTarantula Catalyst§7,",
-      "§aTarantula Silk§7, §aTarantula Web§7, §aToxic Arrow Poison§7,",
-      "§aTwilight Arrow Poison§7, §aUndead Catalyst§7, §aWolf Tooth",
+      "§7Capacity: §e2,240 of each item",
+      "§8Multiple sacks sum their capacity!",
       "",
-      "§7Capacity: §e2,240 per item",
-      "§8Sacks sum their capacity.",
+      "§eRight Click to open!",
       "",
-      "§eRight Click to open sack!",
-      "",
-      "§a§lUNCOMMON"
+      "§a§lUNCOMMON SACK"
     ],
     "internalname": "SMALL_SLAYER_SACK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Zombie Slayer 5",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g19f28a05",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g54d9233",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Slayer_Sack"
@@ -243641,7 +243621,7 @@
   "SWEEP_BOOSTER": {
     "itemid": "minecraft:skull",
     "displayname": "§fSweep Booster",
-    "nbttag": "{ExtraAttributes:{id:\"SWEEP_BOOSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"571b1285-5ea8-3893-a515-b01f1bdb9c95\",Properties:{textures:[0:{Name:\"textures\",Signature:\"LlxRAT0rscokG2qOQkKro1X4ESdEmiX6PocXMjVmDtN1Mu7e/5HjtlzkajUt0bkb1z2CNlbZw+0nTSisR2RknssgZNVcx54jDQy00ukmMdtBMeCexmHZrPEAbeuFlXuJrnos53bcyYoPqOTfAJUcqjwp4/+Z08rY3XVPnip9nx/0EwdLkoOIWbZXJcXt2i7+HH88p6pNrbGuwi7+RlKnxlgCOjQysMd3MoTGpaASxLgoy/6v+B878QztThSjP7NBsvDOOpnPpAOsNFHCQA8D2/4hZFRPoOYw/VAWj0hhePdgeRiyErZ/oxAx4iLtn0ctH1FEBEIHczkioXpDtHI/mbAA7ZzaWVCpEVI27QpdNTO8oKebcX25IqDBSrOZbo3TDhkMMZUCxDaXbdgI7Mz8IO41ITa8iNlojgbwbeEV1zNPPMey9z/kmm3rZFuqcWX9Cau3YIvaTVqBwYqpUSsUEIsdEPn7q4tUIq/rP1jlOSsA/lrRciT7i+ZSxfkanEY8Ka4/y702w+CKxEvnGN0iyzU1ITOwRC1q8Zpr/FS4xsadNuPsac+Q2IKaBA+k7eQ/HilrCMyceIHjRcdl2J/97sbR7wDJJn6mjIveAW1JxLKMZJz7VtIm7hxBOD2RWJszRzDZcP5uMMrqAmnlHmuWftvutcXK6WehUEQ7X7yDRrg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjU3ODg5OCwKICAicHJvZmlsZUlkIiA6ICJlY2Q0ZTI4NjdkMmE0MTE2OTljYzlkMjMzYmM1YmEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXRlZEtub3QiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2YTA2MjRiNDQwNDQ5YTU3MTk1MTgzOTJmYTE4MmE5MWNiODkwZGIzNWFkNDQxMGFhZTQ3Zjg1YzJkNjE5YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §bꕮ Sweep §7booster when\",4:\"§7combined with Foraging Armor,\",5:\"§7Equipment, or Axes.\",6:\"\",7:\"§7Grants §2∮ Sweep§7.\",8:\"\",9:\"§f§lCOMMON BOOSTER\"],Name:\"§fSweep Booster\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SWEEP_BOOSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"571b1285-5ea8-3893-a515-b01f1bdb9c95\",Properties:{textures:[0:{Name:\"textures\",Signature:\"LlxRAT0rscokG2qOQkKro1X4ESdEmiX6PocXMjVmDtN1Mu7e/5HjtlzkajUt0bkb1z2CNlbZw+0nTSisR2RknssgZNVcx54jDQy00ukmMdtBMeCexmHZrPEAbeuFlXuJrnos53bcyYoPqOTfAJUcqjwp4/+Z08rY3XVPnip9nx/0EwdLkoOIWbZXJcXt2i7+HH88p6pNrbGuwi7+RlKnxlgCOjQysMd3MoTGpaASxLgoy/6v+B878QztThSjP7NBsvDOOpnPpAOsNFHCQA8D2/4hZFRPoOYw/VAWj0hhePdgeRiyErZ/oxAx4iLtn0ctH1FEBEIHczkioXpDtHI/mbAA7ZzaWVCpEVI27QpdNTO8oKebcX25IqDBSrOZbo3TDhkMMZUCxDaXbdgI7Mz8IO41ITa8iNlojgbwbeEV1zNPPMey9z/kmm3rZFuqcWX9Cau3YIvaTVqBwYqpUSsUEIsdEPn7q4tUIq/rP1jlOSsA/lrRciT7i+ZSxfkanEY8Ka4/y702w+CKxEvnGN0iyzU1ITOwRC1q8Zpr/FS4xsadNuPsac+Q2IKaBA+k7eQ/HilrCMyceIHjRcdl2J/97sbR7wDJJn6mjIveAW1JxLKMZJz7VtIm7hxBOD2RWJszRzDZcP5uMMrqAmnlHmuWftvutcXK6WehUEQ7X7yDRrg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjU3ODg5OCwKICAicHJvZmlsZUlkIiA6ICJlY2Q0ZTI4NjdkMmE0MTE2OTljYzlkMjMzYmM1YmEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXRlZEtub3QiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2YTA2MjRiNDQwNDQ5YTU3MTk1MTgzOTJmYTE4MmE5MWNiODkwZGIzNWFkNDQxMGFhZTQ3Zjg1YzJkNjE5YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §bꕮ Sweep §7booster when\",4:\"§7combined with Foraging Armor,\",5:\"§7Equipment, or Axes.\",6:\"\",7:\"§7Grants §2 Sweep§7.\",8:\"\",9:\"§f§lCOMMON BOOSTER\"],Name:\"§fSweep Booster\"}}",
     "damage": 3,
     "lore": [
       "§8Booster",
@@ -243651,14 +243631,14 @@
       "§7combined with Foraging Armor,",
       "§7Equipment, or Axes.",
       "",
-      "§7Grants §2∮ Sweep§7.",
+      "§7Grants §2 Sweep§7.",
       "",
       "§f§lCOMMON BOOSTER"
     ],
     "internalname": "SWEEP_BOOSTER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sweep_Booster"
@@ -245777,6 +245757,14 @@
             "chance": "100%"
           },
           {
+            "id": "TOXIC_ARROW_POISON",
+            "extra": [
+              "§eWeight: 1,800",
+              "§7x4-8"
+            ],
+            "chance": "15.254%"
+          },
+          {
             "id": "DYE_BRICK_RED",
             "extra": [],
             "chance": "0.00001%"
@@ -245831,9 +245819,10 @@
             "chance": "100%"
           },
           {
-            "id": "TOXIC_ARROW_POISON:16",
+            "id": "TOXIC_ARROW_POISON",
             "extra": [
-              "§eWeight: 1,800"
+              "§eWeight: 1,800",
+              "§7x6-8"
             ],
             "chance": "15.094%"
           },
@@ -245917,7 +245906,7 @@
             "id": "TOXIC_ARROW_POISON",
             "extra": [
               "§eWeight: 1,800",
-              "§7x24-30"
+              "§7x16-32"
             ],
             "chance": "14.845%"
           },
@@ -246031,9 +246020,9 @@
             "id": "TOXIC_ARROW_POISON",
             "extra": [
               "§eWeight: 1,800",
-              "§7x60-64"
+              "§7x32-48"
             ],
-            "chance": "14.973%"
+            "chance": "14.966%"
           },
           {
             "id": "BITE_RUNE;1",
@@ -246175,7 +246164,7 @@
             "extra": [
               "§eWeight: 1,800"
             ],
-            "chance": "12.818%"
+            "chance": "12.809%"
           },
           {
             "id": "BITE_RUNE;1",
@@ -273948,30 +273937,24 @@
   "WITCH_SACK": {
     "itemid": "minecraft:skull",
     "displayname": "§5Witch's Sack",
-    "nbttag": "{ExtraAttributes:{id:\"WITCH_SACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8dd63ba6-f886-3762-8a54-30609e4df7b4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uIShIENFdUhngm4ZlboMJpBE3dwf7qKhUbPYIQhr3R8TSPjbrHxxsYSNPevQ+QUghqIVuyDMf/vXCnYg59QhKceGavLfZI1t2ijQHOSOsaX+vl2PkZvaPee7LzMaldVxi7lBRO4c1iEdn3ouImwPXnv7Brn8NZ6HVrnMcn6ntHBNIz8pPSEzkblmY4zJokR/e89W8ybjutC79FopbBQZabtccY8PL6DAz2cZfYR4w03H0sZLNJV7ewmqZ/Zttts2LKBLDgOPjbrQF4AC3+NkewWKHOqvObQ93YXySyynetKthu/81OG3rv/BtOqW9aQiMhFknYzVY8fPRSry9i4Dk1w8wZqL1R1qdxUV8ftsCfW4240ymLSzKvDyU2WxqFDRNthNBPj4SUGQCyIVntVByG88OSk1JVoz2VUbkA3QwVRaTB7gAiHLj5vNhiWVxqTiKgymmKrFR64xpiUtytC/58DK/cyMdwjQH1gYuktl78Rj5+EIHKHIPkm5KpJOfmMyar56Z5Gy9ovmdvuhASfTG1QoMPkhkzkgt1hU3OxDpVxR8+OwMeFbOmzSRu/rbTGA5K2WOl1gLR8CL66PdcWm+1hHEAixh7NAENtRLRa7tqqMimT8hkhfzD+msLKe6yVL2L/6qUUH3b1eq2z+KVSc+jt5ELuLbFYethSV/BU0vTs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MDE2MDk2NTQ2NiwKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIyNzY0NWIzNWY2NmQzZGM2MGVhMDBhYjUyZTUxMjA2MzU5YjUxNzVjODNlZGU5NWM2N2FkN2ZhYmRmNTI1MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Item pickups go directly into your\",1:\"§7sacks.\",2:\"\",3:\"§7Items: §aBrittle Powder§7, §aConsole Panel§7, §aDirty Fingernails§7,\",4:\"§aFestering Fly§7, §aFrog Legs§7, §aFunny Bone§7, §aGelatinous Gloop§7,\",5:\"§aGlaciated Brains§7, §aJawbreaker§7, §aNever-Melt Ice§7, §aPixie Dust§7,\",6:\"§aRotted Leaf§7, §aRuffled Feather§7, §aShield Dust§7, §aSmoldering\",7:\"§aEmbers§7, §aSpell Soot§7, §aSpider Egg§7, §aVoid Ooze§7, §aWarmed\",8:\"§aFlakes§7, §aWaterbourne Lice\",9:\"\",10:\"§7Capacity: §e20,160 per item\",11:\"§8Sacks sum their capacity.\",12:\"\",13:\"§eRight Click to open sack!\",14:\"\",15:\"§5§lEPIC\"],Name:\"§5Witch's Sack\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WITCH_SACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8dd63ba6-f886-3762-8a54-30609e4df7b4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"uIShIENFdUhngm4ZlboMJpBE3dwf7qKhUbPYIQhr3R8TSPjbrHxxsYSNPevQ+QUghqIVuyDMf/vXCnYg59QhKceGavLfZI1t2ijQHOSOsaX+vl2PkZvaPee7LzMaldVxi7lBRO4c1iEdn3ouImwPXnv7Brn8NZ6HVrnMcn6ntHBNIz8pPSEzkblmY4zJokR/e89W8ybjutC79FopbBQZabtccY8PL6DAz2cZfYR4w03H0sZLNJV7ewmqZ/Zttts2LKBLDgOPjbrQF4AC3+NkewWKHOqvObQ93YXySyynetKthu/81OG3rv/BtOqW9aQiMhFknYzVY8fPRSry9i4Dk1w8wZqL1R1qdxUV8ftsCfW4240ymLSzKvDyU2WxqFDRNthNBPj4SUGQCyIVntVByG88OSk1JVoz2VUbkA3QwVRaTB7gAiHLj5vNhiWVxqTiKgymmKrFR64xpiUtytC/58DK/cyMdwjQH1gYuktl78Rj5+EIHKHIPkm5KpJOfmMyar56Z5Gy9ovmdvuhASfTG1QoMPkhkzkgt1hU3OxDpVxR8+OwMeFbOmzSRu/rbTGA5K2WOl1gLR8CL66PdcWm+1hHEAixh7NAENtRLRa7tqqMimT8hkhfzD+msLKe6yVL2L/6qUUH3b1eq2z+KVSc+jt5ELuLbFYethSV/BU0vTs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MDE2MDk2NTQ2NiwKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIyNzY0NWIzNWY2NmQzZGM2MGVhMDBhYjUyZTUxMjA2MzU5YjUxNzVjODNlZGU5NWM2N2FkN2ZhYmRmNTI1MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Holds items found during the §5Year of\",1:\"§5the Witch§7! Items you pickup go\",2:\"§7directly into your sacks.\",3:\"\",4:\"§7Capacity: §e20,160 of each item\",5:\"§8Multiple sacks sum their capacity!\",6:\"\",7:\"§eRight Click to open!\",8:\"\",9:\"§5§lEPIC SACK\"],Name:\"§5Witch's Sack\"}}",
     "damage": 3,
     "lore": [
-      "§7Item pickups go directly into your",
-      "§7sacks.",
+      "§7Holds items found during the §5Year of",
+      "§5the Witch§7! Items you pickup go",
+      "§7directly into your sacks.",
       "",
-      "§7Items: §aBrittle Powder§7, §aConsole Panel§7, §aDirty Fingernails§7,",
-      "§aFestering Fly§7, §aFrog Legs§7, §aFunny Bone§7, §aGelatinous Gloop§7,",
-      "§aGlaciated Brains§7, §aJawbreaker§7, §aNever-Melt Ice§7, §aPixie Dust§7,",
-      "§aRotted Leaf§7, §aRuffled Feather§7, §aShield Dust§7, §aSmoldering",
-      "§aEmbers§7, §aSpell Soot§7, §aSpider Egg§7, §aVoid Ooze§7, §aWarmed",
-      "§aFlakes§7, §aWaterbourne Lice",
+      "§7Capacity: §e20,160 of each item",
+      "§8Multiple sacks sum their capacity!",
       "",
-      "§7Capacity: §e20,160 per item",
-      "§8Sacks sum their capacity.",
+      "§eRight Click to open!",
       "",
-      "§eRight Click to open sack!",
-      "",
-      "§5§lEPIC"
+      "§5§lEPIC SACK"
     ],
     "internalname": "WITCH_SACK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g54d9233",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Witch%27s_Sack"
