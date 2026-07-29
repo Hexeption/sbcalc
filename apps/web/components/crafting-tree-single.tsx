@@ -2,7 +2,10 @@
 
 import { Button } from "@workspace/ui/components/button";
 import { ChevronDown, ChevronUp, ListChecks, Wrench } from "lucide-react";
+import { useMemo } from "react";
 import { RecipeTree } from "@/components/recipe-tree";
+import { getForgeRequirements } from "@/lib/forge-tracker-utils";
+import { useRecipeData } from "@/lib/recipe-data-context";
 
 export function CraftingTreeSingle(props: {
   selectedItem: string;
@@ -34,6 +37,16 @@ export function CraftingTreeSingle(props: {
     checkedItems,
     onToggleChecked,
   } = props;
+  const { recipes } = useRecipeData();
+  const forgeRequirements = useMemo(
+    () =>
+      new Map(
+        getForgeRequirements(selectedItem, multiplier, recipes).map(
+          (requirement) => [requirement.itemId, requirement] as const,
+        ),
+      ),
+    [selectedItem, multiplier, recipes],
+  );
 
   return (
     <div className="rounded-xl border border-border/60 bg-card/60 backdrop-blur-sm">
@@ -82,6 +95,8 @@ export function CraftingTreeSingle(props: {
           todoMode={todoMode}
           checkedItems={checkedItems}
           onToggleChecked={onToggleChecked}
+          forgePlanTargetItemId={selectedItem}
+          forgeRequirements={forgeRequirements}
         />
       </div>
     </div>

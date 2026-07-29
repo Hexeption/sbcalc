@@ -3,6 +3,7 @@ import { act, fireEvent, render, screen } from "@testing-library/react";
 import React from "react";
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { ForgeTracker } from "@/components/forge-tracker";
+import { ForgeTreeTrackerControls } from "@/components/forge-tree-tracker-controls";
 import { useCalculatorStore } from "@/lib/calculator-store";
 
 const recipeData = vi.hoisted(() => ({
@@ -80,7 +81,7 @@ describe("ForgeTracker", () => {
     vi.useRealTimers();
   });
 
-  it("renders nested requirements only for a forge target", () => {
+  it("renders the compact tracker only for a forge target", () => {
     const { rerender } = render(
       <ForgeTracker
         targetItemId="TARGET"
@@ -90,8 +91,8 @@ describe("ForgeTracker", () => {
     );
 
     expect(screen.getByText("Forge Tracker")).toBeInTheDocument();
-    expect(screen.getByText("Nested Part")).toBeInTheDocument();
-    expect(screen.getByText("Target Item")).toBeInTheDocument();
+    expect(screen.queryByText("Required forge items")).not.toBeInTheDocument();
+    expect(screen.getAllByText("Available")).toHaveLength(2);
 
     rerender(
       <ForgeTracker
@@ -126,10 +127,14 @@ describe("ForgeTracker", () => {
     );
 
     expect(screen.getByText("Other plan")).toBeInTheDocument();
-    expect(screen.getByText("1 / 2 occupied")).toBeInTheDocument();
+    expect(screen.getByText("1 / 2 slots")).toBeInTheDocument();
   });
 
-  it("starts with restored remaining time, becomes ready, and collects", () => {
+  it("shows restored progress, becomes ready, and collects", () => {
+    act(() => {
+      useCalculatorStore.getState().startForgeJob("TARGET", "PART", 20, 5, 2);
+    });
+
     render(
       <ForgeTracker
         targetItemId="TARGET"
@@ -138,12 +143,48 @@ describe("ForgeTracker", () => {
       />,
     );
 
-    const firstStartButton = screen.getAllByRole("button", {
-      name: "Start",
-    })[0];
-    expect(firstStartButton).toBeDefined();
-    if (!firstStartButton) return;
-    fireEvent.click(firstStartButton);
+    expect(screen.getByText("5s")).toBeInTheDocument();
+    expect(
+      screen.getByRole("progressbar", { name: "Nested Part forge progress" }),
+    ).toHaveAttribute("aria-valuenow", "75");
+
+    act(() => vi.advanceTimersByTime(5_000));
+    expect(screen.getByText("Ready")).toBeInTheDocument();
+    fireEvent.click(
+      screen.getByRole("button", { name: "Collect Nested Part" }),
+    );
+
+    expect(
+      useCalculatorStore.getState().forgeTrackerPlans.TARGET?.completedByItem
+        .PART,
+    ).toBe(1);
+  });
+
+  it("edits completed quantity and starts jobs from a tree control", () => {
+    render(
+      <ForgeTreeTrackerControls
+        planTargetItemId="TARGET"
+        itemName="Nested Part"
+        requirement={{
+          itemId: "PART",
+          requiredQuantity: 2,
+          forgeTimeSeconds: 20,
+        }}
+        forgeSettings={forgeSettings}
+      />,
+    );
+
+    fireEvent.change(screen.getByLabelText("Nested Part completed"), {
+      target: { value: "1" },
+    });
+    expect(
+      useCalculatorStore.getState().forgeTrackerPlans.TARGET?.completedByItem
+        .PART,
+    ).toBe(1);
+
+    fireEvent.click(
+      screen.getByRole("button", { name: "Start forging Nested Part" }),
+    );
     fireEvent.click(
       screen.getByLabelText("This job is already running in-game"),
     );
@@ -152,18 +193,9 @@ describe("ForgeTracker", () => {
     });
     fireEvent.click(screen.getByRole("button", { name: "Start job" }));
 
-    expect(screen.getByText("5s")).toBeInTheDocument();
-    expect(
-      screen.getByRole("progressbar", { name: "Nested Part forge progress" }),
-    ).toHaveAttribute("aria-valuenow", "75");
-
-    act(() => vi.advanceTimersByTime(5_000));
-    expect(screen.getByText("Ready")).toBeInTheDocument();
-    fireEvent.click(screen.getByRole("button", { name: "Collect" }));
-
-    expect(
-      useCalculatorStore.getState().forgeTrackerPlans.TARGET?.completedByItem
-        .PART,
-    ).toBe(1);
+    expect(useCalculatorStore.getState().activeForgeJobs).toHaveLength(1);
+    expect(useCalculatorStore.getState().activeForgeJobs[0]?.endsAtMs).toBe(
+      Date.now() + 5_000,
+    );
   });
 });

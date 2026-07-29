@@ -1,7 +1,6 @@
 "use client";
 
 import { Button } from "@workspace/ui/components/button";
-import { Checkbox } from "@workspace/ui/components/checkbox";
 import {
   Dialog,
   DialogClose,
@@ -12,18 +11,13 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@workspace/ui/components/dialog";
-import { Input } from "@workspace/ui/components/input";
-import { Label } from "@workspace/ui/components/label";
 import { Progress } from "@workspace/ui/components/progress";
-import { Anvil, Check, Clock3, Play, RotateCcw, Trash2 } from "lucide-react";
-import { useEffect, useId, useMemo, useState } from "react";
+import { Anvil, Check, RotateCcw, Trash2 } from "lucide-react";
+import { useEffect, useMemo, useState } from "react";
 import { ItemImage } from "@/components/item-image";
 import { MinecraftColoredText } from "@/components/minecraft-colored-text";
 import { useCalculatorStore } from "@/lib/calculator-store";
-import {
-  applyQuickForgeReduction,
-  formatForgeTime,
-} from "@/lib/forge-time-utils";
+import { formatForgeTime } from "@/lib/forge-time-utils";
 import {
   getForgeJobProgress,
   getForgeJobRemainingSeconds,
@@ -40,170 +34,8 @@ interface ForgeTrackerProps {
   forgeSettings: ForgeSettings;
 }
 
-interface TimeParts {
-  days: number;
-  hours: number;
-  minutes: number;
-  seconds: number;
-}
-
-function splitDuration(totalSeconds: number): TimeParts {
-  const normalized = Math.max(0, Math.floor(totalSeconds));
-  return {
-    days: Math.floor(normalized / 86400),
-    hours: Math.floor((normalized % 86400) / 3600),
-    minutes: Math.floor((normalized % 3600) / 60),
-    seconds: normalized % 60,
-  };
-}
-
-function combineDuration(parts: TimeParts): number {
-  return (
-    Math.max(0, parts.days) * 86400 +
-    Math.max(0, parts.hours) * 3600 +
-    Math.max(0, parts.minutes) * 60 +
-    Math.max(0, parts.seconds)
-  );
-}
-
 function stripMinecraftFormatting(value: string): string {
-  return value.replace(/(?:Â)?§./g, "");
-}
-
-function ForgeStartDialog({
-  durationSeconds,
-  disabled,
-  onStart,
-}: {
-  durationSeconds: number;
-  disabled: boolean;
-  onStart: (remainingSeconds: number) => boolean;
-}) {
-  const id = useId();
-  const [open, setOpen] = useState(false);
-  const [alreadyRunning, setAlreadyRunning] = useState(false);
-  const [timeParts, setTimeParts] = useState<TimeParts>(() =>
-    splitDuration(durationSeconds),
-  );
-
-  useEffect(() => {
-    if (!open) return;
-    setAlreadyRunning(false);
-    setTimeParts(splitDuration(durationSeconds));
-  }, [open, durationSeconds]);
-
-  const enteredRemainingSeconds = combineDuration(timeParts);
-  const remainingSeconds = alreadyRunning
-    ? enteredRemainingSeconds
-    : durationSeconds;
-  const invalidRemaining =
-    alreadyRunning && enteredRemainingSeconds > durationSeconds;
-
-  const updatePart = (part: keyof TimeParts, rawValue: string) => {
-    const parsed = Number(rawValue);
-    const maximum = part === "days" ? Number.MAX_SAFE_INTEGER : 59;
-    setTimeParts((current) => ({
-      ...current,
-      [part]: Number.isFinite(parsed)
-        ? Math.min(maximum, Math.max(0, Math.floor(parsed)))
-        : 0,
-    }));
-  };
-
-  return (
-    <Dialog open={open} onOpenChange={setOpen}>
-      <DialogTrigger asChild>
-        <Button size="sm" className="h-8 text-xs" disabled={disabled}>
-          <Play className="mr-1.5 h-3.5 w-3.5" />
-          Start
-        </Button>
-      </DialogTrigger>
-      <DialogContent>
-        <DialogHeader>
-          <DialogTitle>Start forge job</DialogTitle>
-          <DialogDescription>
-            The calculated duration is {formatForgeTime(durationSeconds)}. One
-            global forge slot will be occupied.
-          </DialogDescription>
-        </DialogHeader>
-
-        <div className="space-y-4">
-          <div className="flex items-start gap-2.5 rounded-lg border border-border/50 p-3">
-            <Checkbox
-              id={`${id}-already-running`}
-              checked={alreadyRunning}
-              onCheckedChange={(checked) => setAlreadyRunning(checked === true)}
-              className="mt-0.5"
-            />
-            <div className="space-y-1">
-              <Label
-                htmlFor={`${id}-already-running`}
-                className="cursor-pointer text-sm"
-              >
-                This job is already running in-game
-              </Label>
-              <p className="text-xs text-muted-foreground">
-                Enter its remaining time to restore the correct progress.
-              </p>
-            </div>
-          </div>
-
-          {alreadyRunning && (
-            <div className="space-y-2">
-              <Label>Remaining time</Label>
-              <div className="grid grid-cols-2 gap-2 sm:grid-cols-4">
-                {(
-                  [
-                    ["days", "Days"],
-                    ["hours", "Hours"],
-                    ["minutes", "Minutes"],
-                    ["seconds", "Seconds"],
-                  ] as const
-                ).map(([part, label]) => (
-                  <div key={part} className="space-y-1">
-                    <Label
-                      htmlFor={`${id}-${part}`}
-                      className="text-[11px] text-muted-foreground"
-                    >
-                      {label}
-                    </Label>
-                    <Input
-                      id={`${id}-${part}`}
-                      type="number"
-                      min={0}
-                      max={part === "days" ? undefined : 59}
-                      value={timeParts[part]}
-                      onChange={(event) => updatePart(part, event.target.value)}
-                    />
-                  </div>
-                ))}
-              </div>
-              {invalidRemaining && (
-                <p className="text-xs text-destructive">
-                  Remaining time cannot exceed the calculated forge duration.
-                </p>
-              )}
-            </div>
-          )}
-        </div>
-
-        <DialogFooter>
-          <DialogClose asChild>
-            <Button variant="outline">Cancel</Button>
-          </DialogClose>
-          <Button
-            disabled={invalidRemaining}
-            onClick={() => {
-              if (onStart(remainingSeconds)) setOpen(false);
-            }}
-          >
-            <Play className="mr-1.5 h-4 w-4" />
-            Start job
-          </Button>
-        </DialogFooter>
-      </DialogContent>
-    </Dialog>
-  );
+  return value.replace(/(?:\u00c2)?\u00a7./g, "");
 }
 
 function ForgeSlot({
@@ -225,11 +57,13 @@ function ForgeSlot({
 
   if (!job) {
     return (
-      <div className="flex min-h-28 flex-col items-center justify-center rounded-lg border border-dashed border-border/60 bg-muted/10 p-3 text-center">
-        <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+      <div className="flex h-20 min-w-36 flex-col items-center justify-center rounded-md border border-dashed border-border/60 bg-muted/10 px-2">
+        <span className="text-[9px] font-medium uppercase tracking-wider text-muted-foreground">
           Slot {index + 1}
         </span>
-        <span className="mt-2 text-xs text-muted-foreground/70">Available</span>
+        <span className="mt-1 text-[10px] text-muted-foreground/70">
+          Available
+        </span>
       </div>
     );
   }
@@ -249,19 +83,19 @@ function ForgeSlot({
 
   return (
     <div
-      className={`min-h-28 rounded-lg border p-3 ${
+      className={`h-20 min-w-36 rounded-md border px-2 py-1.5 ${
         ready
           ? "border-emerald-500/40 bg-emerald-500/5"
           : "border-border/60 bg-muted/15"
       }`}
     >
-      <div className="flex items-center gap-2">
-        <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+      <div className="flex items-center gap-1.5">
+        <span className="text-[9px] font-medium uppercase tracking-wider text-muted-foreground">
           Slot {index + 1}
         </span>
         {!belongsToCurrentPlan && (
           <span
-            className="ml-auto max-w-28 truncate rounded bg-blue-500/10 px-1.5 py-0.5 text-[9px] text-blue-600 dark:text-blue-400"
+            className="ml-auto truncate rounded bg-blue-500/10 px-1 py-0.5 text-[8px] text-blue-600 dark:text-blue-400"
             title={`For ${targetName}`}
           >
             Other plan
@@ -269,53 +103,53 @@ function ForgeSlot({
         )}
       </div>
 
-      <div className="mt-2 flex items-center gap-2">
+      <div className="mt-1 flex min-w-0 items-center gap-1.5">
         <ItemImage
           entry={entry}
           internalname={job.itemId}
           alt={plainDisplayName}
-          width={24}
-          height={24}
+          width={18}
+          height={18}
         />
         <MinecraftColoredText
           text={displayName}
-          className="min-w-0 flex-1 truncate text-xs font-medium"
+          className="min-w-0 flex-1 truncate text-[10px] font-medium"
           title={plainDisplayName}
         />
       </div>
 
-      <div className="mt-2 flex items-center justify-between gap-2 font-mono text-xs">
-        <span className={ready ? "text-emerald-600 dark:text-emerald-400" : ""}>
+      <div className="mt-1 flex items-center gap-1.5">
+        <Progress
+          value={progress}
+          aria-label={`${plainDisplayName} forge progress`}
+          className="h-1 flex-1"
+        />
+        <span
+          className={`whitespace-nowrap font-mono text-[9px] ${
+            ready ? "text-emerald-600 dark:text-emerald-400" : ""
+          }`}
+        >
           {ready ? "Ready" : formatForgeTime(remainingSeconds)}
         </span>
-        <span className="text-[10px] text-muted-foreground">
-          {Math.round(progress)}%
-        </span>
-      </div>
-      <Progress
-        value={progress}
-        aria-label={`${plainDisplayName} forge progress`}
-        className="mt-1.5 h-1.5"
-      />
-
-      <div className="mt-2 flex justify-end gap-1.5">
         <Button
           variant="ghost"
-          size="sm"
-          className="h-7 px-2 text-[10px] text-muted-foreground hover:text-destructive"
+          size="icon"
+          className="h-5 w-5 shrink-0 text-muted-foreground hover:text-destructive"
           onClick={() => onCancel(job.id)}
+          aria-label={`Cancel ${plainDisplayName}`}
+          title="Cancel job"
         >
-          <Trash2 className="mr-1 h-3 w-3" />
-          Cancel
+          <Trash2 className="h-3 w-3" />
         </Button>
         {ready && (
           <Button
-            size="sm"
-            className="h-7 px-2 text-[10px]"
+            size="icon"
+            className="h-5 w-5 shrink-0"
             onClick={() => onCollect(job.id)}
+            aria-label={`Collect ${plainDisplayName}`}
+            title="Collect item"
           >
-            <Check className="mr-1 h-3 w-3" />
-            Collect
+            <Check className="h-3 w-3" />
           </Button>
         )}
       </div>
@@ -335,12 +169,13 @@ function ResetPlanDialog({
       <DialogTrigger asChild>
         <Button
           variant="ghost"
-          size="sm"
+          size="icon"
           disabled={disabled}
-          className="h-7 px-2 text-xs text-muted-foreground hover:text-destructive"
+          className="h-7 w-7 shrink-0 text-muted-foreground hover:text-destructive"
+          aria-label="Reset forge plan"
+          title="Reset plan"
         >
-          <RotateCcw className="mr-1 h-3.5 w-3.5" />
-          Reset plan
+          <RotateCcw className="h-3.5 w-3.5" />
         </Button>
       </DialogTrigger>
       <DialogContent>
@@ -371,11 +206,9 @@ export function ForgeTracker({
   targetQuantity,
   forgeSettings,
 }: ForgeTrackerProps) {
-  const { recipes, itemsData } = useRecipeData();
+  const { recipes } = useRecipeData();
   const forgeTrackerPlans = useCalculatorStore((s) => s.forgeTrackerPlans);
   const activeForgeJobs = useCalculatorStore((s) => s.activeForgeJobs);
-  const setForgeCompleted = useCalculatorStore((s) => s.setForgeCompleted);
-  const startForgeJob = useCalculatorStore((s) => s.startForgeJob);
   const collectForgeJob = useCalculatorStore((s) => s.collectForgeJob);
   const cancelForgeJob = useCalculatorStore((s) => s.cancelForgeJob);
   const resetForgePlan = useCalculatorStore((s) => s.resetForgePlan);
@@ -399,7 +232,6 @@ export function ForgeTracker({
     forgeTrackerPlans[targetItemId]?.completedByItem ?? {};
   const configuredSlots = Math.max(1, forgeSettings.forgeSlots);
   const renderedSlotCount = Math.max(configuredSlots, activeForgeJobs.length);
-  const slotsFull = activeForgeJobs.length >= configuredSlots;
   const currentPlanJobs = activeForgeJobs.filter(
     (job) => job.planTargetItemId === targetItemId,
   );
@@ -424,187 +256,52 @@ export function ForgeTracker({
 
   return (
     <section className="rounded-xl border border-border/60 bg-card/60 backdrop-blur-sm">
-      <div className="flex flex-wrap items-center justify-between gap-3 border-b border-border/40 px-5 py-3">
-        <div className="flex items-center gap-2">
-          <Anvil className="h-4 w-4 text-amber-600 dark:text-amber-400" />
-          <h3 className="text-sm font-semibold">Forge Tracker</h3>
+      <div className="flex flex-wrap items-center gap-2 border-b border-border/40 px-3 py-2">
+        <div className="flex shrink-0 items-center gap-1.5">
+          <Anvil className="h-3.5 w-3.5 text-amber-600 dark:text-amber-400" />
+          <h3 className="text-xs font-semibold">Forge Tracker</h3>
         </div>
+
+        <div className="flex min-w-44 flex-1 items-center gap-2 sm:max-w-sm">
+          <Progress
+            value={overallProgress}
+            aria-label="Forge plan progress"
+            className="h-1.5 flex-1"
+          />
+          <span className="whitespace-nowrap font-mono text-[10px] text-muted-foreground">
+            {completedTowardPlan.toLocaleString()} /{" "}
+            {totalRequired.toLocaleString()}
+          </span>
+        </div>
+
+        <span className="ml-auto whitespace-nowrap font-mono text-[10px] text-muted-foreground">
+          {activeForgeJobs.length} / {configuredSlots} slots
+        </span>
         <ResetPlanDialog
           disabled={!hasPlanData}
           onReset={() => resetForgePlan(targetItemId)}
         />
       </div>
 
-      <div className="space-y-5 p-4 sm:p-5">
-        <div className="space-y-2">
-          <div className="flex items-center justify-between gap-3 text-xs">
-            <span className="font-medium">Plan progress</span>
-            <span className="font-mono text-muted-foreground">
-              {completedTowardPlan.toLocaleString()} /{" "}
-              {totalRequired.toLocaleString()} operations
-            </span>
-          </div>
-          <Progress value={overallProgress} aria-label="Forge plan progress" />
-        </div>
-
-        <div className="space-y-2.5">
-          <div className="flex flex-wrap items-center justify-between gap-2">
-            <div className="flex items-center gap-2">
-              <Clock3 className="h-3.5 w-3.5 text-primary" />
-              <h4 className="text-xs font-semibold uppercase tracking-wider">
-                Active forge slots
-              </h4>
-            </div>
-            <span className="font-mono text-xs text-muted-foreground">
-              {activeForgeJobs.length} / {configuredSlots} occupied
-            </span>
-          </div>
-          {activeForgeJobs.length > configuredSlots && (
-            <p className="rounded-md border border-amber-500/25 bg-amber-500/10 px-3 py-2 text-xs text-amber-700 dark:text-amber-300">
-              More jobs are active than the configured slot count. They keep
-              running, but no new job can start until capacity is available.
-            </p>
-          )}
-          <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 xl:grid-cols-3">
-            {Array.from({ length: renderedSlotCount }, (_, index) => (
-              <ForgeSlot
-                key={activeForgeJobs[index]?.id ?? `empty-${index}`}
-                job={activeForgeJobs[index]}
-                index={index}
-                currentTargetItemId={targetItemId}
-                nowMs={nowMs}
-                onCollect={collectForgeJob}
-                onCancel={cancelForgeJob}
-              />
-            ))}
-          </div>
-        </div>
-
-        <div className="space-y-2.5">
-          <h4 className="text-xs font-semibold uppercase tracking-wider">
-            Required forge items
-          </h4>
-          <div className="space-y-2">
-            {requirements.map((requirement) => {
-              const entry =
-                recipes[requirement.itemId] || itemsData[requirement.itemId];
-              const displayName = getDisplayName(
-                entry,
-                requirement.itemId,
-                itemsData,
-              );
-              const plainDisplayName = stripMinecraftFormatting(displayName);
-              const completed = completedByItem[requirement.itemId] ?? 0;
-              const activeCount = activeForgeJobs.filter(
-                (job) =>
-                  job.planTargetItemId === targetItemId &&
-                  job.itemId === requirement.itemId,
-              ).length;
-              const accountedFor = completed + activeCount;
-              const itemProgress =
-                requirement.requiredQuantity > 0
-                  ? (Math.min(completed, requirement.requiredQuantity) /
-                      requirement.requiredQuantity) *
-                    100
-                  : 0;
-              const surplus = Math.max(
-                0,
-                completed - requirement.requiredQuantity,
-              );
-              const effectiveDuration = applyQuickForgeReduction(
-                requirement.forgeTimeSeconds,
-                forgeSettings.quickForgeLevel ?? 0,
-              );
-
-              return (
-                <div
-                  key={requirement.itemId}
-                  className="rounded-lg border border-border/50 bg-muted/10 p-3"
-                >
-                  <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
-                    <div className="flex min-w-0 flex-1 items-center gap-2.5">
-                      <ItemImage
-                        entry={entry}
-                        internalname={requirement.itemId}
-                        alt={plainDisplayName}
-                        width={28}
-                        height={28}
-                      />
-                      <div className="min-w-0 flex-1">
-                        <MinecraftColoredText
-                          text={displayName}
-                          className="block truncate text-sm font-medium"
-                          title={plainDisplayName}
-                        />
-                        <div className="mt-0.5 flex flex-wrap items-center gap-x-2 text-[10px] text-muted-foreground">
-                          <span>{formatForgeTime(effectiveDuration)} each</span>
-                          {activeCount > 0 && (
-                            <span className="text-blue-600 dark:text-blue-400">
-                              {activeCount} active
-                            </span>
-                          )}
-                          {surplus > 0 && (
-                            <span className="text-amber-600 dark:text-amber-400">
-                              +{surplus} extra
-                            </span>
-                          )}
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="flex items-end gap-2 sm:items-center">
-                      <div className="space-y-1">
-                        <Label
-                          htmlFor={`forge-completed-${targetItemId}-${requirement.itemId}`}
-                          className="text-[10px] text-muted-foreground"
-                        >
-                          Completed
-                        </Label>
-                        <Input
-                          id={`forge-completed-${targetItemId}-${requirement.itemId}`}
-                          type="number"
-                          min={0}
-                          value={completed}
-                          onChange={(event) =>
-                            setForgeCompleted(
-                              targetItemId,
-                              requirement.itemId,
-                              Number(event.target.value),
-                            )
-                          }
-                          className="h-8 w-24 font-mono text-xs"
-                        />
-                      </div>
-                      <span className="mb-2 font-mono text-xs text-muted-foreground">
-                        / {requirement.requiredQuantity.toLocaleString()}
-                      </span>
-                      <ForgeStartDialog
-                        durationSeconds={effectiveDuration}
-                        disabled={
-                          slotsFull ||
-                          accountedFor >= requirement.requiredQuantity
-                        }
-                        onStart={(remainingSeconds) =>
-                          startForgeJob(
-                            targetItemId,
-                            requirement.itemId,
-                            effectiveDuration,
-                            remainingSeconds,
-                            requirement.requiredQuantity,
-                          )
-                        }
-                      />
-                    </div>
-                  </div>
-                  <Progress
-                    value={itemProgress}
-                    aria-label={`${plainDisplayName} completed quantity`}
-                    className="mt-3 h-1.5"
-                  />
-                </div>
-              );
-            })}
-          </div>
+      <div className="p-2.5">
+        {activeForgeJobs.length > configuredSlots && (
+          <p className="mb-2 rounded-md border border-amber-500/25 bg-amber-500/10 px-2 py-1 text-[10px] text-amber-700 dark:text-amber-300">
+            Active jobs exceed the configured slots. New jobs stay disabled
+            until a slot is free.
+          </p>
+        )}
+        <div className="grid grid-flow-col auto-cols-[minmax(9rem,1fr)] gap-2 overflow-x-auto pb-0.5">
+          {Array.from({ length: renderedSlotCount }, (_, index) => (
+            <ForgeSlot
+              key={activeForgeJobs[index]?.id ?? `empty-${index}`}
+              job={activeForgeJobs[index]}
+              index={index}
+              currentTargetItemId={targetItemId}
+              nowMs={nowMs}
+              onCollect={collectForgeJob}
+              onCancel={cancelForgeJob}
+            />
+          ))}
         </div>
       </div>
     </section>

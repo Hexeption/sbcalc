@@ -2,8 +2,10 @@
 
 import { Button } from "@workspace/ui/components/button";
 import { ChevronDown, ChevronUp, ListChecks, Wrench, X } from "lucide-react";
+import { useMemo } from "react";
 import { MinecraftColoredText } from "@/components/minecraft-colored-text";
 import { RecipeTree } from "@/components/recipe-tree";
+import { getForgeRequirements } from "@/lib/forge-tracker-utils";
 import { useRecipeData } from "@/lib/recipe-data-context";
 import { getDisplayName } from "@/lib/utils";
 
@@ -49,7 +51,16 @@ export function CraftingTreeMulti(props: {
     selectedItemId,
     itemsData,
   );
-  const plainDisplayName = displayName.replace(/§./g, "");
+  const plainDisplayName = displayName.replace(/(?:\u00c2)?\u00a7./g, "");
+  const forgeRequirements = useMemo(
+    () =>
+      new Map(
+        getForgeRequirements(selectedItemId, multiplier, recipes).map(
+          (requirement) => [requirement.itemId, requirement] as const,
+        ),
+      ),
+    [selectedItemId, multiplier, recipes],
+  );
 
   return (
     <div className="rounded-xl border border-border/60 bg-card/60 backdrop-blur-sm">
@@ -109,6 +120,8 @@ export function CraftingTreeMulti(props: {
           todoMode={todoMode}
           checkedItems={checkedItems}
           onToggleChecked={onToggleChecked}
+          forgePlanTargetItemId={selectedItemId}
+          forgeRequirements={forgeRequirements}
         />
       </div>
     </div>
