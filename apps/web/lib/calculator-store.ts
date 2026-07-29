@@ -1,6 +1,11 @@
 import { create } from "zustand";
 import { DEFAULT_FORGE_SETTINGS } from "@/lib/constants";
-import type { ItemListEntry, Settings } from "@/lib/types";
+import type {
+  ActiveForgeJob,
+  ForgePlanProgress,
+  ItemListEntry,
+  Settings,
+} from "@/lib/types";
 
 interface CalculatorState {
   // Mode
@@ -36,6 +41,25 @@ interface CalculatorState {
   toggleTodoMode: () => void;
   toggleChecked: (itemName: string, descendants: string[]) => void;
 
+  // Forge tracker
+  forgeTrackerPlans: Record<string, ForgePlanProgress>;
+  activeForgeJobs: ActiveForgeJob[];
+  setForgeCompleted: (
+    planTargetItemId: string,
+    itemId: string,
+    quantity: number,
+  ) => void;
+  startForgeJob: (
+    planTargetItemId: string,
+    itemId: string,
+    totalDurationSeconds: number,
+    remainingDurationSeconds: number,
+    requiredQuantity: number,
+  ) => boolean;
+  collectForgeJob: (jobId: string) => boolean;
+  cancelForgeJob: (jobId: string) => void;
+  resetForgePlan: (planTargetItemId: string) => void;
+
   // Hydration
   hydrated: boolean;
   hydrate: () => void;
@@ -52,7 +76,16 @@ const LOCAL_KEYS = {
   lastMultiSelectedItem: "sbcalc_lastMultiSelectedItem",
   settings: "sbcalc-settings",
   checkedItems: "sbcalc_checkedItems",
+  forgeTracker: "sbcalc_forgeTracker_v1",
 } as const;
+
+const FORGE_TRACKER_STORAGE_VERSION = 1;
+
+interface PersistedForgeTrackerState {
+  version: typeof FORGE_TRACKER_STORAGE_VERSION;
+  plans: Record<string, ForgePlanProgress>;
+  activeJobs: ActiveForgeJob[];
+}
 
 function loadJson<T>(key: string, fallback: T): T {
   try {
@@ -72,6 +105,86 @@ function saveJson(key: string, value: unknown) {
   }
 }
 
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === "object" && value !== null && !Array.isArray(value);
+}
+
+function loadForgeTrackerState(): Omit<PersistedForgeTrackerState, "version"> {
+  const empty = { plans: {}, activeJobs: [] };
+  const raw = loadJson<unknown>(LOCAL_KEYS.forgeTracker, null);
+  if (!isRecord(raw) || raw.version !== FORGE_TRACKER_STORAGE_VERSION) {
+    return empty;
+  }
+
+  const plans: Record<string, ForgePlanProgress> = {};
+  if (isRecord(raw.plans)) {
+    for (const [targetItemId, value] of Object.entries(raw.plans)) {
+      if (!isRecord(value) || !isRecord(value.completedByItem)) continue;
+
+      const completedByItem: Record<string, number> = {};
+      for (const [itemId, quantity] of Object.entries(value.completedByItem)) {
+        if (typeof quantity !== "number" || !Number.isFinite(quantity))
+          continue;
+        completedByItem[itemId] = Math.max(0, Math.floor(quantity));
+      }
+      plans[targetItemId] = { targetItemId, completedByItem };
+    }
+  }
+
+  const activeJobs = Array.isArray(raw.activeJobs)
+    ? raw.activeJobs.flatMap((value): ActiveForgeJob[] => {
+        if (
+          !isRecord(value) ||
+          typeof value.id !== "string" ||
+          typeof value.planTargetItemId !== "string" ||
+          typeof value.itemId !== "string" ||
+          typeof value.startedAtMs !== "number" ||
+          typeof value.endsAtMs !== "number" ||
+          typeof value.totalDurationSeconds !== "number" ||
+          !Number.isFinite(value.startedAtMs) ||
+          !Number.isFinite(value.endsAtMs) ||
+          !Number.isFinite(value.totalDurationSeconds)
+        ) {
+          return [];
+        }
+        return [
+          {
+            id: value.id,
+            planTargetItemId: value.planTargetItemId,
+            itemId: value.itemId,
+            startedAtMs: value.startedAtMs,
+            endsAtMs: value.endsAtMs,
+            totalDurationSeconds: Math.max(
+              0,
+              Math.floor(value.totalDurationSeconds),
+            ),
+          },
+        ];
+      })
+    : [];
+
+  return { plans, activeJobs };
+}
+
+function saveForgeTrackerState(
+  plans: Record<string, ForgePlanProgress>,
+  activeJobs: ActiveForgeJob[],
+) {
+  const state: PersistedForgeTrackerState = {
+    version: FORGE_TRACKER_STORAGE_VERSION,
+    plans,
+    activeJobs,
+  };
+  saveJson(LOCAL_KEYS.forgeTracker, state);
+}
+
+function createForgeJobId(): string {
+  if (typeof globalThis.crypto?.randomUUID === "function") {
+    return globalThis.crypto.randomUUID();
+  }
+  return `forge-${Date.now()}-${Math.random().toString(36).slice(2)}`;
+}
+
 export const useCalculatorStore = create<CalculatorState>((set, get) => ({
   // Defaults (pre-hydration)
   mode: "single",
@@ -85,6 +198,8 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
   hydrated: false,
   todoMode: false,
   checkedItems: new Set<string>(),
+  forgeTrackerPlans: {},
+  activeForgeJobs: [],
 
   // Mode
   setMode: (mode) => {
@@ -144,6 +259,124 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
     saveJson(LOCAL_KEYS.checkedItems, Array.from(next));
   },
 
+  // Forge tracker
+  setForgeCompleted: (planTargetItemId, itemId, quantity) => {
+    const state = get();
+    const normalizedQuantity = Number.isFinite(quantity)
+      ? Math.max(0, Math.floor(quantity))
+      : 0;
+    const existingPlan = state.forgeTrackerPlans[planTargetItemId] ?? {
+      targetItemId: planTargetItemId,
+      completedByItem: {},
+    };
+    const completedByItem = { ...existingPlan.completedByItem };
+    if (normalizedQuantity === 0) {
+      delete completedByItem[itemId];
+    } else {
+      completedByItem[itemId] = normalizedQuantity;
+    }
+    const forgeTrackerPlans = {
+      ...state.forgeTrackerPlans,
+      [planTargetItemId]: { ...existingPlan, completedByItem },
+    };
+    set({ forgeTrackerPlans });
+    saveForgeTrackerState(forgeTrackerPlans, state.activeForgeJobs);
+  },
+  startForgeJob: (
+    planTargetItemId,
+    itemId,
+    totalDurationSeconds,
+    remainingDurationSeconds,
+    requiredQuantity,
+  ) => {
+    const state = get();
+    if (state.activeForgeJobs.length >= state.settings.forgeSlots) return false;
+
+    const completed =
+      state.forgeTrackerPlans[planTargetItemId]?.completedByItem[itemId] ?? 0;
+    const activeForItem = state.activeForgeJobs.filter(
+      (job) =>
+        job.planTargetItemId === planTargetItemId && job.itemId === itemId,
+    ).length;
+    if (completed + activeForItem >= Math.max(0, requiredQuantity)) {
+      return false;
+    }
+
+    const totalSeconds = Number.isFinite(totalDurationSeconds)
+      ? Math.max(0, Math.floor(totalDurationSeconds))
+      : 0;
+    const remainingSeconds = Number.isFinite(remainingDurationSeconds)
+      ? Math.min(
+          totalSeconds,
+          Math.max(0, Math.floor(remainingDurationSeconds)),
+        )
+      : totalSeconds;
+    const nowMs = Date.now();
+    const job: ActiveForgeJob = {
+      id: createForgeJobId(),
+      planTargetItemId,
+      itemId,
+      startedAtMs: nowMs - (totalSeconds - remainingSeconds) * 1000,
+      endsAtMs: nowMs + remainingSeconds * 1000,
+      totalDurationSeconds: totalSeconds,
+    };
+    const existingPlan = state.forgeTrackerPlans[planTargetItemId] ?? {
+      targetItemId: planTargetItemId,
+      completedByItem: {},
+    };
+    const forgeTrackerPlans = {
+      ...state.forgeTrackerPlans,
+      [planTargetItemId]: existingPlan,
+    };
+    const activeForgeJobs = [...state.activeForgeJobs, job];
+    set({ forgeTrackerPlans, activeForgeJobs });
+    saveForgeTrackerState(forgeTrackerPlans, activeForgeJobs);
+    return true;
+  },
+  collectForgeJob: (jobId) => {
+    const state = get();
+    const job = state.activeForgeJobs.find((entry) => entry.id === jobId);
+    if (!job || job.endsAtMs > Date.now()) return false;
+
+    const existingPlan = state.forgeTrackerPlans[job.planTargetItemId] ?? {
+      targetItemId: job.planTargetItemId,
+      completedByItem: {},
+    };
+    const completedByItem = {
+      ...existingPlan.completedByItem,
+      [job.itemId]: (existingPlan.completedByItem[job.itemId] ?? 0) + 1,
+    };
+    const forgeTrackerPlans = {
+      ...state.forgeTrackerPlans,
+      [job.planTargetItemId]: { ...existingPlan, completedByItem },
+    };
+    const activeForgeJobs = state.activeForgeJobs.filter(
+      (entry) => entry.id !== jobId,
+    );
+    set({ forgeTrackerPlans, activeForgeJobs });
+    saveForgeTrackerState(forgeTrackerPlans, activeForgeJobs);
+    return true;
+  },
+  cancelForgeJob: (jobId) => {
+    const state = get();
+    const activeForgeJobs = state.activeForgeJobs.filter(
+      (entry) => entry.id !== jobId,
+    );
+    if (activeForgeJobs.length === state.activeForgeJobs.length) return;
+    set({ activeForgeJobs });
+    saveForgeTrackerState(state.forgeTrackerPlans, activeForgeJobs);
+  },
+  resetForgePlan: (planTargetItemId) => {
+    const state = get();
+    const forgeTrackerPlans = { ...state.forgeTrackerPlans };
+    delete forgeTrackerPlans[planTargetItemId];
+    const activeForgeJobs = state.activeForgeJobs.filter(
+      (job) => job.planTargetItemId !== planTargetItemId,
+    );
+    set({ forgeTrackerPlans, activeForgeJobs });
+    saveForgeTrackerState(forgeTrackerPlans, activeForgeJobs);
+  },
+
   // Settings
   updateSettings: (partial) => {
     const next = { ...get().settings, ...partial };
@@ -177,6 +410,7 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
       loadJson<string[]>(LOCAL_KEYS.checkedItems, []),
     );
     const todoMode = checkedItems.size > 0;
+    const forgeTracker = loadForgeTrackerState();
 
     set({
       mode,
@@ -187,6 +421,8 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
       multiTreeSelectedItem,
       checkedItems,
       todoMode,
+      forgeTrackerPlans: forgeTracker.plans,
+      activeForgeJobs: forgeTracker.activeJobs,
       hydrated: true,
     });
   },
