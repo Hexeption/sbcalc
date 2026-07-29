@@ -228,8 +228,8 @@ export function ForgeTracker({
 
   if (requirements.length === 0) return null;
 
-  const completedByItem =
-    forgeTrackerPlans[targetItemId]?.completedByItem ?? {};
+  const completedByRequirement =
+    forgeTrackerPlans[targetItemId]?.completedByRequirement ?? {};
   const configuredSlots = Math.max(1, forgeSettings.forgeSlots);
   const renderedSlotCount = Math.max(configuredSlots, activeForgeJobs.length);
   const currentPlanJobs = activeForgeJobs.filter(
@@ -244,7 +244,7 @@ export function ForgeTracker({
       sum +
       Math.min(
         requirement.requiredQuantity,
-        completedByItem[requirement.itemId] ?? 0,
+        completedByRequirement[requirement.requirementId] ?? 0,
       ),
     0,
   );
@@ -252,7 +252,7 @@ export function ForgeTracker({
     totalRequired > 0 ? (completedTowardPlan / totalRequired) * 100 : 0;
   const hasPlanData =
     currentPlanJobs.length > 0 ||
-    Object.values(completedByItem).some((quantity) => quantity > 0);
+    Object.values(completedByRequirement).some((quantity) => quantity > 0);
 
   return (
     <section className="rounded-xl border border-border/60 bg-card/60 backdrop-blur-sm">

@@ -45,6 +45,8 @@ export interface ForgeSettings {
 }
 
 export interface ForgeRequirement {
+  requirementId: string;
+  treePathId: string;
   itemId: string;
   requiredQuantity: number;
   forgeTimeSeconds: number;
@@ -52,12 +54,13 @@ export interface ForgeRequirement {
 
 export interface ForgePlanProgress {
   targetItemId: string;
-  completedByItem: Record<string, number>;
+  completedByRequirement: Record<string, number>;
 }
 
 export interface ActiveForgeJob {
   id: string;
   planTargetItemId: string;
+  requirementId: string;
   itemId: string;
   startedAtMs: number;
   endsAtMs: number;

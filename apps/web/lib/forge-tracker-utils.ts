@@ -23,8 +23,16 @@ function isForgeRecipe(
 }
 
 /**
- * Collect every forge output needed for a forge target. Crafting recipes are
- * traversed but not included, and their output count is respected.
+ * Create a stable identifier for one concrete position in a recipe tree.
+ */
+export function getForgeRequirementPathId(path: readonly string[]): string {
+  return JSON.stringify(path);
+}
+
+/**
+ * Collect every forge output needed for a forge target. Separate recipe-tree
+ * branches remain separate even when they forge the same item. Crafting
+ * recipes are traversed but not included, and their output count is respected.
  */
 export function getForgeRequirements(
   targetItemId: string,
@@ -36,10 +44,15 @@ export function getForgeRequirements(
     : undefined;
   if (!isForgeRecipe(rootRecipe)) return [];
 
-  const totals = new Map<string, ForgeRequirement>();
-  const order: string[] = [];
+  const requirements: ForgeRequirement[] = [];
+  const occurrencesByItem = new Map<string, number>();
 
-  const visit = (itemId: string, quantity: number, ancestors: Set<string>) => {
+  const visit = (
+    itemId: string,
+    quantity: number,
+    ancestors: Set<string>,
+    treePath: readonly string[],
+  ) => {
     const requiredQuantity = asPositiveInteger(quantity);
     if (requiredQuantity === 0 || ancestors.has(itemId)) return;
 
@@ -60,30 +73,29 @@ export function getForgeRequirements(
 
     const counts = aggregateIngredients(getIngredientsFromRecipe(recipe));
     for (const [ingredientId, ingredientCount] of Object.entries(counts)) {
-      visit(ingredientId, ingredientCount * recipeOperations, nextAncestors);
+      visit(ingredientId, ingredientCount * recipeOperations, nextAncestors, [
+        ...treePath,
+        ingredientId,
+      ]);
     }
 
     if (!forgeRecipe) return;
 
-    const existing = totals.get(itemId);
-    if (existing) {
-      existing.requiredQuantity += requiredQuantity;
-      return;
-    }
-
-    totals.set(itemId, {
+    const occurrenceIndex = occurrencesByItem.get(itemId) ?? 0;
+    const treePathId = getForgeRequirementPathId(treePath);
+    requirements.push({
+      requirementId:
+        occurrenceIndex === 0 ? itemId : `${itemId}::${treePathId}`,
+      treePathId,
       itemId,
       requiredQuantity,
       forgeTimeSeconds: Math.max(0, recipe.forge_time || 0),
     });
-    order.push(itemId);
+    occurrencesByItem.set(itemId, occurrenceIndex + 1);
   };
 
-  visit(targetItemId, targetQuantity, new Set());
-  return order.flatMap((itemId) => {
-    const requirement = totals.get(itemId);
-    return requirement ? [requirement] : [];
-  });
+  visit(targetItemId, targetQuantity, new Set(), [targetItemId]);
+  return requirements;
 }
 
 export function getForgeJobRemainingSeconds(

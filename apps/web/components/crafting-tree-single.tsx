@@ -42,7 +42,7 @@ export function CraftingTreeSingle(props: {
     () =>
       new Map(
         getForgeRequirements(selectedItem, multiplier, recipes).map(
-          (requirement) => [requirement.itemId, requirement] as const,
+          (requirement) => [requirement.treePathId, requirement] as const,
         ),
       ),
     [selectedItem, multiplier, recipes],
@@ -97,6 +97,7 @@ export function CraftingTreeSingle(props: {
           onToggleChecked={onToggleChecked}
           forgePlanTargetItemId={selectedItem}
           forgeRequirements={forgeRequirements}
+          forgeTreePath={[selectedItem]}
         />
       </div>
     </div>

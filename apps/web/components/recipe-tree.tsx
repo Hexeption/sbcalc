@@ -11,6 +11,7 @@ import {
   calculateOptimalForgeTime,
   formatForgeTime,
 } from "@/lib/forge-time-utils";
+import { getForgeRequirementPathId } from "@/lib/forge-tracker-utils";
 import { useRecipeData } from "@/lib/recipe-data-context";
 import {
   aggregateIngredients,
@@ -36,6 +37,7 @@ interface RecipeTreeProps {
   onToggleChecked?: (itemName: string) => void;
   forgePlanTargetItemId?: string;
   forgeRequirements?: ReadonlyMap<string, ForgeRequirement>;
+  forgeTreePath?: readonly string[];
 }
 
 export function RecipeTree({
@@ -53,6 +55,7 @@ export function RecipeTree({
   onToggleChecked,
   forgePlanTargetItemId,
   forgeRequirements,
+  forgeTreePath,
 }: RecipeTreeProps): React.ReactElement | null {
   const { recipes, itemsData } = useRecipeData();
 
@@ -98,7 +101,10 @@ export function RecipeTree({
     optimizedForgeTime !== undefined
       ? formatForgeTime(optimizedForgeTime)
       : undefined;
-  const forgeRequirement = forgeRequirements?.get(internalname);
+  const currentForgeTreePath = forgeTreePath ?? [internalname];
+  const forgeRequirement = forgeRequirements?.get(
+    getForgeRequirementPathId(currentForgeTreePath),
+  );
   const recipeCount: number = !isForgeRecipe
     ? Number((recipe as Record<string, string | number>)?.count) || 1
     : 1;
@@ -252,6 +258,7 @@ export function RecipeTree({
               onToggleChecked={onToggleChecked}
               forgePlanTargetItemId={forgePlanTargetItemId}
               forgeRequirements={forgeRequirements}
+              forgeTreePath={[...currentForgeTreePath, name]}
             />
           ))}
         </div>

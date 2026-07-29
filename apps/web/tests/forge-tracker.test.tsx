@@ -2,6 +2,7 @@ import { act, fireEvent, render, screen } from "@testing-library/react";
 // biome-ignore lint/correctness/noUnusedImports: React must be in scope for JSX in Vitest
 import React from "react";
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
+import { CraftingTreeSingle } from "@/components/crafting-tree-single";
 import { ForgeTracker } from "@/components/forge-tracker";
 import { ForgeTreeTrackerControls } from "@/components/forge-tree-tracker-controls";
 import { useCalculatorStore } from "@/lib/calculator-store";
@@ -42,6 +43,35 @@ const recipeData = vi.hoisted(() => ({
       internalname: "NON_FORGE",
       displayname: "Crafted Item",
       recipe: { A1: "PART:1" },
+    },
+    DUPLICATE_TARGET: {
+      internalname: "DUPLICATE_TARGET",
+      displayname: "Duplicate Target",
+      type: "forge",
+      forge: {
+        type: "forge" as const,
+        forge_time: 10,
+        forge_ingredients: [
+          { item: "CRAFT_A", count: 1 },
+          { item: "CRAFT_B", count: 1 },
+          { item: "CRAFT_C", count: 1 },
+        ],
+      },
+    },
+    CRAFT_A: {
+      internalname: "CRAFT_A",
+      displayname: "Branch A",
+      recipe: { A1: "PART:10" },
+    },
+    CRAFT_B: {
+      internalname: "CRAFT_B",
+      displayname: "Branch B",
+      recipe: { A1: "PART:4" },
+    },
+    CRAFT_C: {
+      internalname: "CRAFT_C",
+      displayname: "Branch C",
+      recipe: { A1: "PART:8" },
     },
   },
   itemsData: {},
@@ -110,6 +140,7 @@ describe("ForgeTracker", () => {
         {
           id: "other-job",
           planTargetItemId: "OTHER",
+          requirementId: "OTHER",
           itemId: "OTHER",
           startedAtMs: Date.now(),
           endsAtMs: Date.now() + 30_000,
@@ -132,7 +163,9 @@ describe("ForgeTracker", () => {
 
   it("shows restored progress, becomes ready, and collects", () => {
     act(() => {
-      useCalculatorStore.getState().startForgeJob("TARGET", "PART", 20, 5, 2);
+      useCalculatorStore
+        .getState()
+        .startForgeJob("TARGET", "PART", "PART", 20, 5, 2);
     });
 
     render(
@@ -155,8 +188,8 @@ describe("ForgeTracker", () => {
     );
 
     expect(
-      useCalculatorStore.getState().forgeTrackerPlans.TARGET?.completedByItem
-        .PART,
+      useCalculatorStore.getState().forgeTrackerPlans.TARGET
+        ?.completedByRequirement.PART,
     ).toBe(1);
   });
 
@@ -166,6 +199,8 @@ describe("ForgeTracker", () => {
         planTargetItemId="TARGET"
         itemName="Nested Part"
         requirement={{
+          requirementId: "PART",
+          treePathId: '["TARGET","PART"]',
           itemId: "PART",
           requiredQuantity: 2,
           forgeTimeSeconds: 20,
@@ -178,8 +213,8 @@ describe("ForgeTracker", () => {
       target: { value: "1" },
     });
     expect(
-      useCalculatorStore.getState().forgeTrackerPlans.TARGET?.completedByItem
-        .PART,
+      useCalculatorStore.getState().forgeTrackerPlans.TARGET
+        ?.completedByRequirement.PART,
     ).toBe(1);
 
     fireEvent.click(
@@ -197,5 +232,41 @@ describe("ForgeTracker", () => {
     expect(useCalculatorStore.getState().activeForgeJobs[0]?.endsAtMs).toBe(
       Date.now() + 5_000,
     );
+  });
+
+  it("renders and stores duplicate subitems separately in the recipe tree", () => {
+    render(
+      <CraftingTreeSingle
+        selectedItem="DUPLICATE_TARGET"
+        expandedItems={
+          new Set(["DUPLICATE_TARGET", "CRAFT_A", "CRAFT_B", "CRAFT_C"])
+        }
+        onExpandAll={vi.fn()}
+        onCollapseAll={vi.fn()}
+        onToggleExpanded={vi.fn()}
+        multiplier={1}
+        forgeSettings={forgeSettings}
+        todoMode={false}
+        onToggleTodoMode={vi.fn()}
+        checkedItems={new Set()}
+        onToggleChecked={vi.fn()}
+      />,
+    );
+
+    expect(screen.getByText("/ 10")).toBeInTheDocument();
+    expect(screen.getByText("/ 4")).toBeInTheDocument();
+    expect(screen.getByText("/ 8")).toBeInTheDocument();
+
+    const completedInputs = screen.getAllByLabelText("Nested Part completed");
+    expect(completedInputs).toHaveLength(3);
+    const secondInput = completedInputs[1];
+    expect(secondInput).toBeDefined();
+    if (!secondInput) return;
+    fireEvent.change(secondInput, { target: { value: "2" } });
+
+    expect(
+      useCalculatorStore.getState().forgeTrackerPlans.DUPLICATE_TARGET
+        ?.completedByRequirement,
+    ).toEqual({ 'PART::["DUPLICATE_TARGET","CRAFT_B","PART"]': 2 });
   });
 });

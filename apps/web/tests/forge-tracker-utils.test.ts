@@ -31,32 +31,71 @@ describe("getForgeRequirements", () => {
     };
 
     expect(getForgeRequirements("TARGET", 3, recipes)).toEqual([
-      { itemId: "PART", requiredQuantity: 6, forgeTimeSeconds: 60 },
-      { itemId: "TARGET", requiredQuantity: 3, forgeTimeSeconds: 300 },
+      {
+        requirementId: "PART",
+        treePathId: '["TARGET","PART"]',
+        itemId: "PART",
+        requiredQuantity: 6,
+        forgeTimeSeconds: 60,
+      },
+      {
+        requirementId: "TARGET",
+        treePathId: '["TARGET"]',
+        itemId: "TARGET",
+        requiredQuantity: 3,
+        forgeTimeSeconds: 300,
+      },
     ]);
   });
 
-  it("aggregates duplicate forge items from separate crafting branches", () => {
+  it("keeps duplicate forge items separate across crafting branches", () => {
     const recipes: RecipesData = {
       TARGET: forgeEntry("TARGET", 300, [
         { item: "CRAFT_A", count: 1 },
         { item: "CRAFT_B", count: 1 },
+        { item: "CRAFT_C", count: 1 },
       ]),
       CRAFT_A: {
         internalname: "CRAFT_A",
-        recipe: { A1: "PART:2", count: 1 },
+        recipe: { A1: "PART:10", count: 1 },
       },
       CRAFT_B: {
         internalname: "CRAFT_B",
-        recipe: { A1: "PART:3", count: 1 },
+        recipe: { A1: "PART:4", count: 1 },
+      },
+      CRAFT_C: {
+        internalname: "CRAFT_C",
+        recipe: { A1: "PART:8", count: 1 },
       },
       PART: forgeEntry("PART", 60),
     };
 
-    expect(getForgeRequirements("TARGET", 1, recipes)).toEqual([
-      { itemId: "PART", requiredQuantity: 5, forgeTimeSeconds: 60 },
-      { itemId: "TARGET", requiredQuantity: 1, forgeTimeSeconds: 300 },
+    const requirements = getForgeRequirements("TARGET", 1, recipes);
+    expect(requirements).toHaveLength(4);
+    expect(requirements.slice(0, 3)).toEqual([
+      {
+        requirementId: "PART",
+        treePathId: '["TARGET","CRAFT_A","PART"]',
+        itemId: "PART",
+        requiredQuantity: 10,
+        forgeTimeSeconds: 60,
+      },
+      {
+        requirementId: 'PART::["TARGET","CRAFT_B","PART"]',
+        treePathId: '["TARGET","CRAFT_B","PART"]',
+        itemId: "PART",
+        requiredQuantity: 4,
+        forgeTimeSeconds: 60,
+      },
+      {
+        requirementId: 'PART::["TARGET","CRAFT_C","PART"]',
+        treePathId: '["TARGET","CRAFT_C","PART"]',
+        itemId: "PART",
+        requiredQuantity: 8,
+        forgeTimeSeconds: 60,
+      },
     ]);
+    expect(requirements[3]?.itemId).toBe("TARGET");
   });
 
   it("respects crafting output counts", () => {
@@ -70,6 +109,8 @@ describe("getForgeRequirements", () => {
     };
 
     expect(getForgeRequirements("TARGET", 1, recipes)[0]).toEqual({
+      requirementId: "PART",
+      treePathId: '["TARGET","CRAFTED","PART"]',
       itemId: "PART",
       requiredQuantity: 2,
       forgeTimeSeconds: 60,
@@ -99,6 +140,7 @@ describe("forge job timers", () => {
   const job: ActiveForgeJob = {
     id: "job-1",
     planTargetItemId: "TARGET",
+    requirementId: "PART",
     itemId: "PART",
     startedAtMs: 1_000,
     endsAtMs: 11_000,

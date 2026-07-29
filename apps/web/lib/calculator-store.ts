@@ -46,11 +46,12 @@ interface CalculatorState {
   activeForgeJobs: ActiveForgeJob[];
   setForgeCompleted: (
     planTargetItemId: string,
-    itemId: string,
+    requirementId: string,
     quantity: number,
   ) => void;
   startForgeJob: (
     planTargetItemId: string,
+    requirementId: string,
     itemId: string,
     totalDurationSeconds: number,
     remainingDurationSeconds: number,
@@ -76,10 +77,11 @@ const LOCAL_KEYS = {
   lastMultiSelectedItem: "sbcalc_lastMultiSelectedItem",
   settings: "sbcalc-settings",
   checkedItems: "sbcalc_checkedItems",
-  forgeTracker: "sbcalc_forgeTracker_v1",
+  forgeTracker: "sbcalc_forgeTracker_v2",
+  legacyForgeTracker: "sbcalc_forgeTracker_v1",
 } as const;
 
-const FORGE_TRACKER_STORAGE_VERSION = 1;
+const FORGE_TRACKER_STORAGE_VERSION = 2;
 
 interface PersistedForgeTrackerState {
   version: typeof FORGE_TRACKER_STORAGE_VERSION;
@@ -109,25 +111,31 @@ function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);
 }
 
-function loadForgeTrackerState(): Omit<PersistedForgeTrackerState, "version"> {
-  const empty = { plans: {}, activeJobs: [] };
-  const raw = loadJson<unknown>(LOCAL_KEYS.forgeTracker, null);
-  if (!isRecord(raw) || raw.version !== FORGE_TRACKER_STORAGE_VERSION) {
-    return empty;
-  }
-
+function parseForgeTrackerState(
+  raw: unknown,
+  version: 1 | typeof FORGE_TRACKER_STORAGE_VERSION,
+): Omit<PersistedForgeTrackerState, "version"> | null {
+  if (!isRecord(raw) || raw.version !== version) return null;
   const plans: Record<string, ForgePlanProgress> = {};
   if (isRecord(raw.plans)) {
     for (const [targetItemId, value] of Object.entries(raw.plans)) {
-      if (!isRecord(value) || !isRecord(value.completedByItem)) continue;
+      if (!isRecord(value)) continue;
+      const persistedCompleted =
+        version === 1 ? value.completedByItem : value.completedByRequirement;
+      if (!isRecord(persistedCompleted)) continue;
 
-      const completedByItem: Record<string, number> = {};
-      for (const [itemId, quantity] of Object.entries(value.completedByItem)) {
+      const completedByRequirement: Record<string, number> = {};
+      for (const [requirementId, quantity] of Object.entries(
+        persistedCompleted,
+      )) {
         if (typeof quantity !== "number" || !Number.isFinite(quantity))
           continue;
-        completedByItem[itemId] = Math.max(0, Math.floor(quantity));
+        completedByRequirement[requirementId] = Math.max(
+          0,
+          Math.floor(quantity),
+        );
       }
-      plans[targetItemId] = { targetItemId, completedByItem };
+      plans[targetItemId] = { targetItemId, completedByRequirement };
     }
   }
 
@@ -138,6 +146,8 @@ function loadForgeTrackerState(): Omit<PersistedForgeTrackerState, "version"> {
           typeof value.id !== "string" ||
           typeof value.planTargetItemId !== "string" ||
           typeof value.itemId !== "string" ||
+          (version === FORGE_TRACKER_STORAGE_VERSION &&
+            typeof value.requirementId !== "string") ||
           typeof value.startedAtMs !== "number" ||
           typeof value.endsAtMs !== "number" ||
           typeof value.totalDurationSeconds !== "number" ||
@@ -151,6 +161,8 @@ function loadForgeTrackerState(): Omit<PersistedForgeTrackerState, "version"> {
           {
             id: value.id,
             planTargetItemId: value.planTargetItemId,
+            requirementId:
+              version === 1 ? value.itemId : (value.requirementId as string),
             itemId: value.itemId,
             startedAtMs: value.startedAtMs,
             endsAtMs: value.endsAtMs,
@@ -164,6 +176,25 @@ function loadForgeTrackerState(): Omit<PersistedForgeTrackerState, "version"> {
     : [];
 
   return { plans, activeJobs };
+}
+
+function loadForgeTrackerState(): Omit<PersistedForgeTrackerState, "version"> {
+  const current = parseForgeTrackerState(
+    loadJson<unknown>(LOCAL_KEYS.forgeTracker, null),
+    FORGE_TRACKER_STORAGE_VERSION,
+  );
+  if (current) return current;
+
+  const legacy = parseForgeTrackerState(
+    loadJson<unknown>(LOCAL_KEYS.legacyForgeTracker, null),
+    1,
+  );
+  if (legacy) {
+    saveForgeTrackerState(legacy.plans, legacy.activeJobs);
+    return legacy;
+  }
+
+  return { plans: {}, activeJobs: [] };
 }
 
 function saveForgeTrackerState(
@@ -260,30 +291,33 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
   },
 
   // Forge tracker
-  setForgeCompleted: (planTargetItemId, itemId, quantity) => {
+  setForgeCompleted: (planTargetItemId, requirementId, quantity) => {
     const state = get();
     const normalizedQuantity = Number.isFinite(quantity)
       ? Math.max(0, Math.floor(quantity))
       : 0;
     const existingPlan = state.forgeTrackerPlans[planTargetItemId] ?? {
       targetItemId: planTargetItemId,
-      completedByItem: {},
+      completedByRequirement: {},
     };
-    const completedByItem = { ...existingPlan.completedByItem };
+    const completedByRequirement = {
+      ...existingPlan.completedByRequirement,
+    };
     if (normalizedQuantity === 0) {
-      delete completedByItem[itemId];
+      delete completedByRequirement[requirementId];
     } else {
-      completedByItem[itemId] = normalizedQuantity;
+      completedByRequirement[requirementId] = normalizedQuantity;
     }
     const forgeTrackerPlans = {
       ...state.forgeTrackerPlans,
-      [planTargetItemId]: { ...existingPlan, completedByItem },
+      [planTargetItemId]: { ...existingPlan, completedByRequirement },
     };
     set({ forgeTrackerPlans });
     saveForgeTrackerState(forgeTrackerPlans, state.activeForgeJobs);
   },
   startForgeJob: (
     planTargetItemId,
+    requirementId,
     itemId,
     totalDurationSeconds,
     remainingDurationSeconds,
@@ -293,12 +327,15 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
     if (state.activeForgeJobs.length >= state.settings.forgeSlots) return false;
 
     const completed =
-      state.forgeTrackerPlans[planTargetItemId]?.completedByItem[itemId] ?? 0;
-    const activeForItem = state.activeForgeJobs.filter(
+      state.forgeTrackerPlans[planTargetItemId]?.completedByRequirement[
+        requirementId
+      ] ?? 0;
+    const activeForRequirement = state.activeForgeJobs.filter(
       (job) =>
-        job.planTargetItemId === planTargetItemId && job.itemId === itemId,
+        job.planTargetItemId === planTargetItemId &&
+        job.requirementId === requirementId,
     ).length;
-    if (completed + activeForItem >= Math.max(0, requiredQuantity)) {
+    if (completed + activeForRequirement >= Math.max(0, requiredQuantity)) {
       return false;
     }
 
@@ -315,6 +352,7 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
     const job: ActiveForgeJob = {
       id: createForgeJobId(),
       planTargetItemId,
+      requirementId,
       itemId,
       startedAtMs: nowMs - (totalSeconds - remainingSeconds) * 1000,
       endsAtMs: nowMs + remainingSeconds * 1000,
@@ -322,7 +360,7 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
     };
     const existingPlan = state.forgeTrackerPlans[planTargetItemId] ?? {
       targetItemId: planTargetItemId,
-      completedByItem: {},
+      completedByRequirement: {},
     };
     const forgeTrackerPlans = {
       ...state.forgeTrackerPlans,
@@ -340,15 +378,16 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
 
     const existingPlan = state.forgeTrackerPlans[job.planTargetItemId] ?? {
       targetItemId: job.planTargetItemId,
-      completedByItem: {},
+      completedByRequirement: {},
     };
-    const completedByItem = {
-      ...existingPlan.completedByItem,
-      [job.itemId]: (existingPlan.completedByItem[job.itemId] ?? 0) + 1,
+    const completedByRequirement = {
+      ...existingPlan.completedByRequirement,
+      [job.requirementId]:
+        (existingPlan.completedByRequirement[job.requirementId] ?? 0) + 1,
     };
     const forgeTrackerPlans = {
       ...state.forgeTrackerPlans,
-      [job.planTargetItemId]: { ...existingPlan, completedByItem },
+      [job.planTargetItemId]: { ...existingPlan, completedByRequirement },
     };
     const activeForgeJobs = state.activeForgeJobs.filter(
       (entry) => entry.id !== jobId,

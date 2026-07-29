@@ -22,8 +22,8 @@ export function ForgeTreeTrackerControls({
   const completedInputId = useId();
   const completed = useCalculatorStore(
     (state) =>
-      state.forgeTrackerPlans[planTargetItemId]?.completedByItem[
-        requirement.itemId
+      state.forgeTrackerPlans[planTargetItemId]?.completedByRequirement[
+        requirement.requirementId
       ] ?? 0,
   );
   const activeJobs = useCalculatorStore((state) => state.activeForgeJobs);
@@ -35,7 +35,7 @@ export function ForgeTreeTrackerControls({
   const activeCount = activeJobs.filter(
     (job) =>
       job.planTargetItemId === planTargetItemId &&
-      job.itemId === requirement.itemId,
+      job.requirementId === requirement.requirementId,
   ).length;
   const configuredSlots = Math.max(1, forgeSettings.forgeSlots);
   const slotsFull = activeJobs.length >= configuredSlots;
@@ -68,7 +68,7 @@ export function ForgeTreeTrackerControls({
         onChange={(event) =>
           setForgeCompleted(
             planTargetItemId,
-            requirement.itemId,
+            requirement.requirementId,
             Number(event.target.value),
           )
         }
@@ -98,6 +98,7 @@ export function ForgeTreeTrackerControls({
         onStart={(remainingSeconds) =>
           startForgeJob(
             planTargetItemId,
+            requirement.requirementId,
             requirement.itemId,
             effectiveDuration,
             remainingSeconds,
