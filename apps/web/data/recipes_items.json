@@ -48569,7 +48569,7 @@
   "LEECH_BELT": {
     "itemid": "minecraft:skull",
     "displayname": "§9Leech Belt",
-    "nbttag": "{ExtraAttributes:{id:\"LEECH_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"747022d7-4f1b-3642-a7de-70aa43cd6cd4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Zla7FhL5IVWaNkj0/+F86uGWUx3ccmL0ZT3o9+XcuXnX7jMLcztMElRXvTRW8vjHdTjazUxLHT7HQAdNGjD+Z8Bc/aRE7YTKSE7eMD39bVJ+7yevW7+6Aq74uws1M8k+VknolKtnp5lQT8+EsoyCccWxnda2bz6iz9n50OatsR1K+ysyLClQ/WrBd5G44rxzuWA3yMOsakxkuffcG1mgfGCNjp7uGIhgyw09SlAAEBtBDPYeK/h1p0eWwJkjr5Hq7ajJrTjz7dQeMU+uNIApdPAf/3g4DnSwsIjppqGhd0pH48USBw93v7jqxHUc4vRUx8J/KTsxjmo0QFnjZvFFgstvJIgDFHuYSu7/M/orai9xDs1qslj9beesT7QbgaktZiKHqGOam4BTaDYs0aSB2OtU+vrCFblc9rP7JJFBGsOAG8a6UjHEfI7++7I1rwzKkm6bWZKe6ulGid7tz9WnwdhNNewOfAyz+NjIYRze3MlTi+DLt/0Bh7VQLGpulSbZhriryhAII0fFsrgDBpddsgwId1AlpgBzDRWXlYMCY0aLGWx4DLF5vcBG0G4E9cKETeqDo1b7MuHD/ux5IbeKPgp4mHAuFXBgUHU5pfcHeLrKvbuIt43TWewvjcKygdMKZR2qSLjPN0ZpBwypyut9FHGQQia5TvZENn7RrxsnynE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ4MDI2MzM0MSwKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYmE2MzBhNzcwMzU2OTBlNjU1ZTY0ZTRhZDMwMTNkMzJmZTdhNGNiZTQzYzVmY2FiYTY0M2QxZjI2YjdhMDkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+80s\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+3\",3:\"\",4:\"§7Monster melee attacks reduce §a1 §7less\",5:\"§aф Rift Time§7.\",6:\"\",7:\"§9§lRARE BELT\"],Name:\"§9Leech Belt\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"LEECH_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"747022d7-4f1b-3642-a7de-70aa43cd6cd4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Zla7FhL5IVWaNkj0/+F86uGWUx3ccmL0ZT3o9+XcuXnX7jMLcztMElRXvTRW8vjHdTjazUxLHT7HQAdNGjD+Z8Bc/aRE7YTKSE7eMD39bVJ+7yevW7+6Aq74uws1M8k+VknolKtnp5lQT8+EsoyCccWxnda2bz6iz9n50OatsR1K+ysyLClQ/WrBd5G44rxzuWA3yMOsakxkuffcG1mgfGCNjp7uGIhgyw09SlAAEBtBDPYeK/h1p0eWwJkjr5Hq7ajJrTjz7dQeMU+uNIApdPAf/3g4DnSwsIjppqGhd0pH48USBw93v7jqxHUc4vRUx8J/KTsxjmo0QFnjZvFFgstvJIgDFHuYSu7/M/orai9xDs1qslj9beesT7QbgaktZiKHqGOam4BTaDYs0aSB2OtU+vrCFblc9rP7JJFBGsOAG8a6UjHEfI7++7I1rwzKkm6bWZKe6ulGid7tz9WnwdhNNewOfAyz+NjIYRze3MlTi+DLt/0Bh7VQLGpulSbZhriryhAII0fFsrgDBpddsgwId1AlpgBzDRWXlYMCY0aLGWx4DLF5vcBG0G4E9cKETeqDo1b7MuHD/ux5IbeKPgp4mHAuFXBgUHU5pfcHeLrKvbuIt43TWewvjcKygdMKZR2qSLjPN0ZpBwypyut9FHGQQia5TvZENn7RrxsnynE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0ODQ4MDI2MzM0MSwKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYmE2MzBhNzcwMzU2OTBlNjU1ZTY0ZTRhZDMwMTNkMzJmZTdhNGNiZTQzYzVmY2FiYTY0M2QxZjI2YjdhMDkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+80s\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+3\",3:\"\",4:\"§7Monster melee attacks reduce §a1 §7less\",5:\"§a Rift Time§7.\",6:\"\",7:\"§eRight-click to equip!\",8:\"\",9:\"§9§lRARE BELT\"],Name:\"§9Leech Belt\"}}",
     "damage": 3,
     "lore": [
       "§7Rift Time: §a+80s",
@@ -48577,14 +48577,16 @@
       "§7Speed: §f+3",
       "",
       "§7Monster melee attacks reduce §a1 §7less",
-      "§aф Rift Time§7.",
+      "§a Rift Time§7.",
+      "",
+      "§eRight-click to equip!",
       "",
       "§9§lRARE BELT"
     ],
     "internalname": "LEECH_BELT",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Leech_Belt"
@@ -48870,27 +48872,25 @@
   "LIFE_STEAL;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{life_steal:2},id:\"LIFE_STEAL;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Life Steal II\",1:\"§7Heals for §a1% §7of your max\",2:\"§7health each time you hit a mob.\",3:\"\",4:\"§7Use this on an item in an Anvil\",5:\"§7to apply it!\",6:\"\",7:\"§6Source:\",8:\"§aI-III: §7Enchantment Table\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fSword\",12:\"§7- §fFishing Weapon\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§6Conflicts:\",17:\"§7- §cSyphon\",18:\"§7- §cMana Steal\",19:\"\",20:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{life_steal:2},id:\"LIFE_STEAL;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Life Steal II\",1:\"§7Heal §c4.8❤ §7every time you hit a mob.\",2:\"\",3:\"§6Source:\",4:\"§aI-III: §7Enchantment Table\",5:\"§aIV: §7Spooky Festival\",6:\"§aIV-V: §7Experiments\",7:\"§aIV-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fSword\",11:\"§7- §fLongsword\",12:\"§7- §fGauntlet\",13:\"\",14:\"§6Conflicts:\",15:\"§7- §cDrain\",16:\"§7- §cMana Steal\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§9Life Steal II",
-      "§7Heals for §a1% §7of your max",
-      "§7health each time you hit a mob.",
-      "",
-      "§7Use this on an item in an Anvil",
-      "§7to apply it!",
+      "§7Heal §c4.8❤ §7every time you hit a mob.",
       "",
       "§6Source:",
       "§aI-III: §7Enchantment Table",
+      "§aIV: §7Spooky Festival",
+      "§aIV-V: §7Experiments",
+      "§aIV-V: §7Bazaar",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
       "§6Conflicts:",
-      "§7- §cSyphon",
+      "§7- §cDrain",
       "§7- §cMana Steal",
       "",
       "§f§lCOMMON"
@@ -48898,7 +48898,7 @@
     "internalname": "LIFE_STEAL;2",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Life_Steal"
