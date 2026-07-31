@@ -7,6 +7,7 @@ import { CombinedMaterialsList } from "@/components/combined-materials-list";
 import { CombinedSummaryCards } from "@/components/combined-summary-cards";
 import { CraftingTreeMulti } from "@/components/crafting-tree-multi";
 import { CraftingTreeSingle } from "@/components/crafting-tree-single";
+import { ForgeTracker } from "@/components/forge-tracker";
 import { HeaderBar } from "@/components/header-bar";
 import { ModeSwitcher } from "@/components/mode-switcher";
 import { MultiItemPanel } from "@/components/multi-item-panel";
@@ -123,6 +124,14 @@ export function SkyblockCalculatorClient() {
   const hasResults =
     (mode === "single" && selectedItem) ||
     (mode === "multi" && itemList.length > 0);
+
+  const trackerTargetItemId =
+    mode === "single" ? selectedItem : multiTreeSelectedItem;
+  const trackerTargetQuantity =
+    mode === "single"
+      ? multiplier
+      : (itemList.find((item) => item.itemId === multiTreeSelectedItem)
+          ?.quantity ?? 1);
 
   const handleToggleChecked = useCallback(
     (itemName: string) => {
@@ -266,6 +275,14 @@ export function SkyblockCalculatorClient() {
                   totalMaterials={totalMaterials}
                   totalForgeTimeSeconds={totalForgeTime}
                   forgeSlots={settings.forgeSlots}
+                />
+              )}
+
+              {trackerTargetItemId && (
+                <ForgeTracker
+                  targetItemId={trackerTargetItemId}
+                  targetQuantity={trackerTargetQuantity}
+                  forgeSettings={forgeSettings}
                 />
               )}
 

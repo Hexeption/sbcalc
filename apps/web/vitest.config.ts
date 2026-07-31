@@ -4,6 +4,10 @@ import { resolve } from "node:path";
 import { defineConfig } from "vitest/config";
 
 export default defineConfig({
+  esbuild: {
+    jsx: "automatic",
+    jsxImportSource: "react",
+  },
   test: {
     globals: true,
     environment: "jsdom",
@@ -25,7 +29,7 @@ export default defineConfig({
   resolve: {
     alias: {
       "@": resolve(import.meta.dirname, "."),
-      "@workspace/ui": resolve(import.meta.dirname, "../../packages/ui"),
+      "@workspace/ui": resolve(import.meta.dirname, "../../packages/ui/src"),
       "@workspace/snbt-parser": resolve(
         import.meta.dirname,
         "../../packages/snbt-parser",

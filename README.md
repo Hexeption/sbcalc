@@ -9,6 +9,7 @@ Live site: https://sbcalc.net
 - Recipe tree view for crafting chains
 - Base material requirements calculator
 - Forge time calculation
+- Persistent forge tracker with nested requirements, live timers, and progress
 - Fast item search
 - Quantity multiplier
 

@@ -44,6 +44,29 @@ export interface ForgeSettings {
   quickForgeLevel?: number;
 }
 
+export interface ForgeRequirement {
+  requirementId: string;
+  treePathId: string;
+  itemId: string;
+  requiredQuantity: number;
+  forgeTimeSeconds: number;
+}
+
+export interface ForgePlanProgress {
+  targetItemId: string;
+  completedByRequirement: Record<string, number>;
+}
+
+export interface ActiveForgeJob {
+  id: string;
+  planTargetItemId: string;
+  requirementId: string;
+  itemId: string;
+  startedAtMs: number;
+  endsAtMs: number;
+  totalDurationSeconds: number;
+}
+
 export interface Settings {
   forgeSlots: number;
   useMultipleSlots: boolean;

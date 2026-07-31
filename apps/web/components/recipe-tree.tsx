@@ -3,6 +3,7 @@
 import { Checkbox } from "@workspace/ui/components/checkbox";
 import { ChevronDown, ChevronRight, ExternalLink } from "lucide-react";
 import type React from "react";
+import { ForgeTreeTrackerControls } from "@/components/forge-tree-tracker-controls";
 import { MinecraftColoredText } from "@/components/minecraft-colored-text";
 import { trackRecipeTreeItemClick } from "@/lib/analytics";
 import { BASE_MATERIALS } from "@/lib/constants";
@@ -10,13 +11,14 @@ import {
   calculateOptimalForgeTime,
   formatForgeTime,
 } from "@/lib/forge-time-utils";
+import { getForgeRequirementPathId } from "@/lib/forge-tracker-utils";
 import { useRecipeData } from "@/lib/recipe-data-context";
 import {
   aggregateIngredients,
   getIngredientsFromRecipe,
   getRecipe,
 } from "@/lib/recipe-utils";
-import type { ForgeRecipe, ForgeSettings } from "@/lib/types";
+import type { ForgeRecipe, ForgeRequirement, ForgeSettings } from "@/lib/types";
 import { getDisplayName } from "@/lib/utils";
 import { ItemImage } from "./item-image";
 
@@ -33,6 +35,9 @@ interface RecipeTreeProps {
   todoMode?: boolean;
   checkedItems?: Set<string>;
   onToggleChecked?: (itemName: string) => void;
+  forgePlanTargetItemId?: string;
+  forgeRequirements?: ReadonlyMap<string, ForgeRequirement>;
+  forgeTreePath?: readonly string[];
 }
 
 export function RecipeTree({
@@ -48,6 +53,9 @@ export function RecipeTree({
   todoMode = false,
   checkedItems,
   onToggleChecked,
+  forgePlanTargetItemId,
+  forgeRequirements,
+  forgeTreePath,
 }: RecipeTreeProps): React.ReactElement | null {
   const { recipes, itemsData } = useRecipeData();
 
@@ -77,7 +85,7 @@ export function RecipeTree({
   const isExpanded = expandedItems.has(internalname);
 
   const displayName = getDisplayName(entry, internalname, itemsData);
-  const plainDisplayName = displayName.replace(/§./g, "");
+  const plainDisplayName = displayName.replace(/(?:\u00c2)?\u00a7./g, "");
 
   const isForgeRecipe = (recipe as ForgeRecipe)?.type === "forge";
   const rawForgeTime = isForgeRecipe
@@ -93,6 +101,10 @@ export function RecipeTree({
     optimizedForgeTime !== undefined
       ? formatForgeTime(optimizedForgeTime)
       : undefined;
+  const currentForgeTreePath = forgeTreePath ?? [internalname];
+  const forgeRequirement = forgeRequirements?.get(
+    getForgeRequirementPathId(currentForgeTreePath),
+  );
   const recipeCount: number = !isForgeRecipe
     ? Number((recipe as Record<string, string | number>)?.count) || 1
     : 1;
@@ -126,7 +138,7 @@ export function RecipeTree({
           </div>
         )}
         <div
-          className={`group flex items-center gap-3 px-3 py-2 my-0.5 rounded-lg transition-all flex-1 min-w-0 ${
+          className={`group flex flex-wrap items-center gap-2 px-3 py-2 my-0.5 rounded-lg transition-all flex-1 min-w-0 sm:flex-nowrap sm:gap-3 ${
             hasIngredients ? "cursor-pointer hover:bg-accent/30" : ""
           } ${isBaseMaterial ? "bg-emerald-500/5 border border-emerald-500/15" : "hover:bg-muted/50"} ${isChecked ? "opacity-40" : ""}`}
           onClick={() => {
@@ -177,7 +189,7 @@ export function RecipeTree({
             title={plainDisplayName}
           />
 
-          <div className="ml-auto flex items-center gap-2 flex-shrink-0">
+          <div className="ml-auto flex basis-full items-center justify-end gap-1 flex-shrink-0 sm:basis-auto sm:gap-2">
             {isForgeRecipe && (
               <span className="px-1.5 py-0.5 rounded text-[10px] font-semibold bg-amber-500/15 text-amber-600 dark:text-amber-400 border border-amber-500/20">
                 FORGE
@@ -193,6 +205,14 @@ export function RecipeTree({
                 )}
               </span>
             )}
+            {isForgeRecipe && forgePlanTargetItemId && forgeRequirement && (
+              <ForgeTreeTrackerControls
+                planTargetItemId={forgePlanTargetItemId}
+                itemName={plainDisplayName}
+                requirement={forgeRequirement}
+                forgeSettings={forgeSettings}
+              />
+            )}
             {isBaseMaterial && (
               <span className="px-1.5 py-0.5 rounded text-[10px] font-semibold bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
                 BASE
@@ -204,7 +224,7 @@ export function RecipeTree({
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={(e) => e.stopPropagation()}
-                className="p-1 rounded text-muted-foreground hover:text-primary hover:bg-primary/10 transition-colors opacity-0 group-hover:opacity-100"
+                className="hidden p-1 rounded text-muted-foreground hover:text-primary hover:bg-primary/10 transition-colors opacity-0 group-hover:opacity-100 sm:block"
                 title="Open wiki page"
               >
                 <ExternalLink className="w-3 h-3" />
@@ -236,6 +256,9 @@ export function RecipeTree({
               todoMode={todoMode}
               checkedItems={checkedItems}
               onToggleChecked={onToggleChecked}
+              forgePlanTargetItemId={forgePlanTargetItemId}
+              forgeRequirements={forgeRequirements}
+              forgeTreePath={[...currentForgeTreePath, name]}
             />
           ))}
         </div>
