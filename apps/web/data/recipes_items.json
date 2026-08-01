@@ -27720,23 +27720,28 @@
     ],
     "internalname": "FARMER_ORB",
     "clickcommand": "viewrecipe",
-    "crafttext": "Requires: Pumpkin VI",
+    "crafttext": "Requires: Pumpkin II",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farmer_Orb"
     ],
-    "recipe": {
-      "A1": "ENCHANTED_PUMPKIN:1",
-      "A2": "ENCHANTED_PUMPKIN:1",
-      "A3": "ENCHANTED_PUMPKIN:1",
-      "B1": "ENCHANTED_PUMPKIN:1",
-      "B2": "ENCHANTED_GLOWSTONE:1",
-      "B3": "ENCHANTED_PUMPKIN:1",
-      "C1": "ENCHANTED_PUMPKIN:1",
-      "C2": "ENCHANTED_PUMPKIN:1",
-      "C3": "ENCHANTED_PUMPKIN:1"
-    }
+    "recipes": [
+      {
+        "A1": "PUMPKIN:12",
+        "A2": "PUMPKIN:12",
+        "A3": "PUMPKIN:12",
+        "B1": "PUMPKIN:12",
+        "B2": "",
+        "B3": "PUMPKIN:12",
+        "C1": "PUMPKIN:12",
+        "C2": "PUMPKIN:12",
+        "C3": "PUMPKIN:12",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "FARMER_ORB"
+      }
+    ]
   },
   "FARMING_1_PORTAL": {
     "itemid": "minecraft:skull",
@@ -27926,23 +27931,28 @@
     ],
     "internalname": "FARMING_TALISMAN",
     "clickcommand": "viewrecipe",
-    "crafttext": "Requires: Wheat IV",
+    "crafttext": "Requires: Wheat VII",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farming_Talisman"
     ],
-    "recipe": {
-      "A1": "WHEAT:8",
-      "A2": "SEEDS:1",
-      "A3": "WHEAT:8",
-      "B1": "SEEDS:1",
-      "B2": "WHEAT:8",
-      "B3": "SEEDS:1",
-      "C1": "WHEAT:8",
-      "C2": "SEEDS:1",
-      "C3": "WHEAT:8"
-    }
+    "recipes": [
+      {
+        "A1": "ENCHANTED_WHEAT:16",
+        "A2": "ENCHANTED_SEEDS:4",
+        "A3": "ENCHANTED_WHEAT:16",
+        "B1": "ENCHANTED_SEEDS:4",
+        "B2": "ENCHANTED_WHEAT:16",
+        "B3": "ENCHANTED_SEEDS:4",
+        "C1": "ENCHANTED_WHEAT:16",
+        "C2": "ENCHANTED_SEEDS:4",
+        "C3": "ENCHANTED_WHEAT:16",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "FARMING_TALISMAN"
+      }
+    ]
   },
   "FARM_ARMOR_BOOTS": {
     "itemid": "minecraft:leather_boots",

@@ -76490,23 +76490,28 @@
     ],
     "internalname": "FARMER_ORB",
     "clickcommand": "viewrecipe",
-    "crafttext": "Requires: Pumpkin VI",
+    "crafttext": "Requires: Pumpkin II",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farmer_Orb"
     ],
-    "recipe": {
-      "A1": "ENCHANTED_PUMPKIN:1",
-      "A2": "ENCHANTED_PUMPKIN:1",
-      "A3": "ENCHANTED_PUMPKIN:1",
-      "B1": "ENCHANTED_PUMPKIN:1",
-      "B2": "ENCHANTED_GLOWSTONE:1",
-      "B3": "ENCHANTED_PUMPKIN:1",
-      "C1": "ENCHANTED_PUMPKIN:1",
-      "C2": "ENCHANTED_PUMPKIN:1",
-      "C3": "ENCHANTED_PUMPKIN:1"
-    }
+    "recipes": [
+      {
+        "A1": "PUMPKIN:12",
+        "A2": "PUMPKIN:12",
+        "A3": "PUMPKIN:12",
+        "B1": "PUMPKIN:12",
+        "B2": "",
+        "B3": "PUMPKIN:12",
+        "C1": "PUMPKIN:12",
+        "C2": "PUMPKIN:12",
+        "C3": "PUMPKIN:12",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "FARMER_ORB"
+      }
+    ]
   },
   "FARMER_RIGBY_NPC": {
     "itemid": "minecraft:skull",
@@ -76810,23 +76815,28 @@
     ],
     "internalname": "FARMING_TALISMAN",
     "clickcommand": "viewrecipe",
-    "crafttext": "Requires: Wheat IV",
+    "crafttext": "Requires: Wheat VII",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farming_Talisman"
     ],
-    "recipe": {
-      "A1": "WHEAT:8",
-      "A2": "SEEDS:1",
-      "A3": "WHEAT:8",
-      "B1": "SEEDS:1",
-      "B2": "WHEAT:8",
-      "B3": "SEEDS:1",
-      "C1": "WHEAT:8",
-      "C2": "SEEDS:1",
-      "C3": "WHEAT:8"
-    }
+    "recipes": [
+      {
+        "A1": "ENCHANTED_WHEAT:16",
+        "A2": "ENCHANTED_SEEDS:4",
+        "A3": "ENCHANTED_WHEAT:16",
+        "B1": "ENCHANTED_SEEDS:4",
+        "B2": "ENCHANTED_WHEAT:16",
+        "B3": "ENCHANTED_SEEDS:4",
+        "C1": "ENCHANTED_WHEAT:16",
+        "C2": "ENCHANTED_SEEDS:4",
+        "C3": "ENCHANTED_WHEAT:16",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "FARMING_TALISMAN"
+      }
+    ]
   },
   "FARMING_TOOLKIT": {
     "itemid": "minecraft:skull",
@@ -140408,6 +140418,25 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Marthos"
     ]
+  },
+  "MARTIN_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Martin (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"MARTIN_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a3d8b0b1-d3f2-23af-8312-ff2640773799\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzIyOGQxMWM5NDMyMmFhMjZhYWZjOGY0NmI1NGNmN2VlYTczODdlNzdlYmQxOWY0ZjIwZGZlODc3YmZmYTY1NSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhM2Q4YjBiMWQzZjIyM2FmODMxMmZmMjY0MDc3Mzc5OSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg1NDg5NjM4OTM3fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Martin (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "MARTIN_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "island": "foraging_2",
+    "x": -580,
+    "y": 93,
+    "z": 31
   },
   "MASON_NPC": {
     "itemid": "minecraft:skull",
