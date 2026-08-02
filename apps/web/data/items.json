@@ -92570,7 +92570,7 @@
   "GENERAL_MEDALLION": {
     "itemid": "minecraft:skull",
     "displayname": "§9General's Medallion",
-    "nbttag": "{ExtraAttributes:{id:\"GENERAL_MEDALLION\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"72de8b4c-5852-3c08-b808-c5626722f869\",Properties:{textures:[0:{Name:\"textures\",Signature:\"hy2sGkycr9wLybZMxWH8+vMZtbq2gaCPuai5lugOgZKi9fKa+3uk9nSxuIO+KdN6ipEKfsJDlzi9bBkaH5qEKY0bDpzYT7Rwha7aKAoc4o0LExNVtsQLUTYlkyuYx8xX0WVFNzAujikmFQ6QJ+ejMtDxD73sPIA4dqu/VN3PfvMlbk6LhPDlnIMS9b1Bo4qA2OLI+oxiQV1D/BAfCfeP7/Fzyhs1S03X156nxReXqqy4aJohRlVHsA828Elsk5f3hOBSx6lQsl55JQlaL1KNrW4n+lMhpliBs6OeLIAKp3kKLu7UIxLO0nMbm+Yp6qaDYvArV7+xedBZCvWf3YOikazAD77mt5AENt3t6IQepfdEgjGrsFbln21AzencNt3BYy77906osw4ZC2dc6mN5hZ/ZQi3C20LiNmdLoE9uJ6jaP7D5fqKkNzuy2On5km/N6R3z/8cGzoAuQ9XndDcaP1Prb1l8NNZFHFfViZbAPugkUjPaqqnQAANUaHz/bJeiiBFp2r/kZ1G8wek3ZK9dJQGPMtlmrpHZD1lFK4LaS5PdWeF4mpzjGSeyZHeUE/2BvJ52+d9TjSlRw/czOR2iAyuI11uieTxj91dIshukgKIwVWsFbv2qTsXYv/zyS6LmwdJZiTwLNTU5mB1Z69I1k9Dk9EP5PgOf8klHXwL4PEU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MzkyNDgzOTY1OCwKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNzkxMzJjZWRiOWQ3ODQzOTVkYWRlN2NiZTBlZDk0ZTEyZjA1NWE4ZGNjMzMxYWYzY2U3MGY1ODgzMmVkOTA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases the base stats of your\",3:\"§7dungeon items by §a1% §7while in §cThe\",4:\"§cCatacombs §7for each digit on your\",5:\"§7secret count. §8(Max 6%)\",6:\"\",7:\"§7Counter: §a14,800\",8:\"§7Bonus: §a+5%\",9:\"\",10:\"§8§oOnce worn proudly, now covered in\",11:\"§8§ofilth and soot.\",12:\"\",13:\"§8Works while in Accessory Bag!\",14:\"§9§lRARE DUNGEON ACCESSORY\"],Name:\"§9General's Medallion\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GENERAL_MEDALLION\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"72de8b4c-5852-3c08-b808-c5626722f869\",Properties:{textures:[0:{Name:\"textures\",Signature:\"hy2sGkycr9wLybZMxWH8+vMZtbq2gaCPuai5lugOgZKi9fKa+3uk9nSxuIO+KdN6ipEKfsJDlzi9bBkaH5qEKY0bDpzYT7Rwha7aKAoc4o0LExNVtsQLUTYlkyuYx8xX0WVFNzAujikmFQ6QJ+ejMtDxD73sPIA4dqu/VN3PfvMlbk6LhPDlnIMS9b1Bo4qA2OLI+oxiQV1D/BAfCfeP7/Fzyhs1S03X156nxReXqqy4aJohRlVHsA828Elsk5f3hOBSx6lQsl55JQlaL1KNrW4n+lMhpliBs6OeLIAKp3kKLu7UIxLO0nMbm+Yp6qaDYvArV7+xedBZCvWf3YOikazAD77mt5AENt3t6IQepfdEgjGrsFbln21AzencNt3BYy77906osw4ZC2dc6mN5hZ/ZQi3C20LiNmdLoE9uJ6jaP7D5fqKkNzuy2On5km/N6R3z/8cGzoAuQ9XndDcaP1Prb1l8NNZFHFfViZbAPugkUjPaqqnQAANUaHz/bJeiiBFp2r/kZ1G8wek3ZK9dJQGPMtlmrpHZD1lFK4LaS5PdWeF4mpzjGSeyZHeUE/2BvJ52+d9TjSlRw/czOR2iAyuI11uieTxj91dIshukgKIwVWsFbv2qTsXYv/zyS6LmwdJZiTwLNTU5mB1Z69I1k9Dk9EP5PgOf8klHXwL4PEU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MzkyNDgzOTY1OCwKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNzkxMzJjZWRiOWQ3ODQzOTVkYWRlN2NiZTBlZDk0ZTEyZjA1NWE4ZGNjMzMxYWYzY2U3MGY1ODgzMmVkOTA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases the base stats of your\",3:\"§7dungeon items by §a1% §7while in §cThe\",4:\"§cCatacombs §7for each digit on your\",5:\"§7secret count. §8(Max 6%)\",6:\"\",7:\"§7Counter: §a0\",8:\"§7Bonus: §a+0%\",9:\"\",10:\"§8§oOnce worn proudly, now covered in\",11:\"§8§ofilth and soot.\",12:\"\",13:\"§8Works while in Accessory Bag!\",14:\"§9§lRARE DUNGEON ACCESSORY\"],Name:\"§9General's Medallion\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+8",
@@ -92580,8 +92580,8 @@
       "§cCatacombs §7for each digit on your",
       "§7secret count. §8(Max 6%)",
       "",
-      "§7Counter: §a14,800",
-      "§7Bonus: §a+5%",
+      "§7Counter: §a0",
+      "§7Bonus: §a+0%",
       "",
       "§8§oOnce worn proudly, now covered in",
       "§8§ofilth and soot.",
@@ -101326,7 +101326,7 @@
   "GOLEM_SWORD": {
     "itemid": "minecraft:iron_sword",
     "displayname": "§9Golem Sword",
-    "nbttag": "{ExtraAttributes:{id:\"GOLEM_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/golem_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+25\",1:\"§7Damage: §c+80\",2:\"§7Strength: §c+125\",3:\"\",4:\"§6Ability: Iron Punch  §e§lRIGHT CLICK\",5:\"§7Punch the ground, damaging enemies in a\",6:\"§7hexagon around you for §a253.8§7 base Magic\",7:\"§7Damage.\",8:\"§8Mana Cost: §b70\",9:\"§8Cooldown: §a3s\",10:\"\",11:\"§8This item can be reforged!\",12:\"§9§lRARE SWORD\"],Name:\"§9Golem Sword\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GOLEM_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/golem_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+25\",1:\"§7Damage: §c+80\",2:\"§7Strength: §c+125\",3:\"\",4:\"§6Ability: Iron Punch  §e§lRIGHT CLICK\",5:\"§7Punch the ground, damaging enemies in a\",6:\"§7hexagon around you for §a250§7 base Magic\",7:\"§7Damage.\",8:\"§8Mana Cost: §b70\",9:\"§8Cooldown: §a3s\",10:\"\",11:\"§8This item can be reforged!\",12:\"§9§lRARE SWORD\"],Name:\"§9Golem Sword\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+25",
@@ -101335,7 +101335,7 @@
       "",
       "§6Ability: Iron Punch  §e§lRIGHT CLICK",
       "§7Punch the ground, damaging enemies in a",
-      "§7hexagon around you for §a253.8§7 base Magic",
+      "§7hexagon around you for §a250§7 base Magic",
       "§7Damage.",
       "§8Mana Cost: §b70",
       "§8Cooldown: §a3s",
@@ -101346,7 +101346,7 @@
     "internalname": "GOLEM_SWORD",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Iron Ingot VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Golem_Sword"
@@ -122419,14 +122419,14 @@
   "JERRY_STAFF": {
     "itemid": "minecraft:golden_horse_armor",
     "displayname": "§5Jerry-chine Gun",
-    "nbttag": "{ExtraAttributes:{id:\"JERRY_STAFF\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/jerry/jerrychine_gun\",display:{Lore:[0:\"§7Damage: §c+80\",1:\"§7Intelligence: §b+200\",2:\"\",3:\"§6Ability: Rapid-fire  §e§lRIGHT CLICK\",4:\"§7Shoots a Jerry bullet, dealing §c503.5\",5:\"§7damage on impact and knocking you\",6:\"§7back.\",7:\"\",8:\"§7Each shot costs §3+30 mana §7more than\",9:\"§7the previous, resetting after §a4s §7of\",10:\"§7not firing.\",11:\"\",12:\"§8This item can be reforged!\",13:\"§5§lEPIC SWORD\"],Name:\"§5Jerry-chine Gun\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"JERRY_STAFF\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/jerry/jerrychine_gun\",display:{Lore:[0:\"§7Damage: §c+80\",1:\"§7Intelligence: §b+200\",2:\"\",3:\"§6Ability: Rapid-fire  §e§lRIGHT CLICK\",4:\"§7Shoots a Jerry bullet, dealing §c500\",5:\"§7damage on impact and knocking you\",6:\"§7back.\",7:\"\",8:\"§7Each shot costs §3+30 mana §7more than\",9:\"§7the previous, resetting after §a4s §7of\",10:\"§7not firing.\",11:\"\",12:\"§8This item can be reforged!\",13:\"§5§lEPIC SWORD\"],Name:\"§5Jerry-chine Gun\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+80",
       "§7Intelligence: §b+200",
       "",
       "§6Ability: Rapid-fire  §e§lRIGHT CLICK",
-      "§7Shoots a Jerry bullet, dealing §c503.5",
+      "§7Shoots a Jerry bullet, dealing §c500",
       "§7damage on impact and knocking you",
       "§7back.",
       "",
@@ -122440,7 +122440,7 @@
     "internalname": "JERRY_STAFF",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Jerry-chine_Gun"
@@ -140431,8 +140431,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Martin"
+    ],
     "island": "foraging_2",
     "x": -580,
     "y": 93,
