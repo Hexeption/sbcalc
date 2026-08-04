@@ -15816,10 +15816,10 @@
   "CRUX_TALISMAN_1": {
     "itemid": "minecraft:skull",
     "displayname": "§fCrux Talisman",
-    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"30efd643-7a23-3b2c-8411-739e759aaf5f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"WLs99AtorvOAkNKDH6sm+lNkimk9C8ePaXq0Jnk5isoEanbMzXCoP06UDazn9u13kcqBJ5FafaY3ymxeQLr9t39MdnC/zvmd5iEJd770j4dmcDtaM+FhE4GkvuXESyMUtxfln32fq3yoDQAp9N9AcFf0JgPYnkwOoYmkJ0vjqCMrXLO7aR8cBmIv9k4NmwRw5zFtf80JXJcs7wRnqD43sHx9iR6lo5MCjpnZGQ/mBs3AS9irjROJ9+AGKyi20CI2ngSjjtZLXVreYZ6XH03BDNRgSNwqbmGzGII23TL1QRGTSvZVZmQ/rSiq9sWGI8mCseJVJI/UF+BBMqAWWssflWq3f20Xv5Du0p6Wcclj/CHluYTLpGSu40jUXMaMV8mzJ5CWWwFiuqTsRn4WPcxHlbz350+8Sxl9YKFk3nnYeiizrdS0/XwhOTRYTFNTpC2Tg6xPkokEKE6KnSduAB2BBL/n+BSN5BJhMfgpzThLcEAloE4Iq0zHlivGacmuIvSTlRxgZxtTGO20yGQ5e/mFFlGUID1Ie2GgPxOdrWqeeTBXDCN7Koex1az/0jmKem5ja5pa3NRDEA4PULaDsG4fsjn5bI6VbtDNEhMtkpP/hd/X+C4ZKlIQlr3tlYDyCbExfT76ww3T/i4EpLF6D/nhX7MwaYk+a9LNB2GUq25eevI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzI3NzQ3NywKICAicHJvZmlsZUlkIiA6ICIxNmJhNWU4MDJhMmU0ZDJhYjEwZmZiYWJiYmQ1MDdlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGlua3l1c2VyMzMxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YjIyNTRkYmJmNTJjMzg4NTU3ODQ5MTA4ZTkzZGNjNWE5YjNiN2ZhNDdlNjRmNGNhMDYzZGZhYTFhMzAyYzYwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7Defeat shies to gain §a+5 Rift Time §7and §6+5\",3:\"§6Crux Fortune §7per kill milestone.\",4:\"§8Crux Fortune boosts the chance for\",5:\"§8bonus crux drops.\",6:\"\",7:\"§7Kill Milestones\",8:\"  §2- Shy§7: §e0§7/§a10 §7kills\",9:\"\",10:\"§8Works while in Accessory Bag!\",11:\"§f§lCOMMON ACCESSORY\"],Name:\"§fCrux Talisman\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"30efd643-7a23-3b2c-8411-739e759aaf5f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"WLs99AtorvOAkNKDH6sm+lNkimk9C8ePaXq0Jnk5isoEanbMzXCoP06UDazn9u13kcqBJ5FafaY3ymxeQLr9t39MdnC/zvmd5iEJd770j4dmcDtaM+FhE4GkvuXESyMUtxfln32fq3yoDQAp9N9AcFf0JgPYnkwOoYmkJ0vjqCMrXLO7aR8cBmIv9k4NmwRw5zFtf80JXJcs7wRnqD43sHx9iR6lo5MCjpnZGQ/mBs3AS9irjROJ9+AGKyi20CI2ngSjjtZLXVreYZ6XH03BDNRgSNwqbmGzGII23TL1QRGTSvZVZmQ/rSiq9sWGI8mCseJVJI/UF+BBMqAWWssflWq3f20Xv5Du0p6Wcclj/CHluYTLpGSu40jUXMaMV8mzJ5CWWwFiuqTsRn4WPcxHlbz350+8Sxl9YKFk3nnYeiizrdS0/XwhOTRYTFNTpC2Tg6xPkokEKE6KnSduAB2BBL/n+BSN5BJhMfgpzThLcEAloE4Iq0zHlivGacmuIvSTlRxgZxtTGO20yGQ5e/mFFlGUID1Ie2GgPxOdrWqeeTBXDCN7Koex1az/0jmKem5ja5pa3NRDEA4PULaDsG4fsjn5bI6VbtDNEhMtkpP/hd/X+C4ZKlIQlr3tlYDyCbExfT76ww3T/i4EpLF6D/nhX7MwaYk+a9LNB2GUq25eevI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzI3NzQ3NywKICAicHJvZmlsZUlkIiA6ICIxNmJhNWU4MDJhMmU0ZDJhYjEwZmZiYWJiYmQ1MDdlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzbGlua3l1c2VyMzMxNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YjIyNTRkYmJmNTJjMzg4NTU3ODQ5MTA4ZTkzZGNjNWE5YjNiN2ZhNDdlNjRmNGNhMDYzZGZhYTFhMzAyYzYwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+10s\",1:\"\",2:\"§7Defeat shies to gain §a+5 Rift Time §7and §6+5\",3:\"§6Crux Fortune §7per kill milestone.\",4:\"§8Crux Fortune boosts the chance for\",5:\"§8bonus crux drops.\",6:\"\",7:\"§7Kill Milestones\",8:\"  §2- Shy§7: §e0§7/§a10 §7kills\",9:\"\",10:\"§8Works while in Accessory Bag!\",11:\"§f§lCOMMON ACCESSORY\"],Name:\"§fCrux Talisman\"}}",
     "damage": 3,
     "lore": [
-      "§7Accessory Power: §6+3",
+      "§7Rift Time: §a+10s",
       "",
       "§7Defeat shies to gain §a+5 Rift Time §7and §6+5",
       "§6Crux Fortune §7per kill milestone.",
@@ -15855,11 +15855,11 @@
   "CRUX_TALISMAN_2": {
     "itemid": "minecraft:skull",
     "displayname": "§aCrux Ring",
-    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_2\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c8a5d5c7-3633-31a7-b9f8-87bc3e4c4ffe\",Properties:{textures:[0:{Name:\"textures\",Signature:\"A82qe+LFFpDBoc9yMbf/YpK6c/InXsqL9IBnDNN+1XqOLjgZf+LptfgTZHJS54JLK/YuATbCjslN0pBCql633FF1DHGBhKssJntnf05hRfK/sRNxasIOzLzH4uEiCM01z1Ewx4cQ0/GC8Mnv0gOxUO2DlV+1nxpo29HDuQAkc4ldBxkCxsr49UzAlVtg8cta64m3KHttbLi8nON2kvdZFJfM/qTNGlpFJrqFbcT7YZc+hYhrvZesJX/QszSMGgDz3SywjKIBhyFv+6CoSEVDcafyMKd3gCj1c9cuzoYMrp806BendkPO+5YYYHPIJhnIxfDrMSaYewt2BMVUh7Kf3sJLJavC3+d98/QtngwigtAWdbErkr1Q9PrUJWQm+pqMsEjYruXAM+AxUXsrq/XDyHtqrDwaptmutNuSg1UBq4vftHj4KvFhwGYIIxZzjFPhIngsLTbj59P/cgdtAFuH8kCnNuf4Dq6JGwK1oF97AASaYyVuiSTjSJknn30i4DI5K8X7wwx+In/voqyWAFwY0WTxUPxvG6o4BxE8twyOA89h9BXYuybXgjDuhxzV08Rfou775CepWjeg1foxWpQYYnf33L8+Dl8EBRuS4LLyINzk4fiiar/4CAizk37a4v+68ey7hFxXwUR7Z2juUvfuzvMb5Vyc1u+IreNBL3qoAAA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzMwMDMwNSwKICAicHJvZmlsZUlkIiA6ICIzNTE2NjhhMTk5MmM0ZGZlOWRkNmY5NTUxNWFkNzVmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX1BrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiNWNiMmM0YTAyOGJhNzFiOWM5NmJkZTE0ZWVmNDM3MDYyM2EzMjUyZTI1NDVkNDBlMmY0ZGZhOWIxNTRlZmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Intelligence: §b+2\",1:\"§7Accessory Power: §6+5\",2:\"\",3:\"§7Defeat crux mobs to gain §a+5 Rift Time §7and\",4:\"§6+5 Crux Fortune §7per kill milestone.\",5:\"§8Crux Fortune boosts the chance for\",6:\"§8bonus crux drops.\",7:\"\",8:\"§7Kill Milestones\",9:\"  §2- Shy§7: §e0§7/§a10 §7kills\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aCrux Ring\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_2\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c8a5d5c7-3633-31a7-b9f8-87bc3e4c4ffe\",Properties:{textures:[0:{Name:\"textures\",Signature:\"A82qe+LFFpDBoc9yMbf/YpK6c/InXsqL9IBnDNN+1XqOLjgZf+LptfgTZHJS54JLK/YuATbCjslN0pBCql633FF1DHGBhKssJntnf05hRfK/sRNxasIOzLzH4uEiCM01z1Ewx4cQ0/GC8Mnv0gOxUO2DlV+1nxpo29HDuQAkc4ldBxkCxsr49UzAlVtg8cta64m3KHttbLi8nON2kvdZFJfM/qTNGlpFJrqFbcT7YZc+hYhrvZesJX/QszSMGgDz3SywjKIBhyFv+6CoSEVDcafyMKd3gCj1c9cuzoYMrp806BendkPO+5YYYHPIJhnIxfDrMSaYewt2BMVUh7Kf3sJLJavC3+d98/QtngwigtAWdbErkr1Q9PrUJWQm+pqMsEjYruXAM+AxUXsrq/XDyHtqrDwaptmutNuSg1UBq4vftHj4KvFhwGYIIxZzjFPhIngsLTbj59P/cgdtAFuH8kCnNuf4Dq6JGwK1oF97AASaYyVuiSTjSJknn30i4DI5K8X7wwx+In/voqyWAFwY0WTxUPxvG6o4BxE8twyOA89h9BXYuybXgjDuhxzV08Rfou775CepWjeg1foxWpQYYnf33L8+Dl8EBRuS4LLyINzk4fiiar/4CAizk37a4v+68ey7hFxXwUR7Z2juUvfuzvMb5Vyc1u+IreNBL3qoAAA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzMwMDMwNSwKICAicHJvZmlsZUlkIiA6ICIzNTE2NjhhMTk5MmM0ZGZlOWRkNmY5NTUxNWFkNzVmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlX1BrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiNWNiMmM0YTAyOGJhNzFiOWM5NmJkZTE0ZWVmNDM3MDYyM2EzMjUyZTI1NDVkNDBlMmY0ZGZhOWIxNTRlZmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+20s\",1:\"§7Intelligence: §b+2\",2:\"\",3:\"§7Defeat crux mobs to gain §a+5 Rift Time §7and\",4:\"§6+5 Crux Fortune §7per kill milestone.\",5:\"§8Crux Fortune boosts the chance for\",6:\"§8bonus crux drops.\",7:\"\",8:\"§7Kill Milestones\",9:\"  §2- Shy§7: §e0§7/§a10 §7kills\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aCrux Ring\"}}",
     "damage": 3,
     "lore": [
+      "§7Rift Time: §a+20s",
       "§7Intelligence: §b+2",
-      "§7Accessory Power: §6+5",
       "",
       "§7Defeat crux mobs to gain §a+5 Rift Time §7and",
       "§6+5 Crux Fortune §7per kill milestone.",
@@ -15895,11 +15895,11 @@
   "CRUX_TALISMAN_3": {
     "itemid": "minecraft:skull",
     "displayname": "§9Crux Artifact",
-    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_3\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d7fd6734-01ab-3ed4-ae36-8cb7e05f10d6\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CcLkwm25NIaxzwfb1M8rlaIpNxFg4135Gwy2ET7cxaCuJGF+GAbohV1w8khFDWRM68vFL7oUuqNKgion8osJCrSJyMWJan3r+Yyz9oYaYiqWWvyR4G05/JeWfgEOZx35OAPCnJqT+AHNlufVvK/wLevI9dN2bAVPnmp2k0w06cZmoKu/RIpM97Eldcl8LR+wCNhAQUkeCmhMvsUlT0jyJL2cg7++YChh+py+ilvM8pHSO6vnqCntatdiJ/pzjWOoIRGxcBd9V40uwn76n+BTzDgMRJ0N2MO6JpCkSIwHGrBlHgv/N8wfWwR2yUyvWRqZgHEMdLYxiNSmUh9kYj33ocQ/1bTAlCZleUYzhx1BlYxTk6JF1bOAc1k2nNrXSr5FUw7gjbPI6vjV0h7V0h+XYYIf2aT5g6cvplLdmKpWT1FQH8FVOwgf51sQLXFOW9Lo21mamfxGq8gxTGraRI3nc5B+jR1t0GGUwZyQj+QlCNwpM8VwdHMyG0ctUrA/2jaSAPTaQiUK81MGt1f6Jg54PsisqqFYu5cPjSJPPm1W04XhzRo7Mzr0jKWYPV3ayrgMg9Ow0ooc5b1jG+t+QYe+iRkWEGY+63vHLkik4xKI9qyUFzd9lUzcGg2F0IefBTEU4cBz9KkRqRVSKrYmb2O11QtYr8cZIW2GLqLF2fx0Gkc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzMyNDY1NywKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NGQ2NjM0NTFmMzUwYTM2NmU2NzRiYjBkOWY3MWZlOTIyYzExZmYxYmI4ZTU4M2QwNWQyMzc5MzhhZmQwYzg4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Intelligence: §b+5\",1:\"§7Accessory Power: §6+8\",2:\"\",3:\"§7Defeat crux mobs to gain §a+5 Rift Time §7and\",4:\"§6+5 Crux Fortune §7per kill milestone.\",5:\"§8Crux Fortune boosts the chance for\",6:\"§8bonus crux drops.\",7:\"\",8:\"§7Kill Milestones\",9:\"  §2- Shy§7: §e0§7/§a10 §7kills\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§9§lRARE ACCESSORY\"],Name:\"§9Crux Artifact\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_3\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d7fd6734-01ab-3ed4-ae36-8cb7e05f10d6\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CcLkwm25NIaxzwfb1M8rlaIpNxFg4135Gwy2ET7cxaCuJGF+GAbohV1w8khFDWRM68vFL7oUuqNKgion8osJCrSJyMWJan3r+Yyz9oYaYiqWWvyR4G05/JeWfgEOZx35OAPCnJqT+AHNlufVvK/wLevI9dN2bAVPnmp2k0w06cZmoKu/RIpM97Eldcl8LR+wCNhAQUkeCmhMvsUlT0jyJL2cg7++YChh+py+ilvM8pHSO6vnqCntatdiJ/pzjWOoIRGxcBd9V40uwn76n+BTzDgMRJ0N2MO6JpCkSIwHGrBlHgv/N8wfWwR2yUyvWRqZgHEMdLYxiNSmUh9kYj33ocQ/1bTAlCZleUYzhx1BlYxTk6JF1bOAc1k2nNrXSr5FUw7gjbPI6vjV0h7V0h+XYYIf2aT5g6cvplLdmKpWT1FQH8FVOwgf51sQLXFOW9Lo21mamfxGq8gxTGraRI3nc5B+jR1t0GGUwZyQj+QlCNwpM8VwdHMyG0ctUrA/2jaSAPTaQiUK81MGt1f6Jg54PsisqqFYu5cPjSJPPm1W04XhzRo7Mzr0jKWYPV3ayrgMg9Ow0ooc5b1jG+t+QYe+iRkWEGY+63vHLkik4xKI9qyUFzd9lUzcGg2F0IefBTEU4cBz9KkRqRVSKrYmb2O11QtYr8cZIW2GLqLF2fx0Gkc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzMyNDY1NywKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NGQ2NjM0NTFmMzUwYTM2NmU2NzRiYjBkOWY3MWZlOTIyYzExZmYxYmI4ZTU4M2QwNWQyMzc5MzhhZmQwYzg4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+35s\",1:\"§7Intelligence: §b+5\",2:\"\",3:\"§7Defeat crux mobs to gain §a+5 Rift Time §7and\",4:\"§6+5 Crux Fortune §7per kill milestone.\",5:\"§8Crux Fortune boosts the chance for\",6:\"§8bonus crux drops.\",7:\"\",8:\"§7Kill Milestones\",9:\"  §2- Shy§7: §e0§7/§a10 §7kills\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§9§lRARE ACCESSORY\"],Name:\"§9Crux Artifact\"}}",
     "damage": 3,
     "lore": [
+      "§7Rift Time: §a+35s",
       "§7Intelligence: §b+5",
-      "§7Accessory Power: §6+8",
       "",
       "§7Defeat crux mobs to gain §a+5 Rift Time §7and",
       "§6+5 Crux Fortune §7per kill milestone.",
@@ -15935,11 +15935,11 @@
   "CRUX_TALISMAN_4": {
     "itemid": "minecraft:skull",
     "displayname": "§5Crux Relic",
-    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_4\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"04d7e2f4-638f-3a72-8a0f-5d196366b0d8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"fMgCmXlhBuR4ea6ZbBVtGzsIXUgjvv1hTDmPrOTIJ2wncP71U3+2+2DOTJxt4m4YtUbhk8OSZkD0AFCo6TLjXVBkcsdJoZLB+lpUKrMymJ06ZVwg8Wrz+etLAv5/4V/PRN80MDttVVorxO4n0svjgZeAcFhEXEXnuIhHdrRjmCGojgKvDyob8+3VrCHAX7cmrkdsIdX3ZfUB57oXwMkrN64F6H6ISWj6rxIAKMah3PAZRz6WEhzfclVOlQ0AkYqucUaI9CnJGzf1byhM4dA8N+H8kxyp/DPT8lSWVa1/QL7/KQhjTMpeV9zLlDDWqsh7oQ2a5O7l2+bTV5kCtIOJPoyMzldVfUDGtCyrSLcgH/lHWt0DeAhgzRbyELeRQZXlTJEM+N7INHMwM4z+1YiHzpfuK0pjCIAIpQP+porEJxK0ghHM2S43f1CN4nU67ctRbLm0BE5aS7C828v4T2qDEWNvFRzJsf+RDDCWWdpSNgjzZ/ruEX2ls24xuSAyU65+q1XklUebwnoYyirAnONQDjZ78hearCFmg8ksiPBG4LNOOBQEWXlRp+wjvmws9M3sw8QsAJG+GpjplfJP5FeLD27nf4c6VsFRpWcjYwTW3aly+M+RDi9IrZ1iIRCofqfTF2BA0V/TAwLOBOGsEzTNfzqK7JIO98K/w6Y4aMgiDyg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQyNTM2OSwKICAicHJvZmlsZUlkIiA6ICI1ZTg2ZTc3OGQ0NTc0N2NjYjQ4N2E1OWRlZDMzZDRlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQbGVpc18iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWRhYjJmZjlmMmI1ZTJkMzY5MjIyNmY2MzhlYjllNjc2NGE0NWI0M2JhMDI3OGM1ZTBiZDhkNzQ5NDJjNTcyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Intelligence: §b+7\",1:\"§7Accessory Power: §6+12\",2:\"\",3:\"§7Defeat crux mobs to gain §a+5 Rift Time §7and\",4:\"§6+5 Crux Fortune §7per kill milestone.\",5:\"§8Crux Fortune boosts the chance for\",6:\"§8bonus crux drops.\",7:\"\",8:\"§7Kill Milestones\",9:\"  §2- Shy§7: §e0§7/§a10 §7kills\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§5§lEPIC ACCESSORY\"],Name:\"§5Crux Relic\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_4\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"04d7e2f4-638f-3a72-8a0f-5d196366b0d8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"fMgCmXlhBuR4ea6ZbBVtGzsIXUgjvv1hTDmPrOTIJ2wncP71U3+2+2DOTJxt4m4YtUbhk8OSZkD0AFCo6TLjXVBkcsdJoZLB+lpUKrMymJ06ZVwg8Wrz+etLAv5/4V/PRN80MDttVVorxO4n0svjgZeAcFhEXEXnuIhHdrRjmCGojgKvDyob8+3VrCHAX7cmrkdsIdX3ZfUB57oXwMkrN64F6H6ISWj6rxIAKMah3PAZRz6WEhzfclVOlQ0AkYqucUaI9CnJGzf1byhM4dA8N+H8kxyp/DPT8lSWVa1/QL7/KQhjTMpeV9zLlDDWqsh7oQ2a5O7l2+bTV5kCtIOJPoyMzldVfUDGtCyrSLcgH/lHWt0DeAhgzRbyELeRQZXlTJEM+N7INHMwM4z+1YiHzpfuK0pjCIAIpQP+porEJxK0ghHM2S43f1CN4nU67ctRbLm0BE5aS7C828v4T2qDEWNvFRzJsf+RDDCWWdpSNgjzZ/ruEX2ls24xuSAyU65+q1XklUebwnoYyirAnONQDjZ78hearCFmg8ksiPBG4LNOOBQEWXlRp+wjvmws9M3sw8QsAJG+GpjplfJP5FeLD27nf4c6VsFRpWcjYwTW3aly+M+RDi9IrZ1iIRCofqfTF2BA0V/TAwLOBOGsEzTNfzqK7JIO98K/w6Y4aMgiDyg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQyNTM2OSwKICAicHJvZmlsZUlkIiA6ICI1ZTg2ZTc3OGQ0NTc0N2NjYjQ4N2E1OWRlZDMzZDRlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQbGVpc18iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWRhYjJmZjlmMmI1ZTJkMzY5MjIyNmY2MzhlYjllNjc2NGE0NWI0M2JhMDI3OGM1ZTBiZDhkNzQ5NDJjNTcyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+55s\",1:\"§7Intelligence: §b+7\",2:\"\",3:\"§7Defeat crux mobs to gain §a+5 Rift Time §7and\",4:\"§6+5 Crux Fortune §7per kill milestone.\",5:\"§8Crux Fortune boosts the chance for\",6:\"§8bonus crux drops.\",7:\"\",8:\"§7Kill Milestones\",9:\"  §2- Shy§7: §e0§7/§a10 §7kills\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§5§lEPIC ACCESSORY\"],Name:\"§5Crux Relic\"}}",
     "damage": 3,
     "lore": [
+      "§7Rift Time: §a+55s",
       "§7Intelligence: §b+7",
-      "§7Accessory Power: §6+12",
       "",
       "§7Defeat crux mobs to gain §a+5 Rift Time §7and",
       "§6+5 Crux Fortune §7per kill milestone.",
@@ -15975,12 +15975,12 @@
   "CRUX_TALISMAN_5": {
     "itemid": "minecraft:skull",
     "displayname": "§6Crux Heirloom",
-    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_5\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9acaf045-3c6a-39a2-9aa6-bcc42ba3a711\",Properties:{textures:[0:{Name:\"textures\",Signature:\"AVMadfIXH5Uyne73Ca7fBwx7LQpMiWtmtJXwsryWuzN6Na0ythSqLs7+7MIbVn8cFH9UVk71CI6mJ1dSKfMj7j8v132833bHUY2A7ieVEq3p18ph3by+FrKFplkyQeUvWUrtOMVf8n0Gk9hsZhBukWkLjIbbVDVAOueR4Xlvj1m3l+Bl9Q7ColGM5BUHuzNlP6QZ1G+LepTAnAAAPG6iZOgivPbWhpjuGolNc7hluSMkb8aYfIuHuen3ieMoycsP2M29Xb6fuQjN9v7hIC4oCVvEVb3mOfd9toRYSlUWKS4CWyOK4XYVI0o5mSq2dHhMZAvqGZ2PRzQ18KD7F0DAmiRBdM9BJ6jljTnAiDXHCSphxw3NN2MBAbgE/SsINoCjxMv0fk27dEEiTrzT4QQCXwGIQCT4EVQi2y5mb7JY5eNbwH2LukESC3uqF01y0plga6nFX42BIzV8u3tX49UubYx3cmvcGM7zyF2477L8qWLrxoAHCynp8DAExpP+tF2QEnJaKvnJ8fa8hKvkx710K905+U5KBG9gpsIkdSkQZKPRMi0I347XPXJuRR6/Oy+nDNpXHyTfcXKt9EZSZ1hEO1ufsdPyhkxodsfvXnuX9YT18sCYEFA/jRnXXWa/1phoOe/QbOsPKbCUL7CbZQtsP9GMbwE0AN7dWHw9kXnCFhA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQ1MTk5OSwKICAicHJvZmlsZUlkIiA6ICJkYmEyNmVkNTk2ZmE0NjBjOTZjOThhYWYwOWM2MDZhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmlnaW5hbFJlemEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjFmNTA3NGRiODZiNjY5Mzc2ZTcxZGQ4ZmU3MDcxNmY3M2UwZTg0Zjk1NTg3OWE0NjgyZWY1ZmExZWE4MmQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Intelligence: §b+10\",1:\"§7Speed: §f+1\",2:\"§7Accessory Power: §6+16\",3:\"\",4:\"§7Defeat crux mobs to gain §a+5 Rift Time §7and\",5:\"§6+5 Crux Fortune §7per kill milestone.\",6:\"§8Crux Fortune boosts the chance for\",7:\"§8bonus crux drops.\",8:\"\",9:\"§7Kill Milestones\",10:\"  §2- Shy§7: §e0§7/§a10 §7kills\",11:\"\",12:\"§8Works while in Accessory Bag!\",13:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Crux Heirloom\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_5\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9acaf045-3c6a-39a2-9aa6-bcc42ba3a711\",Properties:{textures:[0:{Name:\"textures\",Signature:\"AVMadfIXH5Uyne73Ca7fBwx7LQpMiWtmtJXwsryWuzN6Na0ythSqLs7+7MIbVn8cFH9UVk71CI6mJ1dSKfMj7j8v132833bHUY2A7ieVEq3p18ph3by+FrKFplkyQeUvWUrtOMVf8n0Gk9hsZhBukWkLjIbbVDVAOueR4Xlvj1m3l+Bl9Q7ColGM5BUHuzNlP6QZ1G+LepTAnAAAPG6iZOgivPbWhpjuGolNc7hluSMkb8aYfIuHuen3ieMoycsP2M29Xb6fuQjN9v7hIC4oCVvEVb3mOfd9toRYSlUWKS4CWyOK4XYVI0o5mSq2dHhMZAvqGZ2PRzQ18KD7F0DAmiRBdM9BJ6jljTnAiDXHCSphxw3NN2MBAbgE/SsINoCjxMv0fk27dEEiTrzT4QQCXwGIQCT4EVQi2y5mb7JY5eNbwH2LukESC3uqF01y0plga6nFX42BIzV8u3tX49UubYx3cmvcGM7zyF2477L8qWLrxoAHCynp8DAExpP+tF2QEnJaKvnJ8fa8hKvkx710K905+U5KBG9gpsIkdSkQZKPRMi0I347XPXJuRR6/Oy+nDNpXHyTfcXKt9EZSZ1hEO1ufsdPyhkxodsfvXnuX9YT18sCYEFA/jRnXXWa/1phoOe/QbOsPKbCUL7CbZQtsP9GMbwE0AN7dWHw9kXnCFhA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQ1MTk5OSwKICAicHJvZmlsZUlkIiA6ICJkYmEyNmVkNTk2ZmE0NjBjOTZjOThhYWYwOWM2MDZhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmlnaW5hbFJlemEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjFmNTA3NGRiODZiNjY5Mzc2ZTcxZGQ4ZmU3MDcxNmY3M2UwZTg0Zjk1NTg3OWE0NjgyZWY1ZmExZWE4MmQyZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+70s\",1:\"§7Intelligence: §b+10\",2:\"§7Speed: §f+1\",3:\"\",4:\"§7Defeat crux mobs to gain §a+5 Rift Time §7and\",5:\"§6+5 Crux Fortune §7per kill milestone.\",6:\"§8Crux Fortune boosts the chance for\",7:\"§8bonus crux drops.\",8:\"\",9:\"§7Kill Milestones\",10:\"  §2- Shy§7: §e0§7/§a10 §7kills\",11:\"\",12:\"§8Works while in Accessory Bag!\",13:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Crux Heirloom\"}}",
     "damage": 3,
     "lore": [
+      "§7Rift Time: §a+70s",
       "§7Intelligence: §b+10",
       "§7Speed: §f+1",
-      "§7Accessory Power: §6+16",
       "",
       "§7Defeat crux mobs to gain §a+5 Rift Time §7and",
       "§6+5 Crux Fortune §7per kill milestone.",
@@ -16016,9 +16016,10 @@
   "CRUX_TALISMAN_6": {
     "itemid": "minecraft:skull",
     "displayname": "§dCrux Chronomicon",
-    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_6\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ccbb2703-6a29-3103-af8e-b3e1e23e99f1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DRdkOzdQAEWVV81K3xofxWSy+/NKe5hD8J64pxAZ+ZKBShnoby9ezlrODktUujw+bUBFbV2BibPO3lhtd4x3fxECTZsD7252V/L9QRANm9XcKulcpaIMEheGM19SYlZGOBKCGk1qN4XdISLwfFR9/tW2tXmSZgdb1b0LoKhFnWsgLZKPS0bJ2mPJYDDGj/9M6OfiC21UGSzdM84YptWkzuBld/+iBpEDvqDSLFkjZwPrWVa2wLNbvHkYJ3oTPTeWVkIyxfs1NV4Fo51QtSBvFK4BqLIMcIMqcgZ5DGkI9eB9d3q5O5rN5pIO8kbQJ4bey49kXN22HdGUdJGR9LrWoPfYJAJZsdDLkd9EBNdZYcApTACF0hP8w97J2ABEcw5xoHcT1FBcLzuBDVSS3xsBHpKjE7gRLEujc6ibS9UBTixU8c+qUMQHZVzUhh/zEU/ynhd49MJXq2ypOJx19Bb7iDljV/j9uxYWJmNBFoTnLhxEntSuPnqEM2yksBdnFYh/S5O1XHzkbSLlYI6OTeb0Ip6cHaLIUbAFZpHGfQIv1g2Emv8RGQHpeh9U9c9x+1pTxMF23VZpGG35zV9pTltV/VxcPZqh6dj4O8S2D55kiN8ZcCC7+IDbEcdBYIpZamsV030iiFuoctQwGv2SPOZtbkdXr+Kl2T95nhmRiWKfCUk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQ3MTcxMCwKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kM2FkNTU3OWY2YTcxNTkxZTYxNWNjNTUxMzAxZDI0ZTQ0MzJjMGExN2RkNGE0ZmM0ZGRkZmYwZDI3NjQxZGM2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Intelligence: §b+15\",1:\"§7Speed: §f+2\",2:\"\",3:\"§7Defeat crux mobs to gain §a+5ф Rift Time §7and\",4:\"§6+5 Crux Fortune §7per kill milestone.\",5:\"§8Crux Fortune boosts the chance for\",6:\"§8bonus crux drops.\",7:\"\",8:\"§7Kill Milestones\",9:\"  §2- Shy§7: §e0§7/§a10 §7kills\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§d§lMYTHIC ACCESSORY\"],Name:\"§dCrux Chronomicon\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CRUX_TALISMAN_6\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ccbb2703-6a29-3103-af8e-b3e1e23e99f1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DRdkOzdQAEWVV81K3xofxWSy+/NKe5hD8J64pxAZ+ZKBShnoby9ezlrODktUujw+bUBFbV2BibPO3lhtd4x3fxECTZsD7252V/L9QRANm9XcKulcpaIMEheGM19SYlZGOBKCGk1qN4XdISLwfFR9/tW2tXmSZgdb1b0LoKhFnWsgLZKPS0bJ2mPJYDDGj/9M6OfiC21UGSzdM84YptWkzuBld/+iBpEDvqDSLFkjZwPrWVa2wLNbvHkYJ3oTPTeWVkIyxfs1NV4Fo51QtSBvFK4BqLIMcIMqcgZ5DGkI9eB9d3q5O5rN5pIO8kbQJ4bey49kXN22HdGUdJGR9LrWoPfYJAJZsdDLkd9EBNdZYcApTACF0hP8w97J2ABEcw5xoHcT1FBcLzuBDVSS3xsBHpKjE7gRLEujc6ibS9UBTixU8c+qUMQHZVzUhh/zEU/ynhd49MJXq2ypOJx19Bb7iDljV/j9uxYWJmNBFoTnLhxEntSuPnqEM2yksBdnFYh/S5O1XHzkbSLlYI6OTeb0Ip6cHaLIUbAFZpHGfQIv1g2Emv8RGQHpeh9U9c9x+1pTxMF23VZpGG35zV9pTltV/VxcPZqh6dj4O8S2D55kiN8ZcCC7+IDbEcdBYIpZamsV030iiFuoctQwGv2SPOZtbkdXr+Kl2T95nhmRiWKfCUk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1MzQ3MTcxMCwKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kM2FkNTU3OWY2YTcxNTkxZTYxNWNjNTUxMzAxZDI0ZTQ0MzJjMGExN2RkNGE0ZmM0ZGRkZmYwZDI3NjQxZGM2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+100s\",1:\"§7Intelligence: §b+15\",2:\"§7Speed: §f+2\",3:\"\",4:\"§7Defeat crux mobs to gain §a+5ф Rift Time §7and\",5:\"§6+5 Crux Fortune §7per kill milestone.\",6:\"§8Crux Fortune boosts the chance for\",7:\"§8bonus crux drops.\",8:\"\",9:\"§7Kill Milestones\",10:\"  §2- Shy§7: §e0§7/§a10 §7kills\",11:\"\",12:\"§8Works while in Accessory Bag!\",13:\"§d§lMYTHIC ACCESSORY\"],Name:\"§dCrux Chronomicon\"}}",
     "damage": 3,
     "lore": [
+      "§7Rift Time: §a+100s",
       "§7Intelligence: §b+15",
       "§7Speed: §f+2",
       "",
@@ -28142,7 +28143,7 @@
   "FARM_SUIT_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§fFarmhand Boots",
-    "nbttag": "{ExtraAttributes:{id:\"FARM_SUIT_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"§7Farming Fortune: §6+5\",2:\"\",3:\"§a⚑ §a§lTIP!\",4:\"§7The more §6 Farming Fortune §7you\",5:\"§7have, the more crops you will drop.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§f§lCOMMON BOOTS\"],Name:\"§fFarmhand Boots\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FARM_SUIT_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"§7Farming Fortune: §6+5\",2:\"\",3:\"§a⚑ §a§lTIP!\",4:\"§7The more §6 Farming Fortune §7you\",5:\"§7have, the more crops you will drop.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aFarming Skill 3§c.\",9:\"§f§lCOMMON BOOTS\"],Name:\"§fFarmhand Boots\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+10",
@@ -28153,12 +28154,13 @@
       "§7have, the more crops you will drop.",
       "",
       "§8This item can be reforged!",
+      "§4❣ §cRequires §aFarming Skill 3§c.",
       "§f§lCOMMON BOOTS"
     ],
     "internalname": "FARM_SUIT_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wheat II",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Boots"
@@ -28183,7 +28185,7 @@
   "FARM_SUIT_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§fFarmhand Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"FARM_SUIT_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"§7Farming Fortune: §6+5\",2:\"\",3:\"§a⚑ §a§lTIP!\",4:\"§7The more §6 Farming Fortune §7you\",5:\"§7have, the more crops you will drop.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§f§lCOMMON CHESTPLATE\"],Name:\"§fFarmhand Chestplate\",color:15467551}}",
+    "nbttag": "{ExtraAttributes:{id:\"FARM_SUIT_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"§7Farming Fortune: §6+5\",2:\"\",3:\"§a⚑ §a§lTIP!\",4:\"§7The more §6 Farming Fortune §7you\",5:\"§7have, the more crops you will drop.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aFarming Skill 3§c.\",9:\"§f§lCOMMON CHESTPLATE\"],Name:\"§fFarmhand Chestplate\",color:15467551}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+10",
@@ -28194,12 +28196,13 @@
       "§7have, the more crops you will drop.",
       "",
       "§8This item can be reforged!",
+      "§4❣ §cRequires §aFarming Skill 3§c.",
       "§f§lCOMMON CHESTPLATE"
     ],
     "internalname": "FARM_SUIT_CHESTPLATE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wheat II",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Chestplate"
@@ -28224,7 +28227,7 @@
   "FARM_SUIT_HELMET": {
     "itemid": "minecraft:leather_helmet",
     "displayname": "§fFarmhand Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"FARM_SUIT_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"§7Farming Fortune: §6+5\",2:\"\",3:\"§a⚑ §a§lTIP!\",4:\"§7The more §6 Farming Fortune §7you\",5:\"§7have, the more crops you will drop.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§f§lCOMMON HELMET\"],Name:\"§fFarmhand Helmet\",color:16640098}}",
+    "nbttag": "{ExtraAttributes:{id:\"FARM_SUIT_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"§7Farming Fortune: §6+5\",2:\"\",3:\"§a⚑ §a§lTIP!\",4:\"§7The more §6 Farming Fortune §7you\",5:\"§7have, the more crops you will drop.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aFarming Skill 3§c.\",9:\"§f§lCOMMON HELMET\"],Name:\"§fFarmhand Helmet\",color:16640098}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+10",
@@ -28235,12 +28238,13 @@
       "§7have, the more crops you will drop.",
       "",
       "§8This item can be reforged!",
+      "§4❣ §cRequires §aFarming Skill 3§c.",
       "§f§lCOMMON HELMET"
     ],
     "internalname": "FARM_SUIT_HELMET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wheat II",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Helmet"
@@ -28265,7 +28269,7 @@
   "FARM_SUIT_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§fFarmhand Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"FARM_SUIT_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"§7Farming Fortune: §6+5\",2:\"\",3:\"§a⚑ §a§lTIP!\",4:\"§7The more §6 Farming Fortune §7you\",5:\"§7have, the more crops you will drop.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§f§lCOMMON LEGGINGS\"],Name:\"§fFarmhand Leggings\",color:4868228}}",
+    "nbttag": "{ExtraAttributes:{id:\"FARM_SUIT_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+10\",1:\"§7Farming Fortune: §6+5\",2:\"\",3:\"§a⚑ §a§lTIP!\",4:\"§7The more §6 Farming Fortune §7you\",5:\"§7have, the more crops you will drop.\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aFarming Skill 3§c.\",9:\"§f§lCOMMON LEGGINGS\"],Name:\"§fFarmhand Leggings\",color:4868228}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+10",
@@ -28276,12 +28280,13 @@
       "§7have, the more crops you will drop.",
       "",
       "§8This item can be reforged!",
+      "§4❣ §cRequires §aFarming Skill 3§c.",
       "§f§lCOMMON LEGGINGS"
     ],
     "internalname": "FARM_SUIT_LEGGINGS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wheat II",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Leggings"
@@ -69282,7 +69287,7 @@
   "REAPER_ORB": {
     "itemid": "minecraft:skull",
     "displayname": "§6Reaper Orb",
-    "nbttag": "{ExtraAttributes:{id:\"REAPER_ORB\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d99d1f23-5ee1-38b8-9bdb-4ddb44b8ca12\",Properties:{textures:[0:{Name:\"textures\",Signature:\"EsHg3Cx3B5K3LXJPYMtC281JVRofEqjgIuRx3wLguq/3xsMGHMnNvtzD5KGaSqLYOc3qJGlW1n46EWvHVRZUlCNLEKxVMX4fol+icUZ2sDMv1xooff8BDAaWatTUjeViZYvQKRbBeOxhu8vJzigQdF6ObCSCakrD6OdjfqkQMXJS3+MgTMkzOYUxHhvgJTGdQEAe0n/BmI5FinIfiswC0+0bVAMfV6NB0U0RFmm8qbeeZ1z2NmeC5obXL13+/naAZ6P1yQoSJaPgtePbRSPLYoN8IjcoJ8cVfstLqn1D+kzZ9BNikm8iyZapTR1K1Rt+MDAwdKGLkLohc9yvnc5AocaW03r+YoLRlcabWZ1uAtSPl9rn+Ur1Vu1WwJBVRXVcuBgmrclixNhX5k6a87r3KKcBdDFSn5S2jJcwWVYZ2NNBnQyRANNsVdxM60VmgGWAlyV5PB8ejRgvg/PUSpjnwHX8SZ0IIkYeuIOYHIBteZjqsz4fm1incqkro2os6oFfFjO3JfR+pWFdvb5+UdBwV7LOBKj/AULIbAVtrrEfJoCFEsJP8fJVAllfYSA29gfBHp/8AzW4oHMeO2pxAZn+ihQ1F2KaxaCD+lLEWo6KLcFUI7DeWsMTu20YICnGMlz9N4M1b1eH2KhFtPy0ET/siDbPBQEqOgy+J4iuCQB5ygE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxODYwNjE0ODU2NiwKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhN2NkYTkwMDRmYzE5N2Q2NmFmYmMyYjAwM2E1YjllZjEzY2Y0NjAwYjFmYzc0OTAwNjc1OTBmMDQ3MTgxZSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+16\",1:\"\",2:\"§7Gain a stack of §c2 Strength §7for\",3:\"§7every mob killed in the last §a5\",4:\"§7seconds.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Reaper Orb\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"REAPER_ORB\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d99d1f23-5ee1-38b8-9bdb-4ddb44b8ca12\",Properties:{textures:[0:{Name:\"textures\",Signature:\"EsHg3Cx3B5K3LXJPYMtC281JVRofEqjgIuRx3wLguq/3xsMGHMnNvtzD5KGaSqLYOc3qJGlW1n46EWvHVRZUlCNLEKxVMX4fol+icUZ2sDMv1xooff8BDAaWatTUjeViZYvQKRbBeOxhu8vJzigQdF6ObCSCakrD6OdjfqkQMXJS3+MgTMkzOYUxHhvgJTGdQEAe0n/BmI5FinIfiswC0+0bVAMfV6NB0U0RFmm8qbeeZ1z2NmeC5obXL13+/naAZ6P1yQoSJaPgtePbRSPLYoN8IjcoJ8cVfstLqn1D+kzZ9BNikm8iyZapTR1K1Rt+MDAwdKGLkLohc9yvnc5AocaW03r+YoLRlcabWZ1uAtSPl9rn+Ur1Vu1WwJBVRXVcuBgmrclixNhX5k6a87r3KKcBdDFSn5S2jJcwWVYZ2NNBnQyRANNsVdxM60VmgGWAlyV5PB8ejRgvg/PUSpjnwHX8SZ0IIkYeuIOYHIBteZjqsz4fm1incqkro2os6oFfFjO3JfR+pWFdvb5+UdBwV7LOBKj/AULIbAVtrrEfJoCFEsJP8fJVAllfYSA29gfBHp/8AzW4oHMeO2pxAZn+ihQ1F2KaxaCD+lLEWo6KLcFUI7DeWsMTu20YICnGMlz9N4M1b1eH2KhFtPy0ET/siDbPBQEqOgy+J4iuCQB5ygE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxODYwNjE0ODU2NiwKICAicHJvZmlsZUlkIiA6ICJjMGYzYjI3YTUwMDE0YzVhYjIxZDc5ZGRlMTAxZGZlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDEzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhN2NkYTkwMDRmYzE5N2Q2NmFmYmMyYjAwM2E1YjllZjEzY2Y0NjAwYjFmYzc0OTAwNjc1OTBmMDQ3MTgxZSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+16\",1:\"\",2:\"§7Gain a stack of §c2 Strength §7for\",3:\"§7every mob killed in the last §a5\",4:\"§7seconds.\",5:\"\",6:\"§4☠ §cRequires §5Zombie Slayer 8§c.\",7:\"§8Works while in Accessory Bag!\",8:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Reaper Orb\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+16",
@@ -69291,13 +69296,14 @@
       "§7every mob killed in the last §a5",
       "§7seconds.",
       "",
+      "§4☠ §cRequires §5Zombie Slayer 8§c.",
       "§8Works while in Accessory Bag!",
       "§6§lLEGENDARY ACCESSORY"
     ],
     "internalname": "REAPER_ORB",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Zombie Slayer 8",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Reaper_Orb"
@@ -91028,19 +91034,18 @@
   "TRANSYLVANIAN;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{transylvanian:4},id:\"TRANSYLVANIAN;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Transylvanian IV\",1:\"§7Heal §c2❤§7/s per enemy within\",2:\"§a10 §7blocks, up to §c20❤§7/s.\",3:\"\",4:\"§7Applicable on: §9Helmet\",5:\"§7Use this on an item in an Anvil\",6:\"§7to apply it!\",7:\"\",8:\"§6Source:\",9:\"§aIV-V: §7Hemovibe Collection\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fHelmet\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{transylvanian:4},id:\"TRANSYLVANIAN;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Transylvanian IV\",3:\"§7Heal §c2❤§7/s per enemy within §a10\",4:\"§7blocks, up to §c20❤§7/s.\",5:\"\",6:\"§6Source:\",7:\"§aIV: §7Hemovibe Collection\",8:\"§aI-V: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fHelmet\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
-      "§9Transylvanian IV",
-      "§7Heal §c2❤§7/s per enemy within",
-      "§a10 §7blocks, up to §c20❤§7/s.",
+      "§8Combinable in Anvil",
       "",
-      "§7Applicable on: §9Helmet",
-      "§7Use this on an item in an Anvil",
-      "§7to apply it!",
+      "§9Transylvanian IV",
+      "§7Heal §c2❤§7/s per enemy within §a10",
+      "§7blocks, up to §c20❤§7/s.",
       "",
       "§6Source:",
-      "§aIV-V: §7Hemovibe Collection",
+      "§aIV: §7Hemovibe Collection",
+      "§aI-V: §7Bazaar",
       "",
       "§6Applied To:",
       "§7- §fHelmet",
@@ -91050,7 +91055,7 @@
     "internalname": "TRANSYLVANIAN;4",
     "clickcommand": "",
     "crafttext": "Requires: Hemovibe IV",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Transylvanian"
