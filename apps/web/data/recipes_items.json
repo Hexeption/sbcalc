@@ -929,6 +929,123 @@
       "count": 4
     }
   },
+  "ACCRETION_ARTIFACT": {
+    "itemid": "minecraft:paper",
+    "displayname": "§9Accretion Artifact",
+    "nbttag": "{ExtraAttributes:{id:\"ACCRETION_ARTIFACT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/accelerative/accelerative_artifact\",display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases the speed of your §5Pocket\",3:\"§5Black Holes §7by §a15%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Accretion Artifact\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Accessory Power: §6+8",
+      "",
+      "§7Increases the speed of your §5Pocket",
+      "§5Black Holes §7by §a15%§7.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§9§lRARE ACCESSORY"
+    ],
+    "internalname": "ACCRETION_ARTIFACT",
+    "clickcommand": "",
+    "crafttext": "Requires: Ruby Veilshroom VII",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Accretion_Artifact"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "HELIXIS:8",
+        "A3": "",
+        "B1": "VEILSHROOM_BUNCH:8",
+        "B2": "ACCRETION_RING:1",
+        "B3": "VEILSHROOM_BUNCH:8",
+        "C1": "",
+        "C2": "HELIXIS:8",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ACCRETION_ARTIFACT"
+      }
+    ]
+  },
+  "ACCRETION_RING": {
+    "itemid": "minecraft:paper",
+    "displayname": "§aAccretion Ring",
+    "nbttag": "{ExtraAttributes:{id:\"ACCRETION_RING\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/accelerative/accelerative_ring\",display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Increases the speed of your §5Pocket\",3:\"§5Black Holes §7by §a10%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aAccretion Ring\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Accessory Power: §6+5",
+      "",
+      "§7Increases the speed of your §5Pocket",
+      "§5Black Holes §7by §a10%§7.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§a§lUNCOMMON ACCESSORY"
+    ],
+    "internalname": "ACCRETION_RING",
+    "clickcommand": "",
+    "crafttext": "Requires: Ruby Veilshroom V",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Accretion_Ring"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "ENCHANTED_HELIX_LOG:8",
+        "A3": "",
+        "B1": "ENCHANTED_RUBY_VEILSHROOM:8",
+        "B2": "ACCRETION_TALISMAN:1",
+        "B3": "ENCHANTED_RUBY_VEILSHROOM:8",
+        "C1": "",
+        "C2": "ENCHANTED_HELIX_LOG:8",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ACCRETION_RING"
+      }
+    ]
+  },
+  "ACCRETION_TALISMAN": {
+    "itemid": "minecraft:paper",
+    "displayname": "§fAccretion Talisman",
+    "nbttag": "{ExtraAttributes:{id:\"ACCRETION_TALISMAN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/accelerative/accelerative_talisman\",display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7Increases the speed of your §5Pocket\",3:\"§5Black Holes §7by §a5%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§f§lCOMMON ACCESSORY\"],Name:\"§fAccretion Talisman\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Accessory Power: §6+3",
+      "",
+      "§7Increases the speed of your §5Pocket",
+      "§5Black Holes §7by §a5%§7.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§f§lCOMMON ACCESSORY"
+    ],
+    "internalname": "ACCRETION_TALISMAN",
+    "clickcommand": "",
+    "crafttext": "Requires: Ruby Veilshroom III",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Accretion_Talisman"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "ENCHANTED_HELIX_LOG:1",
+        "A3": "",
+        "B1": "ENCHANTED_RUBY_VEILSHROOM:1",
+        "B2": "",
+        "B3": "ENCHANTED_RUBY_VEILSHROOM:1",
+        "C1": "",
+        "C2": "ENCHANTED_HELIX_LOG:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ACCRETION_TALISMAN"
+      }
+    ]
+  },
   "ACTIVATOR_RAIL": {
     "itemid": "minecraft:activator_rail",
     "displayname": "§fActivator Rail",
@@ -2791,11 +2908,11 @@
   "ATTRIBUTE_SHARD_FIG_COLLECTOR;1": {
     "itemid": "minecraft:skull",
     "displayname": "§aSparrow Shard",
-    "nbttag": "{ExtraAttributes:{attributes:{fig_collector:1},id:\"ATTRIBUTE_SHARD_FIG_COLLECTOR;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c792d6ec-7a7d-3e02-8c37-ad028465888c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"vn6RMNuLeRqNEG2DwxTcR5J8Of5BOZno4shgKtmSarQ0aJf1x3S7hPnthCE5r11zOmql7JhT95gH3QpaniQCt3/USfistQOsNKVkWoz7C9pyKF1oirWRPr73Kh71lxpIV2kN9ZkdQ/6YJyzxUV8UDpKzpKTvD25ojhHZKNfKpxBigwH3nU5HSl6NP5L0lY+s3PfXjVh7KW3O2bca9TTBb70SzgfQaPLlQKjdzJWT90xAh12wVMovRmgSHiAicbGmdaUvMjL2npN60ytGO/EtTrrrFU4AjSHSNx3FukNhhTVbj0eSalT9K1Nna0fjyWYRqLCLyCbUqV1sFbYo2xCUzhs8qePgrOOXlk27v8SIJGNz3iWAuWAmmr2u8EWIDDwGCAKl/D1V0+geaPRLtpJWVs8CHI86b/C/VI1Yzo6uXXwOKfVpwWODnNLrIah3gCPaHadsilH706mcLf1HpeDmmSHXXJuzqAejcK6ORcsfSUKai04CT+FF/3gi99Zw6vmM0FdQjWgFYUoottlCwh49shGBvQ3rkFfzCbNqoZIE+pDWtYeJBSbj1Gay60VlgnuWeAaavD1a0DIR33S/RoR8WC6KD239qHJCejsCdQW8jVx3NPn9cO49FNyIQxB/EpBGXEqmujWYK+iqElNlYGzZmuzNa0gxdrT12nYga6CRbME=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxODgyODU0NDE4NSwKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFiYTMwNTU3NzhkMjQ5YTBiMzc4MzI2MzVkOGI3ZmI2OGU4ZjVkODQ3ZWMyMzEyYmNhNzI2ZDc4ZDhkZmZmZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Fig Collector I\",1:\"§7Grants §6+1 ☘ Fig Fortune§7 for every\",2:\"§7digit in your Fig Log collection. §8(Max\",3:\"§810M collection)\",4:\"\",5:\"§7You can Syphon this shard from\",6:\"§7your §aHunting Box§7.\",7:\"\",8:\"§eRight-click to send to Hunting Box!\",9:\"§eShift Right-click to move all!\",10:\"\",11:\"§4❣ §cRequires §aHunting Skill 5§c.\",12:\"§a§lUNCOMMON FOREST SHARD §8(ID U4)\"],Name:\"§aSparrow Shard\"}}",
+    "nbttag": "{ExtraAttributes:{attributes:{fig_collector:1},id:\"ATTRIBUTE_SHARD_FIG_COLLECTOR;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c792d6ec-7a7d-3e02-8c37-ad028465888c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"vn6RMNuLeRqNEG2DwxTcR5J8Of5BOZno4shgKtmSarQ0aJf1x3S7hPnthCE5r11zOmql7JhT95gH3QpaniQCt3/USfistQOsNKVkWoz7C9pyKF1oirWRPr73Kh71lxpIV2kN9ZkdQ/6YJyzxUV8UDpKzpKTvD25ojhHZKNfKpxBigwH3nU5HSl6NP5L0lY+s3PfXjVh7KW3O2bca9TTBb70SzgfQaPLlQKjdzJWT90xAh12wVMovRmgSHiAicbGmdaUvMjL2npN60ytGO/EtTrrrFU4AjSHSNx3FukNhhTVbj0eSalT9K1Nna0fjyWYRqLCLyCbUqV1sFbYo2xCUzhs8qePgrOOXlk27v8SIJGNz3iWAuWAmmr2u8EWIDDwGCAKl/D1V0+geaPRLtpJWVs8CHI86b/C/VI1Yzo6uXXwOKfVpwWODnNLrIah3gCPaHadsilH706mcLf1HpeDmmSHXXJuzqAejcK6ORcsfSUKai04CT+FF/3gi99Zw6vmM0FdQjWgFYUoottlCwh49shGBvQ3rkFfzCbNqoZIE+pDWtYeJBSbj1Gay60VlgnuWeAaavD1a0DIR33S/RoR8WC6KD239qHJCejsCdQW8jVx3NPn9cO49FNyIQxB/EpBGXEqmujWYK+iqElNlYGzZmuzNa0gxdrT12nYga6CRbME=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxODgyODU0NDE4NSwKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFiYTMwNTU3NzhkMjQ5YTBiMzc4MzI2MzVkOGI3ZmI2OGU4ZjVkODQ3ZWMyMzEyYmNhNzI2ZDc4ZDhkZmZmZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Fig Collector I\",1:\"§7Grants §6+1  Fig Fortune§7 for every\",2:\"§7digit in your Fig Log collection. §8(Max\",3:\"§810M collection)\",4:\"\",5:\"§7You can Syphon this shard from\",6:\"§7your §aHunting Box§7.\",7:\"\",8:\"§eRight-click to send to Hunting Box!\",9:\"§eShift Right-click to move all!\",10:\"\",11:\"§4❣ §cRequires §aHunting Skill 5§c.\",12:\"§a§lUNCOMMON FOREST SHARD §8(ID U4)\"],Name:\"§aSparrow Shard\"}}",
     "damage": 3,
     "lore": [
       "§6Fig Collector I",
-      "§7Grants §6+1 ☘ Fig Fortune§7 for every",
+      "§7Grants §6+1  Fig Fortune§7 for every",
       "§7digit in your Fig Log collection. §8(Max",
       "§810M collection)",
       "",
@@ -2810,8 +2927,8 @@
     ],
     "internalname": "ATTRIBUTE_SHARD_FIG_COLLECTOR;1",
     "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "crafttext": "Requires: Fig Log VII",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "",
     "info": [],
     "recipes": [
@@ -2834,7 +2951,7 @@
   "ATTRIBUTE_SHARD_GROOVY_RADAR;1": {
     "itemid": "minecraft:skull",
     "displayname": "§6Cocoaleech Shard",
-    "nbttag": "{ExtraAttributes:{attributes:{groovy_radar:1},id:\"ATTRIBUTE_SHARD_GROOVY_RADAR;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bbd05ba9-f4c9-3e7c-837a-564c7980153e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"OJXDGM9j0UJOWq/h7oe0lH+SNvOpWmd8KS8ywOt7cHUA+G5evNfEfEhwV/A4+DZlcphqgk1fulpf9rtQjKob5UVY8IwpQ6oYm3MIDwb1wKtYwuQ5H0wc4UcNAKw76YljXjlJvCREUVhFcg2IXF+Lh4g92+UxtQ0IVPKFogm27973JSOowgLb5ZQ5SdK9SsG8asn73xSm20YRxD5aYI9wYiXNjbOU21V+osfQ5unimxx7uuhGzuip/B7H8DTQy+xH6hV5+X2m3X2K8CjijqzTZsBAqHUTJvUQ6Qlx3in4H4WsUGCwdEPj2eybjb4Ed1DDyqhsyNDlwsSOURsE/iNJSl8ufzby8bl08VFWXx8mB+iSaWAKbSkD1LPQkqqSErsTX6Ch9g/5cBfaMfljD2e+HtVvstwgIx7wQZPATA+KcwV63nLnzD9i7h3x9vyBXaUvalwmEKTskyvovm4cq7KROiaw53qaatYwcho164dS3VklSdxcYvgImvVnaNxIwS202PGIsu0brp6/JjPIpf2O0QvZKtN5cdUDzyQgPmWpj+Xryi0KNY4T8Wc+20FmzkE19FNtmkD4Kit+TK9CRT8qvpnnFkKBjTBSlSrLPyKPETFABvQQ6Yh89g4zwe57P+H/DRmwYRcS4mSk1Mi0IvBJpfYPNXh0Le9qmVRxmfI/5VA=v\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYzNTAzNDI0MTIzNSwKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ1MWMyYjY0MGQwYjRmMjQwODliMDc0MDc0YjE1MTgzY2RhZmY3ZDU5MTVmNzI0NTQxNmYzODVlYzg0MzQwNyIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Groovy Radar I\",1:\"§2 Pests §7have a §a+2.5% §7chance to\",2:\"§7drop a second Vinyl.\",3:\"\",4:\"§7You can Syphon this shard from\",5:\"§7your §aHunting Box§7.\",6:\"\",7:\"§eRight-click to send to Hunting Box!\",8:\"§eShift Right-click to move all!\",9:\"\",10:\"§6§lLEGENDARY FOREST SHARD §8(ID L46)\"],Name:\"§6Cocoaleech Shard\"}}",
+    "nbttag": "{ExtraAttributes:{attributes:{groovy_radar:1},id:\"ATTRIBUTE_SHARD_GROOVY_RADAR;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bbd05ba9-f4c9-3e7c-837a-564c7980153e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"OJXDGM9j0UJOWq/h7oe0lH+SNvOpWmd8KS8ywOt7cHUA+G5evNfEfEhwV/A4+DZlcphqgk1fulpf9rtQjKob5UVY8IwpQ6oYm3MIDwb1wKtYwuQ5H0wc4UcNAKw76YljXjlJvCREUVhFcg2IXF+Lh4g92+UxtQ0IVPKFogm27973JSOowgLb5ZQ5SdK9SsG8asn73xSm20YRxD5aYI9wYiXNjbOU21V+osfQ5unimxx7uuhGzuip/B7H8DTQy+xH6hV5+X2m3X2K8CjijqzTZsBAqHUTJvUQ6Qlx3in4H4WsUGCwdEPj2eybjb4Ed1DDyqhsyNDlwsSOURsE/iNJSl8ufzby8bl08VFWXx8mB+iSaWAKbSkD1LPQkqqSErsTX6Ch9g/5cBfaMfljD2e+HtVvstwgIx7wQZPATA+KcwV63nLnzD9i7h3x9vyBXaUvalwmEKTskyvovm4cq7KROiaw53qaatYwcho164dS3VklSdxcYvgImvVnaNxIwS202PGIsu0brp6/JjPIpf2O0QvZKtN5cdUDzyQgPmWpj+Xryi0KNY4T8Wc+20FmzkE19FNtmkD4Kit+TK9CRT8qvpnnFkKBjTBSlSrLPyKPETFABvQQ6Yh89g4zwe57P+H/DRmwYRcS4mSk1Mi0IvBJpfYPNXh0Le9qmVRxmfI/5VA=v\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYzNTAzNDI0MTIzNSwKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTQ1MWMyYjY0MGQwYjRmMjQwODliMDc0MDc0YjE1MTgzY2RhZmY3ZDU5MTVmNzI0NTQxNmYzODVlYzg0MzQwNyIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Groovy Radar I\",1:\"§2 Pests §7have a §a+2.5% §7chance to\",2:\"§7drop a second Vinyl.\",3:\"\",4:\"§7You can Syphon this shard from\",5:\"§7your §aHunting Box§7.\",6:\"\",7:\"§eRight-click to send to Hunting Box!\",8:\"§eShift Right-click to move all!\",9:\"\",10:\"§4❣ §cRequires §aHunting Skill 20§c.\",11:\"§6§lLEGENDARY FOREST SHARD §8(ID L46)\"],Name:\"§6Cocoaleech Shard\"}}",
     "damage": 3,
     "lore": [
       "§6Groovy Radar I",
@@ -2847,12 +2964,13 @@
       "§eRight-click to send to Hunting Box!",
       "§eShift Right-click to move all!",
       "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
       "§6§lLEGENDARY FOREST SHARD §8(ID L46)"
     ],
     "internalname": "ATTRIBUTE_SHARD_GROOVY_RADAR;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+gcd885b38",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "",
     "info": [],
     "recipes": [
@@ -2872,14 +2990,142 @@
       }
     ]
   },
+  "ATTRIBUTE_SHARD_HELIX_COLLECTOR;1": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aHawk Shard",
+    "nbttag": "{ExtraAttributes:{attributes:{helix_collector:1},id:\"ATTRIBUTE_SHARD_HELIX_COLLECTOR;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e884b302-8660-3aae-bfa4-c348329252c5\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oW4Xc8WQV8wI8mzvC5rJaYaGq8NT83rpW/T/L383MHveypVy8mcbtSyu1V1HUzsSmBWMt6K4XV1Ave+XqMbKFdPiy1Vpfj373BaXPmxyFtz18Z8O4l1hwzTgdcb1NKcfEI3ZDKQ3PKIZfIgqeYSqDzqWKXcNVnEeaJs3Os60MC74XrOqqZosg/ybZlCWUqOKMEjBMiT/JS8e8Ns+uQ3T29Zf4LrxF3xJ3o726ZUoYlBY5caRxF8uDPWIpUaZkUz7zpsvJKOnop+Mh/r907SZvS6eBs/PTZwcx+uYzL0SJWNCEUqMYb5gybrEpxJOwfZyUeXX/A0uJYrClmWH+nd/5a1psT8QsCi/gbbC2s5HtKpmUMJeEYQARCpX9mYHYiXZI88YMnTbCHB+zJ8/wihpvIPcub5hlq5Zck8SW02urAQXDBfKHI6xrpEvZbC+47wsZgeL32ulQuOIEHUOvWRS3WKzubSdnJmS3h5qll//pyHZ28HMU1mCzrcZkKiAsAwcjkl6t6qAECt1huBzz06vjuswS7Unc5xcXY29+XXiZrqys5+JxY3BHoyq9tUfYcHwqqzgSn9+/rMjvjoS1kaVSuCvKJ2xFra8X6FVXFE32v3yESJpHRjMUmhZDpaG9mzG1w5zjqkI9oxLodjAwgj+yKKk+ZTP/PUvbOrOtHdpKzw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTc1MjE0OCwKICAicHJvZmlsZUlkIiA6ICJhZDEwM2FhODMzNWM0ZDA4YjNlZWI2ZDI2NjNkMzA0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJY2hpaW5uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YyMDIxNjQ0MjdhZDJkYWRmMTc1ZTNmZDhjODEzMzVhMzBiMmM3ZTFkNWUyZjkzYTU3YjgxNTcwZDFjNDYxZGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Helix Collector I\",1:\"§7Grants §6+1  Helix Fortune§7 for\",2:\"§7every digit in your Helix Log\",3:\"§7collection. §8(Max 10M collection)\",4:\"\",5:\"§7You can Syphon this shard from\",6:\"§7your §aHunting Box§7.\",7:\"\",8:\"§eRight-click to send to Hunting Box!\",9:\"§eShift Right-click to move all!\",10:\"\",11:\"§4❣ §cRequires §aHunting Skill 5§c.\",12:\"§a§lUNCOMMON FOREST SHARD §8(ID U82)\"],Name:\"§aHawk Shard\"}}",
+    "damage": 3,
+    "lore": [
+      "§6Helix Collector I",
+      "§7Grants §6+1  Helix Fortune§7 for",
+      "§7every digit in your Helix Log",
+      "§7collection. §8(Max 10M collection)",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§eRight-click to send to Hunting Box!",
+      "§eShift Right-click to move all!",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD §8(ID U82)"
+    ],
+    "internalname": "ATTRIBUTE_SHARD_HELIX_COLLECTOR;1",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log VII",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "ENCHANTED_HELIX_LOG:8",
+        "A2": "ENCHANTED_FEATHER:4",
+        "A3": "ENCHANTED_HELIX_LOG:8",
+        "B1": "ENCHANTED_FEATHER:4",
+        "B2": "ENCHANTED_EGG:16",
+        "B3": "ENCHANTED_FEATHER:4",
+        "C1": "ENCHANTED_HELIX_LOG:8",
+        "C2": "ENCHANTED_FEATHER:4",
+        "C3": "ENCHANTED_HELIX_LOG:8",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ATTRIBUTE_SHARD_HELIX_COLLECTOR;1"
+      }
+    ]
+  },
+  "ATTRIBUTE_SHARD_HONEY_REFILL;1": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Queen Bee Shard",
+    "nbttag": "{ExtraAttributes:{attributes:{honey_refill:1},id:\"ATTRIBUTE_SHARD_HONEY_REFILL;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"033bd6f1-c7a8-3d0d-a9a9-a048551e1003\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Wk5H4iVGz8FDlE5U5zed+oVKsCl58U5vx0qKy39E/AXAJxYS5TZ3LhWG9cXBUAhvuklSVO5aERjDOzwGjZvUfr79dCGoI2wGbhZ7mGLxYK1IssvWDbZTqXc/1FDl7Ul8S+ow0VJEWTxbzTrHYb/huUbgaRwlaPYxUVR5WajeETZwNpkgq6cDS1//9NhIjiCund4SxL2p0qu1TZtuSEKJyCYTpdsFKHNoL3aNpp2rquaSpm87E+1qUcY1nDRbpp/cmbVLMxva9OtZPZULwxAdud8dRDK+mvlZGKOVdLPHL3DzF7cGdUlPIN3wBr/VQDrnkFAQH85+30a1nTA222HpF8VDObJD5UEZepoIDAffvwgH7gIF82GA2o7C/7LeSebbP1OY/reSI4M3VHtSI5Lg3Qd6HSGCHaciil2dg5I7exgxVWRu8a4GexzefOBTL79SyZ7cleY7a686Q+kOPMGyYCuUfQAm69xu6m+ObT0zfdBT5FeKqGfNZzq/Kf4IeYLn0orwutncV9rmh6VcKahgZvTsM6h7XyDB0NseM9VloWcnMTrX1u8e43j3i8PwDAYTS3gjWpeB/spR2NxUOcrMLS4k2isTykfAz3d4FKwbKdKozGkMph2iBuPjJJQB4FuHp8u0YUd6/YStW0sdQhCiMEOeMoTqF276p0QK9vV37mg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjIzNDkyNCwKICAicHJvZmlsZUlkIiA6ICIyOGQyZDFmZDEyNGY0NGMyOGYxZDgwNDY4NGFkOTA2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNWZhZWIyYWZmMzI0ZDk0NTE3NDJmZWQ0ZGU3YTk2ZTk0YmJlZmM3NjYzMTc5NjNlNWQ0ZjQzMGRhYjc3MjIzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Honey Refill I\",1:\"§6Honeyhives §7have a §a+0.5% §7chance to\",2:\"§7refill instantly.\",3:\"\",4:\"§7You can Syphon this shard from\",5:\"§7your §aHunting Box§7.\",6:\"\",7:\"§eRight-click to send to Hunting Box!\",8:\"§eShift Right-click to move all!\",9:\"\",10:\"§4❣ §cRequires §aHunting Skill 15§c.\",11:\"§5§lEPIC FOREST SHARD §8(ID E49)\"],Name:\"§5Queen Bee Shard\"}}",
+    "damage": 3,
+    "lore": [
+      "§6Honey Refill I",
+      "§6Honeyhives §7have a §a+0.5% §7chance to",
+      "§7refill instantly.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§eRight-click to send to Hunting Box!",
+      "§eShift Right-click to move all!",
+      "",
+      "§4❣ §cRequires §aHunting Skill 15§c.",
+      "§5§lEPIC FOREST SHARD §8(ID E49)"
+    ],
+    "internalname": "ATTRIBUTE_SHARD_HONEY_REFILL;1",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb VII",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "ENCHANTED_HONEYCOMB:4",
+        "A2": "ENCHANTED_HELIX_LOG:16",
+        "A3": "ENCHANTED_HONEYCOMB:4",
+        "B1": "ENCHANTED_HELIX_LOG:16",
+        "B2": "ENCHANTED_EGG:16",
+        "B3": "ENCHANTED_HELIX_LOG:16",
+        "C1": "ENCHANTED_HONEYCOMB:4",
+        "C2": "ENCHANTED_HELIX_LOG:16",
+        "C3": "ENCHANTED_HONEYCOMB:4",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ATTRIBUTE_SHARD_HONEY_REFILL;1"
+      }
+    ]
+  },
+  "ATTRIBUTE_SHARD_HONEY_SERENDIPITY;1": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aHoney Badger Shard",
+    "nbttag": "{ExtraAttributes:{attributes:{honey_serendipity:1},id:\"ATTRIBUTE_SHARD_HONEY_SERENDIPITY;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e25a4bac-2bdd-3d69-8b3c-8524bb3dffe5\",Properties:{textures:[0:{Name:\"textures\",Signature:\"N7nTUN9Xmo5kpsIwIV4NV598vEiYqnPP04Td25PhzuAoe9uCrOGVxh54seo8vT5XKG6HeQEZQRYDq8ndaFddMm9woyRhm6Xi6sKAVV3qywmczQSajFR7HAjdPTS6xwKhjLyyHWbem//uGlrvqXeuRwhryjZm6fycDWEcXdH5+aulpL+vCSXwxt/prWavpBjSCr2SDHVlqhMQabn2SUjH22xEjv3oyOw51OLUCDgxg3WzNLOuV+wjgLcMnjGdBjhEBqJWbsAGsi1BsEhgZdlNORPmmwjgqeaQGtnTCTJwCl+Sb5nBNjfF907yd5y62bmGgZRI24iFQ/6N9t8pt7JPQQjtUuGxwW4UZ6HzJNkWW+kKmllWwBswvPhGFxKvNgwY0UM8OAIgsNLjN+ouSXzWsUcVLCyOfYLR7SBkBRqh+/YUoYSpv2paD/ZU+FMB2A1oZtBZJfBdnf30aruRt/1WFn6KAb5r/ijji9bRIjW5CFdmOLb1dwy3J6glP6l9mFkP+ot+ill2xuInipB7NvU8aKAQYHD4M0HOh2vkBAypWVFQ1gq1gX7NsHuNpXWes1wch6mcrRwAyzyooK8HnGWb8EogWZl7I+bRIkFp7cAyJo6ru+/820RJN6Tq+xb+JC36sOJTi1LOJzwwn5LLNMJGXBmM6/kPS9c7b0SyRLtCnpM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjQ2MDgwNSwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNTE3YWE5ZDJkYWVlYTQxMTVhMGM3OTcwMjY5OWQwZWY3YTUwZTlkYjAwMmUyNjk3ZGFmYjdjMjg5NDU4MjA1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Honey Serendipity I\",1:\"§7Grants a §a+0.5% §7chance to instantly\",2:\"§7attract a mob when lathering a §aTree\",3:\"§7with §6Honeycomb§7.\",4:\"\",5:\"§7You can Syphon this shard from\",6:\"§7your §aHunting Box§7.\",7:\"\",8:\"§eRight-click to send to Hunting Box!\",9:\"§eShift Right-click to move all!\",10:\"\",11:\"§4❣ §cRequires §aHunting Skill 5§c.\",12:\"§a§lUNCOMMON COMBAT SHARD §8(ID U57)\"],Name:\"§aHoney Badger Shard\"}}",
+    "damage": 3,
+    "lore": [
+      "§6Honey Serendipity I",
+      "§7Grants a §a+0.5% §7chance to instantly",
+      "§7attract a mob when lathering a §aTree",
+      "§7with §6Honeycomb§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§eRight-click to send to Hunting Box!",
+      "§eShift Right-click to move all!",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON COMBAT SHARD §8(ID U57)"
+    ],
+    "internalname": "ATTRIBUTE_SHARD_HONEY_SERENDIPITY;1",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb IV",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "ENCHANTED_HELIX_LOG:8",
+        "A2": "ENCHANTED_HONEYCOMB:1",
+        "A3": "ENCHANTED_HELIX_LOG:8",
+        "B1": "ENCHANTED_HONEYCOMB:1",
+        "B2": "ENCHANTED_EGG:16",
+        "B3": "ENCHANTED_HONEYCOMB:1",
+        "C1": "ENCHANTED_HELIX_LOG:8",
+        "C2": "ENCHANTED_HONEYCOMB:1",
+        "C3": "ENCHANTED_HELIX_LOG:8",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ATTRIBUTE_SHARD_HONEY_SERENDIPITY;1"
+      }
+    ]
+  },
   "ATTRIBUTE_SHARD_MANGROVE_COLLECTOR;1": {
     "itemid": "minecraft:skull",
     "displayname": "§aSeagull Shard",
-    "nbttag": "{ExtraAttributes:{attributes:{mangrove_collector:1},id:\"ATTRIBUTE_SHARD_MANGROVE_COLLECTOR;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c06d2eaa-4d78-31cd-936a-1bc9970ed31d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"MlfqbLpzFdEjTA6tt0UNoLUIPdPuyJ3GTlde/4S2XfRGpvsxdOgmSOOOkFTXQWcH/olV/h6HT0zSaYWL/Aifgg6fucV57dcxH8Loofz9uUvT3lsmBPMfexOsDTupx/OfsJRdeddMvIr6J+SLy20eWkZ03WXpUcsS0v8MeJE6u/S3aTLwITIgdyTZgjZfmqw1DhIW3Ia4jztwfAWoZoVvKk873ujU59W3vM3IvafVYOCFQrFPxR785L/KsBq7uusK01VUQ05x4AjBgyTjTW9UBShF2BfJYeSYc8+NL1V6nfHZCEgzXAM0A/FiFbB+/cYaWkCiwJLtFj939d0p4HDmZVm5E+7mVLugiutDkpd8G70dPpDsFTml6914tmkfCJL0ObOEpI+qrfOXsXS7JzCDvFs8nNCnkxzPQK0ElfZX78Mp/aZ4gmqmDF3tIz2rQIIqM4j+vZwfdYUVb8nt4882eYQfdcVQDBZDvOkm3G0OtTnvBwuH96BYd+2GaSpZBUhV4J5z1IIOnZ70RkeTSf579SB7ilcmuBqPqmrCWl6f9M0JfCZVcbEYR7DInd5g1gRWa2adgQJw6KYF5iyFBH1kvBLROpCI5o+5fYZsr5MEKHHjTtM+5WuLElsInoAbCcRBvuYoh9yXgqrNodLPLfUmahbFuzsoxLjcJlZMiI4d9i0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxODgyODMzNTIxOSwKICAicHJvZmlsZUlkIiA6ICI2NGY0MGFiNzFmM2E0NGZiYjg0N2I5ZWFhOWZjNDRlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJvZGF2aWRjZXNhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZTljY2I3NWNmNzk0YmQyYjEwOTE1NjJhNWU2NGVhNTYzY2NiNjkxM2UyYzhkMTFlNTljNDBkZjhjYzZmZTczIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Mangrove Collector I\",1:\"§7Grants §6+1 ☘ Mangrove Fortune§7 for\",2:\"§7every digit in your Mangrove Log\",3:\"§7collection. §8(Max 10M collection)\",4:\"\",5:\"§7You can Syphon this shard from\",6:\"§7your §aHunting Box§7.\",7:\"\",8:\"§eRight-click to send to Hunting Box!\",9:\"§eShift Right-click to move all!\",10:\"\",11:\"§4❣ §cRequires §aHunting Skill 5§c.\",12:\"§a§lUNCOMMON FOREST SHARD §8(ID U28)\"],Name:\"§aSeagull Shard\"}}",
+    "nbttag": "{ExtraAttributes:{attributes:{mangrove_collector:1},id:\"ATTRIBUTE_SHARD_MANGROVE_COLLECTOR;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c06d2eaa-4d78-31cd-936a-1bc9970ed31d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"MlfqbLpzFdEjTA6tt0UNoLUIPdPuyJ3GTlde/4S2XfRGpvsxdOgmSOOOkFTXQWcH/olV/h6HT0zSaYWL/Aifgg6fucV57dcxH8Loofz9uUvT3lsmBPMfexOsDTupx/OfsJRdeddMvIr6J+SLy20eWkZ03WXpUcsS0v8MeJE6u/S3aTLwITIgdyTZgjZfmqw1DhIW3Ia4jztwfAWoZoVvKk873ujU59W3vM3IvafVYOCFQrFPxR785L/KsBq7uusK01VUQ05x4AjBgyTjTW9UBShF2BfJYeSYc8+NL1V6nfHZCEgzXAM0A/FiFbB+/cYaWkCiwJLtFj939d0p4HDmZVm5E+7mVLugiutDkpd8G70dPpDsFTml6914tmkfCJL0ObOEpI+qrfOXsXS7JzCDvFs8nNCnkxzPQK0ElfZX78Mp/aZ4gmqmDF3tIz2rQIIqM4j+vZwfdYUVb8nt4882eYQfdcVQDBZDvOkm3G0OtTnvBwuH96BYd+2GaSpZBUhV4J5z1IIOnZ70RkeTSf579SB7ilcmuBqPqmrCWl6f9M0JfCZVcbEYR7DInd5g1gRWa2adgQJw6KYF5iyFBH1kvBLROpCI5o+5fYZsr5MEKHHjTtM+5WuLElsInoAbCcRBvuYoh9yXgqrNodLPLfUmahbFuzsoxLjcJlZMiI4d9i0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxODgyODMzNTIxOSwKICAicHJvZmlsZUlkIiA6ICI2NGY0MGFiNzFmM2E0NGZiYjg0N2I5ZWFhOWZjNDRlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJvZGF2aWRjZXNhciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZTljY2I3NWNmNzk0YmQyYjEwOTE1NjJhNWU2NGVhNTYzY2NiNjkxM2UyYzhkMTFlNTljNDBkZjhjYzZmZTczIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Mangrove Collector I\",1:\"§7Grants §6+1  Mangrove Fortune§7 for\",2:\"§7every digit in your Mangrove Log\",3:\"§7collection. §8(Max 10M collection)\",4:\"\",5:\"§7You can Syphon this shard from\",6:\"§7your §aHunting Box§7.\",7:\"\",8:\"§eRight-click to send to Hunting Box!\",9:\"§eShift Right-click to move all!\",10:\"\",11:\"§4❣ §cRequires §aHunting Skill 5§c.\",12:\"§a§lUNCOMMON FOREST SHARD §8(ID U28)\"],Name:\"§aSeagull Shard\"}}",
     "damage": 3,
     "lore": [
       "§6Mangrove Collector I",
-      "§7Grants §6+1 ☘ Mangrove Fortune§7 for",
+      "§7Grants §6+1  Mangrove Fortune§7 for",
       "§7every digit in your Mangrove Log",
       "§7collection. §8(Max 10M collection)",
       "",
@@ -2895,7 +3141,7 @@
     "internalname": "ATTRIBUTE_SHARD_MANGROVE_COLLECTOR;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "",
     "info": [],
     "recipes": [
@@ -2912,6 +3158,49 @@
         "type": "crafting",
         "count": 1,
         "overrideOutputId": "ATTRIBUTE_SHARD_MANGROVE_COLLECTOR;1"
+      }
+    ]
+  },
+  "ATTRIBUTE_SHARD_TICKET_DISCOUNT;1": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aJune Bug Shard",
+    "nbttag": "{ExtraAttributes:{attributes:{ticket_discount:1},id:\"ATTRIBUTE_SHARD_TICKET_DISCOUNT;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9e2c9853-1f8a-3a8e-8320-b3d0274f06b8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"huCOYxFe/v1CvekXOR7z59aUUiHTzd4JunGY6Uokvm5glCGcTnAiT4cwNES5N+KY/gi5ncXT8uYZ1n8YxKD+WwbTIjykM6QMklPpWIzgx0lMIfBDHlCACYa8Ja/WjGcJi7N4qX5FhdotIDfHAZAgbz8UwkdluwcgFEvfYNrNU9s9P6Bsb0vI4K/7Wh36zx6wlE0Vw68DS2jrHy3qY0LJgGQDROBaxmCluJxfFiZ9Hb23E+qddfDrLL5wcYAInevTP3JLWRAhJwLFFKnsezvKUTdhxLNtJJBFKW4TBneevTC6k0VVN5Zj62nexbu92Vrkeef7//5u8CZiW1//oyWZB3kCdmhpxfc0rWUJKPvRi2HXSxRaT7JlB4vhxPl+qiGKyBgF/scTnUPKxVGmp/VyYMf+TM++EGh9etFQdsMzMkdv9fcnejSY7oaH94KOwB3s+hpDXVbNmqiDAJIgUd1vSN9rt+SOzs3V/oy0VebsORsuM04H69//c8/z94qCbJq3aEhIggT7Dmaut7/LZcHiBUVqNCRlpZj3bs9HrJ+1pCjWe5KK9TlAfNMMLsDLGmpUenMzYA2x0Yl/kxUeSuoM5r8l+9fg2ZypFq6yvSd8oqsWEeyVcBzZuScBlazBE/iFCDj2dCJAoBRk7HZmtAooiUUqxIfdj6WgUkSrOs54b7A=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM2ODE1MywKICAicHJvZmlsZUlkIiA6ICJiMzMwZWE4OWE3MTY0OWZjYTMwZmI5ZjU5MTQ5ZjNjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQUxLX0FMT1RfIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk3MjEwNGU1MDllNmE1ZTY1ZDAyYTViMWQ5ZmY4OGFkNWQ2NWZjNmExMTkyMGNlMmU2MTUyOTNhMGY0NmRmZjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Ticket Discount I\",1:\"§7Upgrading §2Safari Tickets §7at the\",2:\"§2Safari Manager §7costs §a+1% §7less\",3:\"§2Forest Essence§7.\",4:\"\",5:\"§7You can Syphon this shard from\",6:\"§7your §aHunting Box§7.\",7:\"\",8:\"§eRight-click to send to Hunting Box!\",9:\"§eShift Right-click to move all!\",10:\"\",11:\"§4❣ §cRequires §aHunting Skill 5§c.\",12:\"§a§lUNCOMMON FOREST SHARD §8(ID U85)\"],Name:\"§aJune Bug Shard\"}}",
+    "damage": 3,
+    "lore": [
+      "§6Ticket Discount I",
+      "§7Upgrading §2Safari Tickets §7at the",
+      "§2Safari Manager §7costs §a+1% §7less",
+      "§2Forest Essence§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§eRight-click to send to Hunting Box!",
+      "§eShift Right-click to move all!",
+      "",
+      "§4❣ §cRequires §aHunting Skill 5§c.",
+      "§a§lUNCOMMON FOREST SHARD §8(ID U85)"
+    ],
+    "internalname": "ATTRIBUTE_SHARD_TICKET_DISCOUNT;1",
+    "clickcommand": "",
+    "crafttext": "Requires: Ruby Veilshroom IV",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "ENCHANTED_HELIX_LOG:8",
+        "A2": "ENCHANTED_RUBY_VEILSHROOM:1",
+        "A3": "ENCHANTED_HELIX_LOG:8",
+        "B1": "ENCHANTED_RUBY_VEILSHROOM:1",
+        "B2": "ENCHANTED_EGG:16",
+        "B3": "ENCHANTED_RUBY_VEILSHROOM:1",
+        "C1": "ENCHANTED_HELIX_LOG:8",
+        "C2": "ENCHANTED_RUBY_VEILSHROOM:1",
+        "C3": "ENCHANTED_HELIX_LOG:8",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ATTRIBUTE_SHARD_TICKET_DISCOUNT;1"
       }
     ]
   },
@@ -3666,7 +3955,7 @@
     ]
   },
   "BASIC_FISHING_NET": {
-    "itemid": "minecraft:web",
+    "itemid": "minecraft:paper",
     "displayname": "§aBasic Fishing Net",
     "nbttag": "{ExtraAttributes:{id:\"BASIC_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/basic_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+5\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§a§lUNCOMMON FISHING NET\"],Name:\"§aBasic Fishing Net\"}}",
     "damage": 0,
@@ -4542,6 +4831,51 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "BEE_SALIVA": {
+    "itemid": "minecraft:paper",
+    "displayname": "§5Bee Saliva",
+    "nbttag": "{ExtraAttributes:{id:\"BEE_SALIVA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/bee_saliva\",display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§7Consume this item to permanently\",3:\"§7gain §6+1 Foraging Fortune§7.\",4:\"\",5:\"§7You can only consume §a5 §7of this item\",6:\"§7before the scratching at the back\",7:\"§7of your throat becomes too much to\",8:\"§7ignore.\",9:\"\",10:\"§eRight-click to consume!\",11:\"\",12:\"§5§lEPIC\"],Name:\"§5Bee Saliva\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Consumable",
+      "",
+      "§7Consume this item to permanently",
+      "§7gain §6+1 Foraging Fortune§7.",
+      "",
+      "§7You can only consume §a5 §7of this item",
+      "§7before the scratching at the back",
+      "§7of your throat becomes too much to",
+      "§7ignore.",
+      "",
+      "§eRight-click to consume!",
+      "",
+      "§5§lEPIC"
+    ],
+    "internalname": "BEE_SALIVA",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb VIII",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bee_Saliva"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "ENCHANTED_HELIX_LOG:16",
+        "A3": "",
+        "B1": "ENCHANTED_HELIX_LOG:16",
+        "B2": "ENCHANTED_HONEYCOMB_BLOCK:1",
+        "B3": "ENCHANTED_HELIX_LOG:16",
+        "C1": "",
+        "C2": "ENCHANTED_HELIX_LOG:16",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "BEE_SALIVA"
+      }
+    ]
   },
   "BEGINNER_AGRONOMY_SACK": {
     "itemid": "minecraft:skull",
@@ -22778,18 +23112,18 @@
   },
   "ENCHANTED_FIG_LOG": {
     "itemid": "minecraft:skull",
-    "displayname": "§9Enchanted Fig Log",
-    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_FIG_LOG\"},HideFlags:254,ItemModel:\"minecraft:stripped_spruce_log\",SkullOwner:{Id:\"2ef785b8-55a4-37ec-9fe9-ec761c007293\",Properties:{textures:[0:{Name:\"textures\",Signature:\"n5Pn0X/xbUYn1kvMP0NydCu1kJmLcUf7p+qnarF2IZut4RX3bD+tiyC/xF+gc/js1yXF0470vl2qvWEd1CI20faocvfwojy8JRzR+SylIRVSlSLYD2sO9EOaIs+bwOcIRBTv15mqN719a3XEJrFSHwKcyXeIi48vWxEOuuyTHyMzzh4biF7AO/DoSfdbCp7505zSQExyqI5OlDJry6iHMqVJK0UQPA3w9914cGfiBOr2NmPg0RsFNTx0yCE460YLnEqKSQRE+2JqLH9uz6lqN3n0NDsfbkLEOFN92JQ1g5yH/+5GK37r3hiUsu2CPS746Z47qlqAKXOClYUBRHFLlTSUevkayFYs0wTEAdDNUkzvw0AulU1TzUApiyYQkg4kTibb8Elx+4sdqulDpb11tVHyUv50oMldkuKo3Ndx/QcNuw2+TmPwX42FDs6DGkebHqm/mBQHssYVfJGkOFMrg8b4UlTNNWVFtyL+3cjCrcfZ2+hLJ5eigiUwgRydTIH+gn4v7X8RaI9TNhtF+Y/BjTd35Us6EZQC2M2st+ONxG7yIU0kAWqp1oEaJdnNwoDKRw3vI22ECCFHZPIFfbFLOcVkzYB5AKvjP15b2hE4VqX180NFApzfae6ax8L9lg0gJOLE2Te7zwW7YhaHp2R5UO38fY4Mku0lFKRgowEAUNs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTcxNDQwOSwKICAicHJvZmlsZUlkIiA6ICI5NzBmYWNjMzY0YWY0MDdkYmY4NGEzYzkxOTVkMjdjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXJodGlfR2FtZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFiMGQxN2FmNjE2ZGFiZGMyMWU3MGU2ZDI3YjM5NDAxN2E3MjUxMWVmMjhkYmExN2MxNmNiNGM1YzIxNDJlMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Fig Log\"},ench:[]}",
+    "displayname": "§aEnchanted Fig Log",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_FIG_LOG\"},HideFlags:254,ItemModel:\"minecraft:stripped_spruce_log\",SkullOwner:{Id:\"2ef785b8-55a4-37ec-9fe9-ec761c007293\",Properties:{textures:[0:{Name:\"textures\",Signature:\"n5Pn0X/xbUYn1kvMP0NydCu1kJmLcUf7p+qnarF2IZut4RX3bD+tiyC/xF+gc/js1yXF0470vl2qvWEd1CI20faocvfwojy8JRzR+SylIRVSlSLYD2sO9EOaIs+bwOcIRBTv15mqN719a3XEJrFSHwKcyXeIi48vWxEOuuyTHyMzzh4biF7AO/DoSfdbCp7505zSQExyqI5OlDJry6iHMqVJK0UQPA3w9914cGfiBOr2NmPg0RsFNTx0yCE460YLnEqKSQRE+2JqLH9uz6lqN3n0NDsfbkLEOFN92JQ1g5yH/+5GK37r3hiUsu2CPS746Z47qlqAKXOClYUBRHFLlTSUevkayFYs0wTEAdDNUkzvw0AulU1TzUApiyYQkg4kTibb8Elx+4sdqulDpb11tVHyUv50oMldkuKo3Ndx/QcNuw2+TmPwX42FDs6DGkebHqm/mBQHssYVfJGkOFMrg8b4UlTNNWVFtyL+3cjCrcfZ2+hLJ5eigiUwgRydTIH+gn4v7X8RaI9TNhtF+Y/BjTd35Us6EZQC2M2st+ONxG7yIU0kAWqp1oEaJdnNwoDKRw3vI22ECCFHZPIFfbFLOcVkzYB5AKvjP15b2hE4VqX180NFApzfae6ax8L9lg0gJOLE2Te7zwW7YhaHp2R5UO38fY4Mku0lFKRgowEAUNs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTcxNDQwOSwKICAicHJvZmlsZUlkIiA6ICI5NzBmYWNjMzY0YWY0MDdkYmY4NGEzYzkxOTVkMjdjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXJodGlfR2FtZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjFiMGQxN2FmNjE2ZGFiZGMyMWU3MGU2ZDI3YjM5NDAxN2E3MjUxMWVmMjhkYmExN2MxNmNiNGM1YzIxNDJlMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Fig Log\"},ench:[]}",
     "damage": 3,
     "lore": [
       "§8Collection Item",
       "",
-      "§9§lRARE"
+      "§a§lUNCOMMON"
     ],
     "internalname": "ENCHANTED_FIG_LOG",
     "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "crafttext": "Requires: Fig Log II",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Fig_Log"
@@ -23262,6 +23596,128 @@
       "C2": "ENCHANTED_WHEAT:32",
       "C3": ""
     }
+  },
+  "ENCHANTED_HELIX_LOG": {
+    "itemid": "minecraft:paper",
+    "displayname": "§aEnchanted Helix Log",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HELIX_LOG\"},HideFlags:254,ItemModel:\"minecraft:stripped_mangrove_log\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A hardened mass of helix logs all\",3:\"§7wrapped around each other in a\",4:\"§7spiral.\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Helix Log\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§7A hardened mass of helix logs all",
+      "§7wrapped around each other in a",
+      "§7spiral.",
+      "",
+      "§eRight-click to view recipes!",
+      "",
+      "§a§lUNCOMMON"
+    ],
+    "internalname": "ENCHANTED_HELIX_LOG",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log II",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Helix_Log"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "HELIX_LOG:32",
+        "A3": "",
+        "B1": "HELIX_LOG:32",
+        "B2": "HELIX_LOG:32",
+        "B3": "HELIX_LOG:32",
+        "C1": "",
+        "C2": "HELIX_LOG:32",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ENCHANTED_HELIX_LOG"
+      }
+    ]
+  },
+  "ENCHANTED_HONEYCOMB": {
+    "itemid": "minecraft:paper",
+    "displayname": "§aEnchanted Honeycomb",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HONEYCOMB\"},HideFlags:254,ItemModel:\"minecraft:honeycomb\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A block of sparkling honey. It smells\",3:\"§7incredible.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Honeycomb\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§7A block of sparkling honey. It smells",
+      "§7incredible.",
+      "",
+      "§eRight-click to view recipes!",
+      "",
+      "§a§lUNCOMMON"
+    ],
+    "internalname": "ENCHANTED_HONEYCOMB",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb II",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Honeycomb"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "HONEYCOMB:32",
+        "A3": "",
+        "B1": "HONEYCOMB:32",
+        "B2": "HONEYCOMB:32",
+        "B3": "HONEYCOMB:32",
+        "C1": "",
+        "C2": "HONEYCOMB:32",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ENCHANTED_HONEYCOMB"
+      }
+    ]
+  },
+  "ENCHANTED_HONEYCOMB_BLOCK": {
+    "itemid": "minecraft:paper",
+    "displayname": "§9Enchanted Honeycomb Block",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_HONEYCOMB_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:honeycomb_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A solid chunk of sweet-smelling\",3:\"§7honey. Its smell attracts all sorts of\",4:\"§7critters.\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Enchanted Honeycomb Block\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§7A solid chunk of sweet-smelling",
+      "§7honey. Its smell attracts all sorts of",
+      "§7critters.",
+      "",
+      "§eRight-click to view recipes!",
+      "",
+      "§9§lRARE"
+    ],
+    "internalname": "ENCHANTED_HONEYCOMB_BLOCK",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb VI",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Honeycomb_Block"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "ENCHANTED_HONEYCOMB:32",
+        "A3": "",
+        "B1": "ENCHANTED_HONEYCOMB:32",
+        "B2": "ENCHANTED_HONEYCOMB:32",
+        "B3": "ENCHANTED_HONEYCOMB:32",
+        "C1": "",
+        "C2": "ENCHANTED_HONEYCOMB:32",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ENCHANTED_HONEYCOMB_BLOCK"
+      }
+    ]
   },
   "ENCHANTED_HOPPER": {
     "itemid": "minecraft:hopper",
@@ -23795,20 +24251,20 @@
   },
   "ENCHANTED_MANGROVE_LOG": {
     "itemid": "minecraft:skull",
-    "displayname": "§9Enchanted Mangrove Log",
-    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MANGROVE_LOG\"},HideFlags:254,ItemModel:\"minecraft:mangrove_log\",SkullOwner:{Id:\"a53d73d7-e3e4-3c2a-b754-5fa95610ef6b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"yk4SFp8oPh9zDK7XtXXmEsIgUvj/plHk4OfRE/wOFq8DoxgDd2mYS6XfbtwdhRUzMdb2tNhQkKUKed556PTabAnzoN04LNtdNCX8r/eLx8bEXZLSKjY2lNUdjpWueR3BNlwOObXlouz68wp85SG1YfhhRqYOs81N8nNScyAJgf4iby/RAWX+IFtEl7TzTLV9Ik1Wg0m88m9QROod3bNAdmamP1FyHdjlVpm+yn47rJSI4b79mJE1nGwkkBNi3eHjWwnmkJMFXuSCD4EBEjH+ulV+RJOMCsDTgoFbJptCJS1Aoo22W53XS627q9n9JlevNSDt7ntm1qhVp3YZecx2oAbU8jHkEEQiwSVaLGHoNs1BBO+XO5JgcnLXU27ZxoX41nEIveNOtwDeEpVkMlXyqlvr1o8KiavCRDlEdD2/SvAmAAR3GmqkonaHujGwGCkOFJh95L1BQzkd4CgIlGBiqa0NmiFaFlov+eWzK/Xx+PD4nGKbXTxyuqMdgioV1mvyvNFWTHNtFweY3bLYXO6SCvNBD9IvfiBrPJ04JL+MFTFcFhGkoGS4FGPy/K+evkMy9PyyeLAoprbByh7Ameo5RJvxBwTCApd7GNYX9GFCrHsJvDqJQTZF5Md3RpbsaH2IOuryYk8SQi5iao1k8n28uLw//39m/0NxnxFzLW2mGnI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTg4ODgxMiwKICAicHJvZmlsZUlkIiA6ICIzNjQ4MzkyNGRmNjQ0ZDlmYTM0NjcyYTRhMWRlYmU2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdWFuQXRpbnM3OSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zOWMxNzE5OGVhMGI2YmJhMzQwM2UzYzBlNGMzZGE0MWYxNjZkNzRiOWFmMTA1OGM4NmI2ZGM0ZDFhZGJhNWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Enchanted Mangrove Log\"},ench:[]}",
+    "displayname": "§aEnchanted Mangrove Log",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_MANGROVE_LOG\"},HideFlags:254,ItemModel:\"minecraft:mangrove_log\",SkullOwner:{Id:\"a53d73d7-e3e4-3c2a-b754-5fa95610ef6b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"yk4SFp8oPh9zDK7XtXXmEsIgUvj/plHk4OfRE/wOFq8DoxgDd2mYS6XfbtwdhRUzMdb2tNhQkKUKed556PTabAnzoN04LNtdNCX8r/eLx8bEXZLSKjY2lNUdjpWueR3BNlwOObXlouz68wp85SG1YfhhRqYOs81N8nNScyAJgf4iby/RAWX+IFtEl7TzTLV9Ik1Wg0m88m9QROod3bNAdmamP1FyHdjlVpm+yn47rJSI4b79mJE1nGwkkBNi3eHjWwnmkJMFXuSCD4EBEjH+ulV+RJOMCsDTgoFbJptCJS1Aoo22W53XS627q9n9JlevNSDt7ntm1qhVp3YZecx2oAbU8jHkEEQiwSVaLGHoNs1BBO+XO5JgcnLXU27ZxoX41nEIveNOtwDeEpVkMlXyqlvr1o8KiavCRDlEdD2/SvAmAAR3GmqkonaHujGwGCkOFJh95L1BQzkd4CgIlGBiqa0NmiFaFlov+eWzK/Xx+PD4nGKbXTxyuqMdgioV1mvyvNFWTHNtFweY3bLYXO6SCvNBD9IvfiBrPJ04JL+MFTFcFhGkoGS4FGPy/K+evkMy9PyyeLAoprbByh7Ameo5RJvxBwTCApd7GNYX9GFCrHsJvDqJQTZF5Md3RpbsaH2IOuryYk8SQi5iao1k8n28uLw//39m/0NxnxFzLW2mGnI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTg4ODgxMiwKICAicHJvZmlsZUlkIiA6ICIzNjQ4MzkyNGRmNjQ0ZDlmYTM0NjcyYTRhMWRlYmU2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdWFuQXRpbnM3OSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zOWMxNzE5OGVhMGI2YmJhMzQwM2UzYzBlNGMzZGE0MWYxNjZkNzRiOWFmMTA1OGM4NmI2ZGM0ZDFhZGJhNWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Mangrove Log\"},ench:[]}",
     "damage": 3,
     "lore": [
       "§8Collection Item",
       "",
       "§eRight-click to view recipes!",
       "",
-      "§9§lRARE"
+      "§a§lUNCOMMON"
     ],
     "internalname": "ENCHANTED_MANGROVE_LOG",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Mangrove_Log"
@@ -24984,6 +25440,48 @@
       "C2": "ROTTEN_FLESH:32",
       "C3": ""
     }
+  },
+  "ENCHANTED_RUBY_VEILSHROOM": {
+    "itemid": "minecraft:paper",
+    "displayname": "§aEnchanted Ruby Veilshroom",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_RUBY_VEILSHROOM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/resources/ruby_veilshroom\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Ruby Veilshrooms only grow in\",3:\"§7Torrhus Canyon, nurtured by the\",4:\"§7relentless heat of the blazing sun\",5:\"§7beating down upon them.\",6:\"\",7:\"§eRight-click to view recipes!\",8:\"\",9:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Ruby Veilshroom\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§7Ruby Veilshrooms only grow in",
+      "§7Torrhus Canyon, nurtured by the",
+      "§7relentless heat of the blazing sun",
+      "§7beating down upon them.",
+      "",
+      "§eRight-click to view recipes!",
+      "",
+      "§a§lUNCOMMON"
+    ],
+    "internalname": "ENCHANTED_RUBY_VEILSHROOM",
+    "clickcommand": "",
+    "crafttext": "Requires: Ruby Veilshroom II",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Ruby_Veilshroom"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "RUBY_VEILSHROOM:32",
+        "A3": "",
+        "B1": "RUBY_VEILSHROOM:32",
+        "B2": "RUBY_VEILSHROOM:32",
+        "B3": "RUBY_VEILSHROOM:32",
+        "C1": "",
+        "C2": "RUBY_VEILSHROOM:32",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ENCHANTED_RUBY_VEILSHROOM"
+      }
+    ]
   },
   "ENCHANTED_SAND": {
     "itemid": "minecraft:sand",
@@ -27091,7 +27589,7 @@
   "ENTANGLER_LASSO": {
     "itemid": "minecraft:lead",
     "displayname": "§9Entangler Lasso",
-    "nbttag": "{ExtraAttributes:{id:\"ENTANGLER_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/entangler_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§7Creatures lose stamina §240% §7faster.\",13:\"\",14:\"§9§lRARE LASSO\"],Name:\"§9Entangler Lasso\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ENTANGLER_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/entangler_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§a Critters §7lose stamina §240% §7faster.\",13:\"\",14:\"§6Ability: Tug \",15:\"§7Grants §d+2.5 Hunting Fortune §7on\",16:\"§2Forest Shards §7caught with this Lasso.\",17:\"\",18:\"§9§lRARE LASSO\"],Name:\"§9Entangler Lasso\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -27106,7 +27604,11 @@
       "§7Lasso each time their §9stamina",
       "§7depletes.",
       "",
-      "§7Creatures lose stamina §240% §7faster.",
+      "§a Critters §7lose stamina §240% §7faster.",
+      "",
+      "§6Ability: Tug ",
+      "§7Grants §d+2.5 Hunting Fortune §7on",
+      "§2Forest Shards §7caught with this Lasso.",
       "",
       "§9§lRARE LASSO"
     ],
@@ -27331,7 +27833,7 @@
   "EVERSTRETCH_LASSO": {
     "itemid": "minecraft:lead",
     "displayname": "§5Everstretch Lasso",
-    "nbttag": "{ExtraAttributes:{id:\"EVERSTRETCH_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/everstretch_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§7Creatures lose stamina §260% §7faster.\",13:\"\",14:\"§5§lEPIC LASSO\"],Name:\"§5Everstretch Lasso\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"EVERSTRETCH_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/everstretch_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§a Critters §7lose stamina §260% §7faster.\",13:\"\",14:\"§6Ability: Wrangle \",15:\"§7Grants §d+5 Hunting Fortune §7on\",16:\"§2Forest Shards §7caught with this Lasso.\",17:\"\",18:\"§5§lEPIC LASSO\"],Name:\"§5Everstretch Lasso\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -27346,7 +27848,11 @@
       "§7Lasso each time their §9stamina",
       "§7depletes.",
       "",
-      "§7Creatures lose stamina §260% §7faster.",
+      "§a Critters §7lose stamina §260% §7faster.",
+      "",
+      "§6Ability: Wrangle ",
+      "§7Grants §d+5 Hunting Fortune §7on",
+      "§2Forest Shards §7caught with this Lasso.",
       "",
       "§5§lEPIC LASSO"
     ],
@@ -27378,14 +27884,12 @@
   "EXALTED_LUSHLILAC_BONBON": {
     "itemid": "minecraft:paper",
     "displayname": "§aExalted Lushlilac Bonbon",
-    "nbttag": "{ExtraAttributes:{id:\"EXALTED_LUSHLILAC_BONBON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/salts/exalted_lushlilac_bonbon\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants you a §a+1.1% §7chance to charm\",3:\"§7the mobs you defeat and capture\",4:\"§7their §9Shards§7.\",5:\"§7Duration: §624h\",6:\"\",7:\"§eLeft-click to consume!\",8:\"\",9:\"§a§lUNCOMMON SALT\"],Name:\"§aExalted Lushlilac Bonbon\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"EXALTED_LUSHLILAC_BONBON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/salts/exalted_lushlilac_bonbon\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants §b1❣ Charm Chance§7.\",3:\"§7Duration: §624h\",4:\"\",5:\"§eLeft-click to consume!\",6:\"\",7:\"§a§lUNCOMMON SALT\"],Name:\"§aExalted Lushlilac Bonbon\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
       "",
-      "§7Grants you a §a+1.1% §7chance to charm",
-      "§7the mobs you defeat and capture",
-      "§7their §9Shards§7.",
+      "§7Grants §b1❣ Charm Chance§7.",
       "§7Duration: §624h",
       "",
       "§eLeft-click to consume!",
@@ -27395,7 +27899,7 @@
     "internalname": "EXALTED_LUSHLILAC_BONBON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Exalted_Lushlilac_Bonbon"
@@ -27660,6 +28164,49 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "FAMILY_SIZED_POT_OF_HONEYCOMB": {
+    "itemid": "minecraft:paper",
+    "displayname": "§9Family-Sized Pot of Honeycomb",
+    "nbttag": "{ExtraAttributes:{id:\"FAMILY_SIZED_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_family_sized\",display:{Lore:[0:\"§7Use on a §aTree §7with an active §2Tree\",1:\"§2Protection Order §7to lather it with\",2:\"§6Honeycomb§7!\",3:\"\",4:\"§7After §a30m§7, a unique §a Critter §7will be\",5:\"§7attracted to the §6Honeycomb§7!\",6:\"§8Type of mob depends upon type of\",7:\"§8tree lathered.\",8:\"\",9:\"§7Uses: §a3§7/§a3\",10:\"\",11:\"§4❣ §cRequires §aHoneycomb Collection III§c.\",12:\"§9§lRARE\"],Name:\"§9Family-Sized Pot of Honeycomb\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Use on a §aTree §7with an active §2Tree",
+      "§2Protection Order §7to lather it with",
+      "§6Honeycomb§7!",
+      "",
+      "§7After §a30m§7, a unique §a Critter §7will be",
+      "§7attracted to the §6Honeycomb§7!",
+      "§8Type of mob depends upon type of",
+      "§8tree lathered.",
+      "",
+      "§7Uses: §a3§7/§a3",
+      "",
+      "§4❣ §cRequires §aHoneycomb Collection III§c.",
+      "§9§lRARE"
+    ],
+    "internalname": "FAMILY_SIZED_POT_OF_HONEYCOMB",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb III",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "",
+        "A3": "",
+        "B1": "",
+        "B2": "ENCHANTED_HONEYCOMB:8",
+        "B3": "",
+        "C1": "",
+        "C2": "ENCHANTED_HELIX_LOG:16",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "FAMILY_SIZED_POT_OF_HONEYCOMB"
+      }
+    ]
   },
   "FARMER_BOOTS": {
     "itemid": "minecraft:leather_boots",
@@ -28978,22 +29525,22 @@
     }
   },
   "FIGSTONE": {
-    "itemid": "minecraft:skull",
-    "displayname": "§5Figstone",
-    "nbttag": "{ExtraAttributes:{id:\"FIGSTONE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c2701fb1-21b3-3bad-8b22-937e4fef2c54\",Properties:{textures:[0:{Name:\"textures\",Signature:\"EbVcBv+WHRCwjCO93PQi1arAP/1C4+hvHWpXhElsPYVIOQD1LW+VPaOnnelyOMYXQA5yuszlfC6jelXKNz6GLYDF4peTXhS8zHpERt6FgUCnNkweqZaREHIwKAvPTLHpvIYpmMqutpCRSwrHxvYZumtGO06pcLwbe9i/SylagY1PmO8abroTz+38FKD7bDszNFRBUnqqauWp36hBgYxxZKTuVRnWPrz3XKFmP5hLOVId4lB9IOwKHzL6WfImZsIU8EkmwtLK1eeultM2ZgGWR8GYlHCz0BI4NCJf3XdiARBbjfNVeiMbdy0rVXhHw+BONeLMHmyMfULVAAp0zT3WnPzx2n0XHFalgG06IWjnhwj8li6gKkWv4WsaThoWSGsZgo1lfaXz1ic2SSq2LKpIwrnT2BKfgwAjyFQ31Bvq66rbLVqAi4yA7csFbOgHtGEb7JZoIpjJ3GYXtWp94wuuDoMzb/dv3SD5n6DzlxV1Z9CvNFg4jCGa6K9RtCdbFTTd6tspBNg1uKGvPMzU2ZbLVZH9ejxQfXw77vMY31I+Rd/d2mMdCW6EB3KugmNfVfISxpR85oqKa4ygC7FRb/hwm41ZMaywSH8jHtByTQbaT7erMGJK/I/nSCnR8/UFToLms5RJhvApZXzRn3Q8A1UmLt/6P1Ym38Z7Z4lWF5XaD84=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNTc4MTU3OCwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ODYxMjU1ZjM3MjRmYzc3ZTdhODI2MDBhN2MzZDA4Y2Q2MWQ2NWUwYTdiOTdkYjVjMjRlNTk2MzBjM2FiNTE0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oA dense testament to time, holding\",3:\"§7§othe chronicles of ancient figs.\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Figstone\"}}",
-    "damage": 3,
+    "itemid": "minecraft:paper",
+    "displayname": "§9Figstone",
+    "nbttag": "{ExtraAttributes:{id:\"FIGSTONE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/figstone\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oA dense testament to time, holding\",3:\"§7§othe chronicles of ancient figs.\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Figstone\"}}",
+    "damage": 0,
     "lore": [
       "§8Collection Item",
       "",
       "§7§oA dense testament to time, holding",
       "§7§othe chronicles of ancient figs.",
       "",
-      "§5§lEPIC"
+      "§9§lRARE"
     ],
     "internalname": "FIGSTONE",
     "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "crafttext": "Requires: Fig Log VI",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Figstone"
@@ -29017,13 +29564,13 @@
   },
   "FIGSTONE_AXE": {
     "itemid": "minecraft:stone_axe",
-    "displayname": "§5Figstone Splitter",
-    "nbttag": "{ExtraAttributes:{id:\"FIGSTONE_AXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/axes/figstone_splitter\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+50\",1:\"§7Strength: §c+15\",2:\"§7Sweep: §2+24\",3:\"§7Foraging Fortune: §6+35\",4:\"§7Gemstones: §8[] []\",5:\"\",6:\"§6Ability: Super Frenzy \",7:\"§7Gains §21 Sweep §7every §a10,000 Logs\",8:\"§7cut on §2Galatea§7. §8(max 20)\",9:\"§7Current Bonus: §2+0\",10:\"§7Next Upgrade: §2+1 §8(§a0§7/§c10,000§8)\",11:\"\",12:\"§7Logs Cut: §b0\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires §aForaging Skill 15§c.\",16:\"§5§lEPIC AXE\"],Name:\"§5Figstone Splitter\"}}",
+    "displayname": "§9Figstone Splitter",
+    "nbttag": "{ExtraAttributes:{id:\"FIGSTONE_AXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/axes/figstone_splitter\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+50\",1:\"§7Strength: §c+15\",2:\"§7Sweep: §2+25\",3:\"§7Foraging Fortune: §6+35\",4:\"§7Gemstones: §8[] []\",5:\"\",6:\"§6Ability: Super Frenzy \",7:\"§7Gains §21 Sweep §7every §a10,000 Logs\",8:\"§7cut on §2Galatea§7. §8(max 20)\",9:\"§7Current Bonus: §2+0\",10:\"§7Next Upgrade: §2+1 §8(§a0§7/§c10,000§8)\",11:\"\",12:\"§7Logs Cut: §b0\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires §aForaging Skill 15§c.\",16:\"§9§lRARE AXE\"],Name:\"§9Figstone Splitter\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+50",
       "§7Strength: §c+15",
-      "§7Sweep: §2+24",
+      "§7Sweep: §2+25",
       "§7Foraging Fortune: §6+35",
       "§7Gemstones: §8[] []",
       "",
@@ -29037,12 +29584,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §aForaging Skill 15§c.",
-      "§5§lEPIC AXE"
+      "§9§lRARE AXE"
     ],
     "internalname": "FIGSTONE_AXE",
     "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "crafttext": "Requires: Fig Log VI",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Figstone_Splitter"
@@ -29066,13 +29613,13 @@
   },
   "FIG_AXE": {
     "itemid": "minecraft:wooden_axe",
-    "displayname": "§9Fig Hew",
-    "nbttag": "{ExtraAttributes:{id:\"FIG_AXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/axes/fig_hew\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"§7Strength: §c+10\",2:\"§7Sweep: §2+7\",3:\"§7Foraging Fortune: §6+20\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§6Ability: Frenzy \",7:\"§7Gains §21 Sweep §7every §a2,000 Logs\",8:\"§7cut on §2Galatea§7. §8(max 20)\",9:\"§7Current Bonus: §2+0\",10:\"§7Next Upgrade: §2+1 §8(§a0§7/§c2,000§8)\",11:\"\",12:\"§7Logs Cut: §b0\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires §aForaging Skill 12§c.\",16:\"§9§lRARE AXE\"],Name:\"§9Fig Hew\"}}",
+    "displayname": "§aFig Hew",
+    "nbttag": "{ExtraAttributes:{id:\"FIG_AXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/axes/fig_hew\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"§7Strength: §c+10\",2:\"§7Sweep: §2+15\",3:\"§7Foraging Fortune: §6+20\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§6Ability: Frenzy \",7:\"§7Gains §21 Sweep §7every §a2,000 Logs\",8:\"§7cut on §2Galatea§7. §8(max 20)\",9:\"§7Current Bonus: §2+0\",10:\"§7Next Upgrade: §2+1 §8(§a0§7/§c2,000§8)\",11:\"\",12:\"§7Logs Cut: §b0\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires §aForaging Skill 12§c.\",16:\"§a§lUNCOMMON AXE\"],Name:\"§aFig Hew\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+30",
       "§7Strength: §c+10",
-      "§7Sweep: §2+7",
+      "§7Sweep: §2+15",
       "§7Foraging Fortune: §6+20",
       "§7Gemstones: §8[]",
       "",
@@ -29086,12 +29633,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §aForaging Skill 12§c.",
-      "§9§lRARE AXE"
+      "§a§lUNCOMMON AXE"
     ],
     "internalname": "FIG_AXE",
     "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "crafttext": "Requires: Fig Log IV",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fig_Hew"
@@ -29116,12 +29663,12 @@
   "FIG_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§9Fig Striders",
-    "nbttag": "{ExtraAttributes:{id:\"FIG_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+65\",1:\"§7Defense: §a+25\",2:\"§7Sweep: §2+6\",3:\"§7Foraging Fortune: §6+30\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 15§c.\",8:\"§9§lRARE BOOTS\"],Name:\"§9Fig Striders\",color:1873753}}",
+    "nbttag": "{ExtraAttributes:{id:\"FIG_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+65\",1:\"§7Defense: §a+25\",2:\"§7Sweep: §2+10\",3:\"§7Foraging Fortune: §6+30\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 15§c.\",8:\"§9§lRARE BOOTS\"],Name:\"§9Fig Striders\",color:1873753}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+65",
       "§7Defense: §a+25",
-      "§7Sweep: §2+6",
+      "§7Sweep: §2+10",
       "§7Foraging Fortune: §6+30",
       "§7Gemstones: §8[]",
       "",
@@ -29131,8 +29678,8 @@
     ],
     "internalname": "FIG_BOOTS",
     "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "crafttext": "Requires: Fig Log VIII",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fig_Striders"
@@ -29157,12 +29704,12 @@
   "FIG_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§9Figmail",
-    "nbttag": "{ExtraAttributes:{id:\"FIG_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+160\",1:\"§7Defense: §a+45\",2:\"§7Sweep: §2+6\",3:\"§7Foraging Fortune: §6+30\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 15§c.\",8:\"§9§lRARE CHESTPLATE\"],Name:\"§9Figmail\",color:1873753}}",
+    "nbttag": "{ExtraAttributes:{id:\"FIG_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+160\",1:\"§7Defense: §a+45\",2:\"§7Sweep: §2+10\",3:\"§7Foraging Fortune: §6+30\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 15§c.\",8:\"§9§lRARE CHESTPLATE\"],Name:\"§9Figmail\",color:1873753}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+160",
       "§7Defense: §a+45",
-      "§7Sweep: §2+6",
+      "§7Sweep: §2+10",
       "§7Foraging Fortune: §6+30",
       "§7Gemstones: §8[]",
       "",
@@ -29172,8 +29719,8 @@
     ],
     "internalname": "FIG_CHESTPLATE",
     "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "crafttext": "Requires: Fig Log VIII",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Figmail"
@@ -29198,12 +29745,12 @@
   "FIG_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§9Fig Cap",
-    "nbttag": "{ExtraAttributes:{id:\"FIG_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dc1c00ad-fc57-3e00-a5c9-6bf6b352d025\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DzUE+dbQFV9A2QXLt16Cnf9zRynv8YD7tVcXH/NE/pKGk3J7bLL0KL52WUZ5l2xTRDnXEczc+8ncypecLJP1SNt9XLhZ/0KpKA3dkCmsjjTa8kqzBDs2sWmtM/wr+Z9I/jVgrjNosFxI629RU0QTCTLq/sKdfmr00RGKdOMJFB5QwnjTmNUQcaHQzFTTT887iW8RjSCiip7OeOPtKETO+nMJeCc7qOMeqxfZTOY+Wu/SGSTMx9lwQ65C5uuLYlD3jojihXUOpjE0fNjzw4ZH2qKIMtkp0Bza/D9/PAAfi8GAGsO0QQ29b5a1Hbfpf5XV2lk41Zbk7K4nfay4oZBhnZnDoUF4hEojKSm9CRMQ0EvaOyfjYd8s+mdGZtaE+Ay5W/RL00bSnsZVDJWSjsYBCN7OF6NJcowBxFUVe1LHBBcIjMdR9naczaEIREVvTUzKnTO8khKP4lAFFXE4B0KpXF3qoGYff9p8yslETrocSaz7RUUljXlyGa46M0E0kHd5y6e7ROivMAdwu5tzM72wyJ+UCB0UPObXmhbdj+/A/UuAV9XmMY1pYA4Wwe3mkEfIUzxfp/Z+w56I565iHSRJuD355CM/0z1bnuVjoChxqHS5TwMGDMqyzHLXmBaFnf7vGHmwoMITxIboGx94ieX0UzslyhGG5pa6lX9B8Jik9OY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjExOTM2MSwKICAicHJvZmlsZUlkIiA6ICI1OGZmZWI5NTMxNGQ0ODcwYTQwYjVjYjQyZDRlYTU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luREJuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTMxZDNmNDQ4NDkxYTM1ZDcxMWI4Nzc5NzNlNWRhNWQwZTcyYTJlY2ZkYzk4ZGVkZTcxYmZhMWI1MzdiYjRlYiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+80\",1:\"§7Defense: §a+30\",2:\"§7Sweep: §2+6\",3:\"§7Foraging Fortune: §6+30\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 15§c.\",8:\"§9§lRARE HELMET\"],Name:\"§9Fig Cap\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FIG_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dc1c00ad-fc57-3e00-a5c9-6bf6b352d025\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DzUE+dbQFV9A2QXLt16Cnf9zRynv8YD7tVcXH/NE/pKGk3J7bLL0KL52WUZ5l2xTRDnXEczc+8ncypecLJP1SNt9XLhZ/0KpKA3dkCmsjjTa8kqzBDs2sWmtM/wr+Z9I/jVgrjNosFxI629RU0QTCTLq/sKdfmr00RGKdOMJFB5QwnjTmNUQcaHQzFTTT887iW8RjSCiip7OeOPtKETO+nMJeCc7qOMeqxfZTOY+Wu/SGSTMx9lwQ65C5uuLYlD3jojihXUOpjE0fNjzw4ZH2qKIMtkp0Bza/D9/PAAfi8GAGsO0QQ29b5a1Hbfpf5XV2lk41Zbk7K4nfay4oZBhnZnDoUF4hEojKSm9CRMQ0EvaOyfjYd8s+mdGZtaE+Ay5W/RL00bSnsZVDJWSjsYBCN7OF6NJcowBxFUVe1LHBBcIjMdR9naczaEIREVvTUzKnTO8khKP4lAFFXE4B0KpXF3qoGYff9p8yslETrocSaz7RUUljXlyGa46M0E0kHd5y6e7ROivMAdwu5tzM72wyJ+UCB0UPObXmhbdj+/A/UuAV9XmMY1pYA4Wwe3mkEfIUzxfp/Z+w56I565iHSRJuD355CM/0z1bnuVjoChxqHS5TwMGDMqyzHLXmBaFnf7vGHmwoMITxIboGx94ieX0UzslyhGG5pa6lX9B8Jik9OY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjExOTM2MSwKICAicHJvZmlsZUlkIiA6ICI1OGZmZWI5NTMxNGQ0ODcwYTQwYjVjYjQyZDRlYTU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luREJuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTMxZDNmNDQ4NDkxYTM1ZDcxMWI4Nzc5NzNlNWRhNWQwZTcyYTJlY2ZkYzk4ZGVkZTcxYmZhMWI1MzdiYjRlYiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+80\",1:\"§7Defense: §a+30\",2:\"§7Sweep: §2+10\",3:\"§7Foraging Fortune: §6+30\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 15§c.\",8:\"§9§lRARE HELMET\"],Name:\"§9Fig Cap\"}}",
     "damage": 3,
     "lore": [
       "§7Health: §c+80",
       "§7Defense: §a+30",
-      "§7Sweep: §2+6",
+      "§7Sweep: §2+10",
       "§7Foraging Fortune: §6+30",
       "§7Gemstones: §8[]",
       "",
@@ -29213,8 +29760,8 @@
     ],
     "internalname": "FIG_HELMET",
     "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "crafttext": "Requires: Fig Log VIII",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fig_Cap"
@@ -29239,12 +29786,12 @@
   "FIG_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§9Fig Trousers",
-    "nbttag": "{ExtraAttributes:{id:\"FIG_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+140\",1:\"§7Defense: §a+35\",2:\"§7Sweep: §2+6\",3:\"§7Foraging Fortune: §6+30\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 15§c.\",8:\"§9§lRARE LEGGINGS\"],Name:\"§9Fig Trousers\",color:1873753}}",
+    "nbttag": "{ExtraAttributes:{id:\"FIG_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+140\",1:\"§7Defense: §a+35\",2:\"§7Sweep: §2+10\",3:\"§7Foraging Fortune: §6+30\",4:\"§7Gemstones: §8[]\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 15§c.\",8:\"§9§lRARE LEGGINGS\"],Name:\"§9Fig Trousers\",color:1873753}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+140",
       "§7Defense: §a+35",
-      "§7Sweep: §2+6",
+      "§7Sweep: §2+10",
       "§7Foraging Fortune: §6+30",
       "§7Gemstones: §8[]",
       "",
@@ -29254,8 +29801,8 @@
     ],
     "internalname": "FIG_LEGGINGS",
     "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "crafttext": "Requires: Fig Log VIII",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fig_Trousers"
@@ -33719,6 +34266,49 @@
       }
     ]
   },
+  "FUN_SIZED_POT_OF_HONEYCOMB": {
+    "itemid": "minecraft:paper",
+    "displayname": "§aFun-Sized Pot of Honeycomb",
+    "nbttag": "{ExtraAttributes:{id:\"FUN_SIZED_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_fun_sized\",display:{Lore:[0:\"§7Use on a §aTree §7with an active §2Tree\",1:\"§2Protection Order §7to lather it with\",2:\"§6Honeycomb§7!\",3:\"\",4:\"§7After §a60m§7, a unique §a Critter §7will be\",5:\"§7attracted to the §6Honeycomb§7!\",6:\"§8Type of mob depends upon type of\",7:\"§8tree lathered.\",8:\"\",9:\"§7Uses: §a1§7/§a1\",10:\"\",11:\"§4❣ §cRequires §aHoneycomb Collection I§c.\",12:\"§a§lUNCOMMON\"],Name:\"§aFun-Sized Pot of Honeycomb\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Use on a §aTree §7with an active §2Tree",
+      "§2Protection Order §7to lather it with",
+      "§6Honeycomb§7!",
+      "",
+      "§7After §a60m§7, a unique §a Critter §7will be",
+      "§7attracted to the §6Honeycomb§7!",
+      "§8Type of mob depends upon type of",
+      "§8tree lathered.",
+      "",
+      "§7Uses: §a1§7/§a1",
+      "",
+      "§4❣ §cRequires §aHoneycomb Collection I§c.",
+      "§a§lUNCOMMON"
+    ],
+    "internalname": "FUN_SIZED_POT_OF_HONEYCOMB",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb I",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "",
+        "A3": "",
+        "B1": "",
+        "B2": "HONEYCOMB:64",
+        "B3": "",
+        "C1": "",
+        "C2": "HELIX_LOG:64",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "FUN_SIZED_POT_OF_HONEYCOMB"
+      }
+    ]
+  },
   "FURNACE": {
     "itemid": "minecraft:furnace",
     "displayname": "§fFurnace",
@@ -34847,6 +35437,55 @@
       "C2": "PURPLE_CANDY:64",
       "C3": ""
     }
+  },
+  "GIGANTIC_FISHING_NET": {
+    "itemid": "minecraft:paper",
+    "displayname": "§6Gigantic Fishing Net",
+    "nbttag": "{ExtraAttributes:{id:\"GIGANTIC_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/nets/gigantic_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+100\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+150%\",11:\"\",12:\"§6Ability: Overhaul \",13:\"§7Grants §d+10 Hunting Fortune §7on\",14:\"§9Water Shards §7caught with this net.\",15:\"\",16:\"§6§lLEGENDARY FISHING NET\"],Name:\"§6Gigantic Fishing Net\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Hunting Tool",
+      "",
+      "§7Pull: §b+100",
+      "",
+      "§6Ability: Yoink  §e§lRIGHT CLICK",
+      "§7Throw your fishing net at swimming",
+      "§7fish to catch them!",
+      "§8Mana Cost: §b10",
+      "§8Cooldown: §a0.5s",
+      "",
+      "§7Throw Distance: §a+150%",
+      "",
+      "§6Ability: Overhaul ",
+      "§7Grants §d+10 Hunting Fortune §7on",
+      "§9Water Shards §7caught with this net.",
+      "",
+      "§6§lLEGENDARY FISHING NET"
+    ],
+    "internalname": "GIGANTIC_FISHING_NET",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Gigantic_Fishing_Net"
+    ],
+    "recipes": [
+      {
+        "A1": "ENCHANTED_SEA_LUMIES:32",
+        "A2": "REINFORCED_NETTING:1",
+        "A3": "ENCHANTED_SEA_LUMIES:32",
+        "B1": "SUBLIME_SILK:16",
+        "B2": "TURBO_FISHING_NET:1",
+        "B3": "SUBLIME_SILK:16",
+        "C1": "ENCHANTED_SEA_LUMIES:32",
+        "C2": "FLEXBONE:64",
+        "C3": "ENCHANTED_SEA_LUMIES:32",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "GIGANTIC_FISHING_NET"
+      }
+    ]
   },
   "GILLSPLASH_BELT": {
     "itemid": "minecraft:skull",
@@ -40146,6 +40785,260 @@
       }
     ]
   },
+  "HELIXIS": {
+    "itemid": "minecraft:paper",
+    "displayname": "§9Helixis",
+    "nbttag": "{ExtraAttributes:{id:\"HELIXIS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/logs/helixis\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oPerhaps even the trees of Galatea\",3:\"§7§ohave something to say about its\",4:\"§7§otechnological intricacies.\",5:\"\",6:\"§eRight-click to view recipes!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Helixis\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§7§oPerhaps even the trees of Galatea",
+      "§7§ohave something to say about its",
+      "§7§otechnological intricacies.",
+      "",
+      "§eRight-click to view recipes!",
+      "",
+      "§9§lRARE"
+    ],
+    "internalname": "HELIXIS",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log VI",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Helixis"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "ENCHANTED_HELIX_LOG:32",
+        "A3": "",
+        "B1": "ENCHANTED_HELIX_LOG:32",
+        "B2": "ENCHANTED_HELIX_LOG:32",
+        "B3": "ENCHANTED_HELIX_LOG:32",
+        "C1": "",
+        "C2": "ENCHANTED_HELIX_LOG:32",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "HELIXIS"
+      }
+    ]
+  },
+  "HELIX_ARMOR_BOOTS": {
+    "itemid": "minecraft:leather_boots",
+    "displayname": "§5Helix Boots",
+    "nbttag": "{ExtraAttributes:{id:\"HELIX_ARMOR_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+85\",1:\"§7Defense: §a+30\",2:\"§7Sweep: §2+20\",3:\"§7Foraging Fortune: §6+45\",4:\"§7Gemstones: §8[] []\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 25§c.\",8:\"§5§lEPIC BOOTS\"],Name:\"§5Helix Boots\",color:14834198}}",
+    "damage": 0,
+    "lore": [
+      "§7Health: §c+85",
+      "§7Defense: §a+30",
+      "§7Sweep: §2+20",
+      "§7Foraging Fortune: §6+45",
+      "§7Gemstones: §8[] []",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aForaging Skill 25§c.",
+      "§5§lEPIC BOOTS"
+    ],
+    "internalname": "HELIX_ARMOR_BOOTS",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log VIII",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Helix_Boots"
+    ],
+    "recipes": [
+      {
+        "A1": "HELIXIS:1",
+        "A2": "FIG_BOOTS:1",
+        "A3": "HELIXIS:1",
+        "B1": "HELIXIS:1",
+        "B2": "",
+        "B3": "HELIXIS:1",
+        "C1": "",
+        "C2": "",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "HELIX_ARMOR_BOOTS"
+      }
+    ]
+  },
+  "HELIX_ARMOR_CHESTPLATE": {
+    "itemid": "minecraft:leather_chestplate",
+    "displayname": "§5Helix Chestplate",
+    "nbttag": "{ExtraAttributes:{id:\"HELIX_ARMOR_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+190\",1:\"§7Defense: §a+55\",2:\"§7Sweep: §2+20\",3:\"§7Foraging Fortune: §6+45\",4:\"§7Gemstones: §8[] []\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 25§c.\",8:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Helix Chestplate\",color:14834198}}",
+    "damage": 0,
+    "lore": [
+      "§7Health: §c+190",
+      "§7Defense: §a+55",
+      "§7Sweep: §2+20",
+      "§7Foraging Fortune: §6+45",
+      "§7Gemstones: §8[] []",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aForaging Skill 25§c.",
+      "§5§lEPIC CHESTPLATE"
+    ],
+    "internalname": "HELIX_ARMOR_CHESTPLATE",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log VIII",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Helix_Chestplate"
+    ],
+    "recipes": [
+      {
+        "A1": "HELIXIS:1",
+        "A2": "",
+        "A3": "HELIXIS:1",
+        "B1": "HELIXIS:1",
+        "B2": "FIG_CHESTPLATE:1",
+        "B3": "HELIXIS:1",
+        "C1": "HELIXIS:1",
+        "C2": "HELIXIS:1",
+        "C3": "HELIXIS:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "HELIX_ARMOR_CHESTPLATE"
+      }
+    ]
+  },
+  "HELIX_ARMOR_HELMET": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Helix Helmet",
+    "nbttag": "{ExtraAttributes:{id:\"HELIX_ARMOR_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e440418f-4d36-34dd-b563-691c78e1971a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"PyKZ5r+BZE7eh0XCqs8xtq+80U2OsOcLcbG5YJvkC+f7x46vBmVVkumUFdBOQrRGJf6YjfNgeBrqeVX1YJ5dhoTRkwcM94L/vAoT/ahWJrGGiKnDhwcLt8/yWkNJuRTFXyn0UKhLGbu0adecMMX0DwATrfZ7esoJ4O/4HnyxMW2EaZ1GspDCzCHY2zu2GH1G5yHrnyF/1v2kjpUEhBKlhni4elJ9pr/9aH550onSd4BhVU4S+a0s09h0fZyIM9Xz/xpl3Ievp58FYM24i5va9AAg6XWMTmxF1wWlVW2oPdxp9WYXRELu+vu1NtW3wqaCIzNk0/B5PTC8UBjC987nWo+ScthQaT/5Kfn6TvA2ZvkgmwWLBQjmB7xAC0tHhEg6QBTJB1mLyiHU6CjPjNO3ZqSFyZ3G906sKVD10r38CnAh2o4Rhb8i+zyeiereUoIGBvuMB+vVcc9iD2lhlUGa6GFEVslPgMjCTkjLH6mQNPluJAFtkT7+DtNCh35JCQtfiE5plsf0qHGPulTg8197IvzUDgyH+jRJkHSduE4GsB3rENIEKuuia9aPyRqgR29j+sa6JlmErsLZyK5v6C9juxmhKevQRLiFHqandLl2JL08h1GbTu0SXxoQ/N+2g3WvBhnuM13Jpx15ECV0stPJi8K2q39iLj5o7Y9I54iwu28=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjkyODQwNiwKICAicHJvZmlsZUlkIiA6ICJkODYwY2JiYWM0Njg0ODhjOWI4MTY3MGVjZjQ5OGRmMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb2FzdGxpbmVDcmVhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyYWQyMzViOTQ1OGNjMjZjOWRkNzk0YTM1YzExMDBlMWI1YmJlNGEwYzZjM2RhNmZmZDQ4MzAwMDY2ODNjYjkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+100\",1:\"§7Defense: §a+35\",2:\"§7Sweep: §2+20\",3:\"§7Foraging Fortune: §6+45\",4:\"§7Gemstones: §8[] []\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 25§c.\",8:\"§5§lEPIC HELMET\"],Name:\"§5Helix Helmet\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Health: §c+100",
+      "§7Defense: §a+35",
+      "§7Sweep: §2+20",
+      "§7Foraging Fortune: §6+45",
+      "§7Gemstones: §8[] []",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aForaging Skill 25§c.",
+      "§5§lEPIC HELMET"
+    ],
+    "internalname": "HELIX_ARMOR_HELMET",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log VIII",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Helix_Helmet"
+    ],
+    "recipes": [
+      {
+        "A1": "HELIXIS:1",
+        "A2": "HELIXIS:1",
+        "A3": "HELIXIS:1",
+        "B1": "HELIXIS:1",
+        "B2": "FIG_HELMET:1",
+        "B3": "HELIXIS:1",
+        "C1": "",
+        "C2": "",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "HELIX_ARMOR_HELMET"
+      }
+    ]
+  },
+  "HELIX_ARMOR_LEGGINGS": {
+    "itemid": "minecraft:leather_leggings",
+    "displayname": "§5Helix Leggings",
+    "nbttag": "{ExtraAttributes:{id:\"HELIX_ARMOR_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+165\",1:\"§7Defense: §a+45\",2:\"§7Sweep: §2+20\",3:\"§7Foraging Fortune: §6+45\",4:\"§7Gemstones: §8[] []\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §aForaging Skill 25§c.\",8:\"§5§lEPIC LEGGINGS\"],Name:\"§5Helix Leggings\",color:14834198}}",
+    "damage": 0,
+    "lore": [
+      "§7Health: §c+165",
+      "§7Defense: §a+45",
+      "§7Sweep: §2+20",
+      "§7Foraging Fortune: §6+45",
+      "§7Gemstones: §8[] []",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aForaging Skill 25§c.",
+      "§5§lEPIC LEGGINGS"
+    ],
+    "internalname": "HELIX_ARMOR_LEGGINGS",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log VIII",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Helix_Leggings"
+    ],
+    "recipes": [
+      {
+        "A1": "HELIXIS:1",
+        "A2": "FIG_LEGGINGS:1",
+        "A3": "HELIXIS:1",
+        "B1": "HELIXIS:1",
+        "B2": "",
+        "B3": "HELIXIS:1",
+        "C1": "HELIXIS:1",
+        "C2": "",
+        "C3": "HELIXIS:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "HELIX_ARMOR_LEGGINGS"
+      }
+    ]
+  },
+  "HELIX_CHOPPER": {
+    "itemid": "minecraft:paper",
+    "displayname": "§5Helix Chopper",
+    "nbttag": "{ExtraAttributes:{id:\"HELIX_CHOPPER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/axes/helix_chopper\",display:{Lore:[0:\"§7Damage: §c+75\",1:\"§7Strength: §c+25\",2:\"§7Sweep: §2+50\",3:\"§7Foraging Fortune: §6+50\",4:\"§7Gemstones: §8[] []\",5:\"\",6:\"§6Ability: Mega Frenzy \",7:\"§7Gains §21 Sweep §7every §a20,000 Logs\",8:\"§7cut on §2Galatea§7. §8(max 40)\",9:\"§7Current Bonus: §2+0\",10:\"§7Next Upgrade: §2+1 §8(§a0§7/§c20,000§8)\",11:\"\",12:\"§7Logs Cut: §b0\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires §aForaging Skill 20§c.\",16:\"§5§lEPIC AXE\"],Name:\"§5Helix Chopper\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Damage: §c+75",
+      "§7Strength: §c+25",
+      "§7Sweep: §2+50",
+      "§7Foraging Fortune: §6+50",
+      "§7Gemstones: §8[] []",
+      "",
+      "§6Ability: Mega Frenzy ",
+      "§7Gains §21 Sweep §7every §a20,000 Logs",
+      "§7cut on §2Galatea§7. §8(max 40)",
+      "§7Current Bonus: §2+0",
+      "§7Next Upgrade: §2+1 §8(§a0§7/§c20,000§8)",
+      "",
+      "§7Logs Cut: §b0",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aForaging Skill 20§c.",
+      "§5§lEPIC AXE"
+    ],
+    "internalname": "HELIX_CHOPPER",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log VI",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Helix_Chopper"
+    ],
+    "recipes": [
+      {
+        "A1": "HELIXIS:1",
+        "A2": "HELIXIS:1",
+        "A3": "",
+        "B1": "FIGSTONE_AXE:1",
+        "B2": "HELIXIS:1",
+        "B3": "",
+        "C1": "FLEXBONE:8",
+        "C2": "",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "HELIX_CHOPPER"
+      }
+    ]
+  },
   "HELLFIRE_ROD": {
     "itemid": "minecraft:fishing_rod",
     "displayname": "§6Hellfire Rod",
@@ -40895,6 +41788,163 @@
       "C2": "BLUE_SHARK_TOOTH:1",
       "C3": ""
     }
+  },
+  "HONEYCOMB_ARTIFACT": {
+    "itemid": "minecraft:paper",
+    "displayname": "§9Honeycomb Artifact",
+    "nbttag": "{ExtraAttributes:{id:\"HONEYCOMB_ARTIFACT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_artifact\",display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§aTrees §7smeared with §6Honeycomb\",3:\"§7attract mobs §a15% §7faster.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Honeycomb Artifact\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Accessory Power: §6+8",
+      "",
+      "§aTrees §7smeared with §6Honeycomb",
+      "§7attract mobs §a15% §7faster.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§9§lRARE ACCESSORY"
+    ],
+    "internalname": "HONEYCOMB_ARTIFACT",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb V",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Honeycomb_Artifact"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "ENCHANTED_HONEYCOMB:8",
+        "A3": "",
+        "B1": "ENCHANTED_HONEYCOMB:8",
+        "B2": "HONEYCOMB_RING:1",
+        "B3": "ENCHANTED_HONEYCOMB:8",
+        "C1": "",
+        "C2": "ENCHANTED_HONEYCOMB:8",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "HONEYCOMB_ARTIFACT"
+      }
+    ]
+  },
+  "HONEYCOMB_NECKLACE": {
+    "itemid": "minecraft:paper",
+    "displayname": "§5Honeycomb Necklace",
+    "nbttag": "{ExtraAttributes:{id:\"HONEYCOMB_NECKLACE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/equipment/honeycomb_necklace\",display:{Lore:[0:\"§7Sweep: §2+5\",1:\"§7Foraging Fortune: §6+25\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 30§c.\",7:\"§5§lEPIC NECKLACE\"],Name:\"§5Honeycomb Necklace\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Sweep: §2+5",
+      "§7Foraging Fortune: §6+25",
+      "",
+      "§eRight-click to equip!",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aForaging Skill 30§c.",
+      "§5§lEPIC NECKLACE"
+    ],
+    "internalname": "HONEYCOMB_NECKLACE",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb IX",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Honeycomb_Necklace"
+    ],
+    "recipes": [
+      {
+        "A1": "HELIXIS:2",
+        "A2": "",
+        "A3": "HELIXIS:2",
+        "B1": "ENCHANTED_HONEYCOMB_BLOCK:1",
+        "B2": "MANGROVE_LOCKET:1",
+        "B3": "ENCHANTED_HONEYCOMB_BLOCK:1",
+        "C1": "",
+        "C2": "VIAL_OF_SPRING_WATER:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "HONEYCOMB_NECKLACE"
+      }
+    ]
+  },
+  "HONEYCOMB_RING": {
+    "itemid": "minecraft:paper",
+    "displayname": "§aHoneycomb Ring",
+    "nbttag": "{ExtraAttributes:{id:\"HONEYCOMB_RING\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_ring\",display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§aTrees §7smeared with §6Honeycomb\",3:\"§7attract mobs §a10% §7faster.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aHoneycomb Ring\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Accessory Power: §6+5",
+      "",
+      "§aTrees §7smeared with §6Honeycomb",
+      "§7attract mobs §a10% §7faster.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§a§lUNCOMMON ACCESSORY"
+    ],
+    "internalname": "HONEYCOMB_RING",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb III",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Honeycomb_Ring"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "ENCHANTED_HONEYCOMB:1",
+        "A3": "",
+        "B1": "ENCHANTED_HONEYCOMB:1",
+        "B2": "HONEYCOMB_TALISMAN:1",
+        "B3": "ENCHANTED_HONEYCOMB:1",
+        "C1": "",
+        "C2": "ENCHANTED_HONEYCOMB:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "HONEYCOMB_RING"
+      }
+    ]
+  },
+  "HONEYCOMB_TALISMAN": {
+    "itemid": "minecraft:paper",
+    "displayname": "§fHoneycomb Talisman",
+    "nbttag": "{ExtraAttributes:{id:\"HONEYCOMB_TALISMAN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/honey/honeycomb_talisman\",display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§aTrees §7smeared with §6Honeycomb\",3:\"§7attract mobs §a5% §7faster.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§f§lCOMMON ACCESSORY\"],Name:\"§fHoneycomb Talisman\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Accessory Power: §6+3",
+      "",
+      "§aTrees §7smeared with §6Honeycomb",
+      "§7attract mobs §a5% §7faster.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§f§lCOMMON ACCESSORY"
+    ],
+    "internalname": "HONEYCOMB_TALISMAN",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb I",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Honeycomb_Talisman"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "HONEYCOMB:16",
+        "A3": "",
+        "B1": "HONEYCOMB:16",
+        "B2": "",
+        "B3": "HONEYCOMB:16",
+        "C1": "",
+        "C2": "HONEYCOMB:16",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "HONEYCOMB_TALISMAN"
+      }
+    ]
   },
   "HOPPER": {
     "itemid": "minecraft:hopper",
@@ -45731,6 +46781,49 @@
       "C3": ""
     }
   },
+  "JUMBO_POT_OF_HONEYCOMB": {
+    "itemid": "minecraft:paper",
+    "displayname": "§5Jumbo Pot of Honeycomb",
+    "nbttag": "{ExtraAttributes:{id:\"JUMBO_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_jumbo\",display:{Lore:[0:\"§7Use on a §aTree §7with an active §2Tree\",1:\"§2Protection Order §7to lather it with\",2:\"§6Honeycomb§7!\",3:\"\",4:\"§7After §a15m§7, a unique §a Critter §7will be\",5:\"§7attracted to the §6Honeycomb§7!\",6:\"§8Type of mob depends upon type of\",7:\"§8tree lathered.\",8:\"\",9:\"§7Uses: §a10§7/§a10\",10:\"\",11:\"§4❣ §cRequires §aHoneycomb Collection V§c.\",12:\"§5§lEPIC\"],Name:\"§5Jumbo Pot of Honeycomb\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Use on a §aTree §7with an active §2Tree",
+      "§2Protection Order §7to lather it with",
+      "§6Honeycomb§7!",
+      "",
+      "§7After §a15m§7, a unique §a Critter §7will be",
+      "§7attracted to the §6Honeycomb§7!",
+      "§8Type of mob depends upon type of",
+      "§8tree lathered.",
+      "",
+      "§7Uses: §a10§7/§a10",
+      "",
+      "§4❣ §cRequires §aHoneycomb Collection V§c.",
+      "§5§lEPIC"
+    ],
+    "internalname": "JUMBO_POT_OF_HONEYCOMB",
+    "clickcommand": "",
+    "crafttext": "Requires: Honeycomb V",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "",
+        "A3": "",
+        "B1": "",
+        "B2": "ENCHANTED_HONEYCOMB:16",
+        "B3": "",
+        "C1": "",
+        "C2": "HELIXIS:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "JUMBO_POT_OF_HONEYCOMB"
+      }
+    ]
+  },
   "JUNGLE_AXE": {
     "itemid": "minecraft:wooden_axe",
     "displayname": "§aSpruce Axe",
@@ -47996,6 +49089,58 @@
       "C3": "ENCHANTED_SULPHUR_CUBE:1"
     }
   },
+  "LARGE_POCKET_BLACK_HOLE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Large Pocket Black Hole",
+    "nbttag": "{ExtraAttributes:{id:\"LARGE_POCKET_BLACK_HOLE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"643b77e6-8a0a-3a49-aceb-51465562aa92\",Properties:{textures:[0:{Name:\"textures\",Signature:\"YAuAf2ZiaEKSPk7k+q/lzTLEfLoK6oG7G25UDXdPrgWTGNfiAEvgomKhhW0NPlVlKu7mUgdUzM9RP3WXfH7rXof5ieo/xI4D9V/mWTd6mpdaiCKm+Qnye2OkmSZlvXCQwacKwyRaWrXMNcLUk+K8OHST6OAsQLsrTl/e+86TBdc8sMMa/Eb+dM7Kcpec1lJe0pmHVsPJaZ7c541t11yb0nbpnGCAZhoOOULEKrCLbiy7bjvyFjJiIDDRurAFhRIN0H2189+tIZez6jU20AbvYUdnlPaUeGSog84D6JOGKDhx333rUAB5Y7GjOjt06QLdCqfP8vD2aMStTr2yPnfY6TUjTh0f7zKbX/KwWQUhA2IEsylciqKvbDcMKtEO1cib3HPUSlq72ylq4HogthzKPV1shRNFijGFe9rw8p/SJSaQga3Eh4bt02YoVewR4N51MI9j3UnlsDq1Ln2fGqJHbOKA0ho7uuYgKAxGya/MafLc3YwKh7ph9yZ/dftOuN7AyxCqBtRQq/cpil4Z1VAPJx8w/xQ25K81GU5fESHuvBcy62dw2ti6r1S8xK9UKv3zA6kN5uaKNBXXoJIE7djd5L0C79GLHTp2qpOWswZNtKArtFDfRD2Ocgw4X4+6py7h9zbvyZ/MS+AxvyDGpBBeUkTLegm5fzzhoeI9ntvqPAg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNTk5NjMyNywKICAicHJvZmlsZUlkIiA6ICJjNGRiNjkxZDNkYmU0ZWI5YThiNjgzM2I4ODNkYmM0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJmb3NzaW5hbHQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRiZDM3ODI3ZjNmNTViODM4YjY0YWZlN2Y5MGMwZDc3ZWI0MDBkNTBkZGZlYTcwZmYzNWMyOTg2OGZlOGM0NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Black Hole  §e§lRIGHT CLICK\",3:\"§7Place the Black Hole for §a180s§7, and\",4:\"§7it'll start pulling §clow HP §7monsters\",5:\"§7towards it.\",6:\"§8Cooldown: §a2s\",7:\"\",8:\"§8§oHarness the power of Gravity... and\",9:\"§8§oMushrooms!\",10:\"\",11:\"§7Monsters below §a10% §7HP can even get\",12:\"§7their §9Shard §7captured!\",13:\"\",14:\"§6Ability: Blessing from the Void \",15:\"§7Grants §d5 Hunting Fortune §7on\",16:\"§cCombat Shards §7caught with this Black\",17:\"§7Hole!\",18:\"\",19:\"§5§lEPIC DEPLOYABLE\"],Name:\"§5Large Pocket Black Hole\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Hunting Tool",
+      "",
+      "§6Ability: Black Hole  §e§lRIGHT CLICK",
+      "§7Place the Black Hole for §a180s§7, and",
+      "§7it'll start pulling §clow HP §7monsters",
+      "§7towards it.",
+      "§8Cooldown: §a2s",
+      "",
+      "§8§oHarness the power of Gravity... and",
+      "§8§oMushrooms!",
+      "",
+      "§7Monsters below §a10% §7HP can even get",
+      "§7their §9Shard §7captured!",
+      "",
+      "§6Ability: Blessing from the Void ",
+      "§7Grants §d5 Hunting Fortune §7on",
+      "§cCombat Shards §7caught with this Black",
+      "§7Hole!",
+      "",
+      "§5§lEPIC DEPLOYABLE"
+    ],
+    "internalname": "LARGE_POCKET_BLACK_HOLE",
+    "clickcommand": "",
+    "crafttext": "Requires: Ruby Veilshroom VIII",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Large_Pocket_Black_Hole"
+    ],
+    "recipes": [
+      {
+        "A1": "VEILSHROOM_BUNCH:1",
+        "A2": "BOTTLED_MISCHIEF:8",
+        "A3": "VEILSHROOM_BUNCH:1",
+        "B1": "HELIXIS:1",
+        "B2": "MEDIUM_POCKET_BLACK_HOLE:1",
+        "B3": "HELIXIS:1",
+        "C1": "HELIXIS:1",
+        "C2": "HELIXIS:1",
+        "C3": "HELIXIS:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "LARGE_POCKET_BLACK_HOLE"
+      }
+    ]
+  },
   "LARGE_SCAFFOLDING": {
     "itemid": "minecraft:skull",
     "displayname": "§5Large Scaffolding",
@@ -48012,7 +49157,7 @@
     ],
     "internalname": "LARGE_SCAFFOLDING",
     "clickcommand": "",
-    "crafttext": "",
+    "crafttext": "Requires: Fig Log V",
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
@@ -49952,6 +51097,123 @@
       "C3": "RABBIT_HIDE:8"
     }
   },
+  "LUMBERJACK_ARTIFACT": {
+    "itemid": "minecraft:paper",
+    "displayname": "§9Lumberjack Artifact",
+    "nbttag": "{ExtraAttributes:{id:\"LUMBERJACK_ARTIFACT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_artifact\",display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Reduces the cooldown for throwing\",3:\"§7your §2Foraging Axe §7by §a15%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Lumberjack Artifact\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Accessory Power: §6+8",
+      "",
+      "§7Reduces the cooldown for throwing",
+      "§7your §2Foraging Axe §7by §a15%§7.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§9§lRARE ACCESSORY"
+    ],
+    "internalname": "LUMBERJACK_ARTIFACT",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log VIII",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Lumberjack_Artifact"
+    ],
+    "recipes": [
+      {
+        "A1": "VINESAP:32",
+        "A2": "HELIXIS:1",
+        "A3": "VINESAP:32",
+        "B1": "HELIXIS:1",
+        "B2": "LUMBERJACK_RING:1",
+        "B3": "HELIXIS:1",
+        "C1": "VINESAP:32",
+        "C2": "HELIXIS:1",
+        "C3": "VINESAP:32",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "LUMBERJACK_ARTIFACT"
+      }
+    ]
+  },
+  "LUMBERJACK_RING": {
+    "itemid": "minecraft:paper",
+    "displayname": "§aLumberjack Ring",
+    "nbttag": "{ExtraAttributes:{id:\"LUMBERJACK_RING\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_ring\",display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Reduces the cooldown for throwing\",3:\"§7your §2Foraging Axe §7by §a10%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aLumberjack Ring\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Accessory Power: §6+5",
+      "",
+      "§7Reduces the cooldown for throwing",
+      "§7your §2Foraging Axe §7by §a10%§7.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§a§lUNCOMMON ACCESSORY"
+    ],
+    "internalname": "LUMBERJACK_RING",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log V",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Lumberjack_Ring"
+    ],
+    "recipes": [
+      {
+        "A1": "TENDER_WOOD:16",
+        "A2": "ENCHANTED_HELIX_LOG:16",
+        "A3": "TENDER_WOOD:16",
+        "B1": "ENCHANTED_HELIX_LOG:16",
+        "B2": "LUMBERJACK_TALISMAN:1",
+        "B3": "ENCHANTED_HELIX_LOG:16",
+        "C1": "TENDER_WOOD:16",
+        "C2": "ENCHANTED_HELIX_LOG:16",
+        "C3": "TENDER_WOOD:16",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "LUMBERJACK_RING"
+      }
+    ]
+  },
+  "LUMBERJACK_TALISMAN": {
+    "itemid": "minecraft:paper",
+    "displayname": "§fLumberjack Talisman",
+    "nbttag": "{ExtraAttributes:{id:\"LUMBERJACK_TALISMAN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/accessories/lumberjack/lumberjack_talisman\",display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7Reduces the cooldown for throwing\",3:\"§7your §2Foraging Axe §7by §a5%§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§f§lCOMMON ACCESSORY\"],Name:\"§fLumberjack Talisman\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Accessory Power: §6+3",
+      "",
+      "§7Reduces the cooldown for throwing",
+      "§7your §2Foraging Axe §7by §a5%§7.",
+      "",
+      "§8Works while in Accessory Bag!",
+      "§f§lCOMMON ACCESSORY"
+    ],
+    "internalname": "LUMBERJACK_TALISMAN",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log III",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Lumberjack_Talisman"
+    ],
+    "recipes": [
+      {
+        "A1": "ENCHANTED_HELIX_LOG:1",
+        "A2": "ENCHANTED_HELIX_LOG:1",
+        "A3": "ENCHANTED_HELIX_LOG:1",
+        "B1": "ENCHANTED_HELIX_LOG:1",
+        "B2": "ENCHANTED_HELIX_LOG:1",
+        "B3": "ENCHANTED_HELIX_LOG:1",
+        "C1": "ENCHANTED_HELIX_LOG:1",
+        "C2": "ENCHANTED_HELIX_LOG:1",
+        "C3": "ENCHANTED_HELIX_LOG:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "LUMBERJACK_TALISMAN"
+      }
+    ]
+  },
   "LUSCIOUS_HEALING_MELON": {
     "itemid": "minecraft:melon",
     "displayname": "§6Luscious Healing Melon",
@@ -49988,14 +51250,12 @@
   "LUSHLILAC_BONBON": {
     "itemid": "minecraft:paper",
     "displayname": "§aLushlilac Bonbon",
-    "nbttag": "{ExtraAttributes:{id:\"LUSHLILAC_BONBON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/salts/lushlilac_bonbon\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants you a §a+0.688% §7chance to\",3:\"§7charm the mobs you defeat and\",4:\"§7capture their §9Shards§7.\",5:\"§7Duration: §612h\",6:\"\",7:\"§eLeft-click to consume!\",8:\"\",9:\"§a§lUNCOMMON SALT\"],Name:\"§aLushlilac Bonbon\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"LUSHLILAC_BONBON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/salts/lushlilac_bonbon\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants §b0.62❣ Charm Chance§7.\",3:\"§7Duration: §612h\",4:\"\",5:\"§eLeft-click to consume!\",6:\"\",7:\"§a§lUNCOMMON SALT\"],Name:\"§aLushlilac Bonbon\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
       "",
-      "§7Grants you a §a+0.688% §7chance to",
-      "§7charm the mobs you defeat and",
-      "§7capture their §9Shards§7.",
+      "§7Grants §b0.62❣ Charm Chance§7.",
       "§7Duration: §612h",
       "",
       "§eLeft-click to consume!",
@@ -50005,7 +51265,7 @@
     "internalname": "LUSHLILAC_BONBON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Lushlilac_Bonbon"
@@ -51296,8 +52556,8 @@
   },
   "MANGCORE": {
     "itemid": "minecraft:paper",
-    "displayname": "§5Mangcore",
-    "nbttag": "{ExtraAttributes:{id:\"MANGCORE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/mangcore\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oMangroves' finest gift, a shard\",3:\"§7§oechoing with tales of brine and\",4:\"§7§obristle.\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Mangcore\"}}",
+    "displayname": "§9Mangcore",
+    "nbttag": "{ExtraAttributes:{id:\"MANGCORE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/logs/stacked/mangcore\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7§oMangroves' finest gift, a shard\",3:\"§7§oechoing with tales of brine and\",4:\"§7§obristle.\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Mangcore\"}}",
     "damage": 0,
     "lore": [
       "§8Collection Item",
@@ -51306,12 +52566,12 @@
       "§7§oechoing with tales of brine and",
       "§7§obristle.",
       "",
-      "§5§lEPIC"
+      "§9§lRARE"
     ],
     "internalname": "MANGCORE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mangcore"
@@ -51459,12 +52719,15 @@
   },
   "MANGROVE_VINE": {
     "itemid": "minecraft:skull",
-    "displayname": "§9Mangrove Vine",
-    "nbttag": "{ExtraAttributes:{id:\"MANGROVE_VINE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"43502fd1-93bf-35d3-b82e-f6f58e4aca8c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"LPOYn08K8RCP3NkHv6/HjdQw+9Tgj3K+Mtd/cG4mnkVh74eDLlQWSdgXhccLS6NEdSji/wgPOQ3c4MhR2Sal0JUQuH8eyCRbRbympkHV0PNjTNf7bWcYiWjNUo8J11pgME2UwRkGiCgE3qWwDl/2I86DSqimeP7CO/4Va1zLezmfNTRLXnEI8BdKXfxzyDJnKpUumxy0gMl5Xq0lWQrKq9iNDMRWyvXGlvzXnPwdK08o9o1vzAI5RdMwlr8VGO71jsY9o4C4MkXL9ASSeZdT7cqffQLThufG4BQueQNGNYO7jTrJYPWPg5I9+NPJ947f2Es4s1uXAhnuhZhVUf7Q/8V7HIsJSNy4Ub03dpvVMIkuKiUhNU1QRIJJ1jqAeoys4Yj4tfeI4EMimeEcWYekfnqosPq0AAACysMnglqKmL2i3sTF1ByJlq7r2W1NN5JhYlrMR1RevUBLL/g6r7EpVqo6uqBR5g9HBBdhsT/E8YKuIQ2e5BzirDAAR1+xluZHTpuO0KiA0wDwh0uYvJI4OwDQQhdpBWEKvQD/TfNkq4uJ3fBsEBlBdMyUqvl3a80pr3tEZHpChr6evO4is/CN7Z5+NDSvWPaV6hCQyND9jDjFC1K8BY6a1iR9aiYIClNlfUuQvDdsTg0VGOZuKyI7c1hsGyeEO+ugD0o97AReGeE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjM4MjEwNiwKICAicHJvZmlsZUlkIiA6ICI0NWRjNjlmYTIzNjE0OTdkYTQ3ZTI3MTg0ZGE2ZDlkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZXNzeTE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNWQxMGI2NjIxZWQxNGZiMmFiYzQ2NzJjZWY0YTk2YmQwYjFkY2RiZTYwYjQyMGRlZWNlNWZmNDZhYzg3NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Sweep: §2+1\",1:\"§7Foraging Fortune: §6+5\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 12§c.\",7:\"§9§lRARE BELT\"],Name:\"§9Mangrove Vine\"}}",
+    "displayname": "§9Moonglade Belt",
+    "nbttag": "{ExtraAttributes:{id:\"MANGROVE_VINE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"43502fd1-93bf-35d3-b82e-f6f58e4aca8c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"LPOYn08K8RCP3NkHv6/HjdQw+9Tgj3K+Mtd/cG4mnkVh74eDLlQWSdgXhccLS6NEdSji/wgPOQ3c4MhR2Sal0JUQuH8eyCRbRbympkHV0PNjTNf7bWcYiWjNUo8J11pgME2UwRkGiCgE3qWwDl/2I86DSqimeP7CO/4Va1zLezmfNTRLXnEI8BdKXfxzyDJnKpUumxy0gMl5Xq0lWQrKq9iNDMRWyvXGlvzXnPwdK08o9o1vzAI5RdMwlr8VGO71jsY9o4C4MkXL9ASSeZdT7cqffQLThufG4BQueQNGNYO7jTrJYPWPg5I9+NPJ947f2Es4s1uXAhnuhZhVUf7Q/8V7HIsJSNy4Ub03dpvVMIkuKiUhNU1QRIJJ1jqAeoys4Yj4tfeI4EMimeEcWYekfnqosPq0AAACysMnglqKmL2i3sTF1ByJlq7r2W1NN5JhYlrMR1RevUBLL/g6r7EpVqo6uqBR5g9HBBdhsT/E8YKuIQ2e5BzirDAAR1+xluZHTpuO0KiA0wDwh0uYvJI4OwDQQhdpBWEKvQD/TfNkq4uJ3fBsEBlBdMyUqvl3a80pr3tEZHpChr6evO4is/CN7Z5+NDSvWPaV6hCQyND9jDjFC1K8BY6a1iR9aiYIClNlfUuQvDdsTg0VGOZuKyI7c1hsGyeEO+ugD0o97AReGeE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNjM4MjEwNiwKICAicHJvZmlsZUlkIiA6ICI0NWRjNjlmYTIzNjE0OTdkYTQ3ZTI3MTg0ZGE2ZDlkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZXNzeTE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmNWQxMGI2NjIxZWQxNGZiMmFiYzQ2NzJjZWY0YTk2YmQwYjFkY2RiZTYwYjQyMGRlZWNlNWZmNDZhYzg3NWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Sweep: §2+1\",1:\"§7Foraging Fortune: §6+5\",2:\"\",3:\"§7Grants §a+5% §7more points towards\",4:\"§dStarlyn Contests§7.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires §aForaging Skill 12§c.\",10:\"§9§lRARE BELT\"],Name:\"§9Moonglade Belt\"}}",
     "damage": 3,
     "lore": [
       "§7Sweep: §2+1",
       "§7Foraging Fortune: §6+5",
+      "",
+      "§7Grants §a+5% §7more points towards",
+      "§dStarlyn Contests§7.",
       "",
       "§eRight-click to equip!",
       "",
@@ -51475,7 +52738,7 @@
     "internalname": "MANGROVE_VINE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mangrove_Vine"
@@ -52241,9 +53504,9 @@
     }
   },
   "MEDIUM_FISHING_NET": {
-    "itemid": "minecraft:web",
+    "itemid": "minecraft:paper",
     "displayname": "§9Medium Fishing Net",
-    "nbttag": "{ExtraAttributes:{id:\"MEDIUM_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/medium_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+25\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+50%\",11:\"\",12:\"§9§lRARE FISHING NET\"],Name:\"§9Medium Fishing Net\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MEDIUM_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/medium_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+25\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+50%\",11:\"\",12:\"§6Ability: Grab \",13:\"§7Grants §d+2.5 Hunting Fortune §7on\",14:\"§9Water Shards §7caught with this net.\",15:\"\",16:\"§9§lRARE FISHING NET\"],Name:\"§9Medium Fishing Net\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -52257,6 +53520,10 @@
       "§8Cooldown: §a0.5s",
       "",
       "§7Throw Distance: §a+50%",
+      "",
+      "§6Ability: Grab ",
+      "§7Grants §d+2.5 Hunting Fortune §7on",
+      "§9Water Shards §7caught with this net.",
       "",
       "§9§lRARE FISHING NET"
     ],
@@ -52655,7 +53922,7 @@
     ],
     "internalname": "MEDIUM_SCAFFOLDING",
     "clickcommand": "",
-    "crafttext": "",
+    "crafttext": "Requires: Fig Log III",
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
@@ -55722,14 +56989,14 @@
   "MURKWATER_TRAVEL_SCROLL": {
     "itemid": "minecraft:map",
     "displayname": "§9Travel Scroll to Murkwater Loch",
-    "nbttag": "{ExtraAttributes:{id:\"MURKWATER_TRAVEL_SCROLL\"},HideFlags:254,ItemModel:\"minecraft:map\",display:{Lore:[0:\"§7Consume this item to add its\",1:\"§7destination to your Fast Travel\",2:\"§7options.\",3:\"\",4:\"§7Island: §aGalatea\",5:\"§7Teleport: §eMurkwater Loch\",6:\"\",7:\"§9§lRARE TRAVEL SCROLL\"],Name:\"§9Travel Scroll to Murkwater Loch\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MURKWATER_TRAVEL_SCROLL\"},HideFlags:254,ItemModel:\"minecraft:map\",display:{Lore:[0:\"§7Consume this item to add its\",1:\"§7destination to your Fast Travel\",2:\"§7options.\",3:\"\",4:\"§7Island: §aMoonglade Marsh\",5:\"§7Teleport: §eMurkwater Loch\",6:\"\",7:\"§9§lRARE TRAVEL SCROLL\"],Name:\"§9Travel Scroll to Murkwater Loch\"}}",
     "damage": 0,
     "lore": [
       "§7Consume this item to add its",
       "§7destination to your Fast Travel",
       "§7options.",
       "",
-      "§7Island: §aGalatea",
+      "§7Island: §aMoonglade Marsh",
       "§7Teleport: §eMurkwater Loch",
       "",
       "§9§lRARE TRAVEL SCROLL"
@@ -55737,7 +57004,7 @@
     "internalname": "MURKWATER_TRAVEL_SCROLL",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_Murkwater_Loch"
@@ -59801,14 +61068,13 @@
   "OCEANDY": {
     "itemid": "minecraft:paper",
     "displayname": "§9Oceandy",
-    "nbttag": "{ExtraAttributes:{id:\"OCEANDY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/salts/oceandy\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants you a §a+1.375% §7chance to\",3:\"§7charm the §aSea Creatures §7you defeat\",4:\"§7and capture their §9Shards§7.\",5:\"§7Duration: §612h\",6:\"\",7:\"§eLeft-click to consume!\",8:\"\",9:\"§9§lRARE SALT\"],Name:\"§9Oceandy\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OCEANDY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/salts/oceandy\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants §b1.25❣ Charm Chance §7towards\",3:\"§aSea Creatures§7.\",4:\"§7Duration: §612h\",5:\"\",6:\"§eLeft-click to consume!\",7:\"\",8:\"§9§lRARE SALT\"],Name:\"§9Oceandy\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
       "",
-      "§7Grants you a §a+1.375% §7chance to",
-      "§7charm the §aSea Creatures §7you defeat",
-      "§7and capture their §9Shards§7.",
+      "§7Grants §b1.25❣ Charm Chance §7towards",
+      "§aSea Creatures§7.",
       "§7Duration: §612h",
       "",
       "§eLeft-click to consume!",
@@ -59818,7 +61084,7 @@
     "internalname": "OCEANDY",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Oceandy"
@@ -65793,14 +67059,12 @@
   "PRIME_LUSHLILAC_BONBON": {
     "itemid": "minecraft:paper",
     "displayname": "§aPrime Lushlilac Bonbon",
-    "nbttag": "{ExtraAttributes:{id:\"PRIME_LUSHLILAC_BONBON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/salts/prime_lushlilac_bonbon\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants you a §a+0.825% §7chance to\",3:\"§7charm the mobs you defeat and\",4:\"§7capture their §9Shards§7.\",5:\"§7Duration: §618h\",6:\"\",7:\"§eLeft-click to consume!\",8:\"\",9:\"§a§lUNCOMMON SALT\"],Name:\"§aPrime Lushlilac Bonbon\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIME_LUSHLILAC_BONBON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/salts/prime_lushlilac_bonbon\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants §b0.75❣ Charm Chance§7.\",3:\"§7Duration: §618h\",4:\"\",5:\"§eLeft-click to consume!\",6:\"\",7:\"§a§lUNCOMMON SALT\"],Name:\"§aPrime Lushlilac Bonbon\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
       "",
-      "§7Grants you a §a+0.825% §7chance to",
-      "§7charm the mobs you defeat and",
-      "§7capture their §9Shards§7.",
+      "§7Grants §b0.75❣ Charm Chance§7.",
       "§7Duration: §618h",
       "",
       "§eLeft-click to consume!",
@@ -65810,7 +67074,7 @@
     "internalname": "PRIME_LUSHLILAC_BONBON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Prime_Lushlilac_Bonbon"
@@ -71314,10 +72578,10 @@
   "RESPIRATION_ARTIFACT": {
     "itemid": "minecraft:skull",
     "displayname": "§9Respiration Artifact",
-    "nbttag": "{ExtraAttributes:{id:\"RESPIRATION_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9236ea7c-cf83-335f-8f6e-21234cf505c0\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DNd3IFGhK2jReRniGc/dx7XMz+SIl5URihfApRGQv8qjGnDI3cBYW1H1/NXewjwmZd74FH/5ljMUdMnXsmqLBEl4HI76ANO0FJMhfA5WrNdL+CrJ6UBJWdZNa7jHxspYRispwcP4Xd42p/cjOc8IkixEbSRLuxvK9qpx1NQoPoY5oEQrMq70DPrKtc1SvIvpx2kgRNYjwFAz0Gk+EUe/Sc2TWZHRBaSbyRRsDAndsocAcDP2tbdYdh5G7Yk974DHUBY4uIo+WVADsrFr7jAdx+izgZU0Cut30XKYW5CveCSxX6Q7aRDgXB8dcAJIA2E6fSrMq9BrCu68huOzqILxs2fadhs6FJwGlL6N8wZLBT6hXEt+RHYU/eUWKBiqo8Sa5rkOiqUJ/zcfsx9g4FTkaxayFfsJ8AFCWMHcfDtfd6YnrGb2vpSyVPhisivN/ZhHwUq2P1C+gqEdwoSPuYaXFqCdf6581onWLa2SeIcenrgTTTsKcdliY3s5buzAT2hjvfXb9tBUSMD25JdgHsvsBA+/PI5Ki4JJehytTHZJXMr5vFQ9T6Jd2fajoOmM1jU0zd4lLt16SZXCbp60FXtWukWC5xuTnckdxYpxcg1LTuRkqsk3XuTg8gKZCToP37njmfa67/gOeAu/b2d6ekx4tOzlk0s9q4l6bd/w8UMaL8c=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDU1OTQ5NSwKICAicHJvZmlsZUlkIiA6ICIwMTIxYzFjZDUxOTM0M2NmYWM4YzgyZThiNjVjYTFjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfVmV4X1RWIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhZjgzOWMxYmZhYTg4YWVmZTY1YTBhNzk5ZjRmMzJjZjM2NjY3ZDlmZTBlN2Y5ZmMyMDBiMzMwNjk3MjZmNzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Respiration: §3+30\",1:\"§7Accessory Power: §6+8\",2:\"\",3:\"§7You hold your breath as you enter\",4:\"§7the Rift, allowing you to delay loss of\",5:\"§7Rift Time by §630 §7seconds.\",6:\"\",7:\"§5§kX§5 Rift-Transferable §5§kX\",8:\"§8Works while in Accessory Bag!\",9:\"§9§lRARE ACCESSORY\"],Name:\"§9Respiration Artifact\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RESPIRATION_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9236ea7c-cf83-335f-8f6e-21234cf505c0\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DNd3IFGhK2jReRniGc/dx7XMz+SIl5URihfApRGQv8qjGnDI3cBYW1H1/NXewjwmZd74FH/5ljMUdMnXsmqLBEl4HI76ANO0FJMhfA5WrNdL+CrJ6UBJWdZNa7jHxspYRispwcP4Xd42p/cjOc8IkixEbSRLuxvK9qpx1NQoPoY5oEQrMq70DPrKtc1SvIvpx2kgRNYjwFAz0Gk+EUe/Sc2TWZHRBaSbyRRsDAndsocAcDP2tbdYdh5G7Yk974DHUBY4uIo+WVADsrFr7jAdx+izgZU0Cut30XKYW5CveCSxX6Q7aRDgXB8dcAJIA2E6fSrMq9BrCu68huOzqILxs2fadhs6FJwGlL6N8wZLBT6hXEt+RHYU/eUWKBiqo8Sa5rkOiqUJ/zcfsx9g4FTkaxayFfsJ8AFCWMHcfDtfd6YnrGb2vpSyVPhisivN/ZhHwUq2P1C+gqEdwoSPuYaXFqCdf6581onWLa2SeIcenrgTTTsKcdliY3s5buzAT2hjvfXb9tBUSMD25JdgHsvsBA+/PI5Ki4JJehytTHZJXMr5vFQ9T6Jd2fajoOmM1jU0zd4lLt16SZXCbp60FXtWukWC5xuTnckdxYpxcg1LTuRkqsk3XuTg8gKZCToP37njmfa67/gOeAu/b2d6ekx4tOzlk0s9q4l6bd/w8UMaL8c=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDU1OTQ5NSwKICAicHJvZmlsZUlkIiA6ICIwMTIxYzFjZDUxOTM0M2NmYWM4YzgyZThiNjVjYTFjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfVmV4X1RWIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhZjgzOWMxYmZhYTg4YWVmZTY1YTBhNzk5ZjRmMzJjZjM2NjY3ZDlmZTBlN2Y5ZmMyMDBiMzMwNjk3MjZmNzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Respiration: §3+15\",1:\"§7Accessory Power: §6+8\",2:\"\",3:\"§7You hold your breath as you enter\",4:\"§7the Rift, allowing you to delay loss of\",5:\"§7Rift Time by §630 §7seconds.\",6:\"\",7:\"§5§kX§5 Rift-Transferable §5§kX\",8:\"§8Works while in Accessory Bag!\",9:\"§9§lRARE ACCESSORY\"],Name:\"§9Respiration Artifact\"}}",
     "damage": 3,
     "lore": [
-      "§7Respiration: §3+30",
+      "§7Respiration: §3+15",
       "§7Accessory Power: §6+8",
       "",
       "§7You hold your breath as you enter",
@@ -71331,7 +72595,7 @@
     "internalname": "RESPIRATION_ARTIFACT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Respiration_Artifact"
@@ -71356,10 +72620,10 @@
   "RESPIRATION_RING": {
     "itemid": "minecraft:skull",
     "displayname": "§aRespiration Ring",
-    "nbttag": "{ExtraAttributes:{id:\"RESPIRATION_RING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c9a13f39-2755-3e94-a2be-54f2e26df743\",Properties:{textures:[0:{Name:\"textures\",Signature:\"RdGbgRl0jNJ8la7Y/Oo0YVPZDfGGcZ9PnEAasxK8ptL7SRcgt5AbWShBkOZj5Ds92bcE6u6Sq8Og2PFWip3gQMhc1ZhkqqbowhJL/taP/GH9eahsmIPGEj1DMfWUScWOwWWa9bHXHaN4nBEjiQnKB42wvKPPq0Pn/rppOjJG/tLFq+mJ3L1i5MScCMTiV0i428fFYTs0GPAm7fyxd3zjYl39izTEnIbslqx0mocSVpwRUsLFj7E8aS0XrdWyMrxeY6m2K9D5DJxgKkaXw0F+wOAYIHFyL3/q/Sn0V74++8j6t3RnyHsUdhUbPn26v0sO2mGOkX3q3FpqHaswopTgbwRm49oaBt85uxev+foX1fsrvL9jCqeTh+jan1KGLNG94udhEUVykxazvaZiz4aUcNlKAd6zbfdyPJOOX5a5QpsnpT4IM/b5PyZzUYCMQ+Q6CQfW4PDEu5tFxu2r+bICqA/uH1tqjSCfhgYGjCNuMo9eDEy0pa3r/lE5aWp34jhRVmjYq/eriJms5FNagDly+IKSGhhAn0fot7zYiNALrygrteJ4YKEGfA2gPfWd0rx0pFqwPjTbs+F0eHRNPqFrLwaqyOQVt4PoXca1xSIpdh1eaJvWXXi6Pax4ktZ8uGB/2m/CUMkzgdhPMjjsAv6RXo4Fa8G4bLO1X/vA96WUs1I=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDUyMTgwOCwKICAicHJvZmlsZUlkIiA6ICI2MDJiNzM0ZDcyZjI0YWI3ODFhYmEyODdlMGU5ZTk5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0Q29yb25hIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFjMjhiZGY2MTY1YjU5N2ExYjc2NTY5MmFiOGNkMDIzMzUyNTRlYjI1OGJjNWU5MWNlNjE4MzZiNTZmZWNiOTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Respiration: §3+20\",1:\"§7Accessory Power: §6+5\",2:\"\",3:\"§7You hold your breath as you enter\",4:\"§7the Rift, allowing you to delay loss of\",5:\"§7Rift Time by §620 §7seconds.\",6:\"\",7:\"§5§kX§5 Rift-Transferable §5§kX\",8:\"§8Works while in Accessory Bag!\",9:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aRespiration Ring\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RESPIRATION_RING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c9a13f39-2755-3e94-a2be-54f2e26df743\",Properties:{textures:[0:{Name:\"textures\",Signature:\"RdGbgRl0jNJ8la7Y/Oo0YVPZDfGGcZ9PnEAasxK8ptL7SRcgt5AbWShBkOZj5Ds92bcE6u6Sq8Og2PFWip3gQMhc1ZhkqqbowhJL/taP/GH9eahsmIPGEj1DMfWUScWOwWWa9bHXHaN4nBEjiQnKB42wvKPPq0Pn/rppOjJG/tLFq+mJ3L1i5MScCMTiV0i428fFYTs0GPAm7fyxd3zjYl39izTEnIbslqx0mocSVpwRUsLFj7E8aS0XrdWyMrxeY6m2K9D5DJxgKkaXw0F+wOAYIHFyL3/q/Sn0V74++8j6t3RnyHsUdhUbPn26v0sO2mGOkX3q3FpqHaswopTgbwRm49oaBt85uxev+foX1fsrvL9jCqeTh+jan1KGLNG94udhEUVykxazvaZiz4aUcNlKAd6zbfdyPJOOX5a5QpsnpT4IM/b5PyZzUYCMQ+Q6CQfW4PDEu5tFxu2r+bICqA/uH1tqjSCfhgYGjCNuMo9eDEy0pa3r/lE5aWp34jhRVmjYq/eriJms5FNagDly+IKSGhhAn0fot7zYiNALrygrteJ4YKEGfA2gPfWd0rx0pFqwPjTbs+F0eHRNPqFrLwaqyOQVt4PoXca1xSIpdh1eaJvWXXi6Pax4ktZ8uGB/2m/CUMkzgdhPMjjsAv6RXo4Fa8G4bLO1X/vA96WUs1I=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDUyMTgwOCwKICAicHJvZmlsZUlkIiA6ICI2MDJiNzM0ZDcyZjI0YWI3ODFhYmEyODdlMGU5ZTk5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGF0Q29yb25hIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFjMjhiZGY2MTY1YjU5N2ExYjc2NTY5MmFiOGNkMDIzMzUyNTRlYjI1OGJjNWU5MWNlNjE4MzZiNTZmZWNiOTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Respiration: §3+10\",1:\"§7Accessory Power: §6+5\",2:\"\",3:\"§7You hold your breath as you enter\",4:\"§7the Rift, allowing you to delay loss of\",5:\"§7Rift Time by §620 §7seconds.\",6:\"\",7:\"§5§kX§5 Rift-Transferable §5§kX\",8:\"§8Works while in Accessory Bag!\",9:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aRespiration Ring\"}}",
     "damage": 3,
     "lore": [
-      "§7Respiration: §3+20",
+      "§7Respiration: §3+10",
       "§7Accessory Power: §6+5",
       "",
       "§7You hold your breath as you enter",
@@ -71373,7 +72637,7 @@
     "internalname": "RESPIRATION_RING",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Respiration_Ring"
@@ -71398,10 +72662,10 @@
   "RESPIRATION_TALISMAN": {
     "itemid": "minecraft:skull",
     "displayname": "§fRespiration Talisman",
-    "nbttag": "{ExtraAttributes:{id:\"RESPIRATION_TALISMAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fdc1a7f6-2c48-330a-bc67-5e23b4824bc6\",Properties:{textures:[0:{Name:\"textures\",Signature:\"me8MQ65/OtN0PdscBEh3Gg8ShoL7RB8F3bgcKFR+7I9l5i6tcRIxe+3s15X5DhCQsHpbF0f84lZMoJR2EA0M0mRXcNCwqzABxMlLmg1dk04JHccEuT1FtSiBSpZMHo7hzCzsZGrp1C3fTq40EvVGMioPH8RChn08K6pwMqVb5OF9FX5N4crsPYcaxsMwouTh1VI27DZI7w5nUPp+vGa8WEZ1w4J202HDJ6APZEKem0FJFAe0ElmeLV/XjiLy7GdjPqbw2ge3tSYuNplVruj8/DI5o6sH4Z/glihtrRt6nmZGRlmgbhUqwsezh6jscIBAh0YdJ5jt/t1AgLeBfsjgYRSWax9gh1VJTRHQMYnhVNgRAnoAb/heFLkllpcLJf2O2TGJI9ecu04+tPFZn+Pcd9/JnCW+kx1eOTFrcN1i3R+zEG2w7VmBhnc/leDUBTyt8i8KnXm4ZH/4Q7RdRj+68Whm5cHGZNGtsjwxXdGPVEvWEKHIyLVVRe2NcPzFrk76vuJOIItLPeYDIVfL019QpFoyMocquMzrK28iD9wIwxuyLuwNWMp6ELK8KsOqPdU2gcRIrXHYJDRuN2MwwP0i9lAN/SQDmSB5mbPRNb8Kq66XjzgnXwsqYIaSW/cWxP1MWpO+XXddjlhkIFgHd7Lg7spmbTrId4rbyTarTnvfkzc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDQ4OTAxMSwKICAicHJvZmlsZUlkIiA6ICI1NjQ4ZTA1Njg4NWU0NGQyYTVhYTBkYmVkMjZhZmFlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaX2ZseSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmM2MjcyN2RhYmQ1NWRmODk3Yzc0MDk0YmUxYzUxYmI1ZDJkNGFiNmM0Mjg2ZGYyMmY0MDgzMGRmNTAxN2Y0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Respiration: §3+10\",1:\"§7Accessory Power: §6+3\",2:\"\",3:\"§7You hold your breath as you enter\",4:\"§7the Rift, allowing you to delay loss of\",5:\"§7Rift Time by §610 §7seconds.\",6:\"\",7:\"§5§kX§5 Rift-Transferable §5§kX\",8:\"§8Works while in Accessory Bag!\",9:\"§f§lCOMMON ACCESSORY\"],Name:\"§fRespiration Talisman\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RESPIRATION_TALISMAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fdc1a7f6-2c48-330a-bc67-5e23b4824bc6\",Properties:{textures:[0:{Name:\"textures\",Signature:\"me8MQ65/OtN0PdscBEh3Gg8ShoL7RB8F3bgcKFR+7I9l5i6tcRIxe+3s15X5DhCQsHpbF0f84lZMoJR2EA0M0mRXcNCwqzABxMlLmg1dk04JHccEuT1FtSiBSpZMHo7hzCzsZGrp1C3fTq40EvVGMioPH8RChn08K6pwMqVb5OF9FX5N4crsPYcaxsMwouTh1VI27DZI7w5nUPp+vGa8WEZ1w4J202HDJ6APZEKem0FJFAe0ElmeLV/XjiLy7GdjPqbw2ge3tSYuNplVruj8/DI5o6sH4Z/glihtrRt6nmZGRlmgbhUqwsezh6jscIBAh0YdJ5jt/t1AgLeBfsjgYRSWax9gh1VJTRHQMYnhVNgRAnoAb/heFLkllpcLJf2O2TGJI9ecu04+tPFZn+Pcd9/JnCW+kx1eOTFrcN1i3R+zEG2w7VmBhnc/leDUBTyt8i8KnXm4ZH/4Q7RdRj+68Whm5cHGZNGtsjwxXdGPVEvWEKHIyLVVRe2NcPzFrk76vuJOIItLPeYDIVfL019QpFoyMocquMzrK28iD9wIwxuyLuwNWMp6ELK8KsOqPdU2gcRIrXHYJDRuN2MwwP0i9lAN/SQDmSB5mbPRNb8Kq66XjzgnXwsqYIaSW/cWxP1MWpO+XXddjlhkIFgHd7Lg7spmbTrId4rbyTarTnvfkzc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc0NjcwMDQ4OTAxMSwKICAicHJvZmlsZUlkIiA6ICI1NjQ4ZTA1Njg4NWU0NGQyYTVhYTBkYmVkMjZhZmFlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaX2ZseSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmM2MjcyN2RhYmQ1NWRmODk3Yzc0MDk0YmUxYzUxYmI1ZDJkNGFiNmM0Mjg2ZGYyMmY0MDgzMGRmNTAxN2Y0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Respiration: §3+5\",1:\"§7Accessory Power: §6+3\",2:\"\",3:\"§7You hold your breath as you enter\",4:\"§7the Rift, allowing you to delay loss of\",5:\"§7Rift Time by §610 §7seconds.\",6:\"\",7:\"§5§kX§5 Rift-Transferable §5§kX\",8:\"§8Works while in Accessory Bag!\",9:\"§f§lCOMMON ACCESSORY\"],Name:\"§fRespiration Talisman\"}}",
     "damage": 3,
     "lore": [
-      "§7Respiration: §3+10",
+      "§7Respiration: §3+5",
       "§7Accessory Power: §6+3",
       "",
       "§7You hold your breath as you enter",
@@ -90089,7 +91353,7 @@
     ],
     "internalname": "TINY_SCAFFOLDING",
     "clickcommand": "",
-    "crafttext": "",
+    "crafttext": "Requires: Fig Log I",
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
@@ -90953,6 +92217,164 @@
       "C3": ""
     }
   },
+  "TORRHUS_BELT": {
+    "itemid": "minecraft:paper",
+    "displayname": "§5Torrhus Belt",
+    "nbttag": "{ExtraAttributes:{id:\"TORRHUS_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/equipment/torrhus_belt\",display:{Lore:[0:\"§7Sweep: §2+2\",1:\"§7Foraging Fortune: §6+10\",2:\"\",3:\"§7Grants §a+10% §7more points towards\",4:\"§dStarlyn Contests§7.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires §aForaging Skill 24§c.\",10:\"§5§lEPIC BELT\"],Name:\"§5Torrhus Belt\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Sweep: §2+2",
+      "§7Foraging Fortune: §6+10",
+      "",
+      "§7Grants §a+10% §7more points towards",
+      "§dStarlyn Contests§7.",
+      "",
+      "§eRight-click to equip!",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aForaging Skill 24§c.",
+      "§5§lEPIC BELT"
+    ],
+    "internalname": "TORRHUS_BELT",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Torrhus_Belt"
+    ],
+    "recipes": [
+      {
+        "A1": "HELIXIS:1",
+        "A2": "BOTTLED_MISCHIEF:16",
+        "A3": "HELIXIS:1",
+        "B1": "ENCHANTED_RUBY_VEILSHROOM:8",
+        "B2": "MANGROVE_VINE:1",
+        "B3": "ENCHANTED_RUBY_VEILSHROOM:8",
+        "C1": "ENCHANTED_RUBY_VEILSHROOM:8",
+        "C2": "ENCHANTED_RUBY_VEILSHROOM:8",
+        "C3": "ENCHANTED_RUBY_VEILSHROOM:8",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "TORRHUS_BELT"
+      }
+    ]
+  },
+  "TORRHUS_CANYON_PORTAL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fPortal to the Torrhus Canyon",
+    "nbttag": "{ExtraAttributes:{id:\"TORRHUS_CANYON_PORTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"16a18c08-cead-319e-832a-439f9b473c9e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oEZMmqR1wp0/ySqrv1wFEGc9HxxoG0NSFsj+x0cJTdELNHMHzPGrIEwyBrqH/JBh1G08WjjY9PTSHyBVFXgNh1uJvLJOq+ktK5wTu8LkppFLs6Q6V0c/5TqytKn6cIHc72fQk/LazTOko7re/VGp+nAueyzesZE+A4ApU9X7hOjXPA4e9AY0y8im+JEZsBKAf4Kqnnhrv+stx7vxglQtdez1thtJqGJH4DDv/m39UDhd7Ao9vUFtzYalV508HhOeJjrWvWmeYgXvDo1zYrDJKNH7QsEjZhNYC5UUmsCI5yJeyZ7lnOui+m1r2HWIaT863ezNEIfecqMiH0pDxChHzoRM1YiGZ3TcfqHwo0F/LO4gH1caAfm21OKMNa9gxH/05S4PrM4zT/OhneBpv8t9pTOYHMakpYWWEF3SDv1qii20RA5pJ7/0bRNAY1SBYwVRjML62MsbWQX0UPSH/dJ1kOGU3e2eXUY40rmqJqrhL7ogmXq/5HA2tggGrjcXVSt97DydQ56PeanwKyOxgg4dbrTfO2nyTptVT9uR15dHxIE24WyU+NzEQLE9Wu1kULXWCJ5kKtWj43j1dMkGCMCRBBF/VHHA//9qQM01DwXbal+0CKZEx7IooOr6M5+38A1JJrd89MYvOhK5Q2AWkAvQyxG+GnLwbvOrAbfZB5RnAb0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NTI3ODgzODYxNywKICAicHJvZmlsZUlkIiA6ICJiYTllNWY4YTc0Yzg0MzQ5YjY3ZTg2MzBlMDRmMTI2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbW9ndXNwYWRvdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYzNiZTBjNmE1YTZmY2E3N2I0NTA0YzJjZjkzNTlkYTgzNTE2Y2Y1ODA4NjQyZjQ0MDdiYTEyZmU5NDA3NDY0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Placing this item on your private\",1:\"§7island will create a portal to\",2:\"§6Torrhus Canyon§7 for you to use\",3:\"§7whenever you want!\",4:\"\",5:\"§8The portal will spawn facing you on\",6:\"§8the block you click on.\",7:\"\",8:\"§f§lCOMMON PORTAL\"],Name:\"§fPortal to the Torrhus Canyon\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Placing this item on your private",
+      "§7island will create a portal to",
+      "§6Torrhus Canyon§7 for you to use",
+      "§7whenever you want!",
+      "",
+      "§8The portal will spawn facing you on",
+      "§8the block you click on.",
+      "",
+      "§f§lCOMMON PORTAL"
+    ],
+    "internalname": "TORRHUS_CANYON_PORTAL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "ENCHANTED_HELIX_LOG:1",
+        "A2": "ENCHANTED_HELIX_LOG:1",
+        "A3": "ENCHANTED_HELIX_LOG:1",
+        "B1": "ENCHANTED_HELIX_LOG:1",
+        "B2": "ENCHANTED_ENDER_PEARL:16",
+        "B3": "ENCHANTED_HELIX_LOG:1",
+        "C1": "ENCHANTED_HELIX_LOG:1",
+        "C2": "ENCHANTED_HELIX_LOG:1",
+        "C3": "ENCHANTED_HELIX_LOG:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "TORRHUS_CANYON_PORTAL"
+      }
+    ]
+  },
+  "TORRHUS_CANYON_TRAVEL_SCROLL": {
+    "itemid": "minecraft:map",
+    "displayname": "§9Travel Scroll to Torrhus Canyon",
+    "nbttag": "{ExtraAttributes:{id:\"TORRHUS_CANYON_TRAVEL_SCROLL\"},HideFlags:254,ItemModel:\"minecraft:map\",display:{Lore:[0:\"§7Consume this item to add its\",1:\"§7destination to your Fast Travel\",2:\"§7options.\",3:\"\",4:\"§7Island: §aTorrhus Canyon\",5:\"§7Teleport: §eSpawn\",6:\"\",7:\"§9§lRARE TRAVEL SCROLL\"],Name:\"§9Travel Scroll to Torrhus Canyon\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Consume this item to add its",
+      "§7destination to your Fast Travel",
+      "§7options.",
+      "",
+      "§7Island: §aTorrhus Canyon",
+      "§7Teleport: §eSpawn",
+      "",
+      "§9§lRARE TRAVEL SCROLL"
+    ],
+    "internalname": "TORRHUS_CANYON_TRAVEL_SCROLL",
+    "clickcommand": "",
+    "crafttext": "Requires: Helix Log I",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "HELIX_LOG:64",
+        "A2": "HELIX_LOG:64",
+        "A3": "HELIX_LOG:64",
+        "B1": "HELIX_LOG:64",
+        "B2": "ENCHANTED_ENDER_PEARL:16",
+        "B3": "HELIX_LOG:64",
+        "C1": "HELIX_LOG:64",
+        "C2": "HELIX_LOG:64",
+        "C3": "HELIX_LOG:64",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "TORRHUS_CANYON_TRAVEL_SCROLL"
+      }
+    ]
+  },
+  "TORRHUS_SPRINGS_TRAVEL_SCROLL": {
+    "itemid": "minecraft:map",
+    "displayname": "§9Travel Scroll to Torrhus Springs",
+    "nbttag": "{ExtraAttributes:{id:\"TORRHUS_SPRINGS_TRAVEL_SCROLL\"},HideFlags:254,ItemModel:\"minecraft:map\",display:{Lore:[0:\"§7Consume this item to add its\",1:\"§7destination to your Fast Travel\",2:\"§7options.\",3:\"\",4:\"§7Island: §aTorrhus Canyon\",5:\"§7Teleport: §eTorrhus Springs\",6:\"\",7:\"§9§lRARE TRAVEL SCROLL\"],Name:\"§9Travel Scroll to Torrhus Springs\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Consume this item to add its",
+      "§7destination to your Fast Travel",
+      "§7options.",
+      "",
+      "§7Island: §aTorrhus Canyon",
+      "§7Teleport: §eTorrhus Springs",
+      "",
+      "§9§lRARE TRAVEL SCROLL"
+    ],
+    "internalname": "TORRHUS_SPRINGS_TRAVEL_SCROLL",
+    "clickcommand": "",
+    "crafttext": "Requires: Ruby Veilshroom I",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "RUBY_VEILSHROOM:16",
+        "A2": "RUBY_VEILSHROOM:16",
+        "A3": "RUBY_VEILSHROOM:16",
+        "B1": "RUBY_VEILSHROOM:16",
+        "B2": "ENCHANTED_ENDER_PEARL:16",
+        "B3": "RUBY_VEILSHROOM:16",
+        "C1": "RUBY_VEILSHROOM:16",
+        "C2": "RUBY_VEILSHROOM:16",
+        "C3": "RUBY_VEILSHROOM:16",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "TORRHUS_SPRINGS_TRAVEL_SCROLL"
+      }
+    ]
+  },
   "TOTEM_OF_CORRUPTION": {
     "itemid": "minecraft:banner",
     "displayname": "§aTotem of Corruption",
@@ -91220,7 +92642,7 @@
     ],
     "internalname": "TREECAPITATOR_AXE",
     "clickcommand": "",
-    "crafttext": "",
+    "crafttext": "Requires: Jungle Log VII",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
@@ -91450,9 +92872,9 @@
     ]
   },
   "TURBO_FISHING_NET": {
-    "itemid": "minecraft:web",
+    "itemid": "minecraft:paper",
     "displayname": "§5Turbo Fishing Net",
-    "nbttag": "{ExtraAttributes:{id:\"TURBO_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/turbo_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+50\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+100%\",11:\"\",12:\"§5§lEPIC FISHING NET\"],Name:\"§5Turbo Fishing Net\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TURBO_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/turbo_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+50\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+100%\",11:\"\",12:\"§6Ability: Haul \",13:\"§7Grants §d+5 Hunting Fortune §7on\",14:\"§9Water Shards §7caught with this net.\",15:\"\",16:\"§5§lEPIC FISHING NET\"],Name:\"§5Turbo Fishing Net\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -91466,6 +92888,10 @@
       "§8Cooldown: §a0.5s",
       "",
       "§7Throw Distance: §a+100%",
+      "",
+      "§6Ability: Haul ",
+      "§7Grants §d+5 Hunting Fortune §7on",
+      "§9Water Shards §7caught with this net.",
       "",
       "§5§lEPIC FISHING NET"
     ],
@@ -93063,6 +94489,88 @@
       "C3": ""
     }
   },
+  "VEILSHROOM_BRACELET": {
+    "itemid": "minecraft:paper",
+    "displayname": "§5Veilshroom Bracelet",
+    "nbttag": "{ExtraAttributes:{id:\"VEILSHROOM_BRACELET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/equipment/veilshroom_bracelet\",display:{Lore:[0:\"§7Sweep: §2+5\",1:\"§7Foraging Fortune: §6+25\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 30§c.\",7:\"§5§lEPIC BRACELET\"],Name:\"§5Veilshroom Bracelet\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Sweep: §2+5",
+      "§7Foraging Fortune: §6+25",
+      "",
+      "§eRight-click to equip!",
+      "",
+      "§8This item can be reforged!",
+      "§4❣ §cRequires §aForaging Skill 30§c.",
+      "§5§lEPIC BRACELET"
+    ],
+    "internalname": "VEILSHROOM_BRACELET",
+    "clickcommand": "",
+    "crafttext": "Requires: Ruby Veilshroom IX",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Veilshroom_Bracelet"
+    ],
+    "recipes": [
+      {
+        "A1": "HELIXIS:2",
+        "A2": "",
+        "A3": "HELIXIS:2",
+        "B1": "VEILSHROOM_BUNCH:1",
+        "B2": "MANGROVE_GRIPPERS:1",
+        "B3": "VEILSHROOM_BUNCH:1",
+        "C1": "",
+        "C2": "VIAL_OF_SPRING_WATER:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "VEILSHROOM_BRACELET"
+      }
+    ]
+  },
+  "VEILSHROOM_BUNCH": {
+    "itemid": "minecraft:paper",
+    "displayname": "§9Veilshroom Bunch",
+    "nbttag": "{ExtraAttributes:{id:\"VEILSHROOM_BUNCH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/resources/veilshroom_bunch\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A bouquet of ruby veilshrooms. The\",3:\"§7heat emanating from them can be felt\",4:\"§7even through the wrapping - best to\",5:\"§7handle with care.\",6:\"\",7:\"§eRight-click to view recipes!\",8:\"\",9:\"§9§lRARE\"],Name:\"§9Veilshroom Bunch\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Collection Item",
+      "",
+      "§7A bouquet of ruby veilshrooms. The",
+      "§7heat emanating from them can be felt",
+      "§7even through the wrapping - best to",
+      "§7handle with care.",
+      "",
+      "§eRight-click to view recipes!",
+      "",
+      "§9§lRARE"
+    ],
+    "internalname": "VEILSHROOM_BUNCH",
+    "clickcommand": "",
+    "crafttext": "Requires: Ruby Veilshroom VI",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Veilshroom_Bunch"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "ENCHANTED_RUBY_VEILSHROOM:32",
+        "A3": "",
+        "B1": "ENCHANTED_RUBY_VEILSHROOM:32",
+        "B2": "ENCHANTED_RUBY_VEILSHROOM:32",
+        "B3": "ENCHANTED_RUBY_VEILSHROOM:32",
+        "C1": "",
+        "C2": "ENCHANTED_RUBY_VEILSHROOM:32",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "VEILSHROOM_BUNCH"
+      }
+    ]
+  },
   "VENATOR_GENESIS": {
     "itemid": "minecraft:golden_axe",
     "displayname": "§fWorn Huntaxe - Genesis",
@@ -93259,7 +94767,7 @@
   "VINERIP_LASSO": {
     "itemid": "minecraft:lead",
     "displayname": "§aVinerip Lasso",
-    "nbttag": "{ExtraAttributes:{id:\"VINERIP_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/vinerip_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§7Creatures lose stamina §220% §7faster.\",13:\"\",14:\"§a§lUNCOMMON LASSO\"],Name:\"§aVinerip Lasso\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"VINERIP_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/vinerip_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§a Critters §7lose stamina §220% §7faster.\",13:\"\",14:\"§a§lUNCOMMON LASSO\"],Name:\"§aVinerip Lasso\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -93274,7 +94782,7 @@
       "§7Lasso each time their §9stamina",
       "§7depletes.",
       "",
-      "§7Creatures lose stamina §220% §7faster.",
+      "§a Critters §7lose stamina §220% §7faster.",
       "",
       "§a§lUNCOMMON LASSO"
     ],
@@ -96562,14 +98070,15 @@
   "WOOD_TALISMAN": {
     "itemid": "minecraft:skull",
     "displayname": "§aWood Affinity Talisman",
-    "nbttag": "{ExtraAttributes:{id:\"WOOD_TALISMAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"821b06d8-0efd-39b6-be38-11120d348b9a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"IWJ2xBfhCOcn4q/1AYv16C2YuOQHbm25/bLAxeUk3z2rIZy/bGUsg40u/AnIbgC1pWZfjt8F2pTfDHuRC+ezjjfxhpGWaWLoOrCrOD+WWbMexzvidBT0EUsSwJOGztVM32gmRkIclMH2/h8A4/GzwUXaSYIp02SxRjTwUAwaJUG1MQimlE+xht3nIgMvAKzwkTW34yD7lvOrc909JOdAprQsmF1geCe1oDcI0DP7VDTO9rMy+lFgkaanL2zYncTRM/DyvqDaTfHkpgPuURF+gmZyleKEaY6+9xnw038qO5S3U1IfbAUuW01ybQU40aPdx9yJTOZlw32+3v9/Xnv6CfPHfOysiS1KjKxjDghLaxV1wQyMrqmPmHX8XPgc39ErqzGnmfUuUwsBzxsnPy1ASNfVOtzn/7eyfaHDvgowD39mKrwGn74hJCQOLwYXtwUqTg6E7KLOcm7KvPo9PtuG0H4axt3uyDxC5PK3+dsQNgnPF+1QnHabPcTIFkPYWqfZ2LZTXNLIk3EHkEE1tk2AGBJ2kj7v5nNi3x35XaeEIrlNOp1cX1P/67nWoT+hfgmKdC0Zhen2rad3mDyPHQTfVcQ9WsuzZnScZE0nXBqbiGp8N4HlkAeBbqpmY9TFswAXLZST4+z4NFPUhuhGdJPH2taC1ocn4Vn56e/99d4YRJs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzY3NTE4NiwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkwN2E5MTM0NzFhNWJiYmI0YzBhN2YyMzNkNzhjMjc2MjhjZjBlNTE2YTJmYjQ2MzYwY2QwZTM3MGM1MDgzNDUiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Increases your §f Speed §7by §a+10\",3:\"§7while held in the §2Forest§7, §cGraveyard§7,\",4:\"§2Wilderness§7, §aThe Park§7, and §2Galatea§7.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aWood Affinity Talisman\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WOOD_TALISMAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"821b06d8-0efd-39b6-be38-11120d348b9a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"IWJ2xBfhCOcn4q/1AYv16C2YuOQHbm25/bLAxeUk3z2rIZy/bGUsg40u/AnIbgC1pWZfjt8F2pTfDHuRC+ezjjfxhpGWaWLoOrCrOD+WWbMexzvidBT0EUsSwJOGztVM32gmRkIclMH2/h8A4/GzwUXaSYIp02SxRjTwUAwaJUG1MQimlE+xht3nIgMvAKzwkTW34yD7lvOrc909JOdAprQsmF1geCe1oDcI0DP7VDTO9rMy+lFgkaanL2zYncTRM/DyvqDaTfHkpgPuURF+gmZyleKEaY6+9xnw038qO5S3U1IfbAUuW01ybQU40aPdx9yJTOZlw32+3v9/Xnv6CfPHfOysiS1KjKxjDghLaxV1wQyMrqmPmHX8XPgc39ErqzGnmfUuUwsBzxsnPy1ASNfVOtzn/7eyfaHDvgowD39mKrwGn74hJCQOLwYXtwUqTg6E7KLOcm7KvPo9PtuG0H4axt3uyDxC5PK3+dsQNgnPF+1QnHabPcTIFkPYWqfZ2LZTXNLIk3EHkEE1tk2AGBJ2kj7v5nNi3x35XaeEIrlNOp1cX1P/67nWoT+hfgmKdC0Zhen2rad3mDyPHQTfVcQ9WsuzZnScZE0nXBqbiGp8N4HlkAeBbqpmY9TFswAXLZST4+z4NFPUhuhGdJPH2taC1ocn4Vn56e/99d4YRJs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwMjAzNzY3NTE4NiwKICAicHJvZmlsZUlkIiA6ICI0OWIzODUyNDdhMWY0NTM3YjBmN2MwZTFmMTVjMTc2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiY2QyMDMzYzYzZWM0YmY4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkwN2E5MTM0NzFhNWJiYmI0YzBhN2YyMzNkNzhjMjc2MjhjZjBlNTE2YTJmYjQ2MzYwY2QwZTM3MGM1MDgzNDUiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Increases your §f Speed §7by §a+10\",3:\"§7while held in the §2Forest§7, §cGraveyard§7,\",4:\"§2Wilderness§7, §aThe Park§7, §2Moonglade\",5:\"§2Marsh§7, and §6Torrhus Canyon§7.\",6:\"\",7:\"§8Works while in Accessory Bag!\",8:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aWood Affinity Talisman\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+5",
       "",
       "§7Increases your §f Speed §7by §a+10",
       "§7while held in the §2Forest§7, §cGraveyard§7,",
-      "§2Wilderness§7, §aThe Park§7, and §2Galatea§7.",
+      "§2Wilderness§7, §aThe Park§7, §2Moonglade",
+      "§2Marsh§7, and §6Torrhus Canyon§7.",
       "",
       "§8Works while in Accessory Bag!",
       "§a§lUNCOMMON ACCESSORY"
@@ -96577,7 +98086,7 @@
     "internalname": "WOOD_TALISMAN",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Oak Log VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wood_Affinity_Talisman"
