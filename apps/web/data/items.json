@@ -1502,8 +1502,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Acacia_Minion"
+    ]
   },
   "ACACIA_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -2747,7 +2749,7 @@
   "AGATHA_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Agatha (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"AGATHA_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"629b5a82-a6cc-22e7-bbc4-f3dd680cb1e1\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGQyMTgwZTRiZDE1M2NiNDliYTQ5MDYwOTg2MDRjMTc4NThlYTQ1MTZmZmJmMDRjZmU1MGZlYWU0YmU0NzZmMiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI2MjliNWE4MmE2Y2MyMmU3YmJjNGYzZGQ2ODBjYjFlMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUwNjk0MjY2MTQ1fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Agatha (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"AGATHA_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b1545830-5007-2cfe-abc0-c2a2b8d01bb0\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjUwYjEzNjE2OGYzNzA4YzBjY2E2ZjQyZDE0MDQ2NWMzYTFhNDQ3YTJlNDI1ZWM0NWU3ODhjNWM3OTIwZDM2NSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiMTU0NTgzMDUwMDcyY2ZlYWJjMGMyYTJiOGQwMWJiMCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg1OTQxMDY5NzA1fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Agatha (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
@@ -2755,7 +2757,7 @@
     "internalname": "AGATHA_NPC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Agatha"
@@ -27135,8 +27137,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Birch_Minion"
+    ]
   },
   "BIRCH_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -55555,8 +55559,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Dark_Oak_Minion"
+    ]
   },
   "DARK_OAK_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -129195,8 +129201,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Jungle_Minion"
+    ]
   },
   "JUNGLE_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -162312,8 +162320,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Oak_Minion"
+    ]
   },
   "OAK_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -164415,6 +164425,25 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Odger"
     ]
+  },
+  "OEN_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Oen (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"OEN_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1e558769-1f86-27e7-8e5e-32fc341add1a\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWYwZDNmNzJjZDEwYmIwZGM0NzkwYWZlMjc4MjdkYjNjZTM4NzE4Y2I0YjM0YmY3ZDM1OTMwZjkxYjg4MGNlNiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIxZTU1ODc2OTFmODYyN2U3OGU1ZTMyZmMzNDFhZGQxYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg1OTM5NTU0MjYxfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Oen (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "OEN_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "island": "foraging_3",
+    "x": -567,
+    "y": 80,
+    "z": 271
   },
   "OFFEA_NPC": {
     "itemid": "minecraft:skull",
@@ -174898,8 +174927,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Foraging_Exp_Boost"
+    ]
   },
   "PET_ITEM_FORAGING_SKILL_BOOST_UNCOMMON": {
     "itemid": "minecraft:iron_axe",
@@ -174926,8 +174957,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Foraging_Exp_Boost"
+    ]
   },
   "PET_ITEM_HARDENED_SCALES_UNCOMMON": {
     "itemid": "minecraft:prismarine_crystals",
@@ -240769,8 +240802,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Spruce_Minion"
+    ]
   },
   "SPRUCE_GENERATOR_2": {
     "itemid": "minecraft:skull",
