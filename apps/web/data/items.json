@@ -15086,6 +15086,32 @@
     "infoType": "",
     "info": []
   },
+  "ATTRIBUTE_SHARD_MIRACLE_CHANCE;1": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Rainbug Shard",
+    "nbttag": "{ExtraAttributes:{attributes:{miracle_chance:1},id:\"ATTRIBUTE_SHARD_MIRACLE_CHANCE;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5b0fd92c-08d3-306d-8948-b9062e27945f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oiZTHuA5dtfnKO80Pof5TLYBdg32598pmNYBvq7CDsprvLkcJ7iJeHklEvJgtml9A7Fk2qPpN0dTw1TKwZlnrP+9TGwVrPIzUDnCzvdrDebjsT9StD2pa1FzSQZycMSi8ODraEfbqERtKbds4TBxEXD+8HoOHqAyDsL0221uy1MW08znDLz7AQqQWrpBKWH3kHySVfCuxArX9HSDM632aM2lqUShhKTvUBd+rZ4u3dZtBjpnUJjwNmFXvrCF71aWBPP3H20HI2/p9e0oWMF11JWQEDq6F/9hP5Du7muUf0DGYUFvDVoqxkOiIeWMll9RBLm7Xbs/BW7uYdANIxk0y0ykDogAyXoOoQQW2Q4gOlBCaM9T2HKJkXADe5Bc8SOVSqM7w4vhvdpr31MGeTkCikvY7vU+7xsWgJIpa0J3iXvxcR7tqgtwuazEtEWcap2FXVFCybDgnUhAR8ct8uZR5yi1oFmY8JNaoKtvAO7D1zXvhgNqgZ7supz3PRABhd3yaWhJZSWrA0SbOGG56gPMNRkFm87A06LmjkbRrywu1Js3ooLv8DFE3FxVimaFEfKRYAZfFU+I/ELLqSM9LfoicAL/jm3eaFKvYC10i+HrZHewt2tM+5yfHV3D+09a6GANBBtWJMI/AxLaCBsx/WBErtk3hSkchX0RNMJkmfI8r+4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NzM3NDA1MCwKICAicHJvZmlsZUlkIiA6ICI2NGRiNmMwNTliOTk0OTM2YTY0M2QwODEwODE0ZmJkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVTaWx2ZXJEcmVhbXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUxOGU2ZDI0OWVhY2E4ZmQwNThiN2VmNzBkODhjZjVjMmY2YjBjMmNmYTQ0ZDMwMWI2ZjA3MDg0N2NlOTg2NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Miracle Chance I\",1:\"§7Increases your chance of finding\",2:\"§cD§6y§ee§as§7 by §a+0.1%§7.\",3:\"\",4:\"§7You can Syphon this shard from\",5:\"§7your §aHunting Box§7.\",6:\"\",7:\"§eRight-click to send to Hunting Box!\",8:\"§eShift Right-click to move all!\",9:\"\",10:\"§4❣ §cRequires §aHunting Skill 20§c.\",11:\"§6§lLEGENDARY FOREST SHARD §8(ID L49)\"],Name:\"§6Rainbug Shard\"}}",
+    "damage": 3,
+    "lore": [
+      "§6Miracle Chance I",
+      "§7Increases your chance of finding",
+      "§cD§6y§ee§as§7 by §a+0.1%§7.",
+      "",
+      "§7You can Syphon this shard from",
+      "§7your §aHunting Box§7.",
+      "",
+      "§eRight-click to send to Hunting Box!",
+      "§eShift Right-click to move all!",
+      "",
+      "§4❣ §cRequires §aHunting Skill 20§c.",
+      "§6§lLEGENDARY FOREST SHARD §8(ID L49)"
+    ],
+    "internalname": "ATTRIBUTE_SHARD_MIRACLE_CHANCE;1",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": []
+  },
   "ATTRIBUTE_SHARD_MITE_SPAWNER;1": {
     "itemid": "minecraft:skull",
     "displayname": "§aHoneymite Shard",
@@ -19701,7 +19727,7 @@
   "BAL;4": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §6Bal",
-    "nbttag": "{ExtraAttributes:{id:\"BAL;4\",petInfo:\"{\\\"type\\\":\\\"BAL\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"704396fb-e7f0-3a33-bb57-d9bd34d6c7c9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"gLT2YG794cKXdlovo6bt9j6ybRg8cVKzEvqfaFzuUvvmgxV3csTBMBvKh1l54Ni0BvnHqrobpZXg5Qz8hvINx4sKrYKX21eqNjOXnYX4zOUUNw3e1YIvWypsMJLptyAQsz+WBYPOt+snF3wghG2H6YiExthieynitZOuDwrkfPU4RNzaptaL7oc75XIuzjiNDL1w//zkv4USKV2PmMDPiRbExTpCczEOQDCM0cewtTJc7FTEOxFL6/waSAhS7eEPcBp1s9iFX2+InrGSlOpVRNsMWVwRVWzOzEN55J2lXslFVoZjSrY8GpNksj3JNfCZ4J7LSd0tRrMVftH96eTgiGr/xGm8Posipjqd23zPD39ayP1MiWq6LxsS1XluYpEBVRnTIQ0gAsu4zZT1twlzHaa/mNYaXCmsfqcOE/V1zimZ95uQEassLUPGt0uYy9zXvMe48v211ucMQLQYQYe25ecpyebm+ozXUROzMQbFG3OWevlb5L72/QD6pSJc1Q/qlik6kMkRQAslgiKQBpLxYk7j1ID8HH9nqRWCiGqimS6+qn9rrzkb2liMSvW9nYHa4yvZsEM+OgYUnlC16e7Ntnjs+D4YOih+yeMpIh8zIWt62mbb26HTUMyymrJaF409veTC42Der24Jgvme/apbZjrxtYH3PoqxgvgSbp2e+hU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDM3NTcwNjg0MywKICAicHJvZmlsZUlkIiA6ICIwNWQ0NTNiZWE0N2Y0MThiOWI2ZDUzODg0MWQxMDY2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY2hvcnJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M0NjliYTIwNDcxMjJlMGEyZGUzYzc0MzdhZDNkZDVkMzFmMWFjMmQyN2FiZGU5Zjg4NDFlMWQ5MmE4YzViNzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Mining Pet\",1:\"\",2:\"§7Heat Resistance: §c+{HEAT_RESISTANCE}\",3:\"§7Mining Fortune: §6+{MINING_FORTUNE}\",4:\"\",5:\"§6Furnace\",6:\"§7Grants §5+{0}✧ Pristine §7while in the\",7:\"§cMagma Fields§7.\",8:\"\",9:\"§6Dispersion\",10:\"§7While in the §5Crystal Hollows§7, killing\",11:\"§7mobs reduces your §c Heat §7by §c{1}§7.\",12:\"\",13:\"§6Chimney\",14:\"§7Reduce Pickaxe Ability cooldowns by\",15:\"§a{2}%§7.\",16:\"\",17:\"§eRight-click to add this pet to your pet menu!\",18:\"\",19:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Bal\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BAL;4\",petInfo:\"{\\\"type\\\":\\\"BAL\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"704396fb-e7f0-3a33-bb57-d9bd34d6c7c9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"gLT2YG794cKXdlovo6bt9j6ybRg8cVKzEvqfaFzuUvvmgxV3csTBMBvKh1l54Ni0BvnHqrobpZXg5Qz8hvINx4sKrYKX21eqNjOXnYX4zOUUNw3e1YIvWypsMJLptyAQsz+WBYPOt+snF3wghG2H6YiExthieynitZOuDwrkfPU4RNzaptaL7oc75XIuzjiNDL1w//zkv4USKV2PmMDPiRbExTpCczEOQDCM0cewtTJc7FTEOxFL6/waSAhS7eEPcBp1s9iFX2+InrGSlOpVRNsMWVwRVWzOzEN55J2lXslFVoZjSrY8GpNksj3JNfCZ4J7LSd0tRrMVftH96eTgiGr/xGm8Posipjqd23zPD39ayP1MiWq6LxsS1XluYpEBVRnTIQ0gAsu4zZT1twlzHaa/mNYaXCmsfqcOE/V1zimZ95uQEassLUPGt0uYy9zXvMe48v211ucMQLQYQYe25ecpyebm+ozXUROzMQbFG3OWevlb5L72/QD6pSJc1Q/qlik6kMkRQAslgiKQBpLxYk7j1ID8HH9nqRWCiGqimS6+qn9rrzkb2liMSvW9nYHa4yvZsEM+OgYUnlC16e7Ntnjs+D4YOih+yeMpIh8zIWt62mbb26HTUMyymrJaF409veTC42Der24Jgvme/apbZjrxtYH3PoqxgvgSbp2e+hU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDM3NTcwNjg0MywKICAicHJvZmlsZUlkIiA6ICIwNWQ0NTNiZWE0N2Y0MThiOWI2ZDUzODg0MWQxMDY2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY2hvcnJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M0NjliYTIwNDcxMjJlMGEyZGUzYzc0MzdhZDNkZDVkMzFmMWFjMmQyN2FiZGU5Zjg4NDFlMWQ5MmE4YzViNzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Mining Pet\",1:\"\",2:\"§7Heat Resistance: §c+{HEAT_RESISTANCE}\",3:\"§7Mining Fortune: §6+{MINING_FORTUNE}\",4:\"\",5:\"§6Furnace\",6:\"§7Grants §5+{0}✧ Pristine §7while in the\",7:\"§cMagma Fields§7.\",8:\"\",9:\"§6Dispersion\",10:\"§7While in the §5Crystal Hollows§7, killing\",11:\"§7mobs reduces your §c Heat §7by §c{1}§7.\",12:\"\",13:\"§6Cannibal\",14:\"§7Increases damage dealt to §c§lBal §7by\",15:\"§a{2}%§7.\",16:\"\",17:\"§eRight-click to add this pet to your pet menu!\",18:\"\",19:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Bal\"}}",
     "damage": 3,
     "lore": [
       "§8Mining Pet",
@@ -19717,8 +19743,8 @@
       "§7While in the §5Crystal Hollows§7, killing",
       "§7mobs reduces your §c Heat §7by §c{1}§7.",
       "",
-      "§6Chimney",
-      "§7Reduce Pickaxe Ability cooldowns by",
+      "§6Cannibal",
+      "§7Increases damage dealt to §c§lBal §7by",
       "§a{2}%§7.",
       "",
       "§eRight-click to add this pet to your pet menu!",
@@ -52621,7 +52647,7 @@
   "CROW;0": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §fCrow",
-    "nbttag": "{ExtraAttributes:{id:\"CROW;0\",petInfo:\"{\\\"type\\\":\\\"CROW\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e89856ca-6810-3a7d-acdb-3351773416ae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Intelligence: §b+{INTELLIGENCE}\",3:\"§7Ability Damage: §c+{ABILITY_DAMAGE}\",4:\"\",5:\"§6Quick Hands\",6:\"§7Lowers the cooldown of your\",7:\"§7abilities by §a{0}§7.\",8:\"\",9:\"§eRight-click to add this pet to your pet menu!\",10:\"\",11:\"§8Can be upgraded at Kat in The Hub!\",12:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fCrow\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CROW;0\",petInfo:\"{\\\"type\\\":\\\"CROW\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e89856ca-6810-3a7d-acdb-3351773416ae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Intelligence: §b+{INTELLIGENCE}\",3:\"§7Ability Damage: §c+{ABILITY_DAMAGE}\",4:\"\",5:\"§6Quick Hands\",6:\"§7Lowers the cooldown of your §cWeapon\",7:\"§7abilities by §a{0}§7.\",8:\"\",9:\"§eRight-click to add this pet to your pet menu!\",10:\"\",11:\"§8Can be upgraded at Kat in The Hub!\",12:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fCrow\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -52630,7 +52656,7 @@
       "§7Ability Damage: §c+{ABILITY_DAMAGE}",
       "",
       "§6Quick Hands",
-      "§7Lowers the cooldown of your",
+      "§7Lowers the cooldown of your §cWeapon",
       "§7abilities by §a{0}§7.",
       "",
       "§eRight-click to add this pet to your pet menu!",
@@ -52666,7 +52692,7 @@
   "CROW;1": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §aCrow",
-    "nbttag": "{ExtraAttributes:{id:\"CROW;1\",petInfo:\"{\\\"type\\\":\\\"CROW\\\",\\\"tier\\\":\\\"UNCOMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e89856ca-6810-3a7d-acdb-3351773416ae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Intelligence: §b+{INTELLIGENCE}\",3:\"§7Ability Damage: §c+{ABILITY_DAMAGE}\",4:\"\",5:\"§6Quick Hands\",6:\"§7Lowers the cooldown of your\",7:\"§7abilities by §a{0}§7.\",8:\"\",9:\"§eRight-click to add this pet to your pet menu!\",10:\"\",11:\"§8Can be upgraded at Kat in The Hub!\",12:\"§a§lUNCOMMON\"],Name:\"§7[Lvl {LVL}] §aCrow\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CROW;1\",petInfo:\"{\\\"type\\\":\\\"CROW\\\",\\\"tier\\\":\\\"UNCOMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e89856ca-6810-3a7d-acdb-3351773416ae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Intelligence: §b+{INTELLIGENCE}\",3:\"§7Ability Damage: §c+{ABILITY_DAMAGE}\",4:\"\",5:\"§6Quick Hands\",6:\"§7Lowers the cooldown of your §cWeapon\",7:\"§7abilities by §a{0}§7.\",8:\"\",9:\"§eRight-click to add this pet to your pet menu!\",10:\"\",11:\"§8Can be upgraded at Kat in The Hub!\",12:\"§a§lUNCOMMON\"],Name:\"§7[Lvl {LVL}] §aCrow\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -52675,7 +52701,7 @@
       "§7Ability Damage: §c+{ABILITY_DAMAGE}",
       "",
       "§6Quick Hands",
-      "§7Lowers the cooldown of your",
+      "§7Lowers the cooldown of your §cWeapon",
       "§7abilities by §a{0}§7.",
       "",
       "§eRight-click to add this pet to your pet menu!",
@@ -52707,7 +52733,7 @@
   "CROW;2": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §9Crow",
-    "nbttag": "{ExtraAttributes:{id:\"CROW;2\",petInfo:\"{\\\"type\\\":\\\"CROW\\\",\\\"tier\\\":\\\"RARE\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e89856ca-6810-3a7d-acdb-3351773416ae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Intelligence: §b+{INTELLIGENCE}\",3:\"§7Ability Damage: §c+{ABILITY_DAMAGE}\",4:\"\",5:\"§6Quick Hands\",6:\"§7Lowers the cooldown of your\",7:\"§7abilities by §a{0}§7.\",8:\"\",9:\"§6Camouflage\",10:\"§7After casting an ability, increase\",11:\"§7your §a❈ Defense §7by §a{1} §7for §b20\",12:\"§bseconds§7.\",13:\"§8Capped at 500 Defense\",14:\"\",15:\"§eRight-click to add this pet to your pet menu!\",16:\"\",17:\"§8Can be upgraded at Kat in The Hub!\",18:\"§9§lRARE\"],Name:\"§7[Lvl {LVL}] §9Crow\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CROW;2\",petInfo:\"{\\\"type\\\":\\\"CROW\\\",\\\"tier\\\":\\\"RARE\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e89856ca-6810-3a7d-acdb-3351773416ae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Intelligence: §b+{INTELLIGENCE}\",3:\"§7Ability Damage: §c+{ABILITY_DAMAGE}\",4:\"\",5:\"§6Quick Hands\",6:\"§7Lowers the cooldown of your §cWeapon\",7:\"§7abilities by §a{0}§7.\",8:\"\",9:\"§6Camouflage\",10:\"§7After casting an ability, increase\",11:\"§7your §a❈ Defense §7by §a{1} §7for §b20\",12:\"§bseconds§7.\",13:\"§8Capped at 500 Defense\",14:\"\",15:\"§eRight-click to add this pet to your pet menu!\",16:\"\",17:\"§8Can be upgraded at Kat in The Hub!\",18:\"§9§lRARE\"],Name:\"§7[Lvl {LVL}] §9Crow\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -52716,7 +52742,7 @@
       "§7Ability Damage: §c+{ABILITY_DAMAGE}",
       "",
       "§6Quick Hands",
-      "§7Lowers the cooldown of your",
+      "§7Lowers the cooldown of your §cWeapon",
       "§7abilities by §a{0}§7.",
       "",
       "§6Camouflage",
@@ -52755,7 +52781,7 @@
   "CROW;3": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §5Crow",
-    "nbttag": "{ExtraAttributes:{id:\"CROW;3\",petInfo:\"{\\\"type\\\":\\\"CROW\\\",\\\"tier\\\":\\\"EPIC\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e89856ca-6810-3a7d-acdb-3351773416ae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Intelligence: §b+{INTELLIGENCE}\",3:\"§7Ability Damage: §c+{ABILITY_DAMAGE}\",4:\"\",5:\"§6Quick Hands\",6:\"§7Lowers the cooldown of your\",7:\"§7abilities by §a{0}§7.\",8:\"\",9:\"§6Camouflage\",10:\"§7After casting an ability, increase\",11:\"§7your §a❈ Defense §7by §a{1} §7for §b20\",12:\"§bseconds§7.\",13:\"§8Capped at 500 Defense\",14:\"\",15:\"§eRight-click to add this pet to your pet menu!\",16:\"\",17:\"§8Can be upgraded at Kat in The Hub!\",18:\"§5§lEPIC\"],Name:\"§7[Lvl {LVL}] §5Crow\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CROW;3\",petInfo:\"{\\\"type\\\":\\\"CROW\\\",\\\"tier\\\":\\\"EPIC\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e89856ca-6810-3a7d-acdb-3351773416ae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Intelligence: §b+{INTELLIGENCE}\",3:\"§7Ability Damage: §c+{ABILITY_DAMAGE}\",4:\"\",5:\"§6Quick Hands\",6:\"§7Lowers the cooldown of your §cWeapon\",7:\"§7abilities by §a{0}§7.\",8:\"\",9:\"§6Camouflage\",10:\"§7After casting an ability, increase\",11:\"§7your §a❈ Defense §7by §a{1} §7for §b20\",12:\"§bseconds§7.\",13:\"§8Capped at 500 Defense\",14:\"\",15:\"§eRight-click to add this pet to your pet menu!\",16:\"\",17:\"§8Can be upgraded at Kat in The Hub!\",18:\"§5§lEPIC\"],Name:\"§7[Lvl {LVL}] §5Crow\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -52764,7 +52790,7 @@
       "§7Ability Damage: §c+{ABILITY_DAMAGE}",
       "",
       "§6Quick Hands",
-      "§7Lowers the cooldown of your",
+      "§7Lowers the cooldown of your §cWeapon",
       "§7abilities by §a{0}§7.",
       "",
       "§6Camouflage",
@@ -52803,7 +52829,7 @@
   "CROW;4": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §6Crow",
-    "nbttag": "{ExtraAttributes:{id:\"CROW;4\",petInfo:\"{\\\"type\\\":\\\"CROW\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e89856ca-6810-3a7d-acdb-3351773416ae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Intelligence: §b+{INTELLIGENCE}\",3:\"§7Ability Damage: §c+{ABILITY_DAMAGE}\",4:\"\",5:\"§6Quick Hands\",6:\"§7Lowers the cooldown of your\",7:\"§7abilities by §a{0}§7.\",8:\"\",9:\"§6Camouflage\",10:\"§7After casting an ability, increase\",11:\"§7your §a❈ Defense §7by §a{1} §7for §b20\",12:\"§bseconds§7.\",13:\"§8Capped at 500 Defense\",14:\"\",15:\"§6Insightful\",16:\"§7Gives a §a{2} §7chance to not consume\",17:\"§7Mana when using an ability.\",18:\"\",19:\"§eRight-click to add this pet to your pet menu!\",20:\"\",21:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Crow\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CROW;4\",petInfo:\"{\\\"type\\\":\\\"CROW\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e89856ca-6810-3a7d-acdb-3351773416ae\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eTRbR+M7Ij+R3u5G7hUW/psh/0XLXmxVEwfR9qpEyNaoJKeCKxtG8Kp7OlUTclDvvS4n9EkkY1V4l8GNujlcWYhlzsVn80+kAgvIB2AJJ/ZblqZe/oC190wTg85hLGw4IM+fek2szRNU3fa62Jp+4cfMkAVEfXMqn0eH9bMLb7hk6DgymfSQxbsEH7YBmsecMd7G/uVii26dVgHyLpTPKNMjHS0kCYvVw1h3d4vWVqSOHjo5DZ153CCiqXTZF4XPTuuaCqkCYQ7iAiy0uNgt4IhyWR8xxlnysm2lmiYNFqddZq5WTOXtoZwHgT8guG/wXbpkB9+JssSvLQx08D/SiOIiU+AQWyJZKvnMULu2qYAiwQOwXNqZkbp55rCq+fZfma8KVtulcnqh+OSafkZHxXsbuWZ78PurVP+6e79PWHUjq2k4kqOUGevIeeQcpmYzVtVGcp9GXnTBbPjwbPu3X201F1XOui6b6GxNbt7nPwZetiVBQ53iC0/o3o50G3jtMPJawrp8JSPtTaGUoMtoXPEfXwfPrIHznWmc3DdtRlQ6xZthujytm2gpzERZNdbXcwRKtA+i6jc2mRNl82Tm1C+wB8fjeDtXkzSQ3wgPtIpHIo9C19CJMxJ1sjUKgJAUXe6JE21Xuks3kZf8OnYKDwbnx9Z1qNhnZthDkTJh/Es=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MjgwMjExODUxMCwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMzFlN2UxYzYxNDYzOWJiYzk1YTBkODFmZjdlNWY3ZjYwNmQ5YjMzMTE1Y2YyYmYyYTQwY2RjYmJiNTMxMzI0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Intelligence: §b+{INTELLIGENCE}\",3:\"§7Ability Damage: §c+{ABILITY_DAMAGE}\",4:\"\",5:\"§6Quick Hands\",6:\"§7Lowers the cooldown of your §cWeapon\",7:\"§7abilities by §a{0}§7.\",8:\"\",9:\"§6Camouflage\",10:\"§7After casting an ability, increase\",11:\"§7your §a❈ Defense §7by §a{1} §7for §b20\",12:\"§bseconds§7.\",13:\"§8Capped at 500 Defense\",14:\"\",15:\"§6Insightful\",16:\"§7Gives a §a{2} §7chance to not consume\",17:\"§7Mana when using an ability.\",18:\"\",19:\"§eRight-click to add this pet to your pet menu!\",20:\"\",21:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Crow\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -52812,7 +52838,7 @@
       "§7Ability Damage: §c+{ABILITY_DAMAGE}",
       "",
       "§6Quick Hands",
-      "§7Lowers the cooldown of your",
+      "§7Lowers the cooldown of your §cWeapon",
       "§7abilities by §a{0}§7.",
       "",
       "§6Camouflage",
@@ -114048,7 +114074,7 @@
     ]
   },
   "HELIX_CHOPPER": {
-    "itemid": "minecraft:paper",
+    "itemid": "minecraft:stone_axe",
     "displayname": "§5Helix Chopper",
     "nbttag": "{ExtraAttributes:{id:\"HELIX_CHOPPER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/axes/helix_chopper\",display:{Lore:[0:\"§7Damage: §c+75\",1:\"§7Strength: §c+25\",2:\"§7Sweep: §2+50\",3:\"§7Foraging Fortune: §6+50\",4:\"§7Gemstones: §8[] []\",5:\"\",6:\"§6Ability: Mega Frenzy \",7:\"§7Gains §21 Sweep §7every §a20,000 Logs\",8:\"§7cut on §2Galatea§7. §8(max 40)\",9:\"§7Current Bonus: §2+0\",10:\"§7Next Upgrade: §2+1 §8(§a0§7/§c20,000§8)\",11:\"\",12:\"§7Logs Cut: §b0\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires §aForaging Skill 20§c.\",16:\"§5§lEPIC AXE\"],Name:\"§5Helix Chopper\"}}",
     "damage": 0,
@@ -164438,8 +164464,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Oen"
+    ],
     "island": "foraging_3",
     "x": -567,
     "y": 80,
@@ -184442,6 +184470,37 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Santa_Skeleton_Skin"
     ]
+  },
+  "PET_SKIN_SLOTH_TUXEDO": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Plushie Tuxedo Sloth Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_SLOTH_TUXEDO\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"401e39cf-fb53-3517-b7fd-ac616173a65b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"f2g27L/OQpIPFlplHAj0A5QD86FIUVTf+VvjPY+H30OQIZI15bgfojbY8+r5UySbabjatV8su3tTMRUGdYLcOPZiywxjIcJuEMge6+Ofj8Fey9M5tlGgBA5441CuXtqVK2jbBq5f4hPWmxXrPSPtfufokP1EAQJIDVgHvCJMORuFFS2XE+qOMYieFE9gKSTd1x5JwvbnJB9VvaJuT+4X94CglH0IAxP6A5GcS2BX6ICNoQvopzsX+3E4GcXozlv+Z7FiGBeNsfy/gQoTyztKMV4Vp23MqqpvGjjXgGgTzTxLA31t/iL6kr3RWm6qZ7eXVYrfBdcop3IK/wszApuvqk+Cyp9xoyVguZ2WAINOk8ou7lhXG8AcwtDieZvijNWSBeCJTf3ZWdZVWOKkGux97nxyv2FOgf5gu4x6KcNTyIhClxUtfikSGS5O0GuE75ehPDcFZDceDeMlWajc+ADydJy7bAW6t0c4xRILv6k02AWBAbaxmles5HL5SbQ35vXJNVdwfBy3U1IS45aXfW8+9wvX2Be6CzKvseQ3m0N++e+p6+nFChv5JKmEGxi5vBXhRom6hZKkshS4cj6BXj4NGSCkPuftJXih80guqbssVWMLhxnlTsib5IbZoy3gR5IW+tdVe3kKX1qqDNTi/RhhCo9cU49sw6gEUC6s6IenwLE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NTkzNzY3NTAxNSwKICAicHJvZmlsZUlkIiA6ICI1OGZmZWI5NTMxNGQ0ODcwYTQwYjVjYjQyZDRlYTU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luREJuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRjN2I2NTk0OGM1YzIzNmMyMjcxM2NhMDIyOGIyNTczODBhNWViMDQ3YTYwYWFhMDJiN2FlNWM5NTlmZjQ5NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aSloth\",7:\"§7pets.\",8:\"\",9:\"§aThis skin will allow you to swap\",10:\"§abetween 19 tuxedo-wearing plushie\",11:\"§asloths!\",12:\"\",13:\"§eRight-click on your summoned pet to\",14:\"§eapply this skin!\",15:\"\",16:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Plushie Tuxedo Sloth Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to §aSloth",
+      "§7pets.",
+      "",
+      "§aThis skin will allow you to swap",
+      "§abetween 19 tuxedo-wearing plushie",
+      "§asloths!",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "PET_SKIN_SLOTH_TUXEDO",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": []
   },
   "PET_SKIN_SLUG_AZURE_SEA_SLUG": {
     "itemid": "minecraft:skull",
@@ -230772,17 +230831,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Agronomy_Sack"
     ],
-    "recipe": {
-      "A1": "ENCHANTED_WHEAT:16",
-      "A2": "ENCHANTED_WHEAT:16",
-      "A3": "ENCHANTED_WHEAT:16",
-      "B1": "ENCHANTED_WHEAT:16",
-      "B2": "ENCHANTED_LEATHER:1",
-      "B3": "ENCHANTED_WHEAT:16",
-      "C1": "ENCHANTED_WHEAT:16",
-      "C2": "ENCHANTED_WHEAT:16",
-      "C3": "ENCHANTED_WHEAT:16"
-    }
+    "recipes": [
+      {
+        "A1": "ENCHANTED_WHEAT:1",
+        "A2": "ENCHANTED_WHEAT:1",
+        "A3": "ENCHANTED_WHEAT:1",
+        "B1": "ENCHANTED_WHEAT:1",
+        "B2": "BEGINNER_AGRONOMY_SACK:1",
+        "B3": "ENCHANTED_WHEAT:1",
+        "C1": "ENCHANTED_WHEAT:1",
+        "C2": "ENCHANTED_WHEAT:1",
+        "C3": "ENCHANTED_WHEAT:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SMALL_AGRONOMY_SACK"
+      }
+    ]
   },
   "SMALL_BACKPACK": {
     "itemid": "minecraft:skull",
@@ -230804,17 +230868,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Backpack"
     ],
-    "recipe": {
-      "A1": "LEATHER:10",
-      "A2": "LEATHER:10",
-      "A3": "LEATHER:10",
-      "B1": "LEATHER:10",
-      "B2": "",
-      "B3": "LEATHER:10",
-      "C1": "LEATHER:10",
-      "C2": "LEATHER:10",
-      "C3": "LEATHER:10"
-    }
+    "recipes": [
+      {
+        "A1": "LEATHER:10",
+        "A2": "LEATHER:10",
+        "A3": "LEATHER:10",
+        "B1": "LEATHER:10",
+        "B2": "",
+        "B3": "LEATHER:10",
+        "C1": "LEATHER:10",
+        "C2": "LEATHER:10",
+        "C3": "LEATHER:10",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SMALL_BACKPACK"
+      }
+    ]
   },
   "SMALL_BRAIN;3": {
     "itemid": "minecraft:enchanted_book",
@@ -230940,17 +231009,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Combat_Sack"
     ],
-    "recipe": {
-      "A1": "ENCHANTED_ROTTEN_FLESH:2",
-      "A2": "ENCHANTED_ROTTEN_FLESH:2",
-      "A3": "ENCHANTED_ROTTEN_FLESH:2",
-      "B1": "ENCHANTED_ROTTEN_FLESH:2",
-      "B2": "ENCHANTED_LEATHER:1",
-      "B3": "ENCHANTED_ROTTEN_FLESH:2",
-      "C1": "ENCHANTED_ROTTEN_FLESH:2",
-      "C2": "ENCHANTED_ROTTEN_FLESH:2",
-      "C3": "ENCHANTED_ROTTEN_FLESH:2"
-    }
+    "recipes": [
+      {
+        "A1": "ENCHANTED_ROTTEN_FLESH:1",
+        "A2": "ENCHANTED_ROTTEN_FLESH:1",
+        "A3": "ENCHANTED_ROTTEN_FLESH:1",
+        "B1": "ENCHANTED_ROTTEN_FLESH:1",
+        "B2": "BEGINNER_COMBAT_SACK:1",
+        "B3": "ENCHANTED_ROTTEN_FLESH:1",
+        "C1": "ENCHANTED_ROTTEN_FLESH:1",
+        "C2": "ENCHANTED_ROTTEN_FLESH:1",
+        "C3": "ENCHANTED_ROTTEN_FLESH:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SMALL_COMBAT_SACK"
+      }
+    ]
   },
   "SMALL_DRAGON_SACK": {
     "itemid": "minecraft:skull",
@@ -230977,17 +231051,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Dragon_Sack"
     ],
-    "recipe": {
-      "A1": "CRYSTAL_FRAGMENT:2",
-      "A2": "DRAGON_CLAW:1",
-      "A3": "CRYSTAL_FRAGMENT:2",
-      "B1": "DRAGON_CLAW:1",
-      "B2": "ENCHANTED_LEATHER:1",
-      "B3": "DRAGON_CLAW:1",
-      "C1": "CRYSTAL_FRAGMENT:2",
-      "C2": "DRAGON_CLAW:1",
-      "C3": "CRYSTAL_FRAGMENT:2"
-    }
+    "recipes": [
+      {
+        "A1": "CRYSTAL_FRAGMENT:2",
+        "A2": "DRAGON_CLAW:1",
+        "A3": "CRYSTAL_FRAGMENT:2",
+        "B1": "DRAGON_CLAW:1",
+        "B2": "ENCHANTED_LEATHER:1",
+        "B3": "DRAGON_CLAW:1",
+        "C1": "CRYSTAL_FRAGMENT:2",
+        "C2": "DRAGON_CLAW:1",
+        "C3": "CRYSTAL_FRAGMENT:2",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SMALL_DRAGON_SACK"
+      }
+    ]
   },
   "SMALL_ENCHANTED_CHEST": {
     "itemid": "minecraft:chest",
@@ -231013,17 +231092,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Storage"
     ],
-    "recipe": {
-      "A1": "LOG:8",
-      "A2": "LOG:8",
-      "A3": "LOG:8",
-      "B1": "LOG:8",
-      "B2": "",
-      "B3": "LOG:8",
-      "C1": "LOG:8",
-      "C2": "LOG:8",
-      "C3": "LOG:8"
-    }
+    "recipes": [
+      {
+        "A1": "LOG:8",
+        "A2": "LOG:8",
+        "A3": "LOG:8",
+        "B1": "LOG:8",
+        "B2": "",
+        "B3": "LOG:8",
+        "C1": "LOG:8",
+        "C2": "LOG:8",
+        "C3": "LOG:8",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SMALL_ENCHANTED_CHEST"
+      }
+    ]
   },
   "SMALL_FISHING_SACK": {
     "itemid": "minecraft:skull",
@@ -231052,15 +231136,15 @@
     ],
     "recipes": [
       {
-        "A1": "ENCHANTED_PUFFERFISH:2",
-        "A2": "ENCHANTED_PUFFERFISH:2",
-        "A3": "ENCHANTED_PUFFERFISH:2",
-        "B1": "ENCHANTED_PUFFERFISH:2",
-        "B2": "ENCHANTED_LEATHER:1",
-        "B3": "ENCHANTED_PUFFERFISH:2",
-        "C1": "ENCHANTED_PUFFERFISH:2",
-        "C2": "ENCHANTED_PUFFERFISH:2",
-        "C3": "ENCHANTED_PUFFERFISH:2",
+        "A1": "ENCHANTED_PUFFERFISH:1",
+        "A2": "ENCHANTED_PUFFERFISH:1",
+        "A3": "ENCHANTED_PUFFERFISH:1",
+        "B1": "ENCHANTED_PUFFERFISH:1",
+        "B2": "BEGINNER_FISHING_SACK:1",
+        "B3": "ENCHANTED_PUFFERFISH:1",
+        "C1": "ENCHANTED_PUFFERFISH:1",
+        "C2": "ENCHANTED_PUFFERFISH:1",
+        "C3": "ENCHANTED_PUFFERFISH:1",
         "type": "crafting",
         "count": 1,
         "overrideOutputId": "SMALL_FISHING_SACK"
@@ -231133,15 +231217,15 @@
     ],
     "recipes": [
       {
-        "A1": "ENCHANTED_BIRCH_LOG:2",
-        "A2": "ENCHANTED_BIRCH_LOG:2",
-        "A3": "ENCHANTED_BIRCH_LOG:2",
-        "B1": "ENCHANTED_BIRCH_LOG:2",
-        "B2": "ENCHANTED_LEATHER:1",
-        "B3": "ENCHANTED_BIRCH_LOG:2",
-        "C1": "ENCHANTED_BIRCH_LOG:2",
-        "C2": "ENCHANTED_BIRCH_LOG:2",
-        "C3": "ENCHANTED_BIRCH_LOG:2",
+        "A1": "ENCHANTED_BIRCH_LOG:1",
+        "A2": "ENCHANTED_BIRCH_LOG:1",
+        "A3": "ENCHANTED_BIRCH_LOG:1",
+        "B1": "ENCHANTED_BIRCH_LOG:1",
+        "B2": "BEGINNER_FORAGING_SACK:1",
+        "B3": "ENCHANTED_BIRCH_LOG:1",
+        "C1": "ENCHANTED_BIRCH_LOG:1",
+        "C2": "ENCHANTED_BIRCH_LOG:1",
+        "C3": "ENCHANTED_BIRCH_LOG:1",
         "type": "crafting",
         "count": 1,
         "overrideOutputId": "SMALL_FORAGING_SACK"
@@ -231193,17 +231277,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Gemstone_Sack"
     ],
-    "recipe": {
-      "A1": "ROUGH_RUBY_GEM:10",
-      "A2": "ROUGH_RUBY_GEM:10",
-      "A3": "ROUGH_RUBY_GEM:10",
-      "B1": "ROUGH_RUBY_GEM:10",
-      "B2": "ENCHANTED_LEATHER:1",
-      "B3": "ROUGH_RUBY_GEM:10",
-      "C1": "ROUGH_RUBY_GEM:10",
-      "C2": "ROUGH_RUBY_GEM:10",
-      "C3": "ROUGH_RUBY_GEM:10"
-    }
+    "recipes": [
+      {
+        "A1": "ROUGH_RUBY_GEM:10",
+        "A2": "ROUGH_RUBY_GEM:10",
+        "A3": "ROUGH_RUBY_GEM:10",
+        "B1": "ROUGH_RUBY_GEM:10",
+        "B2": "ENCHANTED_LEATHER:1",
+        "B3": "ROUGH_RUBY_GEM:10",
+        "C1": "ROUGH_RUBY_GEM:10",
+        "C2": "ROUGH_RUBY_GEM:10",
+        "C3": "ROUGH_RUBY_GEM:10",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SMALL_GEMSTONE_SACK"
+      }
+    ]
   },
   "SMALL_HONEY_DIPPER": {
     "itemid": "minecraft:paper",
@@ -231250,17 +231339,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Husbandry_Sack"
     ],
-    "recipe": {
-      "A1": "ENCHANTED_MUTTON:2",
-      "A2": "ENCHANTED_MUTTON:2",
-      "A3": "ENCHANTED_MUTTON:2",
-      "B1": "ENCHANTED_MUTTON:2",
-      "B2": "ENCHANTED_LEATHER:1",
-      "B3": "ENCHANTED_MUTTON:2",
-      "C1": "ENCHANTED_MUTTON:2",
-      "C2": "ENCHANTED_MUTTON:2",
-      "C3": "ENCHANTED_MUTTON:2"
-    }
+    "recipes": [
+      {
+        "A1": "ENCHANTED_MUTTON:1",
+        "A2": "ENCHANTED_MUTTON:1",
+        "A3": "ENCHANTED_MUTTON:1",
+        "B1": "ENCHANTED_MUTTON:1",
+        "B2": "BEGINNER_HUSBANDRY_SACK:1",
+        "B3": "ENCHANTED_MUTTON:1",
+        "C1": "ENCHANTED_MUTTON:1",
+        "C2": "ENCHANTED_MUTTON:1",
+        "C3": "ENCHANTED_MUTTON:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SMALL_HUSBANDRY_SACK"
+      }
+    ]
   },
   "SMALL_LAVA_FISHING_SACK": {
     "itemid": "minecraft:skull",
@@ -231329,17 +231423,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Mining_Sack"
     ],
-    "recipe": {
-      "A1": "ENCHANTED_COAL:2",
-      "A2": "ENCHANTED_COAL:2",
-      "A3": "ENCHANTED_COAL:2",
-      "B1": "ENCHANTED_COAL:2",
-      "B2": "ENCHANTED_LEATHER:1",
-      "B3": "ENCHANTED_COAL:2",
-      "C1": "ENCHANTED_COAL:2",
-      "C2": "ENCHANTED_COAL:2",
-      "C3": "ENCHANTED_COAL:2"
-    }
+    "recipes": [
+      {
+        "A1": "ENCHANTED_COAL:1",
+        "A2": "ENCHANTED_COAL:1",
+        "A3": "ENCHANTED_COAL:1",
+        "B1": "ENCHANTED_COAL:1",
+        "B2": "BEGINNER_MINING_SACK:1",
+        "B3": "ENCHANTED_COAL:1",
+        "C1": "ENCHANTED_COAL:1",
+        "C2": "ENCHANTED_COAL:1",
+        "C3": "ENCHANTED_COAL:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SMALL_MINING_SACK"
+      }
+    ]
   },
   "SMALL_MUTATIONS_SACK": {
     "itemid": "minecraft:skull",
@@ -231408,17 +231507,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Nether_Sack"
     ],
-    "recipe": {
-      "A1": "ENCHANTED_SULPHUR:1",
-      "A2": "ENCHANTED_SULPHUR:1",
-      "A3": "ENCHANTED_SULPHUR:1",
-      "B1": "ENCHANTED_SULPHUR:1",
-      "B2": "KADA_LEAD:20",
-      "B3": "ENCHANTED_SULPHUR:1",
-      "C1": "ENCHANTED_SULPHUR:1",
-      "C2": "ENCHANTED_SULPHUR:1",
-      "C3": "ENCHANTED_SULPHUR:1"
-    }
+    "recipes": [
+      {
+        "A1": "ENCHANTED_SULPHUR:1",
+        "A2": "ENCHANTED_SULPHUR:1",
+        "A3": "ENCHANTED_SULPHUR:1",
+        "B1": "ENCHANTED_SULPHUR:1",
+        "B2": "KADA_LEAD:20",
+        "B3": "ENCHANTED_SULPHUR:1",
+        "C1": "ENCHANTED_SULPHUR:1",
+        "C2": "ENCHANTED_SULPHUR:1",
+        "C3": "ENCHANTED_SULPHUR:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SMALL_NETHER_SACK"
+      }
+    ]
   },
   "SMALL_PIG_EAR": {
     "itemid": "minecraft:skull",
@@ -231560,17 +231664,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Slayer_Sack"
     ],
-    "recipe": {
-      "A1": "REVENANT_VISCERA:1",
-      "A2": "REVENANT_VISCERA:1",
-      "A3": "REVENANT_VISCERA:1",
-      "B1": "REVENANT_VISCERA:1",
-      "B2": "ENCHANTED_LEATHER:1",
-      "B3": "REVENANT_VISCERA:1",
-      "C1": "REVENANT_VISCERA:1",
-      "C2": "REVENANT_VISCERA:1",
-      "C3": "REVENANT_VISCERA:1"
-    }
+    "recipes": [
+      {
+        "A1": "REVENANT_VISCERA:1",
+        "A2": "REVENANT_VISCERA:1",
+        "A3": "REVENANT_VISCERA:1",
+        "B1": "REVENANT_VISCERA:1",
+        "B2": "ENCHANTED_LEATHER:1",
+        "B3": "REVENANT_VISCERA:1",
+        "C1": "REVENANT_VISCERA:1",
+        "C2": "REVENANT_VISCERA:1",
+        "C3": "REVENANT_VISCERA:1",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SMALL_SLAYER_SACK"
+      }
+    ]
   },
   "SMALL_SLOTH_CLAW": {
     "itemid": "minecraft:paper",
@@ -262017,7 +262126,7 @@
   "TREASURE_HOARDER_MONSTER": {
     "itemid": "minecraft:skull",
     "displayname": "§9Treasure Hoarder (Monster)",
-    "nbttag": "{ExtraAttributes:{id:\"TREASURE_HOARDER_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b0f13fc2-07a5-3964-8303-784f802e5f0f\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5MDE1NjYzNDYzOCwKICAicHJvZmlsZUlkIiA6ICI5MWZlMTk2ODdjOTA0NjU2YWExZmMwNTk4NmRkM2ZlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaGphYnJpcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMmIxMmE4MTRjZWQ4YWYwMmNkZGYyOWEzN2U3ZjMwMTFlNDMwZThhMThiMzhiNzA2ZjI3YzZiZDMxNjUwYjY1IgogICAgfQogIH0KfQ\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Treasure Hoarders are mobs that spawn in the\",1:\"§7Upper Mines area of the Dwarven Mines. They\",2:\"§7drop the Treasurite material used in the Forge.\",3:\"\",4:\"§7Mob Types: §e✰ Humanoid§7, §6⛏ Subterranean\",5:\"§c❤ Health§8: §c15,000\"],Name:\"§9Treasure Hoarder (Monster)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TREASURE_HOARDER_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6d1f5fb0-464d-3315-99f7-60472044d6e0\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MzYzNjQzOTcwOSwKICAicHJvZmlsZUlkIiA6ICI1ZjU5NmViY2JlOTQ0NmQxYmI0M2JlNGYzZjRiOGJlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUZWlsMHNzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM3NGM2YjkwY2VlZGJhM2Q4YmIxZDFhODRkZmY0MDIxMTU5NjRlZjMzM2RlNTYzYmNkNjc5OWYzNzM4YmVkMDYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Treasure Hoarders are mobs that spawn in the\",1:\"§7Upper Mines area of the Dwarven Mines. They\",2:\"§7drop the Treasurite material used in the Forge.\",3:\"\",4:\"§7Mob Types: §e✰ Humanoid§7, §6⛏ Subterranean\",5:\"§c❤ Health§8: §c15,000\"],Name:\"§9Treasure Hoarder (Monster)\"}}",
     "damage": 3,
     "lore": [
       "§7Treasure Hoarders are mobs that spawn in the",
