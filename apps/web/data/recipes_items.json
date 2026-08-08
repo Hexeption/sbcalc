@@ -7535,7 +7535,7 @@
   "BONE_REAVER": {
     "itemid": "minecraft:iron_sword",
     "displayname": "§5Bone Reaver",
-    "nbttag": "{ExtraAttributes:{id:\"BONE_REAVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/bone_reaver\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d325\",1:\"§7Damage: §c+235\",2:\"§7Strength: §c+90\",3:\"§7Swing Range: §e+0.5\",4:\"\",5:\"§6Ability: Reaving Strike  §e§lRIGHT CLICK\",6:\"§7Slash in a huge arc, dealing §c125% §7melee\",7:\"§7damage to all enemies hit!\",8:\"§8Charges: §e4 §8/ §a5s\",9:\"\",10:\"§7Deals §c+1% §7damage to §2 Undead §7Mobs\",11:\"§7for every §a1% §7of your missing health.\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires The Catacombs Floor IV Completion.\",15:\"§5§lEPIC DUNGEON LONGSWORD\"],Name:\"§5Bone Reaver\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BONE_REAVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/bone_reaver\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d325\",1:\"§7Damage: §c+235\",2:\"§7Strength: §c+90\",3:\"§7Swing Range: §e+0.5\",4:\"\",5:\"§6Ability: Reaving Strike  §e§lRIGHT CLICK\",6:\"§7Slash in a huge arc, dealing §c125% §7melee\",7:\"§7damage to all enemies hit!\",8:\"\",9:\"§7Deals §c+1% §7damage to §aUndead\",10:\"§amonsters §7for every §a1% §7of your\",11:\"§7missing health.\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires The Catacombs Floor IV Completion.\",15:\"§5§lEPIC DUNGEON LONGSWORD\"],Name:\"§5Bone Reaver\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d325",
@@ -7546,10 +7546,10 @@
       "§6Ability: Reaving Strike  §e§lRIGHT CLICK",
       "§7Slash in a huge arc, dealing §c125% §7melee",
       "§7damage to all enemies hit!",
-      "§8Charges: §e4 §8/ §a5s",
       "",
-      "§7Deals §c+1% §7damage to §2 Undead §7Mobs",
-      "§7for every §a1% §7of your missing health.",
+      "§7Deals §c+1% §7damage to §aUndead",
+      "§amonsters §7for every §a1% §7of your",
+      "§7missing health.",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires The Catacombs Floor IV Completion.",
@@ -7558,7 +7558,7 @@
     "internalname": "BONE_REAVER",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Bone_Reaver"
@@ -29010,7 +29010,7 @@
   "FELTHORN_REAPER": {
     "itemid": "minecraft:iron_sword",
     "displayname": "§6Felthorn Reaper",
-    "nbttag": "{ExtraAttributes:{id:\"FELTHORN_REAPER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/felthorn_reaper\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d367\",1:\"§7Damage: §c+275\",2:\"§7Crit Damage: §9+115%\",3:\"§7Swing Range: §e+1\",4:\"\",5:\"§6Ability: Reaving Strike  §e§lRIGHT CLICK\",6:\"§7Slash in a huge arc, dealing §c135% §7melee\",7:\"§7damage to all enemies hit!\",8:\"§8Charges: §e5 §8/ §a4s\",9:\"\",10:\"§7Deals §c+1% §7damage for every §a1% §7of\",11:\"§7missing health on the target.\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires The Catacombs Floor VI Completion.\",15:\"§6§lLEGENDARY DUNGEON LONGSWORD\"],Name:\"§6Felthorn Reaper\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FELTHORN_REAPER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/felthorn_reaper\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d367\",1:\"§7Damage: §c+275\",2:\"§7Crit Damage: §9+115%\",3:\"§7Swing Range: §e+1\",4:\"\",5:\"§6Ability: Reaving Strike  §e§lRIGHT CLICK\",6:\"§7Slash in a huge arc, dealing §c135% §7melee\",7:\"§7damage to all enemies hit!\",8:\"\",9:\"§7Deals §c+1% §7damage for every §a1% §7of\",10:\"§7missing health on the target.\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires The Catacombs Floor VI Completion.\",14:\"§6§lLEGENDARY DUNGEON LONGSWORD\"],Name:\"§6Felthorn Reaper\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d367",
@@ -29021,7 +29021,6 @@
       "§6Ability: Reaving Strike  §e§lRIGHT CLICK",
       "§7Slash in a huge arc, dealing §c135% §7melee",
       "§7damage to all enemies hit!",
-      "§8Charges: §e5 §8/ §a4s",
       "",
       "§7Deals §c+1% §7damage for every §a1% §7of",
       "§7missing health on the target.",
@@ -29033,7 +29032,7 @@
     "internalname": "FELTHORN_REAPER",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Felthorn_Reaper"
@@ -52512,11 +52511,11 @@
   "MANA_FLUX_POWER_ORB": {
     "itemid": "minecraft:skull",
     "displayname": "§9Mana Flux Power Orb",
-    "nbttag": "{ExtraAttributes:{id:\"MANA_FLUX_POWER_ORB\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9d551147-9465-314e-b509-b1eed34a4ba9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jUK32T2ftwO8VZN9Ph4ICtX+drdqIVRz+U/h+uQMO5hAUesqEAdRkCos3qoqcAjGym7epEu3nc4Fr5ULlJK49ssAh5G44pyn4lGOJ6pTQ6s3bbY0Pn/COj57DocMKyYoeUUaZtCUUTcZTVDkp0TswnUTmu+jHQ8SCkDiCAWae6Z26SjVCVsj9z4jsIQoe7HVY1/rnaT2bigep5XZCwgqx3uI8qWM4m6FJQ1u4IQrMva2byvBI2zV9oduTN7PFji6Ndks0Db03R5Zvfrca1ZKTs0H9REKjIFsnxfvmkmm25h4h92yEz2IKS5Zspf0woYp+Zb8je5QIxsARzNih1qR8EA1ZFvtgPcW5Rb420NcP2C3ifJGvqwxWa3Gm3KqepyAy4VAPv32RW8eOKgj3wJIGYqlf545B6wuwb7GTZpWNIsTGkxE/AxXmaoT51D3bXm+cob7S53e14wwam97//JLPOyfkhWiWyklnZlXatShXxwPFyxfV6a3ucJJeTxhHO/0fvKE0BT+cYYMDd+crJkucOuO8zaRFF9kqkhaWUFndGxZetlr7L61BPU0bpep8SEgUq3j20t2FLKYrX0b4MVYsXufeft4/UXGK2YdXigj/IyEfV16ozjidpUEqpvWlhqnLNRaFrKrJA9Eaepu/QCrdLZZKR5moPApi1XlCY+ToC8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMTM0MjI5MzI5NiwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyYWRhMWM3ZmNjOGNmMzVkZWZlYjk0NGE0ZjhmZmE5YTlkMjYwNTYwZmM3ZjVmNTgyNmRlODA4NTQzNTk2N2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Ability: Deploy  §e§lRIGHT CLICK\",1:\"§7Place an orb for §a30s §7buffing up to §b5\",2:\"§7players within §a18 §7blocks.\",3:\"§8Mana Cost: §b50% of max\",4:\"§8Vitality Cost: §450\",5:\"\",6:\"§9Orb Buff: Mana Flux\",7:\"§9• §7Heal yourself for §c40❤§7 per second.\",8:\"§9• §7Heal others for §c20❤§7 per second.\",9:\"§9• §7Gain §c+50 Health Regen§7.\",10:\"§9• §7Grants §b+50% §7base mana regen.\",11:\"§9• §7Grants §c+10 Strength§7.\",12:\"\",13:\"§8Only one deployable buff applies.\",14:\"\",15:\"§4☠ §cRequires §5Wolf Slayer 6§c.\",16:\"§9§lRARE DEPLOYABLE\"],Name:\"§9Mana Flux Power Orb\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MANA_FLUX_POWER_ORB\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9d551147-9465-314e-b509-b1eed34a4ba9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jUK32T2ftwO8VZN9Ph4ICtX+drdqIVRz+U/h+uQMO5hAUesqEAdRkCos3qoqcAjGym7epEu3nc4Fr5ULlJK49ssAh5G44pyn4lGOJ6pTQ6s3bbY0Pn/COj57DocMKyYoeUUaZtCUUTcZTVDkp0TswnUTmu+jHQ8SCkDiCAWae6Z26SjVCVsj9z4jsIQoe7HVY1/rnaT2bigep5XZCwgqx3uI8qWM4m6FJQ1u4IQrMva2byvBI2zV9oduTN7PFji6Ndks0Db03R5Zvfrca1ZKTs0H9REKjIFsnxfvmkmm25h4h92yEz2IKS5Zspf0woYp+Zb8je5QIxsARzNih1qR8EA1ZFvtgPcW5Rb420NcP2C3ifJGvqwxWa3Gm3KqepyAy4VAPv32RW8eOKgj3wJIGYqlf545B6wuwb7GTZpWNIsTGkxE/AxXmaoT51D3bXm+cob7S53e14wwam97//JLPOyfkhWiWyklnZlXatShXxwPFyxfV6a3ucJJeTxhHO/0fvKE0BT+cYYMDd+crJkucOuO8zaRFF9kqkhaWUFndGxZetlr7L61BPU0bpep8SEgUq3j20t2FLKYrX0b4MVYsXufeft4/UXGK2YdXigj/IyEfV16ozjidpUEqpvWlhqnLNRaFrKrJA9Eaepu/QCrdLZZKR5moPApi1XlCY+ToC8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMTM0MjI5MzI5NiwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyYWRhMWM3ZmNjOGNmMzVkZWZlYjk0NGE0ZjhmZmE5YTlkMjYwNTYwZmM3ZjVmNTgyNmRlODA4NTQzNTk2N2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Ability: Deploy  §e§lRIGHT CLICK\",1:\"§7Place an orb for §a1m §7buffing up to §b5\",2:\"§7players within §a18 §7blocks.\",3:\"§8Mana Cost: §b50% of max\",4:\"§8Vitality Cost: §450\",5:\"\",6:\"§9Orb Buff: Mana Flux\",7:\"§9• §7Heal yourself for §c40❤§7 per second.\",8:\"§9• §7Heal others for §c20❤§7 per second.\",9:\"§9• §7Gain §c+50 Health Regen§7.\",10:\"§9• §7Grants §b+50% §7base mana regen.\",11:\"§9• §7Grants §c+10 Strength§7.\",12:\"\",13:\"§8Only one deployable buff applies.\",14:\"\",15:\"§4☠ §cRequires §5Wolf Slayer 6§c.\",16:\"§9§lRARE DEPLOYABLE\"],Name:\"§9Mana Flux Power Orb\"}}",
     "damage": 3,
     "lore": [
       "§6Ability: Deploy  §e§lRIGHT CLICK",
-      "§7Place an orb for §a30s §7buffing up to §b5",
+      "§7Place an orb for §a1m §7buffing up to §b5",
       "§7players within §a18 §7blocks.",
       "§8Mana Cost: §b50% of max",
       "§8Vitality Cost: §450",
@@ -52536,7 +52535,7 @@
     "internalname": "MANA_FLUX_POWER_ORB",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wolf Slayer 6",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mana_Flux_Power_Orb"
@@ -53056,20 +53055,19 @@
   "MASTIFF_BOOTS": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§5Mastiff Boots",
-    "nbttag": "{ExtraAttributes:{id:\"MASTIFF_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+200\",1:\"§7Defense: §a-30\",2:\"§7Crit Damage: §9+15%\",3:\"§7Intelligence: §b+25\",4:\"§7Gemstones: §8[§7§8] [§7§8] [] [] []\",5:\"\",6:\"§6Full Set Bonus: Absolute Unit §7(0/4)\",7:\"§8- §7Receive §a-20% §7damage from §a Animal §7mobs.\",8:\"§8- §7Your §9 Crit Damage §7is §930% §7less effective.\",9:\"§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max\",10:\"§840% HP).\",11:\"§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.\",12:\"§8(1s cooldown).\",13:\"§8- §7Your §a Defense §7is capped at §a300§7.\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4☠ §cRequires §5Wolf Slayer 4§c.\",17:\"§5§lEPIC BOOTS\"],Name:\"§5Mastiff Boots\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MASTIFF_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+200\",1:\"§7Crit Damage: §9+15%\",2:\"§7Intelligence: §b+25\",3:\"§7Gemstones: §8[§7§8] [§7§8] [] [] []\",4:\"\",5:\"§6Full Set Bonus: Absolute Unit §7(0/4)\",6:\"§8- §7Receive §a-20% §7damage from §a Animal §7mobs.\",7:\"§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max\",8:\"§840% HP).\",9:\"§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7.\",10:\"§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.\",11:\"§8(1s cooldown).\",12:\"§8- §7Your §a Defense §7is capped at §a300§7.\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4☠ §cRequires §5Wolf Slayer 4§c.\",16:\"§5§lEPIC BOOTS\"],Name:\"§5Mastiff Boots\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+200",
-      "§7Defense: §a-30",
       "§7Crit Damage: §9+15%",
       "§7Intelligence: §b+25",
       "§7Gemstones: §8[§7§8] [§7§8] [] [] []",
       "",
       "§6Full Set Bonus: Absolute Unit §7(0/4)",
       "§8- §7Receive §a-20% §7damage from §a Animal §7mobs.",
-      "§8- §7Your §9 Crit Damage §7is §930% §7less effective.",
       "§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max",
       "§840% HP).",
+      "§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7.",
       "§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.",
       "§8(1s cooldown).",
       "§8- §7Your §a Defense §7is capped at §a300§7.",
@@ -53081,7 +53079,7 @@
     "internalname": "MASTIFF_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wolf Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mastiff_Boots"
@@ -53102,19 +53100,18 @@
   "MASTIFF_CHESTPLATE": {
     "itemid": "minecraft:golden_chestplate",
     "displayname": "§5Mastiff Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"MASTIFF_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:golden_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+500\",1:\"§7Defense: §a-30\",2:\"§7Crit Damage: §9+15%\",3:\"§7Gemstones: §8[§7§8] [§7§8] [] [] []\",4:\"\",5:\"§6Full Set Bonus: Absolute Unit §7(0/4)\",6:\"§8- §7Receive §a-20% §7damage from §a Animal §7mobs.\",7:\"§8- §7Your §9 Crit Damage §7is §930% §7less effective.\",8:\"§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max\",9:\"§840% HP).\",10:\"§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.\",11:\"§8(1s cooldown).\",12:\"§8- §7Your §a Defense §7is capped at §a300§7.\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4☠ §cRequires §5Wolf Slayer 4§c.\",16:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Mastiff Chestplate\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MASTIFF_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:golden_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+500\",1:\"§7Crit Damage: §9+15%\",2:\"§7Gemstones: §8[§7§8] [§7§8] [] [] []\",3:\"\",4:\"§6Full Set Bonus: Absolute Unit §7(0/4)\",5:\"§8- §7Receive §a-20% §7damage from §a Animal §7mobs.\",6:\"§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max\",7:\"§840% HP).\",8:\"§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7.\",9:\"§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.\",10:\"§8(1s cooldown).\",11:\"§8- §7Your §a Defense §7is capped at §a300§7.\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4☠ §cRequires §5Wolf Slayer 4§c.\",15:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Mastiff Chestplate\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+500",
-      "§7Defense: §a-30",
       "§7Crit Damage: §9+15%",
       "§7Gemstones: §8[§7§8] [§7§8] [] [] []",
       "",
       "§6Full Set Bonus: Absolute Unit §7(0/4)",
       "§8- §7Receive §a-20% §7damage from §a Animal §7mobs.",
-      "§8- §7Your §9 Crit Damage §7is §930% §7less effective.",
       "§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max",
       "§840% HP).",
+      "§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7.",
       "§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.",
       "§8(1s cooldown).",
       "§8- §7Your §a Defense §7is capped at §a300§7.",
@@ -53126,7 +53123,7 @@
     "internalname": "MASTIFF_CHESTPLATE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wolf Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mastiff_Chestplate"
@@ -53147,20 +53144,19 @@
   "MASTIFF_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§5Mastiff Crown",
-    "nbttag": "{ExtraAttributes:{id:\"MASTIFF_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b40db6f5-9ad7-3674-aaaf-bb64826cc7e9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"q5JP69HGIRNXLW39K+Sz6qgS8ds27nhcdtEZBS4WueNY7opV4xT2pqzZlparac564WUqOobIZY47NByR2JuOmsEvmnvOhx7aM52VmtnD2w3q8/77VcH51ZKodc2taNgWXrQU0Lw19ExNYh7/slCzihjj17Bj1szZsuh25UzUZgoY+YnHyBadGOXG30xQ39dz1YRNTcS4ISwizCmNKr8bWOGQhSkRDBkqFVRZsw4xBlvbqRknfOxhejIgs9iV1atiRGoVeAgNkI1ltg0rBTBleOPaQ9qZamIEfBkvlPUZBj9VsPmlssKYBKpeBl/jTPiGW5YhIZf1sEq+/TKXb8LzoTez+epl7r+yurwcKeDEsyHyg8aIpejoeBgmBlEZb5xn4mXz3yM5qzfXUiHpACBS5QCyiRHPoF8sf1+d6rI0c/MdQMwbip4evKUxqvf5taxU6S8Qy73Khev0tzDlu03OjL3S29UldMfPoPTV/GOkQSgb1MKo8tGhr30m+RyAvtyC1yOGaIulCyn4FL0+XunIY0whOWHHyBTWgIH7OMPPjqKJs3saAiZstRvxjOA+JlAgBuNaF922ZBx8Ws0DyVw8BgFBabn7D3pjrE2p4DqpuG5FIAyyvPuQkFmG1QWLP8wWOAzJ9hPRpnvFzHk8JDp6Atzd5ukrlax1UH5QhWGr4wc=\",Value:\"eyJ0aW1lc3RhbXAiOjE1MzcwODc0Mzg4MTMsInByb2ZpbGVJZCI6ImNhYjI4ODVkMTUxNjQ1OTNhZmI2MDkwODJlOTE2NmU3IiwicHJvZmlsZU5hbWUiOiJGYW5jeV9MdWR3aWciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyODU5NTBmZDY3ODU4ZTc2YzQzOWIwYjViODdjNjlhNmM1MmE0ZGY5MzZlMjI0ZDg0M2IxNGMyMjU2NTk0OWUifX19\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+300\",1:\"§7Defense: §a-30\",2:\"§7Crit Damage: §9+15%\",3:\"§7Intelligence: §b+125\",4:\"§7Gemstones: §8[§7§8] [§7§8] [] [] []\",5:\"\",6:\"§6Full Set Bonus: Absolute Unit §7(0/4)\",7:\"§8- §7Receive §a-20% §7damage from §a Animal §7mobs.\",8:\"§8- §7Your §9 Crit Damage §7is §930% §7less effective.\",9:\"§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max\",10:\"§840% HP).\",11:\"§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.\",12:\"§8(1s cooldown).\",13:\"§8- §7Your §a Defense §7is capped at §a300§7.\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4☠ §cRequires §5Wolf Slayer 4§c.\",17:\"§5§lEPIC HELMET\"],Name:\"§5Mastiff Crown\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MASTIFF_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b40db6f5-9ad7-3674-aaaf-bb64826cc7e9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"q5JP69HGIRNXLW39K+Sz6qgS8ds27nhcdtEZBS4WueNY7opV4xT2pqzZlparac564WUqOobIZY47NByR2JuOmsEvmnvOhx7aM52VmtnD2w3q8/77VcH51ZKodc2taNgWXrQU0Lw19ExNYh7/slCzihjj17Bj1szZsuh25UzUZgoY+YnHyBadGOXG30xQ39dz1YRNTcS4ISwizCmNKr8bWOGQhSkRDBkqFVRZsw4xBlvbqRknfOxhejIgs9iV1atiRGoVeAgNkI1ltg0rBTBleOPaQ9qZamIEfBkvlPUZBj9VsPmlssKYBKpeBl/jTPiGW5YhIZf1sEq+/TKXb8LzoTez+epl7r+yurwcKeDEsyHyg8aIpejoeBgmBlEZb5xn4mXz3yM5qzfXUiHpACBS5QCyiRHPoF8sf1+d6rI0c/MdQMwbip4evKUxqvf5taxU6S8Qy73Khev0tzDlu03OjL3S29UldMfPoPTV/GOkQSgb1MKo8tGhr30m+RyAvtyC1yOGaIulCyn4FL0+XunIY0whOWHHyBTWgIH7OMPPjqKJs3saAiZstRvxjOA+JlAgBuNaF922ZBx8Ws0DyVw8BgFBabn7D3pjrE2p4DqpuG5FIAyyvPuQkFmG1QWLP8wWOAzJ9hPRpnvFzHk8JDp6Atzd5ukrlax1UH5QhWGr4wc=\",Value:\"eyJ0aW1lc3RhbXAiOjE1MzcwODc0Mzg4MTMsInByb2ZpbGVJZCI6ImNhYjI4ODVkMTUxNjQ1OTNhZmI2MDkwODJlOTE2NmU3IiwicHJvZmlsZU5hbWUiOiJGYW5jeV9MdWR3aWciLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyODU5NTBmZDY3ODU4ZTc2YzQzOWIwYjViODdjNjlhNmM1MmE0ZGY5MzZlMjI0ZDg0M2IxNGMyMjU2NTk0OWUifX19\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+300\",1:\"§7Crit Damage: §9+15%\",2:\"§7Intelligence: §b+125\",3:\"§7Gemstones: §8[§7§8] [§7§8] [] [] []\",4:\"\",5:\"§6Full Set Bonus: Absolute Unit §7(0/4)\",6:\"§8- §7Receive §a-20% §7damage from §a Animal §7mobs.\",7:\"§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max\",8:\"§840% HP).\",9:\"§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7.\",10:\"§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.\",11:\"§8(1s cooldown).\",12:\"§8- §7Your §a Defense §7is capped at §a300§7.\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4☠ §cRequires §5Wolf Slayer 4§c.\",16:\"§5§lEPIC HELMET\"],Name:\"§5Mastiff Crown\"}}",
     "damage": 3,
     "lore": [
       "§7Health: §c+300",
-      "§7Defense: §a-30",
       "§7Crit Damage: §9+15%",
       "§7Intelligence: §b+125",
       "§7Gemstones: §8[§7§8] [§7§8] [] [] []",
       "",
       "§6Full Set Bonus: Absolute Unit §7(0/4)",
       "§8- §7Receive §a-20% §7damage from §a Animal §7mobs.",
-      "§8- §7Your §9 Crit Damage §7is §930% §7less effective.",
       "§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max",
       "§840% HP).",
+      "§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7.",
       "§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.",
       "§8(1s cooldown).",
       "§8- §7Your §a Defense §7is capped at §a300§7.",
@@ -53172,7 +53168,7 @@
     "internalname": "MASTIFF_HELMET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wolf Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mastiff_Crown"
@@ -53193,19 +53189,18 @@
   "MASTIFF_LEGGINGS": {
     "itemid": "minecraft:diamond_leggings",
     "displayname": "§5Mastiff Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"MASTIFF_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+400\",1:\"§7Defense: §a-30\",2:\"§7Crit Damage: §9+15%\",3:\"§7Gemstones: §8[§7§8] [§7§8] [] [] []\",4:\"\",5:\"§6Full Set Bonus: Absolute Unit §7(0/4)\",6:\"§8- §7Receive §a-20% §7damage from §a Animal §7mobs.\",7:\"§8- §7Your §9 Crit Damage §7is §930% §7less effective.\",8:\"§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max\",9:\"§840% HP).\",10:\"§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.\",11:\"§8(1s cooldown).\",12:\"§8- §7Your §a Defense §7is capped at §a300§7.\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4☠ §cRequires §5Wolf Slayer 4§c.\",16:\"§5§lEPIC LEGGINGS\"],Name:\"§5Mastiff Leggings\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MASTIFF_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:diamond_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+400\",1:\"§7Crit Damage: §9+15%\",2:\"§7Gemstones: §8[§7§8] [§7§8] [] [] []\",3:\"\",4:\"§6Full Set Bonus: Absolute Unit §7(0/4)\",5:\"§8- §7Receive §a-20% §7damage from §a Animal §7mobs.\",6:\"§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max\",7:\"§840% HP).\",8:\"§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7.\",9:\"§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.\",10:\"§8(1s cooldown).\",11:\"§8- §7Your §a Defense §7is capped at §a300§7.\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4☠ §cRequires §5Wolf Slayer 4§c.\",15:\"§5§lEPIC LEGGINGS\"],Name:\"§5Mastiff Leggings\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+400",
-      "§7Defense: §a-30",
       "§7Crit Damage: §9+15%",
       "§7Gemstones: §8[§7§8] [§7§8] [] [] []",
       "",
       "§6Full Set Bonus: Absolute Unit §7(0/4)",
       "§8- §7Receive §a-20% §7damage from §a Animal §7mobs.",
-      "§8- §7Your §9 Crit Damage §7is §930% §7less effective.",
       "§8- §7Gain §c+1%❤ Health §7per §925 Crit Damage§7. §8(Max",
       "§840% HP).",
+      "§8- §7Gain §9+1 Crit Damage §7per §a2 Defense§7.",
       "§8- §7Heal §c150❤ §7when hit, consuming §45 Vitality§7.",
       "§8(1s cooldown).",
       "§8- §7Your §a Defense §7is capped at §a300§7.",
@@ -53217,7 +53212,7 @@
     "internalname": "MASTIFF_LEGGINGS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wolf Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mastiff_Leggings"
@@ -70081,11 +70076,11 @@
   "RADIANT_POWER_ORB": {
     "itemid": "minecraft:skull",
     "displayname": "§aRadiant Power Orb",
-    "nbttag": "{ExtraAttributes:{id:\"RADIANT_POWER_ORB\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6a0b7ee4-b540-3645-848a-97cfc1b7ca8b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"tjSk3xjfkER3YgoDX35UIiTED4Ec8wAmXLsT7CKQyUJBveqWOlkFNhbOzSTdFWloA9V9zWT2eQDh1Nyw6Ah8PA6gN2BOpHproxDlS7uQgPxu9ft5mWKkd8pU7oZR40xgJtE/Gy9SaV4noZwUbXxsP0YOXRK89b/lf94vZUFtyFLXMymxG3fLUAFbJfq/umjp/qBzphFhDojTGs1iWvA055AOnwmb+nktO9XJq1gCIW5WcOUqPpLQbbG2boTpEwUgIbclahRTZbchiNgo5CMh4YqDpcrfkuulFPhEe0zle3lD5+k9zXmk5Tbe6vyqz7zY67khN5Mb2TnTQEdBkncHmU44ibbGZNRn4ONnFaIyk0Oawjab5H7mZahToFKZzgeNB4wg/pY3Qv8x0U5LUtPcLpRto0BEr4jjTv/oujDvFBic+jimN9oSPkFaQO5TQtUmYnKeDvfONYptPuHeUuD0szn6r1Xx2sICeBBAbpTnGO17yRbdldN2mnnGd5vgb3u7oHDQ3nP2vFcD5KYtlBDWpdOPGwSa8xc9ZBy/METkltBZDZagc0keRJVZJrSThvbKvJUhGRUa5DIm0dm2DUTgrjorCYJRmIDd60rypJ5vG9W/6xQ+Cvxsd8Eca/CvWEM8nsJlK+07ttO+iyZ/jzpNCcYkpCvDw+SpeSnEq136B1k=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwNzQ0Nzk4NTQxNCwKICAicHJvZmlsZUlkIiA6ICI2OTBkMDM2OGM2NTE0OGM5ODZjMzEwN2FjMmRjNjFlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5emZyXzciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzk0ZDBhMDY4ZWE1MGE5ZGUyY2VmMjNhOTJiY2E0YjM2NzhkMTJjYThhMTgxNWQxM2JlYWM5NGRmZDU1NzEyNSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Ability: Deploy  §e§lRIGHT CLICK\",1:\"§7Place an orb for §a30s §7buffing up to §b5\",2:\"§7players within §a18 §7blocks.\",3:\"§8Mana Cost: §b50% of max\",4:\"§8Vitality Cost: §450\",5:\"\",6:\"§aOrb Buff: Radiant\",7:\"§a• §7Heal yourself for §c30❤§7 per second.\",8:\"§a• §7Heal others for §c15❤§7 per second.\",9:\"§a• §7Gain §c+25 Health Regen§7.\",10:\"\",11:\"§8Only one deployable buff applies.\",12:\"\",13:\"§4☠ §cRequires §5Wolf Slayer 2§c.\",14:\"§a§lUNCOMMON DEPLOYABLE\"],Name:\"§aRadiant Power Orb\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RADIANT_POWER_ORB\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6a0b7ee4-b540-3645-848a-97cfc1b7ca8b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"tjSk3xjfkER3YgoDX35UIiTED4Ec8wAmXLsT7CKQyUJBveqWOlkFNhbOzSTdFWloA9V9zWT2eQDh1Nyw6Ah8PA6gN2BOpHproxDlS7uQgPxu9ft5mWKkd8pU7oZR40xgJtE/Gy9SaV4noZwUbXxsP0YOXRK89b/lf94vZUFtyFLXMymxG3fLUAFbJfq/umjp/qBzphFhDojTGs1iWvA055AOnwmb+nktO9XJq1gCIW5WcOUqPpLQbbG2boTpEwUgIbclahRTZbchiNgo5CMh4YqDpcrfkuulFPhEe0zle3lD5+k9zXmk5Tbe6vyqz7zY67khN5Mb2TnTQEdBkncHmU44ibbGZNRn4ONnFaIyk0Oawjab5H7mZahToFKZzgeNB4wg/pY3Qv8x0U5LUtPcLpRto0BEr4jjTv/oujDvFBic+jimN9oSPkFaQO5TQtUmYnKeDvfONYptPuHeUuD0szn6r1Xx2sICeBBAbpTnGO17yRbdldN2mnnGd5vgb3u7oHDQ3nP2vFcD5KYtlBDWpdOPGwSa8xc9ZBy/METkltBZDZagc0keRJVZJrSThvbKvJUhGRUa5DIm0dm2DUTgrjorCYJRmIDd60rypJ5vG9W/6xQ+Cvxsd8Eca/CvWEM8nsJlK+07ttO+iyZ/jzpNCcYkpCvDw+SpeSnEq136B1k=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwNzQ0Nzk4NTQxNCwKICAicHJvZmlsZUlkIiA6ICI2OTBkMDM2OGM2NTE0OGM5ODZjMzEwN2FjMmRjNjFlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5emZyXzciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzk0ZDBhMDY4ZWE1MGE5ZGUyY2VmMjNhOTJiY2E0YjM2NzhkMTJjYThhMTgxNWQxM2JlYWM5NGRmZDU1NzEyNSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Ability: Deploy  §e§lRIGHT CLICK\",1:\"§7Place an orb for §a1m §7buffing up to §b5\",2:\"§7players within §a18 §7blocks.\",3:\"§8Mana Cost: §b50% of max\",4:\"§8Vitality Cost: §450\",5:\"\",6:\"§aOrb Buff: Radiant\",7:\"§a• §7Heal yourself for §c30❤§7 per second.\",8:\"§a• §7Heal others for §c15❤§7 per second.\",9:\"§a• §7Gain §c+25 Health Regen§7.\",10:\"\",11:\"§8Only one deployable buff applies.\",12:\"\",13:\"§4☠ §cRequires §5Wolf Slayer 2§c.\",14:\"§a§lUNCOMMON DEPLOYABLE\"],Name:\"§aRadiant Power Orb\"}}",
     "damage": 3,
     "lore": [
       "§6Ability: Deploy  §e§lRIGHT CLICK",
-      "§7Place an orb for §a30s §7buffing up to §b5",
+      "§7Place an orb for §a1m §7buffing up to §b5",
       "§7players within §a18 §7blocks.",
       "§8Mana Cost: §b50% of max",
       "§8Vitality Cost: §450",
@@ -70103,7 +70098,7 @@
     "internalname": "RADIANT_POWER_ORB",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wolf Slayer 2",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Radiant_Power_Orb"
@@ -85123,7 +85118,7 @@
   "STARRED_FELTHORN_REAPER": {
     "itemid": "minecraft:iron_sword",
     "displayname": "§6 Felthorn Reaper",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_FELTHORN_REAPER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/felthorn_reaper_fragged\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d395\",1:\"§7Damage: §c+285\",2:\"§7Strength: §c+10\",3:\"§7Crit Damage: §9+125%\",4:\"§7Swing Range: §e+1.5\",5:\"\",6:\"§6Ability: Reaving Strike  §e§lRIGHT CLICK\",7:\"§7Slash in a huge arc, dealing §c135% §7melee\",8:\"§7damage to all enemies hit!\",9:\"§8Charges: §e5 §8/ §a4s\",10:\"\",11:\"§7Deals §c+1% §7damage for every §a1% §7of\",12:\"§7missing health on the target.\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires The Catacombs Floor VI Completion.\",16:\"§6§lLEGENDARY DUNGEON LONGSWORD\"],Name:\"§6 Felthorn Reaper\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_FELTHORN_REAPER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/felthorn_reaper_fragged\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d395\",1:\"§7Damage: §c+285\",2:\"§7Strength: §c+10\",3:\"§7Crit Damage: §9+125%\",4:\"§7Swing Range: §e+1.5\",5:\"\",6:\"§6Ability: Reaving Strike  §e§lRIGHT CLICK\",7:\"§7Slash in a huge arc, dealing §c135% §7melee\",8:\"§7damage to all enemies hit!\",9:\"\",10:\"§7Deals §c+1% §7damage for every §a1% §7of\",11:\"§7missing health on the target.\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires The Catacombs Floor VI Completion.\",15:\"§6§lLEGENDARY DUNGEON LONGSWORD\"],Name:\"§6 Felthorn Reaper\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d395",
@@ -85135,7 +85130,6 @@
       "§6Ability: Reaving Strike  §e§lRIGHT CLICK",
       "§7Slash in a huge arc, dealing §c135% §7melee",
       "§7damage to all enemies hit!",
-      "§8Charges: §e5 §8/ §a4s",
       "",
       "§7Deals §c+1% §7damage for every §a1% §7of",
       "§7missing health on the target.",
@@ -85147,7 +85141,7 @@
     "internalname": "STARRED_FELTHORN_REAPER",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Felthorn_Reaper"
