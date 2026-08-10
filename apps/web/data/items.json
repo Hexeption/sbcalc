@@ -18473,8 +18473,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0+mc26.1.2",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fading_Blue_Rune"
+    ]
   },
   "AXE_FADING_BLUE_RUNE;2": {
     "itemid": "minecraft:skull",
@@ -18498,8 +18500,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0+mc26.1.2",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fading_Blue_Rune"
+    ]
   },
   "AXE_FADING_BLUE_RUNE;3": {
     "itemid": "minecraft:skull",
@@ -18523,8 +18527,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0+mc26.1.2",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fading_Blue_Rune"
+    ]
   },
   "AXE_FADING_GREEN_RUNE;1": {
     "itemid": "minecraft:skull",
@@ -101312,9 +101318,9 @@
       "A1": "NULL_OVOID:4",
       "A2": "ENCHANTED_GUNPOWDER:64",
       "A3": "NULL_OVOID:4",
-      "B1": "ENCHANTED_BONE_BLOCK:4",
+      "B1": "ENCHANTED_QUARTZ_BLOCK:4",
       "B2": "BOOK:1",
-      "B3": "ENCHANTED_BONE_BLOCK:4",
+      "B3": "ENCHANTED_QUARTZ_BLOCK:4",
       "C1": "NULL_OVOID:4",
       "C2": "ENCHANTED_GUNPOWDER:64",
       "C3": "NULL_OVOID:4"
