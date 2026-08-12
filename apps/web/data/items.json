@@ -1874,9 +1874,9 @@
         "A1": "",
         "A2": "HELIXIS:8",
         "A3": "",
-        "B1": "VEILSHROOM_BUNCH:8",
+        "B1": "VEILSHROOM_BUNCH:1",
         "B2": "ACCRETION_RING:1",
-        "B3": "VEILSHROOM_BUNCH:8",
+        "B3": "VEILSHROOM_BUNCH:1",
         "C1": "",
         "C2": "HELIXIS:8",
         "C3": "",
@@ -3191,7 +3191,7 @@
   "ALAN_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Alan (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"ALAN_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9f7a2e39-bd55-2cf6-8ab2-181221f7b305\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjNmMWE0ZjAwY2JiMGIwNGE3ODBmNDcyMGZkYzVjY2M3NjgyOGExMjliZTk1MGQ1NmU1Zjc5YjU0NDUzZmU1MSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5ZjdhMmUzOWJkNTUyY2Y2OGFiMjE4MTIyMWY3YjMwNSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUwNjk0MjcwNzUxfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Alan (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ALAN_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5a02112a-0e84-2b74-b95b-6084f04b6a15\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUwYWUzNDgyZDgzODk4ZTBlNTVjMTUxNmIxZWFkMWE3ZDFjZDU0Y2NmNGMyNDM0Mzg2OWEyOGJkNTYyMWYwNCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1YTAyMTEyYTBlODQyYjc0Yjk1YjYwODRmMDRiNmExNSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDcyMjI0NzU1fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Alan (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
@@ -3199,7 +3199,7 @@
     "internalname": "ALAN_NPC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Alan"
@@ -3884,7 +3884,7 @@
   "AMAURY_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Amaury (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"AMAURY_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6a4fbbf1-9d47-26ce-ba9f-e0348f202e80\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjNmMWE0ZjAwY2JiMGIwNGE3ODBmNDcyMGZkYzVjY2M3NjgyOGExMjliZTk1MGQ1NmU1Zjc5YjU0NDUzZmU1MSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI2YTRmYmJmMTlkNDcyNmNlYmE5ZmUwMzQ4ZjIwMmU4MCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUwNjkzNzI2MzI4fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Amaury (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"AMAURY_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"522df173-0109-2679-851e-7e23615b96b8\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY0YTI1NmUyYjNlZDVlNmU5YmY1MzM3MGE0ODMzNDY4Nzg1NGVhNTczNWYyYjQxYmQzZjc3YThmYzJhMTUxZSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1MjJkZjE3MzAxMDkyNjc5ODUxZTdlMjM2MTViOTZiOCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDcwMjUzMDA5fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Amaury (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
@@ -3892,7 +3892,7 @@
     "internalname": "AMAURY_NPC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Amaury"
@@ -18087,6 +18087,25 @@
       "https://hypixelskyblock.minecraft.wiki/w/Aurora_Leggings"
     ]
   },
+  "AURYON_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Auryon (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"AURYON_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"02994467-3295-2c64-8d2b-6f5028e156ca\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA3ZjE2NTdlYmZlZGQwYzM0NzMwYmU3ZDg2M2M1YWFiNjRmYWE0Mjk4MDhhYTEwZTk1MmYwNGZlYjZhMjdiOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIwMjk5NDQ2NzMyOTUyYzY0OGQyYjZmNTAyOGUxNTZjYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDcwNDc4OTE5fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Auryon (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "AURYON_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "island": "foraging_2",
+    "x": -558,
+    "y": 111,
+    "z": 48
+  },
   "AUTOMATON_MONSTER": {
     "itemid": "minecraft:skull",
     "displayname": "§aAutomaton (Monster)",
@@ -20832,6 +20851,25 @@
     "x": 20,
     "y": 77,
     "z": 44
+  },
+  "BANKER_BONSAI_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Banker Bonsai (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"BANKER_BONSAI_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f0da3588-00d1-2d81-a4d8-d9d118e84eb9\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWM3OGI5NDU5ZjhjNjRjOWQ2MmNjMjI3MjI0YzZkYjdmYTMxY2IzMWNiZTE0NDkwN2UxMGJiNzBlYjE3YjYwZiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmMGRhMzU4ODAwZDEyZDgxYTRkOGQ5ZDExOGU4NGViOSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDcwNjE5MjAwfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Banker Bonsai (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "BANKER_BONSAI_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "island": "foraging_2",
+    "x": -599,
+    "y": 116,
+    "z": -38
   },
   "BANKER_BROADJAW_NPC": {
     "itemid": "minecraft:skull",
@@ -85189,26 +85227,25 @@
   },
   "FIGHTING_BOOSTER_UNCOMMON": {
     "itemid": "minecraft:paper",
-    "displayname": "§aUncommon Fighting Booster",
-    "nbttag": "{ExtraAttributes:{id:\"FIGHTING_BOOSTER_UNCOMMON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/boosters/uncommon/booster_fighting_upgraded\",display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §b४ Fighting §7booster when\",4:\"§7combined with Foraging Armor,\",5:\"§7Equipment, or Axes.\",6:\"\",7:\"§7Increases damage against Foraging\",8:\"§7Island creatures.\",9:\"\",10:\"§a§lUNCOMMON BOOSTER\"],Name:\"§aUncommon Fighting Booster\"}}",
+    "displayname": "§aUncommon Fighting Booster Upgrade",
+    "nbttag": "{ExtraAttributes:{id:\"FIGHTING_BOOSTER_UNCOMMON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/boosters/uncommon/booster_fighting_upgraded\",display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Apply to an item with a §fCommon\",4:\"§fFighting Booster §7to upgrade it to an\",5:\"§aUncommon Fighting Booster§7, which\",6:\"§7increases damage against §2Foraging\",7:\"§2Island §7mobs.\",8:\"\",9:\"§a§lUNCOMMON BOOSTER\"],Name:\"§aUncommon Fighting Booster Upgrade\"}}",
     "damage": 0,
     "lore": [
       "§8Booster",
       "§8Combinable in Anvil",
       "",
-      "§7Applies the §b४ Fighting §7booster when",
-      "§7combined with Foraging Armor,",
-      "§7Equipment, or Axes.",
-      "",
-      "§7Increases damage against Foraging",
-      "§7Island creatures.",
+      "§7Apply to an item with a §fCommon",
+      "§fFighting Booster §7to upgrade it to an",
+      "§aUncommon Fighting Booster§7, which",
+      "§7increases damage against §2Foraging",
+      "§2Island §7mobs.",
       "",
       "§a§lUNCOMMON BOOSTER"
     ],
     "internalname": "FIGHTING_BOOSTER_UNCOMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Fighting_Booster"
@@ -92079,25 +92116,26 @@
   },
   "FORAGING_FORTUNE_BOOSTER_UNCOMMON": {
     "itemid": "minecraft:paper",
-    "displayname": "§aUncommon Foraging Fortune Booster",
-    "nbttag": "{ExtraAttributes:{id:\"FORAGING_FORTUNE_BOOSTER_UNCOMMON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/boosters/uncommon/booster_foraging_fortune_upgraded\",display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §b⎋ Foraging Fortune\",4:\"§7booster when combined with Foraging\",5:\"§7Armor, Equipment, or Axes.\",6:\"\",7:\"§7Grants §6 Foraging Fortune§7.\",8:\"\",9:\"§a§lUNCOMMON BOOSTER\"],Name:\"§aUncommon Foraging Fortune Booster\"}}",
+    "displayname": "§aUncommon Foraging Fortune Booster Upgrade",
+    "nbttag": "{ExtraAttributes:{id:\"FORAGING_FORTUNE_BOOSTER_UNCOMMON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/boosters/uncommon/booster_foraging_fortune_upgraded\",display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Apply to an item with a §fCommon\",4:\"§fForaging Fortune Booster §7to\",5:\"§7upgrade it to an §aUncommon Foraging\",6:\"§aFortune Booster§7, which increases\",7:\"§7the amount of §6 Foraging Fortune §7it\",8:\"§7gives.\",9:\"\",10:\"§a§lUNCOMMON BOOSTER\"],Name:\"§aUncommon Foraging Fortune Booster Upgrade\"}}",
     "damage": 0,
     "lore": [
       "§8Booster",
       "§8Combinable in Anvil",
       "",
-      "§7Applies the §b⎋ Foraging Fortune",
-      "§7booster when combined with Foraging",
-      "§7Armor, Equipment, or Axes.",
-      "",
-      "§7Grants §6 Foraging Fortune§7.",
+      "§7Apply to an item with a §fCommon",
+      "§fForaging Fortune Booster §7to",
+      "§7upgrade it to an §aUncommon Foraging",
+      "§aFortune Booster§7, which increases",
+      "§7the amount of §6 Foraging Fortune §7it",
+      "§7gives.",
       "",
       "§a§lUNCOMMON BOOSTER"
     ],
     "internalname": "FORAGING_FORTUNE_BOOSTER_UNCOMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Fortune_Booster"
@@ -92131,25 +92169,25 @@
   },
   "FORAGING_WISDOM_BOOSTER_UNCOMMON": {
     "itemid": "minecraft:paper",
-    "displayname": "§aUncommon Foraging Wisdom Booster",
-    "nbttag": "{ExtraAttributes:{id:\"FORAGING_WISDOM_BOOSTER_UNCOMMON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/boosters/uncommon/booster_foraging_wisdom_upgraded\",display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §b⸙ Foraging Wisdom\",4:\"§7booster when combined with Foraging\",5:\"§7Armor, Equipment, or Axes.\",6:\"\",7:\"§7Grants §3☯ Foraging Wisdom§7.\",8:\"\",9:\"§a§lUNCOMMON BOOSTER\"],Name:\"§aUncommon Foraging Wisdom Booster\"}}",
+    "displayname": "§aUncommon Foraging Wisdom Booster Upgrade",
+    "nbttag": "{ExtraAttributes:{id:\"FORAGING_WISDOM_BOOSTER_UNCOMMON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/boosters/uncommon/booster_foraging_wisdom_upgraded\",display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Apply to an item with a §fCommon\",4:\"§fForaging Wisdom Booster §7to upgrade\",5:\"§7it to an §aUncommon Foraging Wisdom\",6:\"§aBooster§7, which increases the amount\",7:\"§7of §3☯ Foraging Wisdom §7it gives.\",8:\"\",9:\"§a§lUNCOMMON BOOSTER\"],Name:\"§aUncommon Foraging Wisdom Booster Upgrade\"}}",
     "damage": 0,
     "lore": [
       "§8Booster",
       "§8Combinable in Anvil",
       "",
-      "§7Applies the §b⸙ Foraging Wisdom",
-      "§7booster when combined with Foraging",
-      "§7Armor, Equipment, or Axes.",
-      "",
-      "§7Grants §3☯ Foraging Wisdom§7.",
+      "§7Apply to an item with a §fCommon",
+      "§fForaging Wisdom Booster §7to upgrade",
+      "§7it to an §aUncommon Foraging Wisdom",
+      "§aBooster§7, which increases the amount",
+      "§7of §3☯ Foraging Wisdom §7it gives.",
       "",
       "§a§lUNCOMMON BOOSTER"
     ],
     "internalname": "FORAGING_WISDOM_BOOSTER_UNCOMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Wisdom_Booster"
@@ -118903,6 +118941,22 @@
     ],
     "island": "safari"
   },
+  "HUNTER_JASPER_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Hunter Jasper (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"HUNTER_JASPER_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cdddbf42-90dd-20e4-83b0-6ad6884f8514\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRkMGI1NzEyMzQzMzk4NTkyM2Q2MDg1ZGJlYTllZjc2MGMyZGJlZGQ5YzY1ZWU5YmE4NWEyNjE0ODU4MjQ1OSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJjZGRkYmY0MjkwZGQyMGU0ODNiMDZhZDY4ODRmODUxNCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDY5MTY2MjgyfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Hunter Jasper (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "HUNTER_JASPER_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "island": "safari"
+  },
   "HUNTER_JEAN_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Hunter Jean (NPC)",
@@ -118969,6 +119023,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Hunter_Lennard"
     ],
+    "island": "safari"
+  },
+  "HUNTER_LUIGI_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Hunter Luigi (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"HUNTER_LUIGI_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a1939b4f-4053-2347-860a-bb6a030bf40d\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDUzOGM3MjdlZGNlYjVlMjljYzUzZDJiNWM0MjMxODAyYWM1ZDdiOTg5OWQ0MjNhY2U4MWU3MzY2ZTJlN2ViYyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhMTkzOWI0ZjQwNTMyMzQ3ODYwYWJiNmEwMzBiZjQwZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDY5MTM2NjYyfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Hunter Luigi (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "HUNTER_LUIGI_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
     "island": "safari"
   },
   "HUNTER_MCNEIL_NPC": {
@@ -119148,25 +119218,25 @@
   },
   "HUNTING_WISDOM_BOOSTER_UNCOMMON": {
     "itemid": "minecraft:paper",
-    "displayname": "§aUncommon Hunting Wisdom Booster",
-    "nbttag": "{ExtraAttributes:{id:\"HUNTING_WISDOM_BOOSTER_UNCOMMON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/boosters/uncommon/booster_hunting_wisdom_upgraded\",display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §b☯ Hunting Wisdom\",4:\"§7booster when combined with Foraging\",5:\"§7Armor, Equipment, or Axes.\",6:\"\",7:\"§7Grants §3☯ Hunting Wisdom§7.\",8:\"\",9:\"§a§lUNCOMMON BOOSTER\"],Name:\"§aUncommon Hunting Wisdom Booster\"}}",
+    "displayname": "§aUncommon Hunting Wisdom Booster Upgrade",
+    "nbttag": "{ExtraAttributes:{id:\"HUNTING_WISDOM_BOOSTER_UNCOMMON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/boosters/uncommon/booster_hunting_wisdom_upgraded\",display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Apply to an item with a §fCommon\",4:\"§fHunting Wisdom Booster §7to upgrade it\",5:\"§7to an §aUncommon Hunting Wisdom\",6:\"§aBooster§7, which increases the amount\",7:\"§7of §3☯ Hunting Wisdom §7it gives.\",8:\"\",9:\"§a§lUNCOMMON BOOSTER\"],Name:\"§aUncommon Hunting Wisdom Booster Upgrade\"}}",
     "damage": 0,
     "lore": [
       "§8Booster",
       "§8Combinable in Anvil",
       "",
-      "§7Applies the §b☯ Hunting Wisdom",
-      "§7booster when combined with Foraging",
-      "§7Armor, Equipment, or Axes.",
-      "",
-      "§7Grants §3☯ Hunting Wisdom§7.",
+      "§7Apply to an item with a §fCommon",
+      "§fHunting Wisdom Booster §7to upgrade it",
+      "§7to an §aUncommon Hunting Wisdom",
+      "§aBooster§7, which increases the amount",
+      "§7of §3☯ Hunting Wisdom §7it gives.",
       "",
       "§a§lUNCOMMON BOOSTER"
     ],
     "internalname": "HUNTING_WISDOM_BOOSTER_UNCOMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Hunting_Wisdom_Booster"
@@ -126961,7 +127031,7 @@
   "JAEGER_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Jaeger (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"JAEGER_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ffac8c84-7d3d-214a-a5a1-6f251cdf4608\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA3ZjE2NTdlYmZlZGQwYzM0NzMwYmU3ZDg2M2M1YWFiNjRmYWE0Mjk4MDhhYTEwZTk1MmYwNGZlYjZhMjdiOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmZmFjOGM4NDdkM2QyMTRhYTVhMTZmMjUxY2RmNDYwOCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUwNjk0MjYzODExfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Jaeger (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"JAEGER_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c8d7adc4-db33-20d3-b3c2-81ab238adf17\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODlkNzI3NDk3YjgxMTdmNGVmMDUwMzVlYzdhZjk1MGQzOTVmYWNhZDI0MzI3ZTk0MGUyYzM1NzdkYmM3OGMzMyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJjOGQ3YWRjNGRiMzMyMGQzYjNjMjgxYWIyMzhhZGYxNyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDcyMjM3Nzk5fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Jaeger (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
@@ -126969,7 +127039,7 @@
     "internalname": "JAEGER_NPC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Jaeger"
@@ -139342,7 +139412,7 @@
   "LORAS_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Loras (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"LORAS_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6d6633b1-34e5-22cc-aada-23d179006e92\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjNmMWE0ZjAwY2JiMGIwNGE3ODBmNDcyMGZkYzVjY2M3NjgyOGExMjliZTk1MGQ1NmU1Zjc5YjU0NDUzZmU1MSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI2ZDY2MzNiMTM0ZTUyMmNjYWFkYTIzZDE3OTAwNmU5MiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUwNjk0NTU5MjIwfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Loras (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"LORAS_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f57d233f-7e06-2516-ad91-9a2eb5208f1c\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTc3MTUzODMwN2ZmMTA0ZjI0NTlmNzQ2MWQ0MGU0ZjU2NGI0OTAzOGU1NzQzMWRiMTZhZjBiNzRhYjVmMWI3NCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmNTdkMjMzZjdlMDYyNTE2YWQ5MTlhMmViNTIwOGYxYyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDcyMTgyMTQyfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Loras (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
@@ -139350,7 +139420,7 @@
     "internalname": "LORAS_NPC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Loras"
@@ -164130,7 +164200,7 @@
   "ODEN_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Oden (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"ODEN_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"27028159-8efc-2952-a983-00145c2355f3\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTA3ZjE2NTdlYmZlZGQwYzM0NzMwYmU3ZDg2M2M1YWFiNjRmYWE0Mjk4MDhhYTEwZTk1MmYwNGZlYjZhMjdiOCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyNzAyODE1OThlZmMyOTUyYTk4MzAwMTQ1YzIzNTVmMyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUwNjk0NTY1Nzc5fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Oden (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ODEN_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2fc4b105-e4e2-2334-9cfd-1d15c8100e20\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjNmMWE0ZjAwY2JiMGIwNGE3ODBmNDcyMGZkYzVjY2M3NjgyOGExMjliZTk1MGQ1NmU1Zjc5YjU0NDUzZmU1MSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIyZmM0YjEwNWU0ZTIyMzM0OWNmZDFkMTVjODEwMGUyMCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDcyMjE2ODU2fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Oden (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
@@ -164138,7 +164208,7 @@
     "internalname": "ODEN_NPC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Oden"
@@ -194719,7 +194789,7 @@
   "POUNCE_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Pounce (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"POUNCE_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f5fbe943-af47-2449-8b66-8734bd266f4a\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjNmMWE0ZjAwY2JiMGIwNGE3ODBmNDcyMGZkYzVjY2M3NjgyOGExMjliZTk1MGQ1NmU1Zjc5YjU0NDUzZmU1MSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmNWZiZTk0M2FmNDcyNDQ5OGI2Njg3MzRiZDI2NmY0YSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUwNzEzNjI0OTY5fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Pounce (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"POUNCE_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b3bbb443-ed73-237f-9552-ce86dc08ebe3\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODlkNzI3NDk3YjgxMTdmNGVmMDUwMzVlYzdhZjk1MGQzOTVmYWNhZDI0MzI3ZTk0MGUyYzM1NzdkYmM3OGMzMyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJiM2JiYjQ0M2VkNzMyMzdmOTU1MmNlODZkYzA4ZWJlMyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDcyMTk1MjM0fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Pounce (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
@@ -194727,7 +194797,7 @@
     "internalname": "POUNCE_NPC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g4402b1f",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pounce"
@@ -251454,25 +251524,25 @@
   },
   "SWEEP_BOOSTER_UNCOMMON": {
     "itemid": "minecraft:paper",
-    "displayname": "§aUncommon Sweep Booster",
-    "nbttag": "{ExtraAttributes:{id:\"SWEEP_BOOSTER_UNCOMMON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/boosters/uncommon/booster_sweep_upgraded\",display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §bꕮ Sweep §7booster when\",4:\"§7combined with Foraging Armor,\",5:\"§7Equipment, or Axes.\",6:\"\",7:\"§7Grants §2 Sweep§7.\",8:\"\",9:\"§a§lUNCOMMON BOOSTER\"],Name:\"§aUncommon Sweep Booster\"}}",
+    "displayname": "§aUncommon Sweep Booster Upgrade",
+    "nbttag": "{ExtraAttributes:{id:\"SWEEP_BOOSTER_UNCOMMON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/boosters/uncommon/booster_sweep_upgraded\",display:{Lore:[0:\"§8Booster\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Apply to an item with a §fCommon Sweep\",4:\"§fBooster §7to upgrade it to an\",5:\"§aUncommon Sweep Booster§7, which\",6:\"§7increases the amount of §2 Sweep §7it\",7:\"§7gives.\",8:\"\",9:\"§a§lUNCOMMON BOOSTER\"],Name:\"§aUncommon Sweep Booster Upgrade\"}}",
     "damage": 0,
     "lore": [
       "§8Booster",
       "§8Combinable in Anvil",
       "",
-      "§7Applies the §bꕮ Sweep §7booster when",
-      "§7combined with Foraging Armor,",
-      "§7Equipment, or Axes.",
-      "",
-      "§7Grants §2 Sweep§7.",
+      "§7Apply to an item with a §fCommon Sweep",
+      "§fBooster §7to upgrade it to an",
+      "§aUncommon Sweep Booster§7, which",
+      "§7increases the amount of §2 Sweep §7it",
+      "§7gives.",
       "",
       "§a§lUNCOMMON BOOSTER"
     ],
     "internalname": "SWEEP_BOOSTER_UNCOMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Sweep_Booster"
@@ -251521,6 +251591,25 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sweet_Flesh"
     ]
+  },
+  "SWOOP_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Swoop (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"SWOOP_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"453aefb8-e919-25bc-acbf-cb0e73bc8347\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzc1YzU3ZGNjODVhNGM2MDM3ZjUyYWYwMGZkY2VmNDA0Zjc0NjI3NmMwZDMxYTIyYjJhNTUwYzZhZWQ5MzJlZSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI0NTNhZWZiOGU5MTkyNWJjYWNiZmNiMGU3M2JjODM0NyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDcwNDE1OTQwfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Swoop (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "SWOOP_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "island": "foraging_2",
+    "x": -580,
+    "y": 114,
+    "z": -24
   },
   "SWORD_OF_BAD_HEALTH": {
     "itemid": "minecraft:wooden_sword",
@@ -259365,6 +259454,25 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tiki_Torch"
     ]
+  },
+  "TILUS_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Tilus (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"TILUS_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0af6f070-4803-2171-bc95-60c05659592b\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRlMTIwZGViY2M2YzU4NzNiZjczMjMyY2I2YmY5Njc3MjQwYWEzNzE4NDEyYjEyOTI5MzEzMjExZTdlNDJmOSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIwYWY2ZjA3MDQ4MDMyMTcxYmM5NTYwYzA1NjU5NTkyYiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg2NDcxNjIyNDIxfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Tilus (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "TILUS_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "island": "foraging_2",
+    "x": -642,
+    "y": 55,
+    "z": 48
   },
   "TIMESTALK": {
     "itemid": "minecraft:skull",
@@ -273338,15 +273446,17 @@
   "VAMPIRISM;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:1},id:\"VAMPIRISM;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Vampirism I\",1:\"§7Heal §c5❤ §7every time you kill a mob.\",2:\"§8(0.5s Cooldown).\",3:\"\",4:\"§6Source:\",5:\"§aI: §7Enchantment Table\",6:\"§aVI: §7Spooky Festival\",7:\"§aVI: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fSword\",11:\"§7- §fLongsword\",12:\"§7- §fGauntlet\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:1},id:\"VAMPIRISM;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Vampirism I\",3:\"§7Heal §c5❤ §7every time you kill a mob.\",4:\"§8(0.5s Cooldown).\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Spooky Festival\",9:\"§aVI: §7Bazaar\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fSword\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Vampirism I",
       "§7Heal §c5❤ §7every time you kill a mob.",
       "§8(0.5s Cooldown).",
       "",
       "§6Source:",
-      "§aI: §7Enchantment Table",
+      "§aI-V: §7Enchantment Table",
       "§aVI: §7Spooky Festival",
       "§aVI: §7Bazaar",
       "",
@@ -273370,15 +273480,17 @@
   "VAMPIRISM;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:2},id:\"VAMPIRISM;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Vampirism II\",1:\"§7Heal §c10❤ §7every time you kill a mob.\",2:\"§8(0.5s Cooldown).\",3:\"\",4:\"§6Source:\",5:\"§aI: §7Enchantment Table\",6:\"§aVI: §7Spooky Festival\",7:\"§aVI: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fSword\",11:\"§7- §fLongsword\",12:\"§7- §fGauntlet\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:2},id:\"VAMPIRISM;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Vampirism II\",3:\"§7Heal §c10❤ §7every time you kill a mob.\",4:\"§8(0.5s Cooldown).\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Spooky Festival\",9:\"§aVI: §7Bazaar\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fSword\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Vampirism II",
       "§7Heal §c10❤ §7every time you kill a mob.",
       "§8(0.5s Cooldown).",
       "",
       "§6Source:",
-      "§aI: §7Enchantment Table",
+      "§aI-V: §7Enchantment Table",
       "§aVI: §7Spooky Festival",
       "§aVI: §7Bazaar",
       "",
@@ -273402,15 +273514,17 @@
   "VAMPIRISM;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:3},id:\"VAMPIRISM;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Vampirism III\",1:\"§7Heal §c15❤ §7every time you kill a mob.\",2:\"§8(0.5s Cooldown).\",3:\"\",4:\"§6Source:\",5:\"§aI: §7Enchantment Table\",6:\"§aVI: §7Spooky Festival\",7:\"§aVI: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fSword\",11:\"§7- §fLongsword\",12:\"§7- §fGauntlet\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:3},id:\"VAMPIRISM;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Vampirism III\",3:\"§7Heal §c15❤ §7every time you kill a mob.\",4:\"§8(0.5s Cooldown).\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Spooky Festival\",9:\"§aVI: §7Bazaar\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fSword\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Vampirism III",
       "§7Heal §c15❤ §7every time you kill a mob.",
       "§8(0.5s Cooldown).",
       "",
       "§6Source:",
-      "§aI: §7Enchantment Table",
+      "§aI-V: §7Enchantment Table",
       "§aVI: §7Spooky Festival",
       "§aVI: §7Bazaar",
       "",
@@ -273434,15 +273548,17 @@
   "VAMPIRISM;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:4},id:\"VAMPIRISM;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Vampirism IV\",1:\"§7Heal §c20❤ §7every time you kill a mob.\",2:\"§8(0.5s Cooldown).\",3:\"\",4:\"§6Source:\",5:\"§aI: §7Enchantment Table\",6:\"§aVI: §7Spooky Festival\",7:\"§aVI: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fSword\",11:\"§7- §fLongsword\",12:\"§7- §fGauntlet\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:4},id:\"VAMPIRISM;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Vampirism IV\",3:\"§7Heal §c20❤ §7every time you kill a mob.\",4:\"§8(0.5s Cooldown).\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Spooky Festival\",9:\"§aVI: §7Bazaar\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fSword\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Vampirism IV",
       "§7Heal §c20❤ §7every time you kill a mob.",
       "§8(0.5s Cooldown).",
       "",
       "§6Source:",
-      "§aI: §7Enchantment Table",
+      "§aI-V: §7Enchantment Table",
       "§aVI: §7Spooky Festival",
       "§aVI: §7Bazaar",
       "",
@@ -273465,15 +273581,17 @@
   "VAMPIRISM;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:5},id:\"VAMPIRISM;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§9Vampirism V\",1:\"§7Heal §c25❤ §7every time you kill a mob.\",2:\"§8(0.5s Cooldown).\",3:\"\",4:\"§6Source:\",5:\"§aI: §7Enchantment Table\",6:\"§aVI: §7Spooky Festival\",7:\"§aVI: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fSword\",11:\"§7- §fLongsword\",12:\"§7- §fGauntlet\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:5},id:\"VAMPIRISM;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Vampirism V\",3:\"§7Heal §c25❤ §7every time you kill a mob.\",4:\"§8(0.5s Cooldown).\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Spooky Festival\",9:\"§aVI: §7Bazaar\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fSword\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Combinable in Anvil",
+      "",
       "§9Vampirism V",
       "§7Heal §c25❤ §7every time you kill a mob.",
       "§8(0.5s Cooldown).",
       "",
       "§6Source:",
-      "§aI: §7Enchantment Table",
+      "§aI-V: §7Enchantment Table",
       "§aVI: §7Spooky Festival",
       "§aVI: §7Bazaar",
       "",
@@ -273497,17 +273615,17 @@
   "VAMPIRISM;6": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§9Enchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:6},id:\"VAMPIRISM;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Vampirism VI\",3:\"§7Heal §c25❤ §7every time you kill a mob.\",4:\"§8(0.5s Cooldown).\",5:\"\",6:\"§6Source:\",7:\"§aI: §7Enchantment Table\",8:\"§aVI: §7Spooky Festival\",9:\"§aVI: §7Bazaar\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fSword\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§9§lRARE\"],Name:\"§9Enchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{vampirism:6},id:\"VAMPIRISM;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Vampirism VI\",3:\"§7Heal §c30❤ §7every time you kill a mob.\",4:\"§8(0.5s Cooldown).\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Spooky Festival\",9:\"§aVI: §7Bazaar\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fSword\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§9§lRARE\"],Name:\"§9Enchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Vampirism VI",
-      "§7Heal §c25❤ §7every time you kill a mob.",
+      "§7Heal §c30❤ §7every time you kill a mob.",
       "§8(0.5s Cooldown).",
       "",
       "§6Source:",
-      "§aI: §7Enchantment Table",
+      "§aI-V: §7Enchantment Table",
       "§aVI: §7Spooky Festival",
       "§aVI: §7Bazaar",
       "",
