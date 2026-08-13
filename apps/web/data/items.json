@@ -1505,6 +1505,22 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Acacia_Minion"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "",
+        "A3": "",
+        "B1": "",
+        "B2": "GENERATOR_UPGRADE_STONE_ACACIA_12:1",
+        "B3": "",
+        "C1": "",
+        "C2": "ACACIA_GENERATOR_11:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "ACACIA_GENERATOR_12"
+      }
     ]
   },
   "ACACIA_GENERATOR_2": {
@@ -18099,8 +18115,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Auryon"
+    ],
     "island": "foraging_2",
     "x": -558,
     "y": 111,
@@ -20864,8 +20882,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Banker_Bonsai"
+    ],
     "island": "foraging_2",
     "x": -599,
     "y": 116,
@@ -27210,6 +27230,22 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Birch_Minion"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "",
+        "A3": "",
+        "B1": "",
+        "B2": "GENERATOR_UPGRADE_STONE_BIRCH_12:1",
+        "B3": "",
+        "C1": "",
+        "C2": "BIRCH_GENERATOR_11:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "BIRCH_GENERATOR_12"
+      }
     ]
   },
   "BIRCH_GENERATOR_2": {
@@ -55632,6 +55668,22 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dark_Oak_Minion"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "",
+        "A3": "",
+        "B1": "",
+        "B2": "GENERATOR_UPGRADE_STONE_DARK_OAK_12:1",
+        "B3": "",
+        "C1": "",
+        "C2": "DARK_OAK_GENERATOR_11:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "DARK_OAK_GENERATOR_12"
+      }
     ]
   },
   "DARK_OAK_GENERATOR_2": {
@@ -93653,7 +93705,7 @@
   "FROG;0": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §fFrog",
-    "nbttag": "{ExtraAttributes:{id:\"FROG;0\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Respiration: §3+{RESPIRATION}\",6:\"§7Sweep: §2+{SWEEP}\",7:\"§7Foraging Fortune: §6+{FORAGING_FORTUNE}\",8:\"\",9:\"§6Hunting Enjoyer\",10:\"§7Increases your chance to catch\",11:\"§2Forest §7Shards by §a{0}%§7.\",12:\"\",13:\"§eRight-click to add this pet to your pet menu!\",14:\"\",15:\"§8Can be upgraded at Kat in The Hub!\",16:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fFrog\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FROG;0\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Respiration: §3+{RESPIRATION}\",6:\"§7Sweep: §2+{SWEEP}\",7:\"\",8:\"§6Hop\",9:\"§7Grants §6{0} Foraging Fortune §7for\",10:\"§e20 §7seconds every time you jump.\",11:\"\",12:\"§eRight-click to add this pet to your pet menu!\",13:\"\",14:\"§8Can be upgraded at Kat in The Hub!\",15:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fFrog\"}}",
     "damage": 3,
     "lore": [
       "§8Foraging Pet",
@@ -93663,11 +93715,10 @@
       "§7Fishing Speed: §b+{FISHING_SPEED}",
       "§7Respiration: §3+{RESPIRATION}",
       "§7Sweep: §2+{SWEEP}",
-      "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
       "",
-      "§6Hunting Enjoyer",
-      "§7Increases your chance to catch",
-      "§2Forest §7Shards by §a{0}%§7.",
+      "§6Hop",
+      "§7Grants §6{0} Foraging Fortune §7for",
+      "§e20 §7seconds every time you jump.",
       "",
       "§eRight-click to add this pet to your pet menu!",
       "",
@@ -93677,7 +93728,7 @@
     "internalname": "FROG;0",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc1.21.11+g610fbd78",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frog_Pet"
@@ -93686,7 +93737,7 @@
   "FROG;1": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §aFrog",
-    "nbttag": "{ExtraAttributes:{id:\"FROG;1\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"UNCOMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Respiration: §3+{RESPIRATION}\",6:\"§7Sweep: §2+{SWEEP}\",7:\"§7Foraging Fortune: §6+{FORAGING_FORTUNE}\",8:\"\",9:\"§6Hunting Enjoyer\",10:\"§7Increases your chance to catch\",11:\"§2Forest§7 and §bWater §7Shards by §a{0}%§7.\",12:\"\",13:\"§eRight-click to add this pet to your pet menu!\",14:\"\",15:\"§8Can be upgraded at Kat in The Hub!\",16:\"§a§lUNCOMMON\"],Name:\"§7[Lvl {LVL}] §aFrog\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FROG;1\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"UNCOMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Respiration: §3+{RESPIRATION}\",6:\"§7Sweep: §2+{SWEEP}\",7:\"\",8:\"§6Hop\",9:\"§7Grants §6{0} Foraging Fortune §7for\",10:\"§e20 §7seconds every time you jump.\",11:\"\",12:\"§eRight-click to add this pet to your pet menu!\",13:\"\",14:\"§8Can be upgraded at Kat in The Hub!\",15:\"§a§lUNCOMMON\"],Name:\"§7[Lvl {LVL}] §aFrog\"}}",
     "damage": 3,
     "lore": [
       "§8Foraging Pet",
@@ -93696,11 +93747,10 @@
       "§7Fishing Speed: §b+{FISHING_SPEED}",
       "§7Respiration: §3+{RESPIRATION}",
       "§7Sweep: §2+{SWEEP}",
-      "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
       "",
-      "§6Hunting Enjoyer",
-      "§7Increases your chance to catch",
-      "§2Forest§7 and §bWater §7Shards by §a{0}%§7.",
+      "§6Hop",
+      "§7Grants §6{0} Foraging Fortune §7for",
+      "§e20 §7seconds every time you jump.",
       "",
       "§eRight-click to add this pet to your pet menu!",
       "",
@@ -93710,7 +93760,7 @@
     "internalname": "FROG;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc1.21.11+g610fbd78",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frog_Pet"
@@ -93731,7 +93781,7 @@
   "FROG;2": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §9Frog",
-    "nbttag": "{ExtraAttributes:{id:\"FROG;2\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"RARE\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Respiration: §3+{RESPIRATION}\",6:\"§7Sweep: §2+{SWEEP}\",7:\"§7Foraging Fortune: §6+{FORAGING_FORTUNE}\",8:\"\",9:\"§6Hunting Enjoyer\",10:\"§7Increases your chance to catch\",11:\"§2Forest§7, §bWater§7, and §cCombat §7Shards by\",12:\"§a{0}%§7.\",13:\"\",14:\"§eRight-click to add this pet to your pet menu!\",15:\"\",16:\"§8Can be upgraded at Kat in The Hub!\",17:\"§9§lRARE\"],Name:\"§7[Lvl {LVL}] §9Frog\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FROG;2\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"RARE\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Respiration: §3+{RESPIRATION}\",6:\"§7Sweep: §2+{SWEEP}\",7:\"\",8:\"§6Hop\",9:\"§7Grants §6{0} Foraging Fortune §7for\",10:\"§e20 §7seconds every time you jump.\",11:\"\",12:\"§6Happy Tree Friends\",13:\"§7Grants §6{1} Foraging Fortune §7for\",14:\"§7every other §2Frog Pet §7on the island,\",15:\"§7up to §b10 §7frogs.\",16:\"\",17:\"§eRight-click to add this pet to your pet menu!\",18:\"\",19:\"§8Can be upgraded at Kat in The Hub!\",20:\"§9§lRARE\"],Name:\"§7[Lvl {LVL}] §9Frog\"}}",
     "damage": 3,
     "lore": [
       "§8Foraging Pet",
@@ -93741,12 +93791,15 @@
       "§7Fishing Speed: §b+{FISHING_SPEED}",
       "§7Respiration: §3+{RESPIRATION}",
       "§7Sweep: §2+{SWEEP}",
-      "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
       "",
-      "§6Hunting Enjoyer",
-      "§7Increases your chance to catch",
-      "§2Forest§7, §bWater§7, and §cCombat §7Shards by",
-      "§a{0}%§7.",
+      "§6Hop",
+      "§7Grants §6{0} Foraging Fortune §7for",
+      "§e20 §7seconds every time you jump.",
+      "",
+      "§6Happy Tree Friends",
+      "§7Grants §6{1} Foraging Fortune §7for",
+      "§7every other §2Frog Pet §7on the island,",
+      "§7up to §b10 §7frogs.",
       "",
       "§eRight-click to add this pet to your pet menu!",
       "",
@@ -93756,7 +93809,7 @@
     "internalname": "FROG;2",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc1.21.11+g610fbd78",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frog_Pet"
@@ -93777,7 +93830,7 @@
   "FROG;3": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §5Frog",
-    "nbttag": "{ExtraAttributes:{id:\"FROG;3\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"EPIC\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Respiration: §3+{RESPIRATION}\",6:\"§7Sweep: §2+{SWEEP}\",7:\"§7Foraging Fortune: §6+{FORAGING_FORTUNE}\",8:\"\",9:\"§6Hunting Enjoyer\",10:\"§7Increases your chance to catch\",11:\"§2Forest§7, §bWater§7, and §cCombat §7Shards by\",12:\"§a{0}%§7.\",13:\"\",14:\"§6Hop\",15:\"§7Grants §6{1}☘ Foraging Fortune §7for\",16:\"§e20 §7seconds every time you jump.\",17:\"\",18:\"§eRight-click to add this pet to your pet menu!\",19:\"\",20:\"§8Can be upgraded at Kat in The Hub!\",21:\"§5§lEPIC\"],Name:\"§7[Lvl {LVL}] §5Frog\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FROG;3\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"EPIC\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Respiration: §3+{RESPIRATION}\",6:\"§7Sweep: §2+{SWEEP}\",7:\"\",8:\"§6Hop\",9:\"§7Grants §6{0} Foraging Fortune §7for\",10:\"§e20 §7seconds every time you jump.\",11:\"\",12:\"§6Happy Tree Friends\",13:\"§7Grants §6{1} Foraging Fortune §7for\",14:\"§7every other §2Frog Pet §7on the island,\",15:\"§7up to §b10 §7frogs.\",16:\"\",17:\"§eRight-click to add this pet to your pet menu!\",18:\"\",19:\"§8Can be upgraded at Kat in The Hub!\",20:\"§5§lEPIC\"],Name:\"§7[Lvl {LVL}] §5Frog\"}}",
     "damage": 3,
     "lore": [
       "§8Foraging Pet",
@@ -93787,16 +93840,15 @@
       "§7Fishing Speed: §b+{FISHING_SPEED}",
       "§7Respiration: §3+{RESPIRATION}",
       "§7Sweep: §2+{SWEEP}",
-      "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
-      "",
-      "§6Hunting Enjoyer",
-      "§7Increases your chance to catch",
-      "§2Forest§7, §bWater§7, and §cCombat §7Shards by",
-      "§a{0}%§7.",
       "",
       "§6Hop",
-      "§7Grants §6{1}☘ Foraging Fortune §7for",
+      "§7Grants §6{0} Foraging Fortune §7for",
       "§e20 §7seconds every time you jump.",
+      "",
+      "§6Happy Tree Friends",
+      "§7Grants §6{1} Foraging Fortune §7for",
+      "§7every other §2Frog Pet §7on the island,",
+      "§7up to §b10 §7frogs.",
       "",
       "§eRight-click to add this pet to your pet menu!",
       "",
@@ -93806,7 +93858,7 @@
     "internalname": "FROG;3",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc1.21.11+g610fbd78",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frog_Pet"
@@ -93827,7 +93879,7 @@
   "FROG;4": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §6Frog",
-    "nbttag": "{ExtraAttributes:{id:\"FROG;4\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Respiration: §3+{RESPIRATION}\",6:\"§7Sweep: §2+{SWEEP}\",7:\"§7Foraging Fortune: §6+{FORAGING_FORTUNE}\",8:\"\",9:\"§6Hunting Enjoyer\",10:\"§7Increases your chance to catch\",11:\"§2Forest§7, §bWater§7, and §cCombat §7Shards by\",12:\"§a{0}%§7.\",13:\"\",14:\"§6Hop\",15:\"§7Grants §6{1}☘ Foraging Fortune §7for\",16:\"§e20 §7seconds every time you jump.\",17:\"\",18:\"§6Happy Tree Friends\",19:\"§7Grants §6{2}☘ Foraging Fortune §7for\",20:\"§7every other §2Frog Pet §7on the island,\",21:\"§7up to §b10 §7frogs.\",22:\"\",23:\"§eRight-click to add this pet to your pet menu!\",24:\"\",25:\"§8Can be upgraded at Kat in The Hub!\",26:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Frog\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FROG;4\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Respiration: §3+{RESPIRATION}\",6:\"§7Sweep: §2+{SWEEP}\",7:\"\",8:\"§6Hop\",9:\"§7Grants §6{0} Foraging Fortune §7for\",10:\"§e20 §7seconds every time you jump.\",11:\"\",12:\"§6Happy Tree Friends\",13:\"§7Grants §6{1} Foraging Fortune §7for\",14:\"§7every other §2Frog Pet §7on the island,\",15:\"§7up to §b10 §7frogs.\",16:\"\",17:\"§6Hunting Enjoyer\",18:\"§7Increases your chance of fishing up\",19:\"§9Water Shards §7by §a{2}% §7while on\",20:\"§2Foraging Islands§7.\",21:\"\",22:\"§eRight-click to add this pet to your pet menu!\",23:\"\",24:\"§8Can be upgraded at Kat in The Hub!\",25:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Frog\"}}",
     "damage": 3,
     "lore": [
       "§8Foraging Pet",
@@ -93837,21 +93889,20 @@
       "§7Fishing Speed: §b+{FISHING_SPEED}",
       "§7Respiration: §3+{RESPIRATION}",
       "§7Sweep: §2+{SWEEP}",
-      "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
-      "",
-      "§6Hunting Enjoyer",
-      "§7Increases your chance to catch",
-      "§2Forest§7, §bWater§7, and §cCombat §7Shards by",
-      "§a{0}%§7.",
       "",
       "§6Hop",
-      "§7Grants §6{1}☘ Foraging Fortune §7for",
+      "§7Grants §6{0} Foraging Fortune §7for",
       "§e20 §7seconds every time you jump.",
       "",
       "§6Happy Tree Friends",
-      "§7Grants §6{2}☘ Foraging Fortune §7for",
+      "§7Grants §6{1} Foraging Fortune §7for",
       "§7every other §2Frog Pet §7on the island,",
       "§7up to §b10 §7frogs.",
+      "",
+      "§6Hunting Enjoyer",
+      "§7Increases your chance of fishing up",
+      "§9Water Shards §7by §a{2}% §7while on",
+      "§2Foraging Islands§7.",
       "",
       "§eRight-click to add this pet to your pet menu!",
       "",
@@ -93861,7 +93912,7 @@
     "internalname": "FROG;4",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc1.21.11+g610fbd78",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frog_Pet"
@@ -93882,7 +93933,7 @@
   "FROG;5": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §dFrog",
-    "nbttag": "{ExtraAttributes:{id:\"FROG;5\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"MYTHIC\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Trophy Chance: §6+{TROPHY_CHANCE}%\",6:\"§7Respiration: §3+{RESPIRATION}\",7:\"§7Sweep: §2+{SWEEP}\",8:\"§7Foraging Fortune: §6+{FORAGING_FORTUNE}\",9:\"\",10:\"§6Hunting Enjoyer\",11:\"§7Increases your chance to catch\",12:\"§2Forest§7, §bWater§7, and §cCombat §7Shards by\",13:\"§a{0}%§7.\",14:\"\",15:\"§6Hop\",16:\"§7Grants §6{1}☘ Foraging Fortune §7for\",17:\"§e20 §7seconds every time you jump.\",18:\"\",19:\"§6Happy Tree Friends\",20:\"§7Grants §6{2}☘ Foraging Fortune §7and\",21:\"§b{3}☂ Fishing Speed §7for every\",22:\"§7other §2Frog Pet §7on the island, up to\",23:\"§b10 §7frogs.\",24:\"\",25:\"§6Home Sweet Home\",26:\"§7Increases your chance of catching\",27:\"§6§lGOLD §7and §b§lDIAMOND §2Trophy Frogs\",28:\"§7by §a{4}%§7.\",29:\"\",30:\"§eRight-click to add this pet to your pet menu!\",31:\"\",32:\"§d§lMYTHIC\"],Name:\"§7[Lvl {LVL}] §dFrog\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FROG;5\",petInfo:\"{\\\"type\\\":\\\"FROG\\\",\\\"tier\\\":\\\"MYTHIC\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"79de0466-5110-3b29-b62d-6110481c8401\",Properties:{textures:[0:{Name:\"textures\",Signature:\"o1WoMlhWAzBobFdnNDpSlUwntQWgimvZDWnkRNq0Z8KdRFP/q4LeNSyNAPWsoOXvT/pq1oTCqwYu0WZ5bLzDrp/p9crmqGrasaMjakcnZZexHbT1p4cZZ1UDkk3rgDheK4YH5g3gLTTUmfXnStRMzrBX2rAyg1Xpa9OTUxyi8aGhLJE/P8ffXpk3D8Hqp9+d5pbMJz9xSW8KtP3WqadPUaoCbmN8WOV3LdylJvoWOXhaTWbLy3X3Bib3S3A2mnL4AsQL+sAxCrl+TiHiMPYE7IkhVwaykX/eD9vfb3WvXoVra4doIQ6xvgSeWratcO3WeGNZXhjZj+W26BY9POy6Y7KYU7PRnH0gHKesDTFwaUh+gCfTH3RarHtyiBtsq+0iktNiwLFf9UlB2JtqGrMEslUPzqRoT1ZaPkW0k0WGNmXkukap0T9iWdGfEn8BtTqg8udnIvYxbRivzbtAexg44p5PRrwc2UhiS9ZsYqW3hcSk4M1TcbKxfW9MahAhMO44jbnSJPbeFeisarTWTq0do1/e0ztFkYeH/L7y7BN/MtoPEIV6t16Mk9TWOikX1VPGb2zcOBF+PtQ97jOaHSskZMa2XNFRieer+zZKUeVqzRvUYFR8GTXTC/7uipApKVtgA4+pK/q4dFaVh7XZC6kFf2vjhAZ/LPHB331Pb/aFYIk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4ODY3NjM5Mjc1NCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0b19SdyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTg1MmE5NTkyODg5Nzc0NjAxMjk4OGZiZDVkYmFhMWI3MGI3YTVmYjY1MTU3MDE2ZjRmZjNmMjQ1Mzc0YzA4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+30\",3:\"§7Speed: §f+{SPEED}\",4:\"§7Fishing Speed: §b+{FISHING_SPEED}\",5:\"§7Trophy Chance: §6+{TROPHY_CHANCE}%\",6:\"§7Respiration: §3+{RESPIRATION}\",7:\"§7Sweep: §2+{SWEEP}\",8:\"\",9:\"§6Hop\",10:\"§7Grants §6{0} Foraging Fortune §7for\",11:\"§e20 §7seconds every time you jump.\",12:\"\",13:\"§6Happy Tree Friends\",14:\"§7Grants §6{1} Foraging Fortune §7and\",15:\"§b{2} Fishing Speed §7for every\",16:\"§7other §2Frog Pet §7on the island, up to\",17:\"§b10 §7frogs.\",18:\"\",19:\"§6Hunting Enjoyer\",20:\"§7Increases your chance of fishing up\",21:\"§9Water Shards §7by §a{3}% §7while on\",22:\"§2Foraging Islands§7.\",23:\"\",24:\"§6Home Sweet Home\",25:\"§7Increases your chance of catching\",26:\"§6§lGOLD §7and §b§lDIAMOND §2Trophy Frogs\",27:\"§7by §a{4}%§7.\",28:\"\",29:\"§eRight-click to add this pet to your pet menu!\",30:\"\",31:\"§d§lMYTHIC\"],Name:\"§7[Lvl {LVL}] §dFrog\"}}",
     "damage": 3,
     "lore": [
       "§8Foraging Pet",
@@ -93893,22 +93944,21 @@
       "§7Trophy Chance: §6+{TROPHY_CHANCE}%",
       "§7Respiration: §3+{RESPIRATION}",
       "§7Sweep: §2+{SWEEP}",
-      "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
-      "",
-      "§6Hunting Enjoyer",
-      "§7Increases your chance to catch",
-      "§2Forest§7, §bWater§7, and §cCombat §7Shards by",
-      "§a{0}%§7.",
       "",
       "§6Hop",
-      "§7Grants §6{1}☘ Foraging Fortune §7for",
+      "§7Grants §6{0} Foraging Fortune §7for",
       "§e20 §7seconds every time you jump.",
       "",
       "§6Happy Tree Friends",
-      "§7Grants §6{2}☘ Foraging Fortune §7and",
-      "§b{3}☂ Fishing Speed §7for every",
+      "§7Grants §6{1} Foraging Fortune §7and",
+      "§b{2} Fishing Speed §7for every",
       "§7other §2Frog Pet §7on the island, up to",
       "§b10 §7frogs.",
+      "",
+      "§6Hunting Enjoyer",
+      "§7Increases your chance of fishing up",
+      "§9Water Shards §7by §a{3}% §7while on",
+      "§2Foraging Islands§7.",
       "",
       "§6Home Sweet Home",
       "§7Increases your chance of catching",
@@ -93922,7 +93972,7 @@
     "internalname": "FROG;5",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc1.21.11+g610fbd78",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frog_Pet"
@@ -129313,6 +129363,22 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Jungle_Minion"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "",
+        "A3": "",
+        "B1": "",
+        "B2": "GENERATOR_UPGRADE_STONE_JUNGLE_12:1",
+        "B3": "",
+        "C1": "",
+        "C2": "JUNGLE_GENERATOR_11:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "JUNGLE_GENERATOR_12"
+      }
     ]
   },
   "JUNGLE_GENERATOR_2": {
@@ -162428,6 +162494,22 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Oak_Minion"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "",
+        "A3": "",
+        "B1": "",
+        "B2": "GENERATOR_UPGRADE_STONE_OAK_12:1",
+        "B3": "",
+        "C1": "",
+        "C2": "OAK_GENERATOR_11:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "OAK_GENERATOR_12"
+      }
     ]
   },
   "OAK_GENERATOR_2": {
@@ -228440,7 +228522,7 @@
           },
           {
             "id": "KARMA;1:1",
-            "chance": "0.02%"
+            "chance": "0.2%"
           },
           {
             "id": "AXE_FADING_BLUE_RUNE;1:1",
@@ -240995,6 +241077,22 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spruce_Minion"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "",
+        "A3": "",
+        "B1": "",
+        "B2": "GENERATOR_UPGRADE_STONE_SPRUCE_12:1",
+        "B3": "",
+        "C1": "",
+        "C2": "SPRUCE_GENERATOR_11:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "SPRUCE_GENERATOR_12"
+      }
     ]
   },
   "SPRUCE_GENERATOR_2": {
@@ -251604,8 +251702,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Swoop"
+    ],
     "island": "foraging_2",
     "x": -580,
     "y": 114,
@@ -259467,8 +259567,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Tilus"
+    ],
     "island": "foraging_2",
     "x": -642,
     "y": 55,
