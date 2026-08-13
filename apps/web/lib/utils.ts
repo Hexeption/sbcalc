@@ -1,4 +1,5 @@
 import { parseSNBT } from "@workspace/snbt-parser";
+import { getHeadTextureUrl } from "./site-paths";
 import type { RecipeEntry, RecipesData } from "./types";
 
 /**
@@ -75,7 +76,7 @@ export function extractFromSNBT(nbttag: string): {
               /textures\.minecraft\.net\/texture\/([a-f0-9]+)/i,
             );
             if (hashMatch?.[1]) {
-              textureUrl = `/api/head/${hashMatch[1]}`;
+              textureUrl = getHeadTextureUrl(hashMatch[1]);
             }
           }
         } catch (_e) {

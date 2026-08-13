@@ -7,6 +7,7 @@ import {
   listFiles,
   parseCats,
 } from "@/lib/cats-parser";
+import { withBasePath } from "@/lib/site-paths";
 
 export interface TextureInfo {
   url: string;
@@ -45,10 +46,14 @@ const PACK_REGISTRY: Omit<
   {
     id: "hypixel",
     name: "Hypixel Official",
-    url: "/hypixel.cats",
+    url: withBasePath("/hypixel.cats"),
   },
-  { id: "fursky", name: "FurfSky Reborn", url: "/fursky.cats" },
-  { id: "packshq", name: "PacksHQ", url: "/packshq.cats" },
+  {
+    id: "fursky",
+    name: "FurfSky Reborn",
+    url: withBasePath("/fursky.cats"),
+  },
+  { id: "packshq", name: "PacksHQ", url: withBasePath("/packshq.cats") },
 ];
 
 function loadSelectedPack(): string | null {

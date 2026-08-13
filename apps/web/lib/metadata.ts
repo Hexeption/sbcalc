@@ -1,62 +1,19 @@
 import type { Metadata } from "next";
-import type { ShareableRecipeState } from "@/lib/share-utils";
-import { decodeRecipeState } from "@/lib/share-utils";
 
-const formatItemName = (itemId: string): string => {
-  return itemId
-    .toLowerCase()
-    .split("_")
-    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(" ");
-};
-
-const getRecipeDescription = (state: ShareableRecipeState): string => {
-  const recipeEntries = Object.entries(state.recipes);
-
-  if (recipeEntries.length === 0) {
-    return "Skyblock Calculator";
-  }
-
-  if (recipeEntries.length === 1) {
-    const firstEntry = recipeEntries[0];
-    if (firstEntry) {
-      const [itemId, count] = firstEntry;
-      return `${count}x ${formatItemName(itemId)}`;
-    }
-  }
-
-  const totalItems = recipeEntries.reduce((sum, [, count]) => sum + count, 0);
-  return `${recipeEntries.length} recipes (${totalItems} total items)`;
-};
-
-export function generateMetadata(searchParams?: { shared?: string }): Metadata {
+export function generateMetadata(): Metadata {
   const baseUrl =
-    process.env.NODE_ENV === "production"
+    process.env.NEXT_PUBLIC_SITE_URL ??
+    (process.env.NODE_ENV === "production"
       ? "https://sbcalc.net"
-      : "http://localhost:3000";
-
-  // Default metadata
-  let title = "Skyblock Calculator";
-  let description =
+      : "http://localhost:3000");
+  const normalizedBaseUrl = baseUrl.endsWith("/") ? baseUrl : `${baseUrl}/`;
+  const title = "Skyblock Calculator";
+  const description =
     "A comprehensive tool for calculating Minecraft Hypixel Skyblock item recipes, forge times, and base requirements. Plan your crafting efficiently with our interactive recipe tree and ingredient calculator.";
-
-  // OG image URL - always include the API route
-  let ogImageUrl = `${baseUrl}/api/og`;
-
-  // If there's shared data, customize the metadata
-  if (searchParams?.shared) {
-    const decodedState = decodeRecipeState(searchParams.shared);
-    if (decodedState) {
-      const recipeDesc = getRecipeDescription(decodedState);
-      title = `${recipeDesc} | Skyblock Calculator`;
-      description = `Shared recipe configuration: ${recipeDesc}. Calculate crafting requirements and forge times for Minecraft Hypixel Skyblock.`;
-
-      // Add the shared parameter to the OG image URL
-      ogImageUrl = `${baseUrl}/api/og?shared=${encodeURIComponent(searchParams.shared)}`;
-    }
-  }
+  const ogImageUrl = new URL("og.png", normalizedBaseUrl).toString();
 
   return {
+    metadataBase: new URL(normalizedBaseUrl),
     title,
     description,
     keywords: [
@@ -78,7 +35,7 @@ export function generateMetadata(searchParams?: { shared?: string }): Metadata {
     openGraph: {
       type: "website",
       locale: "en_US",
-      url: baseUrl,
+      url: normalizedBaseUrl,
       title,
       description,
       siteName: "Skyblock Calculator",

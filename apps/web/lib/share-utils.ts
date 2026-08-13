@@ -1,3 +1,4 @@
+import { withBasePath } from "./site-paths";
 import type { ForgeSettings } from "./types";
 
 export interface ShareableRecipeState {
@@ -46,10 +47,9 @@ export function decodeRecipeState(
  */
 export function generateShareableUrl(state: ShareableRecipeState): string {
   const encoded = encodeRecipeState(state);
-  if (!encoded) return "";
+  if (!encoded || typeof window === "undefined") return "";
 
-  const baseUrl = typeof window !== "undefined" ? window.location.origin : "";
-  const url = new URL(baseUrl);
+  const url = new URL(withBasePath("/"), window.location.origin);
   url.searchParams.set("shared", encoded);
 
   return url.toString();

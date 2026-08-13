@@ -3,6 +3,7 @@
 import React from "react";
 import { getMappingInfo } from "@/lib/item-id-mappings";
 import { useRecipeData } from "@/lib/recipe-data-context";
+import { getHeadTextureUrl, withBasePath } from "@/lib/site-paths";
 import {
   type TextureInfo,
   useTexturePackStore,
@@ -76,9 +77,9 @@ function AnimatedTexture({
 function getVanillaPaths(id: string, isEnchanted: boolean): string[] {
   const paths: string[] = [];
   if (isEnchanted) {
-    paths.push(`/vanilla/enchanted_${id}.gif`);
+    paths.push(withBasePath(`/vanilla/enchanted_${id}.gif`));
   }
-  paths.push(`/vanilla/${id}.png`);
+  paths.push(withBasePath(`/vanilla/${id}.png`));
   return paths;
 }
 
@@ -132,7 +133,7 @@ export function ItemImage({
     if (internalname === "SKYBLOCK_COIN") {
       const mappingInfo = getMappingInfo("SKYBLOCK_COIN");
       if (mappingInfo.textureHash) {
-        setSrc(`/api/head/${mappingInfo.textureHash}`);
+        setSrc(getHeadTextureUrl(mappingInfo.textureHash));
         return;
       }
     }
@@ -171,7 +172,7 @@ export function ItemImage({
       );
 
       if (mappingInfo.textureHash) {
-        setSrc(`/api/head/${mappingInfo.textureHash}`);
+        setSrc(getHeadTextureUrl(mappingInfo.textureHash));
         fallbackPaths.current = [];
       } else {
         const isEnchanted = internalname.startsWith("ENCHANTED_");

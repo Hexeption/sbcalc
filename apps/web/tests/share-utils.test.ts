@@ -1,4 +1,4 @@
-import { describe, expect, it, vi } from "vitest";
+import { afterEach, describe, expect, it, vi } from "vitest";
 import {
   createRecipeDescription,
   decodeRecipeState,
@@ -19,6 +19,10 @@ Object.defineProperty(window, "location", {
 });
 
 describe("share-utils", () => {
+  afterEach(() => {
+    vi.unstubAllEnvs();
+  });
+
   const mockState: ShareableRecipeState = {
     recipes: {
       HYPERION: 1,
@@ -85,8 +89,17 @@ describe("share-utils", () => {
     it("should generate valid shareable URL", () => {
       const url = generateShareableUrl(mockState);
 
-      expect(url).toContain("https://example.com");
+      expect(url).toContain("https://example.com/");
       expect(url).toContain("shared=");
+    });
+
+    it("should retain the GitHub Pages base path", () => {
+      vi.stubEnv("NEXT_PUBLIC_BASE_PATH", "/sbcalc");
+
+      const url = new URL(generateShareableUrl(mockState));
+
+      expect(url.pathname).toBe("/sbcalc/");
+      expect(url.searchParams.get("shared")).toBeTruthy();
     });
 
     it("should return empty string for encoding errors", () => {
