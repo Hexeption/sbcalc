@@ -36,6 +36,9 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
+      - name: Build workspace dependencies
+        run: pnpm --filter @workspace/snbt-parser build
+
       - name: Build static site
         env:
           GITHUB_PAGES: "true"
