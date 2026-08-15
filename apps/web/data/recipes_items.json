@@ -1775,7 +1775,7 @@
   "AMMONITE;4": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §6Ammonite",
-    "nbttag": "{ExtraAttributes:{id:\"AMMONITE;4\",petInfo:\"{\\\"type\\\":\\\"AMMONITE\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d05d927e-f686-323e-9c21-a99d0e0cc2ca\",Properties:{textures:[0:{Name:\"textures\",Signature:\"enb/V0ziWjq/jeAfp3Ia4aAbGp6eBvyy3y/JViIygHWMRMEnG3xsHiQAaSdgeFqjBIuF5PvA7KrRLrRkD7cGxkGchfYmV6JL+RhOzYBeCEAazQsaSHPrdfp3WTbv4xcHjg1p8aRqpeBcEUUmP1+RniWpVNnyYiP3z5vun0o59dAa9eBsb5Ub3AlbtJhswp3ywPDjxnXMokEXOrx+OAvy/C+DQGkrF9TF0c8GTggBPHUxNTaaUy2ET/sXUsYIq3L1D9Ms5txxmqwHTBRRwcac947PFplELapqU4/Yptf3bhcWMS0daVbubtdiFX5WRF4Tt1QAZsJiIPIf+QdHLwzgXdn3YBs1gzEY5P0tVk1PzqWAB5nWBerGEQUHa9z5jcBl7unbJlKLc/lIUMb3lDsBblrfujObuqsRb3YPYI8gUZjG+ilrK6gmXpGsO4u8oxBUvYnKgHLT2vnmx54V9VCiOOOdl9y1weoVXl20dLLM63ET52E0j139Hzo2eu9K2h1tKS64Di7wryWKGoa61tBfes5LMejyxre5OPMtni39uvqIGjrcsuruMad1hTtkmw/A3Gs1b/t3QiJUQ0h9IqRH8YXAlPfwvEjYsVvw83SVoaUNiUMQazmWT4lL9WaMxE6xc8s028Rvkj834eaWDNzRQkjFPXIyhd3/lCl5I8I7eQg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDExNTI5NDE1NiwKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTA3NGE3YmQ5NzZmZTZhYmExNjI0MTYxNzkzYmU1NDdkNTRjODM1Y2Y0MjIyNDNhODUxYmEwOWQxZTY1MDU1MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Pet\",1:\"\",2:\"§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}\",3:\"\",4:\"§6Heart of the Sea\",5:\"§7Grants §3+{0} Sea Creature Chance\",6:\"§7to your pet for each §5Heart of the\",7:\"§5Mountain §7level.\",8:\"\",9:\"§6Expert Cave Fisher\",10:\"§7Grants §9+{1}⚓ Double Hook Chance\",11:\"§7for each §5Heart of the Mountain §7level\",12:\"§7while in the §5Crystal Hollows§7.\",13:\"\",14:\"§6Gift of the Ammonite\",15:\"§7Each Mining and Fishing level grants\",16:\"§b+{2}☂ Fishing Speed§7, §f+{3}✦ Speed\",17:\"§7and §a+{4}❈ Defense§7.\",18:\"\",19:\"§eRight-click to add this pet to your pet menu!\",20:\"\",21:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Ammonite\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"AMMONITE;4\",petInfo:\"{\\\"type\\\":\\\"AMMONITE\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d05d927e-f686-323e-9c21-a99d0e0cc2ca\",Properties:{textures:[0:{Name:\"textures\",Signature:\"enb/V0ziWjq/jeAfp3Ia4aAbGp6eBvyy3y/JViIygHWMRMEnG3xsHiQAaSdgeFqjBIuF5PvA7KrRLrRkD7cGxkGchfYmV6JL+RhOzYBeCEAazQsaSHPrdfp3WTbv4xcHjg1p8aRqpeBcEUUmP1+RniWpVNnyYiP3z5vun0o59dAa9eBsb5Ub3AlbtJhswp3ywPDjxnXMokEXOrx+OAvy/C+DQGkrF9TF0c8GTggBPHUxNTaaUy2ET/sXUsYIq3L1D9Ms5txxmqwHTBRRwcac947PFplELapqU4/Yptf3bhcWMS0daVbubtdiFX5WRF4Tt1QAZsJiIPIf+QdHLwzgXdn3YBs1gzEY5P0tVk1PzqWAB5nWBerGEQUHa9z5jcBl7unbJlKLc/lIUMb3lDsBblrfujObuqsRb3YPYI8gUZjG+ilrK6gmXpGsO4u8oxBUvYnKgHLT2vnmx54V9VCiOOOdl9y1weoVXl20dLLM63ET52E0j139Hzo2eu9K2h1tKS64Di7wryWKGoa61tBfes5LMejyxre5OPMtni39uvqIGjrcsuruMad1hTtkmw/A3Gs1b/t3QiJUQ0h9IqRH8YXAlPfwvEjYsVvw83SVoaUNiUMQazmWT4lL9WaMxE6xc8s028Rvkj834eaWDNzRQkjFPXIyhd3/lCl5I8I7eQg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDExNTI5NDE1NiwKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTA3NGE3YmQ5NzZmZTZhYmExNjI0MTYxNzkzYmU1NDdkNTRjODM1Y2Y0MjIyNDNhODUxYmEwOWQxZTY1MDU1MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Pet\",1:\"\",2:\"§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}\",3:\"\",4:\"§6Heart of the Sea\",5:\"§7Grants §3+{0} Sea Creature Chance\",6:\"§7to your pet for each §5Heart of the\",7:\"§5Mountain §7level.\",8:\"\",9:\"§6Expert Cave Fisher\",10:\"§7Grants §9+{1} Double Hook Chance\",11:\"§7for each §5Heart of the Mountain §7level\",12:\"§7while in the §5Crystal Hollows§7.\",13:\"\",14:\"§6Gift of the Ammonite\",15:\"§7Each Mining and Fishing level grants\",16:\"§b+{2} Fishing Speed§7, §f+{3} Speed\",17:\"§7and §a+{4} Defense§7.\",18:\"\",19:\"§eRight-click to add this pet to your pet menu!\",20:\"\",21:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Ammonite\"}}",
     "damage": 3,
     "lore": [
       "§8Fishing Pet",
@@ -1788,14 +1788,14 @@
       "§5Mountain §7level.",
       "",
       "§6Expert Cave Fisher",
-      "§7Grants §9+{1}⚓ Double Hook Chance",
+      "§7Grants §9+{1} Double Hook Chance",
       "§7for each §5Heart of the Mountain §7level",
       "§7while in the §5Crystal Hollows§7.",
       "",
       "§6Gift of the Ammonite",
       "§7Each Mining and Fishing level grants",
-      "§b+{2}☂ Fishing Speed§7, §f+{3}✦ Speed",
-      "§7and §a+{4}❈ Defense§7.",
+      "§b+{2} Fishing Speed§7, §f+{3} Speed",
+      "§7and §a+{4} Defense§7.",
       "",
       "§eRight-click to add this pet to your pet menu!",
       "",
@@ -1804,7 +1804,7 @@
     "internalname": "AMMONITE;4",
     "clickcommand": "",
     "crafttext": "Requires: HotM 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ammonite_Pet"
@@ -11662,7 +11662,7 @@
   "CHICKEN;0": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §fChicken",
-    "nbttag": "{ExtraAttributes:{id:\"CHICKEN;0\",petInfo:\"{\\\"type\\\":\\\"CHICKEN\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9c9317f1-12bf-3c5a-bf82-030686b14da5\",Properties:{textures:[0:{Name:\"textures\",Signature:\"fhOY7aA+pSJ6X3dGOV1BKxnDNFj+RgoQvOQguDw0ubj3qzkN7C4Kv316xLgS+gwUxUaxiWY9kx9uhVHXKzIZZ8FuoPx2ioLbqC4gaPO2kKs8P6OMF3URND6iUgNjW2ZV/fR04OszUiIBMw1wwOdNHOysrl4j3XkEbbKl/hSI6Kb6tR9JncIhralN35qtQMpWQmRj4B9C/vQR2je3bukFs7fr+wpiqUidRoRMwAoUWLTGRv+eIryI939QMYWTPURFdXA5MfCydjEFxNIa3Csv/iCn0i9tWy2yDmt+bCdxC19f6Djl9OyJTpH++rIiX1n3iZnc9w8EpbOINIH+LGRmtrTAxdrLTExIMoSwcHUtZnmPb7IrhHdYlghXiFKcYFx5SZwfH2tU00Mtp9oVKOgVd5aTFvXUbta2HUwhGPGa0QBqwzzOh8lezi086emHyUW7ILt59mOyfajIfkQaVdNv96c/Ugqul6R8rhOANKkttwS1DT2wikGf6NNCRsNlMi3qIk3xMlrOnZ1jPx4/CajcqsgpCL7xG5tLB3t5ZdE6Sh4Qppn6aqYIxJEFJrao3XdkpveNkyRv4xjctZ98wahJJNe6jJjWDM0OHx+G70Jw94lgKjUR6zzFvtVDNs1nzUBGPte8S1u+23c9DLRdTgeMNy0GZubp325+8Nt5ulICRjw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxMDEyMjM5MzE0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2ZTU3MzI2MjI5N2RmMmJmYTgxNTYyNDk4YTIyYTkwNDc4ZTVjOTZlODBkMDU4ODVkODcwODRkZTI0ZDJiMTgiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Farming Pet\",1:\"\",2:\"§7Speed: §f+{SPEED}\",3:\"§7Farming Fortune: §6+{FARMING_FORTUNE}\",4:\"\",5:\"§6Free Range\",6:\"§7Grants §6+{0}☘ Farming Fortune §7while\",7:\"§7on §bPublic Islands§7.\",8:\"\",9:\"§eRight-click to add this pet to your pet menu!\",10:\"\",11:\"§8Can be upgraded at Kat in The Hub!\",12:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fChicken\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CHICKEN;0\",petInfo:\"{\\\"type\\\":\\\"CHICKEN\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9c9317f1-12bf-3c5a-bf82-030686b14da5\",Properties:{textures:[0:{Name:\"textures\",Signature:\"fhOY7aA+pSJ6X3dGOV1BKxnDNFj+RgoQvOQguDw0ubj3qzkN7C4Kv316xLgS+gwUxUaxiWY9kx9uhVHXKzIZZ8FuoPx2ioLbqC4gaPO2kKs8P6OMF3URND6iUgNjW2ZV/fR04OszUiIBMw1wwOdNHOysrl4j3XkEbbKl/hSI6Kb6tR9JncIhralN35qtQMpWQmRj4B9C/vQR2je3bukFs7fr+wpiqUidRoRMwAoUWLTGRv+eIryI939QMYWTPURFdXA5MfCydjEFxNIa3Csv/iCn0i9tWy2yDmt+bCdxC19f6Djl9OyJTpH++rIiX1n3iZnc9w8EpbOINIH+LGRmtrTAxdrLTExIMoSwcHUtZnmPb7IrhHdYlghXiFKcYFx5SZwfH2tU00Mtp9oVKOgVd5aTFvXUbta2HUwhGPGa0QBqwzzOh8lezi086emHyUW7ILt59mOyfajIfkQaVdNv96c/Ugqul6R8rhOANKkttwS1DT2wikGf6NNCRsNlMi3qIk3xMlrOnZ1jPx4/CajcqsgpCL7xG5tLB3t5ZdE6Sh4Qppn6aqYIxJEFJrao3XdkpveNkyRv4xjctZ98wahJJNe6jJjWDM0OHx+G70Jw94lgKjUR6zzFvtVDNs1nzUBGPte8S1u+23c9DLRdTgeMNy0GZubp325+8Nt5ulICRjw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxMDEyMjM5MzE0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2ZTU3MzI2MjI5N2RmMmJmYTgxNTYyNDk4YTIyYTkwNDc4ZTVjOTZlODBkMDU4ODVkODcwODRkZTI0ZDJiMTgiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Farming Pet\",1:\"\",2:\"§7Speed: §f+{SPEED}\",3:\"§7Farming Fortune: §6+{FARMING_FORTUNE}\",4:\"\",5:\"§6Free Range\",6:\"§7Grants §6+{0} Farming Fortune §7while\",7:\"§7on §bPublic Islands§7.\",8:\"\",9:\"§eRight-click to add this pet to your pet menu!\",10:\"\",11:\"§8Can be upgraded at Kat in The Hub!\",12:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fChicken\"}}",
     "damage": 3,
     "lore": [
       "§8Farming Pet",
@@ -11671,7 +11671,7 @@
       "§7Farming Fortune: §6+{FARMING_FORTUNE}",
       "",
       "§6Free Range",
-      "§7Grants §6+{0}☘ Farming Fortune §7while",
+      "§7Grants §6+{0} Farming Fortune §7while",
       "§7on §bPublic Islands§7.",
       "",
       "§eRight-click to add this pet to your pet menu!",
@@ -11682,7 +11682,7 @@
     "internalname": "CHICKEN;0",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires Raw Chicken III",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Chicken_Pet"
@@ -20330,7 +20330,7 @@
   "DROPLET_WISP;1": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §aDroplet Wisp",
-    "nbttag": "{ExtraAttributes:{id:\"DROPLET_WISP;1\",petInfo:\"{\\\"type\\\":\\\"DROPLET_WISP\\\",\\\"tier\\\":\\\"UNCOMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"991a7841-b224-3444-9d14-6c2f0b6180dc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ueexEKRwehqgzqYc2Kpn1f99Dfs7DxG5L68z1CDG/e2U7Mi5zNetp3PaFH0HqKbsg43qOzg792xtzKtOWGZXGU2JmSMn+0F+97aLx6plTEmbui8wwHZ36Pv7nq3pQcB2TLPTyg5FCfrUQQ45FTW/D5onh+CMVnf8jQdujqUl6HPGOzvTRpDHzrZbtF9ShyHgvEG3pB6mUZw78k//pi8ThufzLRTQEaUVUdZW7jlVuhHBDCC69juG9tz+DODj7n5PAO/xsqm2TtgXhezh9chzkNjCN4Ei49aS20QlCZ8jfHqTAtZD1lY8gS84uYife5TkcPy8PxDzrTdoZTMXSQPVCjcxd4cCIPK5uP/Q/fdPPUJtdJ/cpe4inwe/vhuozaAFCj7PCjlKXvqpAhdX0jxiEtanVNqhXq/lgg9HNMIsltQVa/hdBpclgv/TG168PY7bPWvHTRZgszBf1htOLkRQKZMWXNCBYsYwxNB87pVxut8ZItUJ/XPqzw/IjHjWefEb8dXf0cp2IL0qGIgm0b3DTifEHw2JPSgJiIuU2TRADJwfZY0cWf/Ya+aNSrkLCtEcflQt8IJRwNxPwVB4BDu/o0f9UgzLvSb/Ae4I5AyjNCnQZlERAx7cm64ayeIYTDI9juTZlUYYfMXrbVG8xr0C5u4NK/5IROsv/oFBK4vzkSM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTk3OTE1MCwKICAicHJvZmlsZUlkIiA6ICIxMzEzZGFmMDc2OGQ0YmQ5Yjc1ODJkMGI1NWUwZGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW50aWNjaGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0MTJlNzAzNzVlYzk5ZWUzOGFlOTRiMzBlOWIxMDc1MmQ0NTk2NjJiNTQ3OTRkZmU2NmZlNmExODNjNjcyZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Gabagool Pet, feed to gain XP\",1:\"\",2:\"§7Health: §c+{HEALTH}\",3:\"§7Damage: §c+{DAMAGE}\",4:\"\",5:\"§6Drophammer\",6:\"§7Lets you break fire pillars, which\",7:\"§7heals you for §c15% §7of your max §c❤\",8:\"§7over §a3s§7.\",9:\"\",10:\"§6Bulwark\",11:\"§7Kill Blazes to gain defense against\",12:\"§7them and demons.\",13:\"§7Bonus: §a+0 §7& §f+0\",14:\"§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)\",15:\"\",16:\"§6Blaze Slayer\",17:\"§7Gain §b{0}x §7Combat XP against §aBlazes§7.\",18:\"\",19:\"§eRight-click to add this pet to your pet menu!\",20:\"\",21:\"§a§lUNCOMMON\"],Name:\"§7[Lvl {LVL}] §aDroplet Wisp\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DROPLET_WISP;1\",petInfo:\"{\\\"type\\\":\\\"DROPLET_WISP\\\",\\\"tier\\\":\\\"UNCOMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"991a7841-b224-3444-9d14-6c2f0b6180dc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ueexEKRwehqgzqYc2Kpn1f99Dfs7DxG5L68z1CDG/e2U7Mi5zNetp3PaFH0HqKbsg43qOzg792xtzKtOWGZXGU2JmSMn+0F+97aLx6plTEmbui8wwHZ36Pv7nq3pQcB2TLPTyg5FCfrUQQ45FTW/D5onh+CMVnf8jQdujqUl6HPGOzvTRpDHzrZbtF9ShyHgvEG3pB6mUZw78k//pi8ThufzLRTQEaUVUdZW7jlVuhHBDCC69juG9tz+DODj7n5PAO/xsqm2TtgXhezh9chzkNjCN4Ei49aS20QlCZ8jfHqTAtZD1lY8gS84uYife5TkcPy8PxDzrTdoZTMXSQPVCjcxd4cCIPK5uP/Q/fdPPUJtdJ/cpe4inwe/vhuozaAFCj7PCjlKXvqpAhdX0jxiEtanVNqhXq/lgg9HNMIsltQVa/hdBpclgv/TG168PY7bPWvHTRZgszBf1htOLkRQKZMWXNCBYsYwxNB87pVxut8ZItUJ/XPqzw/IjHjWefEb8dXf0cp2IL0qGIgm0b3DTifEHw2JPSgJiIuU2TRADJwfZY0cWf/Ya+aNSrkLCtEcflQt8IJRwNxPwVB4BDu/o0f9UgzLvSb/Ae4I5AyjNCnQZlERAx7cm64ayeIYTDI9juTZlUYYfMXrbVG8xr0C5u4NK/5IROsv/oFBK4vzkSM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0NTk3OTE1MCwKICAicHJvZmlsZUlkIiA6ICIxMzEzZGFmMDc2OGQ0YmQ5Yjc1ODJkMGI1NWUwZGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW50aWNjaGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0MTJlNzAzNzVlYzk5ZWUzOGFlOTRiMzBlOWIxMDc1MmQ0NTk2NjJiNTQ3OTRkZmU2NmZlNmExODNjNjcyZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Gabagool Pet, feed to gain XP\",1:\"\",2:\"§7Health: §c+{HEALTH}\",3:\"§7Damage: §c+{DAMAGE}\",4:\"\",5:\"§6Drophammer\",6:\"§7Lets you break fire pillars §a2x\",7:\"§7faster, healing you for §c15% §7of your\",8:\"§7max §c❤ §7over §a3s§7.\",9:\"\",10:\"§6Bulwark\",11:\"§7Kill Blazes to gain defense against\",12:\"§7them and demons.\",13:\"§7Bonus: §a+0 §7& §f+0\",14:\"§7Next Upgrade: §a+30 §7& §f+3 §8(§a0§7/§c100§8)\",15:\"\",16:\"§6Blaze Slayer\",17:\"§7Gain §b{0}x §7Combat XP against §aBlazes§7.\",18:\"\",19:\"§eRight-click to add this pet to your pet menu!\",20:\"\",21:\"§a§lUNCOMMON\"],Name:\"§7[Lvl {LVL}] §aDroplet Wisp\"}}",
     "damage": 3,
     "lore": [
       "§8Gabagool Pet, feed to gain XP",
@@ -20339,9 +20339,9 @@
       "§7Damage: §c+{DAMAGE}",
       "",
       "§6Drophammer",
-      "§7Lets you break fire pillars, which",
-      "§7heals you for §c15% §7of your max §c❤",
-      "§7over §a3s§7.",
+      "§7Lets you break fire pillars §a2x",
+      "§7faster, healing you for §c15% §7of your",
+      "§7max §c❤ §7over §a3s§7.",
       "",
       "§6Bulwark",
       "§7Kill Blazes to gain defense against",
@@ -20359,7 +20359,7 @@
     "internalname": "DROPLET_WISP;1",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Droplet_Wisp_Pet"
@@ -35908,7 +35908,7 @@
   "GLACITE_GOLEM;0": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §fGlacite Golem",
-    "nbttag": "{ExtraAttributes:{id:\"GLACITE_GOLEM;0\",petInfo:\"{\\\"type\\\":\\\"GLACITE_GOLEM\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"adddb725-a72f-35ff-9d4d-f05d106302eb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"T9sCe1lIebXIryH3dlVucuQXU8+hGvcop/qqltMjA1WQNlYSacl+LHcpxAgFUTxMjkc9laIhcSsSJKfhK8IM5WUM24PSQTZMHnBoN34XzIOjOKvEIa8SCx4pYW5sx5TGqKpKq4vsbCt0Di6gjyfn2QfYApOq1bEUma7murrJ8ixeGpTgkddahpq/hM+pOXrn9UYaSJEbA7yaGFJy0S9JThQ5l1qDll+GbikfX1RzP4eOAs1XTi0FeI/RSJxH4QTTq2hXQtR3Rao1WTnEVA+eZjLyKQQDmSTYqe/v8ll+8ytZd1DD30/U3lYX+TTrdRJSzhZE8TL32Fb6Xxgdbgsh1109y2HZQY2+zL09nSnHejhP6/mzUKhkZfD7V9S6C9DKh+zp31FlQc8GthEDlUL/HIRkWgW801OJCAv/2txfsuvHOW291jNv+QbeCBuFO7rjmuDm0dpHeAHxfG7ZHqC6GXb3IsleW3CoDawaEaorSQiSVAPneD2cnKIgI/TNeHP1KQA6BrLQ6gC6mPHz0lx8G+B0VeL5W1O0G8XuaN/Pz0Jq+IHIAsgTqlQk6vtbpsl3eU7TGuZUExEsvjNtWhgC96TthOtiuedvyy/w7zDapr0/fNuO0jy5sstPi0mTfvT9w2BWC13MY8e7a7MuI0JuxTVprDIA+fL/vjzfa9nrCdI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMjg5ODYzMjcxMSwKICAicHJvZmlsZUlkIiA6ICJmNmYxY2IxMmYzNDU0MDRlYjZlNjU2NGE2ZDlmMjU2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXJlbGl1c0dlbWluaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZjEzMmE2NTkzODc2ZDNjMzc3ZDUwM2ZkNjZlY2EzZmI5Mzg3NDMyNTFmN2IxNmE5ODcwYzYwYjczODhjOGEzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Mining Pet\",1:\"\",2:\"§7Cold Resistance: §b+{COLD_RESISTANCE}\",3:\"§7Mining Speed: §6+{MINING_SPEED}\",4:\"\",5:\"§6Powder-powered\",6:\"§7Gain §a{0}% §7more §bGlacite Powder §7from\",7:\"§7most sources.\",8:\"\",9:\"§eRight-click to add this pet to your pet menu!\",10:\"\",11:\"§8Can be upgraded at Kat in The Hub!\",12:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fGlacite Golem\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GLACITE_GOLEM;0\",petInfo:\"{\\\"type\\\":\\\"GLACITE_GOLEM\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"adddb725-a72f-35ff-9d4d-f05d106302eb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"T9sCe1lIebXIryH3dlVucuQXU8+hGvcop/qqltMjA1WQNlYSacl+LHcpxAgFUTxMjkc9laIhcSsSJKfhK8IM5WUM24PSQTZMHnBoN34XzIOjOKvEIa8SCx4pYW5sx5TGqKpKq4vsbCt0Di6gjyfn2QfYApOq1bEUma7murrJ8ixeGpTgkddahpq/hM+pOXrn9UYaSJEbA7yaGFJy0S9JThQ5l1qDll+GbikfX1RzP4eOAs1XTi0FeI/RSJxH4QTTq2hXQtR3Rao1WTnEVA+eZjLyKQQDmSTYqe/v8ll+8ytZd1DD30/U3lYX+TTrdRJSzhZE8TL32Fb6Xxgdbgsh1109y2HZQY2+zL09nSnHejhP6/mzUKhkZfD7V9S6C9DKh+zp31FlQc8GthEDlUL/HIRkWgW801OJCAv/2txfsuvHOW291jNv+QbeCBuFO7rjmuDm0dpHeAHxfG7ZHqC6GXb3IsleW3CoDawaEaorSQiSVAPneD2cnKIgI/TNeHP1KQA6BrLQ6gC6mPHz0lx8G+B0VeL5W1O0G8XuaN/Pz0Jq+IHIAsgTqlQk6vtbpsl3eU7TGuZUExEsvjNtWhgC96TthOtiuedvyy/w7zDapr0/fNuO0jy5sstPi0mTfvT9w2BWC13MY8e7a7MuI0JuxTVprDIA+fL/vjzfa9nrCdI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMjg5ODYzMjcxMSwKICAicHJvZmlsZUlkIiA6ICJmNmYxY2IxMmYzNDU0MDRlYjZlNjU2NGE2ZDlmMjU2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXJlbGl1c0dlbWluaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZjEzMmE2NTkzODc2ZDNjMzc3ZDUwM2ZkNjZlY2EzZmI5Mzg3NDMyNTFmN2IxNmE5ODcwYzYwYjczODhjOGEzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Mining Pet\",1:\"\",2:\"§7Cold Resistance: §b+{COLD_RESISTANCE}\",3:\"§7Mining Speed: §6+{MINING_SPEED}\",4:\"\",5:\"§6Powder-powered\",6:\"§7Gain §a+{0}% §7more §bGlacite Powder §7from\",7:\"§7most sources.\",8:\"\",9:\"§eRight-click to add this pet to your pet menu!\",10:\"\",11:\"§8Can be upgraded at Kat in The Hub!\",12:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fGlacite Golem\"}}",
     "damage": 3,
     "lore": [
       "§8Mining Pet",
@@ -35917,7 +35917,7 @@
       "§7Mining Speed: §6+{MINING_SPEED}",
       "",
       "§6Powder-powered",
-      "§7Gain §a{0}% §7more §bGlacite Powder §7from",
+      "§7Gain §a+{0}% §7more §bGlacite Powder §7from",
       "§7most sources.",
       "",
       "§eRight-click to add this pet to your pet menu!",
@@ -35928,7 +35928,7 @@
     "internalname": "GLACITE_GOLEM;0",
     "clickcommand": "",
     "crafttext": "Requires Glacite IV",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Glacite_Golem_Pet"
@@ -52632,7 +52632,7 @@
   "MAMMOTH;4": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §6Mammoth",
-    "nbttag": "{ExtraAttributes:{id:\"MAMMOTH;4\",petInfo:\"{\\\"type\\\":\\\"MAMMOTH\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dcd141b6-82b7-3abe-b215-c211e6ecc146\",Properties:{textures:[0:{Name:\"textures\",Signature:\"WYao9amITmyP8qOB8Y77GRzVjcb7ahOUhJZtrCG+xOFQzvsk3xxCYWS9xTfwBHNBYR/5iI4r4eaOSdt1umgGcodRY3wkgkTmGm/DQAz7wAgCx0+iP6esXEteBk9NIXFPGrviZRYAn3zGweZjgagVGD3sauBEs+L/3A/jeDT2vD6UT2NKG/1L4dmESwVXRRt28VqJ6v74bV6CLqYEO4HmGuD1s4deQSpgEEe6tKKQOB1Nlke7p4Y/fUevMH+GEsOoESPPTUYFFs3Xd4EZBcYKqAdN7DN9kCZw8hqClde2VygJPmA8L2itI2pbUncvlpyRJHXndhH5UgaNmXBLa7Xa0KoUVxAkQyHFIeWppEY5SolyMaqvcrOdnJWS77Z0zz/7dZ3/3+buIEF3dyRqfnojKG6BlYs6lfv971ahm/owsFMFTG/oyTmta7lmlZs5dV8G30Zz1I9B4y0Tmz/a7Xf8pvW7+yqj28fbSseOh7Zy1P9Sbk4C2d63M8f5dTJIBj/0gIJTSFMdzrgmZCooUb64OAjb4/mXK1sNGlQcIXTNSEOit1yHHP+l1yPgz/cwcPDkqbEA5wQU3bkWaoD4fuEqoELjoySXdjqpOZZBcjL3hXbcwCyWjPlRT+kx+epoC6PvMpJ6afgIDlRLsswn1FwYBqpEUgYE0M2+oCkZbc96Yj4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwNzg1NDE2NzQ4OCwKICAicHJvZmlsZUlkIiA6ICJkMDQ3ZGY3ZjMzMzk0MmM1OTA3ODY5ZjIwYmI0YzlkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJleHBsaXloIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiMTA3MTU3MzJjZDFmZDQ5ZmExYjYxODc5NDdjMzA3ZGQ0Njg3MTA1Y2YwMzM4NDA2MDdmOWQ2MjM0NzQzYWQiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Defense: §a+{DEFENSE}\",3:\"§7Cold Resistance: §b+{COLD_RESISTANCE}\",4:\"\",5:\"§6Wooly Coat\",6:\"§7Gain a §a{0}% §7chance for mobs to not\",7:\"§7inflict §b❄ Cold §7when damaging you in\",8:\"§7the §bGlacite Mineshafts§7.\",9:\"\",10:\"§6Tusk Luck\",11:\"§7Gain §b+{1}✯ Magic Find §7for every\",12:\"§7100 §6☘ Mining Fortune§7, doubled in the\",13:\"§bGlacite Tunnels §7and §bGlacite\",14:\"§bMineshafts§7.\",15:\"\",16:\"§6Corpse Crusher\",17:\"§7Gain §6{2}☘ Mining Fortune §7for each\",18:\"§bFrozen Corpse §7looted in your\",19:\"§7current §bGlacite Mineshaft§7.\",20:\"\",21:\"§eRight-click to add this pet to your pet menu!\",22:\"\",23:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Mammoth\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MAMMOTH;4\",petInfo:\"{\\\"type\\\":\\\"MAMMOTH\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dcd141b6-82b7-3abe-b215-c211e6ecc146\",Properties:{textures:[0:{Name:\"textures\",Signature:\"WYao9amITmyP8qOB8Y77GRzVjcb7ahOUhJZtrCG+xOFQzvsk3xxCYWS9xTfwBHNBYR/5iI4r4eaOSdt1umgGcodRY3wkgkTmGm/DQAz7wAgCx0+iP6esXEteBk9NIXFPGrviZRYAn3zGweZjgagVGD3sauBEs+L/3A/jeDT2vD6UT2NKG/1L4dmESwVXRRt28VqJ6v74bV6CLqYEO4HmGuD1s4deQSpgEEe6tKKQOB1Nlke7p4Y/fUevMH+GEsOoESPPTUYFFs3Xd4EZBcYKqAdN7DN9kCZw8hqClde2VygJPmA8L2itI2pbUncvlpyRJHXndhH5UgaNmXBLa7Xa0KoUVxAkQyHFIeWppEY5SolyMaqvcrOdnJWS77Z0zz/7dZ3/3+buIEF3dyRqfnojKG6BlYs6lfv971ahm/owsFMFTG/oyTmta7lmlZs5dV8G30Zz1I9B4y0Tmz/a7Xf8pvW7+yqj28fbSseOh7Zy1P9Sbk4C2d63M8f5dTJIBj/0gIJTSFMdzrgmZCooUb64OAjb4/mXK1sNGlQcIXTNSEOit1yHHP+l1yPgz/cwcPDkqbEA5wQU3bkWaoD4fuEqoELjoySXdjqpOZZBcjL3hXbcwCyWjPlRT+kx+epoC6PvMpJ6afgIDlRLsswn1FwYBqpEUgYE0M2+oCkZbc96Yj4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwNzg1NDE2NzQ4OCwKICAicHJvZmlsZUlkIiA6ICJkMDQ3ZGY3ZjMzMzk0MmM1OTA3ODY5ZjIwYmI0YzlkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJleHBsaXloIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiMTA3MTU3MzJjZDFmZDQ5ZmExYjYxODc5NDdjMzA3ZGQ0Njg3MTA1Y2YwMzM4NDA2MDdmOWQ2MjM0NzQzYWQiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Defense: §a+{DEFENSE}\",3:\"§7Cold Resistance: §b+{COLD_RESISTANCE}\",4:\"\",5:\"§6Wooly Coat\",6:\"§7Gain a §a{0}% §7chance for mobs to not\",7:\"§7inflict §b❄ Cold §7when damaging you in\",8:\"§7the §bGlacite Mineshafts§7.\",9:\"\",10:\"§6Tusk Luck\",11:\"§7Gain §b+{1} Magic Find §7for every\",12:\"§7100 §6 Mining Fortune§7, doubled in the\",13:\"§bGlacite Tunnels §7and §bGlacite\",14:\"§bMineshafts§7.\",15:\"\",16:\"§6Corpse Crusher\",17:\"§7Gain §6+{2} Mining Fortune §7for each\",18:\"§bFrozen Corpse §7looted in your\",19:\"§7current §bGlacite Mineshaft§7.\",20:\"\",21:\"§eRight-click to add this pet to your pet menu!\",22:\"\",23:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Mammoth\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -52646,13 +52646,13 @@
       "§7the §bGlacite Mineshafts§7.",
       "",
       "§6Tusk Luck",
-      "§7Gain §b+{1}✯ Magic Find §7for every",
-      "§7100 §6☘ Mining Fortune§7, doubled in the",
+      "§7Gain §b+{1} Magic Find §7for every",
+      "§7100 §6 Mining Fortune§7, doubled in the",
       "§bGlacite Tunnels §7and §bGlacite",
       "§bMineshafts§7.",
       "",
       "§6Corpse Crusher",
-      "§7Gain §6{2}☘ Mining Fortune §7for each",
+      "§7Gain §6+{2} Mining Fortune §7for each",
       "§bFrozen Corpse §7looted in your",
       "§7current §bGlacite Mineshaft§7.",
       "",
@@ -52663,7 +52663,7 @@
     "internalname": "MAMMOTH;4",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 7",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mammoth_Pet"
@@ -56556,7 +56556,7 @@
   "MITHRIL_GOLEM;0": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §fMithril Golem",
-    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_GOLEM;0\",petInfo:\"{\\\"type\\\":\\\"MITHRIL_GOLEM\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"39fb84b5-72d3-3221-b373-aa315e956e83\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oEh3PEiB07Hv9UJkvtZpnUzPRFAS3KNNhC6zKr339RYv6vpij200Uu3qZ1uitLS47i8Cnx2e9RefUgjF7K3w1CLBG35yFZrF3CI+g5RM/ruFZ0kSnwKg+dLrj/8boYwreZ41Xpj8y2NW41y67VWGEUnxAKH53uDsCN3kZHBODazB6y4ueBET63UkVa+D2UB1Q5kxx9fmv0CVmWxF/x5HQZ4oPnhpA1i08VHab2WTq8ojHukN+t65RYT8n1WpiMXkzIw3gtf1sOMmge9oVonuaji8mdb2HPcfUmUrNvEviak9mmNFzfHZ4x9R/nh6roiLovLTD9iVUXYvcWA0cB4WVrVwMog53VjD2aIA5VINwFI48EzOM8ACvnVanuHbxL9PqFWVrwDHigst+H4RUMubvTuXOq4VjxdSSavlfZBxqdkb7I8/2RzNnAmvyl0oacG70XcrVwAviz8XlErbfU0I5GBmS++pKCcCjUIIltNn8wLd9ILQ1qj3ufxPG4keAH5ky7sDyWpWnTRrMuPdozHaVTUGRObMT4jKUYRKHpftCr7ESLzskvHIyu4Mp1BNactW7iUdszR+Wz2185xlTtLR9tZZTFI820GlkLTOeyGIRe3bTlV4XIXQXksWDfU7UtQjx9Cv3+MTNK+OcytvyF6Lxchuc7eoWzKZWH+/3tAemao=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxMDY0OTEwODI4NCwKICAicHJvZmlsZUlkIiA6ICI2ZmU4OTUxZDVhY2M0NDc3OWI2ZmYxMmU3YzFlOTQ2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlcGhlbXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxYjJkZmU4ZWQ1ZGZmYzViMTY4N2JjMWMyNDljMzlkZTJkOGE2YzNkOTAzMDVjOTVmNmQxYTFhMzMwYTBiMSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Mining Pet\",1:\"\",2:\"§7True Defense: §f+{TRUE_DEFENSE}\",3:\"§7Mining Fortune: §6+{MINING_FORTUNE}\",4:\"\",5:\"§6Mithril Affinity\",6:\"§7Grants §6+{0}⸕ Mining Speed §7when mining\",7:\"§2Mithril§7.\",8:\"\",9:\"§eRight-click to add this pet to your pet menu!\",10:\"\",11:\"§8Can be upgraded at Kat in The Hub!\",12:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fMithril Golem\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MITHRIL_GOLEM;0\",petInfo:\"{\\\"type\\\":\\\"MITHRIL_GOLEM\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"39fb84b5-72d3-3221-b373-aa315e956e83\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oEh3PEiB07Hv9UJkvtZpnUzPRFAS3KNNhC6zKr339RYv6vpij200Uu3qZ1uitLS47i8Cnx2e9RefUgjF7K3w1CLBG35yFZrF3CI+g5RM/ruFZ0kSnwKg+dLrj/8boYwreZ41Xpj8y2NW41y67VWGEUnxAKH53uDsCN3kZHBODazB6y4ueBET63UkVa+D2UB1Q5kxx9fmv0CVmWxF/x5HQZ4oPnhpA1i08VHab2WTq8ojHukN+t65RYT8n1WpiMXkzIw3gtf1sOMmge9oVonuaji8mdb2HPcfUmUrNvEviak9mmNFzfHZ4x9R/nh6roiLovLTD9iVUXYvcWA0cB4WVrVwMog53VjD2aIA5VINwFI48EzOM8ACvnVanuHbxL9PqFWVrwDHigst+H4RUMubvTuXOq4VjxdSSavlfZBxqdkb7I8/2RzNnAmvyl0oacG70XcrVwAviz8XlErbfU0I5GBmS++pKCcCjUIIltNn8wLd9ILQ1qj3ufxPG4keAH5ky7sDyWpWnTRrMuPdozHaVTUGRObMT4jKUYRKHpftCr7ESLzskvHIyu4Mp1BNactW7iUdszR+Wz2185xlTtLR9tZZTFI820GlkLTOeyGIRe3bTlV4XIXQXksWDfU7UtQjx9Cv3+MTNK+OcytvyF6Lxchuc7eoWzKZWH+/3tAemao=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxMDY0OTEwODI4NCwKICAicHJvZmlsZUlkIiA6ICI2ZmU4OTUxZDVhY2M0NDc3OWI2ZmYxMmU3YzFlOTQ2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlcGhlbXJhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxYjJkZmU4ZWQ1ZGZmYzViMTY4N2JjMWMyNDljMzlkZTJkOGE2YzNkOTAzMDVjOTVmNmQxYTFhMzMwYTBiMSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Mining Pet\",1:\"\",2:\"§7True Defense: §f+{TRUE_DEFENSE}\",3:\"§7Mining Fortune: §6+{MINING_FORTUNE}\",4:\"\",5:\"§6Mithril Affinity\",6:\"§7Grants §6+{0} Mining Speed §7when mining\",7:\"§2Mithril§7.\",8:\"\",9:\"§eRight-click to add this pet to your pet menu!\",10:\"\",11:\"§8Can be upgraded at Kat in The Hub!\",12:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fMithril Golem\"}}",
     "damage": 3,
     "lore": [
       "§8Mining Pet",
@@ -56565,7 +56565,7 @@
       "§7Mining Fortune: §6+{MINING_FORTUNE}",
       "",
       "§6Mithril Affinity",
-      "§7Grants §6+{0}⸕ Mining Speed §7when mining",
+      "§7Grants §6+{0} Mining Speed §7when mining",
       "§2Mithril§7.",
       "",
       "§eRight-click to add this pet to your pet menu!",
@@ -56576,7 +56576,7 @@
     "internalname": "MITHRIL_GOLEM;0",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires Mithril III",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mithril_Golem_Pet"
@@ -61884,7 +61884,7 @@
   "PENGUIN;4": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §6Penguin",
-    "nbttag": "{ExtraAttributes:{id:\"PENGUIN;4\",petInfo:\"{\\\"type\\\":\\\"PENGUIN\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"90ea5139-dc59-33a0-9715-d276ce992432\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jgqadQ4xhuj+0EvQntkC9+zu3NM4BMAsk7EWtfZW9G5TXFf4MTl0gAtT0W+jTIrLifRnGEZMZkzs+DmUKJWeU9aV+WRRFzwB6/cGuTJgjUfYZOH7qTwQZNLQdQ9HyObq4JarcEjU7tFfJhMaoJ/6TsDY7kOcVRCSS4JZr4968+xFLr4iI5FjAFDc58hL43r3xnFXINeFQYO+29aw/LJIylpgJl7+SN4eXAOCzWflDGzW0x1nuSDXNXN8bJkA2KsNWfn9NZFKPLfkRZ4YIFatZyySx1s4NGgDadSS9JLybN/BBwCPOByYnULBFL10Z83QFTFuvYeRsP6Jntq5pJwVzAGd5+2bQg1i85UX9qfmoE8o7s52YYmzJLVmRi3fw3WnURi7zenQbVLMVY42Vu1Ibc/YWO7ke3gXtueKVxCO9aoZHXdfEsN0Ex5mxXD7rE6GlM6jzXj9pUnC5LYJic6TzxLSAM5XLImmBJHKLUlQj7MC2xzR8E4AUNVErYMlDXX5ZcKzFUrCwBaCeUbGrTNN4bOATq8qL5K5tOoMGL3QJPb9KyoCtk0p6A/ypfML4k4kxzeOSaDuFOl4c5EUv30nZgUbsbr0Ub56E89pxS7xy/Gsduhcgt/+dO1f1TDeuTDbWB7hcVgqsvXq7ZiU1Gu7mZaxE2jOLn6btZzpzDXFN6I=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwNzg1NDIwMTk4MywKICAicHJvZmlsZUlkIiA6ICI1NzgzZWMxNDgxMDI0ZDJmOTk4N2JhNGZhNWNlMmFmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlUGhlbml4NDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzc1MzRlOTdmMzZlNWE4MzM1OTI4ZTE3MWVjOTk2MDhiZWU3ZmIxNmUyNjBhZmIzMDEwMjViM2IxN2VlZWZjNCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Pet\",1:\"\",2:\"§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}\",3:\"§7Cold Resistance: §b+{COLD_RESISTANCE}\",4:\"\",5:\"§6Thick Blubber\",6:\"§7Each time you catch a §3Sea Creature§7,\",7:\"§7reduce your §b❄ Cold §7by §a{0}§7.\",8:\"\",9:\"§6Chilly Reception\",10:\"§7Grants §b+{1}❄ Cold Resistance §7for\",11:\"§7each player within §a30 §7blocks, up to\",12:\"§a10 §7players.\",13:\"\",14:\"§6Subzero Hero\",15:\"§7Grants §b+{2}☂ Fishing Speed §7while in\",16:\"§7the §bGlacite Tunnels§7.\",17:\"\",18:\"§eRight-click to add this pet to your pet menu!\",19:\"\",20:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Penguin\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PENGUIN;4\",petInfo:\"{\\\"type\\\":\\\"PENGUIN\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"90ea5139-dc59-33a0-9715-d276ce992432\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jgqadQ4xhuj+0EvQntkC9+zu3NM4BMAsk7EWtfZW9G5TXFf4MTl0gAtT0W+jTIrLifRnGEZMZkzs+DmUKJWeU9aV+WRRFzwB6/cGuTJgjUfYZOH7qTwQZNLQdQ9HyObq4JarcEjU7tFfJhMaoJ/6TsDY7kOcVRCSS4JZr4968+xFLr4iI5FjAFDc58hL43r3xnFXINeFQYO+29aw/LJIylpgJl7+SN4eXAOCzWflDGzW0x1nuSDXNXN8bJkA2KsNWfn9NZFKPLfkRZ4YIFatZyySx1s4NGgDadSS9JLybN/BBwCPOByYnULBFL10Z83QFTFuvYeRsP6Jntq5pJwVzAGd5+2bQg1i85UX9qfmoE8o7s52YYmzJLVmRi3fw3WnURi7zenQbVLMVY42Vu1Ibc/YWO7ke3gXtueKVxCO9aoZHXdfEsN0Ex5mxXD7rE6GlM6jzXj9pUnC5LYJic6TzxLSAM5XLImmBJHKLUlQj7MC2xzR8E4AUNVErYMlDXX5ZcKzFUrCwBaCeUbGrTNN4bOATq8qL5K5tOoMGL3QJPb9KyoCtk0p6A/ypfML4k4kxzeOSaDuFOl4c5EUv30nZgUbsbr0Ub56E89pxS7xy/Gsduhcgt/+dO1f1TDeuTDbWB7hcVgqsvXq7ZiU1Gu7mZaxE2jOLn6btZzpzDXFN6I=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwNzg1NDIwMTk4MywKICAicHJvZmlsZUlkIiA6ICI1NzgzZWMxNDgxMDI0ZDJmOTk4N2JhNGZhNWNlMmFmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbHVlUGhlbml4NDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzc1MzRlOTdmMzZlNWE4MzM1OTI4ZTE3MWVjOTk2MDhiZWU3ZmIxNmUyNjBhZmIzMDEwMjViM2IxN2VlZWZjNCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Pet\",1:\"\",2:\"§7Sea Creature Chance: §3+{SEA_CREATURE_CHANCE}\",3:\"§7Cold Resistance: §b+{COLD_RESISTANCE}\",4:\"\",5:\"§6Thick Blubber\",6:\"§7Each time you catch a §3Sea Creature§7,\",7:\"§7reduce your §b❄ Cold §7by §a{0}§7.\",8:\"\",9:\"§6Chilly Reception\",10:\"§7Grants §b+{1} Cold Resistance §7for\",11:\"§7each player within §a30 §7blocks, up to\",12:\"§a10 §7players.\",13:\"\",14:\"§6Subzero Hero\",15:\"§7Grants §b+{2} Fishing Speed §7while in\",16:\"§7the §bGlacite Tunnels§7.\",17:\"\",18:\"§eRight-click to add this pet to your pet menu!\",19:\"\",20:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Penguin\"}}",
     "damage": 3,
     "lore": [
       "§8Fishing Pet",
@@ -61897,12 +61897,12 @@
       "§7reduce your §b❄ Cold §7by §a{0}§7.",
       "",
       "§6Chilly Reception",
-      "§7Grants §b+{1}❄ Cold Resistance §7for",
+      "§7Grants §b+{1} Cold Resistance §7for",
       "§7each player within §a30 §7blocks, up to",
       "§a10 §7players.",
       "",
       "§6Subzero Hero",
-      "§7Grants §b+{2}☂ Fishing Speed §7while in",
+      "§7Grants §b+{2} Fishing Speed §7while in",
       "§7the §bGlacite Tunnels§7.",
       "",
       "§eRight-click to add this pet to your pet menu!",
@@ -61912,7 +61912,7 @@
     "internalname": "PENGUIN;4",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 7",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Penguin_Pet"
@@ -81470,7 +81470,7 @@
   "SPIDER;0": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §fSpider",
-    "nbttag": "{ExtraAttributes:{id:\"SPIDER;0\",petInfo:\"{\\\"type\\\":\\\"SPIDER\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a6f91137-ee70-314c-9ad1-ee9e31896d31\",Properties:{textures:[0:{Name:\"textures\",Signature:\"E/OtZ6hSa8bYbOo3O4PG4qXvuaj8/Yw5eU5yDuZxeWU+NQJkiDz0xUq7n1nh2a1jnijITOS3Oeo21/7C+djwZhnp4QBEZx2xgSF36M5kAjw7r/sXdfYK1gjWTfqQLrOiyOKpKE1ckk4+m4mrjuO7MkVdXg+Cu4dIWDCFgdnM6L/kmzZvL8SS3cG447W3yshbs3L8IBeCEDzCNCDAjpJolRDcIAggA7eXmk6GAIdLbdjByg3o/P+o6wyspdIYLa3m2h+F/ducIOobEYmGYSiNsThSQDV0lcBaCVOeS4ZSXCPVUphCo9x8Wn5u0YwPEdjOynDFNCE9szpQHYp+F5/nlJawCDUq1n+66fKWT5J0OlhieepP/oH4/gWxZ4vCJgw36HDKcl0dJA9WUYbS2/ytmodh/YjDZBra0bkSuPsrsH89HOzy2v9nIBvdjQDfLSslKGOTzr4kiTnEuz2Gv7k/Nq9mmqi25LEBbHS85arf8oj6ElpmbSKxCQvvWaEmwANOC5eXhSAxBSZPTjIB1yWKYlQU8lhnrWZ/2luoB9Ju85kTjuNCtaj5NH2FxcrtuCT6rOaOYcvPZQxoDK5AZi240M+uxWTrwq0UohqTFzEKwGCY8BpAmk/T29hcHVy5+9gFosvA6AyFG0xv+BS2T6Cqt/Ad8Qo+RlGZIH/JINcmxWg=\",Value:\"eyJ0aW1lc3RhbXAiOjE0OTg2OTA0NDk5MDIsInByb2ZpbGVJZCI6IjVhZDU1ZjM0NDFiNjRiZDI5YzMyMTg5ODNjNjM1OTM2IiwicHJvZmlsZU5hbWUiOiJNSEZfU3BpZGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZDU0MTU0MWRhYWZmNTA4OTZjZDI1OGJkYmRkNGNmODBjM2JhODE2NzM1NzI2MDc4YmZlMzkzOTI3ZTU3ZjEifX19\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Strength: §c+{STRENGTH}\",3:\"§7Crit Chance: §9+{CRIT_CHANCE}%\",4:\"\",5:\"§6One With The Spider\",6:\"§7Applies §c+{0}❁ Strength §7to all\",7:\"§4Arachnal Ж §7weapons, armor, and\",8:\"§7equipment you have equipped.\",9:\"\",10:\"§eRight-click to add this pet to your pet menu!\",11:\"\",12:\"§8Can be upgraded at Kat in The Hub!\",13:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fSpider\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPIDER;0\",petInfo:\"{\\\"type\\\":\\\"SPIDER\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a6f91137-ee70-314c-9ad1-ee9e31896d31\",Properties:{textures:[0:{Name:\"textures\",Signature:\"E/OtZ6hSa8bYbOo3O4PG4qXvuaj8/Yw5eU5yDuZxeWU+NQJkiDz0xUq7n1nh2a1jnijITOS3Oeo21/7C+djwZhnp4QBEZx2xgSF36M5kAjw7r/sXdfYK1gjWTfqQLrOiyOKpKE1ckk4+m4mrjuO7MkVdXg+Cu4dIWDCFgdnM6L/kmzZvL8SS3cG447W3yshbs3L8IBeCEDzCNCDAjpJolRDcIAggA7eXmk6GAIdLbdjByg3o/P+o6wyspdIYLa3m2h+F/ducIOobEYmGYSiNsThSQDV0lcBaCVOeS4ZSXCPVUphCo9x8Wn5u0YwPEdjOynDFNCE9szpQHYp+F5/nlJawCDUq1n+66fKWT5J0OlhieepP/oH4/gWxZ4vCJgw36HDKcl0dJA9WUYbS2/ytmodh/YjDZBra0bkSuPsrsH89HOzy2v9nIBvdjQDfLSslKGOTzr4kiTnEuz2Gv7k/Nq9mmqi25LEBbHS85arf8oj6ElpmbSKxCQvvWaEmwANOC5eXhSAxBSZPTjIB1yWKYlQU8lhnrWZ/2luoB9Ju85kTjuNCtaj5NH2FxcrtuCT6rOaOYcvPZQxoDK5AZi240M+uxWTrwq0UohqTFzEKwGCY8BpAmk/T29hcHVy5+9gFosvA6AyFG0xv+BS2T6Cqt/Ad8Qo+RlGZIH/JINcmxWg=\",Value:\"eyJ0aW1lc3RhbXAiOjE0OTg2OTA0NDk5MDIsInByb2ZpbGVJZCI6IjVhZDU1ZjM0NDFiNjRiZDI5YzMyMTg5ODNjNjM1OTM2IiwicHJvZmlsZU5hbWUiOiJNSEZfU3BpZGVyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZDU0MTU0MWRhYWZmNTA4OTZjZDI1OGJkYmRkNGNmODBjM2JhODE2NzM1NzI2MDc4YmZlMzkzOTI3ZTU3ZjEifX19\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Strength: §c+{STRENGTH}\",3:\"§7Crit Chance: §9+{CRIT_CHANCE}%\",4:\"\",5:\"§6One With The Spider\",6:\"§7Applies §c+{0} Strength §7to all\",7:\"§4Arachnal  §7weapons, armor, and\",8:\"§7equipment you have equipped.\",9:\"\",10:\"§eRight-click to add this pet to your pet menu!\",11:\"\",12:\"§8Can be upgraded at Kat in The Hub!\",13:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fSpider\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -81479,8 +81479,8 @@
       "§7Crit Chance: §9+{CRIT_CHANCE}%",
       "",
       "§6One With The Spider",
-      "§7Applies §c+{0}❁ Strength §7to all",
-      "§4Arachnal Ж §7weapons, armor, and",
+      "§7Applies §c+{0} Strength §7to all",
+      "§4Arachnal  §7weapons, armor, and",
       "§7equipment you have equipped.",
       "",
       "§eRight-click to add this pet to your pet menu!",
@@ -81491,7 +81491,7 @@
     "internalname": "SPIDER;0",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires String III",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spider_Pet"
@@ -97561,7 +97561,7 @@
   "WITHER_SKELETON;0": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §fWither Skeleton",
-    "nbttag": "{ExtraAttributes:{id:\"WITHER_SKELETON;0\",petInfo:\"{\\\"type\\\":\\\"WITHER_SKELETON\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a84fa57e-ad64-3bf6-b6cd-8bba25f4e46f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jzyxhY4yz39fNaiZyV+C3T2SyiqRctDI/s6OFiii40uHMIUGk/Pz9thoK9tpH2Y0rmbdUxVPoi89rl9mZNfnC8aBhe0DCgj/PeSnM9OzF0pqihP/wQ20Z7/qZwRmrh1BvYJhAibKvrLnG0xJVX6CIGvcOl0BmMiaFEtokIiom9BjN7vkGuTDJd2RwYgd4Bnk1VEpV7Nx8ilqV/m/jHU/J5TRMcllvg0mY8OJG5peHyk0GRAPFd+Qb16FOLnD/N7VSepUTU4/Lf5f97HbkJ3+ZhNi8Q/uNeWi6ZQaK4HFMyG/Envim8dwX/+ZPvrw3mH+0oSCNRgQ3Swdxbgtvwu0Xd3FvCMa0scQvF8XWO/BT0d8YGCgrxDhadjUB1P4obLDSmtZpXQUgmoZIqZzxmj3TSElY6jD20ufuIDZCknK3uZvA7l5xiWnLSYsL1MTtmdjOHhmEq4NX3XvQ2ant9/gRZ+74w4P5ehsO7xEFLyMRfl9Tx4/2we5MX/CcnWO6U79GPjOQikW0tJz6CuXT6/wUiz1r1jTm5ysbFq0UZK87I4EHEJIAidl725FXky5wRKrFJ/vigdPEX8MdvGO4kTM72ne70qWTRmfUI8leDqKp0ZVrTnWaH0ZOosKRGdHiNtX5IY8GYAa17yN98A8ss6A+iqThGunVvvNpFjw6Lpiz7g=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5OTkyNzM5NDQ0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUwZTk3MmQyNmMzZGJjNGUxNjYzYWFmNTgzMzg4ZmYzMjFlOTU4ZDE5NWY4YTQ2NWI3MWE1OTZhNzM2ZmU5YyIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Mining Pet\",1:\"\",2:\"§7Defense: §a+{DEFENSE}\",3:\"§7Strength: §c+{STRENGTH}\",4:\"§7Crit Chance: §9+{CRIT_CHANCE}%\",5:\"§7Crit Damage: §9+{CRIT_DAMAGE}%\",6:\"§7Intelligence: §b+{INTELLIGENCE}\",7:\"\",8:\"§6Stronger Bones\",9:\"§7Take §a{0}% §7less damage from §f🦴\",10:\"§fSkeletal §7mobs.\",11:\"\",12:\"§eRight-click to add this pet to your pet menu!\",13:\"\",14:\"§8Can be upgraded at Kat in The Hub!\",15:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fWither Skeleton\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WITHER_SKELETON;0\",petInfo:\"{\\\"type\\\":\\\"WITHER_SKELETON\\\",\\\"tier\\\":\\\"COMMON\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a84fa57e-ad64-3bf6-b6cd-8bba25f4e46f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jzyxhY4yz39fNaiZyV+C3T2SyiqRctDI/s6OFiii40uHMIUGk/Pz9thoK9tpH2Y0rmbdUxVPoi89rl9mZNfnC8aBhe0DCgj/PeSnM9OzF0pqihP/wQ20Z7/qZwRmrh1BvYJhAibKvrLnG0xJVX6CIGvcOl0BmMiaFEtokIiom9BjN7vkGuTDJd2RwYgd4Bnk1VEpV7Nx8ilqV/m/jHU/J5TRMcllvg0mY8OJG5peHyk0GRAPFd+Qb16FOLnD/N7VSepUTU4/Lf5f97HbkJ3+ZhNi8Q/uNeWi6ZQaK4HFMyG/Envim8dwX/+ZPvrw3mH+0oSCNRgQ3Swdxbgtvwu0Xd3FvCMa0scQvF8XWO/BT0d8YGCgrxDhadjUB1P4obLDSmtZpXQUgmoZIqZzxmj3TSElY6jD20ufuIDZCknK3uZvA7l5xiWnLSYsL1MTtmdjOHhmEq4NX3XvQ2ant9/gRZ+74w4P5ehsO7xEFLyMRfl9Tx4/2we5MX/CcnWO6U79GPjOQikW0tJz6CuXT6/wUiz1r1jTm5ysbFq0UZK87I4EHEJIAidl725FXky5wRKrFJ/vigdPEX8MdvGO4kTM72ne70qWTRmfUI8leDqKp0ZVrTnWaH0ZOosKRGdHiNtX5IY8GYAa17yN98A8ss6A+iqThGunVvvNpFjw6Lpiz7g=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5OTkyNzM5NDQ0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUwZTk3MmQyNmMzZGJjNGUxNjYzYWFmNTgzMzg4ZmYzMjFlOTU4ZDE5NWY4YTQ2NWI3MWE1OTZhNzM2ZmU5YyIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Mining Pet\",1:\"\",2:\"§7Defense: §a+{DEFENSE}\",3:\"§7Strength: §c+{STRENGTH}\",4:\"§7Crit Chance: §9+{CRIT_CHANCE}%\",5:\"§7Crit Damage: §9+{CRIT_DAMAGE}%\",6:\"§7Intelligence: §b+{INTELLIGENCE}\",7:\"\",8:\"§6Stronger Bones\",9:\"§7Take §a{0}% §7less damage from §f\",10:\"§fSkeletal §7mobs.\",11:\"\",12:\"§eRight-click to add this pet to your pet menu!\",13:\"\",14:\"§8Can be upgraded at Kat in The Hub!\",15:\"§f§lCOMMON\"],Name:\"§7[Lvl {LVL}] §fWither Skeleton\"}}",
     "damage": 3,
     "lore": [
       "§8Mining Pet",
@@ -97573,7 +97573,7 @@
       "§7Intelligence: §b+{INTELLIGENCE}",
       "",
       "§6Stronger Bones",
-      "§7Take §a{0}% §7less damage from §f🦴",
+      "§7Take §a{0}% §7less damage from §f",
       "§fSkeletal §7mobs.",
       "",
       "§eRight-click to add this pet to your pet menu!",
@@ -97584,7 +97584,7 @@
     "internalname": "WITHER_SKELETON;0",
     "clickcommand": "",
     "crafttext": "Requires Coal IV",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wither_Skeleton_Pet"
