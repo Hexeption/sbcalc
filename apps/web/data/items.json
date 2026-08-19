@@ -30576,10 +30576,9 @@
   "BLOOD_GOD_SIGIL": {
     "itemid": "minecraft:skull",
     "displayname": "§aBlood God Sigil",
-    "nbttag": "{ExtraAttributes:{blood_god_kills:21,id:\"BLOOD_GOD_SIGIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"aed1ae1f-4218-3325-a80f-18fe730b4b8e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"LbKWNf/WN9BINkxLuoVNfFqDJSyOiRTWHVDAaalAXx2I3y22Fd05iYfn/DdkR7pjatZyrakqyEr4xLZltNsH1WtKPLf84VX5yu6xhXOnLTPJXXK4XNCXr+4qwIEs8vzeoFrUkvRlRayHx8/KZcRRhXPmhPjTkAB6Ngd2IE6ATeSEjMTcsBC9hK7xXp1IsJ80FAJzYen/SafeDHvmDuqjlYqH7XKfO4Dv/tqPAEu6oPpumYdwF6ZFNbHqm1dgiTPztF+hFj+6Db0WSxtXK8XT+Ux1P0nrgy5T1AVWgxHXCbtzCR9a3c11althgx+S1R0RU5qo20c5rQtGe2UKP4ygWnBaJ+0+SzL+MW091aSWP/g/S7Mbr+z75svpJkBrb9U+xI6zO6CnmjOVJha8GtZ8l7Kgu1+mR6DJGxnjqc0dvdnrmWJUE6GrqLiDZhszZK2rX0YBQnvLpa3dNFfJzDE+iORu3e3amDXZYVJAFgf0ymQs9K68LhvUFcvKPR0HH2RM0n6+J5dQa5Qrw8YcDnUIOmopZ7ANnvTDOwW17YCdWrJGVznQ6ElRob+ka/Kh4YMgF1E9t0znUeRi/AcbKCtzODn+QaMw5pq9B+0n5ND7+v7bXMzNVwEMViOaMwxBspEMzDtgZonw2XGtKTY8HM+WFaiOYA98ykxYuAdxBeZXcmo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2NDY1NjI5NTAyNSwKICAicHJvZmlsZUlkIiA6ICIyY2QyMTQwMGZmZDE0MDU3OWJiN2FlODEzNzUyMjBmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnVoYUJydWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIzZjM0MDgyOGNkY2FmNDUwMmU3OWQwZjRmYzZkYTQzOGJlOTY2YWMyZmQ2YmM3Yjk3MmJiNzFiZTViOTNiMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+4\",1:\"§7Accessory Power: §6+5\",2:\"\",3:\"§7Tracks a counter for each mob\",4:\"§7killed while worn.\",5:\"\",6:\"§7Gain §c+2 Strength §7for each digit\",7:\"§7on the counter. §8(Max 7)\",8:\"\",9:\"§7Counter: §c21\",10:\"§7Bonus: §c+4 Strength\",11:\"\",12:\"§8Works while in Accessory Bag!\",13:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aBlood God Sigil\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BLOOD_GOD_SIGIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"aed1ae1f-4218-3325-a80f-18fe730b4b8e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"LbKWNf/WN9BINkxLuoVNfFqDJSyOiRTWHVDAaalAXx2I3y22Fd05iYfn/DdkR7pjatZyrakqyEr4xLZltNsH1WtKPLf84VX5yu6xhXOnLTPJXXK4XNCXr+4qwIEs8vzeoFrUkvRlRayHx8/KZcRRhXPmhPjTkAB6Ngd2IE6ATeSEjMTcsBC9hK7xXp1IsJ80FAJzYen/SafeDHvmDuqjlYqH7XKfO4Dv/tqPAEu6oPpumYdwF6ZFNbHqm1dgiTPztF+hFj+6Db0WSxtXK8XT+Ux1P0nrgy5T1AVWgxHXCbtzCR9a3c11althgx+S1R0RU5qo20c5rQtGe2UKP4ygWnBaJ+0+SzL+MW091aSWP/g/S7Mbr+z75svpJkBrb9U+xI6zO6CnmjOVJha8GtZ8l7Kgu1+mR6DJGxnjqc0dvdnrmWJUE6GrqLiDZhszZK2rX0YBQnvLpa3dNFfJzDE+iORu3e3amDXZYVJAFgf0ymQs9K68LhvUFcvKPR0HH2RM0n6+J5dQa5Qrw8YcDnUIOmopZ7ANnvTDOwW17YCdWrJGVznQ6ElRob+ka/Kh4YMgF1E9t0znUeRi/AcbKCtzODn+QaMw5pq9B+0n5ND7+v7bXMzNVwEMViOaMwxBspEMzDtgZonw2XGtKTY8HM+WFaiOYA98ykxYuAdxBeZXcmo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2NDY1NjI5NTAyNSwKICAicHJvZmlsZUlkIiA6ICIyY2QyMTQwMGZmZDE0MDU3OWJiN2FlODEzNzUyMjBmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnVoYUJydWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIzZjM0MDgyOGNkY2FmNDUwMmU3OWQwZjRmYzZkYTQzOGJlOTY2YWMyZmQ2YmM3Yjk3MmJiNzFiZTViOTNiMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Tracks a counter for each mob\",3:\"§7killed while worn.\",4:\"\",5:\"§7Gain §c+2 Strength §7for each digit\",6:\"§7on the counter. §8(Max 7)\",7:\"\",8:\"§7Counter: §cNone yet!\",9:\"\",10:\"§8Works while in Accessory Bag!\",11:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aBlood God Sigil\"}}",
     "damage": 3,
     "lore": [
-      "§7Strength: §c+4",
       "§7Accessory Power: §6+5",
       "",
       "§7Tracks a counter for each mob",
@@ -30588,8 +30587,7 @@
       "§7Gain §c+2 Strength §7for each digit",
       "§7on the counter. §8(Max 7)",
       "",
-      "§7Counter: §c21",
-      "§7Bonus: §c+4 Strength",
+      "§7Counter: §cNone yet!",
       "",
       "§8Works while in Accessory Bag!",
       "§a§lUNCOMMON ACCESSORY"
@@ -45412,25 +45410,23 @@
   "CHRISTMAS_STOCKING_BACKPACK": {
     "itemid": "minecraft:skull",
     "displayname": "§5Christmas Stocking Backpack Skin",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"a92d7376-8057-3a46-b4b6-b52a31dc5aaf\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwMjA1NTY4NDc4MCwKICAicHJvZmlsZUlkIiA6ICI4N2RlZmVhMTQwMWQ0MzYxODFhNmNhOWI3ZGQ2ODg0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGh5bnhpdHMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRmOTA3MmQ5OWQxM2ZiNmY5NTVmZWUwMWIzMDc3NDk2N2QyYTJlMGE4MGE5MWI4ODliODVjNzlkYzhhNWE1NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7§8Combinable in Anvil\",1:\"\",2:\"§7§7Item skins give your gear a\",3:\"§7fresh new look! Apply them just\",4:\"§7like an enchant book using the\",5:\"§7anvil.\",6:\"\",7:\"§7§7This skin can be applied to\",8:\"§7§aBackpacks§7.\",9:\"\",10:\"§5§lEPIC COSMETIC\"],Name:\"§5Christmas Stocking Backpack Skin\"},ExtraAttributes:{id:\"CHRISTMAS_STOCKING_BACKPACK\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CHRISTMAS_STOCKING_BACKPACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a92d7376-8057-3a46-b4b6-b52a31dc5aaf\",Properties:{textures:[0:{Name:\"textures\",Signature:\"t5yq4bn6TOcMkokGMcbR5chPtTHeW84XyNrlDXh90KCFugjbD+wHijn7bJOQt4fPUj9R9Zi59439LKDhYNos5UFuiIYdngbTxDYuBdx0cwmfi3wm9DNJnFiNxeROmUgk/1yr3bOLq/PaQU+I5/g/LxyqgKRrPNVsLk7/Vn0auU0EM6pKsUUtZ8Gn+hFqc+pJkf0nuyGafY7P1/NaB1YWoLFHzZcMh+X8zGx7hPCcvU2NrFH8oComSP4ZI5RIoZzP1PC9/yT45FdKm3Qn2cnWrFedXlUXVnLVi3ZXjwZpj22XzaY29ZdqSxfuu8frYLUF1R141a+ElpLaoMyI5ic29WbrjtbWwPLtkWLbWN9Xl1X3TzbPPNkuRhQ4TMzO1YO79iBLXhQPq8gn1Y6NzqNGsgB6nmDPPy3gfGE6fmEnhCJysCzWWy8aHbYvlm50CTwcMLDpoznaSwoBmDqXi34PDHZJ36cxQV+YdnCJkhCwi3/Y6L/+QhRCCuaHFhtCmfS8eSVArU9l2AsFVcH9whB6k0PInguNc4arsI9IKYPoGNoDVXPcBAyFmAiHT0avW+9NeO+h1ypAQn6H0el5yYjTZ0JNj7SFOr9uBTaJoJpql4BlzM3kYCFWmKdEiR/wZlVroFs2lRRQcjtd3ho5ZhLtv7IRMn3hzTCsgN31iHyfLDg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwMjA1NTY4NDc4MCwKICAicHJvZmlsZUlkIiA6ICI4N2RlZmVhMTQwMWQ0MzYxODFhNmNhOWI3ZGQ2ODg0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGh5bnhpdHMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRmOTA3MmQ5OWQxM2ZiNmY5NTVmZWUwMWIzMDc3NDk2N2QyYTJlMGE4MGE5MWI4ODliODVjNzlkYzhhNWE1NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §aBackpacks§7.\",7:\"\",8:\"§5§lEPIC COSMETIC\"],Name:\"§5Christmas Stocking Backpack Skin\"}}",
     "damage": 3,
     "lore": [
-      "§7§8Combinable in Anvil",
+      "§8Combinable in Anvil",
       "",
-      "§7§7Item skins give your gear a",
-      "§7fresh new look! Apply them just",
-      "§7like an enchant book using the",
-      "§7anvil.",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
       "",
-      "§7§7This skin can be applied to",
-      "§7§aBackpacks§7.",
+      "§7This skin can be applied to §aBackpacks§7.",
       "",
       "§5§lEPIC COSMETIC"
     ],
     "internalname": "CHRISTMAS_STOCKING_BACKPACK",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.1.1-PRE",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Christmas_Stocking_Backpack_Skin"
@@ -86953,7 +86949,7 @@
   "FIRE_FURY_STAFF": {
     "itemid": "minecraft:blaze_rod",
     "displayname": "§5Fire Fury Staff",
-    "nbttag": "{ExtraAttributes:{id:\"FIRE_FURY_STAFF\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/fire_fury_staff\",display:{Lore:[0:\"§7Damage: §c+100\",1:\"§7Intelligence: §b+300\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§6Ability: Firestorm  §e§lRIGHT CLICK\",5:\"§7Shoots a projectile that on impact creates a\",6:\"§7firestorm, dealing up to §c42,336.6 §7damage over\",7:\"§710 seconds to mobs in a 7 block radius.\",8:\"§8Mana Cost: §b1,000\",9:\"§8Cooldown: §a20s\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aCombat Skill 22§c.\",13:\"§5§lEPIC SWORD\"],Name:\"§5Fire Fury Staff\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FIRE_FURY_STAFF\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/fire_fury_staff\",display:{Lore:[0:\"§7Damage: §c+100\",1:\"§7Intelligence: §b+300\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§6Ability: Firestorm  §e§lRIGHT CLICK\",5:\"§7Shoots a projectile that on impact creates a\",6:\"§7firestorm, dealing up to §c42,000 §7damage over\",7:\"§710 seconds to mobs in a 7 block radius.\",8:\"§8Mana Cost: §b1,000\",9:\"§8Cooldown: §a20s\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aCombat Skill 22§c.\",13:\"§5§lEPIC SWORD\"],Name:\"§5Fire Fury Staff\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+100",
@@ -86962,7 +86958,7 @@
       "",
       "§6Ability: Firestorm  §e§lRIGHT CLICK",
       "§7Shoots a projectile that on impact creates a",
-      "§7firestorm, dealing up to §c42,336.6 §7damage over",
+      "§7firestorm, dealing up to §c42,000 §7damage over",
       "§710 seconds to mobs in a 7 block radius.",
       "§8Mana Cost: §b1,000",
       "§8Cooldown: §a20s",
@@ -86974,7 +86970,7 @@
     "internalname": "FIRE_FURY_STAFF",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fire_Fury_Staff"
@@ -95035,13 +95031,13 @@
   "FROZEN_SCYTHE": {
     "itemid": "minecraft:iron_hoe",
     "displayname": "§9Frozen Scythe",
-    "nbttag": "{ExtraAttributes:{id:\"FROZEN_SCYTHE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/frozen_scythe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+80\",1:\"\",2:\"§6Ability: Ice Bolt  §e§lRIGHT CLICK\",3:\"§7Shoots §a1 §7Ice Bolt that deals §c1,008 §7damage and\",4:\"§7slows enemies hit for §a5 §7seconds!\",5:\"§8Mana Cost: §b50\",6:\"\",7:\"§8This item can be reforged!\",8:\"§9§lRARE SWORD\"],Name:\"§9Frozen Scythe\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FROZEN_SCYTHE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/frozen_scythe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+80\",1:\"\",2:\"§6Ability: Ice Bolt  §e§lRIGHT CLICK\",3:\"§7Shoots §a1 §7Ice Bolt that deals §c1,000 §7damage and\",4:\"§7slows enemies hit for §a5 §7seconds!\",5:\"§8Mana Cost: §b50\",6:\"\",7:\"§8This item can be reforged!\",8:\"§9§lRARE SWORD\"],Name:\"§9Frozen Scythe\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+80",
       "",
       "§6Ability: Ice Bolt  §e§lRIGHT CLICK",
-      "§7Shoots §a1 §7Ice Bolt that deals §c1,008 §7damage and",
+      "§7Shoots §a1 §7Ice Bolt that deals §c1,000 §7damage and",
       "§7slows enemies hit for §a5 §7seconds!",
       "§8Mana Cost: §b50",
       "",
@@ -95051,7 +95047,7 @@
     "internalname": "FROZEN_SCYTHE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Ice X",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frozen_Scythe"
@@ -135839,7 +135835,7 @@
   "LEAPING_SWORD": {
     "itemid": "minecraft:golden_sword",
     "displayname": "§5Leaping Sword",
-    "nbttag": "{ExtraAttributes:{id:\"LEAPING_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/leaping_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Strength: §c+100\",2:\"§7Crit Damage: §9+25%\",3:\"\",4:\"§6Ability: Leap  §e§lRIGHT CLICK\",5:\"§7Leap into the air and deal §c355.3§7 damage to\",6:\"§7nearby enemies upon landing on the ground.\",7:\"§7Damaged enemies will also be frozen for §a1\",8:\"§7second.\",9:\"§8Mana Cost: §b50\",10:\"§8Cooldown: §a1s\",11:\"\",12:\"§8This item can be reforged!\",13:\"§5§lEPIC SWORD\"],Name:\"§5Leaping Sword\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"LEAPING_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/leaping_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Strength: §c+100\",2:\"§7Crit Damage: §9+25%\",3:\"\",4:\"§6Ability: Leap  §e§lRIGHT CLICK\",5:\"§7Leap into the air and deal §c350§7 damage to\",6:\"§7nearby enemies upon landing on the ground.\",7:\"§7Damaged enemies will also be frozen for §a1\",8:\"§7second.\",9:\"§8Mana Cost: §b50\",10:\"§8Cooldown: §a1s\",11:\"\",12:\"§8This item can be reforged!\",13:\"§5§lEPIC SWORD\"],Name:\"§5Leaping Sword\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+150",
@@ -135847,7 +135843,7 @@
       "§7Crit Damage: §9+25%",
       "",
       "§6Ability: Leap  §e§lRIGHT CLICK",
-      "§7Leap into the air and deal §c355.3§7 damage to",
+      "§7Leap into the air and deal §c350§7 damage to",
       "§7nearby enemies upon landing on the ground.",
       "§7Damaged enemies will also be frozen for §a1",
       "§7second.",
@@ -135860,7 +135856,7 @@
     "internalname": "LEAPING_SWORD",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Eye IX",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Leaping_Sword"
@@ -286487,23 +286483,24 @@
   "YOUNG_BABY": {
     "itemid": "minecraft:skull",
     "displayname": "§5Baby Skin",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"1ff409b5-a5d5-3511-8a95-bea3e2c64319\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM1MDNkY2FhZTZhNmNkZTAyNzMxNmEzY2U2ZTIwM2I2NDMyN2I3ZGU3MjQ0MTg2NWNmZDNjZGI0NWQ1ZWY0NCJ9fX0K\"}]}},display:{Lore:[0:\"§7§7Item skins give your gear a\",1:\"§7fresh new look! Apply them just\",2:\"§7like an enchant book using the\",3:\"§7anvil.\",4:\"§7\",5:\"§7§7This skin can be applied to\",6:\"§7§a§6Young Dragon Helmet\",7:\"\",8:\"§5§lEPIC COSMETIC\"],Name:\"§5Baby Skin\"},ExtraAttributes:{originTag:\"FIRE_SALE\",id:\"YOUNG_BABY\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"YOUNG_BABY\",originTag:\"FIRE_SALE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"783f3b27-79cc-38f9-a007-342d6cf9e7df\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Rl8WPgLQddShfImUSBSWCf/xYUvb/ZDFgm6xNZJCA30FcuzUZgQWW1Cy9cxy2E0eNRAha+WIMVoFUu15we2ZkjgMqYysDdZWMJJqsBdP9ADLWIAw2k0IRoCs4rlVHZDgLHbVaBuDIWeD0s9r3TcJm0rlIXQlmnO+KoCaLCztl5aCkWXrj2at7As6j70CcEjLCS32+ROUXcMdkvvybuVsOKWeQ3En8ZPMvy6lG+x5D6sYkrTSqgN9qPouLzKmOWpY85MvQKsVnjGnDIPVKv9/eu5CztMdF7g87+EKDvbcpbqoNWBByEOcKm6/T5AHvPI/3d9hSa1C5NmaoBkJtmq58DLSUp5Rq8zofr2B73HL6KNipaQ5qMQT37XPXb8SomEue8TvHz0KrBv1++Wz6DGwzE046Lx+1jaMRG7LX5aVtJ/vEYwwnV/tz/qhB5DO+OQtZO/UkLcWKr/JRIaaZFiT3RHjNk+SGxP67/OINekcW8N1X8BoIa6LAGbn4SiBtlnIK5V8Ml1qWth7EWUvYDyAnU8KrLd9ryby5Ps73nj4a3vJbyA3tvBxUGehntQvACdHByDfIMZ1KMA4w4Vhn5DMofnQZKsQF+9FfPrLvAlqbvBE5Vey18QfSxwuEqqmWzxyEeiYh/zyo+3T/rT4qNzunITxtD/aWg9t/8jaqJFujhU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYzNjE4NDUwMDI4MywKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQzNTAzZGNhYWU2YTZjZGUwMjczMTZhM2NlNmUyMDNiNjQzMjdiN2RlNzI0NDE4NjVjZmQzY2RiNDVkNWVmNDQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §6Young\",7:\"§6Dragon Helmet§7.\",8:\"\",9:\"§5§lEPIC COSMETIC\"],Name:\"§5Baby Skin\"}}",
     "damage": 3,
     "lore": [
-      "§7§7Item skins give your gear a",
-      "§7fresh new look! Apply them just",
-      "§7like an enchant book using the",
-      "§7anvil.",
-      "§7",
-      "§7§7This skin can be applied to",
-      "§7§a§6Young Dragon Helmet",
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §6Young",
+      "§6Dragon Helmet§7.",
       "",
       "§5§lEPIC COSMETIC"
     ],
     "internalname": "YOUNG_BABY",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.1.0-REL",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Baby_Skin"

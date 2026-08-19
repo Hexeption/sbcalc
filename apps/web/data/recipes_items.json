@@ -7223,10 +7223,9 @@
   "BLOOD_GOD_SIGIL": {
     "itemid": "minecraft:skull",
     "displayname": "§aBlood God Sigil",
-    "nbttag": "{ExtraAttributes:{blood_god_kills:21,id:\"BLOOD_GOD_SIGIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"aed1ae1f-4218-3325-a80f-18fe730b4b8e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"LbKWNf/WN9BINkxLuoVNfFqDJSyOiRTWHVDAaalAXx2I3y22Fd05iYfn/DdkR7pjatZyrakqyEr4xLZltNsH1WtKPLf84VX5yu6xhXOnLTPJXXK4XNCXr+4qwIEs8vzeoFrUkvRlRayHx8/KZcRRhXPmhPjTkAB6Ngd2IE6ATeSEjMTcsBC9hK7xXp1IsJ80FAJzYen/SafeDHvmDuqjlYqH7XKfO4Dv/tqPAEu6oPpumYdwF6ZFNbHqm1dgiTPztF+hFj+6Db0WSxtXK8XT+Ux1P0nrgy5T1AVWgxHXCbtzCR9a3c11althgx+S1R0RU5qo20c5rQtGe2UKP4ygWnBaJ+0+SzL+MW091aSWP/g/S7Mbr+z75svpJkBrb9U+xI6zO6CnmjOVJha8GtZ8l7Kgu1+mR6DJGxnjqc0dvdnrmWJUE6GrqLiDZhszZK2rX0YBQnvLpa3dNFfJzDE+iORu3e3amDXZYVJAFgf0ymQs9K68LhvUFcvKPR0HH2RM0n6+J5dQa5Qrw8YcDnUIOmopZ7ANnvTDOwW17YCdWrJGVznQ6ElRob+ka/Kh4YMgF1E9t0znUeRi/AcbKCtzODn+QaMw5pq9B+0n5ND7+v7bXMzNVwEMViOaMwxBspEMzDtgZonw2XGtKTY8HM+WFaiOYA98ykxYuAdxBeZXcmo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2NDY1NjI5NTAyNSwKICAicHJvZmlsZUlkIiA6ICIyY2QyMTQwMGZmZDE0MDU3OWJiN2FlODEzNzUyMjBmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnVoYUJydWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIzZjM0MDgyOGNkY2FmNDUwMmU3OWQwZjRmYzZkYTQzOGJlOTY2YWMyZmQ2YmM3Yjk3MmJiNzFiZTViOTNiMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+4\",1:\"§7Accessory Power: §6+5\",2:\"\",3:\"§7Tracks a counter for each mob\",4:\"§7killed while worn.\",5:\"\",6:\"§7Gain §c+2 Strength §7for each digit\",7:\"§7on the counter. §8(Max 7)\",8:\"\",9:\"§7Counter: §c21\",10:\"§7Bonus: §c+4 Strength\",11:\"\",12:\"§8Works while in Accessory Bag!\",13:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aBlood God Sigil\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BLOOD_GOD_SIGIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"aed1ae1f-4218-3325-a80f-18fe730b4b8e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"LbKWNf/WN9BINkxLuoVNfFqDJSyOiRTWHVDAaalAXx2I3y22Fd05iYfn/DdkR7pjatZyrakqyEr4xLZltNsH1WtKPLf84VX5yu6xhXOnLTPJXXK4XNCXr+4qwIEs8vzeoFrUkvRlRayHx8/KZcRRhXPmhPjTkAB6Ngd2IE6ATeSEjMTcsBC9hK7xXp1IsJ80FAJzYen/SafeDHvmDuqjlYqH7XKfO4Dv/tqPAEu6oPpumYdwF6ZFNbHqm1dgiTPztF+hFj+6Db0WSxtXK8XT+Ux1P0nrgy5T1AVWgxHXCbtzCR9a3c11althgx+S1R0RU5qo20c5rQtGe2UKP4ygWnBaJ+0+SzL+MW091aSWP/g/S7Mbr+z75svpJkBrb9U+xI6zO6CnmjOVJha8GtZ8l7Kgu1+mR6DJGxnjqc0dvdnrmWJUE6GrqLiDZhszZK2rX0YBQnvLpa3dNFfJzDE+iORu3e3amDXZYVJAFgf0ymQs9K68LhvUFcvKPR0HH2RM0n6+J5dQa5Qrw8YcDnUIOmopZ7ANnvTDOwW17YCdWrJGVznQ6ElRob+ka/Kh4YMgF1E9t0znUeRi/AcbKCtzODn+QaMw5pq9B+0n5ND7+v7bXMzNVwEMViOaMwxBspEMzDtgZonw2XGtKTY8HM+WFaiOYA98ykxYuAdxBeZXcmo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2NDY1NjI5NTAyNSwKICAicHJvZmlsZUlkIiA6ICIyY2QyMTQwMGZmZDE0MDU3OWJiN2FlODEzNzUyMjBmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnVoYUJydWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmIzZjM0MDgyOGNkY2FmNDUwMmU3OWQwZjRmYzZkYTQzOGJlOTY2YWMyZmQ2YmM3Yjk3MmJiNzFiZTViOTNiMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Tracks a counter for each mob\",3:\"§7killed while worn.\",4:\"\",5:\"§7Gain §c+2 Strength §7for each digit\",6:\"§7on the counter. §8(Max 7)\",7:\"\",8:\"§7Counter: §cNone yet!\",9:\"\",10:\"§8Works while in Accessory Bag!\",11:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aBlood God Sigil\"}}",
     "damage": 3,
     "lore": [
-      "§7Strength: §c+4",
       "§7Accessory Power: §6+5",
       "",
       "§7Tracks a counter for each mob",
@@ -7235,8 +7234,7 @@
       "§7Gain §c+2 Strength §7for each digit",
       "§7on the counter. §8(Max 7)",
       "",
-      "§7Counter: §c21",
-      "§7Bonus: §c+4 Strength",
+      "§7Counter: §cNone yet!",
       "",
       "§8Works while in Accessory Bag!",
       "§a§lUNCOMMON ACCESSORY"
@@ -30856,7 +30854,7 @@
   "FIRE_FURY_STAFF": {
     "itemid": "minecraft:blaze_rod",
     "displayname": "§5Fire Fury Staff",
-    "nbttag": "{ExtraAttributes:{id:\"FIRE_FURY_STAFF\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/fire_fury_staff\",display:{Lore:[0:\"§7Damage: §c+100\",1:\"§7Intelligence: §b+300\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§6Ability: Firestorm  §e§lRIGHT CLICK\",5:\"§7Shoots a projectile that on impact creates a\",6:\"§7firestorm, dealing up to §c42,336.6 §7damage over\",7:\"§710 seconds to mobs in a 7 block radius.\",8:\"§8Mana Cost: §b1,000\",9:\"§8Cooldown: §a20s\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aCombat Skill 22§c.\",13:\"§5§lEPIC SWORD\"],Name:\"§5Fire Fury Staff\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FIRE_FURY_STAFF\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/fire_fury_staff\",display:{Lore:[0:\"§7Damage: §c+100\",1:\"§7Intelligence: §b+300\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§6Ability: Firestorm  §e§lRIGHT CLICK\",5:\"§7Shoots a projectile that on impact creates a\",6:\"§7firestorm, dealing up to §c42,000 §7damage over\",7:\"§710 seconds to mobs in a 7 block radius.\",8:\"§8Mana Cost: §b1,000\",9:\"§8Cooldown: §a20s\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aCombat Skill 22§c.\",13:\"§5§lEPIC SWORD\"],Name:\"§5Fire Fury Staff\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+100",
@@ -30865,7 +30863,7 @@
       "",
       "§6Ability: Firestorm  §e§lRIGHT CLICK",
       "§7Shoots a projectile that on impact creates a",
-      "§7firestorm, dealing up to §c42,336.6 §7damage over",
+      "§7firestorm, dealing up to §c42,000 §7damage over",
       "§710 seconds to mobs in a 7 block radius.",
       "§8Mana Cost: §b1,000",
       "§8Cooldown: §a20s",
@@ -30877,7 +30875,7 @@
     "internalname": "FIRE_FURY_STAFF",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fire_Fury_Staff"
@@ -34045,13 +34043,13 @@
   "FROZEN_SCYTHE": {
     "itemid": "minecraft:iron_hoe",
     "displayname": "§9Frozen Scythe",
-    "nbttag": "{ExtraAttributes:{id:\"FROZEN_SCYTHE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/frozen_scythe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+80\",1:\"\",2:\"§6Ability: Ice Bolt  §e§lRIGHT CLICK\",3:\"§7Shoots §a1 §7Ice Bolt that deals §c1,008 §7damage and\",4:\"§7slows enemies hit for §a5 §7seconds!\",5:\"§8Mana Cost: §b50\",6:\"\",7:\"§8This item can be reforged!\",8:\"§9§lRARE SWORD\"],Name:\"§9Frozen Scythe\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FROZEN_SCYTHE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/frozen_scythe\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+80\",1:\"\",2:\"§6Ability: Ice Bolt  §e§lRIGHT CLICK\",3:\"§7Shoots §a1 §7Ice Bolt that deals §c1,000 §7damage and\",4:\"§7slows enemies hit for §a5 §7seconds!\",5:\"§8Mana Cost: §b50\",6:\"\",7:\"§8This item can be reforged!\",8:\"§9§lRARE SWORD\"],Name:\"§9Frozen Scythe\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+80",
       "",
       "§6Ability: Ice Bolt  §e§lRIGHT CLICK",
-      "§7Shoots §a1 §7Ice Bolt that deals §c1,008 §7damage and",
+      "§7Shoots §a1 §7Ice Bolt that deals §c1,000 §7damage and",
       "§7slows enemies hit for §a5 §7seconds!",
       "§8Mana Cost: §b50",
       "",
@@ -34061,7 +34059,7 @@
     "internalname": "FROZEN_SCYTHE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Ice X",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frozen_Scythe"
@@ -49683,7 +49681,7 @@
   "LEAPING_SWORD": {
     "itemid": "minecraft:golden_sword",
     "displayname": "§5Leaping Sword",
-    "nbttag": "{ExtraAttributes:{id:\"LEAPING_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/leaping_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Strength: §c+100\",2:\"§7Crit Damage: §9+25%\",3:\"\",4:\"§6Ability: Leap  §e§lRIGHT CLICK\",5:\"§7Leap into the air and deal §c355.3§7 damage to\",6:\"§7nearby enemies upon landing on the ground.\",7:\"§7Damaged enemies will also be frozen for §a1\",8:\"§7second.\",9:\"§8Mana Cost: §b50\",10:\"§8Cooldown: §a1s\",11:\"\",12:\"§8This item can be reforged!\",13:\"§5§lEPIC SWORD\"],Name:\"§5Leaping Sword\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"LEAPING_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/leaping_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Strength: §c+100\",2:\"§7Crit Damage: §9+25%\",3:\"\",4:\"§6Ability: Leap  §e§lRIGHT CLICK\",5:\"§7Leap into the air and deal §c350§7 damage to\",6:\"§7nearby enemies upon landing on the ground.\",7:\"§7Damaged enemies will also be frozen for §a1\",8:\"§7second.\",9:\"§8Mana Cost: §b50\",10:\"§8Cooldown: §a1s\",11:\"\",12:\"§8This item can be reforged!\",13:\"§5§lEPIC SWORD\"],Name:\"§5Leaping Sword\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+150",
@@ -49691,7 +49689,7 @@
       "§7Crit Damage: §9+25%",
       "",
       "§6Ability: Leap  §e§lRIGHT CLICK",
-      "§7Leap into the air and deal §c355.3§7 damage to",
+      "§7Leap into the air and deal §c350§7 damage to",
       "§7nearby enemies upon landing on the ground.",
       "§7Damaged enemies will also be frozen for §a1",
       "§7second.",
@@ -49704,7 +49702,7 @@
     "internalname": "LEAPING_SWORD",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Eye IX",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Leaping_Sword"
