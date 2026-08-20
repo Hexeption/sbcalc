@@ -2972,8 +2972,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Fig Log VII",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sparrow_Shard"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_FIG_LOG:8",
@@ -3014,8 +3016,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Cocoaleech_Shard"
+    ],
     "recipes": [
       {
         "A1": "DESIGNER_COFFEE_BEANS:4",
@@ -3057,8 +3061,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Helix Log VII",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hawk_Shard"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_HELIX_LOG:8",
@@ -3099,8 +3105,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Honeycomb VII",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Queen_Bee_Shard"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_HONEYCOMB:4",
@@ -3142,8 +3150,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Honeycomb IV",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Honey_Badger_Shard"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_HELIX_LOG:8",
@@ -3185,8 +3195,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Seagull_Shard"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_MANGROVE_LOG:8",
@@ -3228,8 +3240,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Ruby Veilshroom IV",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/June_Bug_Shard"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_HELIX_LOG:8",
@@ -28648,7 +28662,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Farm_Armor_Boots"
+      "https://hypixelskyblock.minecraft.wiki/w/Haymaker_Boots"
     ],
     "recipes": [
       {
@@ -28686,7 +28700,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Farm_Armor_Chestplate"
+      "https://hypixelskyblock.minecraft.wiki/w/Haymaker_Chestplate"
     ],
     "recipes": [
       {
@@ -28724,7 +28738,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Farm_Armor_Helmet"
+      "https://hypixelskyblock.minecraft.wiki/w/Haymaker_Helmet"
     ],
     "recipes": [
       {
@@ -28762,7 +28776,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Farm_Armor_Leggings"
+      "https://hypixelskyblock.minecraft.wiki/w/Haymaker_Leggings"
     ],
     "recipes": [
       {
@@ -28837,7 +28851,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Boots"
+      "https://hypixelskyblock.minecraft.wiki/w/Farmhand_Boots"
     ],
     "recipes": [
       {
@@ -28879,7 +28893,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Chestplate"
+      "https://hypixelskyblock.minecraft.wiki/w/Farmhand_Chestplate"
     ],
     "recipes": [
       {
@@ -28921,7 +28935,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Helmet"
+      "https://hypixelskyblock.minecraft.wiki/w/Farmhand_Helmet"
     ],
     "recipes": [
       {
@@ -28963,7 +28977,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Farm_Suit_Leggings"
+      "https://hypixelskyblock.minecraft.wiki/w/Farmhand_Leggings"
     ],
     "recipes": [
       {
@@ -33170,7 +33184,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Flower__Truth"
+      "https://hypixelskyblock.minecraft.wiki/w/Flower_of_Truth"
     ],
     "recipe": {
       "A1": "",
@@ -39066,7 +39080,7 @@
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Griffin_Upgrade_Stone"
+      "https://hypixelskyblock.minecraft.wiki/w/Epic_Griffin_Upgrade_Stone"
     ],
     "recipes": [
       {
@@ -39102,7 +39116,7 @@
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Griffin_Upgrade_Stone"
+      "https://hypixelskyblock.minecraft.wiki/w/Legendary_Griffin_Upgrade_Stone"
     ],
     "recipes": [
       {
@@ -39174,7 +39188,7 @@
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Griffin_Upgrade_Stone"
+      "https://hypixelskyblock.minecraft.wiki/w/Rare_Griffin_Upgrade_Stone"
     ],
     "recipes": [
       {
@@ -39210,7 +39224,7 @@
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Griffin_Upgrade_Stone"
+      "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Griffin_Upgrade_Stone"
     ],
     "recipes": [
       {
@@ -52395,7 +52409,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Magma_Lord_Gauntlet"
+      "https://hypixelskyblock.minecraft.wiki/w/Magma_Lord_Necklace"
     ],
     "recipe": {
       "A1": "MAGMA_LORD_FRAGMENT:1",
@@ -52911,7 +52925,7 @@
     "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Mangrove_Vine"
+      "https://hypixelskyblock.minecraft.wiki/w/Moonglade_Belt"
     ],
     "recipes": [
       {
@@ -54210,7 +54224,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Melon_Boots"
+      "https://hypixelskyblock.minecraft.wiki/w/Tater_Boots"
     ],
     "recipes": [
       {
@@ -54259,7 +54273,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Melon_Chestplate"
+      "https://hypixelskyblock.minecraft.wiki/w/Tater_Chestplate"
     ],
     "recipes": [
       {
@@ -54833,7 +54847,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Melon_Helmet"
+      "https://hypixelskyblock.minecraft.wiki/w/Tater_Helmet"
     ],
     "recipes": [
       {
@@ -54930,7 +54944,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Melon_Leggings"
+      "https://hypixelskyblock.minecraft.wiki/w/Tater_Leggings"
     ],
     "recipes": [
       {
@@ -55043,7 +55057,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Meteor_Shard"
+      "https://hypixelskyblock.minecraft.wiki/w/Meteor_Chunk"
     ],
     "recipe": {
       "A1": "SILVER_FANG:10",
@@ -68256,7 +68270,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Boots"
+      "https://hypixelskyblock.minecraft.wiki/w/Sprout_Boots"
     ],
     "recipes": [
       {
@@ -68294,7 +68308,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Chestplate"
+      "https://hypixelskyblock.minecraft.wiki/w/Sprout_Chestplate"
     ],
     "recipes": [
       {
@@ -68857,7 +68871,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Helmet"
+      "https://hypixelskyblock.minecraft.wiki/w/Sprout_Helmet"
     ],
     "recipes": [
       {
@@ -68929,7 +68943,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Leggings"
+      "https://hypixelskyblock.minecraft.wiki/w/Sprout_Leggings"
     ],
     "recipes": [
       {
@@ -70509,7 +70523,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Razor-sharp_Shark_Tooth_Necklace"
+      "https://hypixelskyblock.minecraft.wiki/w/Razor-Sharp_Shark_Tooth_Necklace"
     ],
     "recipe": {
       "A1": "",
