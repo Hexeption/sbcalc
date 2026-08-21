@@ -39897,20 +39897,20 @@
   "CARNIVAL_DART_TUBE": {
     "itemid": "minecraft:stick",
     "displayname": "§aCarnival Dart Tube",
-    "nbttag": "{HideFlags:254,display:{Lore:[0:\"§6Ability: Phwomp  §e§lRIGHT CLICK\",1:\"§7Shoots a dart. Can only damage\",2:\"§7§cZombies §7from §cZombie Shootout§7.\",3:\"\",4:\"§8§l* §8Soulbound §8§l*\",5:\"§a§lUNCOMMON\"],Name:\"§aCarnival Dart Tube\"},ExtraAttributes:{id:\"CARNIVAL_DART_TUBE\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CARNIVAL_DART_TUBE\"},HideFlags:254,ItemModel:\"minecraft:stick\",display:{Lore:[0:\"§6Ability: Phwomp  §e§lRIGHT CLICK\",1:\"§7Shoots a dart. Can only damage\",2:\"§cZombies §7from §cZombie Shootout§7.\",3:\"\",4:\"§8§l* §8Soulbound §8§l*\",5:\"§a§lUNCOMMON\"],Name:\"§aCarnival Dart Tube\"}}",
     "damage": 0,
     "lore": [
       "§6Ability: Phwomp  §e§lRIGHT CLICK",
       "§7Shoots a dart. Can only damage",
-      "§7§cZombies §7from §cZombie Shootout§7.",
+      "§cZombies §7from §cZombie Shootout§7.",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§a§lUNCOMMON"
     ],
     "internalname": "CARNIVAL_DART_TUBE",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.3.0",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Carnival_Dart_Tube"
@@ -119486,8 +119486,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hunter_Jasper"
+    ],
     "island": "safari"
   },
   "HUNTER_JEAN_NPC": {
@@ -119570,8 +119572,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hunter_Luigi"
+    ],
     "island": "safari"
   },
   "HUNTER_MCNEIL_NPC": {
@@ -176335,6 +176339,36 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Natural_Ammonite_Skin"
     ]
+  },
+  "PET_SKIN_AMMONITE_SHELLED": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Shelled Ammonite Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_AMMONITE_SHELLED\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dae17be8-cd34-3ef5-88b2-85c34b6692fe\",Properties:{textures:[0:{Name:\"textures\",Signature:\"pHa0ibbHg9j6QiOwyG+h4zu+IQLlljDyvrT5H0yr9b/O1ohDgBVRrqPRWjPuOs0Tuhcdno18IuKaG8kKxMVS4yW61v0dbcXl/ukTbFfbk90nWaSbvBMBZwEnRMygHrqqTP8E16zSkxrqLn+irxd+5/acZBItRbPXlODYjsqHRujBp2Pw3iiqx+S7PJ+7RbHwPBS3MGG5WVpRQeHryhhQq6JufwrU9nuTLkullC40cbSFcYNdO8kb1hgwfp20rrbQw1lBBZMOa91olj3DsmdSVPQ7Tilw2uVn+dx4A5bt9rEyv6Vb8SLvVkkqaHXtst6ixZ50Clq9Yj/1rZZ3PjZeM0YrQbMYWOsGu6qbMNkiJuPqFpoBprw1kUs2m5cPVzkNVK3F0ZDICJd4bUXPc0nBjPm4HD2m3nAwrUxwxHSUMN8E9DjcTo9a++Xg9ky81Np4XojPx9fo+I2nrRUro4XNo/+6v5zGC9NH6ccPusFGZIhmvarJ2/n174ggDYpTnwkUpTYisX+ebehUR/CEiUEbjA2A53bNldLV0OiOmo1OJ7sIOXoLBVIifiDDSXg8QHnOU33YL1Iakz34V/zovTpzMQEFcGvsMStnYmHPp9sXXBYLdPQkuKeXSm1MiktZeMCbohXJZ/NhBwM4yWFqAXxjJEtsN4xjk6s7FOTi6obnRaw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NzE0MzQ1NjM5MSwKICAicHJvZmlsZUlkIiA6ICJhODEzMzJmNjA5MmE0NDQ1Yjk1YzVhZGFjNDA2OTQzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmFwcHliM2FzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xODQ4MjQ4NmE3YTJkNjQ2OWJmY2NkMzU5Yzg5MTQ5ZGJhZTBhYmVhYTFkZTAxMWNiNmJkMjEyYTI5NGNiNzY4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aAmmonite§7 pets.\",8:\"\",9:\"§aThis skin will allow you to swap\",10:\"§abetween 14 shell themed ammonites!\",11:\"\",12:\"§eRight-click on your summoned pet to\",13:\"§eapply this skin!\",14:\"\",15:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Shelled Ammonite Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aAmmonite§7 pets.",
+      "",
+      "§aThis skin will allow you to swap",
+      "§abetween 14 shell themed ammonites!",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "PET_SKIN_AMMONITE_SHELLED",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": []
   },
   "PET_SKIN_ANKYLOSAURUS_CAVE": {
     "itemid": "minecraft:skull",
@@ -266948,8 +266982,8 @@
   },
   "TURTLELLINI": {
     "itemid": "minecraft:skull",
-    "displayname": "§5Turtlellini",
-    "nbttag": "{ExtraAttributes:{id:\"TURTLELLINI\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9a8ee62f-1a0d-3b97-a949-7631e6827aff\",Properties:{textures:[0:{Name:\"textures\",Signature:\"I1XImkckKziIOEvSmWs8Dg/znnh0i7YaM0Fn06eG5qHM7pXXOvq6RlIHjYREqA/5LD4YiEFWKkX5u4Au+XaXDsoCkskRm8Zt1gWyMr6fiXhUQNZH0lGbxx7MD7/dhfEtAetu/15RqLfPZPWYj/qKggWjGWMgNsPoAzE+5H5MVUACKL1n8/rvVnanhCp0i+PesW4+aURJlTSwhERu03IC6w5Of9eg75EfsWTHNaWZDF82q+yYgAW2kc8RNpincGNUFstrngnYoHwzUfhrpu1McOOqaovF8kZOen+xsNos2A/GEyuNlNgYV/HU4xrcSqE2NMF3QDZdtGxH/6f5k9rUR0J8TWyzpavCMKoiEEyKGk5T1C6w82XMwRWOe7WguY258yqM8VoFfEjFL9ctlD3oMKyvsZui+plSVQo9LQMTJ/gcU2h/MyFVzyjrd8u+A5kSpO7rars/pbSgiqm+yCs9ntA4F7h/+ferW4jzGgOs6/RhJyT7eOsnIoD+EZvhdstjJS4qtMDtRxB4Hz40EiAIRD5KDQDXMn5n1a4IRNhOvCJ6E6OAV0xzI5vXu+/Hi9YH8qsTdXP1X/cry6FSsFdBtyyfSbF77J1u+fwqIZZr3GaWtYF9KvZbSHW6aXc49V632uQ2ZrUKrKWYUl5CDUMX1rKQkq62YoSAeLj+8aPTIKY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjM1MzE2MCwKICAicHJvZmlsZUlkIiA6ICJmNzM0MmExODMxZDA0ZDA5ODc4Y2ViOTVmOTUxYTllMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNMWtzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFkMWJkMDZhNjczOGQwZGE1MDUzZWFlNDlhMTM2MmI4OTQ4OWQxYWMwMDRjMjIyNTA0NTM2ZjdiY2QwNzY3OWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Outside, it's smooth, but there's more\",1:\"§7to it than meets the eye.\",2:\"\",3:\"§7Complete Visitor §6Beth's§7 quest to\",4:\"§eAnalyze§7 this crop!\",5:\"\",6:\"§5§lEPIC MUTATION\"],Name:\"§5Turtlellini\"}}",
+    "displayname": "§9Turtlellini",
+    "nbttag": "{ExtraAttributes:{id:\"TURTLELLINI\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9a8ee62f-1a0d-3b97-a949-7631e6827aff\",Properties:{textures:[0:{Name:\"textures\",Signature:\"I1XImkckKziIOEvSmWs8Dg/znnh0i7YaM0Fn06eG5qHM7pXXOvq6RlIHjYREqA/5LD4YiEFWKkX5u4Au+XaXDsoCkskRm8Zt1gWyMr6fiXhUQNZH0lGbxx7MD7/dhfEtAetu/15RqLfPZPWYj/qKggWjGWMgNsPoAzE+5H5MVUACKL1n8/rvVnanhCp0i+PesW4+aURJlTSwhERu03IC6w5Of9eg75EfsWTHNaWZDF82q+yYgAW2kc8RNpincGNUFstrngnYoHwzUfhrpu1McOOqaovF8kZOen+xsNos2A/GEyuNlNgYV/HU4xrcSqE2NMF3QDZdtGxH/6f5k9rUR0J8TWyzpavCMKoiEEyKGk5T1C6w82XMwRWOe7WguY258yqM8VoFfEjFL9ctlD3oMKyvsZui+plSVQo9LQMTJ/gcU2h/MyFVzyjrd8u+A5kSpO7rars/pbSgiqm+yCs9ntA4F7h/+ferW4jzGgOs6/RhJyT7eOsnIoD+EZvhdstjJS4qtMDtRxB4Hz40EiAIRD5KDQDXMn5n1a4IRNhOvCJ6E6OAV0xzI5vXu+/Hi9YH8qsTdXP1X/cry6FSsFdBtyyfSbF77J1u+fwqIZZr3GaWtYF9KvZbSHW6aXc49V632uQ2ZrUKrKWYUl5CDUMX1rKQkq62YoSAeLj+8aPTIKY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MTkxMjM1MzE2MCwKICAicHJvZmlsZUlkIiA6ICJmNzM0MmExODMxZDA0ZDA5ODc4Y2ViOTVmOTUxYTllMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3RNMWtzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFkMWJkMDZhNjczOGQwZGE1MDUzZWFlNDlhMTM2MmI4OTQ4OWQxYWMwMDRjMjIyNTA0NTM2ZjdiY2QwNzY3OWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Outside, it's smooth, but there's more\",1:\"§7to it than meets the eye.\",2:\"\",3:\"§7Complete Visitor §6Beth's§7 quest to\",4:\"§eAnalyze§7 this crop!\",5:\"\",6:\"§9§lRARE MUTATION\"],Name:\"§9Turtlellini\"}}",
     "damage": 3,
     "lore": [
       "§7Outside, it's smooth, but there's more",
@@ -266958,12 +266992,12 @@
       "§7Complete Visitor §6Beth's§7 quest to",
       "§eAnalyze§7 this crop!",
       "",
-      "§5§lEPIC MUTATION"
+      "§9§lRARE MUTATION"
     ],
     "internalname": "TURTLELLINI",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turtlellini"
