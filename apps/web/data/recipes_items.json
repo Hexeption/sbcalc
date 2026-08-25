@@ -99,7 +99,7 @@
     }
   },
   "ABYSMAL_LASSO": {
-    "itemid": "minecraft:lead",
+    "itemid": "minecraft:paper",
     "displayname": "§fAbysmal Lasso",
     "nbttag": "{ExtraAttributes:{id:\"ABYSMAL_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/abysmal_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7§oThis is barely holding together,\",3:\"§7§oseriously who made this?\",4:\"\",5:\"§6Ability: Throw  §e§lRIGHT CLICK\",6:\"§7Throw the Lasso at §2Forest\",7:\"§7creatures and hold them still until\",8:\"§7they lose all their §9stamina§7.\",9:\"\",10:\"§6Ability: Reel In  §e§lRIGHT CLICK\",11:\"§7Reel in creatures caught by the\",12:\"§7Lasso each time their §9stamina\",13:\"§7depletes.\",14:\"\",15:\"§8§l* §8Soulbound §8§l*\",16:\"§f§lCOMMON LASSO\"],Name:\"§fAbysmal Lasso\"}}",
     "damage": 0,
@@ -125,7 +125,7 @@
     "internalname": "ABYSMAL_LASSO",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Abysmal_Lasso"
@@ -4014,7 +4014,7 @@
   "BASIC_FISHING_NET": {
     "itemid": "minecraft:paper",
     "displayname": "§aBasic Fishing Net",
-    "nbttag": "{ExtraAttributes:{id:\"BASIC_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/basic_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+5\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§a§lUNCOMMON FISHING NET\"],Name:\"§aBasic Fishing Net\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BASIC_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/basic_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+5\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Cooldown: §a0.5s\",8:\"\",9:\"§a§lUNCOMMON FISHING NET\"],Name:\"§aBasic Fishing Net\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -4024,7 +4024,6 @@
       "§6Ability: Yoink  §e§lRIGHT CLICK",
       "§7Throw your fishing net at swimming",
       "§7fish to catch them!",
-      "§8Mana Cost: §b10",
       "§8Cooldown: §a0.5s",
       "",
       "§a§lUNCOMMON FISHING NET"
@@ -4032,7 +4031,7 @@
     "internalname": "BASIC_FISHING_NET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Basic_Fishing_Net"
@@ -8109,6 +8108,46 @@
       "C2": "STONE:1",
       "C3": "STONE:1"
     }
+  },
+  "BRINE_TONIC": {
+    "itemid": "minecraft:paper",
+    "displayname": "§9Brine Tonic",
+    "nbttag": "{ExtraAttributes:{id:\"BRINE_TONIC\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/salts/brine_tonic\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants §b2.75❣ Charm Chance §7on\",3:\"§2Moonglade Marsh Sea Creatures §7and\",4:\"§6Torrhus Canyon Sea Creatures§7.\",5:\"§7Duration: §624h\",6:\"\",7:\"§eLeft-click to consume!\",8:\"\",9:\"§9§lRARE SALT\"],Name:\"§9Brine Tonic\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Hunting Tool",
+      "",
+      "§7Grants §b2.75❣ Charm Chance §7on",
+      "§2Moonglade Marsh Sea Creatures §7and",
+      "§6Torrhus Canyon Sea Creatures§7.",
+      "§7Duration: §624h",
+      "",
+      "§eLeft-click to consume!",
+      "",
+      "§9§lRARE SALT"
+    ],
+    "internalname": "BRINE_TONIC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "LUSHLILAC:8",
+        "A2": "WET_WATER:8",
+        "A3": "LUSHLILAC:8",
+        "B1": "WET_WATER:8",
+        "B2": "SEA_BRINE:1",
+        "B3": "WET_WATER:8",
+        "C1": "LUSHLILAC:8",
+        "C2": "WET_WATER:8",
+        "C3": "LUSHLILAC:8",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "BRINE_TONIC"
+      }
+    ]
   },
   "BRONZE_SHIP_HELM": {
     "itemid": "minecraft:paper",
@@ -27728,7 +27767,7 @@
     }
   },
   "ENTANGLER_LASSO": {
-    "itemid": "minecraft:lead",
+    "itemid": "minecraft:paper",
     "displayname": "§9Entangler Lasso",
     "nbttag": "{ExtraAttributes:{id:\"ENTANGLER_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/entangler_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§a Critters §7lose stamina §240% §7faster.\",13:\"\",14:\"§6Ability: Tug \",15:\"§7Grants §d+2.5 Hunting Fortune §7on\",16:\"§2Forest Shards §7caught with this Lasso.\",17:\"\",18:\"§9§lRARE LASSO\"],Name:\"§9Entangler Lasso\"}}",
     "damage": 0,
@@ -27756,7 +27795,7 @@
     "internalname": "ENTANGLER_LASSO",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Entangler_Lasso"
@@ -27972,7 +28011,7 @@
     }
   },
   "EVERSTRETCH_LASSO": {
-    "itemid": "minecraft:lead",
+    "itemid": "minecraft:paper",
     "displayname": "§5Everstretch Lasso",
     "nbttag": "{ExtraAttributes:{id:\"EVERSTRETCH_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/everstretch_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§a Critters §7lose stamina §260% §7faster.\",13:\"\",14:\"§6Ability: Wrangle \",15:\"§7Grants §d+5 Hunting Fortune §7on\",16:\"§2Forest Shards §7caught with this Lasso.\",17:\"\",18:\"§5§lEPIC LASSO\"],Name:\"§5Everstretch Lasso\"}}",
     "damage": 0,
@@ -28000,7 +28039,7 @@
     "internalname": "EVERSTRETCH_LASSO",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Everstretch_Lasso"
@@ -28309,11 +28348,13 @@
   "FAMILY_SIZED_POT_OF_HONEYCOMB": {
     "itemid": "minecraft:paper",
     "displayname": "§9Family-Sized Pot of Honeycomb",
-    "nbttag": "{ExtraAttributes:{id:\"FAMILY_SIZED_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_family_sized\",display:{Lore:[0:\"§7Use on a §aTree §7with an active §2Tree\",1:\"§2Protection Order §7to lather it with\",2:\"§6Honeycomb§7!\",3:\"\",4:\"§7After §a30m§7, a unique §a Critter §7will be\",5:\"§7attracted to the §6Honeycomb§7!\",6:\"§8Type of mob depends upon type of\",7:\"§8tree lathered.\",8:\"\",9:\"§7Uses: §a3§7/§a3\",10:\"\",11:\"§4❣ §cRequires §aHoneycomb Collection III§c.\",12:\"§9§lRARE\"],Name:\"§9Family-Sized Pot of Honeycomb\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FAMILY_SIZED_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_family_sized\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Use on a §aTree §7with an active §cTree\",3:\"§cProtection Order §7to lather it with\",4:\"§6Honeycomb§7!\",5:\"\",6:\"§7After §a30m§7, a unique §a Critter §7will be\",7:\"§7attracted to the §6Honeycomb§7!\",8:\"§8Type of mob depends upon type of\",9:\"§8tree lathered.\",10:\"\",11:\"§eRight-click to consume!\",12:\"\",13:\"§4❣ §cRequires §aHoneycomb Collection III§c.\",14:\"§9§lRARE\"],Name:\"§9Family-Sized Pot of Honeycomb\"}}",
     "damage": 0,
     "lore": [
-      "§7Use on a §aTree §7with an active §2Tree",
-      "§2Protection Order §7to lather it with",
+      "§8Consumed on use",
+      "",
+      "§7Use on a §aTree §7with an active §cTree",
+      "§cProtection Order §7to lather it with",
       "§6Honeycomb§7!",
       "",
       "§7After §a30m§7, a unique §a Critter §7will be",
@@ -28321,7 +28362,7 @@
       "§8Type of mob depends upon type of",
       "§8tree lathered.",
       "",
-      "§7Uses: §a3§7/§a3",
+      "§eRight-click to consume!",
       "",
       "§4❣ §cRequires §aHoneycomb Collection III§c.",
       "§9§lRARE"
@@ -28341,10 +28382,10 @@
         "B2": "ENCHANTED_HONEYCOMB:8",
         "B3": "",
         "C1": "",
-        "C2": "ENCHANTED_HELIX_LOG:16",
+        "C2": "ENCHANTED_HELIX_LOG:32",
         "C3": "",
         "type": "crafting",
-        "count": 1,
+        "count": 8,
         "overrideOutputId": "FAMILY_SIZED_POT_OF_HONEYCOMB"
       }
     ]
@@ -34409,11 +34450,13 @@
   "FUN_SIZED_POT_OF_HONEYCOMB": {
     "itemid": "minecraft:paper",
     "displayname": "§aFun-Sized Pot of Honeycomb",
-    "nbttag": "{ExtraAttributes:{id:\"FUN_SIZED_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_fun_sized\",display:{Lore:[0:\"§7Use on a §aTree §7with an active §2Tree\",1:\"§2Protection Order §7to lather it with\",2:\"§6Honeycomb§7!\",3:\"\",4:\"§7After §a60m§7, a unique §a Critter §7will be\",5:\"§7attracted to the §6Honeycomb§7!\",6:\"§8Type of mob depends upon type of\",7:\"§8tree lathered.\",8:\"\",9:\"§7Uses: §a1§7/§a1\",10:\"\",11:\"§4❣ §cRequires §aHoneycomb Collection I§c.\",12:\"§a§lUNCOMMON\"],Name:\"§aFun-Sized Pot of Honeycomb\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FUN_SIZED_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_fun_sized\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Use on a §aTree §7with an active §cTree\",3:\"§cProtection Order §7to lather it with\",4:\"§6Honeycomb§7!\",5:\"\",6:\"§7After §a60m§7, a unique §a Critter §7will be\",7:\"§7attracted to the §6Honeycomb§7!\",8:\"§8Type of mob depends upon type of\",9:\"§8tree lathered.\",10:\"\",11:\"§eRight-click to consume!\",12:\"\",13:\"§4❣ §cRequires §aHoneycomb Collection I§c.\",14:\"§a§lUNCOMMON\"],Name:\"§aFun-Sized Pot of Honeycomb\"}}",
     "damage": 0,
     "lore": [
-      "§7Use on a §aTree §7with an active §2Tree",
-      "§2Protection Order §7to lather it with",
+      "§8Consumed on use",
+      "",
+      "§7Use on a §aTree §7with an active §cTree",
+      "§cProtection Order §7to lather it with",
       "§6Honeycomb§7!",
       "",
       "§7After §a60m§7, a unique §a Critter §7will be",
@@ -34421,7 +34464,7 @@
       "§8Type of mob depends upon type of",
       "§8tree lathered.",
       "",
-      "§7Uses: §a1§7/§a1",
+      "§eRight-click to consume!",
       "",
       "§4❣ §cRequires §aHoneycomb Collection I§c.",
       "§a§lUNCOMMON"
@@ -35581,7 +35624,7 @@
   "GIGANTIC_FISHING_NET": {
     "itemid": "minecraft:paper",
     "displayname": "§6Gigantic Fishing Net",
-    "nbttag": "{ExtraAttributes:{id:\"GIGANTIC_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/nets/gigantic_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+100\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+150%\",11:\"\",12:\"§6Ability: Overhaul \",13:\"§7Grants §d+10 Hunting Fortune §7on\",14:\"§9Water Shards §7caught with this net.\",15:\"\",16:\"§6§lLEGENDARY FISHING NET\"],Name:\"§6Gigantic Fishing Net\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GIGANTIC_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/nets/gigantic_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+100\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Cooldown: §a0.5s\",8:\"\",9:\"§7Throw Distance: §a+150%\",10:\"\",11:\"§6Ability: Overhaul \",12:\"§7Grants §d+10 Hunting Fortune §7on\",13:\"§9Water Shards §7caught with this net.\",14:\"\",15:\"§6§lLEGENDARY FISHING NET\"],Name:\"§6Gigantic Fishing Net\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -35591,7 +35634,6 @@
       "§6Ability: Yoink  §e§lRIGHT CLICK",
       "§7Throw your fishing net at swimming",
       "§7fish to catch them!",
-      "§8Mana Cost: §b10",
       "§8Cooldown: §a0.5s",
       "",
       "§7Throw Distance: §a+150%",
@@ -46924,11 +46966,13 @@
   "JUMBO_POT_OF_HONEYCOMB": {
     "itemid": "minecraft:paper",
     "displayname": "§5Jumbo Pot of Honeycomb",
-    "nbttag": "{ExtraAttributes:{id:\"JUMBO_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_jumbo\",display:{Lore:[0:\"§7Use on a §aTree §7with an active §2Tree\",1:\"§2Protection Order §7to lather it with\",2:\"§6Honeycomb§7!\",3:\"\",4:\"§7After §a15m§7, a unique §a Critter §7will be\",5:\"§7attracted to the §6Honeycomb§7!\",6:\"§8Type of mob depends upon type of\",7:\"§8tree lathered.\",8:\"\",9:\"§7Uses: §a10§7/§a10\",10:\"\",11:\"§4❣ §cRequires §aHoneycomb Collection V§c.\",12:\"§5§lEPIC\"],Name:\"§5Jumbo Pot of Honeycomb\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"JUMBO_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_jumbo\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Use on a §aTree §7with an active §cTree\",3:\"§cProtection Order §7to lather it with\",4:\"§6Honeycomb§7!\",5:\"\",6:\"§7After §a15m§7, a unique §a Critter §7will be\",7:\"§7attracted to the §6Honeycomb§7!\",8:\"§8Type of mob depends upon type of\",9:\"§8tree lathered.\",10:\"\",11:\"§eRight-click to consume!\",12:\"\",13:\"§4❣ §cRequires §aHoneycomb Collection V§c.\",14:\"§5§lEPIC\"],Name:\"§5Jumbo Pot of Honeycomb\"}}",
     "damage": 0,
     "lore": [
-      "§7Use on a §aTree §7with an active §2Tree",
-      "§2Protection Order §7to lather it with",
+      "§8Consumed on use",
+      "",
+      "§7Use on a §aTree §7with an active §cTree",
+      "§cProtection Order §7to lather it with",
       "§6Honeycomb§7!",
       "",
       "§7After §a15m§7, a unique §a Critter §7will be",
@@ -46936,7 +46980,7 @@
       "§8Type of mob depends upon type of",
       "§8tree lathered.",
       "",
-      "§7Uses: §a10§7/§a10",
+      "§eRight-click to consume!",
       "",
       "§4❣ §cRequires §aHoneycomb Collection V§c.",
       "§5§lEPIC"
@@ -46959,7 +47003,7 @@
         "C2": "HELIXIS:1",
         "C3": "",
         "type": "crafting",
-        "count": 1,
+        "count": 8,
         "overrideOutputId": "JUMBO_POT_OF_HONEYCOMB"
       }
     ]
@@ -53015,6 +53059,55 @@
       "C3": "PAPER:1"
     }
   },
+  "MARSHROOM": {
+    "itemid": "minecraft:paper",
+    "displayname": "§aMarshroom",
+    "nbttag": "{ExtraAttributes:{id:\"MARSHROOM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/reforge_stones/marshroom\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Marshy §7reforge when\",4:\"§7combined with equipment.\",5:\"\",6:\"§8§oA rare type of mushroom native to\",7:\"§8§othe Moonglade Marsh.\",8:\"\",9:\"§9Marshy §7(§6Legendary§7):\",10:\"§7Fishing Speed: §b+1.4\",11:\"§7Sea Creature Chance: §3+0.7%\",12:\"§7Foraging Fortune: §6+3.5\",13:\"\",14:\"§9Marshy Bonus\",15:\"§7Increases §3Forest Whispers §7gain by\",16:\"§a+1%§7.\",17:\"\",18:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aMarshroom\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Reforge Stone",
+      "§8Combinable in Anvil",
+      "",
+      "§7Applies the §9Marshy §7reforge when",
+      "§7combined with equipment.",
+      "",
+      "§8§oA rare type of mushroom native to",
+      "§8§othe Moonglade Marsh.",
+      "",
+      "§9Marshy §7(§6Legendary§7):",
+      "§7Fishing Speed: §b+1.4",
+      "§7Sea Creature Chance: §3+0.7%",
+      "§7Foraging Fortune: §6+3.5",
+      "",
+      "§9Marshy Bonus",
+      "§7Increases §3Forest Whispers §7gain by",
+      "§a+1%§7.",
+      "",
+      "§a§lUNCOMMON REFORGE STONE"
+    ],
+    "internalname": "MARSHROOM",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "STRETCHING_STICKS:16",
+        "A2": "ENCHANTED_VINESAP:1",
+        "A3": "STRETCHING_STICKS:16",
+        "B1": "ENCHANTED_VINESAP:1",
+        "B2": "WET_WATER:16",
+        "B3": "ENCHANTED_VINESAP:1",
+        "C1": "STRETCHING_STICKS:16",
+        "C2": "ENCHANTED_VINESAP:1",
+        "C3": "STRETCHING_STICKS:16",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "MARSHROOM"
+      }
+    ]
+  },
   "MASTER_SKULL_TIER_2": {
     "itemid": "minecraft:skull",
     "displayname": "§fMaster Skull - Tier 2",
@@ -53686,7 +53779,7 @@
   "MEDIUM_FISHING_NET": {
     "itemid": "minecraft:paper",
     "displayname": "§9Medium Fishing Net",
-    "nbttag": "{ExtraAttributes:{id:\"MEDIUM_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/medium_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+25\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+50%\",11:\"\",12:\"§6Ability: Grab \",13:\"§7Grants §d+2.5 Hunting Fortune §7on\",14:\"§9Water Shards §7caught with this net.\",15:\"\",16:\"§9§lRARE FISHING NET\"],Name:\"§9Medium Fishing Net\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MEDIUM_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/medium_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+25\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Cooldown: §a0.5s\",8:\"\",9:\"§7Throw Distance: §a+50%\",10:\"\",11:\"§6Ability: Grab \",12:\"§7Grants §d+2.5 Hunting Fortune §7on\",13:\"§9Water Shards §7caught with this net.\",14:\"\",15:\"§9§lRARE FISHING NET\"],Name:\"§9Medium Fishing Net\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -53696,7 +53789,6 @@
       "§6Ability: Yoink  §e§lRIGHT CLICK",
       "§7Throw your fishing net at swimming",
       "§7fish to catch them!",
-      "§8Mana Cost: §b10",
       "§8Cooldown: §a0.5s",
       "",
       "§7Throw Distance: §a+50%",
@@ -53710,7 +53802,7 @@
     "internalname": "MEDIUM_FISHING_NET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Medium_Fishing_Net"
@@ -86264,50 +86356,6 @@
       "C3": "COVEN_SEAL:3"
     }
   },
-  "STEALTH;1": {
-    "itemid": "minecraft:enchanted_book",
-    "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{stealth:1},id:\"STEALTH;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Stealth I\",3:\"§7Causes timid creatures that normally\",4:\"§7flee to remain still.\",5:\"\",6:\"§6Applied To:\",7:\"§7- §fBoots\",8:\"\",9:\"§e▲ §7Stealth cannot be combined!\",10:\"\",11:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
-    "damage": 0,
-    "lore": [
-      "§8Combinable in Anvil",
-      "",
-      "§9Stealth I",
-      "§7Causes timid creatures that normally",
-      "§7flee to remain still.",
-      "",
-      "§6Applied To:",
-      "§7- §fBoots",
-      "",
-      "§e▲ §7Stealth cannot be combined!",
-      "",
-      "§f§lCOMMON"
-    ],
-    "internalname": "STEALTH;1",
-    "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Stealth"
-    ],
-    "recipes": [
-      {
-        "A1": "",
-        "A2": "",
-        "A3": "",
-        "B1": "",
-        "B2": "PAPER:1",
-        "B3": "PAPER:1",
-        "C1": "",
-        "C2": "PAPER:1",
-        "C3": "MANGCORE:1",
-        "type": "crafting",
-        "count": 1,
-        "overrideOutputId": "STEALTH;1"
-      }
-    ]
-  },
   "STEP-1": {
     "itemid": "minecraft:stone_slab",
     "displayname": "§fSandstone Slab",
@@ -93185,7 +93233,7 @@
   "TURBO_FISHING_NET": {
     "itemid": "minecraft:paper",
     "displayname": "§5Turbo Fishing Net",
-    "nbttag": "{ExtraAttributes:{id:\"TURBO_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/turbo_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+50\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+100%\",11:\"\",12:\"§6Ability: Haul \",13:\"§7Grants §d+5 Hunting Fortune §7on\",14:\"§9Water Shards §7caught with this net.\",15:\"\",16:\"§5§lEPIC FISHING NET\"],Name:\"§5Turbo Fishing Net\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TURBO_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/turbo_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+50\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Cooldown: §a0.5s\",8:\"\",9:\"§7Throw Distance: §a+100%\",10:\"\",11:\"§6Ability: Haul \",12:\"§7Grants §d+5 Hunting Fortune §7on\",13:\"§9Water Shards §7caught with this net.\",14:\"\",15:\"§5§lEPIC FISHING NET\"],Name:\"§5Turbo Fishing Net\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -93195,7 +93243,6 @@
       "§6Ability: Yoink  §e§lRIGHT CLICK",
       "§7Throw your fishing net at swimming",
       "§7fish to catch them!",
-      "§8Mana Cost: §b10",
       "§8Cooldown: §a0.5s",
       "",
       "§7Throw Distance: §a+100%",
@@ -93209,7 +93256,7 @@
     "internalname": "TURBO_FISHING_NET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo_Fishing_Net"
@@ -95074,7 +95121,7 @@
     }
   },
   "VINERIP_LASSO": {
-    "itemid": "minecraft:lead",
+    "itemid": "minecraft:paper",
     "displayname": "§aVinerip Lasso",
     "nbttag": "{ExtraAttributes:{id:\"VINERIP_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/vinerip_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§a Critters §7lose stamina §220% §7faster.\",13:\"\",14:\"§a§lUNCOMMON LASSO\"],Name:\"§aVinerip Lasso\"}}",
     "damage": 0,
@@ -95098,7 +95145,7 @@
     "internalname": "VINERIP_LASSO",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Vinerip_Lasso"

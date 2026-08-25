@@ -990,7 +990,7 @@
     ]
   },
   "ABYSMAL_LASSO": {
-    "itemid": "minecraft:lead",
+    "itemid": "minecraft:paper",
     "displayname": "§fAbysmal Lasso",
     "nbttag": "{ExtraAttributes:{id:\"ABYSMAL_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/abysmal_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7§oThis is barely holding together,\",3:\"§7§oseriously who made this?\",4:\"\",5:\"§6Ability: Throw  §e§lRIGHT CLICK\",6:\"§7Throw the Lasso at §2Forest\",7:\"§7creatures and hold them still until\",8:\"§7they lose all their §9stamina§7.\",9:\"\",10:\"§6Ability: Reel In  §e§lRIGHT CLICK\",11:\"§7Reel in creatures caught by the\",12:\"§7Lasso each time their §9stamina\",13:\"§7depletes.\",14:\"\",15:\"§8§l* §8Soulbound §8§l*\",16:\"§f§lCOMMON LASSO\"],Name:\"§fAbysmal Lasso\"}}",
     "damage": 0,
@@ -1016,7 +1016,7 @@
     "internalname": "ABYSMAL_LASSO",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Abysmal_Lasso"
@@ -13238,12 +13238,11 @@
   "ATTRIBUTE_SHARD_FOREST_FELLING;1": {
     "itemid": "minecraft:skull",
     "displayname": "§aWoodpecker Shard",
-    "nbttag": "{ExtraAttributes:{attributes:{forest_felling:1},id:\"ATTRIBUTE_SHARD_FOREST_FELLING;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0d307f68-e4c7-3022-9003-9a7aefdd9c4f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"xwlztP5OYSeXyVJxJMaciob9yUVna/H8mXP547Ns8CXwMpMdagaq2hQ6KZqfv0vuvBSGxMIaf72nLwrdY6HvBQ6NR92c7hSaIPImEKLfCojKb4Qs3DeYbE9xRMcrnBXZQgahMWtSSBUF0vMcpB+sUF36I2EtPXc+0hHJuIN0PrmwXln/3wDQYYZBag5A6jJbuw0S8sg2XMqJNeQ2fi6mt+kRW33oNGw68NMhztRDw/HyMpKiCUGg8nLBBmitmQv+A7FGIHl6Wpd2v4uPP6t77J0qcb5F7IMzrnXQ7+/V8TyA1XRCxyahgkgF85591UxDpRHJrzkhe3xYaAABArwiTd4XFfrbTkmUOZbgaybU8FVKwgs5MHMvflLARBewrulRJej8zYkflgsRIsIh2KCr5erzBfhzdd4cl8Ox2GDx+llBMWOSHPgpFP87xw49hUw2d6HF5mwaokEVeb321XBAuuNv3OeMsr9DPG7AYBJfULySLmyMnx+hfKDL0J8ZyoZrs03e8xCb6WCF3EHT3JhokAWtlILLKj64z9trlbTxzthjnby6focSqzXVCRDauCdZxuGjjjXdpY5RCFdpOBGqta1M6JFvkRwFv8HXJOUQZUovFzMIBiYv+7WgGPgEPcvOnpBycJXAMrKAepvPeEoSNokzxc+R6ZSvNVaE281/YGE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjYyNTY2MiwKICAicHJvZmlsZUlkIiA6ICJhODEzMzJmNjA5MmE0NDQ1Yjk1YzVhZGFjNDA2OTQzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmFwcHliM2FzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZmYzYTFmZThkMDc5MTMyNWNjZWJlYmE0NWQ4NTM5NmFmYmU5YWNhNDVhN2U3MmNiNzZiOGM1MmMwNDAwYjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Forest Felling I\",1:\"§7Grants §a+0.1% §7chance to fell an\",2:\"§7entire tree!\",3:\"\",4:\"§7You can Syphon this shard from\",5:\"§7your §aHunting Box§7.\",6:\"\",7:\"§eRight-click to send to Hunting Box!\",8:\"§eShift Right-click to move all!\",9:\"\",10:\"§4❣ §cRequires §aHunting Skill 5§c.\",11:\"§a§lUNCOMMON FOREST SHARD §8(ID U76)\"],Name:\"§aWoodpecker Shard\"}}",
+    "nbttag": "{ExtraAttributes:{attributes:{forest_felling:1},id:\"ATTRIBUTE_SHARD_FOREST_FELLING;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0d307f68-e4c7-3022-9003-9a7aefdd9c4f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"xwlztP5OYSeXyVJxJMaciob9yUVna/H8mXP547Ns8CXwMpMdagaq2hQ6KZqfv0vuvBSGxMIaf72nLwrdY6HvBQ6NR92c7hSaIPImEKLfCojKb4Qs3DeYbE9xRMcrnBXZQgahMWtSSBUF0vMcpB+sUF36I2EtPXc+0hHJuIN0PrmwXln/3wDQYYZBag5A6jJbuw0S8sg2XMqJNeQ2fi6mt+kRW33oNGw68NMhztRDw/HyMpKiCUGg8nLBBmitmQv+A7FGIHl6Wpd2v4uPP6t77J0qcb5F7IMzrnXQ7+/V8TyA1XRCxyahgkgF85591UxDpRHJrzkhe3xYaAABArwiTd4XFfrbTkmUOZbgaybU8FVKwgs5MHMvflLARBewrulRJej8zYkflgsRIsIh2KCr5erzBfhzdd4cl8Ox2GDx+llBMWOSHPgpFP87xw49hUw2d6HF5mwaokEVeb321XBAuuNv3OeMsr9DPG7AYBJfULySLmyMnx+hfKDL0J8ZyoZrs03e8xCb6WCF3EHT3JhokAWtlILLKj64z9trlbTxzthjnby6focSqzXVCRDauCdZxuGjjjXdpY5RCFdpOBGqta1M6JFvkRwFv8HXJOUQZUovFzMIBiYv+7WgGPgEPcvOnpBycJXAMrKAepvPeEoSNokzxc+R6ZSvNVaE281/YGE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjYyNTY2MiwKICAicHJvZmlsZUlkIiA6ICJhODEzMzJmNjA5MmE0NDQ1Yjk1YzVhZGFjNDA2OTQzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmFwcHliM2FzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iZmYzYTFmZThkMDc5MTMyNWNjZWJlYmE0NWQ4NTM5NmFmYmU5YWNhNDVhN2U3MmNiNzZiOGM1MmMwNDAwYjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Helix Timber I\",1:\"§7Grants §4+0.1  Timber §7on §6Helix Trees§7.\",2:\"\",3:\"§7You can Syphon this shard from\",4:\"§7your §aHunting Box§7.\",5:\"\",6:\"§eRight-click to send to Hunting Box!\",7:\"§eShift Right-click to move all!\",8:\"\",9:\"§4❣ §cRequires §aHunting Skill 5§c.\",10:\"§a§lUNCOMMON FOREST SHARD §8(ID U76)\"],Name:\"§aWoodpecker Shard\"}}",
     "damage": 3,
     "lore": [
-      "§6Forest Felling I",
-      "§7Grants §a+0.1% §7chance to fell an",
-      "§7entire tree!",
+      "§6Helix Timber I",
+      "§7Grants §4+0.1  Timber §7on §6Helix Trees§7.",
       "",
       "§7You can Syphon this shard from",
       "§7your §aHunting Box§7.",
@@ -13257,7 +13256,7 @@
     "internalname": "ATTRIBUTE_SHARD_FOREST_FELLING;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Woodpecker_Shard"
@@ -17541,7 +17540,7 @@
   "ATTRIBUTE_SHARD_TOUGH_CLAWS;1": {
     "itemid": "minecraft:skull",
     "displayname": "§6Grizzly Bear Shard",
-    "nbttag": "{ExtraAttributes:{attributes:{tough_claws:1},id:\"ATTRIBUTE_SHARD_TOUGH_CLAWS;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2bc90ca9-8654-38ce-aaf2-c00def7e8b6c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"VhceL8eNWoRc22YnuR7Z2nshrlUYR4JrueoatyKJUTQTe8yzEoO7mBOwT+W+2I3VB/i5pQCAtZKE1xFyh8hWfIDj+Yr1gxrFIM+kV5CUN01mLUiaIzbcvbGdml+O4CWuQxjwkn+eDl663kuyeREzChDwWubkAANRDaJxDvcTw7dVEByy58kw+s8fqFwoAyV3LYhr/N2H74o9LtK3tpeuc6etzMvYfwZBX/d9HyqPT8ZFuJCtAYDP8VPCcgpbZIIAud4YPkHwqWBG1AHVLRNe+tCXLFUqmoSOfvN27hD+0T0iUHsyDrgdZ/b6HfLL63fHc7gSo2Wt4WkMXGeL9qZ0Pmyf8kwP3WzijG+ezURmWJaL8jJJQcR+ZqoVnGzvNqPAooJackWKvKjd/N4xjr+KBd3a5H0CHkfzeTKhksAyBWhcGMCkU2mvD7j0iWxGL5lVBa2bTTuK7I0MdEWrNMWn1rDICkYN1KAjDDWvSjvbKNXea+ycqIL2DmzQmLt1aJzCleRADRwF7XK3mztmRDKjO9RzvSU3tjbyyxmdXrO2m9O92V1QGjJkdqrvkjE09ozOJzjoTVHmEZsX+AIrq9ImY3DQQWz2g5ndpsmguygMeweZAhleGTOlMaAfG0KqvZ+wL1ujfWKMM8QJt99YY5fOhsGQkKE3qHiGJozd9xue2ik=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4ODIzNiwKICAicHJvZmlsZUlkIiA6ICIwNTljODIxYzhhODU0NGJiOWJiODVhOGMxNjVhYTc5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJoZWxsc3RydWNrZWR6IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzczNjIxYmIwMmI4NmJmMzU4MzRjOWM0NzU3ZDNmNWUwYzNmODcwYTNjMjMwMDQ0YWEyMTMwNGNlODlkNDY3YTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Tough Claws I\",1:\"§7Whenever you cut a §aTree §7with an\",2:\"§7Axe, reduce its §cToughness §7by §a+0.1§7.\",3:\"\",4:\"§7You can Syphon this shard from\",5:\"§7your §aHunting Box§7.\",6:\"\",7:\"§eRight-click to send to Hunting Box!\",8:\"§eShift Right-click to move all!\",9:\"\",10:\"§4❣ §cRequires §aHunting Skill 20§c.\",11:\"§6§lLEGENDARY FOREST SHARD §8(ID L40)\"],Name:\"§6Grizzly Bear Shard\"}}",
+    "nbttag": "{ExtraAttributes:{attributes:{tough_claws:1},id:\"ATTRIBUTE_SHARD_TOUGH_CLAWS;1\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0796c6a0-d60e-32ec-9d2c-08a984ec851f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Xrv75CYpw+fjr4/CeXTgMOjmsbTlTWjvaGkEZ+ICsrUp1Sb9Bm37slh6LXy2UiRnnOjf24ioCh8r58LoUVVCHxr4iUvh8Q9S8qCep3TqOI+F8Y6+vfRyhWzUmna+UHc8UqZ7wXJKt4Mng7Xmu8+TTIACcRtcWHRUfrtlfHsvMH/OogiLy/I2sEcwUDz+RqlaIcWor5U9FJMHtSqaX4QX4pD+u1SufC02DzVbSX4/yav91NYlPQP6c+CufC/1PJmLpNRltHQbrIO1E/mAKk01PYd/tD40HKI/ygJSTqTCFR6biNd7fucko+H6i04Zn60U6smoP7MGwk9npnxgHF4qjZGzG3BNZg/0UmJhHSJEcunVYfYDnWi5ufmfSPel2NbSQYNCn8HMsByWNBRDrVEHU7naEtxoHqElyFuf59WxI0yTA1fzjDhKkuMIFadf11/lJPbD0g1nK8Ikp38Q9miGXd+tPQ1IxmSqb/2wqwLR8pQB/YrUexw6PSFU8DHf2ioTU24eteDBMZo2x8Vok9yUAjRSaStHFuwLBVucU9IyW9DxvbamvWstFEs64DUaqyVXg0XrRayWDtRraWv+yzFF7qFZl4W2dZZE9nusygxjMVsGQHZmbpzVUmRbQsK2BmV4UEyc/wB5LE/uprlfUQ1D2gIW14zKN3vG5XP5AS37LsU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjAzMzc5NjI5NywKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0MDYxMDhhYTZiZGRhNzNkZjEyMjQ1NGFhNDI1MGVjMGNkNDU3ZmQzMThhODkzZDlkN2M1NGQ5YzA3NjExNjgiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Tough Claws I\",1:\"§7Whenever you cut a §aTree §7with an\",2:\"§7Axe, reduce its §cToughness §7by §a+0.1§7.\",3:\"\",4:\"§7You can Syphon this shard from\",5:\"§7your §aHunting Box§7.\",6:\"\",7:\"§eRight-click to send to Hunting Box!\",8:\"§eShift Right-click to move all!\",9:\"\",10:\"§4❣ §cRequires §aHunting Skill 20§c.\",10:\"§6§lLEGENDARY FOREST SHARD §8(ID L40)\"],Name:\"§6Grizzly Bear Shard\"}}",
     "damage": 3,
     "lore": [
       "§6Tough Claws I",
@@ -17560,7 +17559,7 @@
     "internalname": "ATTRIBUTE_SHARD_TOUGH_CLAWS;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Grizzly_Bear_Shard"
@@ -22727,7 +22726,7 @@
   "BASIC_FISHING_NET": {
     "itemid": "minecraft:paper",
     "displayname": "§aBasic Fishing Net",
-    "nbttag": "{ExtraAttributes:{id:\"BASIC_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/basic_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+5\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§a§lUNCOMMON FISHING NET\"],Name:\"§aBasic Fishing Net\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BASIC_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/basic_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+5\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Cooldown: §a0.5s\",8:\"\",9:\"§a§lUNCOMMON FISHING NET\"],Name:\"§aBasic Fishing Net\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -22737,7 +22736,6 @@
       "§6Ability: Yoink  §e§lRIGHT CLICK",
       "§7Throw your fishing net at swimming",
       "§7fish to catch them!",
-      "§8Mana Cost: §b10",
       "§8Cooldown: §a0.5s",
       "",
       "§a§lUNCOMMON FISHING NET"
@@ -22745,7 +22743,7 @@
     "internalname": "BASIC_FISHING_NET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Basic_Fishing_Net"
@@ -25711,11 +25709,13 @@
   "BEHEMOTH_POT_OF_HONEYCOMB": {
     "itemid": "minecraft:paper",
     "displayname": "§6Behemoth Pot of Honeycomb",
-    "nbttag": "{ExtraAttributes:{id:\"BEHEMOTH_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_behemoth\",display:{Lore:[0:\"§7Use on a §aTree §7with an active §2Tree\",1:\"§2Protection Order §7to lather it with\",2:\"§6Honeycomb§7!\",3:\"\",4:\"§7Upon use, a unique §a Critter §7will\",5:\"§a§lINSTANTLY §7be attracted to the\",6:\"§6Honeycomb§7!\",7:\"§8Type of mob depends upon type of\",8:\"§8tree lathered.\",9:\"\",10:\"§7Uses: §a10§7/§a10\",11:\"\",12:\"§4❣ §cRequires §aForaging Skill 30§c.\",13:\"§6§lLEGENDARY\"],Name:\"§6Behemoth Pot of Honeycomb\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BEHEMOTH_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_behemoth\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Use on a §aTree §7with an active §cTree\",3:\"§cProtection Order §7to lather it with\",4:\"§6Honeycomb§7!\",5:\"\",6:\"§7Upon use, a unique §a Critter §7will\",7:\"§a§lINSTANTLY §7be attracted to the\",8:\"§6Honeycomb§7!\",9:\"§8Type of mob depends upon type of\",10:\"§8tree lathered.\",11:\"\",12:\"§eRight-click to consume!\",13:\"\",14:\"§4❣ §cRequires §aForaging Skill 30§c.\",15:\"§6§lLEGENDARY\"],Name:\"§6Behemoth Pot of Honeycomb\"}}",
     "damage": 0,
     "lore": [
-      "§7Use on a §aTree §7with an active §2Tree",
-      "§2Protection Order §7to lather it with",
+      "§8Consumed on use",
+      "",
+      "§7Use on a §aTree §7with an active §cTree",
+      "§cProtection Order §7to lather it with",
       "§6Honeycomb§7!",
       "",
       "§7Upon use, a unique §a Critter §7will",
@@ -25724,7 +25724,7 @@
       "§8Type of mob depends upon type of",
       "§8tree lathered.",
       "",
-      "§7Uses: §a10§7/§a10",
+      "§eRight-click to consume!",
       "",
       "§4❣ §cRequires §aForaging Skill 30§c.",
       "§6§lLEGENDARY"
@@ -33816,6 +33816,46 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Brimstone_Handle"
+    ]
+  },
+  "BRINE_TONIC": {
+    "itemid": "minecraft:paper",
+    "displayname": "§9Brine Tonic",
+    "nbttag": "{ExtraAttributes:{id:\"BRINE_TONIC\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/salts/brine_tonic\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Grants §b2.75❣ Charm Chance §7on\",3:\"§2Moonglade Marsh Sea Creatures §7and\",4:\"§6Torrhus Canyon Sea Creatures§7.\",5:\"§7Duration: §624h\",6:\"\",7:\"§eLeft-click to consume!\",8:\"\",9:\"§9§lRARE SALT\"],Name:\"§9Brine Tonic\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Hunting Tool",
+      "",
+      "§7Grants §b2.75❣ Charm Chance §7on",
+      "§2Moonglade Marsh Sea Creatures §7and",
+      "§6Torrhus Canyon Sea Creatures§7.",
+      "§7Duration: §624h",
+      "",
+      "§eLeft-click to consume!",
+      "",
+      "§9§lRARE SALT"
+    ],
+    "internalname": "BRINE_TONIC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "LUSHLILAC:8",
+        "A2": "WET_WATER:8",
+        "A3": "LUSHLILAC:8",
+        "B1": "WET_WATER:8",
+        "B2": "SEA_BRINE:1",
+        "B3": "WET_WATER:8",
+        "C1": "LUSHLILAC:8",
+        "C2": "WET_WATER:8",
+        "C3": "LUSHLILAC:8",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "BRINE_TONIC"
+      }
     ]
   },
   "BRITTLE_POWDER": {
@@ -60840,15 +60880,15 @@
   "DISTANT_ECHO": {
     "itemid": "minecraft:paper",
     "displayname": "§6Distant Echo",
-    "nbttag": "{ExtraAttributes:{id:\"DISTANT_ECHO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/distant_echo\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to an item, increases its\",3:\"§9Karma §7level by §a1§7!\",4:\"§8Can be applied once.\",5:\"§8Requires Karma V!\",6:\"\",7:\"§8§oThe Silkbreeze passes through the\",8:\"§8§oforest at such speed that, in most\",9:\"§8§ocases, it can only be heard, not seen.\",10:\"\",11:\"§6§lLEGENDARY\"],Name:\"§6Distant Echo\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DISTANT_ECHO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/distant_echo\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to an item, increases its\",3:\"§9Stealth §7level by §a1§7!\",4:\"§8Can be applied once.\",5:\"§8Requires Stealth V!\",6:\"\",7:\"§8§oThe Silkbreeze passes through the\",8:\"§8§oforest at such speed that, in most\",9:\"§8§ocases, it can only be heard, not seen.\",10:\"\",11:\"§6§lLEGENDARY\"],Name:\"§6Distant Echo\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§7When applied to an item, increases its",
-      "§9Karma §7level by §a1§7!",
+      "§9Stealth §7level by §a1§7!",
       "§8Can be applied once.",
-      "§8Requires Karma V!",
+      "§8Requires Stealth V!",
       "",
       "§8§oThe Silkbreeze passes through the",
       "§8§oforest at such speed that, in most",
@@ -78265,7 +78305,7 @@
     ]
   },
   "ENTANGLER_LASSO": {
-    "itemid": "minecraft:lead",
+    "itemid": "minecraft:paper",
     "displayname": "§9Entangler Lasso",
     "nbttag": "{ExtraAttributes:{id:\"ENTANGLER_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/entangler_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§a Critters §7lose stamina §240% §7faster.\",13:\"\",14:\"§6Ability: Tug \",15:\"§7Grants §d+2.5 Hunting Fortune §7on\",16:\"§2Forest Shards §7caught with this Lasso.\",17:\"\",18:\"§9§lRARE LASSO\"],Name:\"§9Entangler Lasso\"}}",
     "damage": 0,
@@ -78293,7 +78333,7 @@
     "internalname": "ENTANGLER_LASSO",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Entangler_Lasso"
@@ -79545,7 +79585,7 @@
     ]
   },
   "EVERSTRETCH_LASSO": {
-    "itemid": "minecraft:lead",
+    "itemid": "minecraft:paper",
     "displayname": "§5Everstretch Lasso",
     "nbttag": "{ExtraAttributes:{id:\"EVERSTRETCH_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/everstretch_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§a Critters §7lose stamina §260% §7faster.\",13:\"\",14:\"§6Ability: Wrangle \",15:\"§7Grants §d+5 Hunting Fortune §7on\",16:\"§2Forest Shards §7caught with this Lasso.\",17:\"\",18:\"§5§lEPIC LASSO\"],Name:\"§5Everstretch Lasso\"}}",
     "damage": 0,
@@ -79573,7 +79613,7 @@
     "internalname": "EVERSTRETCH_LASSO",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Everstretch_Lasso"
@@ -81226,11 +81266,13 @@
   "FAMILY_SIZED_POT_OF_HONEYCOMB": {
     "itemid": "minecraft:paper",
     "displayname": "§9Family-Sized Pot of Honeycomb",
-    "nbttag": "{ExtraAttributes:{id:\"FAMILY_SIZED_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_family_sized\",display:{Lore:[0:\"§7Use on a §aTree §7with an active §2Tree\",1:\"§2Protection Order §7to lather it with\",2:\"§6Honeycomb§7!\",3:\"\",4:\"§7After §a30m§7, a unique §a Critter §7will be\",5:\"§7attracted to the §6Honeycomb§7!\",6:\"§8Type of mob depends upon type of\",7:\"§8tree lathered.\",8:\"\",9:\"§7Uses: §a3§7/§a3\",10:\"\",11:\"§4❣ §cRequires §aHoneycomb Collection III§c.\",12:\"§9§lRARE\"],Name:\"§9Family-Sized Pot of Honeycomb\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FAMILY_SIZED_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_family_sized\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Use on a §aTree §7with an active §cTree\",3:\"§cProtection Order §7to lather it with\",4:\"§6Honeycomb§7!\",5:\"\",6:\"§7After §a30m§7, a unique §a Critter §7will be\",7:\"§7attracted to the §6Honeycomb§7!\",8:\"§8Type of mob depends upon type of\",9:\"§8tree lathered.\",10:\"\",11:\"§eRight-click to consume!\",12:\"\",13:\"§4❣ §cRequires §aHoneycomb Collection III§c.\",14:\"§9§lRARE\"],Name:\"§9Family-Sized Pot of Honeycomb\"}}",
     "damage": 0,
     "lore": [
-      "§7Use on a §aTree §7with an active §2Tree",
-      "§2Protection Order §7to lather it with",
+      "§8Consumed on use",
+      "",
+      "§7Use on a §aTree §7with an active §cTree",
+      "§cProtection Order §7to lather it with",
       "§6Honeycomb§7!",
       "",
       "§7After §a30m§7, a unique §a Critter §7will be",
@@ -81238,7 +81280,7 @@
       "§8Type of mob depends upon type of",
       "§8tree lathered.",
       "",
-      "§7Uses: §a3§7/§a3",
+      "§eRight-click to consume!",
       "",
       "§4❣ §cRequires §aHoneycomb Collection III§c.",
       "§9§lRARE"
@@ -81258,10 +81300,10 @@
         "B2": "ENCHANTED_HONEYCOMB:8",
         "B3": "",
         "C1": "",
-        "C2": "ENCHANTED_HELIX_LOG:16",
+        "C2": "ENCHANTED_HELIX_LOG:32",
         "C3": "",
         "type": "crafting",
-        "count": 1,
+        "count": 8,
         "overrideOutputId": "FAMILY_SIZED_POT_OF_HONEYCOMB"
       }
     ]
@@ -92759,6 +92801,33 @@
       "https://hypixelskyblock.minecraft.wiki/w/Uncommon_Foraging_Wisdom_Booster_Upgrade"
     ]
   },
+  "FORESTS_FAVOR": {
+    "itemid": "minecraft:paper",
+    "displayname": "§6Forest's Favor",
+    "nbttag": "{ExtraAttributes:{id:\"FORESTS_FAVOR\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/enchantmentupgrades/forests_favor\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to an item, increases its\",3:\"§9Karma §7level by §a1§7!\",4:\"§8Can be applied once.\",5:\"§8Requires Karma V!\",6:\"\",7:\"§8§oThe will of the forest materializes\",8:\"§8§ointo this item, which it has bestowed\",9:\"§8§oupon you. May fortune smile upon\",10:\"§8§othee, and may thy axe be ever-sharp.\",11:\"\",12:\"§6§lLEGENDARY\"],Name:\"§6Forest's Favor\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7When applied to an item, increases its",
+      "§9Karma §7level by §a1§7!",
+      "§8Can be applied once.",
+      "§8Requires Karma V!",
+      "",
+      "§8§oThe will of the forest materializes",
+      "§8§ointo this item, which it has bestowed",
+      "§8§oupon you. May fortune smile upon",
+      "§8§othee, and may thy axe be ever-sharp.",
+      "",
+      "§6§lLEGENDARY"
+    ],
+    "internalname": "FORESTS_FAVOR",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": []
+  },
   "FOREST_BIOME_STICK": {
     "itemid": "minecraft:stick",
     "displayname": "§fForest Biome Stick",
@@ -96367,11 +96436,13 @@
   "FUN_SIZED_POT_OF_HONEYCOMB": {
     "itemid": "minecraft:paper",
     "displayname": "§aFun-Sized Pot of Honeycomb",
-    "nbttag": "{ExtraAttributes:{id:\"FUN_SIZED_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_fun_sized\",display:{Lore:[0:\"§7Use on a §aTree §7with an active §2Tree\",1:\"§2Protection Order §7to lather it with\",2:\"§6Honeycomb§7!\",3:\"\",4:\"§7After §a60m§7, a unique §a Critter §7will be\",5:\"§7attracted to the §6Honeycomb§7!\",6:\"§8Type of mob depends upon type of\",7:\"§8tree lathered.\",8:\"\",9:\"§7Uses: §a1§7/§a1\",10:\"\",11:\"§4❣ §cRequires §aHoneycomb Collection I§c.\",12:\"§a§lUNCOMMON\"],Name:\"§aFun-Sized Pot of Honeycomb\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FUN_SIZED_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_fun_sized\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Use on a §aTree §7with an active §cTree\",3:\"§cProtection Order §7to lather it with\",4:\"§6Honeycomb§7!\",5:\"\",6:\"§7After §a60m§7, a unique §a Critter §7will be\",7:\"§7attracted to the §6Honeycomb§7!\",8:\"§8Type of mob depends upon type of\",9:\"§8tree lathered.\",10:\"\",11:\"§eRight-click to consume!\",12:\"\",13:\"§4❣ §cRequires §aHoneycomb Collection I§c.\",14:\"§a§lUNCOMMON\"],Name:\"§aFun-Sized Pot of Honeycomb\"}}",
     "damage": 0,
     "lore": [
-      "§7Use on a §aTree §7with an active §2Tree",
-      "§2Protection Order §7to lather it with",
+      "§8Consumed on use",
+      "",
+      "§7Use on a §aTree §7with an active §cTree",
+      "§cProtection Order §7to lather it with",
       "§6Honeycomb§7!",
       "",
       "§7After §a60m§7, a unique §a Critter §7will be",
@@ -96379,7 +96450,7 @@
       "§8Type of mob depends upon type of",
       "§8tree lathered.",
       "",
-      "§7Uses: §a1§7/§a1",
+      "§eRight-click to consume!",
       "",
       "§4❣ §cRequires §aHoneycomb Collection I§c.",
       "§a§lUNCOMMON"
@@ -100037,7 +100108,7 @@
   "GIGANTIC_FISHING_NET": {
     "itemid": "minecraft:paper",
     "displayname": "§6Gigantic Fishing Net",
-    "nbttag": "{ExtraAttributes:{id:\"GIGANTIC_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/nets/gigantic_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+100\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+150%\",11:\"\",12:\"§6Ability: Overhaul \",13:\"§7Grants §d+10 Hunting Fortune §7on\",14:\"§9Water Shards §7caught with this net.\",15:\"\",16:\"§6§lLEGENDARY FISHING NET\"],Name:\"§6Gigantic Fishing Net\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GIGANTIC_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/nets/gigantic_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+100\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Cooldown: §a0.5s\",8:\"\",9:\"§7Throw Distance: §a+150%\",10:\"\",11:\"§6Ability: Overhaul \",12:\"§7Grants §d+10 Hunting Fortune §7on\",13:\"§9Water Shards §7caught with this net.\",14:\"\",15:\"§6§lLEGENDARY FISHING NET\"],Name:\"§6Gigantic Fishing Net\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -100047,7 +100118,6 @@
       "§6Ability: Yoink  §e§lRIGHT CLICK",
       "§7Throw your fishing net at swimming",
       "§7fish to catch them!",
-      "§8Mana Cost: §b10",
       "§8Cooldown: §a0.5s",
       "",
       "§7Throw Distance: §a+150%",
@@ -129366,11 +129436,13 @@
   "JUMBO_POT_OF_HONEYCOMB": {
     "itemid": "minecraft:paper",
     "displayname": "§5Jumbo Pot of Honeycomb",
-    "nbttag": "{ExtraAttributes:{id:\"JUMBO_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_jumbo\",display:{Lore:[0:\"§7Use on a §aTree §7with an active §2Tree\",1:\"§2Protection Order §7to lather it with\",2:\"§6Honeycomb§7!\",3:\"\",4:\"§7After §a15m§7, a unique §a Critter §7will be\",5:\"§7attracted to the §6Honeycomb§7!\",6:\"§8Type of mob depends upon type of\",7:\"§8tree lathered.\",8:\"\",9:\"§7Uses: §a10§7/§a10\",10:\"\",11:\"§4❣ §cRequires §aHoneycomb Collection V§c.\",12:\"§5§lEPIC\"],Name:\"§5Jumbo Pot of Honeycomb\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"JUMBO_POT_OF_HONEYCOMB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/honey/pots/honey_pot_jumbo\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Use on a §aTree §7with an active §cTree\",3:\"§cProtection Order §7to lather it with\",4:\"§6Honeycomb§7!\",5:\"\",6:\"§7After §a15m§7, a unique §a Critter §7will be\",7:\"§7attracted to the §6Honeycomb§7!\",8:\"§8Type of mob depends upon type of\",9:\"§8tree lathered.\",10:\"\",11:\"§eRight-click to consume!\",12:\"\",13:\"§4❣ §cRequires §aHoneycomb Collection V§c.\",14:\"§5§lEPIC\"],Name:\"§5Jumbo Pot of Honeycomb\"}}",
     "damage": 0,
     "lore": [
-      "§7Use on a §aTree §7with an active §2Tree",
-      "§2Protection Order §7to lather it with",
+      "§8Consumed on use",
+      "",
+      "§7Use on a §aTree §7with an active §cTree",
+      "§cProtection Order §7to lather it with",
       "§6Honeycomb§7!",
       "",
       "§7After §a15m§7, a unique §a Critter §7will be",
@@ -129378,7 +129450,7 @@
       "§8Type of mob depends upon type of",
       "§8tree lathered.",
       "",
-      "§7Uses: §a10§7/§a10",
+      "§eRight-click to consume!",
       "",
       "§4❣ §cRequires §aHoneycomb Collection V§c.",
       "§5§lEPIC"
@@ -129401,7 +129473,7 @@
         "C2": "HELIXIS:1",
         "C3": "",
         "type": "crafting",
-        "count": 1,
+        "count": 8,
         "overrideOutputId": "JUMBO_POT_OF_HONEYCOMB"
       }
     ]
@@ -147014,6 +147086,55 @@
       "https://hypixelskyblock.minecraft.wiki/w/Marina_the_Fisherwoman"
     ]
   },
+  "MARSHROOM": {
+    "itemid": "minecraft:paper",
+    "displayname": "§aMarshroom",
+    "nbttag": "{ExtraAttributes:{id:\"MARSHROOM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/reforge_stones/marshroom\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Marshy §7reforge when\",4:\"§7combined with equipment.\",5:\"\",6:\"§8§oA rare type of mushroom native to\",7:\"§8§othe Moonglade Marsh.\",8:\"\",9:\"§9Marshy §7(§6Legendary§7):\",10:\"§7Fishing Speed: §b+1.4\",11:\"§7Sea Creature Chance: §3+0.7%\",12:\"§7Foraging Fortune: §6+3.5\",13:\"\",14:\"§9Marshy Bonus\",15:\"§7Increases §3Forest Whispers §7gain by\",16:\"§a+1%§7.\",17:\"\",18:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aMarshroom\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Reforge Stone",
+      "§8Combinable in Anvil",
+      "",
+      "§7Applies the §9Marshy §7reforge when",
+      "§7combined with equipment.",
+      "",
+      "§8§oA rare type of mushroom native to",
+      "§8§othe Moonglade Marsh.",
+      "",
+      "§9Marshy §7(§6Legendary§7):",
+      "§7Fishing Speed: §b+1.4",
+      "§7Sea Creature Chance: §3+0.7%",
+      "§7Foraging Fortune: §6+3.5",
+      "",
+      "§9Marshy Bonus",
+      "§7Increases §3Forest Whispers §7gain by",
+      "§a+1%§7.",
+      "",
+      "§a§lUNCOMMON REFORGE STONE"
+    ],
+    "internalname": "MARSHROOM",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": [],
+    "recipes": [
+      {
+        "A1": "STRETCHING_STICKS:16",
+        "A2": "ENCHANTED_VINESAP:1",
+        "A3": "STRETCHING_STICKS:16",
+        "B1": "ENCHANTED_VINESAP:1",
+        "B2": "WET_WATER:16",
+        "B3": "ENCHANTED_VINESAP:1",
+        "C1": "STRETCHING_STICKS:16",
+        "C2": "ENCHANTED_VINESAP:1",
+        "C3": "STRETCHING_STICKS:16",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "MARSHROOM"
+      }
+    ]
+  },
   "MARSH_SPORE_SOUP": {
     "itemid": "minecraft:mushroom_stew",
     "displayname": "§9Marsh Spore Soup",
@@ -148667,7 +148788,7 @@
   "MEDIUM_FISHING_NET": {
     "itemid": "minecraft:paper",
     "displayname": "§9Medium Fishing Net",
-    "nbttag": "{ExtraAttributes:{id:\"MEDIUM_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/medium_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+25\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+50%\",11:\"\",12:\"§6Ability: Grab \",13:\"§7Grants §d+2.5 Hunting Fortune §7on\",14:\"§9Water Shards §7caught with this net.\",15:\"\",16:\"§9§lRARE FISHING NET\"],Name:\"§9Medium Fishing Net\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MEDIUM_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/medium_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+25\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Cooldown: §a0.5s\",8:\"\",9:\"§7Throw Distance: §a+50%\",10:\"\",11:\"§6Ability: Grab \",12:\"§7Grants §d+2.5 Hunting Fortune §7on\",13:\"§9Water Shards §7caught with this net.\",14:\"\",15:\"§9§lRARE FISHING NET\"],Name:\"§9Medium Fishing Net\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -148677,7 +148798,6 @@
       "§6Ability: Yoink  §e§lRIGHT CLICK",
       "§7Throw your fishing net at swimming",
       "§7fish to catch them!",
-      "§8Mana Cost: §b10",
       "§8Cooldown: §a0.5s",
       "",
       "§7Throw Distance: §a+50%",
@@ -148691,7 +148811,7 @@
     "internalname": "MEDIUM_FISHING_NET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Medium_Fishing_Net"
@@ -174609,14 +174729,13 @@
   "PETALFALL;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{petalfall:1},id:\"PETALFALL;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall I\",3:\"§7Grants a §a0.2% §7chance to fell the\",4:\"§7entire tree!\",5:\"\",6:\"§6Sources:\",7:\"§aI: §7Miria's Shop (Level 3+)\",8:\"§aI-V: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- Axe\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{petalfall:1},id:\"PETALFALL;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall I\",3:\"§7Grants §4+0.2 Timber§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI: §7Miria's Shop (Level 3+)\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- Axe\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Petalfall I",
-      "§7Grants a §a0.2% §7chance to fell the",
-      "§7entire tree!",
+      "§7Grants §4+0.2 Timber§7.",
       "",
       "§6Sources:",
       "§aI: §7Miria's Shop (Level 3+)",
@@ -174639,14 +174758,13 @@
   "PETALFALL;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{petalfall:2},id:\"PETALFALL;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall II\",3:\"§7Grants a §a0.4% §7chance to fell the\",4:\"§7entire tree!\",5:\"\",6:\"§6Sources:\",7:\"§aI: §7Miria's Shop (Level 3+)\",8:\"§aI-V: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- Axe\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{petalfall:2},id:\"PETALFALL;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall II\",3:\"§7Grants §4+0.4 Timber§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI: §7Miria's Shop (Level 3+)\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- Axe\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Petalfall II",
-      "§7Grants a §a0.4% §7chance to fell the",
-      "§7entire tree!",
+      "§7Grants §4+0.4 Timber§7.",
       "",
       "§6Sources:",
       "§aI: §7Miria's Shop (Level 3+)",
@@ -174669,14 +174787,13 @@
   "PETALFALL;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{petalfall:3},id:\"PETALFALL;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall III\",3:\"§7Grants a §a0.6% §7chance to fell the\",4:\"§7entire tree!\",5:\"\",6:\"§6Sources:\",7:\"§aI: §7Miria's Shop (Level 3+)\",8:\"§aI-V: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- Axe\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{petalfall:3},id:\"PETALFALL;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall III\",3:\"§7Grants §4+0.6 Timber§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI: §7Miria's Shop (Level 3+)\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- Axe\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Petalfall III",
-      "§7Grants a §a0.6% §7chance to fell the",
-      "§7entire tree!",
+      "§7Grants §4+0.6 Timber§7.",
       "",
       "§6Sources:",
       "§aI: §7Miria's Shop (Level 3+)",
@@ -174699,14 +174816,13 @@
   "PETALFALL;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{petalfall:4},id:\"PETALFALL;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall IV\",3:\"§7Grants a §a0.8% §7chance to fell the\",4:\"§7entire tree!\",5:\"\",6:\"§6Sources:\",7:\"§aI: §7Miria's Shop (Level 3+)\",8:\"§aI-V: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- Axe\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{petalfall:4},id:\"PETALFALL;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall IV\",3:\"§7Grants §4+0.8 Timber§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI: §7Miria's Shop (Level 3+)\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- Axe\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Petalfall IV",
-      "§7Grants a §a0.8% §7chance to fell the",
-      "§7entire tree!",
+      "§7Grants §4+0.8 Timber§7.",
       "",
       "§6Sources:",
       "§aI: §7Miria's Shop (Level 3+)",
@@ -174729,14 +174845,13 @@
   "PETALFALL;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{petalfall:5},id:\"PETALFALL;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall V\",3:\"§7Grants a §a1% §7chance to fell the\",4:\"§7entire tree!\",5:\"\",6:\"§6Sources:\",7:\"§aI: §7Miria's Shop (Level 3+)\",8:\"§aI-V: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- Axe\",12:\"\",13:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{petalfall:5},id:\"PETALFALL;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Petalfall V\",3:\"§7Grants §4+1 Timber§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI: §7Miria's Shop (Level 3+)\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- Axe\",11:\"\",12:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Petalfall V",
-      "§7Grants a §a1% §7chance to fell the",
-      "§7entire tree!",
+      "§7Grants §4+1 Timber§7.",
       "",
       "§6Sources:",
       "§aI: §7Miria's Shop (Level 3+)",
@@ -182268,6 +182383,33 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Snow_Tiger_Ocelot_Skin"
     ]
+  },
+  "PET_SKIN_OCELOT_SPARKLING": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Sparkling Ocelot Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_OCELOT_SPARKLING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8a9919b6-6e59-37b3-ae5d-495eecb75015\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oShG+Tz+3TAb73TMZ7cpIVK2/eDI7tKYD7PVF3MDH3p8Su8lvId7MTe6OXLCzR9inyKBDlvMpDqX5L2F0fSOuOBak7O/wFCafnTLSUotm2kJlTC6jwj7SvC8j4heYa55USS4BMWLIK01hCbPt1fMnNtF2SfE9AhHeWF8rik4cMiHHCQQNSEoMT+qebEqA2xozFIqbmkJ0bagDbp4E5+VPwXdxl7pQjsQrek9ff6AUQYXevRRqtk+SL/6+ou07CzmKSyTzFUarZMNWtjgZTJiLpxhJSgaxlARFj6KARIbsh/TJrFov4QtDTqMfpD3J020us18UzpAYn3UEBrImJXsH48/6LkxqSWTKFd4w7i6wBFjDlPJ3BjJCClqJa4QpeOdnXJuGSCd7273nQr7Wzlf9znaE5taZu5W7BrZ8ccTqctP7RUSnM/+E2v+JtE7gOF5MROGvlY5D5JIQIMPWmK0i2jGDLeo6rMOfnJVuUo4i89UVr4fa0CE+Fe4gFy6pnufV+rpK/y31SS/xfl0oMrLNDBfvqJ2ZBaK5vERW0uE2OKeeCMvdtwePjbwbEh4lL/Ilxk6ttsQbepNOoLmvlM3XoIpttQ/kkNeWV9NR2isKOc7un2s/uh5Vd9bFrPPqDTxnMDq5wlKfSda9OMvyxVc5YsuQjQOLZqNQn49+b3OmfQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NTM1MDI3NDQ3NSwKICAicHJvZmlsZUlkIiA6ICIyODlmYmYwZGViMDU0MTI5YWZlYzBhMWQzMDBlOTgwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJqb2hubnlsaWtlcGllMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NmMzYjVkMGQzNDMyMTNiNmU4MTk0MWQwYjUzMTVlZWRiMmQ5OTJmZGRlNmIzZTBkNWI0ZTg2OWNiZmI1ZDVlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aOcelot§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Sparkling Ocelot Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aOcelot§7 pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_OCELOT_SPARKLING",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "",
+    "info": []
   },
   "PET_SKIN_PARROT_BUCCANEER": {
     "itemid": "minecraft:skull",
@@ -208224,11 +208366,11 @@
   "REINFORCED_NETTING": {
     "itemid": "minecraft:paper",
     "displayname": "§6Reinforced Netting",
-    "nbttag": "{ExtraAttributes:{id:\"REINFORCED_NETTING\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/reinforced_netting\",display:{Lore:[0:\"§7Dropped by the §5Giant Isopod §3Sea\",1:\"§3Creature §7in §6Torrhus Canyon§7.\",2:\"\",3:\"§8§oA massive, sturdy piece of netting\",4:\"§8§othat would be more than strong\",5:\"§8§oenough to catch most critters when\",6:\"§8§oused as a net. Unfortunately, for\",7:\"§8§owhoever owned it, the Giant Isopod is\",8:\"§8§oa bit larger than your average\",9:\"§8§ocritter.\",10:\"\",11:\"§eRight-click to view recipes!\",12:\"\",13:\"§6§lLEGENDARY\"],Name:\"§6Reinforced Netting\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"REINFORCED_NETTING\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/reinforced_netting\",display:{Lore:[0:\"§7Dropped by the §dGiant Isopod §7in\",1:\"§6Torrhus Canyon§7.\",2:\"\",3:\"§8§oA massive, sturdy piece of netting\",4:\"§8§othat would be more than strong\",5:\"§8§oenough to catch most critters when\",6:\"§8§oused as a net. Unfortunately, for\",7:\"§8§owhoever owned it, the Giant Isopod is\",8:\"§8§oa bit larger than your average\",9:\"§8§ocritter.\",10:\"\",11:\"§eRight-click to view recipes!\",12:\"\",13:\"§6§lLEGENDARY\"],Name:\"§6Reinforced Netting\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7Dropped by the §5Giant Isopod §3Sea",
-      "§3Creature §7in §6Torrhus Canyon§7.",
+      "§7Dropped by the §dGiant Isopod §7in",
+      "§6Torrhus Canyon§7.",
       "",
       "§8§oA massive, sturdy piece of netting",
       "§8§othat would be more than strong",
@@ -219584,6 +219726,30 @@
         ]
       }
     ]
+  },
+  "SEA_BRINE": {
+    "itemid": "minecraft:paper",
+    "displayname": "§aSea Brine",
+    "nbttag": "{ExtraAttributes:{id:\"SEA_BRINE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/sea_brine\",display:{Lore:[0:\"§7Dropped by the §aBrineling §7in §6Torrhus\",1:\"§6Canyon§7.\",2:\"\",3:\"§8§oHighly concentrated saltwater,\",4:\"§8§obetween three to eight times saltier\",5:\"§8§othan seawater.\",6:\"\",7:\"§eRight-click to view recipes!\",8:\"\",9:\"§a§lUNCOMMON\"],Name:\"§aSea Brine\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§7Dropped by the §aBrineling §7in §6Torrhus",
+      "§6Canyon§7.",
+      "",
+      "§8§oHighly concentrated saltwater,",
+      "§8§obetween three to eight times saltier",
+      "§8§othan seawater.",
+      "",
+      "§eRight-click to view recipes!",
+      "",
+      "§a§lUNCOMMON"
+    ],
+    "internalname": "SEA_BRINE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "",
+    "info": []
   },
   "SEA_CREATURE_ARTIFACT": {
     "itemid": "minecraft:skull",
@@ -245719,45 +245885,187 @@
   "STEALTH;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{stealth:1},id:\"STEALTH;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Stealth I\",3:\"§7Causes timid creatures that normally\",4:\"§7flee to remain still.\",5:\"\",6:\"§6Applied To:\",7:\"§7- §fBoots\",8:\"\",9:\"§e▲ §7Stealth cannot be combined!\",10:\"\",11:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{stealth:1},id:\"STEALTH;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Stealth I\",3:\"§e Timid §7mobs have a §a10% §7chance to\",4:\"§7remain still instead of fleeing.\",5:\"\",6:\"§6Source:\",7:\"§aI: §7Chillblade and Chillshot\",8:\"§aI-V: §7Bazaar\",9:\"§aVI: §7Distant Echo\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fBoots\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Stealth I",
-      "§7Causes timid creatures that normally",
-      "§7flee to remain still.",
+      "§e Timid §7mobs have a §a10% §7chance to",
+      "§7remain still instead of fleeing.",
+      "",
+      "§6Source:",
+      "§aI: §7Chillblade and Chillshot",
+      "§aI-V: §7Bazaar",
+      "§aVI: §7Distant Echo",
       "",
       "§6Applied To:",
       "§7- §fBoots",
-      "",
-      "§e▲ §7Stealth cannot be combined!",
       "",
       "§f§lCOMMON"
     ],
     "internalname": "STEALTH;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    ]
+  },
+  "STEALTH;2": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§fEnchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{stealth:2},id:\"STEALTH;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Stealth II\",3:\"§e Timid §7mobs have a §a20% §7chance to\",4:\"§7remain still instead of fleeing.\",5:\"\",6:\"§6Source:\",7:\"§aI: §7Chillblade and Chillshot\",8:\"§aI-V: §7Bazaar\",9:\"§aVI: §7Distant Echo\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fBoots\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Stealth II",
+      "§e Timid §7mobs have a §a20% §7chance to",
+      "§7remain still instead of fleeing.",
+      "",
+      "§6Source:",
+      "§aI: §7Chillblade and Chillshot",
+      "§aI-V: §7Bazaar",
+      "§aVI: §7Distant Echo",
+      "",
+      "§6Applied To:",
+      "§7- §fBoots",
+      "",
+      "§f§lCOMMON"
     ],
-    "recipes": [
-      {
-        "A1": "",
-        "A2": "",
-        "A3": "",
-        "B1": "",
-        "B2": "PAPER:1",
-        "B3": "PAPER:1",
-        "C1": "",
-        "C2": "PAPER:1",
-        "C3": "MANGCORE:1",
-        "type": "crafting",
-        "count": 1,
-        "overrideOutputId": "STEALTH;1"
-      }
+    "internalname": "STEALTH;2",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    ]
+  },
+  "STEALTH;3": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§fEnchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{stealth:3},id:\"STEALTH;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Stealth III\",3:\"§e Timid §7mobs have a §a30% §7chance to\",4:\"§7remain still instead of fleeing.\",5:\"\",6:\"§6Source:\",7:\"§aI: §7Chillblade and Chillshot\",8:\"§aI-V: §7Bazaar\",9:\"§aVI: §7Distant Echo\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fBoots\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Stealth III",
+      "§e Timid §7mobs have a §a30% §7chance to",
+      "§7remain still instead of fleeing.",
+      "",
+      "§6Source:",
+      "§aI: §7Chillblade and Chillshot",
+      "§aI-V: §7Bazaar",
+      "§aVI: §7Distant Echo",
+      "",
+      "§6Applied To:",
+      "§7- §fBoots",
+      "",
+      "§f§lCOMMON"
+    ],
+    "internalname": "STEALTH;3",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    ]
+  },
+  "STEALTH;4": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§fEnchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{stealth:4},id:\"STEALTH;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Stealth IV\",3:\"§e Timid §7mobs have a §a40% §7chance to\",4:\"§7remain still instead of fleeing.\",5:\"\",6:\"§6Source:\",7:\"§aI: §7Chillblade and Chillshot\",8:\"§aI-V: §7Bazaar\",9:\"§aVI: §7Distant Echo\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fBoots\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Stealth IV",
+      "§e Timid §7mobs have a §a40% §7chance to",
+      "§7remain still instead of fleeing.",
+      "",
+      "§6Source:",
+      "§aI: §7Chillblade and Chillshot",
+      "§aI-V: §7Bazaar",
+      "§aVI: §7Distant Echo",
+      "",
+      "§6Applied To:",
+      "§7- §fBoots",
+      "",
+      "§f§lCOMMON"
+    ],
+    "internalname": "STEALTH;4",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    ]
+  },
+  "STEALTH;5": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§aEnchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{stealth:5},id:\"STEALTH;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Stealth V\",3:\"§e Timid §7mobs have a §a50% §7chance to\",4:\"§7remain still instead of fleeing.\",5:\"\",6:\"§6Source:\",7:\"§aI: §7Chillblade and Chillshot\",8:\"§aI-V: §7Bazaar\",9:\"§aVI: §7Distant Echo\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fBoots\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Stealth V",
+      "§e Timid §7mobs have a §a50% §7chance to",
+      "§7remain still instead of fleeing.",
+      "",
+      "§6Source:",
+      "§aI: §7Chillblade and Chillshot",
+      "§aI-V: §7Bazaar",
+      "§aVI: §7Distant Echo",
+      "",
+      "§6Applied To:",
+      "§7- §fBoots",
+      "",
+      "§a§lUNCOMMON"
+    ],
+    "internalname": "STEALTH;5",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Stealth"
+    ]
+  },
+  "STEALTH;6": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§aEnchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{stealth:6},id:\"STEALTH;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Stealth VI\",3:\"§e Timid §7mobs have a §a60% §7chance to\",4:\"§7remain still instead of fleeing.\",5:\"\",6:\"§6Source:\",7:\"§aI: §7Chillblade and Chillshot\",8:\"§aI-V: §7Bazaar\",9:\"§aVI: §7Distant Echo\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fBoots\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Stealth VI",
+      "§e Timid §7mobs have a §a60% §7chance to",
+      "§7remain still instead of fleeing.",
+      "",
+      "§6Source:",
+      "§aI: §7Chillblade and Chillshot",
+      "§aI-V: §7Bazaar",
+      "§aVI: §7Distant Echo",
+      "",
+      "§6Applied To:",
+      "§7- §fBoots",
+      "",
+      "§a§lUNCOMMON"
+    ],
+    "internalname": "STEALTH;6",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament nogitversion+mc26.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Stealth"
     ]
   },
   "STEAMED_CHOCOLATE_FISH": {
@@ -248219,13 +248527,16 @@
   "SUBLIME_SILK": {
     "itemid": "minecraft:paper",
     "displayname": "§5Sublime Silk",
-    "nbttag": "{ExtraAttributes:{id:\"SUBLIME_SILK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/sublime_silk\",display:{Lore:[0:\"§7A type of silk woven by the\",1:\"§7Silkbreeze. It's so soft that it\",2:\"§7practically trickles through your\",3:\"§7fingers as you hold it.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§5§lEPIC\"],Name:\"§5Sublime Silk\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"SUBLIME_SILK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/sublime_silk\",display:{Lore:[0:\"§7Dropped by the §6Silkbreeze §7in\",1:\"§6Torrhus Canyon§7.\",2:\"\",3:\"§8§oA type of silk woven by the\",4:\"§8§oSilkbreeze. It's so soft that it\",5:\"§8§opractically trickles through your\",6:\"§8§ofingers as you hold it.\",7:\"\",8:\"§eRight-click to view recipes!\",9:\"\",10:\"§5§lEPIC\"],Name:\"§5Sublime Silk\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7A type of silk woven by the",
-      "§7Silkbreeze. It's so soft that it",
-      "§7practically trickles through your",
-      "§7fingers as you hold it.",
+      "§7Dropped by the §6Silkbreeze §7in",
+      "§6Torrhus Canyon§7.",
+      "",
+      "§8§oA type of silk woven by the",
+      "§8§oSilkbreeze. It's so soft that it",
+      "§8§opractically trickles through your",
+      "§8§ofingers as you hold it.",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -264754,7 +265065,7 @@
   "TURBO_FISHING_NET": {
     "itemid": "minecraft:paper",
     "displayname": "§5Turbo Fishing Net",
-    "nbttag": "{ExtraAttributes:{id:\"TURBO_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/turbo_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+50\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Mana Cost: §b10\",8:\"§8Cooldown: §a0.5s\",9:\"\",10:\"§7Throw Distance: §a+100%\",11:\"\",12:\"§6Ability: Haul \",13:\"§7Grants §d+5 Hunting Fortune §7on\",14:\"§9Water Shards §7caught with this net.\",15:\"\",16:\"§5§lEPIC FISHING NET\"],Name:\"§5Turbo Fishing Net\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TURBO_FISHING_NET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/nets/turbo_fishing_net\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§7Pull: §b+50\",3:\"\",4:\"§6Ability: Yoink  §e§lRIGHT CLICK\",5:\"§7Throw your fishing net at swimming\",6:\"§7fish to catch them!\",7:\"§8Cooldown: §a0.5s\",8:\"\",9:\"§7Throw Distance: §a+100%\",10:\"\",11:\"§6Ability: Haul \",12:\"§7Grants §d+5 Hunting Fortune §7on\",13:\"§9Water Shards §7caught with this net.\",14:\"\",15:\"§5§lEPIC FISHING NET\"],Name:\"§5Turbo Fishing Net\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
@@ -264764,7 +265075,6 @@
       "§6Ability: Yoink  §e§lRIGHT CLICK",
       "§7Throw your fishing net at swimming",
       "§7fish to catch them!",
-      "§8Mana Cost: §b10",
       "§8Cooldown: §a0.5s",
       "",
       "§7Throw Distance: §a+100%",
@@ -264778,7 +265088,7 @@
     "internalname": "TURBO_FISHING_NET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Turbo_Fishing_Net"
@@ -275380,7 +275690,7 @@
     "vanilla": true
   },
   "VINERIP_LASSO": {
-    "itemid": "minecraft:lead",
+    "itemid": "minecraft:paper",
     "displayname": "§aVinerip Lasso",
     "nbttag": "{ExtraAttributes:{id:\"VINERIP_LASSO\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/hunting/vinerip_lasso\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Throw  §e§lRIGHT CLICK\",3:\"§7Throw the Lasso at §2Forest\",4:\"§7creatures and hold them still until\",5:\"§7they lose all their §9stamina§7.\",6:\"\",7:\"§6Ability: Reel In  §e§lRIGHT CLICK\",8:\"§7Reel in creatures caught by the\",9:\"§7Lasso each time their §9stamina\",10:\"§7depletes.\",11:\"\",12:\"§a Critters §7lose stamina §220% §7faster.\",13:\"\",14:\"§a§lUNCOMMON LASSO\"],Name:\"§aVinerip Lasso\"}}",
     "damage": 0,
@@ -275404,7 +275714,7 @@
     "internalname": "VINERIP_LASSO",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament nogitversion+mc26.2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Vinerip_Lasso"
