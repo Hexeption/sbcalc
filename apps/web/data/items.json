@@ -123504,6 +123504,10 @@
             "chance": "1.264%"
           },
           {
+            "id": "ATTRIBUTE_SHARD_SLAYER_DISCOUNT;1",
+            "chance": "0.25%"
+          },
+          {
             "id": "FIERY_BURST_RUNE;1",
             "chance": "0.174%"
           },
@@ -210892,14 +210896,14 @@
           {
             "id": "REVENANT_FLESH",
             "extra": [
-              "x50-64"
+              "§eDrop Count: §7x50-64"
             ],
             "chance": "100%"
           },
           {
             "id": "FOUL_FLESH",
             "extra": [
-              "x2-3"
+              "§eDrop Count: §7x2-3"
             ],
             "chance": "16.22%"
           },
@@ -210922,6 +210926,10 @@
           {
             "id": "REVENANT_CATALYST",
             "chance": "1.01%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_SLAYER_DISCOUNT;1",
+            "chance": "0.25%"
           },
           {
             "id": "SNAKE_RUNE;1",
@@ -211022,6 +211030,10 @@
           {
             "id": "REVENANT_VISCERA",
             "chance": "13.6082%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_SLAYER_DISCOUNT;1",
+            "chance": "0.25%"
           },
           {
             "id": "FESTERING_MAGGOT",
@@ -254780,7 +254792,7 @@
             "id": "TARANTULA_WEB",
             "extra": [
               "§eWeight: 10,000",
-              "§7x52-64"
+              "§eDrop Count: §7x52-64"
             ],
             "chance": "100%"
           },
@@ -254788,7 +254800,7 @@
             "id": "TOXIC_ARROW_POISON",
             "extra": [
               "§eWeight: 1,800",
-              "§7x32-48"
+              "§eDrop Count: §7x32-48"
             ],
             "chance": "14.966%"
           },
@@ -254854,6 +254866,10 @@
               "§eWeight: 7"
             ],
             "chance": "0.058%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_SLAYER_DISCOUNT;1",
+            "chance": "0.25%"
           },
           {
             "id": "DYE_BRICK_RED",
@@ -255010,6 +255026,10 @@
               "§eWeight: 6"
             ],
             "chance": "0.043%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_SLAYER_DISCOUNT;1",
+            "chance": "0.25%"
           },
           {
             "id": "PRIMORDIAL_EYE",
@@ -276610,6 +276630,10 @@
           {
             "id": "DRAGON_RUNE;1",
             "chance": "0.6622%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_SLAYER_DISCOUNT;1",
+            "chance": "0.25%"
           },
           {
             "id": "HANDY_BLOOD_CHALICE",
