@@ -7151,17 +7151,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Blood_Donor_Artifact"
     ],
-    "recipe": {
-      "A1": "HEMOBOMB:16",
-      "A2": "HEMOBOMB:16",
-      "A3": "HEMOBOMB:16",
-      "B1": "HEMOBOMB:16",
-      "B2": "BLOOD_DONOR_RING:1",
-      "B3": "HEMOBOMB:16",
-      "C1": "HEMOBOMB:16",
-      "C2": "HEMOBOMB:16",
-      "C3": "HEMOBOMB:16"
-    }
+    "recipes": [
+      {
+        "A1": "HEMOBOMB:4",
+        "A2": "HEMOBOMB:4",
+        "A3": "HEMOBOMB:4",
+        "B1": "HEMOBOMB:4",
+        "B2": "BLOOD_DONOR_RING:1",
+        "B3": "HEMOBOMB:4",
+        "C1": "HEMOBOMB:4",
+        "C2": "HEMOBOMB:4",
+        "C3": "HEMOBOMB:4",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "BLOOD_DONOR_ARTIFACT"
+      }
+    ]
   },
   "BLOOD_DONOR_RING": {
     "itemid": "minecraft:skull",
@@ -7186,17 +7191,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Blood_Donor_Ring"
     ],
-    "recipe": {
-      "A1": "HEMOGLASS:12",
-      "A2": "HEMOGLASS:12",
-      "A3": "HEMOGLASS:12",
-      "B1": "HEMOGLASS:12",
-      "B2": "BLOOD_DONOR_TALISMAN:1",
-      "B3": "HEMOGLASS:12",
-      "C1": "HEMOGLASS:12",
-      "C2": "HEMOGLASS:12",
-      "C3": "HEMOGLASS:12"
-    }
+    "recipes": [
+      {
+        "A1": "HEMOGLASS:12",
+        "A2": "HEMOGLASS:12",
+        "A3": "HEMOGLASS:12",
+        "B1": "HEMOGLASS:12",
+        "B2": "BLOOD_DONOR_TALISMAN:1",
+        "B3": "HEMOGLASS:12",
+        "C1": "HEMOGLASS:12",
+        "C2": "HEMOGLASS:12",
+        "C3": "HEMOGLASS:12",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "BLOOD_DONOR_RING"
+      }
+    ]
   },
   "BLOOD_DONOR_TALISMAN": {
     "itemid": "minecraft:skull",
@@ -7221,17 +7231,22 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Blood_Donor_Talisman"
     ],
-    "recipe": {
-      "A1": "HEMOVIBE:12",
-      "A2": "HEMOVIBE:12",
-      "A3": "HEMOVIBE:12",
-      "B1": "HEMOVIBE:12",
-      "B2": "HEMOVIBE:12",
-      "B3": "HEMOVIBE:12",
-      "C1": "HEMOVIBE:12",
-      "C2": "HEMOVIBE:12",
-      "C3": "HEMOVIBE:12"
-    }
+    "recipes": [
+      {
+        "A1": "HEMOVIBE:12",
+        "A2": "HEMOVIBE:12",
+        "A3": "HEMOVIBE:12",
+        "B1": "HEMOVIBE:12",
+        "B2": "HEMOVIBE:12",
+        "B3": "HEMOVIBE:12",
+        "C1": "HEMOVIBE:12",
+        "C2": "HEMOVIBE:12",
+        "C3": "HEMOVIBE:12",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "BLOOD_DONOR_TALISMAN"
+      }
+    ]
   },
   "BLOOD_GOD_SIGIL": {
     "itemid": "minecraft:skull",
@@ -8412,7 +8427,7 @@
   "BURSTFIRE_DAGGER": {
     "itemid": "minecraft:stone_sword",
     "displayname": "§5Kindlebane Dagger",
-    "nbttag": "{ExtraAttributes:{id:\"BURSTFIRE_DAGGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/blaze/swords/kindlebane_dagger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+130\",1:\"§7Strength: §c+55\",2:\"§7Crit Damage: §9+20%\",3:\"§7Attack Speed: §e+10%\",4:\"§7Gemstones: §8[⚔] []\",5:\"\",6:\"§7Deal §c1.5x §7damage to §4 Infernal §7mobs.\",7:\"§7Deal §c1.2x §7damage to §8 Wither §7mobs.\",8:\"§7Gain §3+30☯ Combat Wisdom§7 against §4\",9:\"§4Infernal §7mobs.\",10:\"\",11:\"§6Ability: Attunement  §e§lRIGHT CLICK\",12:\"§7Swap between §8Ashen §7and §eAuric §7mode in order\",13:\"§7to attack through Hellion Shields.\",14:\"\",15:\"§7Attuned: §8Ashen\",16:\"\",17:\"§6Ability: Burning Vengeance ﬗ\",18:\"§7On hit, §crepeat §7the last 6 hits of dealt\",19:\"§7damage after §a6s §7if the Hellion Shield\",20:\"§7has switched attunement.\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Blaze Slayer 4§c.\",24:\"§5§lEPIC SWORD\"],Name:\"§5Kindlebane Dagger\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BURSTFIRE_DAGGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/blaze/swords/kindlebane_dagger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+130\",1:\"§7Strength: §c+55\",2:\"§7Crit Damage: §9+20%\",3:\"§7Attack Speed: §e+10%\",4:\"§7Gemstones: §8[⚔] []\",5:\"\",6:\"§7Deal §c1.5x §7damage to §4 Infernal §7mobs.\",7:\"§7Deal §c1.2x §7damage to §8 Wither §7mobs.\",8:\"§7Gain §3+30☯ Combat Wisdom§7 against §4\",9:\"§4Infernal §7mobs.\",10:\"\",11:\"§6Ability: Attunement  §e§lRIGHT CLICK\",12:\"§7Swap between §8Ashen §7and §eAuric §7mode in order\",13:\"§7to attack through Hellion Shields.\",14:\"\",15:\"§7Attuned: §8Ashen\",16:\"\",17:\"§6Ability: Burning Vengeance ﬗ\",18:\"§7On hit, §crepeat §7the last 8 hits of dealt\",19:\"§7damage after §a6s §7if the Hellion Shield\",20:\"§7has switched attunement.\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Blaze Slayer 4§c.\",24:\"§5§lEPIC SWORD\"],Name:\"§5Kindlebane Dagger\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+130",
@@ -8433,7 +8448,7 @@
       "§7Attuned: §8Ashen",
       "",
       "§6Ability: Burning Vengeance ﬗ",
-      "§7On hit, §crepeat §7the last 6 hits of dealt",
+      "§7On hit, §crepeat §7the last 8 hits of dealt",
       "§7damage after §a6s §7if the Hellion Shield",
       "§7has switched attunement.",
       "",
@@ -8444,7 +8459,7 @@
     "internalname": "BURSTFIRE_DAGGER",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Blaze Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Kindlebane_Dagger"
@@ -14524,8 +14539,8 @@
   },
   "COMMON_HOOK": {
     "itemid": "minecraft:paper",
-    "displayname": "§9Common Hook",
-    "nbttag": "{ExtraAttributes:{id:\"COMMON_HOOK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod_part/hook/common_hook\",display:{Lore:[0:\"§7Increases the chance to catch\",1:\"§f§lCOMMON §3Sea Creatures §7by §a25%§7.\",2:\"\",3:\"§7Talk to §2Roddy §7in the §2Backwater\",4:\"§2Bayou §7to apply this §9Hook §7to a Fishing\",5:\"§7Rod.\",6:\"\",7:\"§4❣ §cRequires §aFishing Skill 10§c.\",8:\"§9§lRARE ROD PART\"],Name:\"§9Common Hook\"}}",
+    "displayname": "§fCommon Hook",
+    "nbttag": "{ExtraAttributes:{id:\"COMMON_HOOK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod_part/hook/common_hook\",display:{Lore:[0:\"§7Increases the chance to catch\",1:\"§f§lCOMMON §3Sea Creatures §7by §a25%§7.\",2:\"\",3:\"§7Talk to §2Roddy §7in the §2Backwater\",4:\"§2Bayou §7to apply this §9Hook §7to a Fishing\",5:\"§7Rod.\",6:\"\",7:\"§4❣ §cRequires §aFishing Skill 10§c.\",8:\"§f§lCOMMON ROD PART\"],Name:\"§fCommon Hook\"}}",
     "damage": 0,
     "lore": [
       "§7Increases the chance to catch",
@@ -14536,12 +14551,12 @@
       "§7Rod.",
       "",
       "§4❣ §cRequires §aFishing Skill 10§c.",
-      "§9§lRARE ROD PART"
+      "§f§lCOMMON ROD PART"
     ],
     "internalname": "COMMON_HOOK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Lily Pad V",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Common_Hook"
@@ -14974,6 +14989,52 @@
       "C2": "",
       "C3": ""
     }
+  },
+  "CORRUPTION;1": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§fEnchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{corruption:1},id:\"CORRUPTION;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Corruption I\",3:\"§7Gain a §a1% §7chance to spawn a\",4:\"§7Corrupted Sea Creature.\",5:\"\",6:\"§6Sources:\",7:\"§aI: §7Crafting Recipe\",8:\"§aI-V: §7Bazaar\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Corruption I",
+      "§7Gain a §a1% §7chance to spawn a",
+      "§7Corrupted Sea Creature.",
+      "",
+      "§6Sources:",
+      "§aI: §7Crafting Recipe",
+      "§aI-V: §7Bazaar",
+      "",
+      "§6Applied To:",
+      "§7- §fFishing Rod",
+      "",
+      "§f§lCOMMON"
+    ],
+    "internalname": "CORRUPTION;1",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Corruption"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "",
+        "A3": "",
+        "B1": "",
+        "B2": "ENCHANTED_PAPER:1",
+        "B3": "ENCHANTED_PAPER:1",
+        "C1": "",
+        "C2": "ENCHANTED_PAPER:1",
+        "C3": "CORRUPTED_FRAGMENT:64",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "CORRUPTION;1"
+      }
+    ]
   },
   "CORRUPT_SOIL": {
     "itemid": "minecraft:skull",
@@ -26325,7 +26386,7 @@
   "ENCHANTED_TIME_CLOCK": {
     "itemid": "minecraft:clock",
     "displayname": "§6Enchanted Clock",
-    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_TIME_CLOCK\"},HideFlags:254,ItemModel:\"minecraft:clock\",display:{Lore:[0:\"§6Ability: Time Warp  §e§lRIGHT CLICK\",1:\"§7Advance Time by §d1 hour§7!\",2:\"§8Cooldown: §a48 hours\",3:\"\",4:\"§7Impacts your Minions, Chocolate\",5:\"§7Factory, Aging Items, Kat, Fann, and\",6:\"§7The Forge.\",7:\"\",8:\"§4❣ §cRequires §aGold Ingot Collection X§c.\",9:\"§6§lLEGENDARY\"],Name:\"§6Enchanted Clock\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_TIME_CLOCK\"},HideFlags:254,ItemModel:\"minecraft:clock\",display:{Lore:[0:\"§6Ability: Time Warp  §e§lRIGHT CLICK\",1:\"§7Advance Time by §d1 hour§7!\",2:\"§8Cooldown: §a48 hours\",3:\"\",4:\"§7Impacts your Minions, Chocolate\",5:\"§7Factory, Aging Items, Kat, Fann,\",6:\"§7Greenhouse, and The Forge.\",7:\"\",8:\"§4❣ §cRequires §aGold Ingot Collection X§c.\",9:\"§6§lLEGENDARY\"],Name:\"§6Enchanted Clock\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§6Ability: Time Warp  §e§lRIGHT CLICK",
@@ -26333,8 +26394,8 @@
       "§8Cooldown: §a48 hours",
       "",
       "§7Impacts your Minions, Chocolate",
-      "§7Factory, Aging Items, Kat, Fann, and",
-      "§7The Forge.",
+      "§7Factory, Aging Items, Kat, Fann,",
+      "§7Greenhouse, and The Forge.",
       "",
       "§4❣ §cRequires §aGold Ingot Collection X§c.",
       "§6§lLEGENDARY"
@@ -26342,7 +26403,7 @@
     "internalname": "ENCHANTED_TIME_CLOCK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Gold Ingot X",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Clock"
@@ -28344,6 +28405,20 @@
         "A1": "",
         "A2": "VOLT_CRUX:1",
         "A3": "",
+        "B1": "",
+        "B2": "NEARLY_WHOLE_CARROT:1",
+        "B3": "",
+        "C1": "",
+        "C2": "SCRIBE_CRUX:1",
+        "C3": "",
+        "type": "crafting",
+        "count": 64,
+        "overrideOutputId": "EXPORTABLE_CARROTS"
+      },
+      {
+        "A1": "",
+        "A2": "VOLT_CRUX:1",
+        "A3": "",
         "B1": "HALF_EATEN_CARROT:40",
         "B2": "HALF_EATEN_CARROT:40",
         "B3": "HALF_EATEN_CARROT:40",
@@ -28352,20 +28427,6 @@
         "C3": "",
         "type": "crafting",
         "count": 48,
-        "overrideOutputId": "EXPORTABLE_CARROTS"
-      },
-      {
-        "A1": "",
-        "A2": "VOLT_CRUX:1",
-        "A3": "",
-        "B1": "",
-        "B2": "NEARLY_WHOLE_CARROT:2",
-        "B3": "",
-        "C1": "",
-        "C2": "SCRIBE_CRUX:1",
-        "C3": "",
-        "type": "crafting",
-        "count": 64,
         "overrideOutputId": "EXPORTABLE_CARROTS"
       }
     ]
@@ -30875,7 +30936,7 @@
   "FIREDUST_DAGGER": {
     "itemid": "minecraft:stone_sword",
     "displayname": "§9Firedust Dagger",
-    "nbttag": "{ExtraAttributes:{id:\"FIREDUST_DAGGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/blaze/swords/firedust_dagger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+90\",1:\"§7Strength: §c+45\",2:\"§7Crit Damage: §9+15%\",3:\"§7Gemstones: §8[⚔]\",4:\"\",5:\"§7Deal §c1.2x §7damage to §4 Infernal §7mobs.\",6:\"§7Deal §c1.1x §7damage to §8 Wither §7mobs.\",7:\"§7Gain §3+15☯ Combat Wisdom§7 against §4\",8:\"§4Infernal §7mobs.\",9:\"\",10:\"§6Ability: Attunement  §e§lRIGHT CLICK\",11:\"§7Swap between §8Ashen §7and §eAuric §7mode in order\",12:\"§7to attack through Hellion Shields.\",13:\"\",14:\"§7Attuned: §8Ashen\",15:\"\",16:\"§6Ability: Burning Vengeance ﬗ\",17:\"§7On hit, §crepeat §7the last 6 hits of dealt\",18:\"§7damage after §a6s §7if the Hellion Shield\",19:\"§7has switched attunement.\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Blaze Slayer 2§c.\",23:\"§9§lRARE SWORD\"],Name:\"§9Firedust Dagger\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FIREDUST_DAGGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/blaze/swords/firedust_dagger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+90\",1:\"§7Strength: §c+45\",2:\"§7Crit Damage: §9+15%\",3:\"§7Gemstones: §8[⚔]\",4:\"\",5:\"§7Deal §c1.2x §7damage to §4 Infernal §7mobs.\",6:\"§7Deal §c1.1x §7damage to §8 Wither §7mobs.\",7:\"§7Gain §3+15☯ Combat Wisdom§7 against §4\",8:\"§4Infernal §7mobs.\",9:\"\",10:\"§6Ability: Attunement  §e§lRIGHT CLICK\",11:\"§7Swap between §8Ashen §7and §eAuric §7mode in order\",12:\"§7to attack through Hellion Shields.\",13:\"\",14:\"§7Attuned: §8Ashen\",15:\"\",16:\"§6Ability: Burning Vengeance ﬗ\",17:\"§7On hit, §crepeat §7the last 8 hits of dealt\",18:\"§7damage after §a6s §7if the Hellion Shield\",19:\"§7has switched attunement.\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Blaze Slayer 2§c.\",23:\"§9§lRARE SWORD\"],Name:\"§9Firedust Dagger\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+90",
@@ -30895,7 +30956,7 @@
       "§7Attuned: §8Ashen",
       "",
       "§6Ability: Burning Vengeance ﬗ",
-      "§7On hit, §crepeat §7the last 6 hits of dealt",
+      "§7On hit, §crepeat §7the last 8 hits of dealt",
       "§7damage after §a6s §7if the Hellion Shield",
       "§7has switched attunement.",
       "",
@@ -30906,7 +30967,7 @@
     "internalname": "FIREDUST_DAGGER",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Blaze Slayer 2",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Firedust_Dagger"
@@ -40495,7 +40556,7 @@
   "HEARTFIRE_DAGGER": {
     "itemid": "minecraft:stone_sword",
     "displayname": "§6Pyrochaos Dagger",
-    "nbttag": "{ExtraAttributes:{id:\"HEARTFIRE_DAGGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/blaze/swords/pyrochaos_dagger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+160\",1:\"§7Strength: §c+75\",2:\"§7Crit Chance: §9+10%\",3:\"§7Crit Damage: §9+25%\",4:\"§7Attack Speed: §e+20%\",5:\"§7Gemstones: §8[⚔] []\",6:\"\",7:\"§7Deal §c2x §7damage to §4 Infernal §7mobs.\",8:\"§7Deal §c1.5x §7damage to §8 Wither §7mobs.\",9:\"§7Gain §3+45☯ Combat Wisdom§7 against §4\",10:\"§4Infernal §7mobs.\",11:\"\",12:\"§6Ability: Attunement  §e§lRIGHT CLICK\",13:\"§7Swap between §8Ashen §7and §eAuric §7mode in order\",14:\"§7to attack through Hellion Shields.\",15:\"\",16:\"§7Attuned: §8Ashen\",17:\"\",18:\"§6Ability: Burning Vengeance ﬗ\",19:\"§7On hit, §crepeat §7the last 6 hits of dealt\",20:\"§7damage after §a6s §7if the Hellion Shield\",21:\"§7has switched attunement.\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4☠ §cRequires §5Blaze Slayer 6§c.\",25:\"§6§lLEGENDARY SWORD\"],Name:\"§6Pyrochaos Dagger\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"HEARTFIRE_DAGGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/blaze/swords/pyrochaos_dagger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+160\",1:\"§7Strength: §c+75\",2:\"§7Crit Chance: §9+10%\",3:\"§7Crit Damage: §9+25%\",4:\"§7Attack Speed: §e+20%\",5:\"§7Gemstones: §8[⚔] []\",6:\"\",7:\"§7Deal §c2x §7damage to §4 Infernal §7mobs.\",8:\"§7Deal §c1.5x §7damage to §8 Wither §7mobs.\",9:\"§7Gain §3+45☯ Combat Wisdom§7 against §4\",10:\"§4Infernal §7mobs.\",11:\"\",12:\"§6Ability: Attunement  §e§lRIGHT CLICK\",13:\"§7Swap between §8Ashen §7and §eAuric §7mode in order\",14:\"§7to attack through Hellion Shields.\",15:\"\",16:\"§7Attuned: §8Ashen\",17:\"\",18:\"§6Ability: Burning Vengeance ﬗ\",19:\"§7On hit, §crepeat §7the last 8 hits of dealt\",20:\"§7damage after §a6s §7if the Hellion Shield\",21:\"§7has switched attunement.\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4☠ §cRequires §5Blaze Slayer 6§c.\",25:\"§6§lLEGENDARY SWORD\"],Name:\"§6Pyrochaos Dagger\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+160",
@@ -40517,7 +40578,7 @@
       "§7Attuned: §8Ashen",
       "",
       "§6Ability: Burning Vengeance ﬗ",
-      "§7On hit, §crepeat §7the last 6 hits of dealt",
+      "§7On hit, §crepeat §7the last 8 hits of dealt",
       "§7damage after §a6s §7if the Hellion Shield",
       "§7has switched attunement.",
       "",
@@ -40528,7 +40589,7 @@
     "internalname": "HEARTFIRE_DAGGER",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Blaze Slayer 6",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pyrochaos_Dagger"
@@ -42388,8 +42449,8 @@
   },
   "HOTSPOT_HOOK": {
     "itemid": "minecraft:paper",
-    "displayname": "§9Hotspot Hook",
-    "nbttag": "{ExtraAttributes:{id:\"HOTSPOT_HOOK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod_part/hook/hotspot_hook\",display:{Lore:[0:\"§7Grants a §a+20% §7chance to catch\",1:\"§dHotspot Sea Creatures §7while fishing\",2:\"§7in a §dHotspot§7.\",3:\"\",4:\"§7Talk to §2Roddy §7in the §2Backwater\",5:\"§2Bayou §7to apply this §9Hook §7to a Fishing\",6:\"§7Rod.\",7:\"\",8:\"§4❣ §cRequires §aFishing Skill 20§c.\",9:\"§9§lRARE ROD PART\"],Name:\"§9Hotspot Hook\"}}",
+    "displayname": "§5Hotspot Hook",
+    "nbttag": "{ExtraAttributes:{id:\"HOTSPOT_HOOK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod_part/hook/hotspot_hook\",display:{Lore:[0:\"§7Grants a §a+20% §7chance to catch\",1:\"§dHotspot Sea Creatures §7while fishing\",2:\"§7in a §dHotspot§7.\",3:\"\",4:\"§7Talk to §2Roddy §7in the §2Backwater\",5:\"§2Bayou §7to apply this §9Hook §7to a Fishing\",6:\"§7Rod.\",7:\"\",8:\"§4❣ §cRequires §aFishing Skill 20§c.\",9:\"§5§lEPIC ROD PART\"],Name:\"§5Hotspot Hook\"}}",
     "damage": 0,
     "lore": [
       "§7Grants a §a+20% §7chance to catch",
@@ -42401,12 +42462,12 @@
       "§7Rod.",
       "",
       "§4❣ §cRequires §aFishing Skill 20§c.",
-      "§9§lRARE ROD PART"
+      "§5§lEPIC ROD PART"
     ],
     "internalname": "HOTSPOT_HOOK",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Hook"
@@ -53079,10 +53140,11 @@
   "MANTICORE_CLAW": {
     "itemid": "minecraft:skull",
     "displayname": "§6Manticore Claw",
-    "nbttag": "{ExtraAttributes:{id:\"MANTICORE_CLAW\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"17606af8-b760-3410-9a59-3147b4c35e8d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZtTX56SWprTXjzlECEKzPblxY5JXDVTGEugYJgYUhoiXbHqUrYp9DEt+Xgo2M0C3z7BhzqMNJtCqQQWOYYZ6Po6k6HdXUlY7Sz0MHhk/dDH+VEIeoVygGcZLarrvKRhzLGLuH3PIvo/nn0an8RfejV3fGNt99QDxKie9USHjwB/CrKTW0QjnwTcQ5BF5nJedBfIEa2sxVBpG0wBC5xDQ3ghrW1kiw/lUtuK5KKVGD6upvIz2m/Vde8DfpWMHCectYAzmKoItnvamK8yRPDGz56eKUDak5LokLL27tn2sr4RTxQlUhm9HwQSw0HUhu4M/uGi6gJmdkcCW7hQ8D8ShUer9VXhpANeDxckgA3bx0eUDrIvGDrQrxgwrh7zm3mTunuv6y2E56+Vlu09ZLMzl/9ioXemsKXh0t/KbOcHa97QwjJzJZYhv7RhRVMdQhgGtATKl2AbgnHIVtzA+jtSp7aUk+NPWbdIsUPnEBhW69XobmRyr+HA4Kd0JntAaTrzF5FGJucXlauehaMxn00qK2azTJGA/EGJNy4m6oJpl47g8zg2g6iYBN0X2+cSqh3bjpTllkco5JFWt30ZLC6iXgEiQAuBHr8LypQkQxqBePn6ZquxFIrIcF2nO/TeO0QdBTZuYY1A34qgE0UGthtWJqBn8Ol8JiehZQRLuttEUbdI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1MjUxNDEzNjI2MywKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE2OGQ0ZjYxMDA4ZTBiMDNlYjE3ZTFjNDI0ZGEzM2EyNjUyZjQ2ZGI0YmJkMzdhY2E3YTVmZThmZTA1YmFiMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+20\",1:\"§7Attack Speed: §e+2.5%\",2:\"§7Ferocity: §c+4\",3:\"\",4:\"§6Ability: Chimeric Core \",5:\"§7Copies §a10% §7of your active pet's\",6:\"§cCombat §7stats.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Manticore Claw\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MANTICORE_CLAW\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"17606af8-b760-3410-9a59-3147b4c35e8d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZtTX56SWprTXjzlECEKzPblxY5JXDVTGEugYJgYUhoiXbHqUrYp9DEt+Xgo2M0C3z7BhzqMNJtCqQQWOYYZ6Po6k6HdXUlY7Sz0MHhk/dDH+VEIeoVygGcZLarrvKRhzLGLuH3PIvo/nn0an8RfejV3fGNt99QDxKie9USHjwB/CrKTW0QjnwTcQ5BF5nJedBfIEa2sxVBpG0wBC5xDQ3ghrW1kiw/lUtuK5KKVGD6upvIz2m/Vde8DfpWMHCectYAzmKoItnvamK8yRPDGz56eKUDak5LokLL27tn2sr4RTxQlUhm9HwQSw0HUhu4M/uGi6gJmdkcCW7hQ8D8ShUer9VXhpANeDxckgA3bx0eUDrIvGDrQrxgwrh7zm3mTunuv6y2E56+Vlu09ZLMzl/9ioXemsKXh0t/KbOcHa97QwjJzJZYhv7RhRVMdQhgGtATKl2AbgnHIVtzA+jtSp7aUk+NPWbdIsUPnEBhW69XobmRyr+HA4Kd0JntAaTrzF5FGJucXlauehaMxn00qK2azTJGA/EGJNy4m6oJpl47g8zg2g6iYBN0X2+cSqh3bjpTllkco5JFWt30ZLC6iXgEiQAuBHr8LypQkQxqBePn6ZquxFIrIcF2nO/TeO0QdBTZuYY1A34qgE0UGthtWJqBn8Ol8JiehZQRLuttEUbdI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1MjUxNDEzNjI2MywKICAicHJvZmlsZUlkIiA6ICI3ZGY4NmY1MWFjZmI0MjQzYTkzNDQ1OTAyZDEzYTc0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclJpcHRpZGUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE2OGQ0ZjYxMDA4ZTBiMDNlYjE3ZTFjNDI0ZGEzM2EyNjUyZjQ2ZGI0YmJkMzdhY2E3YTVmZThmZTA1YmFiMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+20\",1:\"§7Crit Damage: §9+10%\",2:\"§7Attack Speed: §e+2.5%\",3:\"§7Ferocity: §c+4\",4:\"\",5:\"§6Ability: Chimeric Core \",6:\"§7Copies §a10% §7of your active pet's\",7:\"§cCombat §7stats.\",8:\"\",9:\"§eRight-click to equip!\",10:\"\",11:\"§8This item can be reforged!\",12:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Manticore Claw\"}}",
     "damage": 3,
     "lore": [
       "§7Strength: §c+20",
+      "§7Crit Damage: §9+10%",
       "§7Attack Speed: §e+2.5%",
       "§7Ferocity: §c+4",
       "",
@@ -53098,7 +53160,7 @@
     "internalname": "MANTICORE_CLAW",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Manticore_Claw"
@@ -67931,8 +67993,8 @@
   },
   "PRISMARINE_SINKER": {
     "itemid": "minecraft:paper",
-    "displayname": "§9Prismarine Sinker",
-    "nbttag": "{ExtraAttributes:{id:\"PRISMARINE_SINKER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod_part/sinker/prismarine_sinker\",display:{Lore:[0:\"§7Materializes §fPrismarine Shard§7 or\",1:\"§fPrismarine Crystals §7in your\",2:\"§7inventory whenever you catch\",3:\"§7something.\",4:\"\",5:\"§7Talk to §2Roddy §7in the §2Backwater\",6:\"§2Bayou §7to apply this §9Sinker §7to a\",7:\"§7Fishing Rod.\",8:\"\",9:\"§4❣ §cRequires §aFishing Skill 5§c.\",10:\"§9§lRARE ROD PART\"],Name:\"§9Prismarine Sinker\"}}",
+    "displayname": "§fPrismarine Sinker",
+    "nbttag": "{ExtraAttributes:{id:\"PRISMARINE_SINKER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod_part/sinker/prismarine_sinker\",display:{Lore:[0:\"§7Materializes §fPrismarine Shard§7 or\",1:\"§fPrismarine Crystals §7in your\",2:\"§7inventory whenever you catch\",3:\"§7something.\",4:\"\",5:\"§7Talk to §2Roddy §7in the §2Backwater\",6:\"§2Bayou §7to apply this §9Sinker §7to a\",7:\"§7Fishing Rod.\",8:\"\",9:\"§4❣ §cRequires §aFishing Skill 5§c.\",10:\"§f§lCOMMON ROD PART\"],Name:\"§fPrismarine Sinker\"}}",
     "damage": 0,
     "lore": [
       "§7Materializes §fPrismarine Shard§7 or",
@@ -67945,12 +68007,12 @@
       "§7Fishing Rod.",
       "",
       "§4❣ §cRequires §aFishing Skill 5§c.",
-      "§9§lRARE ROD PART"
+      "§f§lCOMMON ROD PART"
     ],
     "internalname": "PRISMARINE_SINKER",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Prismarine Shard IV",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Prismarine_Sinker"
@@ -82655,8 +82717,8 @@
   },
   "SPONGE_SINKER": {
     "itemid": "minecraft:paper",
-    "displayname": "§9Sponge Sinker",
-    "nbttag": "{ExtraAttributes:{id:\"SPONGE_SINKER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod_part/sinker/sponge_sinker\",display:{Lore:[0:\"§7Materializes §fSponge §7in your\",1:\"§7inventory whenever you catch\",2:\"§7something.\",3:\"\",4:\"§7Talk to §2Roddy §7in the §2Backwater\",5:\"§2Bayou §7to apply this §9Sinker §7to a\",6:\"§7Fishing Rod.\",7:\"\",8:\"§4❣ §cRequires §aFishing Skill 5§c.\",9:\"§9§lRARE ROD PART\"],Name:\"§9Sponge Sinker\"}}",
+    "displayname": "§fSponge Sinker",
+    "nbttag": "{ExtraAttributes:{id:\"SPONGE_SINKER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod_part/sinker/sponge_sinker\",display:{Lore:[0:\"§7Materializes §fSponge §7in your\",1:\"§7inventory whenever you catch\",2:\"§7something.\",3:\"\",4:\"§7Talk to §2Roddy §7in the §2Backwater\",5:\"§2Bayou §7to apply this §9Sinker §7to a\",6:\"§7Fishing Rod.\",7:\"\",8:\"§4❣ §cRequires §aFishing Skill 5§c.\",9:\"§f§lCOMMON ROD PART\"],Name:\"§fSponge Sinker\"}}",
     "damage": 0,
     "lore": [
       "§7Materializes §fSponge §7in your",
@@ -82668,12 +82730,12 @@
       "§7Fishing Rod.",
       "",
       "§4❣ §cRequires §aFishing Skill 5§c.",
-      "§9§lRARE ROD PART"
+      "§f§lCOMMON ROD PART"
     ],
     "internalname": "SPONGE_SINKER",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Sponge II",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sponge_Sinker"
@@ -92546,8 +92608,8 @@
   },
   "TITAN_LINE": {
     "itemid": "minecraft:paper",
-    "displayname": "§9Titan Line",
-    "nbttag": "{ExtraAttributes:{id:\"TITAN_LINE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod_part/line/titan_line\",display:{Lore:[0:\"§7Grants §9+2 Double Hook Chance§7.\",1:\"\",2:\"§7Talk to §2Roddy §7in the §2Backwater\",3:\"§2Bayou §7to apply this §9Line §7to a Fishing\",4:\"§7Rod.\",5:\"\",6:\"§4❣ §cRequires §aFishing Skill 30§c.\",7:\"§9§lRARE ROD PART\"],Name:\"§9Titan Line\"}}",
+    "displayname": "§6Titan Line",
+    "nbttag": "{ExtraAttributes:{id:\"TITAN_LINE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod_part/line/titan_line\",display:{Lore:[0:\"§7Grants §9+2 Double Hook Chance§7.\",1:\"\",2:\"§7Talk to §2Roddy §7in the §2Backwater\",3:\"§2Bayou §7to apply this §9Line §7to a Fishing\",4:\"§7Rod.\",5:\"\",6:\"§4❣ §cRequires §aFishing Skill 30§c.\",7:\"§6§lLEGENDARY ROD PART\"],Name:\"§6Titan Line\"}}",
     "damage": 0,
     "lore": [
       "§7Grants §9+2 Double Hook Chance§7.",
@@ -92557,12 +92619,12 @@
       "§7Rod.",
       "",
       "§4❣ §cRequires §aFishing Skill 30§c.",
-      "§9§lRARE ROD PART"
+      "§6§lLEGENDARY ROD PART"
     ],
     "internalname": "TITAN_LINE",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Titan_Line"
