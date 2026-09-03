@@ -9417,10 +9417,7 @@
         "drops": [
           {
             "id": "LOTUS:1",
-            "chance": "100%",
-            "extra": [
-              "§eDrop Count: §7x2-4"
-            ]
+            "chance": "100%"
           },
           {
             "id": "DYE_AQUAMARINE",
@@ -16296,8 +16293,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Chocobun_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_RARE_BIRD;1": {
     "itemid": "minecraft:skull",
@@ -22161,7 +22160,7 @@
           },
           {
             "id": "FLAMING_FIST",
-            "chance": "0.2%"
+            "chance": "0.5%"
           },
           {
             "id": "DYE_CYCLAMEN",
@@ -53830,6 +53829,30 @@
       "https://hypixelskyblock.minecraft.wiki/w/Gabagool_Distillate"
     ]
   },
+  "CRUNCHY_BUG": {
+    "itemid": "minecraft:paper",
+    "displayname": "§9Crunchy Bug",
+    "nbttag": "{ExtraAttributes:{id:\"CRUNCHY_BUG\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_3/crunchy_bug\",display:{Lore:[0:\"§7Drops sometimes from §a Critter\",1:\"§7mobs during the §5Year of the Witch§7!\",2:\"\",3:\"§7Bring to §dAlcina§7 in the §aHub§7 to craft it\",4:\"§7into §dStews§7!\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE\"],Name:\"§9Crunchy Bug\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Drops sometimes from §a Critter",
+      "§7mobs during the §5Year of the Witch§7!",
+      "",
+      "§7Bring to §dAlcina§7 in the §aHub§7 to craft it",
+      "§7into §dStews§7!",
+      "",
+      "§8§l* §8Soulbound §8§l*",
+      "§9§lRARE"
+    ],
+    "internalname": "CRUNCHY_BUG",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0+mc26.1.2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Crunchy_Bug"
+    ]
+  },
   "CRUXMOTION": {
     "itemid": "minecraft:skull",
     "displayname": "§5Cruxmotion",
@@ -63470,7 +63493,7 @@
         "type": "drops",
         "drops": [
           {
-            "id": "LOTUS:1",
+            "id": "LOTUS:32",
             "chance": "100%",
             "extra": [
               "§eDrop Count: §7x2-4"
@@ -63485,7 +63508,7 @@
           },
           {
             "id": "LOTUS_SILVER:1",
-            "chance": "2.5%"
+            "chance": "20%"
           },
           {
             "id": "ENCHANTED_GOLD_BLOCK:1",
@@ -68187,7 +68210,9 @@
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Elle%27s_Lava_Rod"
+    ]
   },
   "ELLES_PICKAXE": {
     "itemid": "minecraft:iron_pickaxe",
@@ -68208,7 +68233,9 @@
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Elle%27s_Pickaxe"
+    ]
   },
   "ELLE_NPC": {
     "itemid": "minecraft:skull",
@@ -82817,13 +82844,13 @@
   "FEAST;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{feast:1},id:\"FEAST;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Feast I\",3:\"§7Grants §e+2☀ Overbloom§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Grand Bakery\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFarming Tool\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{feast:1},id:\"FEAST;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Feast I\",3:\"§7Grants §e+2 Overbloom§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Grand Bakery\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFarming Tool\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Feast I",
-      "§7Grants §e+2☀ Overbloom§7.",
+      "§7Grants §e+2 Overbloom§7.",
       "",
       "§6Source:",
       "§aI: §7Grand Bakery",
@@ -82837,7 +82864,7 @@
     "internalname": "FEAST;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+gf6d72409",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Feast"
@@ -82846,13 +82873,13 @@
   "FEAST;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{feast:2},id:\"FEAST;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Feast II\",3:\"§7Grants §e+4☀ Overbloom§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Grand Bakery\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFarming Tool\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{feast:2},id:\"FEAST;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Feast II\",3:\"§7Grants §e+4 Overbloom§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Grand Bakery\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFarming Tool\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Feast II",
-      "§7Grants §e+4☀ Overbloom§7.",
+      "§7Grants §e+4 Overbloom§7.",
       "",
       "§6Source:",
       "§aI: §7Grand Bakery",
@@ -82875,13 +82902,13 @@
   "FEAST;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{feast:3},id:\"FEAST;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Feast III\",3:\"§7Grants §e+6☀ Overbloom§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Grand Bakery\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFarming Tool\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{feast:3},id:\"FEAST;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Feast III\",3:\"§7Grants §e+6 Overbloom§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Grand Bakery\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFarming Tool\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Feast III",
-      "§7Grants §e+6☀ Overbloom§7.",
+      "§7Grants §e+6 Overbloom§7.",
       "",
       "§6Source:",
       "§aI: §7Grand Bakery",
@@ -82904,13 +82931,13 @@
   "FEAST;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{feast:4},id:\"FEAST;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Feast IV\",3:\"§7Grants §e+8☀ Overbloom§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Grand Bakery\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFarming Tool\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{feast:4},id:\"FEAST;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Feast IV\",3:\"§7Grants §e+8 Overbloom§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Grand Bakery\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFarming Tool\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Feast IV",
-      "§7Grants §e+8☀ Overbloom§7.",
+      "§7Grants §e+8 Overbloom§7.",
       "",
       "§6Source:",
       "§aI: §7Grand Bakery",
@@ -82933,13 +82960,13 @@
   "FEAST;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{feast:5},id:\"FEAST;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Feast V\",3:\"§7Grants §e+10☀ Overbloom§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Grand Bakery\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFarming Tool\",11:\"\",12:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{feast:5},id:\"FEAST;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Feast V\",3:\"§7Grants §e+10 Overbloom§7.\",4:\"\",5:\"§6Source:\",6:\"§aI: §7Grand Bakery\",7:\"§aI-V: §7Bazaar\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFarming Tool\",11:\"\",12:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Feast V",
-      "§7Grants §e+10☀ Overbloom§7.",
+      "§7Grants §e+10 Overbloom§7.",
       "",
       "§6Source:",
       "§aI: §7Grand Bakery",
@@ -87467,12 +87494,20 @@
         ],
         "drops": [
           {
+            "id": "SULPHUR:8",
+            "chance": "100%"
+          },
+          {
             "id": "MAGMA_FISH:60",
             "chance": "100%"
           },
           {
             "id": "ENCHANTED_GLOWSTONE_DUST:60",
             "chance": "50%"
+          },
+          {
+            "id": "ENCHANTED_GUNPOWDER:1",
+            "chance": "5%"
           },
           {
             "id": "ENCHANTED_GLOWSTONE:1",
@@ -95118,12 +95153,12 @@
         "type": "drops",
         "drops": [
           {
-            "id": "LOTUS_SILVER:4",
+            "id": "LOTUS_SILVER:8",
             "chance": "100%"
           },
           {
             "id": "LOTUS_GOLD:1",
-            "chance": "2.5%"
+            "chance": "5%"
           },
           {
             "id": "PRINCE_CROWN_JEWEL:1",
@@ -107028,7 +107063,36 @@
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
     "infoType": "",
-    "info": []
+    "info": [],
+    "recipes": [
+      {
+        "level": 65,
+        "coins": 82,
+        "xp": 85,
+        "name": "§cGorf",
+        "render": "Frog",
+        "panorama": "lotus_atoll",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "LOTUS:8",
+            "chance": "100%"
+          },
+          {
+            "id": "LOTUS_SILVER:1",
+            "chance": "5%"
+          },
+          {
+            "id": "REVERSE_REFORGE_STONE_CORE:1",
+            "chance": "1%"
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": "0.00004%"
+          }
+        ]
+      }
+    ]
   },
   "GORF_THE_FISH": {
     "itemid": "minecraft:skull",
@@ -131943,12 +132007,10 @@
   "KRAMPUS_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§5Krampus Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"KRAMPUS_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fff66f74-bce2-3e2d-a267-3010048967d3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"N1JjhalEQt+HPD4G9M+IqPjWFjvF6MqkTRW2ulrNurXKl0ti58cJoOK+EU24UvKQyPu/JFJHyg/u3pfqxJPVFuHEiLit/B9sV4aIyChZST/49aDrcGLj6/5J4nYy1uO1LCILrSv1mtuQJ4Q8PWBQW3PfWKasAfyX34wBN9PP5QpZvilX4kINR/H+2n81r1EsUdKLkMVWZODqdSHtxfisJBWvOmZMkQwOTBu35JO4oGfv7b8o/aj23Us/YcqXerECGVrFn7t4+7iDcKgZwWwIZdbkBAyV1XwOwaVQMwESc7IrAKPs0QWs6wN8ynLmuX0GJlkVw3omQ1W0T155BgFQJQ17hhzkiVgd1dEkwRRUl2ExX1K6cc3nRycC2LRpH1MVT+74Yk8nLLjnKEi+5fciPR0CdXdEMjALaV0MtUhYh7ThWqYqZGtW8w99rD1Lrk+5SgLWN6TGg73tjff5ReZ4EdbizKHdtm4VHysJEY5G4Wj73yXDdgcAkoE22D8KUIT4gXUuAXQ+oy59qBYdEsCTH5HqVNad+bunjVzzg6tEYFpGxyYAzTaVRGWg4lhJ9CO0smR4iGcbr7URzdnaAAnVaOI+cpDNWwlrfbVlvrh9c8r4vXbq5WzuJLpk2rbSBDpJ5vRLpqK847/EyOzL3NH1Clc3Y2rCwpTnrEKrZD+9mu0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwNjQzNDYzODU4NiwKICAicHJvZmlsZUlkIiA6ICJkZTU3MWExMDJjYjg0ODgwOGZlN2M5ZjQ0OTZlY2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWluZXNraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBlZDYxMTA5MzcxZTg2NmI3ZDAwMjVkMjZmOWQ0OGZmZmRiZGZkYTVjODczMWIwZDNjOTNjNTFlMTZlMzM0NCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7Health: §c+72\",3:\"\",4:\"§7Gains §c+1 §7per 50 gifts given by\",5:\"§7wearer.\",6:\"§8Max 500❤\",7:\"\",8:\"§7This item can be used as a minion\",9:\"§7upgrade. Place it in ONE minion and it\",10:\"§7will occasionally generate §cRed Gifts§7!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§5§lEPIC HELMET\"],Name:\"§5Krampus Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"KRAMPUS_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fff66f74-bce2-3e2d-a267-3010048967d3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"N1JjhalEQt+HPD4G9M+IqPjWFjvF6MqkTRW2ulrNurXKl0ti58cJoOK+EU24UvKQyPu/JFJHyg/u3pfqxJPVFuHEiLit/B9sV4aIyChZST/49aDrcGLj6/5J4nYy1uO1LCILrSv1mtuQJ4Q8PWBQW3PfWKasAfyX34wBN9PP5QpZvilX4kINR/H+2n81r1EsUdKLkMVWZODqdSHtxfisJBWvOmZMkQwOTBu35JO4oGfv7b8o/aj23Us/YcqXerECGVrFn7t4+7iDcKgZwWwIZdbkBAyV1XwOwaVQMwESc7IrAKPs0QWs6wN8ynLmuX0GJlkVw3omQ1W0T155BgFQJQ17hhzkiVgd1dEkwRRUl2ExX1K6cc3nRycC2LRpH1MVT+74Yk8nLLjnKEi+5fciPR0CdXdEMjALaV0MtUhYh7ThWqYqZGtW8w99rD1Lrk+5SgLWN6TGg73tjff5ReZ4EdbizKHdtm4VHysJEY5G4Wj73yXDdgcAkoE22D8KUIT4gXUuAXQ+oy59qBYdEsCTH5HqVNad+bunjVzzg6tEYFpGxyYAzTaVRGWg4lhJ9CO0smR4iGcbr7URzdnaAAnVaOI+cpDNWwlrfbVlvrh9c8r4vXbq5WzuJLpk2rbSBDpJ5vRLpqK847/EyOzL3NH1Clc3Y2rCwpTnrEKrZD+9mu0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwNjQzNDYzODU4NiwKICAicHJvZmlsZUlkIiA6ICJkZTU3MWExMDJjYjg0ODgwOGZlN2M5ZjQ0OTZlY2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWluZXNraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBlZDYxMTA5MzcxZTg2NmI3ZDAwMjVkMjZmOWQ0OGZmZmRiZGZkYTVjODczMWIwZDNjOTNjNTFlMTZlMzM0NCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7Gains §c+1 §7per 50 gifts given by\",3:\"§7wearer.\",4:\"§8Max 500❤\",5:\"\",6:\"§7This item can be used as a minion\",7:\"§7upgrade. Place it in ONE minion and it\",8:\"§7will occasionally generate §cRed Gifts§7!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC HELMET\"],Name:\"§5Krampus Helmet\"}}",
     "damage": 3,
     "lore": [
       "§8Minion Upgrade",
-      "",
-      "§7Health: §c+72",
       "",
       "§7Gains §c+1 §7per 50 gifts given by",
       "§7wearer.",
@@ -131964,7 +132026,7 @@
     "internalname": "KRAMPUS_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Krampus_Helmet"
@@ -132832,8 +132894,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.0.1+mc1.21.11",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Open_Shop"
+    ]
   },
   "KUUDRA_SKULL_PORTAL": {
     "itemid": "minecraft:skull",
@@ -140681,14 +140745,11 @@
         "drops": [
           {
             "id": "LOTUS:1",
-            "chance": "100%",
-            "extra": [
-              "§eDrop Count: §7x2-4"
-            ]
+            "chance": "100%"
           },
           {
             "id": "FROGCOIN:1",
-            "chance": "1%"
+            "chance": "5%"
           },
           {
             "id": "DYE_AQUAMARINE",
@@ -199590,7 +199651,7 @@
           },
           {
             "id": "LOTUS_GOLD:1",
-            "chance": "0.5%"
+            "chance": "1%"
           },
           {
             "id": "DYE_AQUAMARINE:1",
@@ -213840,7 +213901,7 @@
   "ROSE_DRAGON;4": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §6Rose Dragon",
-    "nbttag": "{ExtraAttributes:{id:\"ROSE_DRAGON;4\",petInfo:\"{\\\"type\\\":\\\"ROSE_DRAGON\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"4b482a30-dfad-3e78-bc06-59712b56cfee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"YMC2mEmbDszjIkvFvZfL0vF+EL61jaglv5R1tImpcbKUfDASdEamiwGl/bUJhdHvPE3nMr5PT9uFF88yfLwNddgFzRH+65eAJx7HecL+SsGoHQ0Af2kchljY7NgTki0NAnXt9aVTuVwH0GARHYoIDKXwSzx6Gego7PUkqNPbR/SEqecFc9lSNWxO7xruP+wRqb2l4vkN0ixm3CSajUODc/y37Y7e6K6eXIJVU1Ffu55STbkL7maOuCWG8FeqUxTE4hJ807qN2D3LJ65+42m29rBE67krGW3wCjIXk5x9XlhXwf5dz6sCNOjoIwKI5/y2YqMDxHQvnWZTGmnmT1lWe8h7w2/HHCw1uIsHpe53+/SugXcpjgf3lqhFvsF3CzbUci1wub/mhnByX2bE3PVn7HYCm1se1n1XOjUmaqXiCLx2KmPqjLyZ1fPm75Wll1OUVUgeoMxq7JUGSN2BjLcI9TCGO+DowjoafGlkig8//YykCuaIKZ/mU+fjs2btzWMoa0KRq5A/abwGBth2ZlciDQgXPlQMQDaCjm5hzYOi5q7WZ3sfk8/0z1BLD8C9bXHa9j+UTt8pEAFhzR2LmDk9frTi8vVvcDz8ehxrUcA9vH+4K4qUUltH5BWmhCu26OtOJxTAoLcNkezeRY0qx1CuACCEqDuCUdTMidFmGSJDxF4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MTE3MzAyMjM0NywKICAicHJvZmlsZUlkIiA6ICJjOWI3OWY2OGEyZGY0YjA1ODUwOWRlMzg5YjM5ZDUyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3cmVlcGVyX2Jvb3AiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI3YzNkZTA3NWEyYmIyMzhlZjUxNDMxMjA2YjEwZDU4NmNiMmE1YjFjYzQxZmU4NTFjYzVmMGIwMmQzNTdjNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Farming Pet\",1:\"\",2:\"§7Speed: §f+{SPEED}\",3:\"§7Farming Fortune: §6+{FARMING_FORTUNE}\",4:\"\",5:\"§6Garden Power\",6:\"§7Grants §6+{0}☘ Farming Fortune §7per\",7:\"§aFarming §7level.\",8:\"\",9:\"§6Rosy Scales\",10:\"§7Grants §6+{1}☘ Farming Fortune §7and\",11:\"§f+{2}✦ Speed §7per Crop Milestone.\",12:\"\",13:\"§6Dragon's Gluttony\",14:\"§7Grants §e+{3}☀ Overbloom§7.\",15:\"\",16:\"§6Spiritual Perfection\",17:\"§7Gain §a{4}% §7more §cCopper §7from §aGarden\",18:\"§aVisitors §7and from analyzing §cMutations§7.\",19:\"\",20:\"§6Symbiosis\",21:\"§7If you own a level §a200 Rose Dragon§7,\",22:\"§7grants §6+3☘ Farming Fortune §7for\",23:\"§7every other unique maxed §aFarming\",24:\"§aPet §7that you own.\",25:\"\",26:\"§eRight-click to add this pet to your pet menu!\",27:\"\",28:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Rose Dragon\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ROSE_DRAGON;4\",petInfo:\"{\\\"type\\\":\\\"ROSE_DRAGON\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"4b482a30-dfad-3e78-bc06-59712b56cfee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"YMC2mEmbDszjIkvFvZfL0vF+EL61jaglv5R1tImpcbKUfDASdEamiwGl/bUJhdHvPE3nMr5PT9uFF88yfLwNddgFzRH+65eAJx7HecL+SsGoHQ0Af2kchljY7NgTki0NAnXt9aVTuVwH0GARHYoIDKXwSzx6Gego7PUkqNPbR/SEqecFc9lSNWxO7xruP+wRqb2l4vkN0ixm3CSajUODc/y37Y7e6K6eXIJVU1Ffu55STbkL7maOuCWG8FeqUxTE4hJ807qN2D3LJ65+42m29rBE67krGW3wCjIXk5x9XlhXwf5dz6sCNOjoIwKI5/y2YqMDxHQvnWZTGmnmT1lWe8h7w2/HHCw1uIsHpe53+/SugXcpjgf3lqhFvsF3CzbUci1wub/mhnByX2bE3PVn7HYCm1se1n1XOjUmaqXiCLx2KmPqjLyZ1fPm75Wll1OUVUgeoMxq7JUGSN2BjLcI9TCGO+DowjoafGlkig8//YykCuaIKZ/mU+fjs2btzWMoa0KRq5A/abwGBth2ZlciDQgXPlQMQDaCjm5hzYOi5q7WZ3sfk8/0z1BLD8C9bXHa9j+UTt8pEAFhzR2LmDk9frTi8vVvcDz8ehxrUcA9vH+4K4qUUltH5BWmhCu26OtOJxTAoLcNkezeRY0qx1CuACCEqDuCUdTMidFmGSJDxF4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2MTE3MzAyMjM0NywKICAicHJvZmlsZUlkIiA6ICJjOWI3OWY2OGEyZGY0YjA1ODUwOWRlMzg5YjM5ZDUyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3cmVlcGVyX2Jvb3AiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWI3YzNkZTA3NWEyYmIyMzhlZjUxNDMxMjA2YjEwZDU4NmNiMmE1YjFjYzQxZmU4NTFjYzVmMGIwMmQzNTdjNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Farming Pet\",1:\"\",2:\"§7Speed: §f+{SPEED}\",3:\"§7Farming Fortune: §6+{FARMING_FORTUNE}\",4:\"\",5:\"§6Garden Power\",6:\"§7Grants §6+{0} Farming Fortune §7per\",7:\"§aFarming §7level.\",8:\"\",9:\"§6Rosy Scales\",10:\"§7Grants §6+{1} Farming Fortune §7and\",11:\"§f+{2} Speed §7per Crop Milestone.\",12:\"\",13:\"§6Dragon's Gluttony\",14:\"§7Grants §e+{3} Overbloom§7.\",15:\"\",16:\"§6Spiritual Perfection\",17:\"§7Gain §a{4}% §7more §cCopper §7from §aGarden\",18:\"§aVisitors §7and from analyzing §cMutations§7.\",19:\"\",20:\"§6Symbiosis\",21:\"§7If you own a level §a200 Rose Dragon§7,\",22:\"§7grants §6+3 Farming Fortune §7for\",23:\"§7every other unique maxed §aFarming\",24:\"§aPet §7that you own.\",25:\"\",26:\"§eRight-click to add this pet to your pet menu!\",27:\"\",28:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Rose Dragon\"}}",
     "damage": 3,
     "lore": [
       "§8Farming Pet",
@@ -213849,15 +213910,15 @@
       "§7Farming Fortune: §6+{FARMING_FORTUNE}",
       "",
       "§6Garden Power",
-      "§7Grants §6+{0}☘ Farming Fortune §7per",
+      "§7Grants §6+{0} Farming Fortune §7per",
       "§aFarming §7level.",
       "",
       "§6Rosy Scales",
-      "§7Grants §6+{1}☘ Farming Fortune §7and",
-      "§f+{2}✦ Speed §7per Crop Milestone.",
+      "§7Grants §6+{1} Farming Fortune §7and",
+      "§f+{2} Speed §7per Crop Milestone.",
       "",
       "§6Dragon's Gluttony",
-      "§7Grants §e+{3}☀ Overbloom§7.",
+      "§7Grants §e+{3} Overbloom§7.",
       "",
       "§6Spiritual Perfection",
       "§7Gain §a{4}% §7more §cCopper §7from §aGarden",
@@ -213865,7 +213926,7 @@
       "",
       "§6Symbiosis",
       "§7If you own a level §a200 Rose Dragon§7,",
-      "§7grants §6+3☘ Farming Fortune §7for",
+      "§7grants §6+3 Farming Fortune §7for",
       "§7every other unique maxed §aFarming",
       "§aPet §7that you own.",
       "",
@@ -213876,7 +213937,7 @@
     "internalname": "ROSE_DRAGON;4",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+gcd885b38",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rose_Dragon_Pet"
@@ -224786,7 +224847,7 @@
   "SILK_EDGE_SWORD": {
     "itemid": "minecraft:golden_sword",
     "displayname": "§6Silk-Edge Sword",
-    "nbttag": "{ExtraAttributes:{id:\"SILK_EDGE_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/silk_edge_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+175\",1:\"§7Strength: §c+125\",2:\"§7Crit Damage: §9+25%\",3:\"\",4:\"§6Ability: Leap  §e§lRIGHT CLICK\",5:\"§7Leap into the air and deal §c406§7 damage to\",6:\"§7nearby enemies upon landing on the ground.\",7:\"§7Damaged enemies will also be frozen for §a1\",8:\"§7second.\",9:\"§8Mana Cost: §b50\",10:\"§8Cooldown: §a1s\",11:\"\",12:\"§8This item can be reforged!\",13:\"§6§lLEGENDARY SWORD\"],Name:\"§6Silk-Edge Sword\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SILK_EDGE_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/silk_edge_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+175\",1:\"§7Strength: §c+125\",2:\"§7Crit Damage: §9+25%\",3:\"\",4:\"§6Ability: Leap  §e§lRIGHT CLICK\",5:\"§7Leap into the air and deal §c400§7 damage to\",6:\"§7nearby enemies upon landing on the ground.\",7:\"§7Damaged enemies will also be frozen for §a1\",8:\"§7second.\",9:\"§8Mana Cost: §b50\",10:\"§8Cooldown: §a1s\",11:\"\",12:\"§8This item can be reforged!\",13:\"§6§lLEGENDARY SWORD\"],Name:\"§6Silk-Edge Sword\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+175",
@@ -224794,7 +224855,7 @@
       "§7Crit Damage: §9+25%",
       "",
       "§6Ability: Leap  §e§lRIGHT CLICK",
-      "§7Leap into the air and deal §c406§7 damage to",
+      "§7Leap into the air and deal §c400§7 damage to",
       "§7nearby enemies upon landing on the ground.",
       "§7Damaged enemies will also be frozen for §a1",
       "§7second.",
@@ -224807,7 +224868,7 @@
     "internalname": "SILK_EDGE_SWORD",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Silk-Edge_Sword"
@@ -229032,6 +229093,10 @@
           {
             "id": "AXE_FADING_WHITE_RUNE;1",
             "chance": "0.05%"
+          },
+          {
+            "id": "DYE_MANGO:1",
+            "chance": "0.0001%"
           }
         ]
       }
@@ -229231,6 +229296,10 @@
           {
             "id": "AXE_FADING_BLUE_RUNE;1:1",
             "chance": "0.02%"
+          },
+          {
+            "id": "DYE_MANGO:1",
+            "chance": "0.001%"
           }
         ]
       }
@@ -229359,6 +229428,10 @@
           {
             "id": "AXE_FADING_GREEN_RUNE;1:1",
             "chance": "0.02%"
+          },
+          {
+            "id": "DYE_MANGO:1",
+            "chance": "0.0002%"
           }
         ]
       }
@@ -234135,6 +234208,10 @@
           {
             "id": "SULPHUR",
             "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_GUNPOWDER:1",
+            "chance": "0.5%"
           },
           {
             "id": "PET_ITEM_EXP_SHARE_DROP",
@@ -268883,7 +268960,7 @@
   "ULTIMATE_CROP_FEVER;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_crop_fever:1},id:\"ULTIMATE_CROP_FEVER;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lCrop Fever I\",3:\"§7When breaking crops, there is a\",4:\"§a0.001% §7chance to trigger §d§lCrop\",5:\"§d§lFever §7for §a60s §7which grants:\",6:\"§8- §7Additional crop rolls\",7:\"§8- §e+15☀ Overbloom\",8:\"§8- §6+100☘ Farming Fortune\",9:\"\",10:\"§cYou can only have 1 Ultimate\",11:\"§cEnchantment on an item!\",12:\"\",13:\"§6Source:\",14:\"§aI-V: §7Moonflower Collection\",15:\"\",16:\"§6Applied To:\",17:\"§7- §fFarming Tool\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_crop_fever:1},id:\"ULTIMATE_CROP_FEVER;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lCrop Fever I\",3:\"§7When breaking crops, there is a\",4:\"§a0.001% §7chance to trigger §d§lCrop\",5:\"§d§lFever §7for §a60s §7which grants:\",6:\"§8- §7Additional crop rolls\",7:\"§8- §e+15 Overbloom\",8:\"§8- §6+100☘ Farming Fortune\",9:\"\",10:\"§cYou can only have 1 Ultimate\",11:\"§cEnchantment on an item!\",12:\"\",13:\"§6Source:\",14:\"§aI-V: §7Moonflower Collection\",15:\"\",16:\"§6Applied To:\",17:\"§7- §fFarming Tool\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -268893,7 +268970,7 @@
       "§a0.001% §7chance to trigger §d§lCrop",
       "§d§lFever §7for §a60s §7which grants:",
       "§8- §7Additional crop rolls",
-      "§8- §e+15☀ Overbloom",
+      "§8- §e+15 Overbloom",
       "§8- §6+100☘ Farming Fortune",
       "",
       "§cYou can only have 1 Ultimate",
@@ -268930,7 +269007,7 @@
   "ULTIMATE_CROP_FEVER;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_crop_fever:2},id:\"ULTIMATE_CROP_FEVER;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lCrop Fever II\",3:\"§7When breaking crops, there is a\",4:\"§a0.002% §7chance to trigger §d§lCrop\",5:\"§d§lFever §7for §a60s §7which grants:\",6:\"§8- §7Additional crop rolls\",7:\"§8- §e+15☀ Overbloom\",8:\"§8- §6+100☘ Farming Fortune\",9:\"\",10:\"§cYou can only have 1 Ultimate\",11:\"§cEnchantment on an item!\",12:\"\",13:\"§6Source:\",14:\"§aI-V: §7Moonflower Collection\",15:\"\",16:\"§6Applied To:\",17:\"§7- §fFarming Tool\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_crop_fever:2},id:\"ULTIMATE_CROP_FEVER;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lCrop Fever II\",3:\"§7When breaking crops, there is a\",4:\"§a0.002% §7chance to trigger §d§lCrop\",5:\"§d§lFever §7for §a60s §7which grants:\",6:\"§8- §7Additional crop rolls\",7:\"§8- §e+15 Overbloom\",8:\"§8- §6+100☘ Farming Fortune\",9:\"\",10:\"§cYou can only have 1 Ultimate\",11:\"§cEnchantment on an item!\",12:\"\",13:\"§6Source:\",14:\"§aI-V: §7Moonflower Collection\",15:\"\",16:\"§6Applied To:\",17:\"§7- §fFarming Tool\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -268940,7 +269017,7 @@
       "§a0.002% §7chance to trigger §d§lCrop",
       "§d§lFever §7for §a60s §7which grants:",
       "§8- §7Additional crop rolls",
-      "§8- §e+15☀ Overbloom",
+      "§8- §e+15 Overbloom",
       "§8- §6+100☘ Farming Fortune",
       "",
       "§cYou can only have 1 Ultimate",
@@ -268966,7 +269043,7 @@
   "ULTIMATE_CROP_FEVER;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_crop_fever:3},id:\"ULTIMATE_CROP_FEVER;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lCrop Fever III\",3:\"§7When breaking crops, there is a\",4:\"§a0.003% §7chance to trigger §d§lCrop\",5:\"§d§lFever §7for §a60s §7which grants:\",6:\"§8- §7Additional crop rolls\",7:\"§8- §e+15☀ Overbloom\",8:\"§8- §6+100☘ Farming Fortune\",9:\"\",10:\"§cYou can only have 1 Ultimate\",11:\"§cEnchantment on an item!\",12:\"\",13:\"§6Source:\",14:\"§aI-V: §7Moonflower Collection\",15:\"\",16:\"§6Applied To:\",17:\"§7- §fFarming Tool\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_crop_fever:3},id:\"ULTIMATE_CROP_FEVER;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lCrop Fever III\",3:\"§7When breaking crops, there is a\",4:\"§a0.003% §7chance to trigger §d§lCrop\",5:\"§d§lFever §7for §a60s §7which grants:\",6:\"§8- §7Additional crop rolls\",7:\"§8- §e+15 Overbloom\",8:\"§8- §6+100☘ Farming Fortune\",9:\"\",10:\"§cYou can only have 1 Ultimate\",11:\"§cEnchantment on an item!\",12:\"\",13:\"§6Source:\",14:\"§aI-V: §7Moonflower Collection\",15:\"\",16:\"§6Applied To:\",17:\"§7- §fFarming Tool\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -268976,7 +269053,7 @@
       "§a0.003% §7chance to trigger §d§lCrop",
       "§d§lFever §7for §a60s §7which grants:",
       "§8- §7Additional crop rolls",
-      "§8- §e+15☀ Overbloom",
+      "§8- §e+15 Overbloom",
       "§8- §6+100☘ Farming Fortune",
       "",
       "§cYou can only have 1 Ultimate",
@@ -269002,7 +269079,7 @@
   "ULTIMATE_CROP_FEVER;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_crop_fever:4},id:\"ULTIMATE_CROP_FEVER;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lCrop Fever IV\",3:\"§7When breaking crops, there is a\",4:\"§a0.004% §7chance to trigger §d§lCrop\",5:\"§d§lFever §7for §a60s §7which grants:\",6:\"§8- §7Additional crop rolls\",7:\"§8- §e+15☀ Overbloom\",8:\"§8- §6+100☘ Farming Fortune\",9:\"\",10:\"§cYou can only have 1 Ultimate\",11:\"§cEnchantment on an item!\",12:\"\",13:\"§6Source:\",14:\"§aI-V: §7Moonflower Collection\",15:\"\",16:\"§6Applied To:\",17:\"§7- §fFarming Tool\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_crop_fever:4},id:\"ULTIMATE_CROP_FEVER;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lCrop Fever IV\",3:\"§7When breaking crops, there is a\",4:\"§a0.004% §7chance to trigger §d§lCrop\",5:\"§d§lFever §7for §a60s §7which grants:\",6:\"§8- §7Additional crop rolls\",7:\"§8- §e+15 Overbloom\",8:\"§8- §6+100☘ Farming Fortune\",9:\"\",10:\"§cYou can only have 1 Ultimate\",11:\"§cEnchantment on an item!\",12:\"\",13:\"§6Source:\",14:\"§aI-V: §7Moonflower Collection\",15:\"\",16:\"§6Applied To:\",17:\"§7- §fFarming Tool\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -269012,7 +269089,7 @@
       "§a0.004% §7chance to trigger §d§lCrop",
       "§d§lFever §7for §a60s §7which grants:",
       "§8- §7Additional crop rolls",
-      "§8- §e+15☀ Overbloom",
+      "§8- §e+15 Overbloom",
       "§8- §6+100☘ Farming Fortune",
       "",
       "§cYou can only have 1 Ultimate",
@@ -269038,7 +269115,7 @@
   "ULTIMATE_CROP_FEVER;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_crop_fever:5},id:\"ULTIMATE_CROP_FEVER;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lCrop Fever V\",3:\"§7When breaking crops, there is a\",4:\"§a0.005% §7chance to trigger §d§lCrop\",5:\"§d§lFever §7for §a60s §7which grants:\",6:\"§8- §7Additional crop rolls\",7:\"§8- §e+15☀ Overbloom\",8:\"§8- §6+100☘ Farming Fortune\",9:\"\",10:\"§cYou can only have 1 Ultimate\",11:\"§cEnchantment on an item!\",12:\"\",13:\"§6Source:\",14:\"§aI-V: §7Moonflower Collection\",15:\"\",16:\"§6Applied To:\",17:\"§7- §fFarming Tool\",18:\"\",19:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_crop_fever:5},id:\"ULTIMATE_CROP_FEVER;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lCrop Fever V\",3:\"§7When breaking crops, there is a\",4:\"§a0.005% §7chance to trigger §d§lCrop\",5:\"§d§lFever §7for §a60s §7which grants:\",6:\"§8- §7Additional crop rolls\",7:\"§8- §e+15 Overbloom\",8:\"§8- §6+100☘ Farming Fortune\",9:\"\",10:\"§cYou can only have 1 Ultimate\",11:\"§cEnchantment on an item!\",12:\"\",13:\"§6Source:\",14:\"§aI-V: §7Moonflower Collection\",15:\"\",16:\"§6Applied To:\",17:\"§7- §fFarming Tool\",18:\"\",19:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -269048,7 +269125,7 @@
       "§a0.005% §7chance to trigger §d§lCrop",
       "§d§lFever §7for §a60s §7which grants:",
       "§8- §7Additional crop rolls",
-      "§8- §e+15☀ Overbloom",
+      "§8- §e+15 Overbloom",
       "§8- §6+100☘ Farming Fortune",
       "",
       "§cYou can only have 1 Ultimate",
@@ -271565,13 +271642,13 @@
   "ULTIMATE_SUNSET;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_sunset:1},id:\"ULTIMATE_SUNSET;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lSunset I\",3:\"§7During the day, §e+1☀ Overbloom§7.\",4:\"§7During the night, §b-1% Visitor Cooldown.\",5:\"\",6:\"§cYou can only have 1 Ultimate\",7:\"§cEnchantment on an item!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Lunar Moth Pest\",11:\"§aI-V: §7Bazaar\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_sunset:1},id:\"ULTIMATE_SUNSET;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lSunset I\",3:\"§7During the day, §e+1 Overbloom§7.\",4:\"§7During the night, §b-1% Visitor Cooldown.\",5:\"\",6:\"§cYou can only have 1 Ultimate\",7:\"§cEnchantment on an item!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Lunar Moth Pest\",11:\"§aI-V: §7Bazaar\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§d§lSunset I",
-      "§7During the day, §e+1☀ Overbloom§7.",
+      "§7During the day, §e+1 Overbloom§7.",
       "§7During the night, §b-1% Visitor Cooldown.",
       "",
       "§cYou can only have 1 Ultimate",
@@ -271598,13 +271675,13 @@
   "ULTIMATE_SUNSET;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_sunset:2},id:\"ULTIMATE_SUNSET;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lSunset II\",3:\"§7During the day, §e+2☀ Overbloom§7.\",4:\"§7During the night, §b-2% Visitor Cooldown.\",5:\"\",6:\"§cYou can only have 1 Ultimate\",7:\"§cEnchantment on an item!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Lunar Moth Pest\",11:\"§aI-V: §7Bazaar\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_sunset:2},id:\"ULTIMATE_SUNSET;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lSunset II\",3:\"§7During the day, §e+2 Overbloom§7.\",4:\"§7During the night, §b-2% Visitor Cooldown.\",5:\"\",6:\"§cYou can only have 1 Ultimate\",7:\"§cEnchantment on an item!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Lunar Moth Pest\",11:\"§aI-V: §7Bazaar\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§d§lSunset II",
-      "§7During the day, §e+2☀ Overbloom§7.",
+      "§7During the day, §e+2 Overbloom§7.",
       "§7During the night, §b-2% Visitor Cooldown.",
       "",
       "§cYou can only have 1 Ultimate",
@@ -271631,13 +271708,13 @@
   "ULTIMATE_SUNSET;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_sunset:3},id:\"ULTIMATE_SUNSET;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lSunset III\",3:\"§7During the day, §e+3☀ Overbloom§7.\",4:\"§7During the night, §b-3% Visitor Cooldown.\",5:\"\",6:\"§cYou can only have 1 Ultimate\",7:\"§cEnchantment on an item!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Lunar Moth Pest\",11:\"§aI-V: §7Bazaar\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_sunset:3},id:\"ULTIMATE_SUNSET;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lSunset III\",3:\"§7During the day, §e+3 Overbloom§7.\",4:\"§7During the night, §b-3% Visitor Cooldown.\",5:\"\",6:\"§cYou can only have 1 Ultimate\",7:\"§cEnchantment on an item!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Lunar Moth Pest\",11:\"§aI-V: §7Bazaar\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§d§lSunset III",
-      "§7During the day, §e+3☀ Overbloom§7.",
+      "§7During the day, §e+3 Overbloom§7.",
       "§7During the night, §b-3% Visitor Cooldown.",
       "",
       "§cYou can only have 1 Ultimate",
@@ -271664,13 +271741,13 @@
   "ULTIMATE_SUNSET;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_sunset:4},id:\"ULTIMATE_SUNSET;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lSunset IV\",3:\"§7During the day, §e+4☀ Overbloom§7.\",4:\"§7During the night, §b-4% Visitor Cooldown.\",5:\"\",6:\"§cYou can only have 1 Ultimate\",7:\"§cEnchantment on an item!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Lunar Moth Pest\",11:\"§aI-V: §7Bazaar\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_sunset:4},id:\"ULTIMATE_SUNSET;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lSunset IV\",3:\"§7During the day, §e+4 Overbloom§7.\",4:\"§7During the night, §b-4% Visitor Cooldown.\",5:\"\",6:\"§cYou can only have 1 Ultimate\",7:\"§cEnchantment on an item!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Lunar Moth Pest\",11:\"§aI-V: §7Bazaar\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§d§lSunset IV",
-      "§7During the day, §e+4☀ Overbloom§7.",
+      "§7During the day, §e+4 Overbloom§7.",
       "§7During the night, §b-4% Visitor Cooldown.",
       "",
       "§cYou can only have 1 Ultimate",
@@ -271697,13 +271774,13 @@
   "ULTIMATE_SUNSET;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_sunset:5},id:\"ULTIMATE_SUNSET;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lSunset V\",3:\"§7During the day, §e+5☀ Overbloom§7.\",4:\"§7During the night, §b-5% Visitor Cooldown.\",5:\"\",6:\"§cYou can only have 1 Ultimate\",7:\"§cEnchantment on an item!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Lunar Moth Pest\",11:\"§aI-V: §7Bazaar\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{ultimate_sunset:5},id:\"ULTIMATE_SUNSET;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§d§lSunset V\",3:\"§7During the day, §e+5 Overbloom§7.\",4:\"§7During the night, §b-5% Visitor Cooldown.\",5:\"\",6:\"§cYou can only have 1 Ultimate\",7:\"§cEnchantment on an item!\",8:\"\",9:\"§6Source:\",10:\"§aI: §6Lunar Moth Pest\",11:\"§aI-V: §7Bazaar\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fArmor\",15:\"\",16:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§d§lSunset V",
-      "§7During the day, §e+5☀ Overbloom§7.",
+      "§7During the day, §e+5 Overbloom§7.",
       "§7During the night, §b-5% Visitor Cooldown.",
       "",
       "§cYou can only have 1 Ultimate",
