@@ -27402,6 +27402,33 @@
       "https://hypixelskyblock.minecraft.wiki/w/Biohazard_Boots"
     ]
   },
+  "BIOHAZARD_CONTROL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Hazard Control Skin",
+    "nbttag": "{ExtraAttributes:{id:\"BIOHAZARD_CONTROL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e1ade25d-1b63-353e-b1bf-2a543f56a01e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"hoNGrIKKbLjH/lwM90wPa6+aqlsvHb79lrhPX1YEo8MBTBtFR+sZ6vt6lfZAqiKWuVPr/Fg8ok+tYUM3uris7WwIh/Esb+BbDiACAXYFMVg0whFRIRfA7YWa5Q9bmtFRk0WBHsotJLBK6gwWZko3qdoi+4CXg60olfgJsG6aXSFBMJlc+nHsqgHd3wvTWeDSVztoZGN+EtaAzbednohXEqnMIMrzfj7y5Az7AofFWdzix0WRRoR37rKcUD1oIQ5MtOAaTx0m80LSesxgGVbTzfr1YIdNKweKSPoYHN4ehb79AXaxGupUH/c9oRPnpQjwwsdJ9n8zRodfqgdnxNAVQX8AKH31lkDYGzafCM7S5PGKWLz+2LNLwFFDUNQCfGt8sQl+UZDfRf1EKL+nBTF8+SVuO8AhY3ZGJkGelDFauBxdESIsxGHEF0N5QLPyIN0uRyRXF/88QZ6PWv+Z1+wCNVGAebguJYmDz4RU6jk3qwlY1wxyc4zhpEN0Ax+hzSeZjrTmWwXIOlloJgUP3rBqFeoGD5HVNNK0l14zLIA15kd7rnDLYLnJ/A9UesZkWuA4geMmMpjlv1kKT1mLQF4CdRTx7OxwIm+sL3KsdF6ll4fa49RPMqunAeq3q240Blliey1xTYYGMUCMDMtNPkEdjKtHh1m6LrJcN8YYFsG9UtY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODMyMzg3NjY4MywKICAicHJvZmlsZUlkIiA6ICI2M2VkZjY1ZDcxNmE0NGZmYmUzOWU5MWVkMmNiMjM3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2aWxlX3NsYXZlbWFzdGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EzZTg0N2JmMWJhYzcwNDRjZGIzNmQwZTczMDEwMjcwNjNmYzk5ZDc1MDE2NmFhMTJmYzNmMTUxYWNhYWMyOTUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §aBiohazard\",7:\"§aHelmet§7.\",8:\"\",9:\"§aThis skin is swappable between 21\",10:\"§ahazard control variants!\",11:\"\",12:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Hazard Control Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §aBiohazard",
+      "§aHelmet§7.",
+      "",
+      "§aThis skin is swappable between 21",
+      "§ahazard control variants!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "BIOHAZARD_CONTROL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+    "infoType": "",
+    "info": []
+  },
   "BIOHAZARD_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§aBiohazard Helmet",
@@ -46285,14 +46312,13 @@
   "CHUM_ROD": {
     "itemid": "minecraft:fishing_rod",
     "displayname": "§9Chum Rod",
-    "nbttag": "{ExtraAttributes:{id:\"CHUM_ROD\"},HideFlags:254,ItemModel:\"minecraft:fishing_rod\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+55\",1:\"§7Strength: §c+40\",2:\"§7Fishing Speed: §b+70\",3:\"§7Sea Creature Chance: §3+2%\",4:\"§7Gemstones: §8[§7⚔§8 []\",5:\"\",6:\"§cThis rod is broken and cannot be\",7:\"§cused to fish.\",8:\"\",9:\"§7Bring it to §2Roddy §7in the §2Backwater\",10:\"§2Bayou §7to convert it into a §anew rod§7!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §aFishing Skill 5§c.\",14:\"§9§lRARE FISHING ROD\"],Name:\"§9Chum Rod\",color:10511680}}",
+    "nbttag": "{ExtraAttributes:{id:\"CHUM_ROD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod/broken_rod\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+55\",1:\"§7Strength: §c+40\",2:\"§7Fishing Speed: §b+70\",3:\"§7Sea Creature Chance: §3+2%\",4:\"\",5:\"§cThis rod is broken and cannot be\",6:\"§cused to fish.\",7:\"\",8:\"§7Bring it to §2Roddy §7in the §2Backwater\",9:\"§2Bayou §7to convert it into a §anew rod§7!\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aFishing Skill 5§c.\",13:\"§9§lRARE FISHING ROD\"],Name:\"§9Chum Rod\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+55",
       "§7Strength: §c+40",
       "§7Fishing Speed: §b+70",
       "§7Sea Creature Chance: §3+2%",
-      "§7Gemstones: §8[§7⚔§8 []",
       "",
       "§cThis rod is broken and cannot be",
       "§cused to fish.",
@@ -46307,7 +46333,7 @@
     "internalname": "CHUM_ROD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Chum_Rod"
@@ -81068,6 +81094,1502 @@
     ],
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ezekiel"
+    ]
+  },
+  "FACTION_RABBIT_ALLEY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fAlley",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"alley\",id:\"FACTION_RABBIT_ALLEY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bfb2932a-d9b7-352c-97f8-bcc731d318c8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"kFW5iC6rPCxKxSWgrAwg7OWSHeVCo108KWCxrluxB/whEiuTXPeKQshIxAckgDqOLu2falonyro3kCnQWL57WX/AaIZC3XdwFoMqZUCeSxC7L2F9Rn1SvpxTOp6RMQbemAAMMDdlowNtF47NrL2b5/cKoBlSKurJLsGtXQda+kLGkNz5V0Zu9fh+4wbZT9uJYmuC4gWRubwGX4GUXBKnGCr5ZeBS42UlPm3k559c1QLeCRsPCZM/uMbkbU7j7/NEu8UVwbyDApC3D0jDSNbTCuDWz4Rf9FHwlMfTIqBQwrIuLs5Rck4d8kz8s7Ul/anB9e1jnG4RoXv0dywvcdIkmUobPNdce5hkm9/+E9n5zwsY5X60D4bV1vDrnyq/XJGYWEx+UX5kDDXufYwlmCfQh0GBm99KT7EeCbD3+9iExJS06QOMJhh5IgxYGmGhaL2zwXKrJYXpu1PGP0uznNQ+FBFWAnrhYaWr6+t8Vggr3ytXssT3oYm+HLxZaafeo04sf7wcA/9zZ4c8tMuFKyLa2B4OiPN84pjSKY6Xp1Z+MBa76SJHqWqzweh++LMobG+h6RWS6vo400sDNUnpkBQ3435MkgYVVGN4vLG7x5upPFnBrFKz61046PTQn2qMnh3rmKJfd71A3XB3YyXtT4wx8RXeFVWpP6ZCb5fIpmxfzjc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0MTcwMSwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjc3YjE0NjFhNzUwNzMxZjcxOTFkYjZmZTQ3MTRkN2I1NWY2Nzc3YTRkNjhjY2NkYjc5YzJhMjZlYWFkY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fAlley\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_ALLEY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_ANCHOR": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aAnchor",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"anchor\",id:\"FACTION_RABBIT_ANCHOR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"94d809d7-2d84-308c-a864-c26f273f9350\",Properties:{textures:[0:{Name:\"textures\",Signature:\"e03aG143L7t2iJk+OE2mbLufN8kETR7Tad0ILOQV+v+SeThL4tIb+OEVO2+/qj/gORU82/BPcX2Vkh1dSN8PH1YN7f76ShRS/49gVDNHdG9OXo6l7T3ZKS7Fs7tZNV9OgdW5pGoRNjasLi1AtJI5uK/AT6L/2WzYvHkSrjVXGT/bmTSPAtb4euyoTD4lPiAEq4/vnrA7chTwd/veRy8IUzUz7QRO3vqW/3tWhGsg6suOInXl6AqC6gcu/Sz3LcKxLQXlcvdE6VBCUKLsixNl4XCN1dRu6ZwulbKuMAASI5bpiT8lqDPEcAz+DZvF72WHUh1NaCTUMnB1HEVP5G9dkHC0z1ZuKogl1O+6nZQMq8cTlBD5ZeA1aSFDTk1mLf5HXPcnolIRP5TfNcnjGSLzrtEgpF09MkQsYCLmfN2eyrzh2+i7neEemfTsYrd3CtmMJesOx5XS3dO3kzK5u6UsjaOLbbxOIMhaMiK3Iw1ycvN9u2R346sprQEHd1PMq7gkQrI+MISb/3itAHF+5GVb7kCzhvI4C3hBvM9/5tKUf105Y1lNHf7zrfH8Yj1uV0YaJDBF31HY9oJE/3s8jh6U5ZOXScX5yRxuOaKCz2FYLwoSjaNpDfnBG4ESkBcGihE/vGDe0bvgE2lneDkkq59D8MMUYP2qh8sTsaE+fTnPPKU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQyNDgzNiwKICAicHJvZmlsZUlkIiA6ICI1ODAwZjIzNWQyYjQ0MDc5OTcxZTM3ZDhmNmY0OTc2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW55cmlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2OGZkZTk4MzI5NDZmNmRhOWYzNzQ4NjQwYTlhNzc2MjBiYzQxMzZiNzQ0YTJiMDk3NGNlMjZlYmNhMTg5YWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aAnchor\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_ANCHOR",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_ASTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Aster",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"aster\",id:\"FACTION_RABBIT_ASTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c514f4cf-9482-338e-badf-9c877088962d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JkMe8VAQ6uQ+K77TR8HcOCxq2n8m2W+PZhG3rYSqwyR7NEg1TscqPrc3vYCwZO80otm2I25OCwoW5FZOPj8QfMvXghb5u6pLjlyO7fAYpsPkR64UtuYNjujuQnY93RFweXBvN8+i6ecPQs4TFSQQptSfOXhk6WsJnxZSUrfrgQOmsHYqkxFspfXJl7fEe+8tr0/Safqgta0NXUdH/Xes7WM95ReEeQVrPICbhVrlZLcZUyQDI1WUAs6uYyYdfDWvCXD/oX4h9sAHc78mQ6NfGpBQYwDyuVkL/OCGDFJGFG7uZ3TwDLuuDwvJDku+1EnWC1t9TdN5Yy7l37rjI++JvdKeAITJnu6slbEGHXdo08x2ffYnKjiLSlcnYl8NIPDWV36s+A4HUn6jxVf4Fq1aNNwqR0TEhXSWt2GMRw3hCiTDwXMqUXivEHMfZ3a3Z+BA7EaRtnMp1gKdQcwrTv86Dzb1g8a+Q84BDkZUkugMMty02rppFMpnMlzOpO8DB0Yz3rGZkBmCqmvtTe373igsEFBOGxI7GgJV1KZsJOOerxLGkjcWs8ttbdCYZwHVbl6iuL19/4gVL19iW0jzQcKzPAaAeLcHG1ONQCpk33UeFFaK2lXhQEkG2gN3w4baJQZmYrcaw/zpeo9Kz9LycI9twQCGYVYhtBXJTpxvLCVxMu8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUwODg0NCwKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzYmMzNDhjYTgxNTdhOWI0ZGQ2MGUzMDM3MDE4Njc1NDI5MzY0YjFiMmUxYWZmZjg1MjUyMzVlMWY5M2E1YzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Aster\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_ASTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_AVALANCHE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Avalanche",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"avalanche\",id:\"FACTION_RABBIT_AVALANCHE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0f4de372-ebde-39dd-bfc9-a3778e9ad45c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"B1DCnzyDWmUYf4SwjrghA+bmfej91iOZJRm03BrxlG7tUpgVd8nZSGE57Sxxe5BZD6m1uPNoHHFq6Bu5hecxX1YmxOnchi5Q14dZMx+KqsiOjWQiTkD6eN8mXcDWYlNmoa1F+a0D3UvfNC2I6dw12aV2C6uEqD75o1y/QVbBv8YdRmw1VAyy4nphXvZYPoUrij9u7KVB/gfbPw7anWOnEmUMAnR0sd3WtOx1jF5R2+Vw2r4ZPHfBb4TkpmOtJb9SaoCd5QMs7yeuNQF6WQGJkSqVho5xLH+g//X9jc7RnLC7KqVnGeA3E4t0TwNXKTctKouVr7EIm+9seEZ0RH3TlZnU4rR26hdIkXZDeNMv+hBImnia4PJpUoOozCL0SYUSUBj1kuh6CRe1OwYv0mR6C0J6ZDQ/9PcxMUonQv9KjhPFTTzrAz6K6Z109O9Wx5sZFpE/305b+m3DgO9Y+y9DwlVxOYnbMzgK+hwgDG0UuMyxrw+VWX0usskFzu/FRHMRkWz5X7yUnzGgfXihy422ja09HJOuejjrs4kZvVETiyQdZCXGABWBMdPzJEmN33MdlQ+mvkv8AmxkYP1DNdiSt+9FggRhvdj9HU3sPTfNtzU2hmtJg42GYXnMgpDVjowN7LphysSrDfKaB10Ch+iFJ9Wq051zNuppdLt/0lAUw8c=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYxMTg2NSwKICAicHJvZmlsZUlkIiA6ICIwMmI1ZWM4OTlkYTE0NzU1OTQ5YmEwMDIxOWJiYzFlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJteWllc2h1cCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zODBkMDk0NDIwZjI5ZDIwMmM1ZmRmMzliMjYyYjg0MTQ3YTViMjUyOWY3YmMxOGIxZDRjZGVmMzVlNjJkMjkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+10 Chocolate §7and §60.005x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§5§lEPIC RABBIT\"],Name:\"§5Avalanche\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+10 Chocolate §7and §60.005x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§5§lEPIC RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_AVALANCHE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_CANYON": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aCanyon",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"canyon\",id:\"FACTION_RABBIT_CANYON\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0beb7839-b680-30c9-b7a9-2227e4514bb8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Cyp3NdWlKFhXEUh1jLNQurO+7px3m4NbmACDcN8LTLQvfqSRqaSX+5rMPeSZkOqyHuNDVZg4w2A7cL48yo4v9MV5KR0iY7CzmtFX9+46zakXhyaYtHanbWWWOXa122XvqV8mU9MdWGuKizfu4/HIBVEHGLTDZC4Vdeq71evuj7M/XxknkUuL1GGWAp5AUGsiecCwzHyurQLJ+vpO/0YBHQA7gV1iX2mfPgB+AZm/l/JR0OOUrQZMuxnr0Snwi3DV6a4jVloq02Y2VKM9f6y0Rm3ZEoGQBjXXD8YklAycNujr4J8kYnrbqWQLZUDGrkFLNygRoL0pi34EsmZe9YDQArfZwellnmUwNd/OH2aEqYkTurTpCmVSqcRHrCrgIstt68Z/O7Vf5qwH/eoq9552OB+SMi6ik4qQvvNkI9dDj+3Y0m+DYy8OS4iZceMcjneKt5AtFEEl9DMV9vh6EUc/Q+3eiSRzzH5pbW7ZedMNykzVyJO8ApoftPTtH4GlmhQyRF/2vy3JSJLAWUZSyPZya5FvDWbZyXin2ictT5hWJjo8pCfvd1XiPr/V+aCA06bq/F1tjERDPp4SfFEtfZY4byKFUbLW6IZgoftHpg9TA2ptBez6brJZEBLGT2GzrZ6SX30qKDul0VuAkNMydLXpIbvs6SuR7RVKeVXwyaE/JKE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYzNjgxMCwKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI1OTg0ZDIwNTgxMjAxMjJkOGQzNjQ4ZDYyOTViOTQxZDA4MGY2NzE1YTYzODdkY2FkNzYxMjFjOGVhMzkxMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aCanyon\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_CANYON",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_CHASM": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fChasm",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"chasm\",id:\"FACTION_RABBIT_CHASM\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2f487ff2-d45f-3c05-b624-30ca3a5bc7ee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"REx6lEOlvniNZ/ta+tcxBKxnJ6dFN5vZKljMUse/0uQBI0p0WnRTP5pNwRiJBqIKANUxqCX1FVMsq7E/22wxhe8AvWjm/s7VYPhvWfAWSGM74vpYuCb4xWTAWTjcgsdcbuO4oCbI1JAWMGK4gTuq6jFEF5fl+kyYdpGG2vi6gJsS5APrloLnXZsS/yNllw5p3jYhXZ1Y7JztDho+e9T3bm2MAR7zr8Zi0bBlmYcQleL0FgE6M+QeV4jPipN5G2HqhL5ps4O7Z0aFws8bMssgMMOpKm9Dg01QBPZPV69LOFUFor19YpzdC8SAoiyE8FO7Z43BKmQ+j82MYre7IhN0cfNpHNKngUplYjuV9Vv/3Hy8/TokyxNkGSrBxeQqD0unMKWlBe2pmahkdIJZYh4B7nxJiPdqoCcMmrc4kTTKH11tKWLVoUWiZlq6cWvM5JOGvidNXdGfCD5EU/xoc7/VNJ8cnr4V94/J5dP6DIuwukBMfr5KLXkOyOHp98WYRUHPqc0hReXGF8Rc5k5MV9LWkjIhDh9IiOIQKRijP1iA+uukfTtiBJqoI1KVy5zw9fOuanVCNpuB+5t6NJDgJ4kpv/vddAP3mcNnMrt0IaZSCP8I1lfG1oQOoNBvuKRw5NKn0hFa4q9JaTvO8y+mUjNIXnjhb36BXGmwU2X1UfInuZw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYwMjI1NiwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTU1YjNlOTZmMjBiNmUzMDg2ZDFmMGU3ZThiNDNjMWFkNTg2ZjI0Njc5NjU0NWMwNjFlY2I1YmY1NjNiMTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fChasm\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_CHASM",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_CLOVER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aClover",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"clover\",id:\"FACTION_RABBIT_CLOVER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0c881cf7-ba2e-3750-8bc9-3c423c13af4e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"gtSG8Y/uLBLjUEP6uGGZR5n9q6JqdSqlPahDp2/JP9by1/fRxvXOlE8Nrpf+Qy4okBUbntxE6y2P+/0x69iIECf8lhFLEXMIoX8jp5dIvkwNiG7USWUWi6H+ISFMDEj3yp8Ohk65/FO04AfF+Q6wrWZsdOjElt5K7IJEEouIOtw3ubAMahK7SaIhtfRQzXlvv5P0w5s2aeyVkyKG/D55tA09Iv2yd099CSKAbVqF+dh6UZiCurhr6ceOHRrB+NA9Uzg9HmWL47xyTON/HxMsr9MnX317im1zyA4fNxi5ybN/FhkraEDfi2ZZ4os+qnKNjWmHhc8SqjmCin5mZGqNt5KQ9KTyHZfv/LN0CY766pB5vzJ/MfmJctHoZM01yQZfpMAzZE6Z7Oyx7iabE0Epo8sKMS0qJWelIKurwaQyF5gjwnbuPynVCTzL/vyGsIr141o1YsGYiAuuNd1d23rP1rFkh78z3Xq2PAfUWB3RiIuMA7VksZGY3cOwQKnB5zhI9U7Apt4EyDSyq7BRJ0m/ZfjxeTwMsxqos/94UCQmfBZyuRHcVUiXWn9xPaTUMveGlTxNYFIxjW83Fc2uz6+1i2knzjYkT0hw7VI+GljmKbuPecGeUACV4XThWZHSHqLeV9i9S5wEKzFZW2hvmLaApmYEIhrBXtiQeNP/ApjAl5M=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUxNzU1NCwKICAicHJvZmlsZUlkIiA6ICIzZThhODgyM2ZlZGI0ZGYwODRmZjE1NmQ3ZDM0YzMxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlwbXVua2llY29va2llIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmYTE0NTc1ZjVjZmU0MTQyNGIzN2NkMWYxMGViODg0NWJmOGUzNGI2ZTZiYjcyMzZiNWJjOWMzNjdjMGVkYTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aClover\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_CLOVER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_COBBLE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fCobble",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"cobble\",id:\"FACTION_RABBIT_COBBLE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bfb2932a-d9b7-352c-97f8-bcc731d318c8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"kFW5iC6rPCxKxSWgrAwg7OWSHeVCo108KWCxrluxB/whEiuTXPeKQshIxAckgDqOLu2falonyro3kCnQWL57WX/AaIZC3XdwFoMqZUCeSxC7L2F9Rn1SvpxTOp6RMQbemAAMMDdlowNtF47NrL2b5/cKoBlSKurJLsGtXQda+kLGkNz5V0Zu9fh+4wbZT9uJYmuC4gWRubwGX4GUXBKnGCr5ZeBS42UlPm3k559c1QLeCRsPCZM/uMbkbU7j7/NEu8UVwbyDApC3D0jDSNbTCuDWz4Rf9FHwlMfTIqBQwrIuLs5Rck4d8kz8s7Ul/anB9e1jnG4RoXv0dywvcdIkmUobPNdce5hkm9/+E9n5zwsY5X60D4bV1vDrnyq/XJGYWEx+UX5kDDXufYwlmCfQh0GBm99KT7EeCbD3+9iExJS06QOMJhh5IgxYGmGhaL2zwXKrJYXpu1PGP0uznNQ+FBFWAnrhYaWr6+t8Vggr3ytXssT3oYm+HLxZaafeo04sf7wcA/9zZ4c8tMuFKyLa2B4OiPN84pjSKY6Xp1Z+MBa76SJHqWqzweh++LMobG+h6RWS6vo400sDNUnpkBQ3435MkgYVVGN4vLG7x5upPFnBrFKz61046PTQn2qMnh3rmKJfd71A3XB3YyXtT4wx8RXeFVWpP6ZCb5fIpmxfzjc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0MTcwMSwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjc3YjE0NjFhNzUwNzMxZjcxOTFkYjZmZTQ3MTRkN2I1NWY2Nzc3YTRkNjhjY2NkYjc5YzJhMjZlYWFkY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fCobble\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_COBBLE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_COCONUT": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Coconut",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"coconut\",id:\"FACTION_RABBIT_COCONUT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2efb2832-0940-31aa-8a83-e43f2dfe66fc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"t+h74FEKTo8H2Q07pTHynb3jbeMTW9BT+Xlq0OlDlRmqD7Llm/uD6ZiZWaLwXy2LPhwqcy9B2/NkF4u0SmJHVr4DHc/1fY9qdNSmyakq+RktiD+cJQWUe+PbKr2KpuoUO7QRV67QGoJ+Idb929TWs0/MBjmaFmFXfmIGca01py3VLj+Gbt77s0/uzN9tVb4+HGSyfkwo7yoDto2nVnnEfctnT8iulJG/pCse34V4NhqrwDUDPcXKcRDlRIHzMQacDEJvnciRyxve2qOwttjMh6BPSgk6tODybGffKGh/b05tGKvdwGVhAIZ7756PtCzkx96Pl+CVMxwxpgn4NwHe6mT5WyUykWH0HlU6+ww1qJAW62hOeqJOrTHvbmceh/MF/diwzWnRPblFOOrmZO73rONS/SVUX7EnLs/5QHcyjvcHxzkVyMJFswLAuLP52z//zCM9XMmSQ9Yimx+L+vqDwD5EgGa8vwhehM0A9tRN4nFAPy1lYxitDgD1+dos+q+bg6B21ip6pACs4aOa/YdYD1OQnhvplbdvp2ZJexGMzPMxEsDtwwBExfOz4g9kjTi8EbpJrZiZbjSvTupk26FtJhx6MVLMqBt30qtusIUl9hSHfCkjf2kYGVK29B0fYKZZfEjXLi/nRKpMeRprOAFl91Q81azP+RcgdJQuWpOpFMU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQxNjQ5OCwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEyOTg2NDBlNWQyZDhjOWUyYmFjMWE0ZjgzNjlmMjE0YjdlMTdhZWE0NWRiZDhmMDFjNzI2MmEzMmIxODg4OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Coconut\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_COCONUT",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_CRAG": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Crag",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"crag\",id:\"FACTION_RABBIT_CRAG\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1dca657c-5066-3dc9-92ce-b767e35dfd42\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jQVr6xnX9KQZ05Bh2lF2ip7NwwS/hIsNo+Lzj/jF+vvoMXCz/OzhThyyt1qKQ6dF7VL23cmHiqMMnBeDPM8G2DoBuMPv5XHXbA/mGSLxU71322OMjLKM+iGBVcJ/Qd/t1PUSHwCeLHnH9++S/E84FUnmcajbKL9wP/PqJB/R4Kd/iQEppoWaK1DsOYDTFe094KecgzpSiyRbqqN6bXHnl1cQw63lhrZZ5jsiEnTzfSFHTw+Svl2ncDRxVylyI1ABb1yDyN7MRaNXjCWBLIceFMlzFY2b0WLZXyEBtN3Z5Le6yMel9NYXfMt5lMcIBMokSuBQFHByFLTp9C6hLOkFvUPmGIzNIOIJJ1gUG/PRRsEREymxRiHvAusVV9XwXbfmyo5VXEk7/dCqPtjH2riAON85nvzRhauU2JUrsJvTsaqfPxkTBOqVvSE6e81+7x7/5U9EOjuV2UMV+ykgMVoROU/sLys+5jh0OyaKPK4qAJzjsLsirpVMyE+vjXrsl5kvsQTMQPujjzgI8BfuPF5FRRIAUb0uXyQRUf9yU9rAJaYZVHx/wcnihrBIr9YonzQJPLdf+8kdGMC9Rvf2KWrjV6kjrK9oFL3pIEXdDGFwsPdrhtHCJZT58y7YJtSXznBddpIwB3jIRvCozsNTHet5B7HyVwo7V1yt9EyTZyrcOkY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYyODU3OCwKICAicHJvZmlsZUlkIiA6ICIxNDM3N2ZjOGU1NTg0NGQwOTg2ZDkyMjY3ODRiMjQxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwVGlja0RlbGF5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyMGQzOGIyZDliMTJkNjJhNzNlMmY0N2JhNzFhNDVlMmE2OTAyYmZhYmMxNjJlYTBhMDA1MWNmZWYyZWI4ODMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Crag\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_CRAG",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_DAISY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fDaisy",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"daisy\",id:\"FACTION_RABBIT_DAISY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2a8dd7a4-2f0a-3257-9efe-fc1a9d8e2ad2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FwyMFRtZ2xHqsEki18N57kSicoerLm2gsfVeaFeyDpeFVGjTzBjLrMn/MVgaineHZT9q5hUVpHgyPkLSxngvlLW+Hf59Bqb3ZLIHl9omYzqaigwUZxN52Df982I0g9HJCnVqHI+lQ6rjtMnjWu8k0IQkZr7aPW4LaOTSATucXodO+3RUGvM3WyQKALVmCXA6OX2GQOhhfUadvhAcdX5v/8meoqgOh79fGTcCvpfY2Yk7Tv/yEYJEZG9c3EnNz0WnkwuB3vSsKOUmZe7J2v2Iqceg7TsIhw9R+q3l/LDIwJPMCfiMxfdFLIHEPEjOPDZF2e2yen2v5dHHduULrxtOsieDaegMV1Ayj9I6axzus8LYXXD9WNQzM6Ad8wNf/+CHGSSLGXhE7g7NeX/YpH7I5JK5TKmj9KLHOjX9FRtHGpsmxhqrQzeBT9V+2cyl5lILiQYEcXMqDU0lpUeA0iYlCuRTUroxDlC95DbcamUC+yRkLtGt1NnJPkwtq4PeynK4RE7oxyPeTnkZGF/JbJwUyQe9W+4qpup6MHxv3sSbqUWl7T6lTrLyITn2B/+hhr/X2xPSTFsSfnFEZcl5j6grStuhS1uRBAnkfWIPmAV5iEI1qMwj5/eL7Y2u7YAhdBou04kpRcmdejJ1QrPD8U9NIApfAMxuLLAHR6nYIzDTMGE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ4MjQ1NSwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYyZDAyNzUzNDE5NjAwNDRhYzA2NDZhMTdjMjJkZmE4MmU4ZGQzMTVlYjQ4ZjRkOTAxYmY1MTNiOTk2NzQyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fDaisy\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_DAISY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_DUNE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Dune",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"dune\",id:\"FACTION_RABBIT_DUNE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"44061b78-a7a2-3d61-bcfe-5af6f0dab23f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JQcMnlpVMkynWQNALXZp0hC804VQ4QMWhHEKX8Q+oH84b4IshCZUWcTVAqR4Dvh5MYNU3NarVLovwIbYTm0/+uzHnuNSTADePLoxfD9I4cUGVTLki/ay+fLsmfwNFzJ3julmhgvL9ZBX5VDTxtOS4l+HoTiQe0TUMKprsq9OW3L9WrkVQtr9wgV+vBo01CSKsIlGkT0+afbTKkpHvSt6flhItxAZhHMNmDTuzUR4kpsuHjiiSRScqR3fp/kvUrgYKqPnGZJclYwGfHIfqu/Jfmmsp+VVFVTBiwMa7w7fpSsgj2hv/Y4QzMyCVHLBwuBvwi6NtZaIg+CbxdImbBT8m9IucfuDQBfuxtTuzNoldAeoZm21Dsf3b6mqKj10ftOoTHX38etPNbN1Xqkd5olhR3cUKqiaSSpWvQy6wGW6J+Tb6eSBM6Tm/nVHPOmu2gWWT7EjkuhoW6w9PTOH2rN6y4xqLff8mio6PZ7vRKltLpFwJpDUykl3gFkjk3793d41gHgigUhrbPLmUvDAh6HkEX4FHVLsu6zRh1PuDhmQiAhiDRNcFg8U8hIa2JUcduVZWBU3IGWHUx9HDgq1PgOJIgBIOe/p609NbVGbY9V6VYN2yS00l20C76yzEzgiN5byCdneA2SSUm/29Ix/LX2Fchng7icE+spgfmHPma0mCiE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM5ODMxMCwKICAicHJvZmlsZUlkIiA6ICJlYzU4NzQxMjM2M2E0ZTQ0OTEwNzJjMWU5M2RkOGMzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aXJlZGZyYW1lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkMGEwZmJlYjg5NGNjYmE2NzcwMTJmYTA5ZDZlNzQ1ZTAzYjUyMGRhYWUyZmI2MjdhMzdiZDZkNmRmYjgyZTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+10 Chocolate §7and §60.005x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§5§lEPIC RABBIT\"],Name:\"§5Dune\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+10 Chocolate §7and §60.005x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§5§lEPIC RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_DUNE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_EAGLE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Eagle",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"eagle\",id:\"FACTION_RABBIT_EAGLE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1dca657c-5066-3dc9-92ce-b767e35dfd42\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jQVr6xnX9KQZ05Bh2lF2ip7NwwS/hIsNo+Lzj/jF+vvoMXCz/OzhThyyt1qKQ6dF7VL23cmHiqMMnBeDPM8G2DoBuMPv5XHXbA/mGSLxU71322OMjLKM+iGBVcJ/Qd/t1PUSHwCeLHnH9++S/E84FUnmcajbKL9wP/PqJB/R4Kd/iQEppoWaK1DsOYDTFe094KecgzpSiyRbqqN6bXHnl1cQw63lhrZZ5jsiEnTzfSFHTw+Svl2ncDRxVylyI1ABb1yDyN7MRaNXjCWBLIceFMlzFY2b0WLZXyEBtN3Z5Le6yMel9NYXfMt5lMcIBMokSuBQFHByFLTp9C6hLOkFvUPmGIzNIOIJJ1gUG/PRRsEREymxRiHvAusVV9XwXbfmyo5VXEk7/dCqPtjH2riAON85nvzRhauU2JUrsJvTsaqfPxkTBOqVvSE6e81+7x7/5U9EOjuV2UMV+ykgMVoROU/sLys+5jh0OyaKPK4qAJzjsLsirpVMyE+vjXrsl5kvsQTMQPujjzgI8BfuPF5FRRIAUb0uXyQRUf9yU9rAJaYZVHx/wcnihrBIr9YonzQJPLdf+8kdGMC9Rvf2KWrjV6kjrK9oFL3pIEXdDGFwsPdrhtHCJZT58y7YJtSXznBddpIwB3jIRvCozsNTHet5B7HyVwo7V1yt9EyTZyrcOkY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYyODU3OCwKICAicHJvZmlsZUlkIiA6ICIxNDM3N2ZjOGU1NTg0NGQwOTg2ZDkyMjY3ODRiMjQxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwVGlja0RlbGF5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyMGQzOGIyZDliMTJkNjJhNzNlMmY0N2JhNzFhNDVlMmE2OTAyYmZhYmMxNjJlYTBhMDA1MWNmZWYyZWI4ODMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Eagle\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_EAGLE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_GLACIER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fGlacier",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"glacier\",id:\"FACTION_RABBIT_GLACIER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2f487ff2-d45f-3c05-b624-30ca3a5bc7ee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"REx6lEOlvniNZ/ta+tcxBKxnJ6dFN5vZKljMUse/0uQBI0p0WnRTP5pNwRiJBqIKANUxqCX1FVMsq7E/22wxhe8AvWjm/s7VYPhvWfAWSGM74vpYuCb4xWTAWTjcgsdcbuO4oCbI1JAWMGK4gTuq6jFEF5fl+kyYdpGG2vi6gJsS5APrloLnXZsS/yNllw5p3jYhXZ1Y7JztDho+e9T3bm2MAR7zr8Zi0bBlmYcQleL0FgE6M+QeV4jPipN5G2HqhL5ps4O7Z0aFws8bMssgMMOpKm9Dg01QBPZPV69LOFUFor19YpzdC8SAoiyE8FO7Z43BKmQ+j82MYre7IhN0cfNpHNKngUplYjuV9Vv/3Hy8/TokyxNkGSrBxeQqD0unMKWlBe2pmahkdIJZYh4B7nxJiPdqoCcMmrc4kTTKH11tKWLVoUWiZlq6cWvM5JOGvidNXdGfCD5EU/xoc7/VNJ8cnr4V94/J5dP6DIuwukBMfr5KLXkOyOHp98WYRUHPqc0hReXGF8Rc5k5MV9LWkjIhDh9IiOIQKRijP1iA+uukfTtiBJqoI1KVy5zw9fOuanVCNpuB+5t6NJDgJ4kpv/vddAP3mcNnMrt0IaZSCP8I1lfG1oQOoNBvuKRw5NKn0hFa4q9JaTvO8y+mUjNIXnjhb36BXGmwU2X1UfInuZw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYwMjI1NiwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTU1YjNlOTZmMjBiNmUzMDg2ZDFmMGU3ZThiNDNjMWFkNTg2ZjI0Njc5NjU0NWMwNjFlY2I1YmY1NjNiMTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fGlacier\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_GLACIER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_GRAFFITI": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aGraffiti",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"graffiti\",id:\"FACTION_RABBIT_GRAFFITI\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5e7a136b-dfbd-3f9c-9a49-bea32f57e3ad\",Properties:{textures:[0:{Name:\"textures\",Signature:\"OYYpVNYrR/el65w+Zp2RdevOGBrMHSo1JJLjTlqqX2VS7sD2dOKwHrsW9GNkQtsTtDt9r3fxZ/OObKmeFNAzRqjIPY/SKm7wc9ozZ3iREyEoR5c+p73hyEAIFJLAdVzw1un/h0XCLnwMjTJMAkbZ+6HH2w4791UnDeFDtJNDykhsVUuO+AvBzuOW9nlPIpwQh2sDejpMEfOcHzy607jtX8EC7bZD4Eeh9CfLxxSGq8+K3/IZJpvlOEGa66KE2Tjk4qRg8mEsE6Kbj2y7Yblm+G5TCfxwYgpnAQquPeak962oMYyGw82nXwmzvj1i1ryE7nZNp1zrRR379FzxW0+A+dq4KKv/SP0QziOZGArCp9jkFC/sn8+EZGz0+G5dOuJhHwb4oSuS+goA+vLMFiF+/1/3l8aUIOwJiKJUqk1eMqANKxkrdcNly+D0kkWH4Te8v+ECdr6Ge/eVphgHkMieTZBVwEIpbhXcy7MlF4C0dXLBcT1PjKCe/EKa4+WsdSNcipoWvdmRdBdJl4MN7xgwtL5ybhKyOUSZc8l+n2067lgOq5BG+23CZlp/NDKpM7j+Tfjphu2c1V3K1k40+PICnjJYsLwzNIMMyyg5rbPRZ6+qhzXiT7rd5KZbY7m6hZZupKJwceErXsRh/SVn/j/RvYk22hQ35Q+8C/lUEBfwvPw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ3NDU0OSwKICAicHJvZmlsZUlkIiA6ICI4ZGQ5OWEzMDEwMDA0NTRiYmYwNGU5Mjk3NGIzYWNmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQeXIwdGVjaG5payIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmUyZWU2NTYzMDNhYmYzMTJkYjYyZWQ3MGJhYWNiNjU0N2MyYTVmNzlhMDg5ZDFiZGMwZWNhOTc5NzZmNzdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aGraffiti\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_GRAFFITI",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_GRANITE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fGranite",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"granite\",id:\"FACTION_RABBIT_GRANITE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2f487ff2-d45f-3c05-b624-30ca3a5bc7ee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"REx6lEOlvniNZ/ta+tcxBKxnJ6dFN5vZKljMUse/0uQBI0p0WnRTP5pNwRiJBqIKANUxqCX1FVMsq7E/22wxhe8AvWjm/s7VYPhvWfAWSGM74vpYuCb4xWTAWTjcgsdcbuO4oCbI1JAWMGK4gTuq6jFEF5fl+kyYdpGG2vi6gJsS5APrloLnXZsS/yNllw5p3jYhXZ1Y7JztDho+e9T3bm2MAR7zr8Zi0bBlmYcQleL0FgE6M+QeV4jPipN5G2HqhL5ps4O7Z0aFws8bMssgMMOpKm9Dg01QBPZPV69LOFUFor19YpzdC8SAoiyE8FO7Z43BKmQ+j82MYre7IhN0cfNpHNKngUplYjuV9Vv/3Hy8/TokyxNkGSrBxeQqD0unMKWlBe2pmahkdIJZYh4B7nxJiPdqoCcMmrc4kTTKH11tKWLVoUWiZlq6cWvM5JOGvidNXdGfCD5EU/xoc7/VNJ8cnr4V94/J5dP6DIuwukBMfr5KLXkOyOHp98WYRUHPqc0hReXGF8Rc5k5MV9LWkjIhDh9IiOIQKRijP1iA+uukfTtiBJqoI1KVy5zw9fOuanVCNpuB+5t6NJDgJ4kpv/vddAP3mcNnMrt0IaZSCP8I1lfG1oQOoNBvuKRw5NKn0hFa4q9JaTvO8y+mUjNIXnjhb36BXGmwU2X1UfInuZw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYwMjI1NiwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTU1YjNlOTZmMjBiNmUzMDg2ZDFmMGU3ZThiNDNjMWFkNTg2ZjI0Njc5NjU0NWMwNjFlY2I1YmY1NjNiMTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fGranite\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_GRANITE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_HAYBALE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fHaybale",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"haybale\",id:\"FACTION_RABBIT_HAYBALE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2a8dd7a4-2f0a-3257-9efe-fc1a9d8e2ad2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FwyMFRtZ2xHqsEki18N57kSicoerLm2gsfVeaFeyDpeFVGjTzBjLrMn/MVgaineHZT9q5hUVpHgyPkLSxngvlLW+Hf59Bqb3ZLIHl9omYzqaigwUZxN52Df982I0g9HJCnVqHI+lQ6rjtMnjWu8k0IQkZr7aPW4LaOTSATucXodO+3RUGvM3WyQKALVmCXA6OX2GQOhhfUadvhAcdX5v/8meoqgOh79fGTcCvpfY2Yk7Tv/yEYJEZG9c3EnNz0WnkwuB3vSsKOUmZe7J2v2Iqceg7TsIhw9R+q3l/LDIwJPMCfiMxfdFLIHEPEjOPDZF2e2yen2v5dHHduULrxtOsieDaegMV1Ayj9I6axzus8LYXXD9WNQzM6Ad8wNf/+CHGSSLGXhE7g7NeX/YpH7I5JK5TKmj9KLHOjX9FRtHGpsmxhqrQzeBT9V+2cyl5lILiQYEcXMqDU0lpUeA0iYlCuRTUroxDlC95DbcamUC+yRkLtGt1NnJPkwtq4PeynK4RE7oxyPeTnkZGF/JbJwUyQe9W+4qpup6MHxv3sSbqUWl7T6lTrLyITn2B/+hhr/X2xPSTFsSfnFEZcl5j6grStuhS1uRBAnkfWIPmAV5iEI1qMwj5/eL7Y2u7YAhdBou04kpRcmdejJ1QrPD8U9NIApfAMxuLLAHR6nYIzDTMGE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ4MjQ1NSwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYyZDAyNzUzNDE5NjAwNDRhYzA2NDZhMTdjMjJkZmE4MmU4ZGQzMTVlYjQ4ZjRkOTAxYmY1MTNiOTk2NzQyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fHaybale\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_HAYBALE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_HAZEL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fHazel",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"hazel\",id:\"FACTION_RABBIT_HAZEL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2a8dd7a4-2f0a-3257-9efe-fc1a9d8e2ad2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FwyMFRtZ2xHqsEki18N57kSicoerLm2gsfVeaFeyDpeFVGjTzBjLrMn/MVgaineHZT9q5hUVpHgyPkLSxngvlLW+Hf59Bqb3ZLIHl9omYzqaigwUZxN52Df982I0g9HJCnVqHI+lQ6rjtMnjWu8k0IQkZr7aPW4LaOTSATucXodO+3RUGvM3WyQKALVmCXA6OX2GQOhhfUadvhAcdX5v/8meoqgOh79fGTcCvpfY2Yk7Tv/yEYJEZG9c3EnNz0WnkwuB3vSsKOUmZe7J2v2Iqceg7TsIhw9R+q3l/LDIwJPMCfiMxfdFLIHEPEjOPDZF2e2yen2v5dHHduULrxtOsieDaegMV1Ayj9I6axzus8LYXXD9WNQzM6Ad8wNf/+CHGSSLGXhE7g7NeX/YpH7I5JK5TKmj9KLHOjX9FRtHGpsmxhqrQzeBT9V+2cyl5lILiQYEcXMqDU0lpUeA0iYlCuRTUroxDlC95DbcamUC+yRkLtGt1NnJPkwtq4PeynK4RE7oxyPeTnkZGF/JbJwUyQe9W+4qpup6MHxv3sSbqUWl7T6lTrLyITn2B/+hhr/X2xPSTFsSfnFEZcl5j6grStuhS1uRBAnkfWIPmAV5iEI1qMwj5/eL7Y2u7YAhdBou04kpRcmdejJ1QrPD8U9NIApfAMxuLLAHR6nYIzDTMGE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ4MjQ1NSwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYyZDAyNzUzNDE5NjAwNDRhYzA2NDZhMTdjMjJkZmE4MmU4ZGQzMTVlYjQ4ZjRkOTAxYmY1MTNiOTk2NzQyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fHazel\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_HAZEL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_HORIZON": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Horizon",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"horizon\",id:\"FACTION_RABBIT_HORIZON\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"61e1e9c4-80d9-3007-8319-f5309468ed38\",Properties:{textures:[0:{Name:\"textures\",Signature:\"nCS3fkMWppXuT/LNlH3/aIE7062b+AaqW99zwGVx8ExPLglE0dwv5+asWKvt5yJk7Ds44TYzlN3bJ1cJ4c4LODRhRbQYRw1fDzfaUZ6fis6a2udsWX53+b0bZYQQelOjBFOSHq5jnpyGRcvDmFgxaRwqPpg1//Dgv0hj6m/uMSPvanhBG/T6iGou45Ns2v9TZUziXqg4vKTxNt0xYKN8KO8qWRmY39Blsx++r5qTNWSfCjhnZtta7vNzMH78ws4NX9C3UlWKwfI6ozXw45wjZBQIqdmoooXg75oaz7PD2WwBOMcbfbCO+loZzFTp4Owofz31wkf7TdElb1mnTL9udM87uA7vHzwLsCUxdqCIpP5Md/k/o8G1qw8LDn/SlpHaEmrPjfXbjq03G6Mcjwf4xxOJDnSTAn0ekvBFxW59FGFRlon6b91Hi6CcW14sJWteKFSfWxr/+v24wd7R8Ees4BnNSngD6NM1u5PAPPjrqgkqrDBGJTHPij4U299eOdY1sPVcbLALqvUcGjFh0HYw3bPG7qIYG9mtro93hvgS50bbfyAUZ++rYLjFoyfQG/PYjjKikNdghC5/JRDfgxczv/nvj9YPIkNCrhQ95HRqaSnWlJ/ko5IR3o4TOBh0GjPCzNHRBeMf+LzWEarkyX6iNOTwWf+okoLZdmBdDoE/5Kc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYxOTc4MCwKICAicHJvZmlsZUlkIiA6ICIyNDY1ODI2NWVjMjg0NTY4YTg3MDJkOTVlYzdlYTc4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmdvc1oxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYmJhMjFmMjI5Zjk0ZjhkNTNjYTdlNmU2ZTk5MzZhZWU2MWEzYjljNTI1YTgyZjYyMTJmZjRkYmFlNDEwOWMzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+0.02x Chocolate §7per second\",3:\"§7to your §6Chocolate Factory§7.\",4:\"\",5:\"§eRight click to add to your Factory!\",6:\"\",7:\"§6§lLEGENDARY RABBIT\"],Name:\"§6Horizon\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+0.02x Chocolate §7per second",
+      "§7to your §6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§6§lLEGENDARY RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_HORIZON",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_ICEFUR": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aIcefur",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"icefur\",id:\"FACTION_RABBIT_ICEFUR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0beb7839-b680-30c9-b7a9-2227e4514bb8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Cyp3NdWlKFhXEUh1jLNQurO+7px3m4NbmACDcN8LTLQvfqSRqaSX+5rMPeSZkOqyHuNDVZg4w2A7cL48yo4v9MV5KR0iY7CzmtFX9+46zakXhyaYtHanbWWWOXa122XvqV8mU9MdWGuKizfu4/HIBVEHGLTDZC4Vdeq71evuj7M/XxknkUuL1GGWAp5AUGsiecCwzHyurQLJ+vpO/0YBHQA7gV1iX2mfPgB+AZm/l/JR0OOUrQZMuxnr0Snwi3DV6a4jVloq02Y2VKM9f6y0Rm3ZEoGQBjXXD8YklAycNujr4J8kYnrbqWQLZUDGrkFLNygRoL0pi34EsmZe9YDQArfZwellnmUwNd/OH2aEqYkTurTpCmVSqcRHrCrgIstt68Z/O7Vf5qwH/eoq9552OB+SMi6ik4qQvvNkI9dDj+3Y0m+DYy8OS4iZceMcjneKt5AtFEEl9DMV9vh6EUc/Q+3eiSRzzH5pbW7ZedMNykzVyJO8ApoftPTtH4GlmhQyRF/2vy3JSJLAWUZSyPZya5FvDWbZyXin2ictT5hWJjo8pCfvd1XiPr/V+aCA06bq/F1tjERDPp4SfFEtfZY4byKFUbLW6IZgoftHpg9TA2ptBez6brJZEBLGT2GzrZ6SX30qKDul0VuAkNMydLXpIbvs6SuR7RVKeVXwyaE/JKE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYzNjgxMCwKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI1OTg0ZDIwNTgxMjAxMjJkOGQzNjQ4ZDYyOTViOTQxZDA4MGY2NzE1YTYzODdkY2FkNzYxMjFjOGVhMzkxMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aIcefur\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_ICEFUR",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_IRIS": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Iris",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"iris\",id:\"FACTION_RABBIT_IRIS\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c514f4cf-9482-338e-badf-9c877088962d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JkMe8VAQ6uQ+K77TR8HcOCxq2n8m2W+PZhG3rYSqwyR7NEg1TscqPrc3vYCwZO80otm2I25OCwoW5FZOPj8QfMvXghb5u6pLjlyO7fAYpsPkR64UtuYNjujuQnY93RFweXBvN8+i6ecPQs4TFSQQptSfOXhk6WsJnxZSUrfrgQOmsHYqkxFspfXJl7fEe+8tr0/Safqgta0NXUdH/Xes7WM95ReEeQVrPICbhVrlZLcZUyQDI1WUAs6uYyYdfDWvCXD/oX4h9sAHc78mQ6NfGpBQYwDyuVkL/OCGDFJGFG7uZ3TwDLuuDwvJDku+1EnWC1t9TdN5Yy7l37rjI++JvdKeAITJnu6slbEGHXdo08x2ffYnKjiLSlcnYl8NIPDWV36s+A4HUn6jxVf4Fq1aNNwqR0TEhXSWt2GMRw3hCiTDwXMqUXivEHMfZ3a3Z+BA7EaRtnMp1gKdQcwrTv86Dzb1g8a+Q84BDkZUkugMMty02rppFMpnMlzOpO8DB0Yz3rGZkBmCqmvtTe373igsEFBOGxI7GgJV1KZsJOOerxLGkjcWs8ttbdCYZwHVbl6iuL19/4gVL19iW0jzQcKzPAaAeLcHG1ONQCpk33UeFFaK2lXhQEkG2gN3w4baJQZmYrcaw/zpeo9Kz9LycI9twQCGYVYhtBXJTpxvLCVxMu8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUwODg0NCwKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzYmMzNDhjYTgxNTdhOWI0ZGQ2MGUzMDM3MDE4Njc1NDI5MzY0YjFiMmUxYWZmZjg1MjUyMzVlMWY5M2E1YzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Iris\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_IRIS",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_JUNIPER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Juniper",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"juniper\",id:\"FACTION_RABBIT_JUNIPER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"01ecfeca-6352-33dd-8600-740d95c6a56c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"WuK1ffFcc4B0tZ8o9KsFoEk4X1e3D1YQEH9d0oWnGKvF1uUqtS/wV6ayw9jGzu+PdNsgvr7pWh4f9ZrApPuwTuvzThZUxXbxAFG7yllSMBlsn+uJ/G84V0N9baAEJMD+EMyzVXcm5MGtmS0Q+284yc4hbSMwwwAiF1RV3UuhCHRjTHnNjexFfs7vsEhYFB2Lry5XtSyrGZ9qcAY/QexFcFdVfh7myPJcmgwtrZt5LSwmzbcLXQ+0vsscIvsh6UCGu49yBzEnGV3GBVN0LzWB1PMUaE6RvDkl4KI99PkmLejAZ1GD2Q1OXuetIafEmw2WEox2w+2RFWKVBVG+1v6ihbdkU3AUqSeTVeuS9xF8XDj6NWkWwFfkHIfQanN7NeOaKLHWCh6oGljoHeBkAj4/+Egg8g0GzBe1dYGJJXdG3SWtk4KCGxnofPjjO0OniW3cbHmJmTc4GCygoSNtqt4uTCJ0wfZ224P5gatlPb/+UEVzFql7mbvw9mzGLEkXu1NbyP1HjWlpK30fcn3VRit/x1zxk4i5ls7OGLWzACntAK+gcRQ7qS7rofhTj5uHhd3+A7QgwnFgNKQu4ScimLENyl5UNZhjrMAKrFOTxB7StiUYssMOyV9GZha+V9ksUefPv939VkmNZgJrml1IqGcHRc1Q5aPNsTmWk2PBf3hdvn8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ5MTkzMiwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYTEwMDMwZThlMTM1NDljZTc5ODQxY2ZhYWIzNDcwYWE1YWRhOGI2YTQ3NGUzNzU2ZTYxOTc0Yjg3MTdlOTM1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+10 Chocolate §7and §60.005x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§5§lEPIC RABBIT\"],Name:\"§5Juniper\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+10 Chocolate §7and §60.005x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§5§lEPIC RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_JUNIPER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_LAGOON": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aLagoon",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"lagoon\",id:\"FACTION_RABBIT_LAGOON\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"94d809d7-2d84-308c-a864-c26f273f9350\",Properties:{textures:[0:{Name:\"textures\",Signature:\"e03aG143L7t2iJk+OE2mbLufN8kETR7Tad0ILOQV+v+SeThL4tIb+OEVO2+/qj/gORU82/BPcX2Vkh1dSN8PH1YN7f76ShRS/49gVDNHdG9OXo6l7T3ZKS7Fs7tZNV9OgdW5pGoRNjasLi1AtJI5uK/AT6L/2WzYvHkSrjVXGT/bmTSPAtb4euyoTD4lPiAEq4/vnrA7chTwd/veRy8IUzUz7QRO3vqW/3tWhGsg6suOInXl6AqC6gcu/Sz3LcKxLQXlcvdE6VBCUKLsixNl4XCN1dRu6ZwulbKuMAASI5bpiT8lqDPEcAz+DZvF72WHUh1NaCTUMnB1HEVP5G9dkHC0z1ZuKogl1O+6nZQMq8cTlBD5ZeA1aSFDTk1mLf5HXPcnolIRP5TfNcnjGSLzrtEgpF09MkQsYCLmfN2eyrzh2+i7neEemfTsYrd3CtmMJesOx5XS3dO3kzK5u6UsjaOLbbxOIMhaMiK3Iw1ycvN9u2R346sprQEHd1PMq7gkQrI+MISb/3itAHF+5GVb7kCzhvI4C3hBvM9/5tKUf105Y1lNHf7zrfH8Yj1uV0YaJDBF31HY9oJE/3s8jh6U5ZOXScX5yRxuOaKCz2FYLwoSjaNpDfnBG4ESkBcGihE/vGDe0bvgE2lneDkkq59D8MMUYP2qh8sTsaE+fTnPPKU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQyNDgzNiwKICAicHJvZmlsZUlkIiA6ICI1ODAwZjIzNWQyYjQ0MDc5OTcxZTM3ZDhmNmY0OTc2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW55cmlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2OGZkZTk4MzI5NDZmNmRhOWYzNzQ4NjQwYTlhNzc2MjBiYzQxMzZiNzQ0YTJiMDk3NGNlMjZlYmNhMTg5YWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aLagoon\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_LAGOON",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_LAVENDER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Lavender",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"lavender\",id:\"FACTION_RABBIT_LAVENDER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"01ecfeca-6352-33dd-8600-740d95c6a56c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"WuK1ffFcc4B0tZ8o9KsFoEk4X1e3D1YQEH9d0oWnGKvF1uUqtS/wV6ayw9jGzu+PdNsgvr7pWh4f9ZrApPuwTuvzThZUxXbxAFG7yllSMBlsn+uJ/G84V0N9baAEJMD+EMyzVXcm5MGtmS0Q+284yc4hbSMwwwAiF1RV3UuhCHRjTHnNjexFfs7vsEhYFB2Lry5XtSyrGZ9qcAY/QexFcFdVfh7myPJcmgwtrZt5LSwmzbcLXQ+0vsscIvsh6UCGu49yBzEnGV3GBVN0LzWB1PMUaE6RvDkl4KI99PkmLejAZ1GD2Q1OXuetIafEmw2WEox2w+2RFWKVBVG+1v6ihbdkU3AUqSeTVeuS9xF8XDj6NWkWwFfkHIfQanN7NeOaKLHWCh6oGljoHeBkAj4/+Egg8g0GzBe1dYGJJXdG3SWtk4KCGxnofPjjO0OniW3cbHmJmTc4GCygoSNtqt4uTCJ0wfZ224P5gatlPb/+UEVzFql7mbvw9mzGLEkXu1NbyP1HjWlpK30fcn3VRit/x1zxk4i5ls7OGLWzACntAK+gcRQ7qS7rofhTj5uHhd3+A7QgwnFgNKQu4ScimLENyl5UNZhjrMAKrFOTxB7StiUYssMOyV9GZha+V9ksUefPv939VkmNZgJrml1IqGcHRc1Q5aPNsTmWk2PBf3hdvn8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ5MTkzMiwKICAicHJvZmlsZUlkIiA6ICIzZDU1OGQ3Y2NmZjk0ODdkYWE1MzhkMjM4NGE3OWFkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlwdGljTG9zZXIxMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYTEwMDMwZThlMTM1NDljZTc5ODQxY2ZhYWIzNDcwYWE1YWRhOGI2YTQ3NGUzNzU2ZTYxOTc0Yjg3MTdlOTM1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+10 Chocolate §7and §60.005x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§5§lEPIC RABBIT\"],Name:\"§5Lavender\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+10 Chocolate §7and §60.005x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§5§lEPIC RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_LAVENDER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_MARIGOLD": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aMarigold",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"marigold\",id:\"FACTION_RABBIT_MARIGOLD\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0c881cf7-ba2e-3750-8bc9-3c423c13af4e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"gtSG8Y/uLBLjUEP6uGGZR5n9q6JqdSqlPahDp2/JP9by1/fRxvXOlE8Nrpf+Qy4okBUbntxE6y2P+/0x69iIECf8lhFLEXMIoX8jp5dIvkwNiG7USWUWi6H+ISFMDEj3yp8Ohk65/FO04AfF+Q6wrWZsdOjElt5K7IJEEouIOtw3ubAMahK7SaIhtfRQzXlvv5P0w5s2aeyVkyKG/D55tA09Iv2yd099CSKAbVqF+dh6UZiCurhr6ceOHRrB+NA9Uzg9HmWL47xyTON/HxMsr9MnX317im1zyA4fNxi5ybN/FhkraEDfi2ZZ4os+qnKNjWmHhc8SqjmCin5mZGqNt5KQ9KTyHZfv/LN0CY766pB5vzJ/MfmJctHoZM01yQZfpMAzZE6Z7Oyx7iabE0Epo8sKMS0qJWelIKurwaQyF5gjwnbuPynVCTzL/vyGsIr141o1YsGYiAuuNd1d23rP1rFkh78z3Xq2PAfUWB3RiIuMA7VksZGY3cOwQKnB5zhI9U7Apt4EyDSyq7BRJ0m/ZfjxeTwMsxqos/94UCQmfBZyuRHcVUiXWn9xPaTUMveGlTxNYFIxjW83Fc2uz6+1i2knzjYkT0hw7VI+GljmKbuPecGeUACV4XThWZHSHqLeV9i9S5wEKzFZW2hvmLaApmYEIhrBXtiQeNP/ApjAl5M=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUxNzU1NCwKICAicHJvZmlsZUlkIiA6ICIzZThhODgyM2ZlZGI0ZGYwODRmZjE1NmQ3ZDM0YzMxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlwbXVua2llY29va2llIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmYTE0NTc1ZjVjZmU0MTQyNGIzN2NkMWYxMGViODg0NWJmOGUzNGI2ZTZiYjcyMzZiNWJjOWMzNjdjMGVkYTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aMarigold\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_MARIGOLD",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_MAYOR": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Mayor",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"mayor\",id:\"FACTION_RABBIT_MAYOR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"378bb5d3-5b1d-349b-9912-1cf58835c3e3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"pwoaxdi9icbPJD7gsATta6kfgUpFOwxX/oBOpQUNrjkJysotMkoLLoM2C7w2dEopMRNDrc8NL/lKtRMM1xM7yKbuX2qMLKQEmT2CEC9Drkbj109bkWyCQTKxrbLkjbncdaZRwWeujtrwZWt2VlcJMfuC2LRi/ROW2vviVI9B5LUyd6nYrfpZFnoRAoyJ8xznxrEnHL6gkDPJjzLMr6C4xVSeQV3WfgfjBevZwUzKnjcybXGqpJt6L91KeFVBso6a3b+w7jJpVrOTPlfXUObeE6g3TMrJ84HsFsU28G6R5z6gCpxWGGmkSScuFmB7aueHgDckLWn4WyPRxZEBtAKv7zM5fK/orCVDsvMxcj5XgxUrQ42r2vRtdlPcsCwcW6qtUpyAEzlHeASKsQka5uCreD5Uk1sVAHGsF3iZhZOxAIM6b8FSTjbtIbXC7gko8nHWXxXgS5DBSnRfcSkh/KYZ0HHDtkR6xBWNcHghkrTe1B3jb5LSVsydhz09q/nMsmU07KIUR+4NdpAKZk2mRV2nJEGgRw06b5KpEocb6QiGc/LcFa2B3aer3MysyOrcMrtClBNB51IkPAmVBMdHWiHDOL1EA3yZ3Auut0nrRjB4QWcXx+HYP0/fllb6p3T9UuIkgKll0TTkyzRVMNMYnRDjTmWgQnBweQgcRj7FK0zxFHk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ1ODczMSwKICAicHJvZmlsZUlkIiA6ICJhZWY5YmQ1YTIyMTc0NjljODYwZDAzYWE1YWNkNWQwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb3JydXB0ZWRrZXkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA0ZDU5YWRmMmZkNjcyOWFiZjU4MzUzZGU0ODBjMjVjYTM1MzRjNDdiZGY2MjIzNjIyMjRhNDgzYjQ4MWU3OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+0.02x Chocolate §7per second\",3:\"§7to your §6Chocolate Factory§7.\",4:\"\",5:\"§eRight click to add to your Factory!\",6:\"\",7:\"§6§lLEGENDARY RABBIT\"],Name:\"§6Mayor\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+0.02x Chocolate §7per second",
+      "§7to your §6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§6§lLEGENDARY RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_MAYOR",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_MINISTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Minister",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"minister\",id:\"FACTION_RABBIT_MINISTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9fa75a7b-37f7-3b84-b979-cffd48b4e3e3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"gTCI74JVAxeiFOlsulz0H5tKrCnIXPYalruaXWDy7qU92mhH6UtWDkBCXeyqOHAUqea3nJztOx23WF8sCmwbuNTS0CBNvIY1bN+T2qn/HPCeCTiJSla0YJwW+tuYjD4EwtiTik3bBZ+oVNqKM641OHu0IIIPQgSyNBu53Rd2Vz7IGa7hwf6y09FTzj1jjsKIzUTIExHqCBvO9dAEVgVB8jLrY9Vei8+B6vdvslqMI6pXPlG2Q1hv2rqEYholizLVx3o3AXH3ZqmfaNw0kS7IO2SwWBk9psJxG6JUpDuXKhpJ3ZxSPyLaSuo1ERK7flvpZLDrXNMc7LDUjq/NdtCW2efCLsThs+O74RirLAVi2pa+Sru43sb6I1YGxOECP2XfarpjiTfGroCfHKiZokGUApceT8E3bV8g5BfOvLfmAgQE1tRTSIKOkE2L8lInsIXU7k0c9fKjFjItKBV4f0pMXf4CNzS/oAmUd4aLKUdmFqGUC1g/IZep540f+mRA5hIgkhjcDuLoqJuobAnX2CWqLHVT1bdsb894SHWIraRvT9zeJqkpNhQbrCNHk8DWheNNUT90WUJBxCUJerFpiEwKswCFegYNFYpc0f93wTYbrn0BJWz+z+1PgccJNZG3pZ35zGcUIZDHHnqIaP/1B5Gf9j1jwhlPf7po3NBzOdRr+/w=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0OTc1NiwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NmNiNzU3YjBhOTMzZWRmZGY4ZWI0MTAxZGQ0MzViM2RiZjY2MjQzMjdjMWZkMDk2NWFmZTBhM2E1NTA1MWU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+10 Chocolate §7and §60.005x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§5§lEPIC RABBIT\"],Name:\"§5Minister\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+10 Chocolate §7and §60.005x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§5§lEPIC RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_MINISTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_MISTRAL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fMistral",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"mistral\",id:\"FACTION_RABBIT_MISTRAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2f487ff2-d45f-3c05-b624-30ca3a5bc7ee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"REx6lEOlvniNZ/ta+tcxBKxnJ6dFN5vZKljMUse/0uQBI0p0WnRTP5pNwRiJBqIKANUxqCX1FVMsq7E/22wxhe8AvWjm/s7VYPhvWfAWSGM74vpYuCb4xWTAWTjcgsdcbuO4oCbI1JAWMGK4gTuq6jFEF5fl+kyYdpGG2vi6gJsS5APrloLnXZsS/yNllw5p3jYhXZ1Y7JztDho+e9T3bm2MAR7zr8Zi0bBlmYcQleL0FgE6M+QeV4jPipN5G2HqhL5ps4O7Z0aFws8bMssgMMOpKm9Dg01QBPZPV69LOFUFor19YpzdC8SAoiyE8FO7Z43BKmQ+j82MYre7IhN0cfNpHNKngUplYjuV9Vv/3Hy8/TokyxNkGSrBxeQqD0unMKWlBe2pmahkdIJZYh4B7nxJiPdqoCcMmrc4kTTKH11tKWLVoUWiZlq6cWvM5JOGvidNXdGfCD5EU/xoc7/VNJ8cnr4V94/J5dP6DIuwukBMfr5KLXkOyOHp98WYRUHPqc0hReXGF8Rc5k5MV9LWkjIhDh9IiOIQKRijP1iA+uukfTtiBJqoI1KVy5zw9fOuanVCNpuB+5t6NJDgJ4kpv/vddAP3mcNnMrt0IaZSCP8I1lfG1oQOoNBvuKRw5NKn0hFa4q9JaTvO8y+mUjNIXnjhb36BXGmwU2X1UfInuZw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYwMjI1NiwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTU1YjNlOTZmMjBiNmUzMDg2ZDFmMGU3ZThiNDNjMWFkNTg2ZjI0Njc5NjU0NWMwNjFlY2I1YmY1NjNiMTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fMistral\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_MISTRAL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_MOCKTAIL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aMocktail",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"mocktail\",id:\"FACTION_RABBIT_MOCKTAIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"94d809d7-2d84-308c-a864-c26f273f9350\",Properties:{textures:[0:{Name:\"textures\",Signature:\"e03aG143L7t2iJk+OE2mbLufN8kETR7Tad0ILOQV+v+SeThL4tIb+OEVO2+/qj/gORU82/BPcX2Vkh1dSN8PH1YN7f76ShRS/49gVDNHdG9OXo6l7T3ZKS7Fs7tZNV9OgdW5pGoRNjasLi1AtJI5uK/AT6L/2WzYvHkSrjVXGT/bmTSPAtb4euyoTD4lPiAEq4/vnrA7chTwd/veRy8IUzUz7QRO3vqW/3tWhGsg6suOInXl6AqC6gcu/Sz3LcKxLQXlcvdE6VBCUKLsixNl4XCN1dRu6ZwulbKuMAASI5bpiT8lqDPEcAz+DZvF72WHUh1NaCTUMnB1HEVP5G9dkHC0z1ZuKogl1O+6nZQMq8cTlBD5ZeA1aSFDTk1mLf5HXPcnolIRP5TfNcnjGSLzrtEgpF09MkQsYCLmfN2eyrzh2+i7neEemfTsYrd3CtmMJesOx5XS3dO3kzK5u6UsjaOLbbxOIMhaMiK3Iw1ycvN9u2R346sprQEHd1PMq7gkQrI+MISb/3itAHF+5GVb7kCzhvI4C3hBvM9/5tKUf105Y1lNHf7zrfH8Yj1uV0YaJDBF31HY9oJE/3s8jh6U5ZOXScX5yRxuOaKCz2FYLwoSjaNpDfnBG4ESkBcGihE/vGDe0bvgE2lneDkkq59D8MMUYP2qh8sTsaE+fTnPPKU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQyNDgzNiwKICAicHJvZmlsZUlkIiA6ICI1ODAwZjIzNWQyYjQ0MDc5OTcxZTM3ZDhmNmY0OTc2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW55cmlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2OGZkZTk4MzI5NDZmNmRhOWYzNzQ4NjQwYTlhNzc2MjBiYzQxMzZiNzQ0YTJiMDk3NGNlMjZlYmNhMTg5YWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aMocktail\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_MOCKTAIL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_MOSS": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aMoss",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"moss\",id:\"FACTION_RABBIT_MOSS\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0c881cf7-ba2e-3750-8bc9-3c423c13af4e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"gtSG8Y/uLBLjUEP6uGGZR5n9q6JqdSqlPahDp2/JP9by1/fRxvXOlE8Nrpf+Qy4okBUbntxE6y2P+/0x69iIECf8lhFLEXMIoX8jp5dIvkwNiG7USWUWi6H+ISFMDEj3yp8Ohk65/FO04AfF+Q6wrWZsdOjElt5K7IJEEouIOtw3ubAMahK7SaIhtfRQzXlvv5P0w5s2aeyVkyKG/D55tA09Iv2yd099CSKAbVqF+dh6UZiCurhr6ceOHRrB+NA9Uzg9HmWL47xyTON/HxMsr9MnX317im1zyA4fNxi5ybN/FhkraEDfi2ZZ4os+qnKNjWmHhc8SqjmCin5mZGqNt5KQ9KTyHZfv/LN0CY766pB5vzJ/MfmJctHoZM01yQZfpMAzZE6Z7Oyx7iabE0Epo8sKMS0qJWelIKurwaQyF5gjwnbuPynVCTzL/vyGsIr141o1YsGYiAuuNd1d23rP1rFkh78z3Xq2PAfUWB3RiIuMA7VksZGY3cOwQKnB5zhI9U7Apt4EyDSyq7BRJ0m/ZfjxeTwMsxqos/94UCQmfBZyuRHcVUiXWn9xPaTUMveGlTxNYFIxjW83Fc2uz6+1i2knzjYkT0hw7VI+GljmKbuPecGeUACV4XThWZHSHqLeV9i9S5wEKzFZW2hvmLaApmYEIhrBXtiQeNP/ApjAl5M=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUxNzU1NCwKICAicHJvZmlsZUlkIiA6ICIzZThhODgyM2ZlZGI0ZGYwODRmZjE1NmQ3ZDM0YzMxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlwbXVua2llY29va2llIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmYTE0NTc1ZjVjZmU0MTQyNGIzN2NkMWYxMGViODg0NWJmOGUzNGI2ZTZiYjcyMzZiNWJjOWMzNjdjMGVkYTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aMoss\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_MOSS",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_NECTAR": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aNectar",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"nectar\",id:\"FACTION_RABBIT_NECTAR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0c881cf7-ba2e-3750-8bc9-3c423c13af4e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"gtSG8Y/uLBLjUEP6uGGZR5n9q6JqdSqlPahDp2/JP9by1/fRxvXOlE8Nrpf+Qy4okBUbntxE6y2P+/0x69iIECf8lhFLEXMIoX8jp5dIvkwNiG7USWUWi6H+ISFMDEj3yp8Ohk65/FO04AfF+Q6wrWZsdOjElt5K7IJEEouIOtw3ubAMahK7SaIhtfRQzXlvv5P0w5s2aeyVkyKG/D55tA09Iv2yd099CSKAbVqF+dh6UZiCurhr6ceOHRrB+NA9Uzg9HmWL47xyTON/HxMsr9MnX317im1zyA4fNxi5ybN/FhkraEDfi2ZZ4os+qnKNjWmHhc8SqjmCin5mZGqNt5KQ9KTyHZfv/LN0CY766pB5vzJ/MfmJctHoZM01yQZfpMAzZE6Z7Oyx7iabE0Epo8sKMS0qJWelIKurwaQyF5gjwnbuPynVCTzL/vyGsIr141o1YsGYiAuuNd1d23rP1rFkh78z3Xq2PAfUWB3RiIuMA7VksZGY3cOwQKnB5zhI9U7Apt4EyDSyq7BRJ0m/ZfjxeTwMsxqos/94UCQmfBZyuRHcVUiXWn9xPaTUMveGlTxNYFIxjW83Fc2uz6+1i2knzjYkT0hw7VI+GljmKbuPecGeUACV4XThWZHSHqLeV9i9S5wEKzFZW2hvmLaApmYEIhrBXtiQeNP/ApjAl5M=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUxNzU1NCwKICAicHJvZmlsZUlkIiA6ICIzZThhODgyM2ZlZGI0ZGYwODRmZjE1NmQ3ZDM0YzMxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlwbXVua2llY29va2llIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VmYTE0NTc1ZjVjZmU0MTQyNGIzN2NkMWYxMGViODg0NWJmOGUzNGI2ZTZiYjcyMzZiNWJjOWMzNjdjMGVkYTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aNectar\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_NECTAR",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_NEON": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Neon",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"neon\",id:\"FACTION_RABBIT_NEON\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9fa75a7b-37f7-3b84-b979-cffd48b4e3e3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"gTCI74JVAxeiFOlsulz0H5tKrCnIXPYalruaXWDy7qU92mhH6UtWDkBCXeyqOHAUqea3nJztOx23WF8sCmwbuNTS0CBNvIY1bN+T2qn/HPCeCTiJSla0YJwW+tuYjD4EwtiTik3bBZ+oVNqKM641OHu0IIIPQgSyNBu53Rd2Vz7IGa7hwf6y09FTzj1jjsKIzUTIExHqCBvO9dAEVgVB8jLrY9Vei8+B6vdvslqMI6pXPlG2Q1hv2rqEYholizLVx3o3AXH3ZqmfaNw0kS7IO2SwWBk9psJxG6JUpDuXKhpJ3ZxSPyLaSuo1ERK7flvpZLDrXNMc7LDUjq/NdtCW2efCLsThs+O74RirLAVi2pa+Sru43sb6I1YGxOECP2XfarpjiTfGroCfHKiZokGUApceT8E3bV8g5BfOvLfmAgQE1tRTSIKOkE2L8lInsIXU7k0c9fKjFjItKBV4f0pMXf4CNzS/oAmUd4aLKUdmFqGUC1g/IZep540f+mRA5hIgkhjcDuLoqJuobAnX2CWqLHVT1bdsb894SHWIraRvT9zeJqkpNhQbrCNHk8DWheNNUT90WUJBxCUJerFpiEwKswCFegYNFYpc0f93wTYbrn0BJWz+z+1PgccJNZG3pZ35zGcUIZDHHnqIaP/1B5Gf9j1jwhlPf7po3NBzOdRr+/w=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0OTc1NiwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NmNiNzU3YjBhOTMzZWRmZGY4ZWI0MTAxZGQ0MzViM2RiZjY2MjQzMjdjMWZkMDk2NWFmZTBhM2E1NTA1MWU4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+10 Chocolate §7and §60.005x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§5§lEPIC RABBIT\"],Name:\"§5Neon\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+10 Chocolate §7and §60.005x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§5§lEPIC RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_NEON",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_OASIS": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Oasis",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"oasis\",id:\"FACTION_RABBIT_OASIS\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2efb2832-0940-31aa-8a83-e43f2dfe66fc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"t+h74FEKTo8H2Q07pTHynb3jbeMTW9BT+Xlq0OlDlRmqD7Llm/uD6ZiZWaLwXy2LPhwqcy9B2/NkF4u0SmJHVr4DHc/1fY9qdNSmyakq+RktiD+cJQWUe+PbKr2KpuoUO7QRV67QGoJ+Idb929TWs0/MBjmaFmFXfmIGca01py3VLj+Gbt77s0/uzN9tVb4+HGSyfkwo7yoDto2nVnnEfctnT8iulJG/pCse34V4NhqrwDUDPcXKcRDlRIHzMQacDEJvnciRyxve2qOwttjMh6BPSgk6tODybGffKGh/b05tGKvdwGVhAIZ7756PtCzkx96Pl+CVMxwxpgn4NwHe6mT5WyUykWH0HlU6+ww1qJAW62hOeqJOrTHvbmceh/MF/diwzWnRPblFOOrmZO73rONS/SVUX7EnLs/5QHcyjvcHxzkVyMJFswLAuLP52z//zCM9XMmSQ9Yimx+L+vqDwD5EgGa8vwhehM0A9tRN4nFAPy1lYxitDgD1+dos+q+bg6B21ip6pACs4aOa/YdYD1OQnhvplbdvp2ZJexGMzPMxEsDtwwBExfOz4g9kjTi8EbpJrZiZbjSvTupk26FtJhx6MVLMqBt30qtusIUl9hSHfCkjf2kYGVK29B0fYKZZfEjXLi/nRKpMeRprOAFl91Q81azP+RcgdJQuWpOpFMU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQxNjQ5OCwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEyOTg2NDBlNWQyZDhjOWUyYmFjMWE0ZjgzNjlmMjE0YjdlMTdhZWE0NWRiZDhmMDFjNzI2MmEzMmIxODg4OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Oasis\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_OASIS",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_PALM": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fPalm",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"palm\",id:\"FACTION_RABBIT_PALM\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"762e2e0b-1d37-3bba-99f3-f7f9cbcbedd2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DsF+34BP68yvDHDBgo2lI6HxCQU5vO5DTzlheRRrk9brYlVjWNoZBdnaVFDuLyAEc3wlmm2aX8MHZGt0FaWyrJKB1Pu0z8dlAjeSP6wGPL422cMowL7b3MYwXuV1z3d5NRGaG6onjeHf6/G6qJxtaROTVM3Kg+UAS562JL2SaWjh01RUvVsT4WCpedvg/fXgiLLwYV7NFwjsQn8xM8IcCOgAghTyk2lW/9CCQF6122EcVYs4er0SE753zWr/CU/3NHSNAtXp/Jf+KkehuC+nUICKZ9JP+2MyO+t1Vq4JGAU5PTd9aHyL2Qd1bfP/b5AFZ7WD368wAQD7udDXkNdF/H7kriHfBR7XfbWYJK+0K7O2fZMjXgp8dtrTN7IyCRoRM8w5Nj2JnJHWbk+oRQlY026+oPh8fvZwE06SEwkj4N2w04tgKHDnMN6+n/XFWkxsFgE0VKf/Ousb/tpf+nbeMTechFMyQMM01GwHy7LoFUyBwQQg+pOIPy5Oj5e1fMrGJxZZRdpJGTsWVfKmy2mjnlKTHWs86hoN+LiMaddGWe/jl0CStGkKuQzLpmxB+6XPSrsjRdn0YPwYVDU0iP+BecMiJxALLudpqO+B8nLz7W4gB/+XrABe++i0n3v0RumIn8dqrTh2flbyUX4eduhpmmZbA0ryHcuMYkZJD62+ap4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYyMzMxMWUzOWJkM2QwNzMyYTVkZDFlMDdlNzY3NjIyZDJiOTc0YzQ0ODM5OGE0OTQ1NmRiNGFjOTYxOWI2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fPalm\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_PALM",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_PEON": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fPeon",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"peon\",id:\"FACTION_RABBIT_PEON\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bfb2932a-d9b7-352c-97f8-bcc731d318c8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"kFW5iC6rPCxKxSWgrAwg7OWSHeVCo108KWCxrluxB/whEiuTXPeKQshIxAckgDqOLu2falonyro3kCnQWL57WX/AaIZC3XdwFoMqZUCeSxC7L2F9Rn1SvpxTOp6RMQbemAAMMDdlowNtF47NrL2b5/cKoBlSKurJLsGtXQda+kLGkNz5V0Zu9fh+4wbZT9uJYmuC4gWRubwGX4GUXBKnGCr5ZeBS42UlPm3k559c1QLeCRsPCZM/uMbkbU7j7/NEu8UVwbyDApC3D0jDSNbTCuDWz4Rf9FHwlMfTIqBQwrIuLs5Rck4d8kz8s7Ul/anB9e1jnG4RoXv0dywvcdIkmUobPNdce5hkm9/+E9n5zwsY5X60D4bV1vDrnyq/XJGYWEx+UX5kDDXufYwlmCfQh0GBm99KT7EeCbD3+9iExJS06QOMJhh5IgxYGmGhaL2zwXKrJYXpu1PGP0uznNQ+FBFWAnrhYaWr6+t8Vggr3ytXssT3oYm+HLxZaafeo04sf7wcA/9zZ4c8tMuFKyLa2B4OiPN84pjSKY6Xp1Z+MBa76SJHqWqzweh++LMobG+h6RWS6vo400sDNUnpkBQ3435MkgYVVGN4vLG7x5upPFnBrFKz61046PTQn2qMnh3rmKJfd71A3XB3YyXtT4wx8RXeFVWpP6ZCb5fIpmxfzjc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0MTcwMSwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjc3YjE0NjFhNzUwNzMxZjcxOTFkYjZmZTQ3MTRkN2I1NWY2Nzc3YTRkNjhjY2NkYjc5YzJhMjZlYWFkY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fPeon\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_PEON",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_ROOT": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fRoot",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"root\",id:\"FACTION_RABBIT_ROOT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2a8dd7a4-2f0a-3257-9efe-fc1a9d8e2ad2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FwyMFRtZ2xHqsEki18N57kSicoerLm2gsfVeaFeyDpeFVGjTzBjLrMn/MVgaineHZT9q5hUVpHgyPkLSxngvlLW+Hf59Bqb3ZLIHl9omYzqaigwUZxN52Df982I0g9HJCnVqHI+lQ6rjtMnjWu8k0IQkZr7aPW4LaOTSATucXodO+3RUGvM3WyQKALVmCXA6OX2GQOhhfUadvhAcdX5v/8meoqgOh79fGTcCvpfY2Yk7Tv/yEYJEZG9c3EnNz0WnkwuB3vSsKOUmZe7J2v2Iqceg7TsIhw9R+q3l/LDIwJPMCfiMxfdFLIHEPEjOPDZF2e2yen2v5dHHduULrxtOsieDaegMV1Ayj9I6axzus8LYXXD9WNQzM6Ad8wNf/+CHGSSLGXhE7g7NeX/YpH7I5JK5TKmj9KLHOjX9FRtHGpsmxhqrQzeBT9V+2cyl5lILiQYEcXMqDU0lpUeA0iYlCuRTUroxDlC95DbcamUC+yRkLtGt1NnJPkwtq4PeynK4RE7oxyPeTnkZGF/JbJwUyQe9W+4qpup6MHxv3sSbqUWl7T6lTrLyITn2B/+hhr/X2xPSTFsSfnFEZcl5j6grStuhS1uRBAnkfWIPmAV5iEI1qMwj5/eL7Y2u7YAhdBou04kpRcmdejJ1QrPD8U9NIApfAMxuLLAHR6nYIzDTMGE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ4MjQ1NSwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYyZDAyNzUzNDE5NjAwNDRhYzA2NDZhMTdjMjJkZmE4MmU4ZGQzMTVlYjQ4ZjRkOTAxYmY1MTNiOTk2NzQyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fRoot\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_ROOT",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_ROSEBUD": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Rosebud",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"rosebud\",id:\"FACTION_RABBIT_ROSEBUD\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d18ff8bc-6844-33d3-b571-b944c139a6de\",Properties:{textures:[0:{Name:\"textures\",Signature:\"shXxAqtbkpL6pN4LOVf056x8BkaxlKMxoDBMdU1JP7oTThw4NVkICQQS7JEQvRs1BZdT4TBsJ5YEKUBs/zbXawJ6lHI6FY/ds9NM8iaX7Z40S6jnQ83EVf0ZeLqKnc5kL0SDEthPWhp+tj5ojo5lFn7AP1DA/dek7y0A+bHiNN1q3DxtOMkMqEQpbOF4/CXu6KBlFQM6hPuxhKy5U1h0/oBMsYTapFFmJv1gYBkrn5OuUPBfszv5ahqqFjSJXYrJrouQSRu21TIXSfPit+VuqVl2h4s52VcQodrzWO8GbFZcXWYyeUsASwqfKFuzY9p7H2YyBwqjlftvq3k5EImGms/wXw7ur7f11QTOng7X5Q/xAZGgKdkzuiSzf11snTAzsNuQpQHu0f3Q20BeP+JJPvrTf13XrLEOz4gZm96vWyyFfauyIUHHwcaMOoCjsTNAfUsZg3b/iwNk5JX+3goraDTBztffr6r9abLqahSjVIIVMIwSnfLlXzQ2eusjfsOFEBICanRYYn17wwDUtRI6Oglqy2AaHO7ftIIvvUUdBOlQZ7rHxFzs4Up8EpNOQkVJxsNTBbq/6HTA69wEAmUGtXfOTEFioLr29srC6APCHyKDUPyu9+pSkZM6FcA7/pSIz80Bevlv4TqvtEkc5/i13ystNfT3v+FC/6TUYzvwIJA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUwMDQ0MCwKICAicHJvZmlsZUlkIiA6ICJiNTQ1ZDcxNDJkZmM0MWVlYjBjMDcwOTkwOTI4NTE0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJraXdpNDgxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMjJmZmI2NTFjNWZmMjVhMjhmY2NlMTVkNmY4Yzk1OGM1ZjhmOTgzYzlkZmU5ZWMwODNlMDc5ZGM3MDA0MzVlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+0.02x Chocolate §7per second\",3:\"§7to your §6Chocolate Factory§7.\",4:\"\",5:\"§eRight click to add to your Factory!\",6:\"\",7:\"§6§lLEGENDARY RABBIT\"],Name:\"§6Rosebud\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+0.02x Chocolate §7per second",
+      "§7to your §6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§6§lLEGENDARY RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_ROSEBUD",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SANDY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fSandy",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"sandy\",id:\"FACTION_RABBIT_SANDY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"762e2e0b-1d37-3bba-99f3-f7f9cbcbedd2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DsF+34BP68yvDHDBgo2lI6HxCQU5vO5DTzlheRRrk9brYlVjWNoZBdnaVFDuLyAEc3wlmm2aX8MHZGt0FaWyrJKB1Pu0z8dlAjeSP6wGPL422cMowL7b3MYwXuV1z3d5NRGaG6onjeHf6/G6qJxtaROTVM3Kg+UAS562JL2SaWjh01RUvVsT4WCpedvg/fXgiLLwYV7NFwjsQn8xM8IcCOgAghTyk2lW/9CCQF6122EcVYs4er0SE753zWr/CU/3NHSNAtXp/Jf+KkehuC+nUICKZ9JP+2MyO+t1Vq4JGAU5PTd9aHyL2Qd1bfP/b5AFZ7WD368wAQD7udDXkNdF/H7kriHfBR7XfbWYJK+0K7O2fZMjXgp8dtrTN7IyCRoRM8w5Nj2JnJHWbk+oRQlY026+oPh8fvZwE06SEwkj4N2w04tgKHDnMN6+n/XFWkxsFgE0VKf/Ousb/tpf+nbeMTechFMyQMM01GwHy7LoFUyBwQQg+pOIPy5Oj5e1fMrGJxZZRdpJGTsWVfKmy2mjnlKTHWs86hoN+LiMaddGWe/jl0CStGkKuQzLpmxB+6XPSrsjRdn0YPwYVDU0iP+BecMiJxALLudpqO+B8nLz7W4gB/+XrABe++i0n3v0RumIn8dqrTh2flbyUX4eduhpmmZbA0ryHcuMYkZJD62+ap4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYyMzMxMWUzOWJkM2QwNzMyYTVkZDFlMDdlNzY3NjIyZDJiOTc0YzQ0ODM5OGE0OTQ1NmRiNGFjOTYxOWI2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fSandy\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SANDY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SCREE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aScree",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"scree\",id:\"FACTION_RABBIT_SCREE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0beb7839-b680-30c9-b7a9-2227e4514bb8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Cyp3NdWlKFhXEUh1jLNQurO+7px3m4NbmACDcN8LTLQvfqSRqaSX+5rMPeSZkOqyHuNDVZg4w2A7cL48yo4v9MV5KR0iY7CzmtFX9+46zakXhyaYtHanbWWWOXa122XvqV8mU9MdWGuKizfu4/HIBVEHGLTDZC4Vdeq71evuj7M/XxknkUuL1GGWAp5AUGsiecCwzHyurQLJ+vpO/0YBHQA7gV1iX2mfPgB+AZm/l/JR0OOUrQZMuxnr0Snwi3DV6a4jVloq02Y2VKM9f6y0Rm3ZEoGQBjXXD8YklAycNujr4J8kYnrbqWQLZUDGrkFLNygRoL0pi34EsmZe9YDQArfZwellnmUwNd/OH2aEqYkTurTpCmVSqcRHrCrgIstt68Z/O7Vf5qwH/eoq9552OB+SMi6ik4qQvvNkI9dDj+3Y0m+DYy8OS4iZceMcjneKt5AtFEEl9DMV9vh6EUc/Q+3eiSRzzH5pbW7ZedMNykzVyJO8ApoftPTtH4GlmhQyRF/2vy3JSJLAWUZSyPZya5FvDWbZyXin2ictT5hWJjo8pCfvd1XiPr/V+aCA06bq/F1tjERDPp4SfFEtfZY4byKFUbLW6IZgoftHpg9TA2ptBez6brJZEBLGT2GzrZ6SX30qKDul0VuAkNMydLXpIbvs6SuR7RVKeVXwyaE/JKE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYzNjgxMCwKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI1OTg0ZDIwNTgxMjAxMjJkOGQzNjQ4ZDYyOTViOTQxZDA4MGY2NzE1YTYzODdkY2FkNzYxMjFjOGVhMzkxMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aScree\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SCREE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SEABUN": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aSeabun",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"seabun\",id:\"FACTION_RABBIT_SEABUN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"94d809d7-2d84-308c-a864-c26f273f9350\",Properties:{textures:[0:{Name:\"textures\",Signature:\"e03aG143L7t2iJk+OE2mbLufN8kETR7Tad0ILOQV+v+SeThL4tIb+OEVO2+/qj/gORU82/BPcX2Vkh1dSN8PH1YN7f76ShRS/49gVDNHdG9OXo6l7T3ZKS7Fs7tZNV9OgdW5pGoRNjasLi1AtJI5uK/AT6L/2WzYvHkSrjVXGT/bmTSPAtb4euyoTD4lPiAEq4/vnrA7chTwd/veRy8IUzUz7QRO3vqW/3tWhGsg6suOInXl6AqC6gcu/Sz3LcKxLQXlcvdE6VBCUKLsixNl4XCN1dRu6ZwulbKuMAASI5bpiT8lqDPEcAz+DZvF72WHUh1NaCTUMnB1HEVP5G9dkHC0z1ZuKogl1O+6nZQMq8cTlBD5ZeA1aSFDTk1mLf5HXPcnolIRP5TfNcnjGSLzrtEgpF09MkQsYCLmfN2eyrzh2+i7neEemfTsYrd3CtmMJesOx5XS3dO3kzK5u6UsjaOLbbxOIMhaMiK3Iw1ycvN9u2R346sprQEHd1PMq7gkQrI+MISb/3itAHF+5GVb7kCzhvI4C3hBvM9/5tKUf105Y1lNHf7zrfH8Yj1uV0YaJDBF31HY9oJE/3s8jh6U5ZOXScX5yRxuOaKCz2FYLwoSjaNpDfnBG4ESkBcGihE/vGDe0bvgE2lneDkkq59D8MMUYP2qh8sTsaE+fTnPPKU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQyNDgzNiwKICAicHJvZmlsZUlkIiA6ICI1ODAwZjIzNWQyYjQ0MDc5OTcxZTM3ZDhmNmY0OTc2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZW55cmlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y2OGZkZTk4MzI5NDZmNmRhOWYzNzQ4NjQwYTlhNzc2MjBiYzQxMzZiNzQ0YTJiMDk3NGNlMjZlYmNhMTg5YWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aSeabun\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SEABUN",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SEASHELL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fSeashell",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"seashell\",id:\"FACTION_RABBIT_SEASHELL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"762e2e0b-1d37-3bba-99f3-f7f9cbcbedd2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DsF+34BP68yvDHDBgo2lI6HxCQU5vO5DTzlheRRrk9brYlVjWNoZBdnaVFDuLyAEc3wlmm2aX8MHZGt0FaWyrJKB1Pu0z8dlAjeSP6wGPL422cMowL7b3MYwXuV1z3d5NRGaG6onjeHf6/G6qJxtaROTVM3Kg+UAS562JL2SaWjh01RUvVsT4WCpedvg/fXgiLLwYV7NFwjsQn8xM8IcCOgAghTyk2lW/9CCQF6122EcVYs4er0SE753zWr/CU/3NHSNAtXp/Jf+KkehuC+nUICKZ9JP+2MyO+t1Vq4JGAU5PTd9aHyL2Qd1bfP/b5AFZ7WD368wAQD7udDXkNdF/H7kriHfBR7XfbWYJK+0K7O2fZMjXgp8dtrTN7IyCRoRM8w5Nj2JnJHWbk+oRQlY026+oPh8fvZwE06SEwkj4N2w04tgKHDnMN6+n/XFWkxsFgE0VKf/Ousb/tpf+nbeMTechFMyQMM01GwHy7LoFUyBwQQg+pOIPy5Oj5e1fMrGJxZZRdpJGTsWVfKmy2mjnlKTHWs86hoN+LiMaddGWe/jl0CStGkKuQzLpmxB+6XPSrsjRdn0YPwYVDU0iP+BecMiJxALLudpqO+B8nLz7W4gB/+XrABe++i0n3v0RumIn8dqrTh2flbyUX4eduhpmmZbA0ryHcuMYkZJD62+ap4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYyMzMxMWUzOWJkM2QwNzMyYTVkZDFlMDdlNzY3NjIyZDJiOTc0YzQ0ODM5OGE0OTQ1NmRiNGFjOTYxOWI2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fSeashell\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SEASHELL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SHORTCUT": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Shortcut",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"shortcut\",id:\"FACTION_RABBIT_SHORTCUT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"495521de-96b8-3100-b16c-abd4a115d744\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JZVsQHIkZThWqd1fRkPtN//N6PmM+TLYL1ohdy16BjDOxqsf0xbgwCj320OHwRUBp7E/eq1lIAWmn4iaImQmw4h+4Kroc1usuLrjICfLzt3GgSaglGe9/diF+DpQd+UcdqPGPYECqOU1i7dnsBj2yAF/1dabI9hjoCn6c0LAfjTV5eACTRMibLER6F4DoDLXjoPz+rIbwdjVtO5v6eMDnLwTnq0y0qrL2K6/FD+4/bc83q2qcDs6AeETYpmt7SAgKRYzwi1kIX8i6JWIG15bxWDUiAli5p6xfHT0iyJF1t1tcFvpAr1rOG1A3Kd47zgs+S8WL+hXrHnw7CiqHrrKdjDqBGWoRCDP8B6MID9uExIqPzhPD4paksCFK+UVl/pggssvjzxgMCrrqgi28dHnqHIf28nlekhHeeG2arFy0FYoMfnOkPGnzGw8VGZvU1UW8HCHqUde940gT+LnZKhyehCVN23+iEd5NkGipk4SfZjNDP9CxmQRTRcCR9/+5PUX+DBHh2ue3wug7scRgOtWIDprFu7E4z81vC/qSITPoaYmuhh4SWgKS+Aggk54/LFIzM+Qw2QVdO7EpJLtG4+uJDWBfRbJsQU1ducSU9pV1mXbpubrq6OM+Kppvy68Ogcktm06B+mCYsaxwamuF548UyZnetE5Vvp1U2A98/AwZXQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ2NzM4NiwKICAicHJvZmlsZUlkIiA6ICJhZmEwYmMzZTA1MjQ0MTM4YjkxMDIxY2Y3ODE2YjRkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGV4aXNNYWRkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNjU0MWUzYjNkMTUxNTgyNGEwNWVhMDlhYjA2N2Y4OWE3ZjA4Y2EzOWE4OTM3YTg4NGI3MzQwNGQwNTU1M2QiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Shortcut\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SHORTCUT",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SILO": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Silo",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"silo\",id:\"FACTION_RABBIT_SILO\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c514f4cf-9482-338e-badf-9c877088962d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JkMe8VAQ6uQ+K77TR8HcOCxq2n8m2W+PZhG3rYSqwyR7NEg1TscqPrc3vYCwZO80otm2I25OCwoW5FZOPj8QfMvXghb5u6pLjlyO7fAYpsPkR64UtuYNjujuQnY93RFweXBvN8+i6ecPQs4TFSQQptSfOXhk6WsJnxZSUrfrgQOmsHYqkxFspfXJl7fEe+8tr0/Safqgta0NXUdH/Xes7WM95ReEeQVrPICbhVrlZLcZUyQDI1WUAs6uYyYdfDWvCXD/oX4h9sAHc78mQ6NfGpBQYwDyuVkL/OCGDFJGFG7uZ3TwDLuuDwvJDku+1EnWC1t9TdN5Yy7l37rjI++JvdKeAITJnu6slbEGHXdo08x2ffYnKjiLSlcnYl8NIPDWV36s+A4HUn6jxVf4Fq1aNNwqR0TEhXSWt2GMRw3hCiTDwXMqUXivEHMfZ3a3Z+BA7EaRtnMp1gKdQcwrTv86Dzb1g8a+Q84BDkZUkugMMty02rppFMpnMlzOpO8DB0Yz3rGZkBmCqmvtTe373igsEFBOGxI7GgJV1KZsJOOerxLGkjcWs8ttbdCYZwHVbl6iuL19/4gVL19iW0jzQcKzPAaAeLcHG1ONQCpk33UeFFaK2lXhQEkG2gN3w4baJQZmYrcaw/zpeo9Kz9LycI9twQCGYVYhtBXJTpxvLCVxMu8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDUwODg0NCwKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzYmMzNDhjYTgxNTdhOWI0ZGQ2MGUzMDM3MDE4Njc1NDI5MzY0YjFiMmUxYWZmZjg1MjUyMzVlMWY5M2E1YzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Silo\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SILO",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SKYRISE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aSkyrise",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"skyrise\",id:\"FACTION_RABBIT_SKYRISE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5e7a136b-dfbd-3f9c-9a49-bea32f57e3ad\",Properties:{textures:[0:{Name:\"textures\",Signature:\"OYYpVNYrR/el65w+Zp2RdevOGBrMHSo1JJLjTlqqX2VS7sD2dOKwHrsW9GNkQtsTtDt9r3fxZ/OObKmeFNAzRqjIPY/SKm7wc9ozZ3iREyEoR5c+p73hyEAIFJLAdVzw1un/h0XCLnwMjTJMAkbZ+6HH2w4791UnDeFDtJNDykhsVUuO+AvBzuOW9nlPIpwQh2sDejpMEfOcHzy607jtX8EC7bZD4Eeh9CfLxxSGq8+K3/IZJpvlOEGa66KE2Tjk4qRg8mEsE6Kbj2y7Yblm+G5TCfxwYgpnAQquPeak962oMYyGw82nXwmzvj1i1ryE7nZNp1zrRR379FzxW0+A+dq4KKv/SP0QziOZGArCp9jkFC/sn8+EZGz0+G5dOuJhHwb4oSuS+goA+vLMFiF+/1/3l8aUIOwJiKJUqk1eMqANKxkrdcNly+D0kkWH4Te8v+ECdr6Ge/eVphgHkMieTZBVwEIpbhXcy7MlF4C0dXLBcT1PjKCe/EKa4+WsdSNcipoWvdmRdBdJl4MN7xgwtL5ybhKyOUSZc8l+n2067lgOq5BG+23CZlp/NDKpM7j+Tfjphu2c1V3K1k40+PICnjJYsLwzNIMMyyg5rbPRZ6+qhzXiT7rd5KZbY7m6hZZupKJwceErXsRh/SVn/j/RvYk22hQ35Q+8C/lUEBfwvPw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ3NDU0OSwKICAicHJvZmlsZUlkIiA6ICI4ZGQ5OWEzMDEwMDA0NTRiYmYwNGU5Mjk3NGIzYWNmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQeXIwdGVjaG5payIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmUyZWU2NTYzMDNhYmYzMTJkYjYyZWQ3MGJhYWNiNjU0N2MyYTVmNzlhMDg5ZDFiZGMwZWNhOTc5NzZmNzdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aSkyrise\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SKYRISE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SPEEDY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fSpeedy",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"speedy\",id:\"FACTION_RABBIT_SPEEDY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bfb2932a-d9b7-352c-97f8-bcc731d318c8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"kFW5iC6rPCxKxSWgrAwg7OWSHeVCo108KWCxrluxB/whEiuTXPeKQshIxAckgDqOLu2falonyro3kCnQWL57WX/AaIZC3XdwFoMqZUCeSxC7L2F9Rn1SvpxTOp6RMQbemAAMMDdlowNtF47NrL2b5/cKoBlSKurJLsGtXQda+kLGkNz5V0Zu9fh+4wbZT9uJYmuC4gWRubwGX4GUXBKnGCr5ZeBS42UlPm3k559c1QLeCRsPCZM/uMbkbU7j7/NEu8UVwbyDApC3D0jDSNbTCuDWz4Rf9FHwlMfTIqBQwrIuLs5Rck4d8kz8s7Ul/anB9e1jnG4RoXv0dywvcdIkmUobPNdce5hkm9/+E9n5zwsY5X60D4bV1vDrnyq/XJGYWEx+UX5kDDXufYwlmCfQh0GBm99KT7EeCbD3+9iExJS06QOMJhh5IgxYGmGhaL2zwXKrJYXpu1PGP0uznNQ+FBFWAnrhYaWr6+t8Vggr3ytXssT3oYm+HLxZaafeo04sf7wcA/9zZ4c8tMuFKyLa2B4OiPN84pjSKY6Xp1Z+MBa76SJHqWqzweh++LMobG+h6RWS6vo400sDNUnpkBQ3435MkgYVVGN4vLG7x5upPFnBrFKz61046PTQn2qMnh3rmKJfd71A3XB3YyXtT4wx8RXeFVWpP6ZCb5fIpmxfzjc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0MTcwMSwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjc3YjE0NjFhNzUwNzMxZjcxOTFkYjZmZTQ3MTRkN2I1NWY2Nzc3YTRkNjhjY2NkYjc5YzJhMjZlYWFkY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fSpeedy\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SPEEDY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SPLASH": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fSplash",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"splash\",id:\"FACTION_RABBIT_SPLASH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"762e2e0b-1d37-3bba-99f3-f7f9cbcbedd2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DsF+34BP68yvDHDBgo2lI6HxCQU5vO5DTzlheRRrk9brYlVjWNoZBdnaVFDuLyAEc3wlmm2aX8MHZGt0FaWyrJKB1Pu0z8dlAjeSP6wGPL422cMowL7b3MYwXuV1z3d5NRGaG6onjeHf6/G6qJxtaROTVM3Kg+UAS562JL2SaWjh01RUvVsT4WCpedvg/fXgiLLwYV7NFwjsQn8xM8IcCOgAghTyk2lW/9CCQF6122EcVYs4er0SE753zWr/CU/3NHSNAtXp/Jf+KkehuC+nUICKZ9JP+2MyO+t1Vq4JGAU5PTd9aHyL2Qd1bfP/b5AFZ7WD368wAQD7udDXkNdF/H7kriHfBR7XfbWYJK+0K7O2fZMjXgp8dtrTN7IyCRoRM8w5Nj2JnJHWbk+oRQlY026+oPh8fvZwE06SEwkj4N2w04tgKHDnMN6+n/XFWkxsFgE0VKf/Ousb/tpf+nbeMTechFMyQMM01GwHy7LoFUyBwQQg+pOIPy5Oj5e1fMrGJxZZRdpJGTsWVfKmy2mjnlKTHWs86hoN+LiMaddGWe/jl0CStGkKuQzLpmxB+6XPSrsjRdn0YPwYVDU0iP+BecMiJxALLudpqO+B8nLz7W4gB/+XrABe++i0n3v0RumIn8dqrTh2flbyUX4eduhpmmZbA0ryHcuMYkZJD62+ap4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYyMzMxMWUzOWJkM2QwNzMyYTVkZDFlMDdlNzY3NjIyZDJiOTc0YzQ0ODM5OGE0OTQ1NmRiNGFjOTYxOWI2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fSplash\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SPLASH",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_STARFISH": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Starfish",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"starfish\",id:\"FACTION_RABBIT_STARFISH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2efb2832-0940-31aa-8a83-e43f2dfe66fc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"t+h74FEKTo8H2Q07pTHynb3jbeMTW9BT+Xlq0OlDlRmqD7Llm/uD6ZiZWaLwXy2LPhwqcy9B2/NkF4u0SmJHVr4DHc/1fY9qdNSmyakq+RktiD+cJQWUe+PbKr2KpuoUO7QRV67QGoJ+Idb929TWs0/MBjmaFmFXfmIGca01py3VLj+Gbt77s0/uzN9tVb4+HGSyfkwo7yoDto2nVnnEfctnT8iulJG/pCse34V4NhqrwDUDPcXKcRDlRIHzMQacDEJvnciRyxve2qOwttjMh6BPSgk6tODybGffKGh/b05tGKvdwGVhAIZ7756PtCzkx96Pl+CVMxwxpgn4NwHe6mT5WyUykWH0HlU6+ww1qJAW62hOeqJOrTHvbmceh/MF/diwzWnRPblFOOrmZO73rONS/SVUX7EnLs/5QHcyjvcHxzkVyMJFswLAuLP52z//zCM9XMmSQ9Yimx+L+vqDwD5EgGa8vwhehM0A9tRN4nFAPy1lYxitDgD1+dos+q+bg6B21ip6pACs4aOa/YdYD1OQnhvplbdvp2ZJexGMzPMxEsDtwwBExfOz4g9kjTi8EbpJrZiZbjSvTupk26FtJhx6MVLMqBt30qtusIUl9hSHfCkjf2kYGVK29B0fYKZZfEjXLi/nRKpMeRprOAFl91Q81azP+RcgdJQuWpOpFMU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQxNjQ5OCwKICAicHJvZmlsZUlkIiA6ICJiZmQ3MjMxMGNmYWY0Yjc5OTNlYzhiYzU3ODg3YzU5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVNwQW0iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEyOTg2NDBlNWQyZDhjOWUyYmFjMWE0ZjgzNjlmMjE0YjdlMTdhZWE0NWRiZDhmMDFjNzI2MmEzMmIxODg4OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Starfish\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_STARFISH",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SUBWAY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fSubway",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"subway\",id:\"FACTION_RABBIT_SUBWAY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bfb2932a-d9b7-352c-97f8-bcc731d318c8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"kFW5iC6rPCxKxSWgrAwg7OWSHeVCo108KWCxrluxB/whEiuTXPeKQshIxAckgDqOLu2falonyro3kCnQWL57WX/AaIZC3XdwFoMqZUCeSxC7L2F9Rn1SvpxTOp6RMQbemAAMMDdlowNtF47NrL2b5/cKoBlSKurJLsGtXQda+kLGkNz5V0Zu9fh+4wbZT9uJYmuC4gWRubwGX4GUXBKnGCr5ZeBS42UlPm3k559c1QLeCRsPCZM/uMbkbU7j7/NEu8UVwbyDApC3D0jDSNbTCuDWz4Rf9FHwlMfTIqBQwrIuLs5Rck4d8kz8s7Ul/anB9e1jnG4RoXv0dywvcdIkmUobPNdce5hkm9/+E9n5zwsY5X60D4bV1vDrnyq/XJGYWEx+UX5kDDXufYwlmCfQh0GBm99KT7EeCbD3+9iExJS06QOMJhh5IgxYGmGhaL2zwXKrJYXpu1PGP0uznNQ+FBFWAnrhYaWr6+t8Vggr3ytXssT3oYm+HLxZaafeo04sf7wcA/9zZ4c8tMuFKyLa2B4OiPN84pjSKY6Xp1Z+MBa76SJHqWqzweh++LMobG+h6RWS6vo400sDNUnpkBQ3435MkgYVVGN4vLG7x5upPFnBrFKz61046PTQn2qMnh3rmKJfd71A3XB3YyXtT4wx8RXeFVWpP6ZCb5fIpmxfzjc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ0MTcwMSwKICAicHJvZmlsZUlkIiA6ICJiODU0NWMxMDlhZjE0ZGRjYmY4ZjhmZjg4ZTU2NzI4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdGFrb3B5c2tDWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNjc3YjE0NjFhNzUwNzMxZjcxOTFkYjZmZTQ3MTRkN2I1NWY2Nzc3YTRkNjhjY2NkYjc5YzJhMjZlYWFkY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fSubway\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SUBWAY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SUMMIT": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Summit",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"summit\",id:\"FACTION_RABBIT_SUMMIT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0f4de372-ebde-39dd-bfc9-a3778e9ad45c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"B1DCnzyDWmUYf4SwjrghA+bmfej91iOZJRm03BrxlG7tUpgVd8nZSGE57Sxxe5BZD6m1uPNoHHFq6Bu5hecxX1YmxOnchi5Q14dZMx+KqsiOjWQiTkD6eN8mXcDWYlNmoa1F+a0D3UvfNC2I6dw12aV2C6uEqD75o1y/QVbBv8YdRmw1VAyy4nphXvZYPoUrij9u7KVB/gfbPw7anWOnEmUMAnR0sd3WtOx1jF5R2+Vw2r4ZPHfBb4TkpmOtJb9SaoCd5QMs7yeuNQF6WQGJkSqVho5xLH+g//X9jc7RnLC7KqVnGeA3E4t0TwNXKTctKouVr7EIm+9seEZ0RH3TlZnU4rR26hdIkXZDeNMv+hBImnia4PJpUoOozCL0SYUSUBj1kuh6CRe1OwYv0mR6C0J6ZDQ/9PcxMUonQv9KjhPFTTzrAz6K6Z109O9Wx5sZFpE/305b+m3DgO9Y+y9DwlVxOYnbMzgK+hwgDG0UuMyxrw+VWX0usskFzu/FRHMRkWz5X7yUnzGgfXihy422ja09HJOuejjrs4kZvVETiyQdZCXGABWBMdPzJEmN33MdlQ+mvkv8AmxkYP1DNdiSt+9FggRhvdj9HU3sPTfNtzU2hmtJg42GYXnMgpDVjowN7LphysSrDfKaB10Ch+iFJ9Wq051zNuppdLt/0lAUw8c=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYxMTg2NSwKICAicHJvZmlsZUlkIiA6ICIwMmI1ZWM4OTlkYTE0NzU1OTQ5YmEwMDIxOWJiYzFlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJteWllc2h1cCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zODBkMDk0NDIwZjI5ZDIwMmM1ZmRmMzliMjYyYjg0MTQ3YTViMjUyOWY3YmMxOGIxZDRjZGVmMzVlNjJkMjkyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+10 Chocolate §7and §60.005x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§5§lEPIC RABBIT\"],Name:\"§5Summit\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+10 Chocolate §7and §60.005x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§5§lEPIC RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SUMMIT",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SUNSET": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Sunset",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"sunset\",id:\"FACTION_RABBIT_SUNSET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"61209138-e696-34fa-906a-e9dddb3f12b2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"PVtUjylYRETlkyLhqR1DYEG1TzZit8N3kysdLZGUXxos3bKSf1wvjRfVHVfSZGmrQBeJIDcSU6RRv0GmfT6D67GuKlIV5Ho0GPP3ph/0IyMN8YPpk+HYNy2Y+F3yy9GuH3TRbAZMK5W7L/M0AZqwd52toYN9dXDMsmTVbf81OGn2idl3myUt7zwyf0aDE7oBX8vE0OewDbaMhSEC/lfB9CW7LbN6oa7YzQ6j/S1eD6Kp1si7i75800aizp0LzAfoXEB2jV3ZJvBGTDrP0odQ23Kk3OU91QaqVdhbJHTMDqu/mkX5A7zJwEtzvOaGeb8KREGpbEAFdQL0k7J6nemAdnR7rwlMhxz2fX9kAwCVTRSDLj+ZXwxrMm5limFLnpPQQmUE6PgVabBI5+hHWlhGGpSv5dsCz0u6ZbAvgKTCgNn6GTWYZRpClFEDAh7/lIaKo9DY8HBC4GDHts1CujlpYXSF+IXTO2jL1cysb/vUgPN39d2WOvtYbU34KMxf0DAjvJ4NsCS7AG5LL/let2Ix40svVUnq06EIb4+jvK84dGhBhFZgXM5RWExlnxJHKfNrh3Oc0ko3xxpUGr4iNvL3AOMthKyCp2q27N1vNeUZLZGE+hqsvHB9NtdWzPupPNTOnjdPUm9dFZFtexixH31GmDG0f4F+736LSbutnZbx634=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQwNzQ0OCwKICAicHJvZmlsZUlkIiA6ICJiOWIzY2RlZmIyZmQ0YWY1ODQxMGViZWZjY2ZmYTBhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbnRlcnNlY2F0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ODVjNTJlZDRiODIwNzExODUzYzViMjgxYzAzNzkzOTkzNDM4OWU3YjBlYjgwOWNlZDFjZTUwMjY0NzMyMjdjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+0.02x Chocolate §7per second\",3:\"§7to your §6Chocolate Factory§7.\",4:\"\",5:\"§eRight click to add to your Factory!\",6:\"\",7:\"§6§lLEGENDARY RABBIT\"],Name:\"§6Sunset\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+0.02x Chocolate §7per second",
+      "§7to your §6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§6§lLEGENDARY RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SUNSET",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_SURF": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Surf",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"surf\",id:\"FACTION_RABBIT_SURF\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"44061b78-a7a2-3d61-bcfe-5af6f0dab23f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JQcMnlpVMkynWQNALXZp0hC804VQ4QMWhHEKX8Q+oH84b4IshCZUWcTVAqR4Dvh5MYNU3NarVLovwIbYTm0/+uzHnuNSTADePLoxfD9I4cUGVTLki/ay+fLsmfwNFzJ3julmhgvL9ZBX5VDTxtOS4l+HoTiQe0TUMKprsq9OW3L9WrkVQtr9wgV+vBo01CSKsIlGkT0+afbTKkpHvSt6flhItxAZhHMNmDTuzUR4kpsuHjiiSRScqR3fp/kvUrgYKqPnGZJclYwGfHIfqu/Jfmmsp+VVFVTBiwMa7w7fpSsgj2hv/Y4QzMyCVHLBwuBvwi6NtZaIg+CbxdImbBT8m9IucfuDQBfuxtTuzNoldAeoZm21Dsf3b6mqKj10ftOoTHX38etPNbN1Xqkd5olhR3cUKqiaSSpWvQy6wGW6J+Tb6eSBM6Tm/nVHPOmu2gWWT7EjkuhoW6w9PTOH2rN6y4xqLff8mio6PZ7vRKltLpFwJpDUykl3gFkjk3793d41gHgigUhrbPLmUvDAh6HkEX4FHVLsu6zRh1PuDhmQiAhiDRNcFg8U8hIa2JUcduVZWBU3IGWHUx9HDgq1PgOJIgBIOe/p609NbVGbY9V6VYN2yS00l20C76yzEzgiN5byCdneA2SSUm/29Ix/LX2Fchng7icE+spgfmHPma0mCiE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM5ODMxMCwKICAicHJvZmlsZUlkIiA6ICJlYzU4NzQxMjM2M2E0ZTQ0OTEwNzJjMWU5M2RkOGMzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aXJlZGZyYW1lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkMGEwZmJlYjg5NGNjYmE2NzcwMTJmYTA5ZDZlNzQ1ZTAzYjUyMGRhYWUyZmI2MjdhMzdiZDZkNmRmYjgyZTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+10 Chocolate §7and §60.005x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§5§lEPIC RABBIT\"],Name:\"§5Surf\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+10 Chocolate §7and §60.005x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§5§lEPIC RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_SURF",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_TAN": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fTan",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"tan\",id:\"FACTION_RABBIT_TAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"762e2e0b-1d37-3bba-99f3-f7f9cbcbedd2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DsF+34BP68yvDHDBgo2lI6HxCQU5vO5DTzlheRRrk9brYlVjWNoZBdnaVFDuLyAEc3wlmm2aX8MHZGt0FaWyrJKB1Pu0z8dlAjeSP6wGPL422cMowL7b3MYwXuV1z3d5NRGaG6onjeHf6/G6qJxtaROTVM3Kg+UAS562JL2SaWjh01RUvVsT4WCpedvg/fXgiLLwYV7NFwjsQn8xM8IcCOgAghTyk2lW/9CCQF6122EcVYs4er0SE753zWr/CU/3NHSNAtXp/Jf+KkehuC+nUICKZ9JP+2MyO+t1Vq4JGAU5PTd9aHyL2Qd1bfP/b5AFZ7WD368wAQD7udDXkNdF/H7kriHfBR7XfbWYJK+0K7O2fZMjXgp8dtrTN7IyCRoRM8w5Nj2JnJHWbk+oRQlY026+oPh8fvZwE06SEwkj4N2w04tgKHDnMN6+n/XFWkxsFgE0VKf/Ousb/tpf+nbeMTechFMyQMM01GwHy7LoFUyBwQQg+pOIPy5Oj5e1fMrGJxZZRdpJGTsWVfKmy2mjnlKTHWs86hoN+LiMaddGWe/jl0CStGkKuQzLpmxB+6XPSrsjRdn0YPwYVDU0iP+BecMiJxALLudpqO+B8nLz7W4gB/+XrABe++i0n3v0RumIn8dqrTh2flbyUX4eduhpmmZbA0ryHcuMYkZJD62+ap4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDM4OTI0MCwKICAicHJvZmlsZUlkIiA6ICI3YjE3NjBiYmVkNTk0Mjc1YmU3ZjhjMGFlYmQzMmRiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdmVuTmlqaHVpczQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYyMzMxMWUzOWJkM2QwNzMyYTVkZDFlMDdlNzY3NjIyZDJiOTc0YzQ0ODM5OGE0OTQ1NmRiNGFjOTYxOWI2OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Beach Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fTan\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Beach Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_TAN",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_TAXI": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Taxi",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"taxi\",id:\"FACTION_RABBIT_TAXI\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"495521de-96b8-3100-b16c-abd4a115d744\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JZVsQHIkZThWqd1fRkPtN//N6PmM+TLYL1ohdy16BjDOxqsf0xbgwCj320OHwRUBp7E/eq1lIAWmn4iaImQmw4h+4Kroc1usuLrjICfLzt3GgSaglGe9/diF+DpQd+UcdqPGPYECqOU1i7dnsBj2yAF/1dabI9hjoCn6c0LAfjTV5eACTRMibLER6F4DoDLXjoPz+rIbwdjVtO5v6eMDnLwTnq0y0qrL2K6/FD+4/bc83q2qcDs6AeETYpmt7SAgKRYzwi1kIX8i6JWIG15bxWDUiAli5p6xfHT0iyJF1t1tcFvpAr1rOG1A3Kd47zgs+S8WL+hXrHnw7CiqHrrKdjDqBGWoRCDP8B6MID9uExIqPzhPD4paksCFK+UVl/pggssvjzxgMCrrqgi28dHnqHIf28nlekhHeeG2arFy0FYoMfnOkPGnzGw8VGZvU1UW8HCHqUde940gT+LnZKhyehCVN23+iEd5NkGipk4SfZjNDP9CxmQRTRcCR9/+5PUX+DBHh2ue3wug7scRgOtWIDprFu7E4z81vC/qSITPoaYmuhh4SWgKS+Aggk54/LFIzM+Qw2QVdO7EpJLtG4+uJDWBfRbJsQU1ducSU9pV1mXbpubrq6OM+Kppvy68Ogcktm06B+mCYsaxwamuF548UyZnetE5Vvp1U2A98/AwZXQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ2NzM4NiwKICAicHJvZmlsZUlkIiA6ICJhZmEwYmMzZTA1MjQ0MTM4YjkxMDIxY2Y3ODE2YjRkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGV4aXNNYWRkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNjU0MWUzYjNkMTUxNTgyNGEwNWVhMDlhYjA2N2Y4OWE3ZjA4Y2EzOWE4OTM3YTg4NGI3MzQwNGQwNTU1M2QiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Taxi\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_TAXI",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_TIMBER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fTimber",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"timber\",id:\"FACTION_RABBIT_TIMBER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2f487ff2-d45f-3c05-b624-30ca3a5bc7ee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"REx6lEOlvniNZ/ta+tcxBKxnJ6dFN5vZKljMUse/0uQBI0p0WnRTP5pNwRiJBqIKANUxqCX1FVMsq7E/22wxhe8AvWjm/s7VYPhvWfAWSGM74vpYuCb4xWTAWTjcgsdcbuO4oCbI1JAWMGK4gTuq6jFEF5fl+kyYdpGG2vi6gJsS5APrloLnXZsS/yNllw5p3jYhXZ1Y7JztDho+e9T3bm2MAR7zr8Zi0bBlmYcQleL0FgE6M+QeV4jPipN5G2HqhL5ps4O7Z0aFws8bMssgMMOpKm9Dg01QBPZPV69LOFUFor19YpzdC8SAoiyE8FO7Z43BKmQ+j82MYre7IhN0cfNpHNKngUplYjuV9Vv/3Hy8/TokyxNkGSrBxeQqD0unMKWlBe2pmahkdIJZYh4B7nxJiPdqoCcMmrc4kTTKH11tKWLVoUWiZlq6cWvM5JOGvidNXdGfCD5EU/xoc7/VNJ8cnr4V94/J5dP6DIuwukBMfr5KLXkOyOHp98WYRUHPqc0hReXGF8Rc5k5MV9LWkjIhDh9IiOIQKRijP1iA+uukfTtiBJqoI1KVy5zw9fOuanVCNpuB+5t6NJDgJ4kpv/vddAP3mcNnMrt0IaZSCP8I1lfG1oQOoNBvuKRw5NKn0hFa4q9JaTvO8y+mUjNIXnjhb36BXGmwU2X1UfInuZw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYwMjI1NiwKICAicHJvZmlsZUlkIiA6ICJkMTQ4NjFiM2UwZmM0Njk5OTFlMTcyNTllMzdiZjZhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYXhpdG9jbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTU1YjNlOTZmMjBiNmUzMDg2ZDFmMGU3ZThiNDNjMWFkNTg2ZjI0Njc5NjU0NWMwNjFlY2I1YmY1NjNiMTUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fTimber\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_TIMBER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_TRAFFIC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aTraffic",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"traffic\",id:\"FACTION_RABBIT_TRAFFIC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5e7a136b-dfbd-3f9c-9a49-bea32f57e3ad\",Properties:{textures:[0:{Name:\"textures\",Signature:\"OYYpVNYrR/el65w+Zp2RdevOGBrMHSo1JJLjTlqqX2VS7sD2dOKwHrsW9GNkQtsTtDt9r3fxZ/OObKmeFNAzRqjIPY/SKm7wc9ozZ3iREyEoR5c+p73hyEAIFJLAdVzw1un/h0XCLnwMjTJMAkbZ+6HH2w4791UnDeFDtJNDykhsVUuO+AvBzuOW9nlPIpwQh2sDejpMEfOcHzy607jtX8EC7bZD4Eeh9CfLxxSGq8+K3/IZJpvlOEGa66KE2Tjk4qRg8mEsE6Kbj2y7Yblm+G5TCfxwYgpnAQquPeak962oMYyGw82nXwmzvj1i1ryE7nZNp1zrRR379FzxW0+A+dq4KKv/SP0QziOZGArCp9jkFC/sn8+EZGz0+G5dOuJhHwb4oSuS+goA+vLMFiF+/1/3l8aUIOwJiKJUqk1eMqANKxkrdcNly+D0kkWH4Te8v+ECdr6Ge/eVphgHkMieTZBVwEIpbhXcy7MlF4C0dXLBcT1PjKCe/EKa4+WsdSNcipoWvdmRdBdJl4MN7xgwtL5ybhKyOUSZc8l+n2067lgOq5BG+23CZlp/NDKpM7j+Tfjphu2c1V3K1k40+PICnjJYsLwzNIMMyyg5rbPRZ6+qhzXiT7rd5KZbY7m6hZZupKJwceErXsRh/SVn/j/RvYk22hQ35Q+8C/lUEBfwvPw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ3NDU0OSwKICAicHJvZmlsZUlkIiA6ICI4ZGQ5OWEzMDEwMDA0NTRiYmYwNGU5Mjk3NGIzYWNmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQeXIwdGVjaG5payIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmUyZWU2NTYzMDNhYmYzMTJkYjYyZWQ3MGJhYWNiNjU0N2MyYTVmNzlhMDg5ZDFiZGMwZWNhOTc5NzZmNzdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aTraffic\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_TRAFFIC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_TUNDRA": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Tundra",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"tundra\",id:\"FACTION_RABBIT_TUNDRA\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1dca657c-5066-3dc9-92ce-b767e35dfd42\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jQVr6xnX9KQZ05Bh2lF2ip7NwwS/hIsNo+Lzj/jF+vvoMXCz/OzhThyyt1qKQ6dF7VL23cmHiqMMnBeDPM8G2DoBuMPv5XHXbA/mGSLxU71322OMjLKM+iGBVcJ/Qd/t1PUSHwCeLHnH9++S/E84FUnmcajbKL9wP/PqJB/R4Kd/iQEppoWaK1DsOYDTFe094KecgzpSiyRbqqN6bXHnl1cQw63lhrZZ5jsiEnTzfSFHTw+Svl2ncDRxVylyI1ABb1yDyN7MRaNXjCWBLIceFMlzFY2b0WLZXyEBtN3Z5Le6yMel9NYXfMt5lMcIBMokSuBQFHByFLTp9C6hLOkFvUPmGIzNIOIJJ1gUG/PRRsEREymxRiHvAusVV9XwXbfmyo5VXEk7/dCqPtjH2riAON85nvzRhauU2JUrsJvTsaqfPxkTBOqVvSE6e81+7x7/5U9EOjuV2UMV+ykgMVoROU/sLys+5jh0OyaKPK4qAJzjsLsirpVMyE+vjXrsl5kvsQTMQPujjzgI8BfuPF5FRRIAUb0uXyQRUf9yU9rAJaYZVHx/wcnihrBIr9YonzQJPLdf+8kdGMC9Rvf2KWrjV6kjrK9oFL3pIEXdDGFwsPdrhtHCJZT58y7YJtSXznBddpIwB3jIRvCozsNTHet5B7HyVwo7V1yt9EyTZyrcOkY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYyODU3OCwKICAicHJvZmlsZUlkIiA6ICIxNDM3N2ZjOGU1NTg0NGQwOTg2ZDkyMjY3ODRiMjQxZiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwVGlja0RlbGF5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUyMGQzOGIyZDliMTJkNjJhNzNlMmY0N2JhNzFhNDVlMmE2OTAyYmZhYmMxNjJlYTBhMDA1MWNmZWYyZWI4ODMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Tundra\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_TUNDRA",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_TUNNEL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aTunnel",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"tunnel\",id:\"FACTION_RABBIT_TUNNEL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5e7a136b-dfbd-3f9c-9a49-bea32f57e3ad\",Properties:{textures:[0:{Name:\"textures\",Signature:\"OYYpVNYrR/el65w+Zp2RdevOGBrMHSo1JJLjTlqqX2VS7sD2dOKwHrsW9GNkQtsTtDt9r3fxZ/OObKmeFNAzRqjIPY/SKm7wc9ozZ3iREyEoR5c+p73hyEAIFJLAdVzw1un/h0XCLnwMjTJMAkbZ+6HH2w4791UnDeFDtJNDykhsVUuO+AvBzuOW9nlPIpwQh2sDejpMEfOcHzy607jtX8EC7bZD4Eeh9CfLxxSGq8+K3/IZJpvlOEGa66KE2Tjk4qRg8mEsE6Kbj2y7Yblm+G5TCfxwYgpnAQquPeak962oMYyGw82nXwmzvj1i1ryE7nZNp1zrRR379FzxW0+A+dq4KKv/SP0QziOZGArCp9jkFC/sn8+EZGz0+G5dOuJhHwb4oSuS+goA+vLMFiF+/1/3l8aUIOwJiKJUqk1eMqANKxkrdcNly+D0kkWH4Te8v+ECdr6Ge/eVphgHkMieTZBVwEIpbhXcy7MlF4C0dXLBcT1PjKCe/EKa4+WsdSNcipoWvdmRdBdJl4MN7xgwtL5ybhKyOUSZc8l+n2067lgOq5BG+23CZlp/NDKpM7j+Tfjphu2c1V3K1k40+PICnjJYsLwzNIMMyyg5rbPRZ6+qhzXiT7rd5KZbY7m6hZZupKJwceErXsRh/SVn/j/RvYk22hQ35Q+8C/lUEBfwvPw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ3NDU0OSwKICAicHJvZmlsZUlkIiA6ICI4ZGQ5OWEzMDEwMDA0NTRiYmYwNGU5Mjk3NGIzYWNmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQeXIwdGVjaG5payIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmUyZWU2NTYzMDNhYmYzMTJkYjYyZWQ3MGJhYWNiNjU0N2MyYTVmNzlhMDg5ZDFiZGMwZWNhOTc5NzZmNzdkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aTunnel\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_TUNNEL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_TWIGY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fTwigy",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"twigy\",id:\"FACTION_RABBIT_TWIGY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2a8dd7a4-2f0a-3257-9efe-fc1a9d8e2ad2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FwyMFRtZ2xHqsEki18N57kSicoerLm2gsfVeaFeyDpeFVGjTzBjLrMn/MVgaineHZT9q5hUVpHgyPkLSxngvlLW+Hf59Bqb3ZLIHl9omYzqaigwUZxN52Df982I0g9HJCnVqHI+lQ6rjtMnjWu8k0IQkZr7aPW4LaOTSATucXodO+3RUGvM3WyQKALVmCXA6OX2GQOhhfUadvhAcdX5v/8meoqgOh79fGTcCvpfY2Yk7Tv/yEYJEZG9c3EnNz0WnkwuB3vSsKOUmZe7J2v2Iqceg7TsIhw9R+q3l/LDIwJPMCfiMxfdFLIHEPEjOPDZF2e2yen2v5dHHduULrxtOsieDaegMV1Ayj9I6axzus8LYXXD9WNQzM6Ad8wNf/+CHGSSLGXhE7g7NeX/YpH7I5JK5TKmj9KLHOjX9FRtHGpsmxhqrQzeBT9V+2cyl5lILiQYEcXMqDU0lpUeA0iYlCuRTUroxDlC95DbcamUC+yRkLtGt1NnJPkwtq4PeynK4RE7oxyPeTnkZGF/JbJwUyQe9W+4qpup6MHxv3sSbqUWl7T6lTrLyITn2B/+hhr/X2xPSTFsSfnFEZcl5j6grStuhS1uRBAnkfWIPmAV5iEI1qMwj5/eL7Y2u7YAhdBou04kpRcmdejJ1QrPD8U9NIApfAMxuLLAHR6nYIzDTMGE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ4MjQ1NSwKICAicHJvZmlsZUlkIiA6ICI0OThjYTc2ZGYwODM0NzhmOGY0NjdjOGY1OTQwMjk1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHdWx0cm8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWYyZDAyNzUzNDE5NjAwNDRhYzA2NDZhMTdjMjJkZmE4MmU4ZGQzMTVlYjQ4ZjRkOTAxYmY1MTNiOTk2NzQyNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Country Faction Rabbit!\",1:\"\",2:\"§7Grants §6+1 Chocolate §7and §60.002x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§f§lCOMMON RABBIT\"],Name:\"§fTwigy\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Country Faction Rabbit!",
+      "",
+      "§7Grants §6+1 Chocolate §7and §60.002x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§f§lCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_TWIGY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_VALLEY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aValley",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"valley\",id:\"FACTION_RABBIT_VALLEY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0beb7839-b680-30c9-b7a9-2227e4514bb8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Cyp3NdWlKFhXEUh1jLNQurO+7px3m4NbmACDcN8LTLQvfqSRqaSX+5rMPeSZkOqyHuNDVZg4w2A7cL48yo4v9MV5KR0iY7CzmtFX9+46zakXhyaYtHanbWWWOXa122XvqV8mU9MdWGuKizfu4/HIBVEHGLTDZC4Vdeq71evuj7M/XxknkUuL1GGWAp5AUGsiecCwzHyurQLJ+vpO/0YBHQA7gV1iX2mfPgB+AZm/l/JR0OOUrQZMuxnr0Snwi3DV6a4jVloq02Y2VKM9f6y0Rm3ZEoGQBjXXD8YklAycNujr4J8kYnrbqWQLZUDGrkFLNygRoL0pi34EsmZe9YDQArfZwellnmUwNd/OH2aEqYkTurTpCmVSqcRHrCrgIstt68Z/O7Vf5qwH/eoq9552OB+SMi6ik4qQvvNkI9dDj+3Y0m+DYy8OS4iZceMcjneKt5AtFEEl9DMV9vh6EUc/Q+3eiSRzzH5pbW7ZedMNykzVyJO8ApoftPTtH4GlmhQyRF/2vy3JSJLAWUZSyPZya5FvDWbZyXin2ictT5hWJjo8pCfvd1XiPr/V+aCA06bq/F1tjERDPp4SfFEtfZY4byKFUbLW6IZgoftHpg9TA2ptBez6brJZEBLGT2GzrZ6SX30qKDul0VuAkNMydLXpIbvs6SuR7RVKeVXwyaE/JKE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDYzNjgxMCwKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWI1OTg0ZDIwNTgxMjAxMjJkOGQzNjQ4ZDYyOTViOTQxZDA4MGY2NzE1YTYzODdkY2FkNzYxMjFjOGVhMzkxMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a Mountain Faction Rabbit!\",1:\"\",2:\"§7Grants §6+2 Chocolate §7and §60.003x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§a§lUNCOMMON RABBIT\"],Name:\"§aValley\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a Mountain Faction Rabbit!",
+      "",
+      "§7Grants §6+2 Chocolate §7and §60.003x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§a§lUNCOMMON RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_VALLEY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
+    ]
+  },
+  "FACTION_RABBIT_WALKER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Walker",
+    "nbttag": "{ExtraAttributes:{faction_rabbit_id:\"walker\",id:\"FACTION_RABBIT_WALKER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"495521de-96b8-3100-b16c-abd4a115d744\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JZVsQHIkZThWqd1fRkPtN//N6PmM+TLYL1ohdy16BjDOxqsf0xbgwCj320OHwRUBp7E/eq1lIAWmn4iaImQmw4h+4Kroc1usuLrjICfLzt3GgSaglGe9/diF+DpQd+UcdqPGPYECqOU1i7dnsBj2yAF/1dabI9hjoCn6c0LAfjTV5eACTRMibLER6F4DoDLXjoPz+rIbwdjVtO5v6eMDnLwTnq0y0qrL2K6/FD+4/bc83q2qcDs6AeETYpmt7SAgKRYzwi1kIX8i6JWIG15bxWDUiAli5p6xfHT0iyJF1t1tcFvpAr1rOG1A3Kd47zgs+S8WL+hXrHnw7CiqHrrKdjDqBGWoRCDP8B6MID9uExIqPzhPD4paksCFK+UVl/pggssvjzxgMCrrqgi28dHnqHIf28nlekhHeeG2arFy0FYoMfnOkPGnzGw8VGZvU1UW8HCHqUde940gT+LnZKhyehCVN23+iEd5NkGipk4SfZjNDP9CxmQRTRcCR9/+5PUX+DBHh2ue3wug7scRgOtWIDprFu7E4z81vC/qSITPoaYmuhh4SWgKS+Aggk54/LFIzM+Qw2QVdO7EpJLtG4+uJDWBfRbJsQU1ducSU9pV1mXbpubrq6OM+Kppvy68Ogcktm06B+mCYsaxwamuF548UyZnetE5Vvp1U2A98/AwZXQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjU1MDQ2NzM4NiwKICAicHJvZmlsZUlkIiA6ICJhZmEwYmMzZTA1MjQ0MTM4YjkxMDIxY2Y3ODE2YjRkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGV4aXNNYWRkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVlNjU0MWUzYjNkMTUxNTgyNGEwNWVhMDlhYjA2N2Y4OWE3ZjA4Y2EzOWE4OTM3YTg4NGI3MzQwNGQwNTU1M2QiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7This is a City Faction Rabbit!\",1:\"\",2:\"§7Grants §6+4 Chocolate §7and §60.004x\",3:\"§6Chocolate §7per second to your\",4:\"§6Chocolate Factory§7.\",5:\"\",6:\"§eRight click to add to your Factory!\",7:\"\",8:\"§9§lRARE RABBIT\"],Name:\"§9Walker\"}}",
+    "damage": 3,
+    "lore": [
+      "§7This is a City Faction Rabbit!",
+      "",
+      "§7Grants §6+4 Chocolate §7and §60.004x",
+      "§6Chocolate §7per second to your",
+      "§6Chocolate Factory§7.",
+      "",
+      "§eRight click to add to your Factory!",
+      "",
+      "§9§lRARE RABBIT"
+    ],
+    "internalname": "FACTION_RABBIT_WALKER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Faction_Rabbits"
     ]
   },
   "FAFNIR_RIFT_NPC": {
@@ -121666,7 +123188,7 @@
   "ICE_ROD": {
     "itemid": "minecraft:fishing_rod",
     "displayname": "§9Ice Rod",
-    "nbttag": "{ExtraAttributes:{id:\"ICE_ROD\",originTag:\"UNKNOWN\"},HideFlags:254,ItemModel:\"minecraft:fishing_rod\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"§7Fishing Speed: §b+15\",2:\"\",3:\"§cThis rod is broken and cannot be\",4:\"§cused to fish.\",5:\"\",6:\"§7Bring it to §2Roddy §7in the §2Backwater\",7:\"§2Bayou §7to convert it into a §anew rod§7!\",8:\"\",9:\"§8This item can be reforged!\",10:\"§9§lRARE FISHING ROD\"],Name:\"§9Ice Rod\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ICE_ROD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod/broken_rod\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+30\",1:\"§7Fishing Speed: §b+15\",2:\"\",3:\"§cThis rod is broken and cannot be\",4:\"§cused to fish.\",5:\"\",6:\"§7Bring it to §2Roddy §7in the §2Backwater\",7:\"§2Bayou §7to convert it into a §anew rod§7!\",8:\"\",9:\"§8This item can be reforged!\",10:\"§9§lRARE FISHING ROD\"],Name:\"§9Ice Rod\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+30",
@@ -121684,7 +123206,7 @@
     "internalname": "ICE_ROD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ice_Rod"
@@ -241035,31 +242557,31 @@
   "SPONGE_ROD": {
     "itemid": "minecraft:fishing_rod",
     "displayname": "§fSponge Rod",
-    "nbttag": "{ExtraAttributes:{id:\"SPONGE_ROD\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"§7Strength: §c+15\",2:\"§7Fishing Speed: §b+30\",3:\"\",4:\"§7§cThis rod is broken and cannot be\",5:\"§cused to fish.\",6:\"\",7:\"§7Bring it to §2Roddy §7in the §2Backwater\",8:\"§2Bayou §7to convert it into a §anew rod§7!\",9:\"\",10:\"§7§8This item can be reforged!\",11:\"§7§4❣ §cRequires §aFishing Skill 5§c.\",12:\"§f§lCOMMON FISHING ROD\"],Name:\"§fSponge Rod\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPONGE_ROD\",originTag:\"QUICK_CRAFTING\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod/broken_rod\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"§7Strength: §c+15\",2:\"§7Fishing Speed: §b+30\",3:\"\",4:\"§cThis rod is broken and cannot be\",5:\"§cused to fish.\",6:\"\",7:\"§7Bring it to §2Roddy §7in the §2Backwater\",8:\"§2Bayou §7to convert it into a §anew rod§7!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§7§4❣ §cRequires §aFishing Skill 5§c.\",12:\"§f§lCOMMON FISHING ROD\"],Name:\"§fSponge Rod\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+20",
       "§7Strength: §c+15",
       "§7Fishing Speed: §b+30",
       "",
-      "§7§cThis rod is broken and cannot be",
+      "§cThis rod is broken and cannot be",
       "§cused to fish.",
       "",
       "§7Bring it to §2Roddy §7in the §2Backwater",
       "§2Bayou §7to convert it into a §anew rod§7!",
       "",
-      "§7§8This item can be reforged!",
+      "§8This item can be reforged!",
       "§7§4❣ §cRequires §aFishing Skill 5§c.",
       "§f§lCOMMON FISHING ROD"
     ],
     "internalname": "SPONGE_ROD",
     "clickcommand": "",
-    "modver": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sponge_Rod"
-    ],
-    "crafttext": ""
+    ]
   },
   "SPONGE_SINKER": {
     "itemid": "minecraft:paper",
@@ -258044,34 +259566,33 @@
     ]
   },
   "THE_SHREDDER": {
-    "internalname": "THE_SHREDDER",
     "itemid": "minecraft:fishing_rod",
     "displayname": "§6Shredder",
-    "clickcommand": "",
+    "nbttag": "{ExtraAttributes:{id:\"THE_SHREDDER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod/broken_rod\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+120\",1:\"§7Ferocity: §c+50\",2:\"§7Fishing Speed: §b+115\",3:\"\",4:\"§cThis rod is broken and cannot be\",5:\"§cused to fish.\",6:\"\",7:\"§7Bring it to §2Roddy §7in the §2Backwater\",8:\"§2Bayou §7to convert it into a §anew rod§7!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§7§4❣ §cRequires §aFishing Skill 20§c.\",12:\"§6§lLEGENDARY FISHING ROD\"],Name:\"§6Shredder\"}}",
     "damage": 0,
-    "nbttag": "{ExtraAttributes:{id:\"THE_SHREDDER\"},HideFlags:254,Unbreakable:1,display:{Lore:[0:\"§7Damage: §c+120\",1:\"§7Strength: §c+15\",2:\"§7Ferocity: §c+50\",3:\"§7Fishing Speed: §b+115\",4:\"\",5:\"§7§cThis rod is broken and cannot be\",6:\"§cused to fish.\",7:\"\",8:\"§7Bring it to §2Roddy §7in the §2Backwater\",9:\"§2Bayou §7to convert it into a §anew rod§7!\",10:\"\",11:\"§7§8This item can be reforged!\",12:\"§7§4❣ §cRequires §aFishing Skill 20§c.\",13:\"§6§lLEGENDARY FISHING ROD\"],Name:\"§6Shredder\"}}",
-    "modver": "",
     "lore": [
       "§7Damage: §c+120",
-      "§7Strength: §c+15",
       "§7Ferocity: §c+50",
       "§7Fishing Speed: §b+115",
       "",
-      "§7§cThis rod is broken and cannot be",
+      "§cThis rod is broken and cannot be",
       "§cused to fish.",
       "",
       "§7Bring it to §2Roddy §7in the §2Backwater",
       "§2Bayou §7to convert it into a §anew rod§7!",
       "",
-      "§7§8This item can be reforged!",
+      "§8This item can be reforged!",
       "§7§4❣ §cRequires §aFishing Skill 20§c.",
       "§6§lLEGENDARY FISHING ROD"
     ],
+    "internalname": "THE_SHREDDER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Shredder"
-    ],
-    "crafttext": ""
+    ]
   },
   "THE_SOUP_PAINTING": {
     "itemid": "minecraft:paper",
@@ -287361,27 +288882,27 @@
   "YETI_ROD": {
     "itemid": "minecraft:fishing_rod",
     "displayname": "§5Yeti Rod",
-    "nbttag": "{ExtraAttributes:{id:\"YETI_ROD\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Strength: §c+130\",2:\"§7Fishing Speed: §b+75\",3:\"\",4:\"§7§cThis rod is broken and cannot be\",5:\"§cused to fish.\",6:\"\",7:\"§7Bring it to §2Roddy §7in the §2Backwater\",8:\"§2Bayou §7to convert it into a §anew rod§7!\",9:\"\",10:\"§7§8This item can be reforged!\",11:\"§7§4❣ §cRequires §aFishing Skill 25§c.\",12:\"§5§lEPIC FISHING ROD\"],Name:\"§5Yeti Rod\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"YETI_ROD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod/broken_rod\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Strength: §c+130\",2:\"§7Fishing Speed: §b+75\",3:\"\",4:\"§cThis rod is broken and cannot be\",5:\"§cused to fish.\",6:\"\",7:\"§7Bring it to §2Roddy §7in the §2Backwater\",8:\"§2Bayou §7to convert it into a §anew rod§7!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§7§4❣ §cRequires §aFishing Skill 25§c.\",12:\"§5§lEPIC FISHING ROD\"],Name:\"§5Yeti Rod\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+150",
       "§7Strength: §c+130",
       "§7Fishing Speed: §b+75",
       "",
-      "§7§cThis rod is broken and cannot be",
+      "§cThis rod is broken and cannot be",
       "§cused to fish.",
       "",
       "§7Bring it to §2Roddy §7in the §2Backwater",
       "§2Bayou §7to convert it into a §anew rod§7!",
       "",
-      "§7§8This item can be reforged!",
+      "§8This item can be reforged!",
       "§7§4❣ §cRequires §aFishing Skill 25§c.",
       "§5§lEPIC FISHING ROD"
     ],
     "internalname": "YETI_ROD",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Yeti_Rod"
