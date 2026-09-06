@@ -39186,23 +39186,25 @@
   "GREAT_CARROT_CANDY": {
     "itemid": "minecraft:carrot",
     "displayname": "§9Great Carrot Candy",
-    "nbttag": "{ExtraAttributes:{id:\"GREAT_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",1:\"§7Pets can only eat §a10 §7candy in their lifetime!\",2:\"\",3:\"§7Grants §a200,000 §ePet EXP§7.\",4:\"\",5:\"§eRight-click on your summoned pet to\",6:\"§efeed it this candy!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Great Carrot Candy\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"GREAT_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",3:\"§7Pets can only eat §a10 §7candy in their lifetime!\",4:\"\",5:\"§7Grants §a200,000 §ePet EXP§7.\",6:\"\",7:\"§eRight-click on your summoned pet to\",8:\"§efeed it!\",9:\"\",10:\"§9§lRARE\"],Name:\"§9Great Carrot Candy\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Consumable",
+      "",
       "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!",
       "§7Pets can only eat §a10 §7candy in their lifetime!",
       "",
       "§7Grants §a200,000 §ePet EXP§7.",
       "",
       "§eRight-click on your summoned pet to",
-      "§efeed it this candy!",
+      "§efeed it!",
       "",
       "§9§lRARE"
     ],
     "internalname": "GREAT_CARROT_CANDY",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Carrot VI",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Great_Carrot_Candy"
@@ -78098,10 +78100,12 @@
   "SIMPLE_CARROT_CANDY": {
     "itemid": "minecraft:carrot",
     "displayname": "§aSimple Carrot Candy",
-    "nbttag": "{ExtraAttributes:{id:\"SIMPLE_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",3:\"§7Pets can only eat §a10 §7candy in their lifetime!\",4:\"\",5:\"§7Grants §a20,000 §ePet EXP§7.\",6:\"\",7:\"§eRight-click on your summoned pet to\",8:\"§efeed it this candy!\",9:\"\",10:\"§a§lUNCOMMON\"],Name:\"§aSimple Carrot Candy\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SIMPLE_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§8Consumable\",3:\"\",4:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",5:\"§7Pets can only eat §a10 §7candy in their lifetime!\",6:\"\",7:\"§7Grants §a20,000 §ePet EXP§7.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§efeed it!\",11:\"\",12:\"§a§lUNCOMMON\"],Name:\"§aSimple Carrot Candy\"}}",
     "damage": 0,
     "lore": [
       "§8Brewing Ingredient",
+      "",
+      "§8Consumable",
       "",
       "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!",
       "§7Pets can only eat §a10 §7candy in their lifetime!",
@@ -78109,14 +78113,14 @@
       "§7Grants §a20,000 §ePet EXP§7.",
       "",
       "§eRight-click on your summoned pet to",
-      "§efeed it this candy!",
+      "§efeed it!",
       "",
       "§a§lUNCOMMON"
     ],
     "internalname": "SIMPLE_CARROT_CANDY",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Carrot II",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Simple_Carrot_Candy"
@@ -88755,23 +88759,25 @@
   "SUPERB_CARROT_CANDY": {
     "itemid": "minecraft:golden_carrot",
     "displayname": "§5Superb Carrot Candy",
-    "nbttag": "{ExtraAttributes:{id:\"SUPERB_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",1:\"§7Pets can only eat §a10 §7candy in their lifetime!\",2:\"\",3:\"§7Grants §a750,000 §ePet EXP§7.\",4:\"\",5:\"§eRight-click on your summoned pet to\",6:\"§efeed it this candy!\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Superb Carrot Candy\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"SUPERB_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",3:\"§7Pets can only eat §a10 §7candy in their lifetime!\",4:\"\",5:\"§7Grants §a750,000 §ePet EXP§7.\",6:\"\",7:\"§eRight-click on your summoned pet to\",8:\"§efeed it!\",9:\"\",10:\"§5§lEPIC\"],Name:\"§5Superb Carrot Candy\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Consumable",
+      "",
       "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!",
       "§7Pets can only eat §a10 §7candy in their lifetime!",
       "",
       "§7Grants §a750,000 §ePet EXP§7.",
       "",
       "§eRight-click on your summoned pet to",
-      "§efeed it this candy!",
+      "§efeed it!",
       "",
       "§5§lEPIC"
     ],
     "internalname": "SUPERB_CARROT_CANDY",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Carrot VIII",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Superb_Carrot_Candy"
@@ -93611,23 +93617,25 @@
   "ULTIMATE_CARROT_CANDY": {
     "itemid": "minecraft:golden_carrot",
     "displayname": "§6Ultimate Carrot Candy",
-    "nbttag": "{ExtraAttributes:{id:\"ULTIMATE_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",1:\"§7Pets can only eat §a10 §7candy in their lifetime!\",2:\"\",3:\"§7Grants §a1,500,000 §ePet EXP§7.\",4:\"\",5:\"§eRight-click on your summoned pet to\",6:\"§efeed it this candy!\",7:\"\",8:\"§6§lLEGENDARY\"],Name:\"§6Ultimate Carrot Candy\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ULTIMATE_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",3:\"§7Pets can only eat §a10 §7candy in their lifetime!\",4:\"\",5:\"§7Grants §a1,500,000 §ePet EXP§7.\",6:\"\",7:\"§eRight-click on your summoned pet to\",8:\"§efeed it!\",9:\"\",10:\"§6§lLEGENDARY\"],Name:\"§6Ultimate Carrot Candy\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Consumable",
+      "",
       "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!",
       "§7Pets can only eat §a10 §7candy in their lifetime!",
       "",
       "§7Grants §a1,500,000 §ePet EXP§7.",
       "",
       "§eRight-click on your summoned pet to",
-      "§efeed it this candy!",
+      "§efeed it!",
       "",
       "§6§lLEGENDARY"
     ],
     "internalname": "ULTIMATE_CARROT_CANDY",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Carrot_Candy"

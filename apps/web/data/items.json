@@ -109846,23 +109846,25 @@
   "GREAT_CARROT_CANDY": {
     "itemid": "minecraft:carrot",
     "displayname": "§9Great Carrot Candy",
-    "nbttag": "{ExtraAttributes:{id:\"GREAT_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",1:\"§7Pets can only eat §a10 §7candy in their lifetime!\",2:\"\",3:\"§7Grants §a200,000 §ePet EXP§7.\",4:\"\",5:\"§eRight-click on your summoned pet to\",6:\"§efeed it this candy!\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Great Carrot Candy\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"GREAT_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",3:\"§7Pets can only eat §a10 §7candy in their lifetime!\",4:\"\",5:\"§7Grants §a200,000 §ePet EXP§7.\",6:\"\",7:\"§eRight-click on your summoned pet to\",8:\"§efeed it!\",9:\"\",10:\"§9§lRARE\"],Name:\"§9Great Carrot Candy\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Consumable",
+      "",
       "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!",
       "§7Pets can only eat §a10 §7candy in their lifetime!",
       "",
       "§7Grants §a200,000 §ePet EXP§7.",
       "",
       "§eRight-click on your summoned pet to",
-      "§efeed it this candy!",
+      "§efeed it!",
       "",
       "§9§lRARE"
     ],
     "internalname": "GREAT_CARROT_CANDY",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Carrot VI",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Great_Carrot_Candy"
@@ -176663,9 +176665,11 @@
   "PET_CAKE": {
     "itemid": "minecraft:cake",
     "displayname": "§fPet Cake",
-    "nbttag": "{ExtraAttributes:{id:\"PET_CAKE\"},HideFlags:254,ItemModel:\"minecraft:cake\",display:{Lore:[0:\"§7Feeding this to your pets gives them\",1:\"§7a boost of §a10,000 Exp§7!\",2:\"\",3:\"§eRight-click on your summoned pet to\",4:\"§efeed it!\",5:\"\",6:\"§f§lCOMMON\"],Name:\"§fPet Cake\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_CAKE\"},HideFlags:254,ItemModel:\"minecraft:cake\",display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§7Feeding this to your pets gives them\",3:\"§7a boost of §a10,000 Exp§7!\",4:\"\",5:\"§eRight-click on your summoned pet to\",6:\"§efeed it!\",7:\"\",8:\"§f§lCOMMON\"],Name:\"§fPet Cake\"}}",
     "damage": 0,
     "lore": [
+      "§8Consumable",
+      "",
       "§7Feeding this to your pets gives them",
       "§7a boost of §a10,000 Exp§7!",
       "",
@@ -176677,7 +176681,7 @@
     "internalname": "PET_CAKE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pet_Cake"
@@ -176829,7 +176833,7 @@
   "PET_ITEM_COMBAT_SKILL_BOOST_COMMON": {
     "itemid": "minecraft:iron_sword",
     "displayname": "§fCombat Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_COMBAT_SKILL_BOOST_COMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_sword\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+20% §7pet exp for Combat.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§f§lCOMMON PET ITEM\"],Name:\"§fCombat Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_COMBAT_SKILL_BOOST_COMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_sword\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+20% §7pet exp for §aCombat§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§f§lCOMMON PET ITEM\"],Name:\"§fCombat Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -176840,7 +176844,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+20% §7pet exp for Combat.",
+      "§7Gives §a+20% §7pet exp for §aCombat§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -176850,7 +176854,7 @@
     "internalname": "PET_ITEM_COMBAT_SKILL_BOOST_COMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Combat_Exp_Boost"
@@ -176859,7 +176863,7 @@
   "PET_ITEM_COMBAT_SKILL_BOOST_EPIC": {
     "itemid": "minecraft:iron_sword",
     "displayname": "§5Combat Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_COMBAT_SKILL_BOOST_EPIC\"},HideFlags:254,ItemModel:\"minecraft:iron_sword\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+50% §7pet exp for Combat.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§5§lEPIC PET ITEM\"],Name:\"§5Combat Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_COMBAT_SKILL_BOOST_EPIC\"},HideFlags:254,ItemModel:\"minecraft:iron_sword\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+50% §7pet exp for §aCombat§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§5§lEPIC PET ITEM\"],Name:\"§5Combat Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -176870,7 +176874,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+50% §7pet exp for Combat.",
+      "§7Gives §a+50% §7pet exp for §aCombat§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -176880,7 +176884,7 @@
     "internalname": "PET_ITEM_COMBAT_SKILL_BOOST_EPIC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Combat_Exp_Boost"
@@ -176889,7 +176893,7 @@
   "PET_ITEM_COMBAT_SKILL_BOOST_RARE": {
     "itemid": "minecraft:iron_sword",
     "displayname": "§9Combat Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_COMBAT_SKILL_BOOST_RARE\"},HideFlags:254,ItemModel:\"minecraft:iron_sword\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+40% §7pet exp for Combat.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§9§lRARE PET ITEM\"],Name:\"§9Combat Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_COMBAT_SKILL_BOOST_RARE\"},HideFlags:254,ItemModel:\"minecraft:iron_sword\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+40% §7pet exp for §aCombat§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§9§lRARE PET ITEM\"],Name:\"§9Combat Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -176900,7 +176904,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+40% §7pet exp for Combat.",
+      "§7Gives §a+40% §7pet exp for §aCombat§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -176910,7 +176914,7 @@
     "internalname": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Combat_Exp_Boost"
@@ -176919,7 +176923,7 @@
   "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON": {
     "itemid": "minecraft:iron_sword",
     "displayname": "§aCombat Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_sword\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+30% §7pet exp for Combat.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§a§lUNCOMMON PET ITEM\"],Name:\"§aCombat Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_sword\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+30% §7pet exp for §aCombat§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§a§lUNCOMMON PET ITEM\"],Name:\"§aCombat Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -176930,7 +176934,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+30% §7pet exp for Combat.",
+      "§7Gives §a+30% §7pet exp for §aCombat§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -176940,7 +176944,7 @@
     "internalname": "PET_ITEM_COMBAT_SKILL_BOOST_UNCOMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Combat_Exp_Boost"
@@ -177012,7 +177016,7 @@
   "PET_ITEM_FARMING_SKILL_BOOST_COMMON": {
     "itemid": "minecraft:iron_hoe",
     "displayname": "§fFarming Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FARMING_SKILL_BOOST_COMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_hoe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+20% §7pet exp for Farming.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§f§lCOMMON PET ITEM\"],Name:\"§fFarming Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FARMING_SKILL_BOOST_COMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_hoe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+20% §7pet exp for §aFarming§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§f§lCOMMON PET ITEM\"],Name:\"§fFarming Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177023,7 +177027,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+20% §7pet exp for Farming.",
+      "§7Gives §a+20% §7pet exp for §aFarming§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177033,7 +177037,7 @@
     "internalname": "PET_ITEM_FARMING_SKILL_BOOST_COMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farming_Exp_Boost"
@@ -177042,7 +177046,7 @@
   "PET_ITEM_FARMING_SKILL_BOOST_EPIC": {
     "itemid": "minecraft:iron_hoe",
     "displayname": "§5Farming Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FARMING_SKILL_BOOST_EPIC\"},HideFlags:254,ItemModel:\"minecraft:iron_hoe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+50% §7pet exp for Farming.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§5§lEPIC PET ITEM\"],Name:\"§5Farming Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FARMING_SKILL_BOOST_EPIC\"},HideFlags:254,ItemModel:\"minecraft:iron_hoe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+50% §7pet exp for §aFarming§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§5§lEPIC PET ITEM\"],Name:\"§5Farming Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177053,7 +177057,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+50% §7pet exp for Farming.",
+      "§7Gives §a+50% §7pet exp for §aFarming§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177063,7 +177067,7 @@
     "internalname": "PET_ITEM_FARMING_SKILL_BOOST_EPIC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farming_Exp_Boost"
@@ -177079,7 +177083,7 @@
   "PET_ITEM_FARMING_SKILL_BOOST_RARE": {
     "itemid": "minecraft:iron_hoe",
     "displayname": "§9Farming Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FARMING_SKILL_BOOST_RARE\"},HideFlags:254,ItemModel:\"minecraft:iron_hoe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+40% §7pet exp for Farming.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§9§lRARE PET ITEM\"],Name:\"§9Farming Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FARMING_SKILL_BOOST_RARE\"},HideFlags:254,ItemModel:\"minecraft:iron_hoe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+40% §7pet exp for §aFarming§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§9§lRARE PET ITEM\"],Name:\"§9Farming Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177090,7 +177094,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+40% §7pet exp for Farming.",
+      "§7Gives §a+40% §7pet exp for §aFarming§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177100,7 +177104,7 @@
     "internalname": "PET_ITEM_FARMING_SKILL_BOOST_RARE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farming_Exp_Boost"
@@ -177109,7 +177113,7 @@
   "PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON": {
     "itemid": "minecraft:iron_hoe",
     "displayname": "§aFarming Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_hoe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+30% §7pet exp for Farming.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§a§lUNCOMMON PET ITEM\"],Name:\"§aFarming Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_hoe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+30% §7pet exp for §aFarming§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§a§lUNCOMMON PET ITEM\"],Name:\"§aFarming Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177120,7 +177124,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+30% §7pet exp for Farming.",
+      "§7Gives §a+30% §7pet exp for §aFarming§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177130,7 +177134,7 @@
     "internalname": "PET_ITEM_FARMING_SKILL_BOOST_UNCOMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farming_Exp_Boost"
@@ -177169,7 +177173,7 @@
   "PET_ITEM_FISHING_SKILL_BOOST_EPIC": {
     "itemid": "minecraft:fish",
     "displayname": "§5Fishing Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FISHING_SKILL_BOOST_EPIC\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+50% §7pet exp for Fishing.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§5§lEPIC PET ITEM\"],Name:\"§5Fishing Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FISHING_SKILL_BOOST_EPIC\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+50% §7pet exp for §aFishing§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§5§lEPIC PET ITEM\"],Name:\"§5Fishing Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177180,7 +177184,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+50% §7pet exp for Fishing.",
+      "§7Gives §a+50% §7pet exp for §aFishing§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177190,7 +177194,7 @@
     "internalname": "PET_ITEM_FISHING_SKILL_BOOST_EPIC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fishing_Exp_Boost"
@@ -177199,7 +177203,7 @@
   "PET_ITEM_FISHING_SKILL_BOOST_RARE": {
     "itemid": "minecraft:fish",
     "displayname": "§9Fishing Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FISHING_SKILL_BOOST_RARE\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+40% §7pet exp for Fishing.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§9§lRARE PET ITEM\"],Name:\"§9Fishing Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FISHING_SKILL_BOOST_RARE\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+40% §7pet exp for §aFishing§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§9§lRARE PET ITEM\"],Name:\"§9Fishing Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177210,7 +177214,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+40% §7pet exp for Fishing.",
+      "§7Gives §a+40% §7pet exp for §aFishing§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177220,7 +177224,7 @@
     "internalname": "PET_ITEM_FISHING_SKILL_BOOST_RARE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fishing_Exp_Boost"
@@ -177229,7 +177233,7 @@
   "PET_ITEM_FISHING_SKILL_BOOST_UNCOMMON": {
     "itemid": "minecraft:fish",
     "displayname": "§aFishing Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FISHING_SKILL_BOOST_UNCOMMON\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+30% §7pet exp for Fishing.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§a§lUNCOMMON PET ITEM\"],Name:\"§aFishing Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FISHING_SKILL_BOOST_UNCOMMON\"},HideFlags:254,ItemModel:\"minecraft:cod\",display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+30% §7pet exp for §aFishing§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§a§lUNCOMMON PET ITEM\"],Name:\"§aFishing Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177240,7 +177244,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+30% §7pet exp for Fishing.",
+      "§7Gives §a+30% §7pet exp for §aFishing§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177250,7 +177254,7 @@
     "internalname": "PET_ITEM_FISHING_SKILL_BOOST_UNCOMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fishing_Exp_Boost"
@@ -177287,7 +177291,7 @@
   "PET_ITEM_FORAGING_SKILL_BOOST_COMMON": {
     "itemid": "minecraft:iron_axe",
     "displayname": "§fForaging Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FORAGING_SKILL_BOOST_COMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_axe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+20% §7pet exp for Foraging.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§f§lCOMMON PET ITEM\"],Name:\"§fForaging Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FORAGING_SKILL_BOOST_COMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_axe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+20% §7pet exp for §aForaging§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§f§lCOMMON PET ITEM\"],Name:\"§fForaging Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177298,7 +177302,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+20% §7pet exp for Foraging.",
+      "§7Gives §a+20% §7pet exp for §aForaging§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177308,7 +177312,7 @@
     "internalname": "PET_ITEM_FORAGING_SKILL_BOOST_COMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Foraging_Exp_Boost"
@@ -177317,7 +177321,7 @@
   "PET_ITEM_FORAGING_SKILL_BOOST_EPIC": {
     "itemid": "minecraft:iron_axe",
     "displayname": "§5Foraging Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FORAGING_SKILL_BOOST_EPIC\"},HideFlags:254,ItemModel:\"minecraft:iron_axe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+50% §7pet exp for Foraging.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§5§lEPIC PET ITEM\"],Name:\"§5Foraging Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_FORAGING_SKILL_BOOST_EPIC\"},HideFlags:254,ItemModel:\"minecraft:iron_axe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+50% §7pet exp for §aForaging§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§5§lEPIC PET ITEM\"],Name:\"§5Foraging Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177328,7 +177332,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+50% §7pet exp for Foraging.",
+      "§7Gives §a+50% §7pet exp for §aForaging§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177338,7 +177342,7 @@
     "internalname": "PET_ITEM_FORAGING_SKILL_BOOST_EPIC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Foraging_Exp_Boost"
@@ -177537,7 +177541,7 @@
   "PET_ITEM_MINING_SKILL_BOOST_COMMON": {
     "itemid": "minecraft:iron_pickaxe",
     "displayname": "§fMining Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_MINING_SKILL_BOOST_COMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+20% §7pet exp for Mining.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§f§lCOMMON PET ITEM\"],Name:\"§fMining Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_MINING_SKILL_BOOST_COMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+20% §7pet exp for §aMining§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§f§lCOMMON PET ITEM\"],Name:\"§fMining Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177548,7 +177552,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+20% §7pet exp for Mining.",
+      "§7Gives §a+20% §7pet exp for §aMining§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177558,7 +177562,7 @@
     "internalname": "PET_ITEM_MINING_SKILL_BOOST_COMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mining_Exp_Boost"
@@ -177567,7 +177571,7 @@
   "PET_ITEM_MINING_SKILL_BOOST_RARE": {
     "itemid": "minecraft:iron_pickaxe",
     "displayname": "§9Mining Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_MINING_SKILL_BOOST_RARE\"},HideFlags:254,ItemModel:\"minecraft:iron_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+40% §7pet exp for Mining.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§9§lRARE PET ITEM\"],Name:\"§9Mining Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_MINING_SKILL_BOOST_RARE\"},HideFlags:254,ItemModel:\"minecraft:iron_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+40% §7pet exp for §aMining§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§9§lRARE PET ITEM\"],Name:\"§9Mining Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177578,7 +177582,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+40% §7pet exp for Mining.",
+      "§7Gives §a+40% §7pet exp for §aMining§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177588,7 +177592,7 @@
     "internalname": "PET_ITEM_MINING_SKILL_BOOST_RARE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mining_Exp_Boost"
@@ -177597,7 +177601,7 @@
   "PET_ITEM_MINING_SKILL_BOOST_UNCOMMON": {
     "itemid": "minecraft:iron_pickaxe",
     "displayname": "§aMining Exp Boost",
-    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_MINING_SKILL_BOOST_UNCOMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+30% §7pet exp for Mining.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§a§lUNCOMMON PET ITEM\"],Name:\"§aMining Exp Boost\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_ITEM_MINING_SKILL_BOOST_UNCOMMON\"},HideFlags:254,ItemModel:\"minecraft:iron_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§aPet Items §7can boost pets in many\",3:\"§7powerful ways! A pet can only hold\",4:\"§7one §aPet Item§7, but you can §eswap §7it at\",5:\"§7any time!\",6:\"§8The pet must be visible to apply the item!\",7:\"\",8:\"§7Gives §a+30% §7pet exp for §aMining§7.\",9:\"\",10:\"§eRight-click on your summoned pet to\",11:\"§egive it this item!\",12:\"\",13:\"§a§lUNCOMMON PET ITEM\"],Name:\"§aMining Exp Boost\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Consumed on use",
@@ -177608,7 +177612,7 @@
       "§7any time!",
       "§8The pet must be visible to apply the item!",
       "",
-      "§7Gives §a+30% §7pet exp for Mining.",
+      "§7Gives §a+30% §7pet exp for §aMining§7.",
       "",
       "§eRight-click on your summoned pet to",
       "§egive it this item!",
@@ -177618,7 +177622,7 @@
     "internalname": "PET_ITEM_MINING_SKILL_BOOST_UNCOMMON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mining_Exp_Boost"
@@ -227100,10 +227104,12 @@
   "SIMPLE_CARROT_CANDY": {
     "itemid": "minecraft:carrot",
     "displayname": "§aSimple Carrot Candy",
-    "nbttag": "{ExtraAttributes:{id:\"SIMPLE_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",3:\"§7Pets can only eat §a10 §7candy in their lifetime!\",4:\"\",5:\"§7Grants §a20,000 §ePet EXP§7.\",6:\"\",7:\"§eRight-click on your summoned pet to\",8:\"§efeed it this candy!\",9:\"\",10:\"§a§lUNCOMMON\"],Name:\"§aSimple Carrot Candy\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SIMPLE_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:carrot\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§8Consumable\",3:\"\",4:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",5:\"§7Pets can only eat §a10 §7candy in their lifetime!\",6:\"\",7:\"§7Grants §a20,000 §ePet EXP§7.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§efeed it!\",11:\"\",12:\"§a§lUNCOMMON\"],Name:\"§aSimple Carrot Candy\"}}",
     "damage": 0,
     "lore": [
       "§8Brewing Ingredient",
+      "",
+      "§8Consumable",
       "",
       "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!",
       "§7Pets can only eat §a10 §7candy in their lifetime!",
@@ -227111,14 +227117,14 @@
       "§7Grants §a20,000 §ePet EXP§7.",
       "",
       "§eRight-click on your summoned pet to",
-      "§efeed it this candy!",
+      "§efeed it!",
       "",
       "§a§lUNCOMMON"
     ],
     "internalname": "SIMPLE_CARROT_CANDY",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Carrot II",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Simple_Carrot_Candy"
@@ -247850,25 +247856,21 @@
   "STEAMED_CHOCOLATE_FISH": {
     "itemid": "minecraft:skull",
     "displayname": "§5Fish Chocolat à la Vapeur",
-    "nbttag": "{ExtraAttributes:{id:\"STEAMED_CHOCOLATE_FISH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5904a05d-a017-3058-913e-5ea6b9faa18a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"lGeT0/3WUGKFkHPv8gI0BEErir/mZT8paNdbUFZQ0Q+q+Ef9bt0Q6A9C9ht0ilBLsZNmuIOKbzWuRCTR5rpFGEA+o1cf28tz3+7R1xAQDSveQ85pOQ7H9C4SKFUeZY1A4BtQEMZxDouPCPjWCWgE8qAtGjcgvipvi+SoIk5UiZUze+MgNT9zMbQOnxtp7zbMo5INVGcO8k82La2VdxZSX3zF/63buR8cvV1gkK5ovbL1oipeMo3GlKwyjVg/kNAvwRs2llqamUYMLa3+ktkS24c0p7iDoEy8e3O8QBKropY7Afu84GOU+4zTtJDaT5bnquRXPdPkHSwn5HlKbM4Mjc4lgX1n7NVD6YvNkt/TlGn3nnhHsr7GKqzyyMCkL3Som1r9YxKVv8h8DCRuNe2Bb3bXKruSGKRuypRzwdKEwTke0a2+qzI/BgANBpXIHn2lnP6Vhu3DRJhTWWdJfgNhbl4/qFhW0FShdu/h7eLMRwC5zS6KkcBjfT4I2/2bp81+mjC9IaKYo7VjKt9Gn+ndIdfD75CMr6rW8BIGe7ZDAjgVECbO2UJuWU3jBbYpzlk7sm8eYKSvYNCFtkb0+2B7EjwpuSTUt8g/OlZP6muumPLwMwmhwD8dLk9Opv2feNofvu0xZkzZjOwY+r4x9tGwu2n+WRbA2yoo/gf5YHEdsbc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNDk1OTAwNzUwOSwKICAicHJvZmlsZUlkIiA6ICJiZmMyODE3ZWRhZWM0OWY5YTVmMWVkNTdjODZhMGFjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFYm95UmV6YSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MjJiMGU1ZmFhOTdjYTEwOWNkNDVmMWZiYTJkODRjYTJiOWI2MDFkZTUwYjQ3ZjRhZGQyZDgzNWFhMzYwZjc4IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Give this dish to §aHoppity §7to obtain his\",1:\"§aAbiphone Contact§7.\",2:\"\",3:\"§8§oSavory fish with a chocolate twist.\",4:\"§8§oMwah! C'est magnifique, no?\",5:\"\",6:\"§5§lEPIC\",7:\"\",8:\"§7Cost\",9:\"§650,000,000,000 Chocolate\",10:\"§cRabbit the Fish\"],Name:\"§5Fish Chocolat à la Vapeur\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"STEAMED_CHOCOLATE_FISH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5904a05d-a017-3058-913e-5ea6b9faa18a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"lGeT0/3WUGKFkHPv8gI0BEErir/mZT8paNdbUFZQ0Q+q+Ef9bt0Q6A9C9ht0ilBLsZNmuIOKbzWuRCTR5rpFGEA+o1cf28tz3+7R1xAQDSveQ85pOQ7H9C4SKFUeZY1A4BtQEMZxDouPCPjWCWgE8qAtGjcgvipvi+SoIk5UiZUze+MgNT9zMbQOnxtp7zbMo5INVGcO8k82La2VdxZSX3zF/63buR8cvV1gkK5ovbL1oipeMo3GlKwyjVg/kNAvwRs2llqamUYMLa3+ktkS24c0p7iDoEy8e3O8QBKropY7Afu84GOU+4zTtJDaT5bnquRXPdPkHSwn5HlKbM4Mjc4lgX1n7NVD6YvNkt/TlGn3nnhHsr7GKqzyyMCkL3Som1r9YxKVv8h8DCRuNe2Bb3bXKruSGKRuypRzwdKEwTke0a2+qzI/BgANBpXIHn2lnP6Vhu3DRJhTWWdJfgNhbl4/qFhW0FShdu/h7eLMRwC5zS6KkcBjfT4I2/2bp81+mjC9IaKYo7VjKt9Gn+ndIdfD75CMr6rW8BIGe7ZDAjgVECbO2UJuWU3jBbYpzlk7sm8eYKSvYNCFtkb0+2B7EjwpuSTUt8g/OlZP6muumPLwMwmhwD8dLk9Opv2feNofvu0xZkzZjOwY+r4x9tGwu2n+WRbA2yoo/gf5YHEdsbc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNDk1OTAwNzUwOSwKICAicHJvZmlsZUlkIiA6ICJiZmMyODE3ZWRhZWM0OWY5YTVmMWVkNTdjODZhMGFjOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFYm95UmV6YSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MjJiMGU1ZmFhOTdjYTEwOWNkNDVmMWZiYTJkODRjYTJiOWI2MDFkZTUwYjQ3ZjRhZGQyZDgzNWFhMzYwZjc4IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Give this dish to §aHoppity §7to obtain his\",1:\"§3Abiphone Contact§7.\",2:\"\",3:\"§8§oSavory fish with a chocolate twist.\",4:\"§8§oMwah! C'est magnifique, no?\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Fish Chocolat à la Vapeur\"}}",
     "damage": 3,
     "lore": [
       "§7Give this dish to §aHoppity §7to obtain his",
-      "§aAbiphone Contact§7.",
+      "§3Abiphone Contact§7.",
       "",
       "§8§oSavory fish with a chocolate twist.",
       "§8§oMwah! C'est magnifique, no?",
       "",
-      "§5§lEPIC",
-      "",
-      "§7Cost",
-      "§650,000,000,000 Chocolate",
-      "§cRabbit the Fish"
+      "§5§lEPIC"
     ],
     "internalname": "STEAMED_CHOCOLATE_FISH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": []
   },
@@ -252341,23 +252343,25 @@
   "SUPERB_CARROT_CANDY": {
     "itemid": "minecraft:golden_carrot",
     "displayname": "§5Superb Carrot Candy",
-    "nbttag": "{ExtraAttributes:{id:\"SUPERB_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",1:\"§7Pets can only eat §a10 §7candy in their lifetime!\",2:\"\",3:\"§7Grants §a750,000 §ePet EXP§7.\",4:\"\",5:\"§eRight-click on your summoned pet to\",6:\"§efeed it this candy!\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Superb Carrot Candy\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"SUPERB_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",3:\"§7Pets can only eat §a10 §7candy in their lifetime!\",4:\"\",5:\"§7Grants §a750,000 §ePet EXP§7.\",6:\"\",7:\"§eRight-click on your summoned pet to\",8:\"§efeed it!\",9:\"\",10:\"§5§lEPIC\"],Name:\"§5Superb Carrot Candy\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Consumable",
+      "",
       "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!",
       "§7Pets can only eat §a10 §7candy in their lifetime!",
       "",
       "§7Grants §a750,000 §ePet EXP§7.",
       "",
       "§eRight-click on your summoned pet to",
-      "§efeed it this candy!",
+      "§efeed it!",
       "",
       "§5§lEPIC"
     ],
     "internalname": "SUPERB_CARROT_CANDY",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Carrot VIII",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Superb_Carrot_Candy"
@@ -270060,23 +270064,25 @@
   "ULTIMATE_CARROT_CANDY": {
     "itemid": "minecraft:golden_carrot",
     "displayname": "§6Ultimate Carrot Candy",
-    "nbttag": "{ExtraAttributes:{id:\"ULTIMATE_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",1:\"§7Pets can only eat §a10 §7candy in their lifetime!\",2:\"\",3:\"§7Grants §a1,500,000 §ePet EXP§7.\",4:\"\",5:\"§eRight-click on your summoned pet to\",6:\"§efeed it this candy!\",7:\"\",8:\"§6§lLEGENDARY\"],Name:\"§6Ultimate Carrot Candy\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ULTIMATE_CARROT_CANDY\"},HideFlags:254,ItemModel:\"minecraft:golden_carrot\",display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§aCarrot Candy §7gives pets boosts of §ePet EXP§7!\",3:\"§7Pets can only eat §a10 §7candy in their lifetime!\",4:\"\",5:\"§7Grants §a1,500,000 §ePet EXP§7.\",6:\"\",7:\"§eRight-click on your summoned pet to\",8:\"§efeed it!\",9:\"\",10:\"§6§lLEGENDARY\"],Name:\"§6Ultimate Carrot Candy\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Consumable",
+      "",
       "§aCarrot Candy §7gives pets boosts of §ePet EXP§7!",
       "§7Pets can only eat §a10 §7candy in their lifetime!",
       "",
       "§7Grants §a1,500,000 §ePet EXP§7.",
       "",
       "§eRight-click on your summoned pet to",
-      "§efeed it this candy!",
+      "§efeed it!",
       "",
       "§6§lLEGENDARY"
     ],
     "internalname": "ULTIMATE_CARROT_CANDY",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ultimate_Carrot_Candy"
