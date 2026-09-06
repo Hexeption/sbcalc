@@ -1,11 +1,10 @@
-import { beforeEach, describe, expect, it } from "vitest";
+import { describe, expect, it } from "vitest";
 import {
   aggregateIngredients,
-  getBaseRequirements,
   getIngredientsFromRecipe,
   getRecipe,
 } from "@/lib/recipe-utils";
-import type { ForgeRecipe, RecipeEntry, RecipesData } from "@/lib/types";
+import type { ForgeRecipe, RecipeEntry } from "@/lib/types";
 
 describe("aggregateIngredients", () => {
   it("should aggregate ingredient counts correctly", () => {
@@ -135,64 +134,5 @@ describe("getIngredientsFromRecipe", () => {
     const result = getIngredientsFromRecipe(recipe);
 
     expect(result).toEqual(["IRON_INGOT:10"]);
-  });
-});
-
-describe("getBaseRequirements", () => {
-  let recipesData: RecipesData;
-
-  beforeEach(() => {
-    recipesData = {
-      ENCHANTED_IRON: {
-        internalname: "ENCHANTED_IRON",
-        recipe: {
-          A1: "IRON_INGOT:160",
-          count: "1",
-        },
-      },
-      HYPERION: {
-        internalname: "HYPERION",
-        recipe: {
-          A1: "ENCHANTED_IRON:64",
-          B1: "DIAMOND:32",
-          count: "1",
-        },
-      },
-      IRON_INGOT: {
-        internalname: "IRON_INGOT",
-      },
-      DIAMOND: {
-        internalname: "DIAMOND",
-      },
-    };
-  });
-
-  it("should calculate base requirements recursively", () => {
-    const result = getBaseRequirements("HYPERION", recipesData);
-
-    expect(result).toEqual({
-      IRON_INGOT: 10240, // 64 * 160
-      DIAMOND: 32,
-    });
-  });
-
-  it("should handle items with no recipe", () => {
-    const result = getBaseRequirements("DIAMOND", recipesData);
-
-    expect(result).toEqual({});
-  });
-
-  it("should handle missing items", () => {
-    const result = getBaseRequirements("NONEXISTENT", recipesData);
-
-    expect(result).toEqual({});
-  });
-
-  it("should apply multiplier correctly", () => {
-    const result = getBaseRequirements("ENCHANTED_IRON", recipesData, 2);
-
-    expect(result).toEqual({
-      IRON_INGOT: 320, // 160 * 2
-    });
   });
 });

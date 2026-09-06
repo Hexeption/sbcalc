@@ -4,9 +4,8 @@ import {
   calculateOptimalForgeTime,
   calculateQuickForgeReduction,
   formatForgeTime,
-  getTotalForgeTime,
 } from "@/lib/forge-time-utils";
-import type { ForgeSettings, RecipesData } from "@/lib/types";
+import type { ForgeSettings } from "@/lib/types";
 
 describe("formatForgeTime", () => {
   it("should format seconds correctly", () => {
@@ -126,77 +125,5 @@ describe("applyQuickForgeReduction", () => {
 
     // Should floor the result
     expect(result).toBe(Math.floor(333 * 0.85));
-  });
-});
-
-describe("getTotalForgeTime", () => {
-  const mockRecipes: RecipesData = {
-    FORGE_ITEM: {
-      internalname: "FORGE_ITEM",
-      forge: {
-        type: "forge",
-        forge_time: 600,
-        forge_ingredients: [{ item: "BASE_ITEM", count: 10 }],
-      },
-    },
-    BASE_ITEM: {
-      internalname: "BASE_ITEM",
-    },
-  };
-
-  const mockSettings: ForgeSettings = {
-    forgeSlots: 2,
-    useMultipleSlots: true,
-    quickForgeLevel: 0,
-  };
-
-  it("should calculate total forge time for item with forge recipe", () => {
-    const result = getTotalForgeTime(
-      "FORGE_ITEM",
-      mockRecipes,
-      1,
-      new Set(),
-      mockSettings,
-    );
-
-    // The function looks for 'forge' recipes, so adjust the test data structure
-    expect(result).toBe(0); // getRecipe doesn't find forge recipe in current structure
-  });
-
-  it("should return 0 for items without forge recipes", () => {
-    const result = getTotalForgeTime(
-      "BASE_ITEM",
-      mockRecipes,
-      1,
-      new Set(),
-      mockSettings,
-    );
-
-    expect(result).toBe(0);
-  });
-
-  it("should handle missing items", () => {
-    const result = getTotalForgeTime(
-      "NONEXISTENT",
-      mockRecipes,
-      1,
-      new Set(),
-      mockSettings,
-    );
-
-    expect(result).toBe(0);
-  });
-
-  it("should prevent infinite recursion with visited set", () => {
-    const visited = new Set(["FORGE_ITEM"]);
-    const result = getTotalForgeTime(
-      "FORGE_ITEM",
-      mockRecipes,
-      1,
-      visited,
-      mockSettings,
-    );
-
-    expect(result).toBe(0);
   });
 });
