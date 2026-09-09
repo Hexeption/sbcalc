@@ -68501,7 +68501,7 @@
   "EMBER_ROD": {
     "itemid": "minecraft:blaze_rod",
     "displayname": "§5Ember Rod",
-    "nbttag": "{ExtraAttributes:{id:\"EMBER_ROD\",originTag:\"UNKNOWN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/ember_rod\",display:{Lore:[0:\"§7Damage: §c+80\",1:\"§7Strength: §c+35\",2:\"§7Intelligence: §b+50\",3:\"\",4:\"§6Ability: Fire Blast  §e§lRIGHT CLICK\",5:\"§7Shoot 3 Fireballs which deal §c30.5§7 damage in\",6:\"§7rapid succession in front of you!\",7:\"§8Mana Cost: §b150\",8:\"§8Cooldown: §a30s\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aCombat Skill 8§c.\",12:\"§5§lEPIC SWORD\"],Name:\"§5Ember Rod\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"EMBER_ROD\",originTag:\"UNKNOWN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/ember_rod\",display:{Lore:[0:\"§7Damage: §c+80\",1:\"§7Strength: §c+35\",2:\"§7Intelligence: §b+50\",3:\"\",4:\"§6Ability: Fire Blast  §e§lRIGHT CLICK\",5:\"§7Shoot 3 Fireballs which deal §c30§7 damage in\",6:\"§7rapid succession in front of you!\",7:\"§8Mana Cost: §b150\",8:\"§8Cooldown: §a30s\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aCombat Skill 8§c.\",12:\"§5§lEPIC SWORD\"],Name:\"§5Ember Rod\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+80",
@@ -68509,7 +68509,7 @@
       "§7Intelligence: §b+50",
       "",
       "§6Ability: Fire Blast  §e§lRIGHT CLICK",
-      "§7Shoot 3 Fireballs which deal §c30.5§7 damage in",
+      "§7Shoot 3 Fireballs which deal §c30§7 damage in",
       "§7rapid succession in front of you!",
       "§8Mana Cost: §b150",
       "§8Cooldown: §a30s",
@@ -68521,7 +68521,7 @@
     "internalname": "EMBER_ROD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ember_Rod"
@@ -91421,7 +91421,7 @@
   "FLAMING_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§9Flaming Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"FLAMING_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+225\",1:\"§7Defense: §a+200\",2:\"§7Strength: §c+25\",3:\"§7Sea Creature Chance: §3+3%\",4:\"§7Gemstones: §8[⚔] []\",5:\"\",6:\"§7Damage taken by §cLava Sea\",7:\"§cCreatures §7is reduced by §a5% §7and\",8:\"§7damage dealt is increased by §c1.1x§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aFishing Skill 33§c.\",12:\"§9§lRARE CHESTPLATE\"],Name:\"§9Flaming Chestplate\",color:15558162}}",
+    "nbttag": "{ExtraAttributes:{id:\"FLAMING_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+225\",1:\"§7Defense: §a+200\",2:\"§7Strength: §c+25\",3:\"§7Sea Creature Chance: §3+3%\",4:\"§7Gemstones: §8[⚔] []\",5:\"\",6:\"§7Damage taken from §c Magmatic§7 mobs\",7:\"§7is reduced by §a5% §7and damage dealt\",8:\"§7is increased by §c1.1x§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aFishing Skill 33§c.\",12:\"§9§lRARE CHESTPLATE\"],Name:\"§9Flaming Chestplate\",color:15558162}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+225",
@@ -91430,9 +91430,9 @@
       "§7Sea Creature Chance: §3+3%",
       "§7Gemstones: §8[⚔] []",
       "",
-      "§7Damage taken by §cLava Sea",
-      "§cCreatures §7is reduced by §a5% §7and",
-      "§7damage dealt is increased by §c1.1x§7.",
+      "§7Damage taken from §c Magmatic§7 mobs",
+      "§7is reduced by §a5% §7and damage dealt",
+      "§7is increased by §c1.1x§7.",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §aFishing Skill 33§c.",
@@ -91441,7 +91441,7 @@
     "internalname": "FLAMING_CHESTPLATE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Flaming_Chestplate"
@@ -157681,7 +157681,7 @@
   "MOOGMA_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§9Moogma Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"MOOGMA_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+200\",1:\"§7Defense: §a+175\",2:\"§7Crit Damage: §9+15%\",3:\"§7Sea Creature Chance: §3+3%\",4:\"§7Gemstones: §8[⚔] []\",5:\"\",6:\"§7Damage taken by §cLava Sea\",7:\"§cCreatures §7is reduced by §a5% §7and\",8:\"§7damage dealt is increased by §c1.1x§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aFishing Skill 28§c.\",12:\"§9§lRARE LEGGINGS\"],Name:\"§9Moogma Leggings\",color:13511724}}",
+    "nbttag": "{ExtraAttributes:{id:\"MOOGMA_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+200\",1:\"§7Defense: §a+175\",2:\"§7Crit Damage: §9+15%\",3:\"§7Sea Creature Chance: §3+3%\",4:\"§7Gemstones: §8[⚔] []\",5:\"\",6:\"§7Damage taken from §c Magmatic§7 mobs\",7:\"§7is reduced by §a5% §7and damage dealt\",8:\"§7is increased by §c1.1x§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aFishing Skill 28§c.\",12:\"§9§lRARE LEGGINGS\"],Name:\"§9Moogma Leggings\",color:13511724}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+200",
@@ -157690,9 +157690,9 @@
       "§7Sea Creature Chance: §3+3%",
       "§7Gemstones: §8[⚔] []",
       "",
-      "§7Damage taken by §cLava Sea",
-      "§cCreatures §7is reduced by §a5% §7and",
-      "§7damage dealt is increased by §c1.1x§7.",
+      "§7Damage taken from §c Magmatic§7 mobs",
+      "§7is reduced by §a5% §7and damage dealt",
+      "§7is increased by §c1.1x§7.",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §aFishing Skill 28§c.",
@@ -157701,7 +157701,7 @@
     "internalname": "MOOGMA_LEGGINGS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Moogma_Leggings"
@@ -257602,7 +257602,7 @@
   "TAURUS_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§9Taurus Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"TAURUS_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5f4a4af3-d4f0-3250-82ed-09e38250f98b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ABe/sF5x53+kZYg46RseDtmF34UittLLmcUasJQuJBKt/YRpz3UzHfS6JPiQVE7HFyB3vwHQMzRCKRiz0u6qtNHCOMr/WcVWHdxJT+oVkBuljgzSr6aRZAOLbIg7M50U21aqaarEqw3GTTh/RzkTBBl5E7FAVnXIpFPj7VWhsA7Hz2HPpSmtA39VgRKEOzwVuK4kk1Tt8jDdgilgyxeVbvRnLDoIN9eAhLN3VnGGKeUo79aRJFxGjJcLa/HjkgsINXecWoXQbdI5i2aslDUaAnOni14GkvvBr6M0/qViKdO+LlF/YHKbwbsBcxRvs19rYSssKLhNwQuXhKWccKf9y6FpfyNsS2+u2JADxGhxjME4m84sFZNKC5qvTqLC2PexRRFk7UdUs4j/+GtI++meo5Kup4BP68FTydVNGk9LJtWvUNr4ZofIaQ/cI8XqRNjungRc81ck6HuYu47yO+XxA/c0NdL4UydmhIRM5IlZ6bWYD5CQIX/n9x0vG9DDCUj47w6gXZR5NONMwwONP75/I7HS9CAOCpmkHKMbZnNhVhTnG/ZY64t5N4A9MYJXjo4lNpkgSleTosXV06CDXZN+vrxXsm+gNJqFZ7uv+zqvZAidVJR0TdLSX8+muwEKOEN9cf7MMYcIf8NVeZ+tdvPFTvb7D1pkOk58HIZ42mSi/sc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzU0MTIyNDQ3OSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY0MmEwNmNkNzVlZjMwN2MxOTEzYmE3YTIyNGZiMjA4MmQ4YTJjNTI1NGZkMWJmMDA2MTI1YTA4N2E5YTg2OCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+175\",1:\"§7Defense: §a+150\",2:\"§7Crit Damage: §9+20%\",3:\"§7Sea Creature Chance: §3+3%\",4:\"§7Gemstones: §8[⚔] []\",5:\"\",6:\"§7Damage taken by §cLava Sea\",7:\"§cCreatures §7is reduced by §a5% §7and\",8:\"§7damage dealt is increased by §c1.1x§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aFishing Skill 35§c.\",12:\"§9§lRARE HELMET\"],Name:\"§9Taurus Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TAURUS_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5f4a4af3-d4f0-3250-82ed-09e38250f98b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ABe/sF5x53+kZYg46RseDtmF34UittLLmcUasJQuJBKt/YRpz3UzHfS6JPiQVE7HFyB3vwHQMzRCKRiz0u6qtNHCOMr/WcVWHdxJT+oVkBuljgzSr6aRZAOLbIg7M50U21aqaarEqw3GTTh/RzkTBBl5E7FAVnXIpFPj7VWhsA7Hz2HPpSmtA39VgRKEOzwVuK4kk1Tt8jDdgilgyxeVbvRnLDoIN9eAhLN3VnGGKeUo79aRJFxGjJcLa/HjkgsINXecWoXQbdI5i2aslDUaAnOni14GkvvBr6M0/qViKdO+LlF/YHKbwbsBcxRvs19rYSssKLhNwQuXhKWccKf9y6FpfyNsS2+u2JADxGhxjME4m84sFZNKC5qvTqLC2PexRRFk7UdUs4j/+GtI++meo5Kup4BP68FTydVNGk9LJtWvUNr4ZofIaQ/cI8XqRNjungRc81ck6HuYu47yO+XxA/c0NdL4UydmhIRM5IlZ6bWYD5CQIX/n9x0vG9DDCUj47w6gXZR5NONMwwONP75/I7HS9CAOCpmkHKMbZnNhVhTnG/ZY64t5N4A9MYJXjo4lNpkgSleTosXV06CDXZN+vrxXsm+gNJqFZ7uv+zqvZAidVJR0TdLSX8+muwEKOEN9cf7MMYcIf8NVeZ+tdvPFTvb7D1pkOk58HIZ42mSi/sc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzU0MTIyNDQ3OSwKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY0MmEwNmNkNzVlZjMwN2MxOTEzYmE3YTIyNGZiMjA4MmQ4YTJjNTI1NGZkMWJmMDA2MTI1YTA4N2E5YTg2OCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+175\",1:\"§7Defense: §a+150\",2:\"§7Crit Damage: §9+20%\",3:\"§7Sea Creature Chance: §3+3%\",4:\"§7Gemstones: §8[⚔] []\",5:\"\",6:\"§7Damage taken from §c Magmatic§7 mobs\",7:\"§7is reduced by §a5% §7and damage dealt\",8:\"§7is increased by §c1.1x§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aFishing Skill 35§c.\",12:\"§9§lRARE HELMET\"],Name:\"§9Taurus Helmet\"}}",
     "damage": 3,
     "lore": [
       "§7Health: §c+175",
@@ -257611,9 +257611,9 @@
       "§7Sea Creature Chance: §3+3%",
       "§7Gemstones: §8[⚔] []",
       "",
-      "§7Damage taken by §cLava Sea",
-      "§cCreatures §7is reduced by §a5% §7and",
-      "§7damage dealt is increased by §c1.1x§7.",
+      "§7Damage taken from §c Magmatic§7 mobs",
+      "§7is reduced by §a5% §7and damage dealt",
+      "§7is increased by §c1.1x§7.",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires §aFishing Skill 35§c.",
@@ -257622,7 +257622,7 @@
     "internalname": "TAURUS_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Taurus_Helmet"
