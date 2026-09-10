@@ -93821,10 +93821,10 @@
     ]
   },
   "FLYFISH_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aFlyfish §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"FLYFISH_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9efcab72-ad30-3a33-b159-40fb2b486c5f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"dL/+q42jV/VIYCgN/mRSaZY6C9fDrRncBtyJFmJkFOmVA2Zdw+dPv4aACskCVObrqD5DicYosHwaiB09ghVI4LVVNrSYhyWGUPekQ0Rrw+ihgqEVAO8jcVaBxVzyr3++6+U6fzJcaSUglYRu9/P/p90UDJv/wdgGfXOyA2d5d4fRZXB9WzxFdOK9DcyfBLGWIN1tlP5dT6dd51HTTODlopCmC6YrD0ZXdbGGGtK4JCBuwSJbrXwV2t7Uy0xYp6GEEKK6OyS1NNDwbZiMBZ67gneRYJ2g0L0ljLaduZPMyCE5K9W7qqkrJFUCQvadamjd0NKc1oS9K8Cjl8iFLA+JucRSbl6c6Th8h2ZTkOAo2kB6kGbiroY8kYxjirdQYsT0CUuOKcC5D7VMJx8PeJGWL4PROjfrfhWJEB2clIR7c1twsctKK+ucCBl6+7WRUBHfxiVvbxTfyvVaT72q2yR9zJb2r4DDdrJHpuICZrPD/KGUzlpvXSZSWUk0W72OlX/cOVSsnD/6FSodDi1pdd3fyJ9hmF7gMa5wbfL6hFnvNtNxM7SSjautwwYwcSb1NrJ5tq7dKNBRLIjfU0tW0Cjyi1Uz6xvwJvSQuMZ30Yd+A5+qmqI70Q4SNcuPJ5QeKz0Mxy30XJayH0HGLJZia563Tyv2tiTCoYNaD3b6u1UC6Mc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNjY0MjgxMiwKICAicHJvZmlsZUlkIiA6ICJkOWQyZTg3ZjI1M2Q0NGI3YmYxMDc3OTZhZGRmODI2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIYWNrR2lybCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTE2YzIzMzc5NzYyNmNlNWUwMTMyMTY2MDYyYWUxY2I0MzVjNTYxYzAwYTZmYTExYjM3ZTIyOTVmOGM3YzViIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Caught from 8 blocks above.\",1:\"§7Found in the §6Blazing Volcano§7.\",2:\"\",3:\"§7Bring this to §fOdger §7at the top of the\",4:\"§6Blazing Volcano§7.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§a§lUNCOMMON TROPHY\"],Name:\"§aFlyfish §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"FLYFISH_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/flyfish_diamond\",display:{Lore:[0:\"§7Caught from 8 blocks above.\",1:\"§7Found in the §6Blazing Volcano§7.\",2:\"\",3:\"§7Bring this to §fOdger §7at the top of the\",4:\"§6Blazing Volcano§7.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§a§lUNCOMMON TROPHY\"],Name:\"§aFlyfish §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Caught from 8 blocks above.",
       "§7Found in the §6Blazing Volcano§7.",
@@ -93838,7 +93838,7 @@
     "internalname": "FLYFISH_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Flyfish"
@@ -106164,10 +106164,10 @@
     ]
   },
   "GOLDEN_FISH_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§6Golden Fish §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"GOLDEN_FISH_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1f6f46df-4716-3024-ab4d-38fe94f6387e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"UAzbedq7hysYOSN8rRz+DdXXsCNg4NnCjZ8hZUb2FPkPU3nFrXtphoiYmye+r1Sry0qHBVuEvkLmWCg2mF0kHIw9DzQwvoyDS0Udi/MgufkcwAjvHBTXiw7iaD+ZnCeyvXptu414lVGNMFETeU7l4YyGbibrvAib0J6V2rH99wsGo0jD2nnZciSblcmoKPGm2KFge14Es4roWMdk+UtYuIee+r/jATNuXAVVrDiqlL502YyL6/3y5lkPpJdcdinCvjoQsDazPb90zuRSvVr6tRGf1OaOX4jDXbS7Ggsd5W698TPPLOBwx03JCHnhD141tg6R9AP1SLb5sPRrS3Bh8TXgkKtWEYyPMg4TfJkqm6eE+dTwhIydzKQ9t/tci70E7hsKGedddQMZfDyUF5bIb0gsEMSYBladH2BtvicCwU7RtNQBJUQbzGcs1G2oRCjU6DlBr6uF6XF3MvpqGFj+GAMTGBTUun1jmtRuiMaJbXfkwSF2r5EWaUkRLpijYcj9zt9bBVERfwi87YJrx5IA9LzTeQgJIwloKpGfzQRHfCg0gTP1Tz3ql8zrWkKlxfo5XBU88aoRFUZvBP7U4V3yB9vmfpQDMRZB7SJ71tPnHmGbttVYbniBoXGxsxPqvO8461MjzdikGS8AiUNbcWpoLMcfY3a57V/My65zzZztfjI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNzQ2OTY1OCwKICAicHJvZmlsZUlkIiA6ICJiYjdjY2E3MTA0MzQ0NDEyOGQzMDg5ZTEzYmRmYWI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXVyZW5jaW8zMDMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQ2Y2I4Y2JiNjBjZGE2MDA5MmIzMDUxNjQ4ZGQyZGI3ZWVjNDlhZTg3ZjNmNTI0YzYxODI3OTdiNDEwOWExMiIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found swimming around in the lava.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§6§lLEGENDARY TROPHY\"],Name:\"§6Golden Fish §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"GOLDEN_FISH_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/golden_fish_diamond\",display:{Lore:[0:\"§7Found swimming around in the lava.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§6§lLEGENDARY TROPHY\"],Name:\"§6Golden Fish §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Found swimming around in the lava.",
       "",
@@ -106180,17 +106180,17 @@
     "internalname": "GOLDEN_FISH_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Golden_Fish"
     ]
   },
   "GOLDEN_FISH_GOLD": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§6Golden Fish §6§lGOLD",
-    "nbttag": "{ExtraAttributes:{id:\"GOLDEN_FISH_GOLD\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a2cc2302-e770-335d-a057-743fe61798e7\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GzMNDbdbw+CpmQYEhoOTEM9jX0yoH61G40UclxFpUWjvv95BbRz49AIO0XJ4dG9Ud6b8ZnDVC4TRUO6hl7GibzXUkc9s5hEVNsG3gVBP6MZvlXYQSdK3Lkwnbs8WsvX4HleVqGirtWpUp7vr8sM/Sqsxri1SXa7CO5pPDBQJ5kYKGNt0WTJi01jmKkK5v3QjRt3/PnfhZhDyI1955vnZ40HC37wn1eqmS2LSOe2MSgbZlq2aaitBsmZTCkMJtgVRgJymaqO4S9gZ20nKpeV3tITYW2RlpQCGMoDDTiat8JQhR54zG2rZjezG2zv6N0MXG5uegrOukAfJuDe6mHsTlmwzqKtjCyFCYrWxI84SoZHzRAhqSl3upzXPJUwgIQj3fstNGiZ1v/j0cTX0vgZufS5sKMLXFq8smhAClWKJs3yOKmJttiVKwrvj5X104tsJ75awXcDlAvPV30N0N+RinMcjDaWPTMlC3HhUr1DOUHzFM++0U+PwTWELzAeHZd/wKbsFjphxVQH53tOyLsnsel58aBHKpeOTDGGTtH0CYaRGsRAMKkf9FPS+0tHxFahvaTrZuFrVbhKprefhT2RcjQgjE3nMCY2H6w+B98s5lcAMdQxCYCQi3sV6y0LXr0bEZcrSKoDPzIymQWzhOoTIDCrzeCGaCDspGMWAnCIoAhI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNzQ4MTkxNCwKICAicHJvZmlsZUlkIiA6ICIzNmMxODk4ZjlhZGE0NjZlYjk0ZDFmZWFmMjQ0MTkxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdW5haWFuIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM4MTc1NTM4MjEwYWY2YTRkMWE0NDNlMDhlZTMyMWFiYWQ4MzdjNmM5MjdjNzgwM2FiMzYxZDI5ZTNmOGU1MDkiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found swimming around in the lava.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§6§lLEGENDARY TROPHY\"],Name:\"§6Golden Fish §6§lGOLD\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"GOLDEN_FISH_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/golden_fish_gold\",display:{Lore:[0:\"§7Found swimming around in the lava.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§6§lLEGENDARY TROPHY\"],Name:\"§6Golden Fish §6§lGOLD\"}}",
+    "damage": 0,
     "lore": [
       "§7Found swimming around in the lava.",
       "",
@@ -106203,7 +106203,7 @@
     "internalname": "GOLDEN_FISH_GOLD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Golden_Fish"
@@ -132514,10 +132514,10 @@
     ]
   },
   "KARATE_FISH_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Karate Fish §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"KARATE_FISH_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"eebf0528-0e9a-3ffe-85ee-a1a51bbf4ff6\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Hrex+uNOFEOzcW3Qq5tfUNADeGv4K9GM3QJUKuM/kY0ro2JrVxdu5j/aZT66fwtSvpdp6tADElv+bHalgaRL6PvR+XEn4a/nk89jbo8v1mH5rK6aCXNUakQILabIE/7VAOVerLG7pQCu51H054UVFnOeSBLtYyxEDLW/EzTaDXDjUdLTqCFTXSUhrLJlR6CGaffNpHo70NPYdyWBVQNtzc69uWkyeM8Syke8Z7JhdiyCDXwwB11PPAO/lwelXgN3sAfNpZeDPWeBjnJYFMV4NUdrMa01PRBVxb528Jc1CmoA4UC24+Itsvs+H8w6dqWacp80QcA9BMP7OmPkruENMUaKhICXMe0RshOwPligRX96L9Ev24/rCRyQDI04isGarhIqvpVBS292g8JXbzmznsFhHavrJ2LpUq1G9WVhxXTnUFhnnJVNpA1A9eJB4D9F8FUWUNmSPs3f1b3xlZWc1m8KdrpFm+U/0HN1a23OYQfL5YNW4t+c49y5C2SCFZWwCwiLWJlHZ4rWpZSMvP790pvydwSixoe9pDi2gJjV2MtUnwLZlFHkh/S2EooFwzivBkh7e6fQkHYGg7/SzqdgS283f8Z0BHiXYzLJiqM+rhzvrDso31KMWsxCR20qjcsr8P+lKyM71Kr3a9N51pCUgsQlSVeCb+vApbn2/Ha3qDo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNzYxMTYwNSwKICAicHJvZmlsZUlkIiA6ICIzNDkxZjJiOTdjMDE0MWE2OTM2YjFjMjJhMmEwMGZiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXNzc3N1aGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmE1N2U2MmUzOTNmODBjZDRiYjIzMTA5YzdjODY5YjFmNjY2MjFjZWNjYWU0Yjc2MDFhZmIzMjY5MTIwMjk0ZCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found in the §eDojo§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Karate Fish §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"KARATE_FISH_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/karate_fish_diamond\",display:{Lore:[0:\"§7Found in the §eDojo§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Karate Fish §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Found in the §eDojo§7.",
       "",
@@ -132530,7 +132530,7 @@
     "internalname": "KARATE_FISH_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Karate_Fish"
@@ -147722,10 +147722,10 @@
     ]
   },
   "MANA_RAY_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Mana Ray §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"MANA_RAY_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"556d7c31-2591-3b10-85ea-00f6ad3c13bc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JT8hsqHtawB/3yTuOgz0JLBKPwi4YD9a2HNtNWOT91/dPafFCWTUrpO7pt4vbfaE5frq3HIcVpJYUA83iO/4WxVjP682G883/AcRmejlHyVswCGfq/assSL22Uc4MiYbzpIZCjOZMJ4MNnqcSWq4De5YHwSCORaNuzZ+4gqNmLSG+1YbP0qbiaTeQp6PJmzlHbwy+MIfxmyicKLAnA8pdONmgHY+GCaKesjiQNu9YdfhzIAWtSwIn6gwFyPoxHM63wjp02nHLnZ9jc4r/yowkpnQ7AxNsQmeBt1mTGYNBlgBrAdE8b9r1nn6tCnXOh9dns+4myTA41uBUyoXO8Etxs91uTgv0MbdZ4YdbmnYZu19gMKD75yvi0wza/5CLTdRzJXryTFDYWHKutPwJu/I+dVBg1yh9mOVWzYGLzy9AtsrmdE286fFeN/9/zl8TXUTnpvcnVzIgKsTKrqrI4xfDmShFVm8kA2M8GQgAgyHRdbqUd2BM3yCOYCAoFGsOOdEo0qc/KQx4uZs/ShYEBK7OjkfWYj9jHwmt7SWaTEGNVskDBbnrYN4AJJ0jCLIYzhMxdc7PmSnc+nMKkTO8k9dLCq+hdTFPZklgz2zT8Fmbfe1uIO+CkS6T6WiWxVneED+DqLJqqlOZNtj63jgeHG3ORlpUtvNMlfArtGV9hVyNFc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2NDY1Nzg3OTU1NCwKICAicHJvZmlsZUlkIiA6ICJlZThjNWMzMGY3NWU0N2QxOTBmOTllNjI5NDgyOGZjMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGFya19QaGFudG9tIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZkNmRhY2Q2N2YwNTYyOTgwZTU5N2E4YmE1MDhiM2UzMjEwMDJmNGQzNThjODVkZDlhNGEzOWJhY2FlYTYzZjgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Lured by having a high amount of\",1:\"§7mana.\",2:\"\",3:\"§7Bring this to §fOdger §7at the top of the\",4:\"§6Blazing Volcano§7.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9Mana Ray §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"MANA_RAY_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/mana_ray_diamond\",display:{Lore:[0:\"§7Lured by having a high amount of\",1:\"§7mana.\",2:\"\",3:\"§7Bring this to §fOdger §7at the top of the\",4:\"§6Blazing Volcano§7.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9Mana Ray §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Lured by having a high amount of",
       "§7mana.",
@@ -147739,7 +147739,7 @@
     "internalname": "MANA_RAY_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -157035,10 +157035,10 @@
     ]
   },
   "MOLDFIN_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Moldfin §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"MOLDFIN_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"aeb6661a-3c78-301e-a246-c917137ae582\",Properties:{textures:[0:{Name:\"textures\",Signature:\"E2uQUFKUOajAEJz9QJXytk3eNrcNd2H4HQq4orNMzONn4MqrF0A0WV92dUWcvHg7xPr3c/kP2GJSMXLjGoLxhw/GGL36vDyqgQMsN4CIek8emogwq76L+faCsExhYqaCKl6AO7Wjvx6095NrrrZxydQWt1EgYBgizOJslBOI8ULSftQP24TCdyyFusQrKvio+EaxskfXUx6Ob8gGoL29t4iYCt5RoFqQluYa1iB02s4ArH2Hh1oETHVVIKzVdaMkyuflurx78++A9MfWUiaow7iUjNk90YyNJW5fgvQoohQQH+SOFeNpUTpCdFz4f1naHcr13aLLWWVuFqG0R6vhPVjspD8tSWLTVByEJZsSNzGkdW3zCG0XN+fO63s2t34V1TM4nkFu0pfcne4HMXYd1IDQymU4UHHf3zscYlpYu1yYsp75foxvQFN0pUk7Epsa6OTTMWRRC2YZLsLEhUO8CWvd/RSCWB0BznN8Oe4pNtOYJZRmAmkOodU5wcaZymojJ9NZ5IdHc44CR3g7gv+WrV8S8iRoo/SX96dn6L1/yLAHcNVc68bTEY8M/z6Nr66VrH7mTJOJEhswzrDEN7cCvDA4pJVM0BWfcxdvGsjt1qs+ism391BgScZxjt56bVxWYIpwkYRH6IE6b0JenJZQS2itwHvP5kfFbaCQwdvyI+o=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNzk2OTYzMywKICAicHJvZmlsZUlkIiA6ICI1NjY3NWIyMjMyZjA0ZWUwODkxNzllOWM5MjA2Y2ZlOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRyYSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85Yzk5ZGRjMWQ3MTFmNDgyMzA1ZDhmMWZmY2FkZDRiNDQ0ZmFkMWIwYjA3YzViZTJiNzNiMWYwOGVlNmNiZTVlIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found in the §dMystic Marsh§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Moldfin §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"MOLDFIN_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/moldfin_diamond\",display:{Lore:[0:\"§7Found in the §dMystic Marsh§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Moldfin §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Found in the §dMystic Marsh§7.",
       "",
@@ -157051,7 +157051,7 @@
     "internalname": "MOLDFIN_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -165256,10 +165256,10 @@
     ]
   },
   "OBFUSCATED_FISH_1_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§f§kObfuscated-1 §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"80d91bcf-4a5f-3c60-a054-6313ba96a5dc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"d0ujvoAQhKTE9r6qXsYdXxYjLR3zaRqouRSO3v+paOlClJlYqr+I5oZwEkCx9O8Ta83IzX6wnsXKEledzPICgld1fidMtWo2R1fxZE2zNutmojH1fnjxaTHFlW0QOljq54L+QrwHB60roTT7McXA9c8sRViJ6gTLwsw1LsZ2rCIaaE7mulmd1rdHlzkMaeUZg0/Dz5QZfetvgrTF9eA7XmsWhmC4/oVy61jfwW7Y7D+4Ow34IIlGDJ3BAgNts5qZmkqNa1SkysUOqYwYJ+//onNkoiOuF3cqjcs0UWta9HKngRGVmLdGK56UtfGPkUyf/SEALkXaDjTtH1MOsgWJZVYwjH5//JHZMOkhTma2yEfhrxDP63PfprnoudYL1VXshpswvXPb5FgmoCx7Xsfms4fBwi43nbXTBoyKhQlc4sgL5hwvIqKrB6gOfKtA3it3p8plkbN543bJGpt+76jHbb2PKI58IqfNKH2ChaPGfgy8Cy/ek5/UMp12/yuAvyJQhnb5NED4kWTiezSVzUN2KymgZsoeX0kWlQpqZzNhRbssoGggb/oupV1Rs2pIoOCFsRDmgMdfyIpZikJ9jfC0t0wh43WLpvByTaBS0ANR2tZgaTUBkSvN4wjmSli5CRLkeW1Kttefd0DDOKMVaKxMpyIHu7EZa7HeiHarR+f21JU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTU5NTA0MCwKICAicHJvZmlsZUlkIiA6ICIwZjczMDA3NjEyNGU0NGM3YWYxMTE1NDY5YzQ5OTY3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPcmVfTWluZXIxMjMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2FhMGI0YjRmNDQzMjU3ZTgzMTc2ZGY0ZmZkNTUwZGU3ZWU4OTg2N2U1MDZiOWMxY2E1M2YzMzYxMTMyNzkyOSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_1_diamond\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§8Fishing Bait",
       "§8Consumes on Cast",
@@ -165275,17 +165275,17 @@
     "internalname": "OBFUSCATED_FISH_1_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
     ]
   },
   "OBFUSCATED_FISH_1_GOLD": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§f§kObfuscated-1 §6§lGOLD",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_GOLD\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c62249e8-87d6-3a94-a94c-d6fd8f4d89af\",Properties:{textures:[0:{Name:\"textures\",Signature:\"wWlWLppzGkB61Yt+Duwyvm59huNnMD0aPmQ3hMmmICAnBcWJ4y4k71qUDxoBAIuRtViRf23qEngWuTaInevf8uVwsS2yH0RcESKFH9HWaoiRNjZvYDnFNCAhWoGy3o3nc8DTnc6d6ZJxoJBdNDQapw5xOwOTpFnVyV7/FiYDW6ExyG7KIq0B2zEJpiS6kOgVYu0iUPpVFayISoTdLdFAOvEj9s42wZ1mseH5kcXTs3NRyOK5qGTGevGNuw1nArIL7JflO7W6Imv12uqRFUTW4BaI/U+mmvtgLO/R8y96SO3b0CMoA4z1MZh8VtAYbq4PBufst0dBkJ2Oy08qeBtv6AmV1KSUYEZEBMwStUGYRYvYJ242ld7KXwe1wFycUN8as8n2HYYb3sOkeANhPCZuHeEcqsI/R08eCWmnbYIdA+O5NIx9JKLlWVWj7HOy5syvr+Ng/FlyNcHvdH1dWWpTDZ+xWKToRckJq+gok8p1qe7jfJDn7uccsZZOIqj5DKnz42lvqgIFIlQPxG5TDiq7jlp4Re8TX9oQYJm2M+FkThZQJnuM/rBfpdzqJ8DI8AoBJWbMPFP/9cqOXOBOkJfsZak/tYW8QVbvSVjAUxZJzXkV73ct1EtekJ3ncAABOkvGcuC/2p3toctrk9fLkVJuZVyngw/QaHOz+0i8wchsH/Q=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTYxMTY2MSwKICAicHJvZmlsZUlkIiA6ICJkMWY2OTc0YzE2ZmI0ZjdhYjI1NjU4NzExNjM3M2U2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaW9saWVzdGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGEyYTQ0OTEzZWUxZDViYWJjMTcyZjM3NDM1MWVhN2FkMTUxNmNhMjU2ZDE2YTRlZjcyZDhhMDkyYjUxOWNkMSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §6§lGOLD\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_1_gold\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §6§lGOLD\"}}",
+    "damage": 0,
     "lore": [
       "§8Fishing Bait",
       "§8Consumes on Cast",
@@ -165301,7 +165301,7 @@
     "internalname": "OBFUSCATED_FISH_1_GOLD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc1.21.11+g610fbd78",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -165334,19 +165334,18 @@
     ]
   },
   "OBFUSCATED_FISH_2_BRONZE": {
-    "itemid": "minecraft:skull",
-    "displayname": "§a§kObfuscated-2§r §8§lBRONZE",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_BRONZE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"59fe44f7-cc9f-324d-a4d5-2dedf3af3334\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTY1OTM4MywKICAicHJvZmlsZUlkIiA6ICI3NzI3ZDM1NjY5Zjk0MTUxODAyM2Q2MmM2ODE3NTkxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWJyYXJ5ZnJlYWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODMyMWUxOWFhNGIzMTYzYzg5OTBiMDY2YjFjZDA4OTVjM2M5N2E3OTkwNTczMjc1MDdkYjBmZmM4MGQ5MDU3NSIKICAgIH0KICB9Cn0\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1\",4:\"§7Bait.\",5:\"\",6:\"§7Bring this to §fOdger §7at the\",7:\"§7top of the Blazing Volcano.\",8:\"\",9:\"§8§l* §8Soulbound §8§l*\",10:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2§r §8§lBRONZE\"}}",
-    "damage": 3,
+    "itemid": "minecraft:paper",
+    "displayname": "§a§kObfuscated-2 §8§lBRONZE",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_BRONZE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_bronze\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §8§lBRONZE\"}}",
+    "damage": 0,
     "lore": [
       "§8Fishing Bait",
       "§8Consumes on Cast",
       "",
-      "§7Caught with §7§kObfuscated 1",
-      "§7Bait.",
+      "§7Caught with §7§kObfuscated 1§7 Bait.",
       "",
-      "§7Bring this to §fOdger §7at the",
-      "§7top of the Blazing Volcano.",
+      "§7Bring this to §fOdger §7at the top of the",
+      "§6Blazing Volcano§7.",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§a§lUNCOMMON TROPHY"
@@ -165354,22 +165353,22 @@
     "internalname": "OBFUSCATED_FISH_2_BRONZE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
     ]
   },
   "OBFUSCATED_FISH_2_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§a§kObfuscated-2 §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a8e16045-e364-3050-ab40-cde339c36c7e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"fCzg87RktDpdmDMQaAM9Kf1gdsrcHrlz3nPjMXe4qi837aYMS7wKLBt+d3ks87eL4Z/U4wraMEkbBgZfL9m5XVq4R9qGmGAx+HCfXZ5QQ/4/qM5vsf1jgVo1hDu5tTvgcnw1sx0Y/KlDOqnV9ejyiE0V84NJnQVdtMHofBnvRTJXfNr9kXSzh0kfk+aGnuRDdT1aKOOhQPsvk7FlOrk7uj6wC+S/e5sUW0CTrznKc8wCet43xx4PBLxb1xNFzRV7hoAuAEsH8U2pGdXeiFmT3UQ/hzcHewgeXjwXRCyttbvDDQelbRLIlu5FNWVONFfec9mVV2HzawIjJYZLvi0+IT0M8Neg92n3CjnT22e4ZppexjiP4U3ty8D4ad0KIWoQRGrVsamCEpy3/GB454V9wft1bRM/YK/miPRYFH8gc2nHHxMpVMxq6IREKQ6fgwCYl5/WfHA0SpcLt1NYuHQ7FqDPMtBp0j23RDKBtx8vwxQZ6K1wLd0AjDSBkhbCew7G+R1P1+xxua1GAY76JBm4aw/VwhtyCXOIVHfC1zcVDmIA15nAE1GFHcRda16wqiTWQFCvbK7tL/uocTofQu3H0FjQFWGIiAls4fWGlc4gnDooKItVWi4HYzkFd96U2951aIVWqaanxy7JRsIXY76GkIrY3WXyfjNxpp3uttOQ8t8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTY3MjM4MywKICAicHJvZmlsZUlkIiA6ICI5MGQ1NDY0OGEzNWE0YmExYTI2Yjg1YTg4NTU4OGJlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFdW4wbWlhIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQwNTVmODI2MTRmYzgxMmI2MTE5NTBlM2FkMmU2OTIxYTYwZjFhMjc1NTY1YTdkZWEyYzBmYzIyYTY1ODI3ZjAiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §r§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_diamond\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§8Fishing Bait",
       "§8Consumes on Cast",
       "",
-      "§7Caught with §r§kObfuscated 1§7 Bait.",
+      "§7Caught with §7§kObfuscated 1§7 Bait.",
       "",
       "§7Bring this to §fOdger §7at the top of the",
       "§6Blazing Volcano§7.",
@@ -165380,26 +165379,25 @@
     "internalname": "OBFUSCATED_FISH_2_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
     ]
   },
   "OBFUSCATED_FISH_2_GOLD": {
-    "itemid": "minecraft:skull",
-    "displayname": "§a§kObfuscated-2§r §6§lGOLD",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_GOLD\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"53807fee-2e39-3230-bdd1-3efcf0be73a9\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTY4NTI0MCwKICAicHJvZmlsZUlkIiA6ICI0Mzk0NGU5NWZiNjI0NmJiOGIyYmQ5NDZlNWY5YjhhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbGFja0NvdWxkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2MzE5NTNhMDM1MTk4ODAyOWI5MGU4MzgxODFlNGU1NjNkNzgyZTQ3MGVhMzNiOGM2MTI3NTZmNzMwNjI1YzIiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1\",4:\"§7Bait.\",5:\"\",6:\"§7Bring this to §fOdger §7at the\",7:\"§7top of the Blazing Volcano.\",8:\"\",9:\"§8§l* §8Soulbound §8§l*\",10:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2§r §6§lGOLD\"}}",
-    "damage": 3,
+    "itemid": "minecraft:paper",
+    "displayname": "§a§kObfuscated-2 §6§lGOLD",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_gold\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §6§lGOLD\"}}",
+    "damage": 0,
     "lore": [
       "§8Fishing Bait",
       "§8Consumes on Cast",
       "",
-      "§7Caught with §7§kObfuscated 1",
-      "§7Bait.",
+      "§7Caught with §7§kObfuscated 1§7 Bait.",
       "",
-      "§7Bring this to §fOdger §7at the",
-      "§7top of the Blazing Volcano.",
+      "§7Bring this to §fOdger §7at the top of the",
+      "§6Blazing Volcano§7.",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§a§lUNCOMMON TROPHY"
@@ -165407,26 +165405,25 @@
     "internalname": "OBFUSCATED_FISH_2_GOLD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
     ]
   },
   "OBFUSCATED_FISH_2_SILVER": {
-    "itemid": "minecraft:skull",
-    "displayname": "§a§kObfuscated-2§r §7§lSILVER",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_SILVER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b752da17-e017-3521-9237-3366bba39da3\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTY5OTA1MCwKICAicHJvZmlsZUlkIiA6ICIzNDkxZjJiOTdjMDE0MWE2OTM2YjFjMjJhMmEwMGZiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXNzc3N1aGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2IxMmRlNDdlMGI0OGFiOGY3ZDhmNTAwZmRjNWQ3ODY5YjdmMjE5MmY4MjM2MjAwODg1ODJhNTZhZmNmNjhmYiIKICAgIH0KICB9Cn0\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1\",4:\"§7Bait.\",5:\"\",6:\"§7Bring this to §fOdger §7at the\",7:\"§7top of the Blazing Volcano.\",8:\"\",9:\"§8§l* §8Soulbound §8§l*\",10:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2§r §7§lSILVER\"}}",
-    "damage": 3,
+    "itemid": "minecraft:paper",
+    "displayname": "§a§kObfuscated-2 §7§lSILVER",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_silver\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §7§lSILVER\"}}",
+    "damage": 0,
     "lore": [
       "§8Fishing Bait",
       "§8Consumes on Cast",
       "",
-      "§7Caught with §7§kObfuscated 1",
-      "§7Bait.",
+      "§7Caught with §7§kObfuscated 1§7 Bait.",
       "",
-      "§7Bring this to §fOdger §7at the",
-      "§7top of the Blazing Volcano.",
+      "§7Bring this to §fOdger §7at the top of the",
+      "§6Blazing Volcano§7.",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§a§lUNCOMMON TROPHY"
@@ -165434,23 +165431,22 @@
     "internalname": "OBFUSCATED_FISH_2_SILVER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
     ]
   },
   "OBFUSCATED_FISH_3_BRONZE": {
-    "itemid": "minecraft:skull",
-    "displayname": "§9§kObfuscated-3§r §8§lBRONZE",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_3_BRONZE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"60b5854a-3b46-34f4-8a6b-ccd9ccc6b021\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTcxNjQ4NiwKICAicHJvZmlsZUlkIiA6ICIxYWZhZjc2NWI1ZGY0NjA3YmY3ZjY1ZGYzYWIwODhhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3lfQmxvb2RBbmdlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZjQ3ODY2MzY4N2QxNmY3OWI5YzMyNTQ2YTdjM2VjMjczNmU4N2NlNjk3Nzk5OTFlNTJkZWFmNjIyYWJkOGMyIgogICAgfQogIH0KfQ\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Caught with §7§kObfuscated 2\",1:\"§7Bait.\",2:\"\",3:\"§7Bring this to §fOdger §7at the\",4:\"§7top of the Blazing Volcano.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9§kObfuscated-3§r §8§lBRONZE\"}}",
-    "damage": 3,
+    "itemid": "minecraft:paper",
+    "displayname": "§9§kObfuscated-3 §8§lBRONZE",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_3_BRONZE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_3_bronze\",display:{Lore:[0:\"§7Caught with §7§kObfuscated 2§7 Bait.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§9§lRARE TROPHY\"],Name:\"§9§kObfuscated-3 §8§lBRONZE\"}}",
+    "damage": 0,
     "lore": [
-      "§7Caught with §7§kObfuscated 2",
-      "§7Bait.",
+      "§7Caught with §7§kObfuscated 2§7 Bait.",
       "",
-      "§7Bring this to §fOdger §7at the",
-      "§7top of the Blazing Volcano.",
+      "§7Bring this to §fOdger §7at the top of the",
+      "§6Blazing Volcano§7.",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§9§lRARE TROPHY"
@@ -165458,19 +165454,19 @@
     "internalname": "OBFUSCATED_FISH_3_BRONZE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
     ]
   },
   "OBFUSCATED_FISH_3_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9§kObfuscated-3 §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_3_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"49bb8e86-2e38-39b1-a8a2-1ce82764f365\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZY6cBIPPJ5fkHi1HpOD3VDAyuwxFebadxyVnMw5dXZLx+ZsHwAqZ3FAeACtnOVLvPlt2gYD+wOcUNZw2Pe1thxydwm6DoQz9SUfmY21NCo348+fI71U3Jj/NGC9bg70axtV9EGztOUChNUdJxkvdeyCoPpNvl5EW5qAfqkQojpQFhcyVQq248SyVuPJQipw6ivnxKweOtP2GWaccbLYK2YUOvMa5Yd/MAVPYRAamqXAypVPe57i6XVlEmlgr3HXZAocJjFQi+1mJGbr1onbbjV5HpjwKOAnBNnN/FfFPM85Re/HgXPOGxaF0iEIP1FoQX9PagvEiZMXnAAXSzz4E94XoA9mBgxc5+8J/sJYWc25d/Ubsa3iY1+MMuhA1r58lyxiXejupzNer0nGs8B64IUQ8PPidRQ9xVM6EqQtShijNys9SeSDnwIBZSVQHgLR0mMU+nXUvIIZTD2XfulOetLroL/lqXxRUcCTBbq9KlGf0CCwBhgIM/0na1gA2AqPWVjlUH9Vh5FqHSLEVVQmmJ6dMgWBRluS2/rrjMnDHMGTNcmvlsrpyCFa8RUCA+qS3VMfcwtJtaGALvrkR/liBnS7viKddRGQTwB9INT55YKsdzMi7qmAKSCCEWVRFuKJqyHfM23q9Oqb/ivGv8K7Rmn6gpE6YPrwac8m3cee4Rec=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTczNDY5MSwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E5MjMxMDU2YTY1ZjU4MThlYTVkZDRlMGI4Yjk1ZjcyNzExMTRiODM1MzU5NzgxN2FiYTQ1ZWZhMTQ1MzFmNDciCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Caught with §r§kObfuscated 2§7 Bait.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§9§lRARE TROPHY\"],Name:\"§9§kObfuscated-3 §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_3_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_3_diamond\",display:{Lore:[0:\"§7Caught with §7§kObfuscated 2§7 Bait.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§9§lRARE TROPHY\"],Name:\"§9§kObfuscated-3 §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
-      "§7Caught with §r§kObfuscated 2§7 Bait.",
+      "§7Caught with §7§kObfuscated 2§7 Bait.",
       "",
       "§7Bring this to §fOdger §7at the top of the",
       "§6Blazing Volcano§7.",
@@ -165481,23 +165477,22 @@
     "internalname": "OBFUSCATED_FISH_3_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
     ]
   },
   "OBFUSCATED_FISH_3_GOLD": {
-    "itemid": "minecraft:skull",
-    "displayname": "§9§kObfuscated-3§r §6§lGOLD",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_3_GOLD\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0a67a301-dc35-3737-af61-7ac101237c3f\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTc1MTkyOSwKICAicHJvZmlsZUlkIiA6ICIzMzg1ZjI1MTRjMmU0OGI0OTlmYjJlODFlMTVlM2QxYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVJbmRpZURhdiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNjJkOThjZWM4ZDNmOTI4ZTY1OGIxMWYxODRmYzllMzU1MzRhMGE4NTk4ZjFmOGUwYTEzYzQ4Zjk2Y2VkNzc1IgogICAgfQogIH0KfQ\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Caught with §7§kObfuscated 2\",1:\"§7Bait.\",2:\"\",3:\"§7Bring this to §fOdger §7at the\",4:\"§7top of the Blazing Volcano.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9§kObfuscated-3§r §6§lGOLD\"}}",
-    "damage": 3,
+    "itemid": "minecraft:paper",
+    "displayname": "§9§kObfuscated-3 §6§lGOLD",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_3_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_3_gold\",display:{Lore:[0:\"§7Caught with §7§kObfuscated 2§7 Bait.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§9§lRARE TROPHY\"],Name:\"§9§kObfuscated-3 §6§lGOLD\"}}",
+    "damage": 0,
     "lore": [
-      "§7Caught with §7§kObfuscated 2",
-      "§7Bait.",
+      "§7Caught with §7§kObfuscated 2§7 Bait.",
       "",
-      "§7Bring this to §fOdger §7at the",
-      "§7top of the Blazing Volcano.",
+      "§7Bring this to §fOdger §7at the top of the",
+      "§6Blazing Volcano§7.",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§9§lRARE TROPHY"
@@ -165505,23 +165500,22 @@
     "internalname": "OBFUSCATED_FISH_3_GOLD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
     ]
   },
   "OBFUSCATED_FISH_3_SILVER": {
-    "itemid": "minecraft:skull",
-    "displayname": "§9§kObfuscated-3§r §7§lSILVER",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_3_SILVER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c3701fb3-bd25-3772-b684-8572068672ff\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzgzMTc2NTU1MSwKICAicHJvZmlsZUlkIiA6ICJmNWQwYjFhZTQxNmU0YTE5ODEyMTRmZGQzMWU3MzA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXRjaFRoZVdhdmUxMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYzgwMGM3MWI5MjU1ODcyMTMzODJlZWFhYTQyNmVkNjMxMTI1MDNlMjc4ZmY5ZjViM2QzOWRiZGI5NWQzMWQwIgogICAgfQogIH0KfQ\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Caught with §7§kObfuscated 2\",1:\"§7Bait.\",2:\"\",3:\"§7Bring this to §fOdger §7at the\",4:\"§7top of the Blazing Volcano.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9§kObfuscated-3§r §7§lSILVER\"}}",
-    "damage": 3,
+    "itemid": "minecraft:paper",
+    "displayname": "§9§kObfuscated-3 §7§lSILVER",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_3_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_3_silver\",display:{Lore:[0:\"§7Caught with §7§kObfuscated 2§7 Bait.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§9§lRARE TROPHY\"],Name:\"§9§kObfuscated-3 §7§lSILVER\"}}",
+    "damage": 0,
     "lore": [
-      "§7Caught with §7§kObfuscated 2",
-      "§7Bait.",
+      "§7Caught with §7§kObfuscated 2§7 Bait.",
       "",
-      "§7Bring this to §fOdger §7at the",
-      "§7top of the Blazing Volcano.",
+      "§7Bring this to §fOdger §7at the top of the",
+      "§6Blazing Volcano§7.",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§9§lRARE TROPHY"
@@ -165529,7 +165523,7 @@
     "internalname": "OBFUSCATED_FISH_3_SILVER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -227605,10 +227599,10 @@
     "info": []
   },
   "SKELETON_FISH_BRONZE": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Skeleton Fish §8§lBRONZE",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_FISH_BRONZE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2f081617-dedb-322e-a20e-44b5917c8666\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Rwr+rW4snfYK+f4akx+ePGqrsaxp+lmG4b7e4CgASrQIHzHibOyNIHbWFDxGcJERCuYt1C0LLhoiDAathjP+pbKR3DkdKMT4h/dbzt9Q/eIJwdXdNM4ZcSB7FzLYYsnXtVGjClH4C8Q6KD1+4TQ+jxuRdgWKgZVB8PNCP4aZ+FHUhbmcYy/NLCrBZZ0Ck7uPFr/1O0jmoRSriUfHpD47fSSUffsZj2Vqbanqy9NpguFFe9hx3fTmrB2Fk3BPjNZYdZB+p1zKFdN3bcp2DDlV4QoVLznnwIK2eSg1Gw0VUB4R5qA3fOCSoe3Piy5YKmqKPqD531Pvvr37Z0ejMUoOOUSU063kuoZthI6Y4iQXPUYjUdI97wT6BgxE12+Yh9aoV3o9WxUxIWkIwaZVs4huCvq1p4Hlb2AeV8UtITF98a7AtuMA37MNgShUR7RH2hI7fBkPUcQ0LpMBjhJXvj40prqFlx+LivD+XoJOZn8cPHkesAs1Lp/5p5q+Sj+1vZZeKDJWa6pG24+6K3F0HtECijmYVKOjLz2hoxETo2jSzxsrmALNNBLXZBCW3sbdsaDS8a12a13RUoO18pWeGvX8JQ8H6sGzlUJjdFaG6/mB5B0Z6OR0vn8tulGx5H8NRuPLJ8IgjYpkSxcNvOyKaUmYQ6KDICAOmzku9HXT7WHMZ/w=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzODA4ODU1NSwKICAicHJvZmlsZUlkIiA6ICI5MThhMDI5NTU5ZGQ0Y2U2YjE2ZjdhNWQ1M2VmYjQxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWV2ZWxvcGVyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkyM2UwYTI1MDQ4YjYwYTJjYzA5MmY3Mjk0MzE1OWVjMTcwMDYzYmIyMzVhYTc5NjkwZWYzNGFiMTgxZDY5MSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found in the §eBurning Desert§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Skeleton Fish §8§lBRONZE\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_FISH_BRONZE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/skeleton_fish_bronze\",display:{Lore:[0:\"§7Found in the §eBurning Desert§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Skeleton Fish §8§lBRONZE\"}}",
+    "damage": 0,
     "lore": [
       "§7Found in the §eBurning Desert§7.",
       "",
@@ -227621,17 +227615,17 @@
     "internalname": "SKELETON_FISH_BRONZE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Fish"
     ]
   },
   "SKELETON_FISH_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Skeleton Fish §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_FISH_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"43cca053-4396-3b4d-9caa-73f1b3ac2c0d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"IAZs72opEa8vHDNSmI2FeEypsP0mZTes+6qRtbSFKueON7sFa0IVw2jT4i5sRHonwEkBf8rbehvEAN8ljJqEAY6TIr0gEwVvdtoWPobtMnz5BGXbscHhXU77UCw4w5Zg8PvYWAq1Nb7E1AkP7AcPprI36woKlIA5pT7aS2h2SMNRUNJRL1M3zHrJnd5WclwXnjKK/PesuoMel+fxQ2gVa/H818xw/AYMAK06euw0ONWrJbUV9EpCTMaw7dnNe2F2rqH7XbDukBWdjeRNzD8M03D1q1eMlLxVop+fDfVA6ymiNhk3Wb8U5sA8ojqei9V8hvznRGkIsmlRJO08GwkRzHd00pmrD81maRU7fLTpuDERxAsYrbITq+5gMr4Nn/6DCWih4otIGxRwja4QQcLRiqhIEZndZ+9IDQMrGMxTKHTtUlGihAED+eNuZBOWtg/1D9QLppLmh28qwFMKI6UyfXIg+2Qbg2tVy33I3MwFqjINPWfWSgzdgem/lR0W5/ofX3OC/C82lhy904h7v/jIc4tgSg3SrMTALEFM0LRhz2D0Uez4a1tE9d2LOzuZR6zHMxOiT06cYh3aYFvmlk1btAu9VjEci3eQbL2IpGLniLIdS8J4qQlF3t1YT+nCGgiFxUii9qpEDnOCPYEBHV2S2uMW5B/P+YBl/UV+YiW2rVU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzODAzNjc4NiwKICAicHJvZmlsZUlkIiA6ICJkOGNkMTNjZGRmNGU0Y2IzODJmYWZiYWIwOGIyNzQ4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaYWNoeVphY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQwMTM4OTg3NGM3YmUxMTY1ZDVkZjYzM2RhZjI3ZDkzNmJmYWY1NTMxNDNjZmNiYWE1MGM5M2M0NzQ2ZjlmMyIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found in the §eBurning Desert§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Skeleton Fish §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_FISH_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/skeleton_fish_diamond\",display:{Lore:[0:\"§7Found in the §eBurning Desert§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Skeleton Fish §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Found in the §eBurning Desert§7.",
       "",
@@ -227644,22 +227638,22 @@
     "internalname": "SKELETON_FISH_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Fish"
     ]
   },
   "SKELETON_FISH_GOLD": {
-    "itemid": "minecraft:skull",
-    "displayname": "§5Skeleton Fish§r §6§lGOLD",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_FISH_GOLD\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0169eb5c-b1d0-3d35-b7d9-b004f4e21ce2\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzODA1MzgyNCwKICAicHJvZmlsZUlkIiA6ICI0M2NmNWJkNjUyMDM0YzU5ODVjMDIwYWI3NDE0OGQxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYW1pbDQ0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MzlkZDJmZTMwMmUyYWM0ZDllOGQzMTg3NjQ4OTI1OGIwNGU1OGE4ZTg3NTQ3MTQ2NjkxNDVhODlhODJkMmUwIgogICAgfQogIH0KfQ\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found in Burning Desert.\",1:\"\",2:\"§7Bring this to §fOdger §7at the\",3:\"§7top of the Blazing Volcano.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Skeleton Fish§r §6§lGOLD\"}}",
-    "damage": 3,
+    "itemid": "minecraft:paper",
+    "displayname": "§5Skeleton Fish §6§lGOLD",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_FISH_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/skeleton_fish_gold\",display:{Lore:[0:\"§7Found in the §eBurning Desert§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Skeleton Fish §6§lGOLD\"}}",
+    "damage": 0,
     "lore": [
-      "§7Found in Burning Desert.",
+      "§7Found in the §eBurning Desert§7.",
       "",
-      "§7Bring this to §fOdger §7at the",
-      "§7top of the Blazing Volcano.",
+      "§7Bring this to §fOdger §7at the top of the",
+      "§6Blazing Volcano§7.",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§5§lEPIC TROPHY"
@@ -227667,17 +227661,17 @@
     "internalname": "SKELETON_FISH_GOLD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Fish"
     ]
   },
   "SKELETON_FISH_SILVER": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Skeleton Fish §7§lSILVER",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_FISH_SILVER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"611acfff-ad29-3aef-a160-404e62576fe6\",Properties:{textures:[0:{Name:\"textures\",Signature:\"g0LEZHdvLTSTe9GmBzbzHTaXvUxMMgRr5uvexobHl8nIjAqaPnDJXFkAcIr61QdtDVc/Hu7ojjDP/tnDwWrRIderDwT8SM+nqiI+dxnk64wu/guFmsjL97iNcHkGs5Ks06YFuT/6XjqWl2u8wP9qMYcQN1ZZRqbMucx8xhvd45gSKzL+tDtACvJnqCeFyrQe1gcVrowFZOT7QLW2mYdJZJGhk5xwvBM3VphA6IGOTxxxGCIQPXEZlWUFawhdBe16HyyBQpS2zx8Vaw2yGPBupPDQE30mA0hKhjxTAOhjZC92h1kn+t15pPM5giuKYnUJL515MmLapFrR4QXCZjyePDw8bnR4ekg9Ck6vTau52k0rAsxziqX544+RSPhOwfqH4EeOOiaoEZ6uMxix3thUM73i7bLXztnIgpFCRgvjXdAIstsuUK1bDr28Q2sKa0Iy1lhhgn8Ary9JrcIOzzdArgOde7mu9jnBMsyYkfylk+fOBZp4hLKRWxpv+DlDVFYYqcVy51e+IaMk4Ldz432djrNhC3LJ0cZkIgkb8zSso5vdbg2dW0iz9aqGI3u7rJo6PJCHfdIZl+0lYKsZ2UmBmWOohYORhTLH++pCTg6c01kC9v5dhItOdWbGsDyCn2JZ/ro82yCOVtcUD8ARhhCzqLXp15PkN0p0V12wrdJOJtY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzODA3MTAwNSwKICAicHJvZmlsZUlkIiA6ICI0ZGU4MjQxNjJkZTU0MzU5YWFlMDBmMzQ1ZmMyZTY0MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXRoYW5fS2luZyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMzk4NDZhZDFjOGZkMzQyMGZlYmZmNDU4NDAxYmFjZDkxZDFmNGZkNDQ0OTQwZjdmN2NiOWUyYTQ5MGNhNGRkIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found in the §eBurning Desert§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Skeleton Fish §7§lSILVER\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_FISH_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/skeleton_fish_silver\",display:{Lore:[0:\"§7Found in the §eBurning Desert§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Skeleton Fish §7§lSILVER\"}}",
+    "damage": 0,
     "lore": [
       "§7Found in the §eBurning Desert§7.",
       "",
@@ -227690,7 +227684,7 @@
     "internalname": "SKELETON_FISH_SILVER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Fish"
@@ -233159,10 +233153,10 @@
     ]
   },
   "SLUGFISH_BRONZE": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aSlugfish §8§lBRONZE",
-    "nbttag": "{ExtraAttributes:{id:\"SLUGFISH_BRONZE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"67c001e5-17f8-30ef-89bc-37857562049a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"tnIaKnIP6ehVYI850jTa0Is1LPff2Slov2cm5ART4LtVzeZzUoEF3XEjqlaql/lKPEfdjvV4fOuLGwXimOhntH780cWjfeGkj2TrUF2HZ39WA2GFxAWlR8yCwa1cmOEqumoBVdw3V0MuZ55LFDUxUnxZNn3j0VLeVF226vGJG4JddEsTeEt713nbqxtk8l5W/Wc0cxa/kN2lsuk/yazDnJjmXOWShZB38n8rW/LLcFj94tFbpH1iOVmas5/9OICyCW+3Qvqn3xu5hC0nDChiBuGZ0b2w4pkn3VbcTdspBrYIHBirl20QhLx1hFyp1Ulvew3LHDyuYb7POwmCtWBL2iEyS4K28M9ETbz6dE20pmnP+2vxX9DGFLQboYZyPlJOooalsKpnw/O+93ZQFbv9te0vC9BVIcivpuklvoRuUFIux68FuAbnO9X4xMxwl3noZ7jEQ3WMAzNLqjUk5KY5dgGJdKuEymw8rGCBmLPybvfb3xJN/OeJhwEkOT89K7MCt9Jdw3BDUMa+p3kGl0OPWwX/HVZ/ZYE2BQWjS1hvKTQPIfTQbPotlpwX1+TXU/pOjNBqzke+etV5e8fJ67kJyrlnZmWtA4aSnsl94Cr0CMjbcohc18vYPlW5Isr6sLnBowj7IidtCsM8GevNbvpNdBZFEnOgn3jDAvRAyj7PLPI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNjQzNzc3MSwKICAicHJvZmlsZUlkIiA6ICJkMGI4MjE1OThmMTE0NzI1ODBmNmNiZTliOGUxYmU3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYmFydHl5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MxZGU5ZTQ5ZWNjOGQ2MjA5Yzc4M2JmZDE2ODRhODllNjI0YTRlNDgzYTg2MDIzYzZkZjU3Zjc3ZDViNzU4OTAiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Bobber must be active for §a20s§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§a§lUNCOMMON TROPHY\"],Name:\"§aSlugfish §8§lBRONZE\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SLUGFISH_BRONZE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/slugfish_bronze\",display:{Lore:[0:\"§7Bobber must be active for §a20s§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§a§lUNCOMMON TROPHY\"],Name:\"§aSlugfish §8§lBRONZE\"}}",
+    "damage": 0,
     "lore": [
       "§7Bobber must be active for §a20s§7.",
       "",
@@ -233175,17 +233169,17 @@
     "internalname": "SLUGFISH_BRONZE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Slugfish"
     ]
   },
   "SLUGFISH_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aSlugfish §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"SLUGFISH_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8e88121d-011c-3a2a-9439-e0873ca366ab\",Properties:{textures:[0:{Name:\"textures\",Signature:\"djajauKxLpYA+yDPBZZ4sTVendiSqe8ikCzHL62Eo//EP/Thk/fKCIyQdnquzMIEaeVeOs76lIEycNQkL6j8Zfw7eHIxzdu9Rm7+J0N5c5f7m5eC0e5uyhC9jSy5JV1e9rb7TBEHzCTSRu9mWVw9brffgeC/p853c0n8c1olUg2GSE/mdK8gGwrVDn8nrC1RhGW1OXr+4CqX3ntmkD042O/EMujlStYLCdpfxscqWyjRJVk4arg1czcMasOVEamZ/2HJL0TwwP9xqflPArS9ptD/AePzE+ySKubzVTDoQzoB9bX9na3WBCq1pnnnOZs4NJXPMXMi39oJQUArsEanlOOsX0qBeDX7WuG2WhEOh294/Ko6GbKkORNB+l3H0HVXbgOYSqGMrZF8XFYJ62zr950BeYh3Q6cm4WE8i9d1boqKzzxMkOoAUI85K6D/Kjoz8B+0goaGpcrF7zbvUKYp6bXxHo+OmeUq4Jkf/FNVjrpoeEZyFhBXR4FhLV8HfZo/SZZtB107IYnCBQxxKjwIlO0eLmetae4ke8jxxRJ+wEPgVgfdWMHlLxM2zRIcWaoTrJnQ+6UudyXWcrKC+m7rY2B/IoOLQNIXva8c3JMs5cv4zL+gXyLTJRmuxaX0Hi286fK1EzMJGB155muOufbsKi14Y9fCI0+VgyAr4voL29s=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNjQyMTIyNiwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNWQ3MTdhYTVjOTA2MzE4MTI4MzgxMWQyNjViZmQwZmZkYzdlZGEwOWEwOTg0Y2VlNTk1NzhiNGE1ZWZkNGExIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Bobber must be active for §a20s§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§a§lUNCOMMON TROPHY\"],Name:\"§aSlugfish §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SLUGFISH_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/slugfish_diamond\",display:{Lore:[0:\"§7Bobber must be active for §a20s§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§a§lUNCOMMON TROPHY\"],Name:\"§aSlugfish §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Bobber must be active for §a20s§7.",
       "",
@@ -233198,7 +233192,7 @@
     "internalname": "SLUGFISH_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Slugfish"
@@ -233228,10 +233222,10 @@
     ]
   },
   "SLUGFISH_SILVER": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aSlugfish §7§lSILVER",
-    "nbttag": "{ExtraAttributes:{id:\"SLUGFISH_SILVER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5769c845-6acf-3518-a180-a492b3c260a0\",Properties:{textures:[0:{Name:\"textures\",Signature:\"vat+GOFbrY3zeXynPElSyb8vDrCRRfZGZD9n8x6ig9DidNpvBiXykWKTkE6Mu4zGKenNWdVTWoxIzXDqo1KDF3tQjniQY8JsIFbchz1VEmwTWXEgFYrn6jz9bI3SzQybTsjSAm7ap4H9XRVGoem4eksFLNlLs6SEvV0uWFusPJC4ll5KwZy8+F27wRcXekH8UnLWysSMfpQJmKJtIxKBCvf67WjF5gCG293P+TDwoN1KCgdQKJ1nmZD1ts4sLuIjidCq/6GNclvVzV2BKd/6cCNwb1HiRMKlX/mGKOjESiDpfgE4JmbqAXBWjfmf4ZBtIzxIhkkb+Xt+9gQ0cC/EFOPmW6fnV6feu1Z1gSs7CTWbLNSH5mCgOmxFlZO2Xg1aNiuCimS9ryejdmTlt4SYogdfymLkkzkvN00tSbpnVSJOQrLQ+vjdaI2oB3fwEcJqV5huwyv50d4fHij0tALuryaNUzNKqC1MLwIChzkeCzEQjBuVX/0D7jLDNKi0H/muCaY6MILir5GRvf5Nu2A+oPnBSn9WSuFVTdj7ueBf0ZPzVnM2vsu+PHph3XkGH6Hq0WZSRZTxHbuA1wm2GIYri6xxzivC/Ho+KjinEyR3G3PtBs5PXxLmyuS7Eq2pwGFMPxciGUuUZNh2d5XTJrIfE4/xkZnqmp+ZJKW+g+nrkMY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNjM5MjU4NCwKICAicHJvZmlsZUlkIiA6ICJjNjc3MGJjZWMzZjE0ODA3ODc4MTU0NWRhMGFmMDI1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q4MmVmZDg4NWU2ZTJhOTY0ZWZiODU3ZGU3MjRiMmVmMDQzZjFkY2JiZTYxOGYxMGVjMzc0MmM2ZjJjZWNhYiIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Bobber must be active for §a20s§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§a§lUNCOMMON TROPHY\"],Name:\"§aSlugfish §7§lSILVER\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SLUGFISH_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/slugfish_silver\",display:{Lore:[0:\"§7Bobber must be active for §a20s§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§a§lUNCOMMON TROPHY\"],Name:\"§aSlugfish §7§lSILVER\"}}",
+    "damage": 0,
     "lore": [
       "§7Bobber must be active for §a20s§7.",
       "",
@@ -233244,7 +233238,7 @@
     "internalname": "SLUGFISH_SILVER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Slugfish"
@@ -239005,10 +238999,10 @@
     ]
   },
   "SOUL_FISH_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Soul Fish §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"SOUL_FISH_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"053ebb0f-a2db-306d-8ffd-5a31a2a65816\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Ixy+gyOosA98Dj6t7mNQcVUK2MVYwkWsa/nx50U5t14DbFA2BZen84zCn4u3qiwZLZl5wwAI2S8GA/SMcg4B0XkGpenfJa6PXjCR6xX0xOdTuqQ0xlKuL/D69S3grTu9ZkzxCsqAvFZqS4EuhA1QNJx3nvZuZ6NNq/r0oOU+QtYmkWXhj2tA23f/sq5VDJIgToZkecqDyr04yKcvHDqV/c0Ij372GBCgVcwQFZydN71WMs3wI3ripgDPdkOUFnu7cP38EPEEh0BQA50XkMcNdaZ1s9iC87AeTiYbiDKSpSHbsvRDogGHG2IOspZ+DDUQmIaG+pA+Anx2PjRHvxA0x0fF9cCPhHKW+dA2AlXiMe5MDD4wm3KTRF0v6C7Ooh4EWte45jhay7+6sZFb63czVakeJuIwnv7vWg9D9ja4cTk/hvWoPjPD9H6KuYpjzAQcWBRraDqE/zZgJyOzW4uIzx6SmWEv3KGd89pXWy0JE4uOdw7Zg0lJs4EJXC1wY+j1786Xvr4gFckGU5HBI579T0RIfjGfdbBeXII1+K8A1L7BSzAs5BAdKv9vXmWd7O/GL03mVnbBohzTeYnog3IL97bwkgoL4t+Fs7zaK+OZuaYBD4LLU0r6mH/HGHaZA8ZpZAo+ZONmW9E0PBuzdW8oH8QE08uQby9Ws/TAB49xrFM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNzkwNTY1OCwKICAicHJvZmlsZUlkIiA6ICJjZGM5MzQ0NDAzODM0ZDdkYmRmOWUyMmVjZmM5MzBiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXdMb2JzdGVycyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNjM5MTJkZjY1NDAzNTk3NzRmYjVjYjQ1NDZhMmVlYTE3MzZmM2ZjN2NmMjg0ODQyMTY5N2MxYmU4YTUzNjEiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found in the §5Stronghold§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Soul Fish §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SOUL_FISH_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/soul_fish_diamond\",display:{Lore:[0:\"§7Found in the §5Stronghold§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Soul Fish §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Found in the §5Stronghold§7.",
       "",
@@ -239021,7 +239015,7 @@
     "internalname": "SOUL_FISH_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Soul_Fish"
@@ -247899,15 +247893,15 @@
     ]
   },
   "STEAMING_HOT_FLOUNDER_DIAMOND": {
-    "itemid": "minecraft:skull",
-    "displayname": "§fSteaming-Hot Flounder§r §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"STEAMING_HOT_FLOUNDER_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"94839f94-fe22-3329-bc2c-9c4473053403\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzODE4MzU5MywKICAicHJvZmlsZUlkIiA6ICJhYTZhNDA5NjU4YTk0MDIwYmU3OGQwN2JkMzVlNTg5MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiejE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M2NjAyYTE1Y2Y0OTFmNzY1ODQxNzkyMjFlZDFkYTI1ZmU2OTE4ZjkxMDBiODY0YjM5ZWE2NDkzNzM0ODA5ZDEiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found in Volcano Geysers.\",1:\"\",2:\"§7Bring this to §fOdger §7at the\",3:\"§7top of the Blazing Volcano.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§f§lCOMMON TROPHY\"],Name:\"§fSteaming-Hot Flounder§r §b§lDIAMOND\"}}",
-    "damage": 3,
+    "itemid": "minecraft:paper",
+    "displayname": "§fSteaming-Hot Flounder §b§lDIAMOND",
+    "nbttag": "{ExtraAttributes:{id:\"STEAMING_HOT_FLOUNDER_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/steaming_hot_flounder_diamond\",display:{Lore:[0:\"§7Found in Volcano Geysers.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§f§lCOMMON TROPHY\"],Name:\"§fSteaming-Hot Flounder §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Found in Volcano Geysers.",
       "",
-      "§7Bring this to §fOdger §7at the",
-      "§7top of the Blazing Volcano.",
+      "§7Bring this to §fOdger §7at the top of the",
+      "§6Blazing Volcano§7.",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§f§lCOMMON TROPHY"
@@ -247915,7 +247909,7 @@
     "internalname": "STEAMING_HOT_FLOUNDER_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -251146,10 +251140,10 @@
     ]
   },
   "SULPHUR_SKITTER_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§fSulphur Skitter §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"SULPHUR_SKITTER_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b5103d9a-7154-3fff-9b10-086f902d9bff\",Properties:{textures:[0:{Name:\"textures\",Signature:\"beMbJ5YBo/nuYpW061wU8OfOWFi/yWT9qtHPulaq3jxl5YQa7AoqygXgegF7TzXPrlfsQOn/1wowd958cpYWGoKfOBTCZaMQtjAkt2DnEgcrmC6tQ9yRjnqT6ubNHt+zq8rdYXWzfYjCPNTaZxr22MIz1MRIAtMzmEd/fTCxfYIBpZyQa1XYQvGKIrelpHhazx0LBeSf5rAELtpexmtqjEKb3bd74AKLn5tl06cCXjr4SF2tPg4ifivLhZaJMChmz9UpdwxBPhA+4iASU/8Mni5KmlUWaO4qYT0TckMPsqQ7ANczH+6p2JUwUR1mtH7aN1qldnmQne02/8Xsm333NPp9JKI4LkC3SuLvPNUSn0tX4p8v7PYoEnRc9mdSpWHKvwl3A6B5Hqsy2HuJ2hivkAaAQcDdFmU43ecA3oWXtOdEaVufjwNSKgpm0/4H7pQV+46igC/VlOmDXfKr80CYPoNN5gpypeiNL0FAyRVnubyBHZzLaNCu8MnXhK48mO1GRJiVw1i43GW4kcVv2eW/wQPxlLBmJ3L2lH0S95+W3PfXsVU+Zb1ZqPtlOP9osn/CPMmxUDfDNjtuPRmqxOmuRIxnLC/qgyF3WA55BMv6CiOAQR56yurS+r+q/a0PU9UhRQc+OPpSaC7xXws++e1eskQl3DhEZyZFjQhur/o3Tdc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzODEwNjYxNywKICAicHJvZmlsZUlkIiA6ICIwODFiZTAxZmZlMmU0ODMyODI3MDIwMjBlNmI1M2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXJpY1BsYXRlMjUyNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGM2ZWFjNTY4MDhhODViNTlkNDhhZmY1OWEyNjI5MjJhNTdjZmE3NjZmNmM1NmY2OWM3ZDkxZmVhMjMwZmEiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Caught near Sulphur blocks.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§f§lCOMMON TROPHY\"],Name:\"§fSulphur Skitter §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SULPHUR_SKITTER_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/sulphur_skitter_diamond\",display:{Lore:[0:\"§7Caught near Sulphur blocks.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§f§lCOMMON TROPHY\"],Name:\"§fSulphur Skitter §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Caught near Sulphur blocks.",
       "",
@@ -251162,7 +251156,7 @@
     "internalname": "SULPHUR_SKITTER_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -276083,10 +276077,10 @@
     ]
   },
   "VANILLE_BRONZE": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Vanille §8§lBRONZE",
-    "nbttag": "{ExtraAttributes:{id:\"VANILLE_BRONZE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"30a4bcec-e2a1-30d6-9856-a73db40472d5\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Q+5PP5Sm4DD76dzJyq4+JgTi+BHA4/JwnCvwwqK6Mz0/dXEwWSdIZs58MG9tN+2B576a4qX1P2BVomKWlnxeZ05U+ULFYzxOFBmcWNSf1HxsrY5TJnxSdrkDAyUZG0OepQkoPdFBkL+OvEvESp2n3pB5iMvekIqH5MnD+4E7HXewEOqPA2A/OYoBCL2zMKEpdDBSCWmMFv1e/WxfzyepqEvckimWO9NGQQgghLXspe5I+/C+uuL6TaGY4p7ejH4CzptnQs9Zhrv0Ye/oMqRjY3GFy+KRc+MWBQ+FAwuIXP2ACSvmvnWJvRlgIGt/3u6jePl4lnw4qcK29oPHBPJmruLsr/rqhH7SA+M1eh6vLncKF3wrFjlhpxPg9dnkAEPn7LXX5g1uaPIt0d8q6H/LxcKlU5OEWCcoRME/2smoyA39UvE3dDVYDWrj/rujl3tfjmHtHkEZiMeOZ035CTZ8f1BK7veyRW6JKlRNHmRMRyPtN7OKcx1ihzT9LMwEymdWncYZWoLQV6qUkprlg7bxOuoriLaBt2aXrMFadxf51jAj1r5zCfZj51T2hEY9MAHJZp3b59bMlrO6592vfe1Sg+UgBlE8XwxsAf16rVGJpXNr/9Hh2vipOmGzVXUxfar9qkh60bEfonOTQC/cV0nQQXSdowoR6hna3n2F2ryVJMQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNzc0Nzg3NCwKICAicHJvZmlsZUlkIiA6ICJhOGJhMGY1YTFmNjQ0MTgzODZkZGI3OWExZmY5ZWRlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmVlcGVyOTA3NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NzEyMDIyMmNjZTM4ZDUzYmE2OWZjNjU0MGU5N2JmZjlhYmRiZTIyYmE2MDY4ZDRlZTlhZjUyZWNjNTY4NDJmIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only caught with §aStarter Lava Rod\",1:\"§7with no enchantments.\",2:\"\",3:\"§7Bring this to §fOdger §7at the top of the\",4:\"§6Blazing Volcano§7.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9Vanille §8§lBRONZE\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"VANILLE_BRONZE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/vanille_bronze\",display:{Lore:[0:\"§7Only caught with §aStarter Lava Rod\",1:\"§7with no enchantments.\",2:\"\",3:\"§7Bring this to §fOdger §7at the top of the\",4:\"§6Blazing Volcano§7.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9Vanille §8§lBRONZE\"}}",
+    "damage": 0,
     "lore": [
       "§7Only caught with §aStarter Lava Rod",
       "§7with no enchantments.",
@@ -276100,17 +276094,17 @@
     "internalname": "VANILLE_BRONZE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
     ]
   },
   "VANILLE_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Vanille §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"VANILLE_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a584d07f-9437-308d-b334-a42642bd798b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"aUcsTuFaBCxRLi2Tpmt1+wlsy4eSf+Epdq7czzU68kNZSUchZkN1qGHH1FDMXvzfFn4H/yqBH939i91QQXYbDkXV1mU+WVer9Hmwm6zewGcwtTxZUMdD6KxJFPG/R/DNCMlWgcmECgTFqmPPL1db1YxhYMHlsb29FGNUuwwPBo8y33Voj58KgF1Uvdtt/PZ2Xh8oWU1/xJPrUmAkH5JtP9b1QXnSl1IxLP2B6/EqwpO+eBqWJPLQJSdPXy/E9P+8aystqj29pEMDnph93LWRRDSgSRp4CIgHQvkBARKqeomHeInQv0mHSGlRKKU3r2Mg0YctCb8yOmMaQSYtO5+kH+zWmYhzOjElIjnd1/kIx1UscFolydj7cYxSEtPEl7Lfo3VPBokZyeNOmoesev7fRCkB05V8vLxRNsjYQkFtGvSbOyUdV0BDhjrX/iRhys3j71ScRo6RWGQ2TYbxhK+WHTdQS0y5PvsYV5DdwoebNLzNyBHiusfDgj+bO3vMqtf0B9C2l2DJVpI004nQaXgUERKfihVltPNgiM4vE5hya9WqDZmZ/pdRm8ymZpWKaL1LZcvKmtKw1K7lXNkd7bBTLfuxwTg+r9ZUC0IZbtfN/ly0modiMWraack21QcaskYgHJ5mNgMzUDLYfgHG7I3xnCTVtXAwTw19hq/As1F2xZ0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNzY5MDg5MCwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ2NTE5ZTg1ZjdmZDY5Y2IyZDdiYmQ4ZDc3MDE4ZDkwN2NhYjdiOWVjMTMwOWViOTMzZGU3OGRmMDBiNjNjMSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only caught with §aStarter Lava Rod\",1:\"§7with no enchantments.\",2:\"\",3:\"§7Bring this to §fOdger §7at the top of the\",4:\"§6Blazing Volcano§7.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9Vanille §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"VANILLE_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/vanille_diamond\",display:{Lore:[0:\"§7Only caught with §aStarter Lava Rod\",1:\"§7with no enchantments.\",2:\"\",3:\"§7Bring this to §fOdger §7at the top of the\",4:\"§6Blazing Volcano§7.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9Vanille §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Only caught with §aStarter Lava Rod",
       "§7with no enchantments.",
@@ -276124,7 +276118,7 @@
     "internalname": "VANILLE_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -276155,10 +276149,10 @@
     ]
   },
   "VANILLE_SILVER": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Vanille §7§lSILVER",
-    "nbttag": "{ExtraAttributes:{id:\"VANILLE_SILVER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"46e0cdbd-66d7-375b-97a8-1ccdd8146dc3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"iysm3OS5qjnScklI/M0s0RRPyKYAqHcqbCxo52UFTd7bzcskYyjpbYTBGpIdK3fiNs05J8NSHnx6PNFoN29uZUc4C8XRuQ01x2bsVKc1i776hBZfAHPFTrlB8Vhzbu6IxB3GTnTPtpAmO7/y3okmyyscjiyr0zY7cj9SMm+WLxaWt2vjFtbaI97dVY/wZK7pG0nW3EZcE9GTsaamQLetv3ocWc/71xrKAI3pE1Q/pWyRub42PQNAs2TstCgm6mia7GgeaaZ2WEPOdt0/FEvGRt2YICMKG1QPqUTAg/j06oyp1Pf+Nmd2+RsEiW/tuRQtugCzPwBDk8JZPuBCedLLbQuQoI9CG9F1pHllcd8008JG+zzpp4IlhMp5/i7rw44+DnFvm46kURkOf3yM4zrOI37IEimhYW+uL9H3mdUuPDhxC6RHfPm/GaLGscKMa+IH/5MJ/ftEpI63r3T4GmkaQIPLsTyRIlKvkakV6kkAyuvpEiCVuR3isdJZQSQSgm4FKCfSWq2F5VF3oBsZmQR0Yvoq6Bn6iuzCuty7ULxnG6J5UVRTi4gcsv9bsKTJ7rh0FxEEZiMskuOkRaGfIO+M+ujkBMMWDrb8XsYiy25VyaYGUYVExsAKwnk+mMjehSz2NjR/3BVYi399LNUvlyxW6ti4Fe85R5hSQI5GwMvmEyI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTIzNzcyNzgwMSwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzczMTMyNzEzNTRkYzJlNWIxYTcyMGM2NjY4ZjAzY2E3MTA2ZWU0MzlmODc0OTA3ZjJhNTQwODNmMGNiNTc3MjEiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only caught with §aStarter Lava Rod\",1:\"§7with no enchantments.\",2:\"\",3:\"§7Bring this to §fOdger §7at the top of the\",4:\"§6Blazing Volcano§7.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9Vanille §7§lSILVER\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"VANILLE_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/vanille_silver\",display:{Lore:[0:\"§7Only caught with §aStarter Lava Rod\",1:\"§7with no enchantments.\",2:\"\",3:\"§7Bring this to §fOdger §7at the top of the\",4:\"§6Blazing Volcano§7.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§9§lRARE TROPHY\"],Name:\"§9Vanille §7§lSILVER\"}}",
+    "damage": 0,
     "lore": [
       "§7Only caught with §aStarter Lava Rod",
       "§7with no enchantments.",
@@ -276172,7 +276166,7 @@
     "internalname": "VANILLE_SILVER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -279184,10 +279178,10 @@
     ]
   },
   "VOLCANIC_STONEFISH_DIAMOND": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Volcanic Stonefish §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"VOLCANIC_STONEFISH_DIAMOND\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"93be601d-9193-37ad-af82-e18444ed6c8a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"TzdV5r3U7LQs92bg+3ZeyiEqAqAbxGyJ8hYhDg5HNfUTWgyX9jct5InV7tIUXW/xrk1ukD8ltorlpBEk/lHKhA/sbOXno2/xJbMHBsnIDxUsKQPso6/H7kZTOEl9SeDh4269UKaC/YpSbznCQZ4xHwUrMeKfrza5GFhPL+yCdqW5EzRt8srC71bsSVW3x9ffXh0W9+ROFQ29gDnjyWOi4Y5bNxgNMavbYo3LWVa62aL5SBkQMvR+lUZgQYJPihSP46+wLdbwvJA89XA0GZpJwNDMN9Mjn6dAODnEtOI1xXY2MBr0rIDZQKqacqsJpHN9M/ZqeaGJl8FsuhjcNB0nemEDVTZTwos7qVf9U6Q49X7yS0vEInyVPpYK7xT8T+LqFLvV41KhBrqNso2WpB38XDv/u3J9gyqLaaQ3cmZdfhcOfwk8O2rkR2j66CAdp/Um3twzHcDqCMENckPI0PS5OX2jDq6mnkl1uLBTvUFyrKWDj2rpXu+UPKrB1TboTD6juL5FVTG+jCQposQVQc4Vm8ICQhQx2nWfDtPdlKAYPB5K0QSv8VinVUvldqJMuJVx8s8qVqK0H+vKkjkA/mdaAdltpCM3lD63CUaIJWpVe+fcOZ1taYIMepB8iYK6uE3u7IfbFogd8O/FEroIy6vI/kRKzZmtkupyPCqI/RoJ1LY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1MTYwNDk3NTY3MCwKICAicHJvZmlsZUlkIiA6ICI4YmM3MjdlYThjZjA0YWUzYTI4MDVhY2YzNjRjMmQyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RpbnZlbnRpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDhiZWM5NzEzODQxOWFmZjBhZjZmYjQ0NWNkNWY4ZDY4ZTMwNjk4ZmFjZjQ2YWU5NTZjYmRhMjMzMWZiMjI4NCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Found in the §6Blazing Volcano§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§9§lRARE TROPHY\"],Name:\"§9Volcanic Stonefish §b§lDIAMOND\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"VOLCANIC_STONEFISH_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/volcanic_stonefish_diamond\",display:{Lore:[0:\"§7Found in the §6Blazing Volcano§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§9§lRARE TROPHY\"],Name:\"§9Volcanic Stonefish §b§lDIAMOND\"}}",
+    "damage": 0,
     "lore": [
       "§7Found in the §6Blazing Volcano§7.",
       "",
@@ -279200,7 +279194,7 @@
     "internalname": "VOLCANIC_STONEFISH_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Volcanic_Stonefish"
