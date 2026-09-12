@@ -95231,7 +95231,7 @@
   "FRAIL;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{frail:1},id:\"FRAIL;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail I\",3:\"§7Sea creatures start with §a2.5%\",4:\"§7reduced health.\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table,\",8:\"§7Clay Ball Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{frail:1},id:\"FRAIL;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail I\",3:\"§7Sea creatures start with §a2.5%\",4:\"§7reduced health.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Severed Pincer\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -95240,13 +95240,13 @@
       "§7Sea creatures start with §a2.5%",
       "§7reduced health.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Clay Ball Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Severed Pincer",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -95263,7 +95263,7 @@
   "FRAIL;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{frail:2},id:\"FRAIL;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail II\",3:\"§7Sea creatures start with §a5%\",4:\"§7reduced health.\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table,\",8:\"§7Clay Ball Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{frail:2},id:\"FRAIL;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail II\",3:\"§7Sea creatures start with §a5%\",4:\"§7reduced health.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Severed Pincer\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -95272,13 +95272,13 @@
       "§7Sea creatures start with §a5%",
       "§7reduced health.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Clay Ball Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Severed Pincer",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -95295,7 +95295,7 @@
   "FRAIL;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{frail:3},id:\"FRAIL;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail III\",3:\"§7Sea creatures start with §a7.5%\",4:\"§7reduced health.\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table,\",8:\"§7Clay Ball Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{frail:3},id:\"FRAIL;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail III\",3:\"§7Sea creatures start with §a7.5%\",4:\"§7reduced health.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Severed Pincer\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -95304,13 +95304,13 @@
       "§7Sea creatures start with §a7.5%",
       "§7reduced health.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Clay Ball Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Severed Pincer",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -95327,7 +95327,7 @@
   "FRAIL;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{frail:4},id:\"FRAIL;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail IV\",3:\"§7Sea creatures start with §a10%\",4:\"§7reduced health.\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table,\",8:\"§7Clay Ball Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{frail:4},id:\"FRAIL;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail IV\",3:\"§7Sea creatures start with §a10%\",4:\"§7reduced health.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Severed Pincer\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -95336,13 +95336,13 @@
       "§7Sea creatures start with §a10%",
       "§7reduced health.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Clay Ball Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Severed Pincer",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -95358,7 +95358,7 @@
   "FRAIL;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{frail:5},id:\"FRAIL;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail V\",3:\"§7Sea creatures start with §a12.5%\",4:\"§7reduced health.\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table,\",8:\"§7Clay Ball Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{frail:5},id:\"FRAIL;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail V\",3:\"§7Sea creatures start with §a12.5%\",4:\"§7reduced health.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Severed Pincer\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -95367,13 +95367,13 @@
       "§7Sea creatures start with §a12.5%",
       "§7reduced health.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Clay Ball Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Severed Pincer",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§a§lUNCOMMON"
     ],
@@ -95390,7 +95390,7 @@
   "FRAIL;6": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§9Enchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{frail:6},id:\"FRAIL;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail VI\",3:\"§7Sea creatures start with §a15%\",4:\"§7reduced health.\",5:\"\",6:\"§6Source:\",7:\"§aVI: §7Fishing\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFishing Rod\",11:\"§7- §fFishing Weapon\",12:\"\",13:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{frail:6},id:\"FRAIL;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail VI\",3:\"§7Sea creatures start with §a15%\",4:\"§7reduced health.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Severed Pincer\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -95399,12 +95399,13 @@
       "§7Sea creatures start with §a15%",
       "§7reduced health.",
       "",
-      "§6Source:",
-      "§aVI: §7Fishing",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Severed Pincer",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§9§lRARE"
     ],
@@ -95417,6 +95418,37 @@
       "https://hypixelskyblock.minecraft.wiki/w/Frail"
     ],
     "parent": "FRAIL;4"
+  },
+  "FRAIL;7": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{frail:7},id:\"FRAIL;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Frail VII\",3:\"§7Sea creatures start with §a17.5%\",4:\"§7reduced health.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Severed Pincer\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Frail VII",
+      "§7Sea creatures start with §a17.5%",
+      "§7reduced health.",
+      "",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Severed Pincer",
+      "",
+      "§6Applied To:",
+      "§7- §fFishing Rod",
+      "",
+      "§5§lEPIC"
+    ],
+    "internalname": "FRAIL;7",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Frail"
+    ]
   },
   "FRAMED_VOLCANIC_STONEFISH": {
     "itemid": "minecraft:item_frame",
@@ -142867,7 +142899,7 @@
   "LUCK_OF_THE_SEA;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:1},id:\"LUCK_OF_THE_SEA;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea I\",3:\"§7Grants §6+0.5 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Source:\",8:\"§aVI: §7Fishing\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:1},id:\"LUCK_OF_THE_SEA;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea I\",3:\"§7Grants §6+0.5 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Sources:\",8:\"§aI-V: §7Enchantment Table\",9:\"§aVI: §7Bazaar, Junker Joel\",10:\"§aVII: §6Golden Bottle Cap\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fFishing Rod\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -142877,12 +142909,13 @@
       "§7increases the chance of fishing",
       "§7treasure.",
       "",
-      "§6Source:",
-      "§aVI: §7Fishing",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Bazaar, Junker Joel",
+      "§aVII: §6Golden Bottle Cap",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -142899,7 +142932,7 @@
   "LUCK_OF_THE_SEA;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:2},id:\"LUCK_OF_THE_SEA;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea II\",3:\"§7Grants §6+1 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Source:\",8:\"§aI-V: §7Enchantment Table,\",9:\"§7Raw Rabbit Collection\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"§7- §fFishing Weapon\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:2},id:\"LUCK_OF_THE_SEA;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea II\",3:\"§7Grants §6+1 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Sources:\",8:\"§aI-V: §7Enchantment Table\",9:\"§aVI: §7Bazaar, Junker Joel\",10:\"§aVII: §6Golden Bottle Cap\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fFishing Rod\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -142909,13 +142942,13 @@
       "§7increases the chance of fishing",
       "§7treasure.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Raw Rabbit Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Bazaar, Junker Joel",
+      "§aVII: §6Golden Bottle Cap",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -142932,7 +142965,7 @@
   "LUCK_OF_THE_SEA;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:3},id:\"LUCK_OF_THE_SEA;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea III\",3:\"§7Grants §6+1.5 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Source:\",8:\"§aI-V: §7Enchantment Table,\",9:\"§7Raw Rabbit Collection\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"§7- §fFishing Weapon\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:3},id:\"LUCK_OF_THE_SEA;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea III\",3:\"§7Grants §6+1.5 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Sources:\",8:\"§aI-V: §7Enchantment Table\",9:\"§aVI: §7Bazaar, Junker Joel\",10:\"§aVII: §6Golden Bottle Cap\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fFishing Rod\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -142942,13 +142975,13 @@
       "§7increases the chance of fishing",
       "§7treasure.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Raw Rabbit Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Bazaar, Junker Joel",
+      "§aVII: §6Golden Bottle Cap",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -142965,7 +142998,7 @@
   "LUCK_OF_THE_SEA;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:4},id:\"LUCK_OF_THE_SEA;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea IV\",3:\"§7Grants §6+2 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Source:\",8:\"§aI-V: §7Enchantment Table,\",9:\"§7Raw Rabbit Collection\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"§7- §fFishing Weapon\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:4},id:\"LUCK_OF_THE_SEA;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea IV\",3:\"§7Grants §6+2 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Sources:\",8:\"§aI-V: §7Enchantment Table\",9:\"§aVI: §7Bazaar, Junker Joel\",10:\"§aVII: §6Golden Bottle Cap\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fFishing Rod\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -142975,13 +143008,13 @@
       "§7increases the chance of fishing",
       "§7treasure.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Raw Rabbit Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Bazaar, Junker Joel",
+      "§aVII: §6Golden Bottle Cap",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -142997,7 +143030,7 @@
   "LUCK_OF_THE_SEA;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:5},id:\"LUCK_OF_THE_SEA;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea V\",3:\"§7Grants §6+2.5 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Source:\",8:\"§aI-V: §7Enchantment Table,\",9:\"§7Raw Rabbit Collection\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"§7- §fFishing Weapon\",14:\"\",15:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:5},id:\"LUCK_OF_THE_SEA;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea V\",3:\"§7Grants §6+2.5 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Sources:\",8:\"§aI-V: §7Enchantment Table\",9:\"§aVI: §7Bazaar, Junker Joel\",10:\"§aVII: §6Golden Bottle Cap\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fFishing Rod\",14:\"\",15:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -143007,13 +143040,13 @@
       "§7increases the chance of fishing",
       "§7treasure.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Raw Rabbit Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Bazaar, Junker Joel",
+      "§aVII: §6Golden Bottle Cap",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§a§lUNCOMMON"
     ],
@@ -143030,7 +143063,7 @@
   "LUCK_OF_THE_SEA;6": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§9Enchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:6},id:\"LUCK_OF_THE_SEA;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea VI\",3:\"§7Grants §6+3 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Applied To:\",8:\"§7- §fFishing Rod\",9:\"\",10:\"§9§lRARE\"],Name:\"§9Enchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:6},id:\"LUCK_OF_THE_SEA;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea VI\",3:\"§7Grants §6+3 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Sources:\",8:\"§aI-V: §7Enchantment Table\",9:\"§aVI: §7Bazaar, Junker Joel\",10:\"§aVII: §6Golden Bottle Cap\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fFishing Rod\",14:\"\",15:\"§9§lRARE\"],Name:\"§9Enchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -143039,6 +143072,11 @@
       "§7Grants §6+3 Treasure Chance§7, which",
       "§7increases the chance of fishing",
       "§7treasure.",
+      "",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Bazaar, Junker Joel",
+      "§aVII: §6Golden Bottle Cap",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
@@ -143054,6 +143092,38 @@
       "https://hypixelskyblock.minecraft.wiki/w/Luck_of_the_Sea"
     ],
     "parent": "LUCK_OF_THE_SEA;4"
+  },
+  "LUCK_OF_THE_SEA;7": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{luck_of_the_sea:7},id:\"LUCK_OF_THE_SEA;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Luck of the Sea VII\",3:\"§7Grants §6+3.5 Treasure Chance§7, which\",4:\"§7increases the chance of fishing\",5:\"§7treasure.\",6:\"\",7:\"§6Sources:\",8:\"§aI-V: §7Enchantment Table\",9:\"§aVI: §7Bazaar, Junker Joel\",10:\"§aVII: §6Golden Bottle Cap\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fFishing Rod\",14:\"\",15:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"}}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Luck of the Sea VII",
+      "§7Grants §6+3.5 Treasure Chance§7, which",
+      "§7increases the chance of fishing",
+      "§7treasure.",
+      "",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Bazaar, Junker Joel",
+      "§aVII: §6Golden Bottle Cap",
+      "",
+      "§6Applied To:",
+      "§7- §fFishing Rod",
+      "",
+      "§5§lEPIC"
+    ],
+    "internalname": "LUCK_OF_THE_SEA;7",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Luck_of_the_Sea"
+    ]
   },
   "LUDLETH_NPC": {
     "itemid": "minecraft:skull",
@@ -181431,8 +181501,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Mystic_Bowl_Flying_Fish_Skin"
+    ]
   },
   "PET_SKIN_FLYING_FISH_BOWL_TIDAL": {
     "itemid": "minecraft:skull",
@@ -181461,8 +181533,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Tidal_Bowl_Flying_Fish_Skin"
+    ]
   },
   "PET_SKIN_FLYING_FISH_HARLEQUIN": {
     "itemid": "minecraft:skull",
@@ -190520,7 +190594,7 @@
   "PISCARY;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{piscary:1},id:\"PISCARY;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary I\",3:\"§7Grants §b+1 Fishing Speed§7.\",4:\"\",5:\"§6Source:\",6:\"§aI-V: §7Enchantment Table\",7:\"\",8:\"§6Applied To:\",9:\"§7- §fFishing Rod\",10:\"§7- §fFishing Weapon\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{piscary:1},id:\"PISCARY;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary I\",3:\"§7Grants §b+1 Fishing Speed§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI-V: §7Enchantment Table\",7:\"§aVI: §7Fishing, Bazaar\",8:\"§aVII: §6Troubled Bubble\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -190528,12 +190602,13 @@
       "§9Piscary I",
       "§7Grants §b+1 Fishing Speed§7.",
       "",
-      "§6Source:",
+      "§6Sources:",
       "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Troubled Bubble",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -190549,7 +190624,7 @@
   "PISCARY;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{piscary:2},id:\"PISCARY;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary II\",3:\"§7Grants §b+2 Fishing Speed§7.\",4:\"\",5:\"§6Source:\",6:\"§aI-V: §7Enchantment Table\",7:\"\",8:\"§6Applied To:\",9:\"§7- §fFishing Rod\",10:\"§7- §fFishing Weapon\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{piscary:2},id:\"PISCARY;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary II\",3:\"§7Grants §b+2 Fishing Speed§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI-V: §7Enchantment Table\",7:\"§aVI: §7Fishing, Bazaar\",8:\"§aVII: §6Troubled Bubble\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -190557,12 +190632,13 @@
       "§9Piscary II",
       "§7Grants §b+2 Fishing Speed§7.",
       "",
-      "§6Source:",
+      "§6Sources:",
       "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Troubled Bubble",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -190578,7 +190654,7 @@
   "PISCARY;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{piscary:3},id:\"PISCARY;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary III\",3:\"§7Grants §b+3 Fishing Speed§7.\",4:\"\",5:\"§6Source:\",6:\"§aI-V: §7Enchantment Table\",7:\"\",8:\"§6Applied To:\",9:\"§7- §fFishing Rod\",10:\"§7- §fFishing Weapon\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{piscary:3},id:\"PISCARY;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary III\",3:\"§7Grants §b+3 Fishing Speed§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI-V: §7Enchantment Table\",7:\"§aVI: §7Fishing, Bazaar\",8:\"§aVII: §6Troubled Bubble\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -190586,12 +190662,13 @@
       "§9Piscary III",
       "§7Grants §b+3 Fishing Speed§7.",
       "",
-      "§6Source:",
+      "§6Sources:",
       "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Troubled Bubble",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -190607,7 +190684,7 @@
   "PISCARY;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{piscary:4},id:\"PISCARY;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary IV\",3:\"§7Grants §b+4 Fishing Speed§7.\",4:\"\",5:\"§6Source:\",6:\"§aI-V: §7Enchantment Table\",7:\"\",8:\"§6Applied To:\",9:\"§7- §fFishing Rod\",10:\"§7- §fFishing Weapon\",11:\"\",12:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{piscary:4},id:\"PISCARY;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary IV\",3:\"§7Grants §b+4 Fishing Speed§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI-V: §7Enchantment Table\",7:\"§aVI: §7Fishing, Bazaar\",8:\"§aVII: §6Troubled Bubble\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -190615,12 +190692,13 @@
       "§9Piscary IV",
       "§7Grants §b+4 Fishing Speed§7.",
       "",
-      "§6Source:",
+      "§6Sources:",
       "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Troubled Bubble",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -190636,7 +190714,7 @@
   "PISCARY;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{piscary:5},id:\"PISCARY;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary V\",3:\"§7Grants §b+5 Fishing Speed§7.\",4:\"\",5:\"§6Source:\",6:\"§aI-V: §7Enchantment Table\",7:\"\",8:\"§6Applied To:\",9:\"§7- §fFishing Rod\",10:\"§7- §fFishing Weapon\",11:\"\",12:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{piscary:5},id:\"PISCARY;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary V\",3:\"§7Grants §b+5 Fishing Speed§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI-V: §7Enchantment Table\",7:\"§aVI: §7Fishing, Bazaar\",8:\"§aVII: §6Troubled Bubble\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"\",13:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -190644,12 +190722,13 @@
       "§9Piscary V",
       "§7Grants §b+5 Fishing Speed§7.",
       "",
-      "§6Source:",
+      "§6Sources:",
       "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Troubled Bubble",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§a§lUNCOMMON"
     ],
@@ -190665,7 +190744,7 @@
   "PISCARY;6": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§9Enchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{piscary:6},id:\"PISCARY;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary VI\",3:\"§7Grants §b+6 Fishing Speed§7.\",4:\"\",5:\"§6Source:\",6:\"§aVI: §7Fishing,\",7:\"§7Experiments\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFishing Rod\",11:\"§7- §fFishing Weapon\",12:\"\",13:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{piscary:6},id:\"PISCARY;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary VI\",3:\"§7Grants §b+6 Fishing Speed§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI-V: §7Enchantment Table\",7:\"§aVI: §7Fishing, Bazaar\",8:\"§aVII: §6Troubled Bubble\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"\",13:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -190673,13 +190752,13 @@
       "§9Piscary VI",
       "§7Grants §b+6 Fishing Speed§7.",
       "",
-      "§6Source:",
-      "§aVI: §7Fishing,",
-      "§7Experiments",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Troubled Bubble",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§9§lRARE"
     ],
@@ -190687,6 +190766,36 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Piscary"
+    ]
+  },
+  "PISCARY;7": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{piscary:7},id:\"PISCARY;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Piscary VII\",3:\"§7Grants §b+7 Fishing Speed§7.\",4:\"\",5:\"§6Sources:\",6:\"§aI-V: §7Enchantment Table\",7:\"§aVI: §7Fishing, Bazaar\",8:\"§aVII: §6Troubled Bubble\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"\",13:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Piscary VII",
+      "§7Grants §b+7 Fishing Speed§7.",
+      "",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Troubled Bubble",
+      "",
+      "§6Applied To:",
+      "§7- §fFishing Rod",
+      "",
+      "§5§lEPIC"
+    ],
+    "internalname": "PISCARY;7",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Piscary"
@@ -219811,22 +219920,24 @@
   "SCAVENGER;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:1},id:\"SCAVENGER;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger I\",3:\"§7Scavenge §60.3 Coins §7per\",4:\"§7monster level on kill.\",5:\"\",6:\"§6Source:\",7:\"§aI-III: §7Enchantment Table,\",8:\"§7Gold Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fSword\",12:\"§7- §fFishing Weapon\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:1},id:\"SCAVENGER;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger I\",3:\"§7Scavenge §60.3 Coins §7per monster\",4:\"§7level on kill.\",5:\"\",6:\"§6Sources:\",7:\"§aI-III: §7Enchantment Table\",8:\"§aIV: §7Season of Jerry\",9:\"§aIV-V: §7Experiments, Bazaar\",10:\"§aV: §7Catacombs\",11:\"§aVI: §6Golden Bounty\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Scavenger I",
-      "§7Scavenge §60.3 Coins §7per",
-      "§7monster level on kill.",
+      "§7Scavenge §60.3 Coins §7per monster",
+      "§7level on kill.",
       "",
-      "§6Source:",
-      "§aI-III: §7Enchantment Table,",
-      "§7Gold Collection",
+      "§6Sources:",
+      "§aI-III: §7Enchantment Table",
+      "§aIV: §7Season of Jerry",
+      "§aIV-V: §7Experiments, Bazaar",
+      "§aV: §7Catacombs",
+      "§aVI: §6Golden Bounty",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -219845,22 +219956,24 @@
   "SCAVENGER;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:2},id:\"SCAVENGER;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger II\",3:\"§7Scavenge §60.6 Coins §7per\",4:\"§7monster level on kill.\",5:\"\",6:\"§6Source:\",7:\"§aI-III: §7Enchantment Table,\",8:\"§7Gold Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fSword\",12:\"§7- §fFishing Weapon\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:2},id:\"SCAVENGER;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger II\",3:\"§7Scavenge §60.6 Coins §7per monster\",4:\"§7level on kill.\",5:\"\",6:\"§6Sources:\",7:\"§aI-III: §7Enchantment Table\",8:\"§aIV: §7Season of Jerry\",9:\"§aIV-V: §7Experiments, Bazaar\",10:\"§aV: §7Catacombs\",11:\"§aVI: §6Golden Bounty\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Scavenger II",
-      "§7Scavenge §60.6 Coins §7per",
-      "§7monster level on kill.",
+      "§7Scavenge §60.6 Coins §7per monster",
+      "§7level on kill.",
       "",
-      "§6Source:",
-      "§aI-III: §7Enchantment Table,",
-      "§7Gold Collection",
+      "§6Sources:",
+      "§aI-III: §7Enchantment Table",
+      "§aIV: §7Season of Jerry",
+      "§aIV-V: §7Experiments, Bazaar",
+      "§aV: §7Catacombs",
+      "§aVI: §6Golden Bounty",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -219878,22 +219991,24 @@
   "SCAVENGER;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:3},id:\"SCAVENGER;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger III\",3:\"§7Scavenge §60.9 Coins §7per\",4:\"§7monster level on kill.\",5:\"\",6:\"§6Source:\",7:\"§aI-III: §7Enchantment Table,\",8:\"§7Gold Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fSword\",12:\"§7- §fFishing Weapon\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:3},id:\"SCAVENGER;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger III\",3:\"§7Scavenge §60.9 Coins §7per monster\",4:\"§7level on kill.\",5:\"\",6:\"§6Sources:\",7:\"§aI-III: §7Enchantment Table\",8:\"§aIV: §7Season of Jerry\",9:\"§aIV-V: §7Experiments, Bazaar\",10:\"§aV: §7Catacombs\",11:\"§aVI: §6Golden Bounty\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Scavenger III",
-      "§7Scavenge §60.9 Coins §7per",
-      "§7monster level on kill.",
+      "§7Scavenge §60.9 Coins §7per monster",
+      "§7level on kill.",
       "",
-      "§6Source:",
-      "§aI-III: §7Enchantment Table,",
-      "§7Gold Collection",
+      "§6Sources:",
+      "§aI-III: §7Enchantment Table",
+      "§aIV: §7Season of Jerry",
+      "§aIV-V: §7Experiments, Bazaar",
+      "§aV: §7Catacombs",
+      "§aVI: §6Golden Bounty",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -219912,22 +220027,24 @@
   "SCAVENGER;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:4},id:\"SCAVENGER;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger IV\",3:\"§7Scavenge §61.2 Coins §7per\",4:\"§7monster level on kill.\",5:\"\",6:\"§6Source:\",7:\"§aIV: §7Season of Jerry\",8:\"§7Experiments\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fSword\",12:\"§7- §fFishing Weapon\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:4},id:\"SCAVENGER;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger IV\",3:\"§7Scavenge §61.2 Coins §7per monster\",4:\"§7level on kill.\",5:\"\",6:\"§6Sources:\",7:\"§aI-III: §7Enchantment Table\",8:\"§aIV: §7Season of Jerry\",9:\"§aIV-V: §7Experiments, Bazaar\",10:\"§aV: §7Catacombs\",11:\"§aVI: §6Golden Bounty\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Scavenger IV",
-      "§7Scavenge §61.2 Coins §7per",
-      "§7monster level on kill.",
+      "§7Scavenge §61.2 Coins §7per monster",
+      "§7level on kill.",
       "",
-      "§6Source:",
+      "§6Sources:",
+      "§aI-III: §7Enchantment Table",
       "§aIV: §7Season of Jerry",
-      "§7Experiments",
+      "§aIV-V: §7Experiments, Bazaar",
+      "§aV: §7Catacombs",
+      "§aVI: §6Golden Bounty",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -219946,22 +220063,24 @@
   "SCAVENGER;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:5},id:\"SCAVENGER;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger V\",3:\"§7Scavenge §61.5 Coins §7per\",4:\"§7monster level on kill.\",5:\"\",6:\"§6Source:\",7:\"§aIV: §7Dungeon\",8:\"§7Experiments\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fSword\",12:\"§7- §fFishing Weapon\",13:\"§7- §fLongsword\",14:\"§7- §fGauntlet\",15:\"\",16:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:5},id:\"SCAVENGER;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger V\",3:\"§7Scavenge §61.5 Coins §7per monster\",4:\"§7level on kill.\",5:\"\",6:\"§6Sources:\",7:\"§aI-III: §7Enchantment Table\",8:\"§aIV: §7Season of Jerry\",9:\"§aIV-V: §7Experiments, Bazaar\",10:\"§aV: §7Catacombs\",11:\"§aVI: §6Golden Bounty\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Scavenger V",
-      "§7Scavenge §61.5 Coins §7per",
-      "§7monster level on kill.",
+      "§7Scavenge §61.5 Coins §7per monster",
+      "§7level on kill.",
       "",
-      "§6Source:",
-      "§aIV: §7Dungeon",
-      "§7Experiments",
+      "§6Sources:",
+      "§aI-III: §7Enchantment Table",
+      "§aIV: §7Season of Jerry",
+      "§aIV-V: §7Experiments, Bazaar",
+      "§aV: §7Catacombs",
+      "§aVI: §6Golden Bounty",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -219976,6 +220095,41 @@
       "https://hypixelskyblock.minecraft.wiki/w/Scavenger"
     ],
     "parent": "SCAVENGER;2"
+  },
+  "SCAVENGER;6": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§9Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{scavenger:6},id:\"SCAVENGER;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Scavenger VI\",3:\"§7Scavenge §61.8 Coins §7per monster\",4:\"§7level on kill.\",5:\"\",6:\"§6Sources:\",7:\"§aI-III: §7Enchantment Table\",8:\"§aIV: §7Season of Jerry\",9:\"§aIV-V: §7Experiments, Bazaar\",10:\"§aV: §7Catacombs\",11:\"§aVI: §6Golden Bounty\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Scavenger VI",
+      "§7Scavenge §61.8 Coins §7per monster",
+      "§7level on kill.",
+      "",
+      "§6Sources:",
+      "§aI-III: §7Enchantment Table",
+      "§aIV: §7Season of Jerry",
+      "§aIV-V: §7Experiments, Bazaar",
+      "§aV: §7Catacombs",
+      "§aVI: §6Golden Bounty",
+      "",
+      "§6Applied To:",
+      "§7- §fSword",
+      "§7- §fLongsword",
+      "§7- §fGauntlet",
+      "",
+      "§9§lRARE"
+    ],
+    "internalname": "SCAVENGER;6",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Scavenger"
+    ]
   },
   "SCAVENGER_ARTIFACT": {
     "itemid": "minecraft:skull",
@@ -225594,88 +225748,92 @@
             "chance": "100%"
           },
           {
-            "id": "SKYBLOCK_RANDOM_SKILL_XP:1000",
-            "chance": "19.31%"
-          },
-          {
-            "id": "SKYBLOCK_RANDOM_SKILL_XP:5000",
-            "chance": "3.86%"
-          },
-          {
-            "id": "SKYBLOCK_RANDOM_SKILL_XP:10000",
-            "chance": "1.93%"
-          },
-          {
             "id": "SKYBLOCK_COIN:10000",
-            "chance": "19.31%"
+            "chance": "19.2215%"
           },
           {
-            "id": "SKYBLOCK_COIN:25000",
-            "chance": "9.66%"
-          },
-          {
-            "id": "SKYBLOCK_COIN:50000",
-            "chance": "4.83%"
-          },
-          {
-            "id": "SKYBLOCK_COIN:100000",
-            "chance": "2.41%"
-          },
-          {
-            "id": "SKYBLOCK_COIN:250000",
-            "chance": "0.97%"
-          },
-          {
-            "id": "SKYBLOCK_COIN:500000",
-            "chance": "0.48%"
-          },
-          {
-            "id": "SKYBLOCK_COIN:1000000",
-            "chance": "0.24%"
-          },
-          {
-            "id": "ENCHANTED_POTATO:16",
-            "chance": "9.66%"
-          },
-          {
-            "id": "ENCHANTED_POTATO:32",
-            "chance": "4.83%"
+            "id": "SKYBLOCK_RANDOM_SKILL_XP:1000",
+            "chance": "19.2215%"
           },
           {
             "id": "ENCHANTED_PORK:8",
-            "chance": "9.66%"
+            "chance": "9.6108%"
+          },
+          {
+            "id": "SKYBLOCK_COIN:25000",
+            "chance": "9.6108%"
+          },
+          {
+            "id": "ENCHANTED_POTATO:16",
+            "chance": "9.6108%"
           },
           {
             "id": "ENCHANTED_PORK:16",
-            "chance": "4.83%"
+            "chance": "4.8054%"
+          },
+          {
+            "id": "ENCHANTED_POTATO:32",
+            "chance": "4.8054%"
           },
           {
             "id": "FARMING_FOR_DUMMIES",
-            "chance": "4.83%"
+            "chance": "4.8054%"
+          },
+          {
+            "id": "SKYBLOCK_COIN:50000",
+            "chance": "4.8054%"
+          },
+          {
+            "id": "SKYBLOCK_RANDOM_SKILL_XP:5000",
+            "chance": "3.8443%"
+          },
+          {
+            "id": "SKYBLOCK_COIN:100000",
+            "chance": "2.4027%"
+          },
+          {
+            "id": "SKYBLOCK_RANDOM_SKILL_XP:10000",
+            "chance": "1.9222%"
           },
           {
             "id": "POTATO_SPREADING",
-            "chance": "1.45%"
+            "chance": "1.4416%"
           },
           {
             "id": "HARVESTING;6",
-            "chance": ".97%"
+            "chance": "0.9611%"
+          },
+          {
+            "id": "SKYBLOCK_COIN:250000",
+            "chance": "0.9611%"
           },
           {
             "id": "ENCHANTED_BAKED_POTATO",
-            "chance": "0.48%"
+            "chance": "0.4805%"
+          },
+          {
+            "id": "ENCHANTED_GRILLED_PORK",
+            "chance": "0.4805%"
+          },
+          {
+            "id": "SKYBLOCK_COIN:500000",
+            "chance": "0.4805%"
+          },
+          {
+            "id": "SKYBLOCK_COIN:1000000",
+            "chance": "0.2403%"
           },
           {
             "id": "PET_ITEM_FLYING_PIG",
-            "chance": "0.14%"
+            "chance": "0.1442%"
           },
           {
             "id": "BLOOD_GOD_CREST",
-            "chance": "0.1%"
+            "chance": "0.0961%"
           },
           {
             "id": "POTATO_TALISMAN",
-            "chance": "0.05%"
+            "chance": "0.0481%"
           }
         ]
       }
@@ -230761,7 +230919,9 @@
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Gem"
+    ]
   },
   "SKYBLOCK_GOLD_MEDAL": {
     "itemid": "minecraft:skull",
@@ -241566,22 +241726,22 @@
   "SPIKED_HOOK;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:1},id:\"SPIKED_HOOK;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook I\",3:\"§7Fishing rod deals §a5%§7 more\",4:\"§7damage to monsters.\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table,\",8:\"§7Salmon Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:1},id:\"SPIKED_HOOK;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook I\",3:\"§7Fishing rod deals §a5%§7 more damage\",4:\"§7to monsters.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Octopus Tendril\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Spiked Hook I",
-      "§7Fishing rod deals §a5%§7 more",
-      "§7damage to monsters.",
+      "§7Fishing rod deals §a5%§7 more damage",
+      "§7to monsters.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Salmon Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Octopus Tendril",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -241598,22 +241758,22 @@
   "SPIKED_HOOK;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:2},id:\"SPIKED_HOOK;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook II\",3:\"§7Fishing rod deals §a10%§7 more\",4:\"§7damage to monsters.\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table,\",8:\"§7Salmon Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:2},id:\"SPIKED_HOOK;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook II\",3:\"§7Fishing rod deals §a10%§7 more damage\",4:\"§7to monsters.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Octopus Tendril\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Spiked Hook II",
-      "§7Fishing rod deals §a10%§7 more",
-      "§7damage to monsters.",
+      "§7Fishing rod deals §a10%§7 more damage",
+      "§7to monsters.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Salmon Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Octopus Tendril",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -241630,22 +241790,22 @@
   "SPIKED_HOOK;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:3},id:\"SPIKED_HOOK;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook III\",3:\"§7Fishing rod deals §a15%§7 more\",4:\"§7damage to monsters.\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table,\",8:\"§7Salmon Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:3},id:\"SPIKED_HOOK;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook III\",3:\"§7Fishing rod deals §a15%§7 more damage\",4:\"§7to monsters.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Octopus Tendril\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Spiked Hook III",
-      "§7Fishing rod deals §a15%§7 more",
-      "§7damage to monsters.",
+      "§7Fishing rod deals §a15%§7 more damage",
+      "§7to monsters.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Salmon Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Octopus Tendril",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -241662,22 +241822,22 @@
   "SPIKED_HOOK;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:4},id:\"SPIKED_HOOK;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook IV\",3:\"§7Fishing rod deals §a20%§7 more\",4:\"§7damage to monsters.\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table,\",8:\"§7Salmon Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:4},id:\"SPIKED_HOOK;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook IV\",3:\"§7Fishing rod deals §a20%§7 more damage\",4:\"§7to monsters.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Octopus Tendril\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Spiked Hook IV",
-      "§7Fishing rod deals §a20%§7 more",
-      "§7damage to monsters.",
+      "§7Fishing rod deals §a20%§7 more damage",
+      "§7to monsters.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Salmon Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Octopus Tendril",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§f§lCOMMON"
     ],
@@ -241693,22 +241853,22 @@
   "SPIKED_HOOK;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:5},id:\"SPIKED_HOOK;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook V\",3:\"§7Fishing rod deals §a25%§7 more\",4:\"§7damage to monsters.\",5:\"\",6:\"§6Source:\",7:\"§aI-V: §7Enchantment Table,\",8:\"§7Salmon Collection\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fFishing Rod\",12:\"§7- §fFishing Weapon\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:5},id:\"SPIKED_HOOK;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook V\",3:\"§7Fishing rod deals §a25%§7 more damage\",4:\"§7to monsters.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Octopus Tendril\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Spiked Hook V",
-      "§7Fishing rod deals §a25%§7 more",
-      "§7damage to monsters.",
+      "§7Fishing rod deals §a25%§7 more damage",
+      "§7to monsters.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Salmon Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Octopus Tendril",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§a§lUNCOMMON"
     ],
@@ -241725,21 +241885,22 @@
   "SPIKED_HOOK;6": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§9Enchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:6},id:\"SPIKED_HOOK;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook VI\",3:\"§7Fishing rod deals §a30%§7 more\",4:\"§7damage to monsters.\",5:\"\",6:\"§6Source:\",7:\"§aVI: §7Fishing\",8:\"\",9:\"§6Applied To:\",10:\"§7- §fFishing Rod\",11:\"§7- §fFishing Weapon\",12:\"\",13:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:6},id:\"SPIKED_HOOK;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook VI\",3:\"§7Fishing rod deals §a30%§7 more damage\",4:\"§7to monsters.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Octopus Tendril\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Spiked Hook VI",
-      "§7Fishing rod deals §a30%§7 more",
-      "§7damage to monsters.",
+      "§7Fishing rod deals §a30%§7 more damage",
+      "§7to monsters.",
       "",
-      "§6Source:",
-      "§aVI: §7Fishing",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Octopus Tendril",
       "",
       "§6Applied To:",
       "§7- §fFishing Rod",
-      "§7- §fFishing Weapon",
       "",
       "§9§lRARE"
     ],
@@ -241752,6 +241913,37 @@
       "https://hypixelskyblock.minecraft.wiki/w/Spiked_Hook"
     ],
     "parent": "SPIKED_HOOK;4"
+  },
+  "SPIKED_HOOK;7": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{spiked_hook:7},id:\"SPIKED_HOOK;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Spiked Hook VII\",3:\"§7Fishing rod deals §a35%§7 more damage\",4:\"§7to monsters.\",5:\"\",6:\"§6Sources:\",7:\"§aI-V: §7Enchantment Table\",8:\"§aVI: §7Fishing, Bazaar\",9:\"§aVII: §6Octopus Tendril\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fFishing Rod\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Spiked Hook VII",
+      "§7Fishing rod deals §a35%§7 more damage",
+      "§7to monsters.",
+      "",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Fishing, Bazaar",
+      "§aVII: §6Octopus Tendril",
+      "",
+      "§6Applied To:",
+      "§7- §fFishing Rod",
+      "",
+      "§5§lEPIC"
+    ],
+    "internalname": "SPIKED_HOOK;7",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Spiked_Hook"
+    ]
   },
   "SPIKE_PUFFERFISH_ANIMAL": {
     "itemid": "minecraft:skull",
@@ -259753,22 +259945,24 @@
   "THORNS;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{thorns:1},id:\"THORNS;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Thorns I\",3:\"§7Grants a §a50% §7chance to\",4:\"§7rebound §a3% §7of damage dealt\",5:\"§7back at the attacker.\",6:\"\",7:\"§6Source:\",8:\"§aI-III: §7Enchantment Table,\",9:\"§7Cactus Collection\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fArmor\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{thorns:1},id:\"THORNS;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Thorns I\",3:\"§7Grants a §a50% §7chance to rebound §a3%\",4:\"§7of damage dealt back at the attacker.\",5:\"\",6:\"§6Sources:\",7:\"§aI-III: §7Enchantment Table\",8:\"§aIV: §6Prickly Creeper\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fArmor\",12:\"\",13:\"§6Conflicts:\",14:\"§7- §cReflection\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Thorns I",
-      "§7Grants a §a50% §7chance to",
-      "§7rebound §a3% §7of damage dealt",
-      "§7back at the attacker.",
+      "§7Grants a §a50% §7chance to rebound §a3%",
+      "§7of damage dealt back at the attacker.",
       "",
-      "§6Source:",
-      "§aI-III: §7Enchantment Table,",
-      "§7Cactus Collection",
+      "§6Sources:",
+      "§aI-III: §7Enchantment Table",
+      "§aIV: §6Prickly Creeper",
       "",
       "§6Applied To:",
       "§7- §fArmor",
+      "",
+      "§6Conflicts:",
+      "§7- §cReflection",
       "",
       "§f§lCOMMON"
     ],
@@ -259785,22 +259979,24 @@
   "THORNS;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{thorns:2},id:\"THORNS;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Thorns II\",3:\"§7Grants a §a50% §7chance to\",4:\"§7rebound §a6% §7of damage dealt\",5:\"§7back at the attacker.\",6:\"\",7:\"§6Source:\",8:\"§aI-III: §7Enchantment Table,\",9:\"§7Cactus Collection\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fArmor\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{thorns:2},id:\"THORNS;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Thorns II\",3:\"§7Grants a §a50% §7chance to rebound §a6%\",4:\"§7of damage dealt back at the attacker.\",5:\"\",6:\"§6Sources:\",7:\"§aI-III: §7Enchantment Table\",8:\"§aIV: §6Prickly Creeper\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fArmor\",12:\"\",13:\"§6Conflicts:\",14:\"§7- §cReflection\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Thorns II",
-      "§7Grants a §a50% §7chance to",
-      "§7rebound §a6% §7of damage dealt",
-      "§7back at the attacker.",
+      "§7Grants a §a50% §7chance to rebound §a6%",
+      "§7of damage dealt back at the attacker.",
       "",
-      "§6Source:",
-      "§aI-III: §7Enchantment Table,",
-      "§7Cactus Collection",
+      "§6Sources:",
+      "§aI-III: §7Enchantment Table",
+      "§aIV: §6Prickly Creeper",
       "",
       "§6Applied To:",
       "§7- §fArmor",
+      "",
+      "§6Conflicts:",
+      "§7- §cReflection",
       "",
       "§f§lCOMMON"
     ],
@@ -259816,26 +260012,62 @@
   "THORNS;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{thorns:3},id:\"THORNS;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Thorns III\",3:\"§7Grants a §a50% §7chance to\",4:\"§7rebound §a9% §7of damage dealt\",5:\"§7back at the attacker.\",6:\"\",7:\"§6Source:\",8:\"§aI-III: §7Enchantment Table,\",9:\"§7Cactus Collection\",10:\"\",11:\"§6Applied To:\",12:\"§7- §fArmor\",13:\"\",14:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{thorns:3},id:\"THORNS;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Thorns III\",3:\"§7Grants a §a50% §7chance to rebound §a9%\",4:\"§7of damage dealt back at the attacker.\",5:\"\",6:\"§6Sources:\",7:\"§aI-III: §7Enchantment Table\",8:\"§aIV: §6Prickly Creeper\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fArmor\",12:\"\",13:\"§6Conflicts:\",14:\"§7- §cReflection\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Thorns III",
-      "§7Grants a §a50% §7chance to",
-      "§7rebound §a9% §7of damage dealt",
-      "§7back at the attacker.",
+      "§7Grants a §a50% §7chance to rebound §a9%",
+      "§7of damage dealt back at the attacker.",
       "",
-      "§6Source:",
-      "§aI-III: §7Enchantment Table,",
-      "§7Cactus Collection",
+      "§6Sources:",
+      "§aI-III: §7Enchantment Table",
+      "§aIV: §6Prickly Creeper",
       "",
       "§6Applied To:",
       "§7- §fArmor",
       "",
+      "§6Conflicts:",
+      "§7- §cReflection",
+      "",
       "§f§lCOMMON"
     ],
     "internalname": "THORNS;3",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Thorns"
+    ],
+    "parent": "THORNS;2"
+  },
+  "THORNS;4": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§fEnchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{thorns:4},id:\"THORNS;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Thorns IV\",3:\"§7Grants a §a50% §7chance to rebound §a12%\",4:\"§7of damage dealt back at the attacker.\",5:\"\",6:\"§6Sources:\",7:\"§aI-III: §7Enchantment Table\",8:\"§aIV: §6Prickly Creeper\",9:\"\",10:\"§6Applied To:\",11:\"§7- §fArmor\",12:\"\",13:\"§6Conflicts:\",14:\"§7- §cReflection\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Thorns IV",
+      "§7Grants a §a50% §7chance to rebound §a12%",
+      "§7of damage dealt back at the attacker.",
+      "",
+      "§6Sources:",
+      "§aI-III: §7Enchantment Table",
+      "§aIV: §6Prickly Creeper",
+      "",
+      "§6Applied To:",
+      "§7- §fArmor",
+      "",
+      "§6Conflicts:",
+      "§7- §cReflection",
+      "",
+      "§f§lCOMMON"
+    ],
+    "internalname": "THORNS;4",
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
@@ -264136,8 +264368,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g19f28a05",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Totem"
+    ]
   },
   "TOTEM_OF_CORRUPTION": {
     "itemid": "minecraft:banner",
@@ -276707,25 +276941,24 @@
   "VENOMOUS;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{venomous:1},id:\"VENOMOUS;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous I\",3:\"§7Reduces the target's walk speed\",4:\"§7by §a5% §7and deals §2+0.3% §7of\",5:\"§7your damage per second per hit,\",6:\"§7stacking globally up to §240\",7:\"§7hits. Lasts §65s§7.\",8:\"\",9:\"§6Source:\",10:\"§aI-V: §7Enchantment Table,\",11:\"§7Spider Eye Collection\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fFishing Weapon\",16:\"§7- §fLongsword\",17:\"§7- §fGauntlet\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{venomous:1},id:\"VENOMOUS;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous I\",3:\"§7Reduces the target's walk speed by\",4:\"§a2% §7and deals §2+0.2% §7of your damage\",5:\"§7per second per hit, stacking globally\",6:\"§7up to §240 §7hits. Lasts §65s§7.\",7:\"\",8:\"§6Sources:\",9:\"§aI-V: §7Enchantment Table\",10:\"§aVI: §7Experiments, Bazaar\",11:\"§aVII: §6Fateful Stinger\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Venomous I",
-      "§7Reduces the target's walk speed",
-      "§7by §a5% §7and deals §2+0.3% §7of",
-      "§7your damage per second per hit,",
-      "§7stacking globally up to §240",
-      "§7hits. Lasts §65s§7.",
+      "§7Reduces the target's walk speed by",
+      "§a2% §7and deals §2+0.2% §7of your damage",
+      "§7per second per hit, stacking globally",
+      "§7up to §240 §7hits. Lasts §65s§7.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Spider Eye Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Experiments, Bazaar",
+      "§aVII: §6Fateful Stinger",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -276744,25 +276977,24 @@
   "VENOMOUS;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{venomous:2},id:\"VENOMOUS;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous II\",3:\"§7Reduces the target's walk speed\",4:\"§7by §a10% §7and deals §2+0.6% §7of\",5:\"§7your damage per second per hit,\",6:\"§7stacking globally up to §240\",7:\"§7hits. Lasts §65s§7.\",8:\"\",9:\"§6Source:\",10:\"§aI-V: §7Enchantment Table,\",11:\"§7Spider Eye Collection\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fFishing Weapon\",16:\"§7- §fLongsword\",17:\"§7- §fGauntlet\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{venomous:2},id:\"VENOMOUS;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous II\",3:\"§7Reduces the target's walk speed by\",4:\"§a4% §7and deals §2+0.4% §7of your damage\",5:\"§7per second per hit, stacking globally\",6:\"§7up to §240 §7hits. Lasts §65s§7.\",7:\"\",8:\"§6Sources:\",9:\"§aI-V: §7Enchantment Table\",10:\"§aVI: §7Experiments, Bazaar\",11:\"§aVII: §6Fateful Stinger\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Venomous II",
-      "§7Reduces the target's walk speed",
-      "§7by §a10% §7and deals §2+0.6% §7of",
-      "§7your damage per second per hit,",
-      "§7stacking globally up to §240",
-      "§7hits. Lasts §65s§7.",
+      "§7Reduces the target's walk speed by",
+      "§a4% §7and deals §2+0.4% §7of your damage",
+      "§7per second per hit, stacking globally",
+      "§7up to §240 §7hits. Lasts §65s§7.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Spider Eye Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Experiments, Bazaar",
+      "§aVII: §6Fateful Stinger",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -276781,25 +277013,24 @@
   "VENOMOUS;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{venomous:3},id:\"VENOMOUS;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous III\",3:\"§7Reduces the target's walk speed\",4:\"§7by §a15% §7and deals §2+0.9% §7of\",5:\"§7your damage per second per hit,\",6:\"§7stacking globally up to §240\",7:\"§7hits. Lasts §65s§7.\",8:\"\",9:\"§6Source:\",10:\"§aI-V: §7Enchantment Table,\",11:\"§7Spider Eye Collection\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fFishing Weapon\",16:\"§7- §fLongsword\",17:\"§7- §fGauntlet\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{venomous:3},id:\"VENOMOUS;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous III\",3:\"§7Reduces the target's walk speed by\",4:\"§a6% §7and deals §2+0.6% §7of your damage\",5:\"§7per second per hit, stacking globally\",6:\"§7up to §240 §7hits. Lasts §65s§7.\",7:\"\",8:\"§6Sources:\",9:\"§aI-V: §7Enchantment Table\",10:\"§aVI: §7Experiments, Bazaar\",11:\"§aVII: §6Fateful Stinger\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Venomous III",
-      "§7Reduces the target's walk speed",
-      "§7by §a15% §7and deals §2+0.9% §7of",
-      "§7your damage per second per hit,",
-      "§7stacking globally up to §240",
-      "§7hits. Lasts §65s§7.",
+      "§7Reduces the target's walk speed by",
+      "§a6% §7and deals §2+0.6% §7of your damage",
+      "§7per second per hit, stacking globally",
+      "§7up to §240 §7hits. Lasts §65s§7.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Spider Eye Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Experiments, Bazaar",
+      "§aVII: §6Fateful Stinger",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -276818,25 +277049,24 @@
   "VENOMOUS;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{venomous:4},id:\"VENOMOUS;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous IV\",3:\"§7Reduces the target's walk speed\",4:\"§7by §a20% §7and deals §2+1.2% §7of\",5:\"§7your damage per second per hit,\",6:\"§7stacking globally up to §240\",7:\"§7hits. Lasts §65s§7.\",8:\"\",9:\"§6Source:\",10:\"§aI-V: §7Enchantment Table,\",11:\"§7Spider Eye Collection\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fFishing Weapon\",16:\"§7- §fLongsword\",17:\"§7- §fGauntlet\",18:\"\",19:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{venomous:4},id:\"VENOMOUS;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous IV\",3:\"§7Reduces the target's walk speed by\",4:\"§a8% §7and deals §2+0.8% §7of your damage\",5:\"§7per second per hit, stacking globally\",6:\"§7up to §240 §7hits. Lasts §65s§7.\",7:\"\",8:\"§6Sources:\",9:\"§aI-V: §7Enchantment Table\",10:\"§aVI: §7Experiments, Bazaar\",11:\"§aVII: §6Fateful Stinger\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Venomous IV",
-      "§7Reduces the target's walk speed",
-      "§7by §a20% §7and deals §2+1.2% §7of",
-      "§7your damage per second per hit,",
-      "§7stacking globally up to §240",
-      "§7hits. Lasts §65s§7.",
+      "§7Reduces the target's walk speed by",
+      "§a8% §7and deals §2+0.8% §7of your damage",
+      "§7per second per hit, stacking globally",
+      "§7up to §240 §7hits. Lasts §65s§7.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Spider Eye Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Experiments, Bazaar",
+      "§aVII: §6Fateful Stinger",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -276865,25 +277095,24 @@
   "VENOMOUS;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{venomous:5},id:\"VENOMOUS;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous V\",3:\"§7Reduces the target's walk speed\",4:\"§7by §a25% §7and deals §2+1.5% §7of\",5:\"§7your damage per second per hit,\",6:\"§7stacking globally up to §240\",7:\"§7hits. Lasts §65s§7.\",8:\"\",9:\"§6Source:\",10:\"§aI-V: §7Enchantment Table,\",11:\"§7Spider Eye Collection\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fFishing Weapon\",16:\"§7- §fLongsword\",17:\"§7- §fGauntlet\",18:\"\",19:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{venomous:5},id:\"VENOMOUS;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous V\",3:\"§7Reduces the target's walk speed by\",4:\"§a12% §7and deals §2+1.2% §7of your damage\",5:\"§7per second per hit, stacking globally\",6:\"§7up to §240 §7hits. Lasts §65s§7.\",7:\"\",8:\"§6Sources:\",9:\"§aI-V: §7Enchantment Table\",10:\"§aVI: §7Experiments, Bazaar\",11:\"§aVII: §6Fateful Stinger\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Venomous V",
-      "§7Reduces the target's walk speed",
-      "§7by §a25% §7and deals §2+1.5% §7of",
-      "§7your damage per second per hit,",
-      "§7stacking globally up to §240",
-      "§7hits. Lasts §65s§7.",
+      "§7Reduces the target's walk speed by",
+      "§a12% §7and deals §2+1.2% §7of your damage",
+      "§7per second per hit, stacking globally",
+      "§7up to §240 §7hits. Lasts §65s§7.",
       "",
-      "§6Source:",
-      "§aI-V: §7Enchantment Table,",
-      "§7Spider Eye Collection",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Experiments, Bazaar",
+      "§aVII: §6Fateful Stinger",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -276902,24 +277131,24 @@
   "VENOMOUS;6": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§9Enchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{venomous:6},id:\"VENOMOUS;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous VI\",3:\"§7Reduces the target's walk speed\",4:\"§7by §a30% §7and deals §2+1.8% §7of\",5:\"§7your damage per second per hit,\",6:\"§7stacking globally up to \",7:\"§240 §7hits. Lasts §65s§7.\",8:\"\",9:\"§6Source:\",10:\"§aVI: §7Experiments\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fSword\",14:\"§7- §fFishing Weapon\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{venomous:6},id:\"VENOMOUS;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous VI\",3:\"§7Reduces the target's walk speed by\",4:\"§a15% §7and deals §2+1.6% §7of your damage\",5:\"§7per second per hit, stacking globally\",6:\"§7up to §240 §7hits. Lasts §65s§7.\",7:\"\",8:\"§6Sources:\",9:\"§aI-V: §7Enchantment Table\",10:\"§aVI: §7Experiments, Bazaar\",11:\"§aVII: §6Fateful Stinger\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
       "§9Venomous VI",
-      "§7Reduces the target's walk speed",
-      "§7by §a30% §7and deals §2+1.8% §7of",
-      "§7your damage per second per hit,",
-      "§7stacking globally up to ",
-      "§240 §7hits. Lasts §65s§7.",
+      "§7Reduces the target's walk speed by",
+      "§a15% §7and deals §2+1.6% §7of your damage",
+      "§7per second per hit, stacking globally",
+      "§7up to §240 §7hits. Lasts §65s§7.",
       "",
-      "§6Source:",
-      "§aVI: §7Experiments",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Experiments, Bazaar",
+      "§aVII: §6Fateful Stinger",
       "",
       "§6Applied To:",
       "§7- §fSword",
-      "§7- §fFishing Weapon",
       "§7- §fLongsword",
       "§7- §fGauntlet",
       "",
@@ -276929,6 +277158,41 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Venomous"
+    ]
+  },
+  "VENOMOUS;7": {
+    "itemid": "minecraft:enchanted_book",
+    "displayname": "§5Enchanted Book",
+    "nbttag": "{ExtraAttributes:{enchantments:{venomous:7},id:\"VENOMOUS;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Venomous VI\",3:\"§7Reduces the target's walk speed by\",4:\"§a20% §7and deals §2+2% §7of your damage\",5:\"§7per second per hit, stacking globally\",6:\"§7up to §240 §7hits. Lasts §65s§7.\",7:\"\",8:\"§6Sources:\",9:\"§aI-V: §7Enchantment Table\",10:\"§aVI: §7Experiments, Bazaar\",11:\"§aVII: §6Fateful Stinger\",12:\"\",13:\"§6Applied To:\",14:\"§7- §fSword\",15:\"§7- §fLongsword\",16:\"§7- §fGauntlet\",17:\"\",18:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"},ench:[]}",
+    "damage": 0,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§9Venomous VI",
+      "§7Reduces the target's walk speed by",
+      "§a20% §7and deals §2+2% §7of your damage",
+      "§7per second per hit, stacking globally",
+      "§7up to §240 §7hits. Lasts §65s§7.",
+      "",
+      "§6Sources:",
+      "§aI-V: §7Enchantment Table",
+      "§aVI: §7Experiments, Bazaar",
+      "§aVII: §6Fateful Stinger",
+      "",
+      "§6Applied To:",
+      "§7- §fSword",
+      "§7- §fLongsword",
+      "§7- §fGauntlet",
+      "",
+      "§5§lEPIC"
+    ],
+    "internalname": "VENOMOUS;7",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Venomous"
