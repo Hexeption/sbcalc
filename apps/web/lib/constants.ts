@@ -1,3 +1,8 @@
+// Delimiter for building unique tree-path identifiers from internalnames.
+// Internalnames contain "_", ":", ";" and "-" but never control chars, so the
+// unit separator (U+001F) is a safe, collision-free join character.
+export const PATH_DELIM = "";
+
 // Items to always treat as base (never recurse into their recipes)
 export const BASE_MATERIALS = new Set([
   "IRON_INGOT",
