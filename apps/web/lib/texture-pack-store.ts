@@ -47,7 +47,7 @@ const PACK_REGISTRY: Omit<
     name: "Hypixel Official",
     url: "/hypixel.cats",
   },
-  { id: "fursky", name: "FurfSky Reborn", url: "/fursky.cats" },
+  { id: "fursky", name: "FurSky Reborn", url: "/fursky.cats" },
   { id: "packshq", name: "PacksHQ", url: "/packshq.cats" },
 ];
 
@@ -257,7 +257,7 @@ async function indexTextures(
         const h = view.getUint32(20, false);
         if (h > w && w > 0) {
           // Vertical spritesheet — check for .mcmeta
-          const mcmetaPath = fullPath + ".mcmeta";
+          const mcmetaPath = `${fullPath}.mcmeta`;
           const mcmetaText = await extractFileAsText(archive, mcmetaPath);
           if (mcmetaText) {
             try {
