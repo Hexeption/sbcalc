@@ -2724,13 +2724,12 @@
   "AGARIMOO_TONGUE": {
     "itemid": "minecraft:mutton",
     "displayname": "§9Agarimoo Tongue",
-    "nbttag": "{ExtraAttributes:{id:\"AGARIMOO_TONGUE\"},HideFlags:254,ItemModel:\"minecraft:mutton\",display:{Lore:[0:\"§7Agarimoos have five stomachs and\",1:\"§73 tongues. For this specific\",2:\"§7Agarimoo, past tense is more\",3:\"§7accurate.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Agarimoo Tongue\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"AGARIMOO_TONGUE\"},HideFlags:254,ItemModel:\"minecraft:mutton\",display:{Lore:[0:\"§7Agarimoos have five stomachs and 3\",1:\"§7tongues. For this specific Agarimoo,\",2:\"§7past tense is more accurate.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Agarimoo Tongue\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7Agarimoos have five stomachs and",
-      "§73 tongues. For this specific",
-      "§7Agarimoo, past tense is more",
-      "§7accurate.",
+      "§7Agarimoos have five stomachs and 3",
+      "§7tongues. For this specific Agarimoo,",
+      "§7past tense is more accurate.",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -2739,7 +2738,7 @@
     "internalname": "AGARIMOO_TONGUE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Agarimoo_Tongue"
@@ -35045,7 +35044,7 @@
   "BUILDERS_WAND": {
     "itemid": "minecraft:blaze_rod",
     "displayname": "§6Builder's Wand",
-    "nbttag": "{ExtraAttributes:{\"builder's_wand_data\":[0:31B,1:-117B,2:8B,3:0B,4:0B,5:0B,6:0B,7:0B,8:0B,9:-1B,10:-29B,11:98B,12:96B,13:-32B,14:100B,15:96B,16:-52B,17:-28B,18:98B,19:96B,20:96B,21:48B,22:99B,23:32B,24:15B,25:0B,26:0B,27:-4B,28:5B,29:32B,30:57B,31:67B,32:0B,33:0B,34:0B],id:\"BUILDERS_WAND\",soulbound:0B},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/bits_shop/builders_wand\",display:{Lore:[0:\"§6Ability: Grand Architect  §e§lRIGHT CLICK\",1:\"§7Right-Click the face of a block to\",2:\"§7extend all connected block faces.\",3:\"\",4:\"§6Ability: Built-in Storage  §e§lLEFT CLICK\",5:\"§7Opens the wand storage. Blocks will\",6:\"§7be placed from your inventory or\",7:\"§7the wand storage.\",8:\"\",9:\"§6§lLEGENDARY\"],Name:\"§6Builder's Wand\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"BUILDERS_WAND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/bits_shop/builders_wand\",display:{Lore:[0:\"§6Ability: Grand Architect  §e§lRIGHT CLICK\",1:\"§7Right-Click the face of a block to\",2:\"§7extend all connected block faces.\",3:\"\",4:\"§6Ability: Built-in Storage  §e§lLEFT CLICK\",5:\"§7Opens the wand storage. Blocks will\",6:\"§7be placed from your inventory or\",7:\"§7the wand storage.\",8:\"\",9:\"§6§lLEGENDARY\"],Name:\"§6Builder's Wand\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§6Ability: Grand Architect  §e§lRIGHT CLICK",
@@ -35062,7 +35061,7 @@
     "internalname": "BUILDERS_WAND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Builder%27s_Wand"
@@ -56802,7 +56801,7 @@
   "DARK_PEBBLE": {
     "itemid": "minecraft:flint",
     "displayname": "§fDark Pebble",
-    "nbttag": "{ExtraAttributes:{id:\"DARK_PEBBLE\"},HideFlags:254,ItemModel:\"minecraft:flint\",display:{Lore:[0:\"§5§kX§5 Rift-Transferable §5§kX\",1:\"§f§lCOMMON\"],Name:\"§fDark Pebble\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DARK_PEBBLE\",rift_transferred:1B},HideFlags:254,ItemModel:\"minecraft:flint\",display:{Lore:[0:\"§5§kX§5 Rift-Transferable §5§kX\",1:\"§f§lCOMMON\"],Name:\"§fDark Pebble\"}}",
     "damage": 0,
     "lore": [
       "§5§kX§5 Rift-Transferable §5§kX",
@@ -56811,7 +56810,7 @@
     "internalname": "DARK_PEBBLE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dark_Pebble"
@@ -56820,11 +56819,11 @@
   "DARK_QUEENS_SOUL_DROP": {
     "itemid": "minecraft:clay_ball",
     "displayname": "§5Dark Queen's Soul",
-    "nbttag": "{ExtraAttributes:{id:\"DARK_QUEENS_SOUL_DROP\"},HideFlags:254,ItemModel:\"minecraft:clay_ball\",display:{Lore:[0:\"§7A portion of Arachne's Soul\",1:\"§7that can be used to craft items.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Dark Queen's Soul\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DARK_QUEENS_SOUL_DROP\"},HideFlags:254,ItemModel:\"minecraft:clay_ball\",display:{Lore:[0:\"§7A portion of Arachne's Soul that can\",1:\"§7be used to craft items.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Dark Queen's Soul\"}}",
     "damage": 0,
     "lore": [
-      "§7A portion of Arachne's Soul",
-      "§7that can be used to craft items.",
+      "§7A portion of Arachne's Soul that can",
+      "§7be used to craft items.",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -56833,7 +56832,7 @@
     "internalname": "DARK_QUEENS_SOUL_DROP",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dark_Queen%27s_Soul"
@@ -57381,21 +57380,24 @@
   },
   "DEAD_CAT_DETECTOR": {
     "itemid": "minecraft:red_flower",
-    "displayname": "§9Cat Detector",
-    "nbttag": "{ExtraAttributes:{dead_cats_found:0,id:\"DEAD_CAT_DETECTOR\"},HideFlags:254,ItemModel:\"minecraft:pink_tulip\",display:{Lore:[0:\"§6Ability: Meownar §e§lRIGHT CLICK\",1:\"§7Ping the §5Rift §7for cats.\",2:\"§8Mana Cost: §b100\",3:\"§8Cooldown: §a9s\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Cat Detector\"},ench:[]}",
+    "displayname": "§9Dead Cat Detector",
+    "nbttag": "{ExtraAttributes:{dead_cats_found:9,id:\"DEAD_CAT_DETECTOR\"},HideFlags:254,ItemModel:\"minecraft:pink_tulip\",display:{Lore:[0:\"§6Ability: Meownar  §e§lRIGHT CLICK\",1:\"§7Ping the §5Rift §7for parts of\",2:\"§9Montezuma§7's soul.\",3:\"§8Mana Cost: §b100\",4:\"§8Cooldown: §a9s\",5:\"\",6:\"§7Found: §99/9 Soul Pieces\",7:\"\",8:\"§9§lRARE\"],Name:\"§9Dead Cat Detector\"},ench:[]}",
     "damage": 7,
     "lore": [
-      "§6Ability: Meownar §e§lRIGHT CLICK",
-      "§7Ping the §5Rift §7for cats.",
+      "§6Ability: Meownar  §e§lRIGHT CLICK",
+      "§7Ping the §5Rift §7for parts of",
+      "§9Montezuma§7's soul.",
       "§8Mana Cost: §b100",
       "§8Cooldown: §a9s",
+      "",
+      "§7Found: §99/9 Soul Pieces",
       "",
       "§9§lRARE"
     ],
     "internalname": "DEAD_CAT_DETECTOR",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Cat_Detector"
@@ -58710,12 +58712,11 @@
   "DETECTIVE_SCANNER": {
     "itemid": "minecraft:skull",
     "displayname": "§9Detective Scanner",
-    "nbttag": "{ExtraAttributes:{id:\"DETECTIVE_SCANNER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f08d5ecf-d4c8-3033-a6ae-8df95a2ae8db\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxNjYzNjM5MDMzOSwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ1Nzg0OTNiNTY5N2FiMjlhMTk2ZDM1YWNmYTQ0MDU0YjQ0ZjNlNTQ5OGVmYTIyZWY1YjA4NTFiMjQ3N2UwOTAiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Ability: Detect! §e§lRIGHT CLICK\",1:\"§7Investigate a clue or\",2:\"§7abnormality.\",3:\"§8Mana Cost: §b10\",4:\"§8Cooldown: §a4s\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Detective Scanner\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DETECTIVE_SCANNER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f08d5ecf-d4c8-3033-a6ae-8df95a2ae8db\",Properties:{textures:[0:{Name:\"textures\",Signature:\"MW0VPpK848aFJcY1i1BCfJgXkUwAaxst0xNSbhxQVvdDF6AY2WCYxFw3RSg/OisnSf0RffadGOA4MnySSu2GDNSWoyDMqM0lPe8srSYQonr/6Xdlu2hz7BvfSVS5pZ+f+IjhScyWFUbBjN6S+cwF0a0cJnnXp6SEVI2tDo4y9AiFjjvnfQmSynB2HqDJnXu05C52pMtZDs8NZKQB03QncBkOopY3FA/tG/+RmYwDcfA9bYedysGC/D+h0YHmg73jIzEGJW+GfJp2UEJiWOgxy5ZqL2pUKOxIB4YTVbpqJ3Bl3iFpg+vbhAPFZK7VdCg3u0CTwD7Dw6WVGhUAlvTtA8bZi+jqB7x+W4qJfIIk5Ry7BjL43x9SA0Za4CED3n3B0j2hyiZyCjv8kzmtLzA9sJvQqArOQYGxLUCGE+Zkt/qGyNXH0oDDgX+N5kMswlMpcRf+F6vRWbGd9jdjtXH0OSFa/gAXtdSgA//QN0nf9TTv4f11QZXWVwGBONFNeMpnU7kmg2UEEgWDHu+SRIvFUZfw7ZCxxB/NaDYjKi7yboJkzkUpQNnuTNkC6+QLgUHYdncfPozwzGVnYga3CTYhFCBme6bazO1k8hauqd3rIEUVqTg52rtUO8+/ZdH9y3AdTnCjmZM8HGxLnZLcj84zuCGtVqRDdadZZrV2ykRlE1I=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxNjYzNjM5MDMzOSwKICAicHJvZmlsZUlkIiA6ICJjNTBhZmE4YWJlYjk0ZTQ1OTRiZjFiNDI1YTk4MGYwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUd29FQmFlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ1Nzg0OTNiNTY5N2FiMjlhMTk2ZDM1YWNmYTQ0MDU0YjQ0ZjNlNTQ5OGVmYTIyZWY1YjA4NTFiMjQ3N2UwOTAiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Ability: Detect!  §e§lRIGHT CLICK\",1:\"§7Investigate a clue or abnormality.\",2:\"§8Mana Cost: §b10\",3:\"§8Cooldown: §a4s\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Detective Scanner\"}}",
     "damage": 3,
     "lore": [
-      "§6Ability: Detect! §e§lRIGHT CLICK",
-      "§7Investigate a clue or",
-      "§7abnormality.",
+      "§6Ability: Detect!  §e§lRIGHT CLICK",
+      "§7Investigate a clue or abnormality.",
       "§8Mana Cost: §b10",
       "§8Cooldown: §a4s",
       "",
@@ -58724,7 +58725,7 @@
     "internalname": "DETECTIVE_SCANNER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Detective_Scanner"
@@ -59061,7 +59062,7 @@
   "DIAMOND_BOOTS": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§aDiamond Boots",
-    "nbttag": "{ExtraAttributes:{id:\"DIAMOND_BOOTS\",originTag:\"CRAFTING_GRID_COLLECT\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON BOOTS\"],Name:\"§aDiamond Boots\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIAMOND_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON BOOTS\"],Name:\"§aDiamond Boots\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+15",
@@ -59072,7 +59073,7 @@
     "internalname": "DIAMOND_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [],
     "recipe": {
@@ -59656,7 +59657,7 @@
   "DIAMOND_HELMET": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§aDiamond Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"DIAMOND_HELMET\",originTag:\"CRAFTING_GRID_COLLECT\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON HELMET\"],Name:\"§aDiamond Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIAMOND_HELMET\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON HELMET\"],Name:\"§aDiamond Helmet\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+15",
@@ -59667,7 +59668,7 @@
     "internalname": "DIAMOND_HELMET",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [],
     "recipe": {
@@ -63956,11 +63957,11 @@
   "DUNGEON_DISC_1": {
     "itemid": "minecraft:record_stal",
     "displayname": "§5Dungeon Disc",
-    "nbttag": "{ExtraAttributes:{id:\"DUNGEON_DISC_1\"},HideFlags:254,ItemModel:\"minecraft:music_disc_stal\",display:{Lore:[0:\"§7Place this inside a jukebox to\",1:\"§7play a dungeon song!\",2:\"\",3:\"§6Dungeon Drama\",4:\"  §7By ShinkoNet\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Dungeon Disc\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DUNGEON_DISC_1\"},HideFlags:254,ItemModel:\"minecraft:music_disc_stal\",display:{Lore:[0:\"§7Place this inside a jukebox to play a\",1:\"§7dungeon song!\",2:\"\",3:\"§6Dungeon Drama\",4:\"  §7By ShinkoNet\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Dungeon Disc\"}}",
     "damage": 0,
     "lore": [
-      "§7Place this inside a jukebox to",
-      "§7play a dungeon song!",
+      "§7Place this inside a jukebox to play a",
+      "§7dungeon song!",
       "",
       "§6Dungeon Drama",
       "  §7By ShinkoNet",
@@ -63970,7 +63971,7 @@
     "internalname": "DUNGEON_DISC_1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dungeon_Disc"
@@ -70045,19 +70046,18 @@
   "EMPTY_ODONATA_BOTTLE": {
     "itemid": "minecraft:glass_bottle",
     "displayname": "§aEmpty Odonata Bottle",
-    "nbttag": "{ExtraAttributes:{id:\"EMPTY_ODONATA_BOTTLE\"},HideFlags:254,ItemModel:\"minecraft:glass_bottle\",display:{Lore:[0:\"§7Hold this and look at an\",1:\"§9Odonata §7for §a3s §7while\",2:\"§7very close to bottle it.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aEmpty Odonata Bottle\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"EMPTY_ODONATA_BOTTLE\"},HideFlags:254,ItemModel:\"minecraft:glass_bottle\",display:{Lore:[0:\"§7Hold this and look at an §9Odonata §7for\",1:\"§a3s §7while very close to bottle it.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEmpty Odonata Bottle\"}}",
     "damage": 0,
     "lore": [
-      "§7Hold this and look at an",
-      "§9Odonata §7for §a3s §7while",
-      "§7very close to bottle it.",
+      "§7Hold this and look at an §9Odonata §7for",
+      "§a3s §7while very close to bottle it.",
       "",
       "§a§lUNCOMMON"
     ],
     "internalname": "EMPTY_ODONATA_BOTTLE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Empty_Odonata_Bottle"
@@ -82932,15 +82932,14 @@
   "FAMILY_DOUBLOON": {
     "itemid": "minecraft:gold_nugget",
     "displayname": "§9Doubloon of the Family",
-    "nbttag": "{ExtraAttributes:{id:\"FAMILY_DOUBLOON\",rift_transferred:1B},HideFlags:254,ItemModel:\"minecraft:gold_nugget\",display:{Lore:[0:\"§7Just sell it, it's easy coins!\",1:\"\",2:\"§8A precious trinket from a\",3:\"§8powerful member of The Family\",4:\"§8who doesn't really need it\",5:\"§8anymore....\",6:\"\",7:\"§5§kX§5 Rift-Transferable §5§kX\",8:\"§9§lRARE\"],Name:\"§9Doubloon of the Family\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"FAMILY_DOUBLOON\"},HideFlags:254,ItemModel:\"minecraft:gold_nugget\",display:{Lore:[0:\"§7Just sell it, it's easy coins!\",1:\"\",2:\"§8A precious trinket from a powerful\",3:\"§8member of The Family who doesn't\",4:\"§8really need it anymore....\",5:\"\",6:\"§5§kX§5 Rift-Transferable §5§kX\",7:\"§9§lRARE\"],Name:\"§9Doubloon of the Family\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§7Just sell it, it's easy coins!",
       "",
-      "§8A precious trinket from a",
-      "§8powerful member of The Family",
-      "§8who doesn't really need it",
-      "§8anymore....",
+      "§8A precious trinket from a powerful",
+      "§8member of The Family who doesn't",
+      "§8really need it anymore....",
       "",
       "§5§kX§5 Rift-Transferable §5§kX",
       "§9§lRARE"
@@ -82948,7 +82947,7 @@
     "internalname": "FAMILY_DOUBLOON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Doubloon_of_the_Family"
@@ -101802,17 +101801,17 @@
   "GIFT_THE_FISH": {
     "itemid": "minecraft:fish",
     "displayname": "§cGift the Fish",
-    "nbttag": "{ExtraAttributes:{id:\"GIFT_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:pufferfish\",display:{Lore:[0:\"§7I'm empty inside\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cGift the Fish\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"GIFT_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:pufferfish\",display:{Lore:[0:\"§7I'm empty inside.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cGift the Fish\"},ench:[]}",
     "damage": 3,
     "lore": [
-      "§7I'm empty inside",
+      "§7I'm empty inside.",
       "",
       "§c§lSPECIAL"
     ],
     "internalname": "GIFT_THE_FISH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Gift_the_Fish"
@@ -118570,7 +118569,7 @@
   "HOLY_ICE": {
     "itemid": "minecraft:diamond",
     "displayname": "§9Holy Ice",
-    "nbttag": "{ExtraAttributes:{id:\"HOLY_ICE\"},HideFlags:254,ItemModel:\"minecraft:diamond\",display:{Lore:[0:\"§6Ability: Splash Yo Face  §e§lRIGHT CLICK\",1:\"§7For the next §a1.5s§7, reduce §c❤ §7damage taken by\",2:\"§a80%§7.\",3:\"§8Mana Cost: §b20\",4:\"§8Cooldown: §a4s\",5:\"\",6:\"§4☠ §cRequires §5Vampire Slayer 1§c.\",7:\"§9§lRARE\"],Name:\"§9Holy Ice\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"HOLY_ICE\"},HideFlags:254,ItemModel:\"minecraft:diamond\",display:{Lore:[0:\"§6Ability: Splash Yo Face  §e§lRIGHT CLICK\",1:\"§7For the next §a1.5s§7, reduce §c❤ §7damage taken by\",2:\"§a80%§7.\",3:\"§8Mana Cost: §b20\",4:\"§8Cooldown: §a4s\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Holy Ice\"}}",
     "damage": 0,
     "lore": [
       "§6Ability: Splash Yo Face  §e§lRIGHT CLICK",
@@ -118579,13 +118578,12 @@
       "§8Mana Cost: §b20",
       "§8Cooldown: §a4s",
       "",
-      "§4☠ §cRequires §5Vampire Slayer 1§c.",
       "§9§lRARE"
     ],
     "internalname": "HOLY_ICE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Vampire Slayer 1",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Holy_Ice"
@@ -122313,6 +122311,25 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Hypixel_Sandcastle"
     ]
+  },
+  "HYPIXEL_DISCORD_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9HYPIXEL DISCORD (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"HYPIXEL_DISCORD_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f4dcb279-abde-2f4f-aff5-0b3c1f74ae89\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2JhZDdiMWI0NGJjNGRkYzY5YTJlZjBkMGViNGY3YmJkNDZlYTY3OTUyOTQ5ZjhkMWJiMjAxNzdjN2NmMDU5NSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmNGRjYjI3OWFiZGUyZjRmYWZmNTBiM2MxZjc0YWU4OSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzg5NTY3NjQyNjEyfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9HYPIXEL DISCORD (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "HYPIXEL_DISCORD_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
+    "infoType": "",
+    "info": [],
+    "island": "hub",
+    "x": 10,
+    "y": 71,
+    "z": -16
   },
   "IAN_NPC": {
     "itemid": "minecraft:skull",
@@ -130391,10 +130408,10 @@
   "JERRY_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§cJerry Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"JERRY_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9a2c1513-f5b9-3d71-ba79-ae15bd861a0f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"NGqmnEG7KOijoBx8K27I4nVlqqd1BzEi+kRj+ADyzye1tiVIwK5cavLud4DihzMaRdRE8HAtmlk3Fl0AiuFTG2iKZw7ucrrLacVX9NGEim8Zhf2hOXC1oCEviBSmqJqifr1XI5vRhRAN4qXKd1flvflZA5g1uwuARYOeb5g/Ivkqz6kGtw6pNTYMMzQXBwsMcnXDl7Bpjaiyl2kM3UDSZm0X6DpOCOAoFAuUts8FOxkpzZx5bJS5oF5QJE255lbDGG/1jrRQca2MQjCg3JGISuGjHlANkbqILcBV+eHdEEErWO0HvN4rQL1yjm/z4QO5CcZoy4CR6FrYb2BBZ60b5HdEbh7hT2jqx+LhGliyZo2SaJgGx4gRKC0xSxOTOCmhmbZCjOpYfEPied7lptmOgQ7GJAlPxhPn3aL9YdFKCFEm4VqKIyz1P03LUCDiEWgwjevPjParjEs+elKj3r+PZIGF1ste2UAGIYaAogtXy9S21rN8fKTLQeOCG5lZgTllU1sfh546ZAK6ZTPPY2XP0Z89Ibe4n5eBICNGPIR7GV9YT0ds/tDxLLd0hkHOgwmAruAYTxHTPIT+f6yPF2SyYmL2Q9QI7VKGwDeX5bJL/UkzEq/bFm43PB1Q7IHA0fcbN7+hCijVKCDZJPaUJpwHtg0m23UR2pCFuwPtKiG1Ies=\",Value:\"eyJ0aW1lc3RhbXAiOjE1MTIyMTE4MjQ0MzAsInByb2ZpbGVJZCI6ImJkNDgyNzM5NzY3YzQ1ZGNhMWY4YzMzYzQwNTMwOTUyIiwicHJvZmlsZU5hbWUiOiJNSEZfVmlsbGFnZXIiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Intelligence: §a-1\",1:\"\",2:\"§6Ability: Think\",3:\"§7Channel your inner Jerry.\",4:\"\",5:\"§7Obtained from the §dA Honk and Seek\",6:\"§dAdventure §7event during April Fools.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§c§lSPECIAL HELMET\"],Name:\"§cJerry Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"JERRY_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9a2c1513-f5b9-3d71-ba79-ae15bd861a0f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"NGqmnEG7KOijoBx8K27I4nVlqqd1BzEi+kRj+ADyzye1tiVIwK5cavLud4DihzMaRdRE8HAtmlk3Fl0AiuFTG2iKZw7ucrrLacVX9NGEim8Zhf2hOXC1oCEviBSmqJqifr1XI5vRhRAN4qXKd1flvflZA5g1uwuARYOeb5g/Ivkqz6kGtw6pNTYMMzQXBwsMcnXDl7Bpjaiyl2kM3UDSZm0X6DpOCOAoFAuUts8FOxkpzZx5bJS5oF5QJE255lbDGG/1jrRQca2MQjCg3JGISuGjHlANkbqILcBV+eHdEEErWO0HvN4rQL1yjm/z4QO5CcZoy4CR6FrYb2BBZ60b5HdEbh7hT2jqx+LhGliyZo2SaJgGx4gRKC0xSxOTOCmhmbZCjOpYfEPied7lptmOgQ7GJAlPxhPn3aL9YdFKCFEm4VqKIyz1P03LUCDiEWgwjevPjParjEs+elKj3r+PZIGF1ste2UAGIYaAogtXy9S21rN8fKTLQeOCG5lZgTllU1sfh546ZAK6ZTPPY2XP0Z89Ibe4n5eBICNGPIR7GV9YT0ds/tDxLLd0hkHOgwmAruAYTxHTPIT+f6yPF2SyYmL2Q9QI7VKGwDeX5bJL/UkzEq/bFm43PB1Q7IHA0fcbN7+hCijVKCDZJPaUJpwHtg0m23UR2pCFuwPtKiG1Ies=\",Value:\"eyJ0aW1lc3RhbXAiOjE1MTIyMTE4MjQ0MzAsInByb2ZpbGVJZCI6ImJkNDgyNzM5NzY3YzQ1ZGNhMWY4YzMzYzQwNTMwOTUyIiwicHJvZmlsZU5hbWUiOiJNSEZfVmlsbGFnZXIiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyMmQ4ZTc1MWM4ZjJmZDRjODk0MmM0NGJkYjJmNWNhNGQ4YWU4ZTU3NWVkM2ViMzRjMThhODZlOTNiIn19fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Intelligence: §b-1\",1:\"\",2:\"§6Ability: Think\",3:\"§7Channel your inner Jerry.\",4:\"\",5:\"§7Obtained from the §dA Honk and Seek\",6:\"§dAdventure §7event during April Fools.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§c§lSPECIAL HELMET\"],Name:\"§cJerry Helmet\"}}",
     "damage": 3,
     "lore": [
-      "§7Intelligence: §a-1",
+      "§7Intelligence: §b-1",
       "",
       "§6Ability: Think",
       "§7Channel your inner Jerry.",
@@ -130408,7 +130425,7 @@
     "internalname": "JERRY_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Jerry_Helmet"
@@ -140372,19 +140389,18 @@
   "LIL_PAD": {
     "itemid": "minecraft:waterlily",
     "displayname": "§aLil' Pad",
-    "nbttag": "{ExtraAttributes:{id:\"LIL_PAD\"},HideFlags:254,ItemModel:\"minecraft:lily_pad\",display:{Lore:[0:\"§7Can be placed on water,\",1:\"§7especially if you're scared of\",2:\"§7said water.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aLil' Pad\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"LIL_PAD\"},HideFlags:254,ItemModel:\"minecraft:lily_pad\",display:{Lore:[0:\"§7Can be placed on water, especially if\",1:\"§7you're scared of said water.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aLil' Pad\"}}",
     "damage": 0,
     "lore": [
-      "§7Can be placed on water,",
-      "§7especially if you're scared of",
-      "§7said water.",
+      "§7Can be placed on water, especially if",
+      "§7you're scared of said water.",
       "",
       "§a§lUNCOMMON"
     ],
     "internalname": "LIL_PAD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Lil%27_Pad"
@@ -144067,9 +144083,11 @@
   "LUSH_BERBERIS": {
     "itemid": "minecraft:double_plant",
     "displayname": "§aLush Berberis",
-    "nbttag": "{ExtraAttributes:{id:\"LUSH_BERBERIS\"},HideFlags:254,ItemModel:\"minecraft:large_fern\",display:{Lore:[0:\"§7A wonderful plant!\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aLush Berberis\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"LUSH_BERBERIS\"},HideFlags:254,ItemModel:\"minecraft:large_fern\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A wonderful plant!\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aLush Berberis\"}}",
     "damage": 3,
     "lore": [
+      "§8Collection Item",
+      "",
       "§7A wonderful plant!",
       "",
       "§eRight-click to view recipes!",
@@ -144079,7 +144097,7 @@
     "internalname": "LUSH_BERBERIS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Lush_Berberis"
@@ -191709,15 +191727,17 @@
   "POISONOUS_POTATO": {
     "itemid": "minecraft:poisonous_potato",
     "displayname": "§fPoisonous Potato",
-    "nbttag": "{ExtraAttributes:{id:\"POISONOUS_POTATO\"},HideFlags:254,ItemModel:\"minecraft:poisonous_potato\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fPoisonous Potato\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"POISONOUS_POTATO\"},HideFlags:254,ItemModel:\"minecraft:poisonous_potato\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§f§lCOMMON\"],Name:\"§fPoisonous Potato\"}}",
     "damage": 0,
     "lore": [
+      "§8Brewing Ingredient",
+      "",
       "§f§lCOMMON"
     ],
     "internalname": "POISONOUS_POTATO",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [],
     "vanilla": true
@@ -204040,15 +204060,18 @@
   "RABBIT": {
     "itemid": "minecraft:rabbit",
     "displayname": "§fRaw Rabbit",
-    "nbttag": "{ExtraAttributes:{id:\"RABBIT\"},HideFlags:254,ItemModel:\"minecraft:rabbit\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fRaw Rabbit\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RABBIT\"},HideFlags:254,ItemModel:\"minecraft:rabbit\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"§8Collection Item\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fRaw Rabbit\"}}",
     "damage": 0,
     "lore": [
+      "§8Brewing Ingredient",
+      "§8Collection Item",
+      "",
       "§f§lCOMMON"
     ],
     "internalname": "RABBIT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [],
     "vanilla": true
@@ -207203,7 +207226,7 @@
   "RECORD_4": {
     "itemid": "minecraft:record_chirp",
     "displayname": "§aMusic Disc - Chirp",
-    "nbttag": "{ExtraAttributes:{id:\"RECORD_4\"},HideFlags:254,ItemModel:\"minecraft:music_disc_chirp\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Chirp\",color:10511680}}",
+    "nbttag": "{ExtraAttributes:{id:\"RECORD_4\"},HideFlags:254,ItemModel:\"minecraft:music_disc_chirp\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aMusic Disc - Chirp\"}}",
     "damage": 0,
     "lore": [
       "§a§lUNCOMMON"
@@ -207211,7 +207234,7 @@
     "internalname": "RECORD_4",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [],
     "vanilla": true
@@ -226539,22 +226562,21 @@
   "SILKWIRE_STICK": {
     "itemid": "minecraft:stick",
     "displayname": "§9Silkwire Stick",
-    "nbttag": "{ExtraAttributes:{id:\"SILKWIRE_STICK\"},HideFlags:254,ItemModel:\"minecraft:stick\",display:{Lore:[0:\"§7Click on a §eSilkwire §7to\",1:\"§7attach to it, pretending to\",2:\"§bfly§7.\",3:\"\",4:\"§7Once attached, §e§lCLICK §7to\",5:\"§7hitch forward!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Silkwire Stick\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"SILKWIRE_STICK\"},HideFlags:254,ItemModel:\"minecraft:stick\",display:{Lore:[0:\"§7Click on a §eSilkwire §7to attach to it,\",1:\"§7pretending to §bfly§7.\",2:\"\",3:\"§7Once attached, §e§lCLICK §7to hitch\",4:\"§7forward!\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Silkwire Stick\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7Click on a §eSilkwire §7to",
-      "§7attach to it, pretending to",
-      "§bfly§7.",
+      "§7Click on a §eSilkwire §7to attach to it,",
+      "§7pretending to §bfly§7.",
       "",
-      "§7Once attached, §e§lCLICK §7to",
-      "§7hitch forward!",
+      "§7Once attached, §e§lCLICK §7to hitch",
+      "§7forward!",
       "",
       "§9§lRARE"
     ],
     "internalname": "SILKWIRE_STICK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Silkwire_Stick"
@@ -227359,7 +227381,7 @@
   "SINFUL_DICE": {
     "itemid": "minecraft:skull",
     "displayname": "§5Sinful Dice",
-    "nbttag": "{ExtraAttributes:{id:\"SINFUL_DICE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f31fac90-88be-3ee8-b480-1d517728f3d0\",Properties:{textures:[0:{Name:\"textures\",Signature:\"j4tsw5Uad+NfWaNYaeLJknZj+uH4FL2hkWCdYviapvvaYUe5HaZK3IZVpLp200D5mlw+9BT5cwFG/CzPVocBYt2WyCfUN53oqx17U95hvt5+ps62eYuLhefmHor+b+AI4cGbFman1EKGClhsu0Y+/Q/MSMog+DxVAHY5C3mNFQ2UqmrlZfN7JphRz6v0gjLMO+ksM/F9bz8Jp0GZgYEvM8cdtRVcrYLtf/w4jTNsjqkuGI1YrTJqUI/F44cdXqNq+wqM+EppPNkKLIE6WfUXIYc7hpfd7t/I/N+ObsX4+vwY3yVKNwaLnPKwiMUpLVld4xKluy6XT+r8bDBLXc6I2Q3gFIytSURl4lu5UIhzN7SEIWI8sUZUudpn62jzWW4iSj5jHjR/3gB0r5gh2H7oW+e0VqqRXGJIeX5Vsw/5juEIv/SlLsPTTIcF6yEr6avn7UzDXoW+IrY0ED3fV4F46OTopqa9cMmzIL9vQW420LshFArqYHHXycj5Sx1wszHgQwh6bvMuum2/W8e4eFJCzjOC3Z4ugvVHVyCsKwxWO7wS4R50ByH3/u4d3SnuR4ppPYHXXpVsSm3d2GT4iw9wOARe8uBRvGxc+gAtUwkW+f5s0SyPgOxXv8RPPsPyLfdrVEeVkMR+8Enq4+hFNPN5R1bHbzLsiS8PPuhtUOIlGGs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyNjQ2Mjg0MjE2NiwKICAicHJvZmlsZUlkIiA6ICJmNWQwYjFhZTQxNmU0YTE5ODEyMTRmZGQzMWU3MzA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXRjaFRoZVdhdmUxMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMDRlMjNhODViNjcyODg5NjE3MjIzZmUxODZhYmFjNzk3OTI2ODg0MTIyMWU4ZmNiODQ1NTRiNWQzODYwOWViIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Snake eyes!\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Sinful Dice\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SINFUL_DICE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dd6ab7fc-9cbb-372e-a1fe-facea3b6b51d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jXMZ7PCVTEZ9tORqRn1HN3Jn1PtBbQhebhd38Dj0S74vfHB61TYqO3H3pq/5Zf4oIFpPW9xj8oUf/y2OATo5dEaOZogXeq1F9ueEvgFDFGOVpzjOoOV+Sex2X2mkT0T8qhyx8fvbrBDAJebjhcWvGxOzIp4B4Nlg4Lx/HEXRpP3U8xOE8P9pAvdoWL3R6cnhAfGGXMFRid5KXJ926VJIGAsGeEVuy1jpr1iYEMG2N22EWqyS9NBtdZ8XS36ea+zwfFASSgxjRgHhpD2XVjqGbcBKZKpfRcMD9Wi/92bSVx4mWqIPBbsuKpwNVMGlTeQnWCHiN75uMIQR3QZCUdGdSK7f9RWutI/amnTbTvjYmqQ4n4laZbDCi6P5mmMgtZ0aJk5PLJKf75iPyMl1ZGZ/2peYTXknBt9G/9boygnvDq/ugN9r56DaIC5vr6gHVVzIVXSEOaGJCSvc1zJ6ADc/oJlP6/A9e6h/sjnAPGhQZRQBi8l1829TUNqEy9ptdt+BUBuinuXIR8e6nUF/ChhUCe6hXCKT/679Ok+BdqdKI44gkX6UsSL9ehGnKCWYVzEaV4+7kA9em8OQZHViHlV/0dyBwpLol5wIf0/sUcujovl+NwvTfOWiNFRFiVpO8SfegyEENVHGkW5a4UWfI2WpDuHx6iPWw3wVY/r6rZ3Lf3Q=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyNjQ2MjgwNTg4MywKICAicHJvZmlsZUlkIiA6ICJkYmNlZjMyZjI5ZDc0Y2UzOTUzOWMwYjBhMTE1YjZiZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYW1waXJlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViN2E4ODRmZWE3OTJiODNiMjdiMDY0YmU3ZTQzNjAyMzY4MWNmZTQyNTEwZDIyOTdkNDhkZmRkNzVmZmIyOTYiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Snake eyes!\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Sinful Dice\"}}",
     "damage": 3,
     "lore": [
       "§8Snake eyes!",
@@ -227371,7 +227393,7 @@
     "internalname": "SINFUL_DICE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sinful_Dice"
@@ -236355,17 +236377,17 @@
   "SNOWFLAKE_THE_FISH": {
     "itemid": "minecraft:cooked_fish",
     "displayname": "§cFlake the Fish",
-    "nbttag": "{ExtraAttributes:{id:\"SNOWFLAKE_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:cooked_salmon\",display:{Lore:[0:\"§7I'm a special snowflake\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cFlake the Fish\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"SNOWFLAKE_THE_FISH\",originTag:\"UNKNOWN\"},HideFlags:254,ItemModel:\"minecraft:cooked_salmon\",display:{Lore:[0:\"§7I'm a special snowflake.\",1:\"\",2:\"§c§lSPECIAL\"],Name:\"§cFlake the Fish\"},ench:[]}",
     "damage": 1,
     "lore": [
-      "§7I'm a special snowflake",
+      "§7I'm a special snowflake.",
       "",
       "§c§lSPECIAL"
     ],
     "internalname": "SNOWFLAKE_THE_FISH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Flake_the_Fish"
@@ -280342,22 +280364,22 @@
   "WAND_OF_WARDING": {
     "itemid": "minecraft:diamond",
     "displayname": "§bWarding Diamathame",
-    "nbttag": "{ExtraAttributes:{id:\"WAND_OF_WARDING\"},HideFlags:254,ItemModel:\"minecraft:diamond\",display:{Lore:[0:\"§7A powerful artifact ingrained\",1:\"§7with protective properties.\",2:\"\",3:\"§6Ability: Glyph Incantation\",4:\"§7Activate §5Glyphs §7to imbue\",5:\"§7them with a §9Warding Spell§7.\",6:\"\",7:\"§9§lRARE\"],Name:\"§bWarding Diamathame\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"WAND_OF_WARDING\"},HideFlags:254,ItemModel:\"minecraft:diamond\",display:{Lore:[0:\"§7A powerful artifact ingrained with\",1:\"§7protective properties.\",2:\"\",3:\"§6Ability: Glyph Incantation \",4:\"§7Activate §5Glyphs §7to imbue them with a\",5:\"§9Warding Spell§7.\",6:\"\",7:\"§9§lRARE\"],Name:\"§bWarding Diamathame\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7A powerful artifact ingrained",
-      "§7with protective properties.",
+      "§7A powerful artifact ingrained with",
+      "§7protective properties.",
       "",
-      "§6Ability: Glyph Incantation",
-      "§7Activate §5Glyphs §7to imbue",
-      "§7them with a §9Warding Spell§7.",
+      "§6Ability: Glyph Incantation ",
+      "§7Activate §5Glyphs §7to imbue them with a",
+      "§9Warding Spell§7.",
       "",
       "§9§lRARE"
     ],
     "internalname": "WAND_OF_WARDING",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Warding_Diamathame"
@@ -283638,11 +283660,11 @@
   "WILSON_ENGINEERING_PLANS": {
     "itemid": "minecraft:paper",
     "displayname": "§6Wilson's Engineering Plans",
-    "nbttag": "{ExtraAttributes:{id:\"WILSON_ENGINEERING_PLANS\"},HideFlags:254,ItemModel:\"minecraft:paper\",display:{Lore:[0:\"§7Drops very rarely from the\",1:\"§7Inferno Demonlord.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§6§lLEGENDARY\"],Name:\"§6Wilson's Engineering Plans\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"WILSON_ENGINEERING_PLANS\"},HideFlags:254,ItemModel:\"minecraft:paper\",display:{Lore:[0:\"§7Drops very rarely from the Inferno\",1:\"§7Demonlord.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§6§lLEGENDARY\"],Name:\"§6Wilson's Engineering Plans\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7Drops very rarely from the",
-      "§7Inferno Demonlord.",
+      "§7Drops very rarely from the Inferno",
+      "§7Demonlord.",
       "",
       "§eRight-click to view recipes!",
       "",
@@ -283651,7 +283673,7 @@
     "internalname": "WILSON_ENGINEERING_PLANS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wilson%27s_Engineering_Plans"
@@ -287254,7 +287276,7 @@
   "WOOD_SPADE": {
     "itemid": "minecraft:wooden_shovel",
     "displayname": "§fWooden Shovel",
-    "nbttag": "{ExtraAttributes:{id:\"WOOD_SPADE\",originTag:\"CRAFTING_GRID_SHIFT\"},HideFlags:254,ItemModel:\"minecraft:wooden_shovel\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fWooden Shovel\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WOOD_SPADE\"},HideFlags:254,ItemModel:\"minecraft:wooden_shovel\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fWooden Shovel\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+15",
@@ -287264,7 +287286,7 @@
     "internalname": "WOOD_SPADE",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wooden_Shovel"
@@ -287485,7 +287507,7 @@
   "WOOD_SWORD": {
     "itemid": "minecraft:wooden_sword",
     "displayname": "§fWooden Sword",
-    "nbttag": "{ExtraAttributes:{id:\"WOOD_SWORD\"},HideFlags:254,ItemModel:\"minecraft:wooden_sword\",display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON SWORD\"],Name:\"§fWooden Sword\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WOOD_SWORD\"},HideFlags:254,ItemModel:\"minecraft:wooden_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON SWORD\"],Name:\"§fWooden Sword\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+20",
@@ -287496,7 +287518,7 @@
     "internalname": "WOOD_SWORD",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [],
     "vanilla": true,
@@ -292702,10 +292724,10 @@
   "ZOOP_THE_FISH": {
     "itemid": "minecraft:fish",
     "displayname": "§cZoop the Fish",
-    "nbttag": "{ExtraAttributes:{id:\"ZOOP_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:salmon\",display:{Lore:[0:\"§7Keep me in here please.\",1:\"\",2:\"§5§kX§5 Rift-Transferable §5§kX\",3:\"§c§lSPECIAL\"],Name:\"§cZoop the Fish\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ZOOP_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:salmon\",display:{Lore:[0:\"§7Send me back please.\",1:\"\",2:\"§5§kX§5 Rift-Transferable §5§kX\",3:\"§c§lSPECIAL\"],Name:\"§cZoop the Fish\"},ench:[]}",
     "damage": 1,
     "lore": [
-      "§7Keep me in here please.",
+      "§7Send me back please.",
       "",
       "§5§kX§5 Rift-Transferable §5§kX",
       "§c§lSPECIAL"
@@ -292713,7 +292735,7 @@
     "internalname": "ZOOP_THE_FISH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Zoop_the_Fish"

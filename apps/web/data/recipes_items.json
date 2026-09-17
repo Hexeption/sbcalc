@@ -18490,7 +18490,7 @@
   "DIAMOND_BOOTS": {
     "itemid": "minecraft:diamond_boots",
     "displayname": "§aDiamond Boots",
-    "nbttag": "{ExtraAttributes:{id:\"DIAMOND_BOOTS\",originTag:\"CRAFTING_GRID_COLLECT\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON BOOTS\"],Name:\"§aDiamond Boots\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIAMOND_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:diamond_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON BOOTS\"],Name:\"§aDiamond Boots\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+15",
@@ -18501,7 +18501,7 @@
     "internalname": "DIAMOND_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [],
     "recipe": {
@@ -18979,7 +18979,7 @@
   "DIAMOND_HELMET": {
     "itemid": "minecraft:diamond_helmet",
     "displayname": "§aDiamond Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"DIAMOND_HELMET\",originTag:\"CRAFTING_GRID_COLLECT\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON HELMET\"],Name:\"§aDiamond Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIAMOND_HELMET\"},HideFlags:254,ItemModel:\"minecraft:diamond_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+15\",1:\"\",2:\"§8This item can be reforged!\",3:\"§a§lUNCOMMON HELMET\"],Name:\"§aDiamond Helmet\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+15",
@@ -18990,7 +18990,7 @@
     "internalname": "DIAMOND_HELMET",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
     "infoType": "WIKI_URL",
     "info": [],
     "recipe": {
@@ -42050,7 +42050,7 @@
   "HOLY_ICE": {
     "itemid": "minecraft:diamond",
     "displayname": "§9Holy Ice",
-    "nbttag": "{ExtraAttributes:{id:\"HOLY_ICE\"},HideFlags:254,ItemModel:\"minecraft:diamond\",display:{Lore:[0:\"§6Ability: Splash Yo Face  §e§lRIGHT CLICK\",1:\"§7For the next §a1.5s§7, reduce §c❤ §7damage taken by\",2:\"§a80%§7.\",3:\"§8Mana Cost: §b20\",4:\"§8Cooldown: §a4s\",5:\"\",6:\"§4☠ §cRequires §5Vampire Slayer 1§c.\",7:\"§9§lRARE\"],Name:\"§9Holy Ice\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"HOLY_ICE\"},HideFlags:254,ItemModel:\"minecraft:diamond\",display:{Lore:[0:\"§6Ability: Splash Yo Face  §e§lRIGHT CLICK\",1:\"§7For the next §a1.5s§7, reduce §c❤ §7damage taken by\",2:\"§a80%§7.\",3:\"§8Mana Cost: §b20\",4:\"§8Cooldown: §a4s\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Holy Ice\"}}",
     "damage": 0,
     "lore": [
       "§6Ability: Splash Yo Face  §e§lRIGHT CLICK",
@@ -42059,13 +42059,12 @@
       "§8Mana Cost: §b20",
       "§8Cooldown: §a4s",
       "",
-      "§4☠ §cRequires §5Vampire Slayer 1§c.",
       "§9§lRARE"
     ],
     "internalname": "HOLY_ICE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Vampire Slayer 1",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Holy_Ice"
@@ -98299,7 +98298,7 @@
   "WOOD_SPADE": {
     "itemid": "minecraft:wooden_shovel",
     "displayname": "§fWooden Shovel",
-    "nbttag": "{ExtraAttributes:{id:\"WOOD_SPADE\",originTag:\"CRAFTING_GRID_SHIFT\"},HideFlags:254,ItemModel:\"minecraft:wooden_shovel\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fWooden Shovel\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WOOD_SPADE\"},HideFlags:254,ItemModel:\"minecraft:wooden_shovel\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+15\",1:\"\",2:\"§f§lCOMMON SHOVEL\"],Name:\"§fWooden Shovel\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+15",
@@ -98309,7 +98308,7 @@
     "internalname": "WOOD_SPADE",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wooden_Shovel"
@@ -98530,7 +98529,7 @@
   "WOOD_SWORD": {
     "itemid": "minecraft:wooden_sword",
     "displayname": "§fWooden Sword",
-    "nbttag": "{ExtraAttributes:{id:\"WOOD_SWORD\"},HideFlags:254,ItemModel:\"minecraft:wooden_sword\",display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON SWORD\"],Name:\"§fWooden Sword\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WOOD_SWORD\"},HideFlags:254,ItemModel:\"minecraft:wooden_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON SWORD\"],Name:\"§fWooden Sword\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+20",
@@ -98541,7 +98540,7 @@
     "internalname": "WOOD_SWORD",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [],
     "vanilla": true,
