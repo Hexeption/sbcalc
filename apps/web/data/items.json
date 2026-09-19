@@ -67940,7 +67940,7 @@
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_BIT:12000"
+          "SKYBLOCK_BIT:15000"
         ],
         "result": "BITS_TALISMAN"
       },
