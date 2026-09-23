@@ -273938,7 +273938,7 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Wisdom"
+      "https://hypixelskyblock.minecraft.wiki/w/Wisdom_(Enchantment)"
     ]
   },
   "ULTIMATE_WISDOM;2": {
@@ -273972,9 +273972,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Wisdom"
-    ],
-    "parent": "ULTIMATE_WISDOM;1"
+      "https://hypixelskyblock.minecraft.wiki/w/Wisdom_(Enchantment)"
+    ]
   },
   "ULTIMATE_WISDOM;3": {
     "itemid": "minecraft:enchanted_book",
@@ -274007,9 +274006,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Wisdom"
-    ],
-    "parent": "ULTIMATE_WISDOM;1"
+      "https://hypixelskyblock.minecraft.wiki/w/Wisdom_(Enchantment)"
+    ]
   },
   "ULTIMATE_WISDOM;4": {
     "itemid": "minecraft:enchanted_book",
@@ -274042,9 +274040,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Wisdom"
-    ],
-    "parent": "ULTIMATE_WISDOM;1"
+      "https://hypixelskyblock.minecraft.wiki/w/Wisdom_(Enchantment)"
+    ]
   },
   "ULTIMATE_WISDOM;5": {
     "itemid": "minecraft:enchanted_book",
@@ -274077,9 +274074,8 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Wisdom"
-    ],
-    "parent": "ULTIMATE_WISDOM;1"
+      "https://hypixelskyblock.minecraft.wiki/w/Wisdom_(Enchantment)"
+    ]
   },
   "ULTIMATE_WISE;1": {
     "itemid": "minecraft:enchanted_book",
