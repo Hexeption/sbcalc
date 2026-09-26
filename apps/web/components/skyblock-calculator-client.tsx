@@ -1,56 +1,38 @@
 "use client";
 
-import { Clipboard, Heart, Package, Search } from "lucide-react";
+import { Button } from "@workspace/ui/components/button";
+import { Clipboard, Heart, RotateCcw, Search } from "lucide-react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { BaseRequirementsList } from "@/components/base-requirements-list";
-import { CombinedMaterialsList } from "@/components/combined-materials-list";
-import { CombinedSummaryCards } from "@/components/combined-summary-cards";
-import { CraftingTreeMulti } from "@/components/crafting-tree-multi";
 import { CraftingTreeSingle } from "@/components/crafting-tree-single";
 import { HeaderBar } from "@/components/header-bar";
-import { ModeSwitcher } from "@/components/mode-switcher";
-import { MultiItemPanel } from "@/components/multi-item-panel";
+import { InventoryPanel } from "@/components/inventory-panel";
 import { RecipeSummaryCards } from "@/components/recipe-summary-cards";
 import { SingleItemPanel } from "@/components/single-item-panel";
-import { useCalculatorResults } from "@/hooks/use-calculator-results";
 import { useRecipeTreeExpansion } from "@/hooks/use-recipe-tree-expansion";
 import { useSharedRecipe } from "@/hooks/use-shared-recipe";
 import { useSharedRecipeLoader } from "@/hooks/use-shared-recipe-loader";
 import { useCalculatorStore } from "@/lib/calculator-store";
-import { BASE_MATERIALS } from "@/lib/constants";
+import { getNetTree, summarizeNetTree } from "@/lib/net-requirements";
 import { useRecipeData } from "@/lib/recipe-data-context";
-import {
-  aggregateIngredients,
-  getIngredientsFromRecipe,
-  getRecipe,
-} from "@/lib/recipe-utils";
 import { getDisplayName } from "@/lib/utils";
 
 export function SkyblockCalculatorClient() {
   const {
-    mode,
-    setMode,
     selectedItem,
     setSelectedItem,
     multiplier,
     setMultiplier,
     searchValue,
     setSearchValue,
-    itemList,
-    setItemList,
-    multiTreeSelectedItem,
-    setMultiTreeSelectedItem,
-    materialDepth,
-    setMaterialDepth,
     settings,
     updateSettings,
-    handleModeSwitch,
     getRecipeState,
     hydrate,
-    todoMode,
-    checkedItems,
-    toggleTodoMode,
-    toggleChecked,
+    inventory,
+    setInventoryItem,
+    addToInventory,
+    clearInventory,
   } = useCalculatorStore();
 
   const { recipes, itemsData } = useRecipeData();
@@ -62,18 +44,16 @@ export function SkyblockCalculatorClient() {
 
   const loaderActions = useMemo(
     () => ({
-      setMode,
       setSelectedItem,
       setMultiplier,
-      setItemList,
       updateSettings,
     }),
-    [setMode, setSelectedItem, setMultiplier, setItemList, updateSettings],
+    [setSelectedItem, setMultiplier, updateSettings],
   );
   useSharedRecipeLoader(sharedState, loaderActions);
 
   useEffect(() => {
-    if (selectedItem && mode === "single") {
+    if (selectedItem) {
       const item = recipes[selectedItem];
       if (item) {
         const displayNameColored = getDisplayName(
@@ -84,7 +64,7 @@ export function SkyblockCalculatorClient() {
         setSearchValue(displayNameColored.replace(/§./g, ""));
       }
     }
-  }, [selectedItem, mode, recipes, itemsData, setSearchValue]);
+  }, [selectedItem, recipes, itemsData, setSearchValue]);
 
   const {
     expandedItems,
@@ -92,13 +72,6 @@ export function SkyblockCalculatorClient() {
     handleExpandAll,
     handleCollapseAll,
   } = useRecipeTreeExpansion(selectedItem);
-
-  const {
-    expandedItems: multiExpandedItems,
-    handleToggleExpanded: handleMultiToggleExpanded,
-    handleExpandAll: handleMultiExpandAll,
-    handleCollapseAll: handleMultiCollapseAll,
-  } = useRecipeTreeExpansion(multiTreeSelectedItem);
 
   const forgeSettings = useMemo(
     () => ({
@@ -109,52 +82,50 @@ export function SkyblockCalculatorClient() {
     [settings.forgeSlots, settings.useMultipleSlots, settings.quickForgeLevel],
   );
 
-  const { baseRequirements, totalMaterials, totalForgeTime } =
-    useCalculatorResults(
-      mode,
-      selectedItem,
-      multiplier,
-      itemList,
-      forgeSettings,
-      materialDepth,
-      todoMode ? checkedItems : undefined,
-    );
-
-  const hasResults =
-    (mode === "single" && selectedItem) ||
-    (mode === "multi" && itemList.length > 0);
-
-  const handleToggleChecked = useCallback(
-    (itemName: string) => {
-      const getDescendants = (
-        name: string,
-        visited: Set<string> = new Set(),
-      ): string[] => {
-        if (visited.has(name)) return [];
-        visited.add(name);
-
-        const entry = recipes[name];
-        if (!entry) return [];
-
-        const recipe = getRecipe(entry);
-        if (!recipe) return [];
-
-        const ingredients = getIngredientsFromRecipe(recipe);
-        if (ingredients.length === 0 || BASE_MATERIALS.has(name)) return [];
-
-        const counts = aggregateIngredients(ingredients);
-        const result: string[] = [];
-        for (const child of Object.keys(counts)) {
-          result.push(child);
-          result.push(...getDescendants(child, visited));
-        }
-        return result;
-      };
-
-      toggleChecked(itemName, getDescendants(itemName));
-    },
-    [recipes, toggleChecked],
+  // The net requirements tree (after deducting inventory) drives the tree, the
+  // materials list, and the summary headline.
+  const netTree = useMemo(
+    () =>
+      selectedItem
+        ? getNetTree(
+            selectedItem,
+            recipes,
+            multiplier,
+            inventory,
+            forgeSettings,
+            itemsData,
+          )
+        : null,
+    [selectedItem, recipes, multiplier, inventory, forgeSettings, itemsData],
   );
+
+  const { listItems, totalMaterials, totalForgeTime } = useMemo(() => {
+    if (!netTree)
+      return { listItems: [], totalMaterials: 0, totalForgeTime: 0 };
+    const summary = summarizeNetTree(netTree);
+    const items = Array.from(summary.byName, ([name, v]) => ({
+      name,
+      net: v.net,
+    })).sort((a, b) => b.net - a.net);
+    return {
+      listItems: items,
+      totalMaterials: summary.baseMaterialTypes,
+      totalForgeTime: summary.totalForgeSeconds,
+    };
+  }, [netTree]);
+
+  const handleAddToInventory = useCallback(
+    (name: string, qty: number) => addToInventory(name, Math.max(1, qty)),
+    [addToInventory],
+  );
+
+  // Reset the selection and clear the inventory.
+  const handleReset = useCallback(() => {
+    clearInventory();
+    setSelectedItem(null);
+    setMultiplier(1);
+    setSearchValue("");
+  }, [clearInventory, setSelectedItem, setMultiplier, setSearchValue]);
 
   const [sidebarWidth, setSidebarWidth] = useState(340);
   const isResizing = useRef(false);
@@ -198,40 +169,19 @@ export function SkyblockCalculatorClient() {
           style={{ "--sidebar-w": `${sidebarWidth}px` } as React.CSSProperties}
         >
           <div className="p-4 space-y-4">
-            <ModeSwitcher mode={mode} onSwitch={handleModeSwitch} />
-
-            {mode === "single" && (
-              <SingleItemPanel
-                selectedItem={selectedItem}
-                searchValue={searchValue}
-                multiplier={multiplier}
-                onSearchChange={setSearchValue}
-                onSelectItem={setSelectedItem}
-                onMultiplierChange={setMultiplier}
-                onClear={() => {
-                  setSelectedItem(null);
-                  setMultiplier(1);
-                  setSearchValue("");
-                }}
-                recipeState={{
-                  recipes: getRecipeState(),
-                  forgeSettings,
-                }}
-              />
-            )}
-
-            {mode === "multi" && (
-              <MultiItemPanel
-                itemList={itemList}
-                onItemsChange={setItemList}
-                selectedItemId={multiTreeSelectedItem}
-                onItemClick={setMultiTreeSelectedItem}
-                recipeState={{
-                  recipes: getRecipeState(),
-                  forgeSettings,
-                }}
-              />
-            )}
+            <SingleItemPanel
+              selectedItem={selectedItem}
+              searchValue={searchValue}
+              multiplier={multiplier}
+              onSearchChange={setSearchValue}
+              onSelectItem={setSelectedItem}
+              onMultiplierChange={setMultiplier}
+              onClear={handleReset}
+              recipeState={{
+                recipes: getRecipeState(),
+                forgeSettings,
+              }}
+            />
           </div>
         </aside>
 
@@ -245,105 +195,74 @@ export function SkyblockCalculatorClient() {
 
         {/* Main content */}
         <main className="flex-1 min-w-0 overflow-y-auto overflow-x-hidden">
-          {hasResults ? (
+          {selectedItem && netTree ? (
             <div className="p-4 md:p-6 space-y-5">
-              {mode === "single" && selectedItem ? (
-                <RecipeSummaryCards
-                  selectedItem={selectedItem}
-                  multiplier={multiplier}
-                  totalMaterials={totalMaterials}
-                  totalForgeTime={totalForgeTime}
-                  forgeSlots={settings.forgeSlots}
-                  useMultipleSlots={settings.useMultipleSlots}
-                />
-              ) : (
-                <CombinedSummaryCards
-                  itemListCount={itemList.length}
-                  totalItemQuantity={itemList.reduce(
-                    (sum, item) => sum + item.quantity,
-                    0,
-                  )}
-                  totalMaterials={totalMaterials}
-                  totalForgeTimeSeconds={totalForgeTime}
-                  forgeSlots={settings.forgeSlots}
-                />
-              )}
+              <RecipeSummaryCards
+                selectedItem={selectedItem}
+                multiplier={multiplier}
+                totalMaterials={totalMaterials}
+                totalForgeTime={totalForgeTime}
+                forgeSlots={settings.forgeSlots}
+                useMultipleSlots={settings.useMultipleSlots}
+              />
 
-              {mode === "single" && selectedItem && (
+              {/* Inventory on top of the tree */}
+              <InventoryPanel
+                inventory={inventory}
+                onAddItem={(name) => addToInventory(name, 1)}
+                onSetItem={setInventoryItem}
+                onClear={clearInventory}
+              />
+
+              {/* Tree (left) and remaining-materials list (right) */}
+              <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 items-start">
                 <CraftingTreeSingle
-                  selectedItem={selectedItem}
+                  node={netTree}
                   expandedItems={expandedItems}
                   onExpandAll={handleExpandAll}
                   onCollapseAll={handleCollapseAll}
                   onToggleExpanded={handleToggleExpanded}
-                  multiplier={multiplier}
                   forgeSettings={forgeSettings}
-                  todoMode={todoMode}
-                  onToggleTodoMode={toggleTodoMode}
-                  checkedItems={checkedItems}
-                  onToggleChecked={handleToggleChecked}
+                  onAddToInventory={handleAddToInventory}
                 />
-              )}
 
-              {mode === "multi" && multiTreeSelectedItem && (
-                <CraftingTreeMulti
-                  selectedItemId={multiTreeSelectedItem}
-                  itemList={itemList}
-                  expandedItems={multiExpandedItems}
-                  onExpandAll={handleMultiExpandAll}
-                  onCollapseAll={handleMultiCollapseAll}
-                  onToggleExpanded={handleMultiToggleExpanded}
-                  onClose={() => setMultiTreeSelectedItem(null)}
-                  forgeSettings={forgeSettings}
-                  todoMode={todoMode}
-                  onToggleTodoMode={toggleTodoMode}
-                  checkedItems={checkedItems}
-                  onToggleChecked={handleToggleChecked}
-                />
-              )}
-
-              {mode === "single" && selectedItem ? (
                 <div className="rounded-xl border border-border/60 bg-card/60 backdrop-blur-sm">
-                  <div className="flex items-center gap-3 px-5 py-4 border-b border-border/40">
-                    <Clipboard className="w-4 h-4 text-primary" />
-                    <h3 className="font-semibold text-sm">Materials Needed</h3>
+                  <div className="flex items-center justify-between gap-3 px-5 py-4 border-b border-border/40">
+                    <div className="flex items-center gap-3">
+                      <Clipboard className="w-4 h-4 text-primary" />
+                      <h3 className="font-semibold text-sm">Still Needed</h3>
+                    </div>
+                    <Button
+                      variant="ghost"
+                      size="sm"
+                      onClick={handleReset}
+                      className="h-7 px-2 text-xs text-muted-foreground hover:text-destructive"
+                    >
+                      <RotateCcw className="w-3.5 h-3.5 mr-1" />
+                      Reset
+                    </Button>
                   </div>
                   <div className="p-5">
                     <BaseRequirementsList
-                      internalname={selectedItem}
-                      multiplier={multiplier}
-                      checkedItems={todoMode ? checkedItems : undefined}
+                      items={listItems}
+                      onAddToInventory={handleAddToInventory}
                     />
                   </div>
                 </div>
-              ) : (
-                <CombinedMaterialsList
-                  baseRequirements={baseRequirements}
-                  materialDepth={materialDepth}
-                  onMaterialDepthChange={setMaterialDepth}
-                  checkedItems={todoMode ? checkedItems : undefined}
-                />
-              )}
+              </div>
             </div>
           ) : (
             <div className="flex-1 flex items-center justify-center min-h-[60vh]">
               <div className="text-center max-w-sm mx-auto px-4">
                 <div className="w-16 h-16 mx-auto mb-6 rounded-2xl bg-primary/10 border border-primary/20 flex items-center justify-center">
-                  {mode === "single" ? (
-                    <Search className="w-7 h-7 text-primary/60" />
-                  ) : (
-                    <Package className="w-7 h-7 text-primary/60" />
-                  )}
+                  <Search className="w-7 h-7 text-primary/60" />
                 </div>
                 <h3 className="font-display text-xl font-semibold text-foreground mb-2">
-                  {mode === "single"
-                    ? "Search for an item"
-                    : "Add items to begin"}
+                  Search for an item
                 </h3>
                 <p className="text-muted-foreground text-sm leading-relaxed">
-                  {mode === "single"
-                    ? "Select an item from the search to view its full crafting tree and material requirements."
-                    : "Add items to your list to calculate combined materials across multiple recipes."}
+                  Select an item from the search to view its full crafting tree
+                  and material requirements.
                 </p>
               </div>
             </div>
