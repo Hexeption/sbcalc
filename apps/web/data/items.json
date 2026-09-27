@@ -29361,7 +29361,7 @@
     "internalname": "BLAZETEKK_HAM",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Blazetekk%E2%84%A2_Ham"
@@ -30006,19 +30006,20 @@
     "useneucraft": true
   },
   "BLAZE_HAT": {
-    "internalname": "BLAZE_HAT",
     "itemid": "minecraft:skull",
     "displayname": "§fBlaze Hat",
-    "clickcommand": "",
+    "nbttag": "{ExtraAttributes:{id:\"BLAZE_HAT\",originTag:\"UNKNOWN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a1cb36be-3eb3-3c29-954f-83326d198fc9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Iiptuh1HyBCCs4NKSZcnSgbU3Vo2Qln2yedBoFu5k/cr7XHX8ekTKDBKPVJOE2CcXGPNm9075uKj8GMC9j7BTCZ5AE2qAAIYJqOPn1Z+mNYlIbSxvVIJDmweilk7UtHaTZWvP53/m3qt+TKdkSFNQYi7stHZ6y6xrNfCgled2vkTI5qlLCH8NNqayGaejiGX2yuIr2blFZJGGBn8AtLqlFPQ2PMjuV80SKWPnJ5kMJPcIat25fvBEHj1VMZRmp/BMPWJ0vkjpSGnxf8EbWaNmD9KMLLRHpyEaFdxWWfb0WL9fteo7oc0f1k17CQjO3WixEa1mq9/SnekfxHl2ocxYSUzyRa9tzRXit7yVicZLk/1cVGsQ/fRKcCpDRvJTQXCDOciMUKiHfQOE+DiLJfi3p7sLZTiuPpv9f/2MsBUTnaz/oE5HtnNiDlIttzDvc36MVw8E53fZzHo8ZclEGjQzeuJAX8484XoEFZx6Og5ebXd6LAcjjKAMJMBDZlZrRe1bA8QnOR28+LW3GFWPm8goJZJuLpl83xZhDwTm4x5fMakNdCS/1uJR6iX+eeXPlrtBWfraZLl/26PCOOjZkUAafd/vDbsbwXfjzNi6o0NJsSh52TsmC5wg1C8FUjYdZ8Ah08GGdLzBOj0DBrD6l1Dps2KRdiShQUZIu0q5xu53no=\",Value:\"eyJ0aW1lc3RhbXAiOjE0OTk3MTAzNjk1MTEsInByb2ZpbGVJZCI6IjRjMzhlZDExNTk2YTRmZDRhYjFkMjZmMzg2YzFjYmFjIiwicHJvZmlsZU5hbWUiOiJNSEZfQmxhemUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I3OGVmMmU0Y2YyYzQxYTJkMTRiZmRlOWNhZmYxMDIxOWY1YjFiZjViMzVhNDllYjUxYzY0Njc4ODJjYjVmMCJ9fX0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+20\",1:\"\",2:\"§8This item can be reforged!\",3:\"§f§lCOMMON HELMET\"],Name:\"§fBlaze Hat\"}}",
     "damage": 3,
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"118fe834-28aa-3b0d-afe6-f0c52d01afe8\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ==\"}]}},display:{Lore:[0:\"§7Strength: §c+20\",1:\"\",2:\"§7§8This item can be reforged!\",3:\"§f§lCOMMON HELMET\"],Name:\"§fBlaze Hat\"},ExtraAttributes:{id:\"BLAZE_HAT\"}}",
-    "modver": "2.1.0-REL",
     "lore": [
       "§7Strength: §c+20",
       "",
-      "§7§8This item can be reforged!",
+      "§8This item can be reforged!",
       "§f§lCOMMON HELMET"
     ],
+    "internalname": "BLAZE_HAT",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Blaze_Hat"
@@ -32692,7 +32693,7 @@
     "internalname": "BOOK",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Book"
@@ -32789,15 +32790,18 @@
   "BOOK_AND_QUILL": {
     "itemid": "minecraft:writable_book",
     "displayname": "§fBook and Quill",
-    "nbttag": "{HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBook and Quill\"},ExtraAttributes:{id:\"BOOK_AND_QUILL\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BOOK_AND_QUILL\"},HideFlags:254,ItemModel:\"minecraft:writable_book\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBook and Quill\"}}",
     "damage": 0,
     "lore": [
       "§f§lCOMMON"
     ],
     "internalname": "BOOK_AND_QUILL",
-    "modver": "1.3-REL",
-    "vanilla": true,
     "clickcommand": "viewrecipe",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": [],
+    "vanilla": true,
     "recipe": {
       "A1": "BOOK:1",
       "A2": "INK_SACK:1",
@@ -47449,7 +47453,7 @@
   "CLOVER_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§6Clover Helmet",
-    "nbttag": "{ExtraAttributes:{auction:18,bid:3,date:1770976535153L,id:\"CLOVER_HELMET\",player:\"§b[MVP§f+§b] z_Zer0§f\",price:3555555555L},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ba5e22f7-9db3-3b5e-bc47-b1c5d4705338\",Properties:{textures:[0:{Name:\"textures\",Signature:\"McuqoS98clt6iRONUqvmv7mNBFtmjF0KT7Y0YTA0JFUitdOgG6VgL27MxuJ1F4/6tMTmrq9ARE9oHFsj14GqgsJM2QaPm6DOOrmSejznbb7da3UeJvg3rXToRTGIDa2kb1jqTQG2Z/46UpSpdPl8pKLfwuNzdX1gORe1Tjqu89rCo/PMVnQHk0wWYaHeBRBjIY/DRMhVrg1ykEJ53m12Y3I1lsKEHe0jZYvFIGAf3D/sI/+TNjFlsPNAdDd9AKpWCCEJ8H7bGXznpKPAeVDrQlRFeWh4NxKtBgLnTdPisNcXhDN0k5LCaMJd2fezCVMXA7RZs2rp5CwNumP6eCSwW6n/zcta+zRkzQ33yDVTGYMGCdcjwm5h7Y9gdmJkgbWkq9m5I5GgwThs/MP63qfk0uoX3nU4zMZHQdrxvGm7NzTvyGhajoKDPuwtUnjXbRQoZmCM50GEMHqwzQ8pkn5Pcs22lG+XvDlas23zEGWEmrRcNuXDDXm3rXiNsfYxGet28Zd4LgSJQWl3UfFM5y4jOjSn8qjfmrkCCIJChOD0vj/oIbncT7qnG7dKg1UAlKNuh1WLPiKeWyiGTfVqilR0Ik5ElMc915sUR0a6HhWo/EkxZ5f75zqMXpOzJHALkl+yRnFRB8vHawkrp0cLfGUK7BRUl2hnqLH7GCJYCzwRysk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NTk0NjQ0NDIxOCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81OTg5NDlmNGQ1NDZiZDUwNDM3NmY3OWY4NDI1YjU3ZWNmNzdiZTY3Mjk3NmVlODJhZWY1Yzg2ZWMwZGI1ZDQ5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Magic Find: §a+5%\",1:\"§7All Other Stats: §c-5%\",2:\"\",3:\"§7Luck is a quantifiable metric that\",4:\"§7anyone possess in varying amounts.\",5:\"§7Sometimes, it is necessary to give up\",6:\"§7on other skills to improve it.\",7:\"\",8:\"§7Purchased by: §b[MVP§2+§b] Madeleaan\",9:\"§7Purchased for: §6§k666,666,666 §6 coins\",10:\"\",11:\"§8Auction #§8§k1\",12:\"§8Bid #§8§k1\",13:\"§8July 2022\",14:\"\",15:\"§8This item can be reforged!\",16:\"§6§lLEGENDARY HELMET\"],Name:\"§6Clover Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CLOVER_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ba5e22f7-9db3-3b5e-bc47-b1c5d4705338\",Properties:{textures:[0:{Name:\"textures\",Signature:\"McuqoS98clt6iRONUqvmv7mNBFtmjF0KT7Y0YTA0JFUitdOgG6VgL27MxuJ1F4/6tMTmrq9ARE9oHFsj14GqgsJM2QaPm6DOOrmSejznbb7da3UeJvg3rXToRTGIDa2kb1jqTQG2Z/46UpSpdPl8pKLfwuNzdX1gORe1Tjqu89rCo/PMVnQHk0wWYaHeBRBjIY/DRMhVrg1ykEJ53m12Y3I1lsKEHe0jZYvFIGAf3D/sI/+TNjFlsPNAdDd9AKpWCCEJ8H7bGXznpKPAeVDrQlRFeWh4NxKtBgLnTdPisNcXhDN0k5LCaMJd2fezCVMXA7RZs2rp5CwNumP6eCSwW6n/zcta+zRkzQ33yDVTGYMGCdcjwm5h7Y9gdmJkgbWkq9m5I5GgwThs/MP63qfk0uoX3nU4zMZHQdrxvGm7NzTvyGhajoKDPuwtUnjXbRQoZmCM50GEMHqwzQ8pkn5Pcs22lG+XvDlas23zEGWEmrRcNuXDDXm3rXiNsfYxGet28Zd4LgSJQWl3UfFM5y4jOjSn8qjfmrkCCIJChOD0vj/oIbncT7qnG7dKg1UAlKNuh1WLPiKeWyiGTfVqilR0Ik5ElMc915sUR0a6HhWo/EkxZ5f75zqMXpOzJHALkl+yRnFRB8vHawkrp0cLfGUK7BRUl2hnqLH7GCJYCzwRysk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NTk0NjQ0NDIxOCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81OTg5NDlmNGQ1NDZiZDUwNDM3NmY3OWY4NDI1YjU3ZWNmNzdiZTY3Mjk3NmVlODJhZWY1Yzg2ZWMwZGI1ZDQ5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Magic Find: §a+5%\",1:\"§7All Other Stats: §c-5%\",2:\"\",3:\"§7Luck is a quantifiable metric that\",4:\"§7anyone possess in varying amounts.\",5:\"§7Sometimes, it is necessary to give up\",6:\"§7on other skills to improve it.\",7:\"\",8:\"§7Purchased by: §b[MVP§2+§b] Madeleaan\",9:\"§7Purchased for: §6§k666,666,666 §6 coins\",10:\"\",11:\"§8Auction #§8§k1\",12:\"§8Bid #§8§k1\",13:\"§8July 2022\",14:\"\",15:\"§8This item can be reforged!\",16:\"§6§lLEGENDARY HELMET\"],Name:\"§6Clover Helmet\"}}",
     "damage": 3,
     "lore": [
       "§7Magic Find: §a+5%",
@@ -47473,7 +47477,7 @@
     "internalname": "CLOVER_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Clover_Helmet"
@@ -101508,7 +101512,7 @@
   "GIANT_TEDDY_BEAR": {
     "itemid": "minecraft:skull",
     "displayname": "§5Giant Teddy Bear",
-    "nbttag": "{ExtraAttributes:{id:\"GIANT_TEDDY_BEAR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0b50b0c7-9f6b-31b6-9fab-4c96ebce6327\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JyvO6RK1F0sRqwkuFdBVg+bej/LRWTkS2N9L+yQ1FbPVN/CELrqhXgRmat7BWLVla8ZVjyDYIavtuYxNzSUNDsvHelhrppQ8grSF1CofXLtfmy6U/WlMVfHuuD+hqPvj9pKA/38rmQXCN4Wfv3cUDABbIXIiP9fOXy9f8D1PnU/3zhFmMci0wK/bAZIEBPxr7tom0z7EddYBamUHRRJqFwTk9rU9okPoDOzkxVVAsi63nBIpi7s8BHj9JHKX7D/iVdbUfRyZ3tnQE2ildApU2yCzd69lbpSp39JMKgxM2eG7njZsYcumztc/r1haK6khu2KeswAIS/1Kub+JeeO/FCSo0ChnVvf4+BFdbUKuvnIrpPlJxDWAVrEvhpm892cQnqvZXMYkYSWAnoa+ruvFLrh/LQdnzgm7igLlByFSVjwybsrY0NHuq+ymKoEv/UO4X+vsiUwjiWm78i1CzA6T/8jTzkaYnqE4ABLPhesje4hi2RrZnSnAlcvwnjoqpgy3dN8ObUWMgRFFFnqHd/FOpObOMPb0+DgOEyQzE7oDMeCawy1yH1PVbPrznJ+banL4cf1/EStlL1LvldrxDjg03riGkMUDQZS/Pg/ww6mC2NNvbGmoplgZf3j5NgfkZF9IvfGtb0ZxVdUVMLzcbZ6CXRjOR4nk6QzELBHW3IilHKo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczMTQ1MDEyOTYxNywKICAicHJvZmlsZUlkIiA6ICIxM2YxYjU3ZDRmN2U0MDRjYTQ0Y2I0MTE2YTIyNjIxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVDdXBDdXAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4MjA4MzMwOGQ2ZjEzODBlYjU0YWVhMWJiZmMzZjUwMThlMjdjY2EwMGY2MzcyNmJhNDFhYWJjYjBmMWY5ZiIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Furniture\",1:\"§8Holiday Cosmetic\",2:\"\",3:\"§7This exclusive §cHoliday §7cosmetic can\",4:\"§7be placed on your island or traded.\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Giant Teddy Bear\",color:10511680}}",
+    "nbttag": "{ExtraAttributes:{id:\"GIANT_TEDDY_BEAR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0b50b0c7-9f6b-31b6-9fab-4c96ebce6327\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JyvO6RK1F0sRqwkuFdBVg+bej/LRWTkS2N9L+yQ1FbPVN/CELrqhXgRmat7BWLVla8ZVjyDYIavtuYxNzSUNDsvHelhrppQ8grSF1CofXLtfmy6U/WlMVfHuuD+hqPvj9pKA/38rmQXCN4Wfv3cUDABbIXIiP9fOXy9f8D1PnU/3zhFmMci0wK/bAZIEBPxr7tom0z7EddYBamUHRRJqFwTk9rU9okPoDOzkxVVAsi63nBIpi7s8BHj9JHKX7D/iVdbUfRyZ3tnQE2ildApU2yCzd69lbpSp39JMKgxM2eG7njZsYcumztc/r1haK6khu2KeswAIS/1Kub+JeeO/FCSo0ChnVvf4+BFdbUKuvnIrpPlJxDWAVrEvhpm892cQnqvZXMYkYSWAnoa+ruvFLrh/LQdnzgm7igLlByFSVjwybsrY0NHuq+ymKoEv/UO4X+vsiUwjiWm78i1CzA6T/8jTzkaYnqE4ABLPhesje4hi2RrZnSnAlcvwnjoqpgy3dN8ObUWMgRFFFnqHd/FOpObOMPb0+DgOEyQzE7oDMeCawy1yH1PVbPrznJ+banL4cf1/EStlL1LvldrxDjg03riGkMUDQZS/Pg/ww6mC2NNvbGmoplgZf3j5NgfkZF9IvfGtb0ZxVdUVMLzcbZ6CXRjOR4nk6QzELBHW3IilHKo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczMTQ1MDEyOTYxNywKICAicHJvZmlsZUlkIiA6ICIxM2YxYjU3ZDRmN2U0MDRjYTQ0Y2I0MTE2YTIyNjIxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVDdXBDdXAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4MjA4MzMwOGQ2ZjEzODBlYjU0YWVhMWJiZmMzZjUwMThlMjdjY2EwMGY2MzcyNmJhNDFhYWJjYjBmMWY5ZiIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Furniture\",1:\"§8Holiday Cosmetic\",2:\"\",3:\"§7This exclusive §cHoliday §7cosmetic can\",4:\"§7be placed on your island or traded.\",5:\"\",6:\"§5§lEPIC\"],Name:\"§5Giant Teddy Bear\"}}",
     "damage": 3,
     "lore": [
       "§8Furniture",
@@ -111133,7 +111137,7 @@
   "GRIFFIN;2": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §9Griffin",
-    "nbttag": "{ExtraAttributes:{id:\"GRIFFIN;2\",petInfo:\"{\\\"type\\\":\\\"GRIFFIN\\\",\\\"tier\\\":\\\"RARE\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fa96ef2a-f697-3c9c-9a83-1d09dc9ad20e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZUYe3INMx4AW4QsduE/5TRxLJ3A0W9xHEPLXVGmFzQb5IHHdI00LIMUj5daqb9mG0WdMjwlw4CXee9hLjAOTcWSUcl7eC136rmiSjEWQGBhbKaxwwWhCJR0CdE1mjqD0KHvRed4efUfVYtoYf9sc0DOSyuOtD5Pu9f1Aklezh2Y6drbVxIwl7UR69fW3qu9s+VbvqbkrpwUZDqeNZ2hp64oPS4an/cScyjUPz4EQqYUP/Mi/Cf8W2x1J27UMdHfJ3iwyb4UJejfisWZrY5freGdv9Yhp3nneBW1NG1//aj0dUOxEr+H81WWClvomSTUIZuiWITC/2VhMUdocgxYncftL9U5XpgXp89JGCsb67ljxoHVUUVrie3McE7slbhn5JlGL1tTHzeeQYrvYAHmbTSTsC+jk+tloKpJlcRhIQlI4U2UYez1i7JIf5+U/DZ+qa7z68zk0no8tvoKHG7asTMrfk4oZ2Ptc7RM+LvJ3VEItpVpihHjMLBlCqZDCDgz/YspsodnfatFIXzQkaKz6ZfVvamglNlnMKXr68WLuX6U85RMzrhU/391H5YmUfkYhTCKhaKL01v+e/5HybE7M4ZpemIicbu3eTaY5NVZWRSstenizVnVIZCsC4jm1vXrm92CUABfLuHMcYWTEHjPBXfMfxov/X5ySh7ezAXL0Uhk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5OTgxMDM3NTkzMywKICAicHJvZmlsZUlkIiA6ICI5YzQ5YjU0YjFjZjU0NjZjYjRhNzA4M2JmZGQ4MDIxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5U0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyN2UzY2I1MmE2NDk2OGU2MGM4NjFlZjFhYjg0ZTBhMGNiNWYwN2JlMTAzYWM3OGRhNjc3NjE3MzFmMDBjOCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Strength: §c+{STRENGTH}\",3:\"§7Crit Chance: §9+{CRIT_CHANCE}%\",4:\"§7Crit Damage: §9+{CRIT_DAMAGE}%\",5:\"§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%\",6:\"\",7:\"§6Odyssey\",8:\"§c12 §7types of §2✿ Mythological §7mobs can\",9:\"§7spawn from §eGriffin Burrows§7. Their\",10:\"§7stats scale with your Griffin’s\",11:\"§7rarity.\",12:\"\",13:\"§6Sacred Strength\",14:\"§7Gain §c+{0}% ❁ Strength §7when above\",15:\"§c85% ❤ Health§7.\",16:\"\",17:\"§eRight-click to add this pet to your pet menu!\",18:\"\",19:\"§8Can be upgraded at Kat in The Hub!\",20:\"§9§lRARE\"],Name:\"§7[Lvl {LVL}] §9Griffin\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GRIFFIN;2\",petInfo:\"{\\\"type\\\":\\\"GRIFFIN\\\",\\\"tier\\\":\\\"RARE\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fa96ef2a-f697-3c9c-9a83-1d09dc9ad20e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZUYe3INMx4AW4QsduE/5TRxLJ3A0W9xHEPLXVGmFzQb5IHHdI00LIMUj5daqb9mG0WdMjwlw4CXee9hLjAOTcWSUcl7eC136rmiSjEWQGBhbKaxwwWhCJR0CdE1mjqD0KHvRed4efUfVYtoYf9sc0DOSyuOtD5Pu9f1Aklezh2Y6drbVxIwl7UR69fW3qu9s+VbvqbkrpwUZDqeNZ2hp64oPS4an/cScyjUPz4EQqYUP/Mi/Cf8W2x1J27UMdHfJ3iwyb4UJejfisWZrY5freGdv9Yhp3nneBW1NG1//aj0dUOxEr+H81WWClvomSTUIZuiWITC/2VhMUdocgxYncftL9U5XpgXp89JGCsb67ljxoHVUUVrie3McE7slbhn5JlGL1tTHzeeQYrvYAHmbTSTsC+jk+tloKpJlcRhIQlI4U2UYez1i7JIf5+U/DZ+qa7z68zk0no8tvoKHG7asTMrfk4oZ2Ptc7RM+LvJ3VEItpVpihHjMLBlCqZDCDgz/YspsodnfatFIXzQkaKz6ZfVvamglNlnMKXr68WLuX6U85RMzrhU/391H5YmUfkYhTCKhaKL01v+e/5HybE7M4ZpemIicbu3eTaY5NVZWRSstenizVnVIZCsC4jm1vXrm92CUABfLuHMcYWTEHjPBXfMfxov/X5ySh7ezAXL0Uhk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5OTgxMDM3NTkzMywKICAicHJvZmlsZUlkIiA6ICI5YzQ5YjU0YjFjZjU0NjZjYjRhNzA4M2JmZGQ4MDIxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5U0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyN2UzY2I1MmE2NDk2OGU2MGM4NjFlZjFhYjg0ZTBhMGNiNWYwN2JlMTAzYWM3OGRhNjc3NjE3MzFmMDBjOCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Strength: §c+{STRENGTH}\",3:\"§7Crit Chance: §9+{CRIT_CHANCE}%\",4:\"§7Crit Damage: §9+{CRIT_DAMAGE}%\",5:\"§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%\",6:\"\",7:\"§6Odyssey\",8:\"§c6 §7types of §2✿ Mythological §7mobs can\",9:\"§7spawn from §eGriffin Burrows§7. Their\",10:\"§7stats scale with your Griffin’s\",11:\"§7rarity.\",12:\"\",13:\"§6Sacred Strength\",14:\"§7Gain §c+{0}% ❁ Strength §7when above\",15:\"§c85% ❤ Health§7.\",16:\"\",17:\"§eRight-click to add this pet to your pet menu!\",18:\"\",19:\"§8Can be upgraded at Kat in The Hub!\",20:\"§9§lRARE\"],Name:\"§7[Lvl {LVL}] §9Griffin\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -111144,7 +111148,7 @@
       "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%",
       "",
       "§6Odyssey",
-      "§c12 §7types of §2✿ Mythological §7mobs can",
+      "§c6 §7types of §2✿ Mythological §7mobs can",
       "§7spawn from §eGriffin Burrows§7. Their",
       "§7stats scale with your Griffin’s",
       "§7rarity.",
@@ -111182,7 +111186,7 @@
   "GRIFFIN;3": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §5Griffin",
-    "nbttag": "{ExtraAttributes:{id:\"GRIFFIN;3\",petInfo:\"{\\\"type\\\":\\\"GRIFFIN\\\",\\\"tier\\\":\\\"EPIC\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fa96ef2a-f697-3c9c-9a83-1d09dc9ad20e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZUYe3INMx4AW4QsduE/5TRxLJ3A0W9xHEPLXVGmFzQb5IHHdI00LIMUj5daqb9mG0WdMjwlw4CXee9hLjAOTcWSUcl7eC136rmiSjEWQGBhbKaxwwWhCJR0CdE1mjqD0KHvRed4efUfVYtoYf9sc0DOSyuOtD5Pu9f1Aklezh2Y6drbVxIwl7UR69fW3qu9s+VbvqbkrpwUZDqeNZ2hp64oPS4an/cScyjUPz4EQqYUP/Mi/Cf8W2x1J27UMdHfJ3iwyb4UJejfisWZrY5freGdv9Yhp3nneBW1NG1//aj0dUOxEr+H81WWClvomSTUIZuiWITC/2VhMUdocgxYncftL9U5XpgXp89JGCsb67ljxoHVUUVrie3McE7slbhn5JlGL1tTHzeeQYrvYAHmbTSTsC+jk+tloKpJlcRhIQlI4U2UYez1i7JIf5+U/DZ+qa7z68zk0no8tvoKHG7asTMrfk4oZ2Ptc7RM+LvJ3VEItpVpihHjMLBlCqZDCDgz/YspsodnfatFIXzQkaKz6ZfVvamglNlnMKXr68WLuX6U85RMzrhU/391H5YmUfkYhTCKhaKL01v+e/5HybE7M4ZpemIicbu3eTaY5NVZWRSstenizVnVIZCsC4jm1vXrm92CUABfLuHMcYWTEHjPBXfMfxov/X5ySh7ezAXL0Uhk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5OTgxMDM3NTkzMywKICAicHJvZmlsZUlkIiA6ICI5YzQ5YjU0YjFjZjU0NjZjYjRhNzA4M2JmZGQ4MDIxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5U0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyN2UzY2I1MmE2NDk2OGU2MGM4NjFlZjFhYjg0ZTBhMGNiNWYwN2JlMTAzYWM3OGRhNjc3NjE3MzFmMDBjOCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Strength: §c+{STRENGTH}\",3:\"§7Crit Chance: §9+{CRIT_CHANCE}%\",4:\"§7Crit Damage: §9+{CRIT_DAMAGE}%\",5:\"§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%\",6:\"\",7:\"§6Odyssey\",8:\"§c12 §7types of §2✿ Mythological §7mobs can\",9:\"§7spawn from §eGriffin Burrows§7. Their\",10:\"§7stats scale with your Griffin’s\",11:\"§7rarity.\",12:\"\",13:\"§6Sacred Strength\",14:\"§7Gain §c+{0}% ❁ Strength §7when above\",15:\"§c85% ❤ Health§7.\",16:\"\",17:\"§eRight-click to add this pet to your pet menu!\",18:\"\",19:\"§8Can be upgraded at Kat in The Hub!\",20:\"§5§lEPIC\"],Name:\"§7[Lvl {LVL}] §5Griffin\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GRIFFIN;3\",petInfo:\"{\\\"type\\\":\\\"GRIFFIN\\\",\\\"tier\\\":\\\"EPIC\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fa96ef2a-f697-3c9c-9a83-1d09dc9ad20e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZUYe3INMx4AW4QsduE/5TRxLJ3A0W9xHEPLXVGmFzQb5IHHdI00LIMUj5daqb9mG0WdMjwlw4CXee9hLjAOTcWSUcl7eC136rmiSjEWQGBhbKaxwwWhCJR0CdE1mjqD0KHvRed4efUfVYtoYf9sc0DOSyuOtD5Pu9f1Aklezh2Y6drbVxIwl7UR69fW3qu9s+VbvqbkrpwUZDqeNZ2hp64oPS4an/cScyjUPz4EQqYUP/Mi/Cf8W2x1J27UMdHfJ3iwyb4UJejfisWZrY5freGdv9Yhp3nneBW1NG1//aj0dUOxEr+H81WWClvomSTUIZuiWITC/2VhMUdocgxYncftL9U5XpgXp89JGCsb67ljxoHVUUVrie3McE7slbhn5JlGL1tTHzeeQYrvYAHmbTSTsC+jk+tloKpJlcRhIQlI4U2UYez1i7JIf5+U/DZ+qa7z68zk0no8tvoKHG7asTMrfk4oZ2Ptc7RM+LvJ3VEItpVpihHjMLBlCqZDCDgz/YspsodnfatFIXzQkaKz6ZfVvamglNlnMKXr68WLuX6U85RMzrhU/391H5YmUfkYhTCKhaKL01v+e/5HybE7M4ZpemIicbu3eTaY5NVZWRSstenizVnVIZCsC4jm1vXrm92CUABfLuHMcYWTEHjPBXfMfxov/X5ySh7ezAXL0Uhk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5OTgxMDM3NTkzMywKICAicHJvZmlsZUlkIiA6ICI5YzQ5YjU0YjFjZjU0NjZjYjRhNzA4M2JmZGQ4MDIxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5U0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyN2UzY2I1MmE2NDk2OGU2MGM4NjFlZjFhYjg0ZTBhMGNiNWYwN2JlMTAzYWM3OGRhNjc3NjE3MzFmMDBjOCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Strength: §c+{STRENGTH}\",3:\"§7Crit Chance: §9+{CRIT_CHANCE}%\",4:\"§7Crit Damage: §9+{CRIT_DAMAGE}%\",5:\"§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%\",6:\"\",7:\"§6Odyssey\",8:\"§c8 §7types of §2✿ Mythological §7mobs can\",9:\"§7spawn from §eGriffin Burrows§7. Their\",10:\"§7stats scale with your Griffin’s\",11:\"§7rarity.\",12:\"\",13:\"§6Sacred Strength\",14:\"§7Gain §c+{0}% ❁ Strength §7when above\",15:\"§c85% ❤ Health§7.\",16:\"\",17:\"§eRight-click to add this pet to your pet menu!\",18:\"\",19:\"§8Can be upgraded at Kat in The Hub!\",20:\"§5§lEPIC\"],Name:\"§7[Lvl {LVL}] §5Griffin\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -111193,7 +111197,7 @@
       "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%",
       "",
       "§6Odyssey",
-      "§c12 §7types of §2✿ Mythological §7mobs can",
+      "§c8 §7types of §2✿ Mythological §7mobs can",
       "§7spawn from §eGriffin Burrows§7. Their",
       "§7stats scale with your Griffin’s",
       "§7rarity.",
@@ -111231,7 +111235,7 @@
   "GRIFFIN;4": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §6Griffin",
-    "nbttag": "{ExtraAttributes:{id:\"GRIFFIN;4\",petInfo:\"{\\\"type\\\":\\\"GRIFFIN\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fa96ef2a-f697-3c9c-9a83-1d09dc9ad20e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZUYe3INMx4AW4QsduE/5TRxLJ3A0W9xHEPLXVGmFzQb5IHHdI00LIMUj5daqb9mG0WdMjwlw4CXee9hLjAOTcWSUcl7eC136rmiSjEWQGBhbKaxwwWhCJR0CdE1mjqD0KHvRed4efUfVYtoYf9sc0DOSyuOtD5Pu9f1Aklezh2Y6drbVxIwl7UR69fW3qu9s+VbvqbkrpwUZDqeNZ2hp64oPS4an/cScyjUPz4EQqYUP/Mi/Cf8W2x1J27UMdHfJ3iwyb4UJejfisWZrY5freGdv9Yhp3nneBW1NG1//aj0dUOxEr+H81WWClvomSTUIZuiWITC/2VhMUdocgxYncftL9U5XpgXp89JGCsb67ljxoHVUUVrie3McE7slbhn5JlGL1tTHzeeQYrvYAHmbTSTsC+jk+tloKpJlcRhIQlI4U2UYez1i7JIf5+U/DZ+qa7z68zk0no8tvoKHG7asTMrfk4oZ2Ptc7RM+LvJ3VEItpVpihHjMLBlCqZDCDgz/YspsodnfatFIXzQkaKz6ZfVvamglNlnMKXr68WLuX6U85RMzrhU/391H5YmUfkYhTCKhaKL01v+e/5HybE7M4ZpemIicbu3eTaY5NVZWRSstenizVnVIZCsC4jm1vXrm92CUABfLuHMcYWTEHjPBXfMfxov/X5ySh7ezAXL0Uhk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5OTgxMDM3NTkzMywKICAicHJvZmlsZUlkIiA6ICI5YzQ5YjU0YjFjZjU0NjZjYjRhNzA4M2JmZGQ4MDIxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5U0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyN2UzY2I1MmE2NDk2OGU2MGM4NjFlZjFhYjg0ZTBhMGNiNWYwN2JlMTAzYWM3OGRhNjc3NjE3MzFmMDBjOCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Strength: §c+{STRENGTH}\",3:\"§7Crit Chance: §9+{CRIT_CHANCE}%\",4:\"§7Crit Damage: §9+{CRIT_DAMAGE}%\",5:\"§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%\",6:\"\",7:\"§6Odyssey\",8:\"§c12 §7types of §2 Mythological §7mobs can\",9:\"§7spawn from §eGriffin Burrows§7. Their\",10:\"§7stats scale with your Griffin’s\",11:\"§7rarity.\",12:\"\",13:\"§6Sacred Strength\",14:\"§7Gain §c+{0}%  Strength §7when above\",15:\"§c85%  Health§7.\",16:\"\",17:\"§6King of Kings\",18:\"§7Grants §b+{1} Magic Find §7on §2\",19:\"§2Mythological §7mobs.\",20:\"\",21:\"§eRight-click to add this pet to your pet menu!\",22:\"\",23:\"§8Can be upgraded at Kat in The Hub!\",24:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Griffin\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GRIFFIN;4\",petInfo:\"{\\\"type\\\":\\\"GRIFFIN\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fa96ef2a-f697-3c9c-9a83-1d09dc9ad20e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZUYe3INMx4AW4QsduE/5TRxLJ3A0W9xHEPLXVGmFzQb5IHHdI00LIMUj5daqb9mG0WdMjwlw4CXee9hLjAOTcWSUcl7eC136rmiSjEWQGBhbKaxwwWhCJR0CdE1mjqD0KHvRed4efUfVYtoYf9sc0DOSyuOtD5Pu9f1Aklezh2Y6drbVxIwl7UR69fW3qu9s+VbvqbkrpwUZDqeNZ2hp64oPS4an/cScyjUPz4EQqYUP/Mi/Cf8W2x1J27UMdHfJ3iwyb4UJejfisWZrY5freGdv9Yhp3nneBW1NG1//aj0dUOxEr+H81WWClvomSTUIZuiWITC/2VhMUdocgxYncftL9U5XpgXp89JGCsb67ljxoHVUUVrie3McE7slbhn5JlGL1tTHzeeQYrvYAHmbTSTsC+jk+tloKpJlcRhIQlI4U2UYez1i7JIf5+U/DZ+qa7z68zk0no8tvoKHG7asTMrfk4oZ2Ptc7RM+LvJ3VEItpVpihHjMLBlCqZDCDgz/YspsodnfatFIXzQkaKz6ZfVvamglNlnMKXr68WLuX6U85RMzrhU/391H5YmUfkYhTCKhaKL01v+e/5HybE7M4ZpemIicbu3eTaY5NVZWRSstenizVnVIZCsC4jm1vXrm92CUABfLuHMcYWTEHjPBXfMfxov/X5ySh7ezAXL0Uhk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5OTgxMDM3NTkzMywKICAicHJvZmlsZUlkIiA6ICI5YzQ5YjU0YjFjZjU0NjZjYjRhNzA4M2JmZGQ4MDIxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICI5U0kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMyN2UzY2I1MmE2NDk2OGU2MGM4NjFlZjFhYjg0ZTBhMGNiNWYwN2JlMTAzYWM3OGRhNjc3NjE3MzFmMDBjOCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7Strength: §c+{STRENGTH}\",3:\"§7Crit Chance: §9+{CRIT_CHANCE}%\",4:\"§7Crit Damage: §9+{CRIT_DAMAGE}%\",5:\"§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%\",6:\"\",7:\"§6Odyssey\",8:\"§c10 §7types of §2 Mythological §7mobs can\",9:\"§7spawn from §eGriffin Burrows§7. Their\",10:\"§7stats scale with your Griffin’s\",11:\"§7rarity.\",12:\"\",13:\"§6Sacred Strength\",14:\"§7Gain §c+{0}%  Strength §7when above\",15:\"§c85%  Health§7.\",16:\"\",17:\"§6King of Kings\",18:\"§7Grants §b+{1} Magic Find §7on §2\",19:\"§2Mythological §7mobs.\",20:\"\",21:\"§eRight-click to add this pet to your pet menu!\",22:\"\",23:\"§8Can be upgraded at Kat in The Hub!\",24:\"§6§lLEGENDARY\"],Name:\"§7[Lvl {LVL}] §6Griffin\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -111242,7 +111246,7 @@
       "§7Attack Speed: §e+{BONUS_ATTACK_SPEED}%",
       "",
       "§6Odyssey",
-      "§c12 §7types of §2 Mythological §7mobs can",
+      "§c10 §7types of §2 Mythological §7mobs can",
       "§7spawn from §eGriffin Burrows§7. Their",
       "§7stats scale with your Griffin’s",
       "§7rarity.",
@@ -134109,7 +134113,7 @@
   "KUUDRA_FOLLOWER_ARTIFACT": {
     "itemid": "minecraft:skull",
     "displayname": "§5Kuudra Follower Artifact",
-    "nbttag": "{ExtraAttributes:{id:\"KUUDRA_FOLLOWER_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c622d906-f8c2-3e5c-8954-e747d615d247\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzcyMDExMjgwYjViOWFiMThjNTU3MDM5NDNlN2YxMWExOTcxNzk3NGJiOTU0MWNhNGIyNzIzZjdhNWZhYjIzNiJ9fX0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Reduces damage taken from Kuudra\",1:\"§7Followers by §a50%§7.\",2:\"\",3:\"§8§l* §8Soulbound §8§l*\",4:\"§8Works while in Accessory Bag!\",5:\"§5§lEPIC ACCESSORY\"],Name:\"§5Kuudra Follower Artifact\",color:10511680}}",
+    "nbttag": "{ExtraAttributes:{id:\"KUUDRA_FOLLOWER_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c622d906-f8c2-3e5c-8954-e747d615d247\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzcyMDExMjgwYjViOWFiMThjNTU3MDM5NDNlN2YxMWExOTcxNzk3NGJiOTU0MWNhNGIyNzIzZjdhNWZhYjIzNiJ9fX0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Reduces damage taken from Kuudra\",1:\"§7Followers by §a50%§7.\",2:\"\",3:\"§8§l* §8Soulbound §8§l*\",4:\"§8Works while in Accessory Bag!\",5:\"§5§lEPIC ACCESSORY\"],Name:\"§5Kuudra Follower Artifact\"}}",
     "damage": 3,
     "lore": [
       "§7Reduces damage taken from Kuudra",
@@ -146415,23 +146419,23 @@
   "MAGMA_CUBE_HEAD": {
     "itemid": "minecraft:skull",
     "displayname": "§fMagma Cube Head",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"35f02923-7bec-3869-9ef5-b42a4794cac8\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzg5NTdkNTAyM2M5MzdjNGM0MWFhMjQxMmQ0MzQxMGJkYTIzY2Y3OWE5ZjZhYjM2Yjc2ZmVmMmQ3YzQyOSJ9fX0=\"}]}},display:{Lore:[0:\"§7Health: §c+25\",1:\"§7Defense: §a+25\",2:\"\",3:\"§7§8This item can be reforged!\",4:\"§f§lCOMMON HELMET\"],Name:\"§fMagma Cube Head\"},ExtraAttributes:{id:\"MAGMA_CUBE_HEAD\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MAGMA_CUBE_HEAD\",originTag:\"QUICK_CRAFTING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2d29a891-690c-38e0-b4e7-15b51b22a8c9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"DulvF64+7Oi3Y/ARmgTwvpjyPC90sgYRfilsHzrNINQ26PNwqTBroXb6TiCGNXBdTEWWJGQffElIqlV9uW8sPi7hG8oAh1lcoGijun2fsoy2+caiGxgejyhZde8cDv0hc3REk0jpd1md9U3GhDrwBIAbgfku4XfJGwonJG8fmYRNl7AN7NtlirU6TKR0AtyqsODQLs9bY2VNxD8ldT7pe2vdogN1Fg4gDVDj3HP63i/13cQ7Bw2vGNNDmB12ER1tsCR+gLj0mSuPGgZJ7zNAnXuYgTJWfSKF7Di5uo6E52KoNLqBbQNxX7GHU9Hh/Vic+mh4+sV89x0Nv6sDOIAjKfUN5oKSEueUSzTSUn/X7ODd12PbWn4pm1oGO3o+j8p/+mp4OyAIQzfzLTXfDQyQTEEUKTkVuwV5nDOMp2nO18fPy5tFj/AwkCVwIdff7xi3aRqWBs2r961tTHBu+XQDYhbmSCDnRYunHxT/uM27+fTbVM9ZOdYhAgAmg5fyQsfgmXYv4GkVwiPVwaaH/qxtLLBEeoBJoYOmZgjmy4GhMnsNXGZxtwisbdK06dzLOye0wcSNvpeOqpV5FpfpHobevmmbSQf0Rf0NcPgIPV7HSqWZ8HkR4Te6uzSseKDPeC87mVO15aM+3e303j6naH8mKjZkC6dKMAf7bVITdFwHNr0=\",Value:\"eyJ0aW1lc3RhbXAiOjE0OTk3MTAwODQ4OTEsInByb2ZpbGVJZCI6IjA5NzJiZGQxNGI4NjQ5ZmI5ZWNjYTM1M2Y4NDkxYTUxIiwicHJvZmlsZU5hbWUiOiJNSEZfTGF2YVNsaW1lIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zODk1N2Q1MDIzYzkzN2M0YzQxYWEyNDEyZDQzNDEwYmRhMjNjZjc5YTlmNmFiMzZiNzZmZWYyZDdjNDI5In19fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+25\",1:\"§7Defense: §a+25\",2:\"\",3:\"§8This item can be reforged!\",4:\"§f§lCOMMON HELMET\"],Name:\"§fMagma Cube Head\"}}",
     "damage": 3,
     "lore": [
       "§7Health: §c+25",
       "§7Defense: §a+25",
       "",
-      "§7§8This item can be reforged!",
+      "§8This item can be reforged!",
       "§f§lCOMMON HELMET"
     ],
     "internalname": "MAGMA_CUBE_HEAD",
     "clickcommand": "",
-    "modver": "2.1.0-REL",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Magma_Cube_Head"
-    ],
-    "crafttext": ""
+    ]
   },
   "MAGMA_CUBE_MONSTER": {
     "itemid": "minecraft:skull",
@@ -182898,27 +182902,27 @@
   "PET_SKIN_JERRY_RED_ELF": {
     "itemid": "minecraft:skull",
     "displayname": "§aRed Elf Jerry Skin",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"cf24edde-fca6-3a29-b9e1-51ef7b4f2662\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwODUwODM4MTEwMCwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFkODJmOWMzNmU4MjRjMWUzNzk2M2E4NDliZjVhYmQ3NmQzYjM0OTEyNTAyMzUwNGFmNTgzNjkwODYwODllZTkiCiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7§7This skin can only be applied to\",7:\"§7Jerry pets.\",8:\"\",9:\"§7§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aRed Elf Jerry Skin\"},ExtraAttributes:{originTag:\"FIRE_SALE\",id:\"PET_SKIN_JERRY_RED_ELF\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_JERRY_RED_ELF\",originTag:\"FIRE_SALE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cf24edde-fca6-3a29-b9e1-51ef7b4f2662\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Js+s940F2vMq81PsEj1Lw3N4EDSuAhnYjuS+K72GN3fdcD078Dxe4ZvMwDVrQU+SMDawBSrOnRT6uUanxQBgbyKJlg18Neu7bq47P+aNju04bKivbMrFHAUTxiwCCVC+YtX7WT5iUscdCOYxx73Y7e+XLxo9NXXezRgGz5f4bZXAEerrrPt+l9YlbNtg1sGYXvv7w/ffR0E14ldF6DfCa4vivmD+lmqxy6QsA0tcvjinjPQVfDxP37a3SHudKg1iggPUKvSKZfC5s0KMbntGxxlFJEvLGWuZ1J5iHBmK2V7Ed6l8/FJj0vB7m1orArumyvbVhjVCywHfIT0Lz8txVqwQpdOyruMmeGNnQnwG629p5jRzdkJXYlLtY6qCIHTlRPRa6RQS/NqR4WHWlsqj2tZGcILFgFhoE3KCXpLLlunQU6ugS2eDcCCuEF192+t9+80+8YtGzmuoyHl2mUSue1UBH+ftvk/89PLBN7IqlkWoBzRUCu7EaPf62Yp2dMaqzwYBDeqUuF2sd42G/RN6rHRD/oZnU8gMK1Y/cDXWA7IqG02yyT5ZyfyjjuSh06viOnZbaIgNza7J4EvbZ6EvWogLYcpz9L847NrNp9lWPQOok6wJOVnfE0H7Y7RoI7aM14JwM0Ky/dG0PQ8fu1jaLe0o9TtZOVWsyqJr+1hIhIY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwODUwODM4MTEwMCwKICAicHJvZmlsZUlkIiA6ICI4MmM2MDZjNWM2NTI0Yjc5OGI5MWExMmQzYTYxNjk3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3ROb3RvcmlvdXNOZW1vIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFkODJmOWMzNmU4MjRjMWUzNzk2M2E4NDliZjVhYmQ3NmQzYjM0OTEyNTAyMzUwNGFmNTgzNjkwODYwODllZTkiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aJerry§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aRed Elf Jerry Skin\"}}",
     "damage": 3,
     "lore": [
       "§8Consumed on use",
       "",
-      "§7§7Pet skins change the look and",
+      "§7Pet skins change the look and",
       "§7particle trail of your pet but only",
       "§7one skin can be active at a time!",
       "",
-      "§7§7This skin can only be applied to",
-      "§7Jerry pets.",
+      "§7This skin can only be applied to",
+      "§aJerry§7 pets.",
       "",
-      "§7§eRight-click on your summoned pet to",
+      "§eRight-click on your summoned pet to",
       "§eapply this skin!",
       "",
       "§a§lUNCOMMON COSMETIC"
     ],
     "internalname": "PET_SKIN_JERRY_RED_ELF",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Red_Elf_Jerry_Skin"
@@ -186126,27 +186130,27 @@
   "PET_SKIN_SHEEP_BLACK": {
     "itemid": "minecraft:skull",
     "displayname": "§aBlack Sheep Skin",
-    "nbttag": "{overrideMeta:1b,HideFlags:254,SkullOwner:{Id:\"a44786f8-b0f4-3e43-ad1b-64956113adec\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWE5ZGNkYTY0MmE4MDdjZDJkYWE0YWE2YmU4N2NlZjk2ZTA4YThjOGY1Y2VjMjY1N2RkYTQyNjZjNmE4ODRjMiJ9fX0K\"}]}},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7§7This skin can only be applied to\",7:\"§7Sheep pets.\",8:\"\",9:\"§7§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aBlack Sheep Skin\"},ExtraAttributes:{id:\"PET_SKIN_SHEEP_BLACK\"},AttributeModifiers:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_SHEEP_BLACK\",originTag:\"FIRE_SALE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b22c0b94-378a-3c02-bdd4-d67d255a7144\",Properties:{textures:[0:{Name:\"textures\",Signature:\"WUSLv4pP0HZRqyTXlq0SD48IMdpU6NV/FwZ9acLg/3bhY7VUV4SIqxZWIgit1DBWpL58XQWAgZaSAI5J7WCp4348BIlhOh8Ci0RWh5+d6F2JlUkLVS1rcth1PxMmHkKPQd9Mqx/+X77PTJAUqVvNbNze1ktO19/Cmr+I12PbOOBiLXhjkQ+s5I1oD1/xbysKGbw77M2so1Wpbdl5P+aqIkeGpS55uOx+ZQyVWEyPOsRYvT0qDIjRyvMdcTzPXZHPYvoi8hdck0VIbBkD0phl67ojjyV/CjfxG36yEwOEmbz5rQjHShNOSXwGSz3tO4ldvmS+LHdhk5Y1RUARWNdoRkNQMdO0OUOxbcGPpQV5tjkfGr+knzj4/BxcaggxasvtAz9EBTMCiyLnWNowvhCKt8wLmVLzTm5nDbUWcfV5qne3XxVMJRRKDx0Rq/99arFBCE6xDP9kiVE1L9SypT1XaN0+MW0m12X1kZWsCYaA4YsQaFPiXQceMAlUFPrDrIm9XkugdpCyrasnnkQT2uCKk1+2xV0wkfsgi2Adz7zETXfuVpowS7vPB87MeVxJAideE9njaTc9o62galVdikROf0P7CRH947QWzBS5tabonLCoC0qf/RlEmRuQLj1Or98jOtrJNq+VATYpFjLRqXMsV6hQfBCoABU+6G/rbDxf5YE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NjYzMzQzMTQ4OSwKICAicHJvZmlsZUlkIiA6ICJhYTA3ZjM2Mjk0NTM0YzYwODQzMjI4NzAzZTBlMjE3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfU2FrdXlhX0l6YXlvaV8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWE5ZGNkYTY0MmE4MDdjZDJkYWE0YWE2YmU4N2NlZjk2ZTA4YThjOGY1Y2VjMjY1N2RkYTQyNjZjNmE4ODRjMiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aSheep§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aBlack Sheep Skin\"}}",
     "damage": 3,
     "lore": [
       "§8Consumed on use",
       "",
-      "§7§7Pet skins change the look and",
+      "§7Pet skins change the look and",
       "§7particle trail of your pet but only",
       "§7one skin can be active at a time!",
       "",
-      "§7§7This skin can only be applied to",
-      "§7Sheep pets.",
+      "§7This skin can only be applied to",
+      "§aSheep§7 pets.",
       "",
-      "§7§eRight-click on your summoned pet to",
+      "§eRight-click on your summoned pet to",
       "§eapply this skin!",
       "",
       "§a§lUNCOMMON COSMETIC"
     ],
     "internalname": "PET_SKIN_SHEEP_BLACK",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Black_Sheep_Skin"
@@ -186397,27 +186401,27 @@
   "PET_SKIN_SHEEP_LIGHT_GREEN": {
     "itemid": "minecraft:skull",
     "displayname": "§aLight Green Sheep Skin",
-    "nbttag": "{overrideMeta:1b,HideFlags:254,SkullOwner:{Id:\"235159c0-4c38-356f-8a2b-519b15d03730\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2YxODNlYzJmZTU4ZmFhNDNlNTY4NDE5YjdhMGRjNDQ2ZWNlNGVhMGJlNTJlYzc4NGM5NGUxZDc0Yjc1OTM5ZCJ9fX0K\"}]}},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7§7This skin can only be applied to\",7:\"§7Sheep pets.\",8:\"\",9:\"§7§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aLight Green Sheep Skin\"},ExtraAttributes:{id:\"PET_SKIN_SHEEP_LIGHT_GREEN\"},AttributeModifiers:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_SHEEP_LIGHT_GREEN\",originTag:\"FIRE_SALE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"4e72d5e2-36f0-3367-8091-036b0b9becd2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"YgXVHAwaWf8FG6fHPLCmqtBN7s7/Xfd+qVI8ez/EYBplw0OCiBatUhvOcXmVVJ4FFeByzwBvfxM7oR1/kXgK2cecDduPqxrJeQjCRuyFocdoSGKUzWshYBWFu1svpI3+V2wWrVKgNyvBi+GRmQ+yHBrQbiXYUfQbTRdmuLId9+z6nHf6oMSPR2+UtrNiZ90XxSE2LiTwevpMoch+4UsqIhHqpa1noU5tBuDlpLrf6Cd351jSkWG3A2w3jfd7kEmSX1aCPk3szLtA9tMlD5Wug24p02DZVcnj+wE7nUElis38D1BBxQTMm+laXbIb5tXO1eq8rhQuF03rHySi/u7ahQZ7InxFAmgTy2srHTBC3sup9Un5fepF2yXkQOGGnd7Emvrqe7lDnwsK/pXssNJ4Mpg8ud0GBzlQrTfz5VbEPPr8OatbxHjyd72o6kiBaqgTz88/TO2mbcR8o2nlH2Z1Cn9Shw/gn3odPdCZe6xonop3snIidGUuPMcCEIKUu9hMHp8K4XFMbUvGqV6GuMS5mH4ZIZWXC68TaQez6EdapQzvnofbVEbpbtmmORWSTHyZD5037/zPLHqV7SqxHfGbMttqIKlOAaUEm/gaMUXTSlrbQ9NP24zDgoFsnsDDMqvG8RF9Bij+4jH25FqtH1CgOnHRAUeywDlxqIMowWoLEHo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NjY4OTA4MDAyNiwKICAicHJvZmlsZUlkIiA6ICJlNTE5NzUxYjIzMzQ0ZTExYjBhOTRiNzg1OGY0MTNlMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDdXJsaWVyVGh5bWU5NTciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2YxODNlYzJmZTU4ZmFhNDNlNTY4NDE5YjdhMGRjNDQ2ZWNlNGVhMGJlNTJlYzc4NGM5NGUxZDc0Yjc1OTM5ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aSheep§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aLight Green Sheep Skin\"}}",
     "damage": 3,
     "lore": [
       "§8Consumed on use",
       "",
-      "§7§7Pet skins change the look and",
+      "§7Pet skins change the look and",
       "§7particle trail of your pet but only",
       "§7one skin can be active at a time!",
       "",
-      "§7§7This skin can only be applied to",
-      "§7Sheep pets.",
+      "§7This skin can only be applied to",
+      "§aSheep§7 pets.",
       "",
-      "§7§eRight-click on your summoned pet to",
+      "§eRight-click on your summoned pet to",
       "§eapply this skin!",
       "",
       "§a§lUNCOMMON COSMETIC"
     ],
     "internalname": "PET_SKIN_SHEEP_LIGHT_GREEN",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Light_Green_Sheep_Skin"
@@ -186814,27 +186818,27 @@
   "PET_SKIN_SHEEP_WHITE": {
     "itemid": "minecraft:skull",
     "displayname": "§aWhite Sheep Skin",
-    "nbttag": "{overrideMeta:1b,HideFlags:254,SkullOwner:{Id:\"354676d5-1529-327c-b06e-899b92132403\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjkyYTFhNWMzMjVmMjVmNzQzOGEwYWJiNGY4NmJhNmNmNzU1NTJkMDJjNzM0OWE3MjkyOTgxNDU5YjMxZDJmNyJ9fX0K\"}]}},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7§7This skin can only be applied to\",7:\"§7Sheep pets.\",8:\"\",9:\"§7§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aWhite Sheep Skin\"},ExtraAttributes:{id:\"PET_SKIN_SHEEP_WHITE\"},AttributeModifiers:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_SHEEP_WHITE\",originTag:\"FIRE_SALE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"347bbe04-dc04-3966-931f-6076b058b337\",Properties:{textures:[0:{Name:\"textures\",Signature:\"P/dvyhAElOFKShm7P4TJ//C/pHWMDK/wnNtn21GYqBUgEiwUZTaR5npAcnx/raqzlRQ2BhOknfntC+FnhJiBPvogLhjGbGxuhnoYHaAdH416p8EADh4EZqBd4Br4JzJFdeVEDowfqUS7B9qCTWaP7D5qxquZt8lV1RfiKQOqH5M6KaC0VZt9NN3M1wRd6j1vFMyoDOPey+t9T9P59OzzrpmoclaU+AV9oyrger0RB6pLIoLnAwQbLW5i5vtQ4extxD0vaLG29ZncUBvc1vbxtKFh6oAb+Z0k/TRLmro3O5uMrj0XfNwFacQLYunCXLYkgQ6iHEX2PlOj3z3Glx8ByugquYFrhVVhk5BoWAU100JHaBwMFdOwr/iWCNS9PfL6m7CU1ch20d+EWk0PM6ETOggLURKcuWWh7yuK1VdL+5saqFia0yC33kfRUrp4DJmcffuQrSERAhq4KZv6JltsLMxQgBi3W6VIFR1Ei6iGj/rnZvV/npbKx1HDPBatNBHkgRPW2QW8KCmc4fEy/Xgd98D4ldsTA+Fwt7fzaEbAzAkZJiDrLik9T6Oy8x+fcOWqikr++bc469TTLtqOe+ETvYaHvj21xBjP/p5BVDlUM+v7xXQVk2YTCuFdIAihFj/SAyypwyeR83hKz6wUDGMio+ARj31jhXS45om9baOnJts=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NjY4OTIwMjU1NCwKICAicHJvZmlsZUlkIiA6ICIwODFiZTAxZmZlMmU0ODMyODI3MDIwMjBlNmI1M2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXJpY1BsYXRlMjUyNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjkyYTFhNWMzMjVmMjVmNzQzOGEwYWJiNGY4NmJhNmNmNzU1NTJkMDJjNzM0OWE3MjkyOTgxNDU5YjMxZDJmNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aSheep§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§a§lUNCOMMON COSMETIC\"],Name:\"§aWhite Sheep Skin\"}}",
     "damage": 3,
     "lore": [
       "§8Consumed on use",
       "",
-      "§7§7Pet skins change the look and",
+      "§7Pet skins change the look and",
       "§7particle trail of your pet but only",
       "§7one skin can be active at a time!",
       "",
-      "§7§7This skin can only be applied to",
-      "§7Sheep pets.",
+      "§7This skin can only be applied to",
+      "§aSheep§7 pets.",
       "",
-      "§7§eRight-click on your summoned pet to",
+      "§eRight-click on your summoned pet to",
       "§eapply this skin!",
       "",
       "§a§lUNCOMMON COSMETIC"
     ],
     "internalname": "PET_SKIN_SHEEP_WHITE",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/White_Sheep_Skin"
@@ -190830,15 +190834,18 @@
   "PISTON_STICKY_BASE": {
     "itemid": "minecraft:sticky_piston",
     "displayname": "§fSticky Piston",
-    "nbttag": "{HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSticky Piston\"},ExtraAttributes:{id:\"PISTON_STICKY_BASE\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PISTON_STICKY_BASE\"},HideFlags:254,ItemModel:\"minecraft:sticky_piston\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fSticky Piston\"}}",
     "damage": 0,
     "lore": [
       "§f§lCOMMON"
     ],
     "internalname": "PISTON_STICKY_BASE",
-    "modver": "1.3-REL",
-    "vanilla": true,
     "clickcommand": "viewrecipe",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": [],
+    "vanilla": true,
     "recipe": {
       "A1": "SLIME_BALL:1",
       "A2": "",
@@ -198633,7 +198640,7 @@
   "PRICELESS_THE_FISH": {
     "itemid": "minecraft:skull",
     "displayname": "§cPriceless the Fish",
-    "nbttag": "{ExtraAttributes:{auction:19,bid:4,date:1773689612526L,id:\"PRICELESS_THE_FISH\",player:\"§b[MVP§c+§b] GraySleet§f\",price:222222222L},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f9e47c65-dc15-35b7-9b77-de1990f07263\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZleSgEDMTpVsOJFy89pYkGm2O/Fb/vk7sdgkiST/xYOnAAtZ3yVJFQ5ERqpR1ZDADU679cQsCx/1QKcruBCy3rMKWs8EyobFFdI+5W3pe/EYANrTp2pavF3tyHqXnp6pIdSUtDAPOfR7ML24VqpvDyP64iKMJMC40EZROYKYRwJi5wAjynFCp1ES5yLBZervrgZnhnGvs6qZwdrxsNZjIbbrbAK3hOrKjEGFfzK0pNiOEtX5n7omkmeg/i18siu2cN+MOASNe/RVNJ8Ht5iLaBbd9sUa6weehTYioqULQMiEdxYxZIG5LUXeEWEuplcRjtAjOMP4EkNLvKnDno+iwII6kZr+xLjqegCyvDjVwD0mjy0rPjfw3OqznLEB9qXigZQhSTLcMFWSK+iP/FRaivenklMdXZS9azlIuhVm1+tj4u3ahZ5iHo+1cR1sKyLX9lQ1JeJNcwkmq3H+sbDEE0BymQMCRshNqB1qWZNzI/cVfS4Y27R4qwoZmieULWVNBteSrYmGrMiwrMgbyC4/o+H3JCNvUJmA0b48SLZIIHTfrh6Yiu+8+9Yhjeo6BbNYVxLbC1xl4EWOpNVtBaJippd87vb4hIvu4ByVzg78nsPPyiPmieTiw9Ru1u469rrt/RjIk5a6ZPmvMbX8C6NTxmDrNarij1s+83Fvicn8fik=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NTk0NTY2NDAxMiwKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2FiZTg3ODM0OTRkMTEzZmQ3MTk4OGMyMGVjMTQxYzVhYjhkZjdhMzY4YTRiNzQ5NTBkZjkxZjZlZTI0MzE1ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7The living proof that fish\",1:\"§7understand very little about\",2:\"§7economics.\",3:\"\",4:\"§7Purchased b: §b[MVP§2+§b] ThatGravyBoat\",5:\"\",6:\"§8Edition #1\",7:\"§8July 2022\",8:\"\",9:\"§c§lSPECIAL\"],Name:\"§cPriceless the Fish\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRICELESS_THE_FISH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f9e47c65-dc15-35b7-9b77-de1990f07263\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZleSgEDMTpVsOJFy89pYkGm2O/Fb/vk7sdgkiST/xYOnAAtZ3yVJFQ5ERqpR1ZDADU679cQsCx/1QKcruBCy3rMKWs8EyobFFdI+5W3pe/EYANrTp2pavF3tyHqXnp6pIdSUtDAPOfR7ML24VqpvDyP64iKMJMC40EZROYKYRwJi5wAjynFCp1ES5yLBZervrgZnhnGvs6qZwdrxsNZjIbbrbAK3hOrKjEGFfzK0pNiOEtX5n7omkmeg/i18siu2cN+MOASNe/RVNJ8Ht5iLaBbd9sUa6weehTYioqULQMiEdxYxZIG5LUXeEWEuplcRjtAjOMP4EkNLvKnDno+iwII6kZr+xLjqegCyvDjVwD0mjy0rPjfw3OqznLEB9qXigZQhSTLcMFWSK+iP/FRaivenklMdXZS9azlIuhVm1+tj4u3ahZ5iHo+1cR1sKyLX9lQ1JeJNcwkmq3H+sbDEE0BymQMCRshNqB1qWZNzI/cVfS4Y27R4qwoZmieULWVNBteSrYmGrMiwrMgbyC4/o+H3JCNvUJmA0b48SLZIIHTfrh6Yiu+8+9Yhjeo6BbNYVxLbC1xl4EWOpNVtBaJippd87vb4hIvu4ByVzg78nsPPyiPmieTiw9Ru1u469rrt/RjIk5a6ZPmvMbX8C6NTxmDrNarij1s+83Fvicn8fik=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NTk0NTY2NDAxMiwKICAicHJvZmlsZUlkIiA6ICJmMTA0NzMxZjljYTU0NmI0OTkzNjM4NTlkZWY5N2NjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6aWFkODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2FiZTg3ODM0OTRkMTEzZmQ3MTk4OGMyMGVjMTQxYzVhYjhkZjdhMzY4YTRiNzQ5NTBkZjkxZjZlZTI0MzE1ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7The living proof that fish\",1:\"§7understand very little about\",2:\"§7economics.\",3:\"\",4:\"§7Purchased b: §b[MVP§2+§b] ThatGravyBoat\",5:\"\",6:\"§8Edition #1\",7:\"§8July 2022\",8:\"\",9:\"§c§lSPECIAL\"],Name:\"§cPriceless the Fish\"}}",
     "damage": 3,
     "lore": [
       "§7The living proof that fish",
@@ -198650,7 +198657,7 @@
     "internalname": "PRICELESS_THE_FISH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g19f28a05",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Priceless_the_Fish"
@@ -200707,23 +200714,24 @@
   "PROTECTOR_BABY": {
     "itemid": "minecraft:skull",
     "displayname": "§5Baby Skin",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"0ef061e1-4b93-3296-bb58-02dde676655c\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTc5YzkxNDQ0OTZkMjFmMzMzNGIzMjQzN2RlZWI2MzM3OTc2NjM5OWQwYTkyYmMwNjcxMmJhNTkyYmMyMzdlNiJ9fX0K\"}]}},display:{Lore:[0:\"§7§7Item skins give your gear a\",1:\"§7fresh new look! Apply them just\",2:\"§7like an enchant book using the\",3:\"§7anvil.\",4:\"§7\",5:\"§7§7This skin can be applied to\",6:\"§7§a§6Protector Dragon Helmet\",7:\"\",8:\"§5§lEPIC COSMETIC\"],Name:\"§5Baby Skin\"},ExtraAttributes:{originTag:\"FIRE_SALE\",id:\"PROTECTOR_BABY\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PROTECTOR_BABY\",originTag:\"FIRE_SALE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"98fc7063-0c17-3a10-8e82-7f6d6b0df142\",Properties:{textures:[0:{Name:\"textures\",Signature:\"arjxlsjzxOiGTgUbCmKOSNGc2gYHXnJW+SpCXZJC2F5ssTFXrC80dizokVyKH4CIK8xFJVTYOs+h60CwlkVacGszUvM5WVqcCGYphZhCwjZwKYLUHdn/lPaqAZbAXFlOuA7I2GSU5HYHs5pI9t6e5nHPu1xhBT/MnzA/uUzDBMLefKc69PPOsjgXwTLT2iDGFHg+uwFyLvsIcs7VH4TDewWANDNKGeoWhxJ3AvYMMqj/yE8iiXhBC0ioRRQ4MDnWQlHRcRt8yCu05naHkg2dts5w4Nsb9N4YuAiD76UOXz4BYwF/V9YWiakepN37eie8ycYmeajVfHrReapUh38nOj2lmBzeOKBusDxFFtpBvCZpB3BCdcKXnIwCRLkcerjYUGHo40hqYm8ghRlla+Wf1aATixn0bQEc5WqvEIytY0vFUFGZgP0vJ0FBiHn9UKEkKhyGlaGdZGFoYtCCr8nlpYYn3Fghpx8dAE9u7Ej5hZau5XeB97rbi4nDtGYkw0MlsKvQFQ35ti6eFyWIBw6asywnwEGdsb5YTgcdZOj5t1hlQ1VECNN9ukEED11ZveLlsusHfbzPrVBN/1gnimSWIApHlkt7N1hCEIUQtXSQG3LHcwoN3nuHy6kpMAxIBQ0nfDRPuXlf+9nZG36voK/mGgpVM3+o2K3Morv6El2uBmY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NjYzMDc4MDM3NSwKICAicHJvZmlsZUlkIiA6ICI1YzY1MGIwMWIyYWE0MTY2ODIyMDQyNzA3YzMyMmU5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdXJwTEFCIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk3OWM5MTQ0NDk2ZDIxZjMzMzRiMzI0MzdkZWViNjMzNzk3NjYzOTlkMGE5MmJjMDY3MTJiYTU5MmJjMjM3ZTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §6Protector\",7:\"§6Dragon Helmet§7.\",8:\"\",9:\"§5§lEPIC COSMETIC\"],Name:\"§5Baby Skin\"}}",
     "damage": 3,
     "lore": [
-      "§7§7Item skins give your gear a",
-      "§7fresh new look! Apply them just",
-      "§7like an enchant book using the",
-      "§7anvil.",
-      "§7",
-      "§7§7This skin can be applied to",
-      "§7§a§6Protector Dragon Helmet",
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §6Protector",
+      "§6Dragon Helmet§7.",
       "",
       "§5§lEPIC COSMETIC"
     ],
     "internalname": "PROTECTOR_BABY",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.1.0-REL",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Baby_Skin"
@@ -230701,7 +230709,7 @@
   "SKYBLOCK_DESERT_WHISPERS": {
     "itemid": "minecraft:dye",
     "displayname": "§6Desert Whispers",
-    "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_DESERT_WHISPERS\"},HideFlags:254,ItemModel:\"minecraft:orange_dye\",display:{Lore:[0:\"§7Used for NEU Recipes\",1:\"\",2:\"§c§l§ka§r §c§lSPECIAL §c§l§ka\"],Name:\"§6Desert Whispers\",color:10511680}}",
+    "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_DESERT_WHISPERS\"},HideFlags:254,ItemModel:\"minecraft:orange_dye\",display:{Lore:[0:\"§7Used for NEU Recipes\",1:\"\",2:\"§c§l§ka§r §c§lSPECIAL §c§l§ka\"],Name:\"§6Desert Whispers\"}}",
     "damage": 14,
     "lore": [
       "§7Used for NEU Recipes",
@@ -230948,7 +230956,7 @@
   "SKYBLOCK_HELIX_TREE_GIFTS": {
     "itemid": "minecraft:skull",
     "displayname": "§cHelix Tree Gifts",
-    "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_HELIX_TREE_GIFTS\"},HideFlags:254,ItemModel:\"minecraft:stripped_mangrove_wood\",SkullOwner:{Id:\"b2133e73-1b01-32f7-a993-5fe22e09b804\",Properties:{textures:[0:{Name:\"textures\",Signature:\"gfveUhWhAPvD8T/4WJfqHb/sn1qg8cmhFFtqBekCRkCILsAnV8O0yLMualDi+umHXnu5/h63GwLUnQ5LZgsA8ssI/Usxv+Y9h2LjeSHWHJ8jrtDmhSfaBW2GEzqojkfKIDPHrr5+sKnKq7k9Coc9/Ux7N2AmAF17MlmxysGlgQJDu68qdD5RhB53dKnAbTBkvsSMb0hnOcas+IBRudXvj8UK/kKIZBjzh4m0BSspTYx8nst/E3MNo9AIrzRr8KTLPM2wTa1ExoZCpVtDtgp+VYlNjl0THO3nGctkH6ItrFg9oltsK7IN1q/8TCIzH7Es6wl+hMTyUb1nwi9n78CjOOadkz1PXClbXx0qlwbxnOr2uWa8qBEpXreO0+gp4ymNCBJOYK3PilqDRCUemiQuHrEV2jkFgHP45Qb6JFtj5ne+FSFzd/Pu07upI76YfAqU5qiGcj+0adI0PhvkFMWYTvc56ov4bx2amLBP5zltbO6ai+1pKqvPzFfTNLVyv3/fl5r1os6qqrpZcVUvLSWfQ+viGCc6k8Xyh5XmI84hmvLhndJuNM7q9svu07bGgSFyxuJCOOxMlUepDV1nSMKMj4Fqfoir/VLJHJm2OCej2PZcTCoaKoENU+ap7BujB3cLla+Kz/5hMCCPpJTDTmhgiqKvZ6yVi36L249SFW+jMx0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwMzY3MTE1NiwKICAicHJvZmlsZUlkIiA6ICI2MjgwNTgwYzhkYzg0MWM5YjYyZjY0NTZjMWVjNWJjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPMnRoZUMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU4M2VkYmZhODVlNDVjZGRhNjNjODI4MzEzODkzOGUyZjBmMTM1YTE1NWEyZWM0NmQ2NWE5ZDYxNzdmOGYzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwMzY3MTE1NiwKICAicHJvZmlsZUlkIiA6ICI2MjgwNTgwYzhkYzg0MWM5YjYyZjY0NTZjMWVjNWJjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPMnRoZUMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU4M2VkYmZhODVlNDVjZGRhNjNjODI4MzEzODkzOGUyZjBmMTM1YTE1NWEyZWM0NmQ2NWE5ZDYxNzdmOGYzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Used for NEU Recipes\",1:\"\",2:\"§c§l§ka§r §c§lSPECIAL §c§l§ka\"],Name:\"§cHelix Tree Gifts\",color:10511680}}",
+    "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_HELIX_TREE_GIFTS\"},HideFlags:254,ItemModel:\"minecraft:stripped_mangrove_wood\",SkullOwner:{Id:\"b2133e73-1b01-32f7-a993-5fe22e09b804\",Properties:{textures:[0:{Name:\"textures\",Signature:\"gfveUhWhAPvD8T/4WJfqHb/sn1qg8cmhFFtqBekCRkCILsAnV8O0yLMualDi+umHXnu5/h63GwLUnQ5LZgsA8ssI/Usxv+Y9h2LjeSHWHJ8jrtDmhSfaBW2GEzqojkfKIDPHrr5+sKnKq7k9Coc9/Ux7N2AmAF17MlmxysGlgQJDu68qdD5RhB53dKnAbTBkvsSMb0hnOcas+IBRudXvj8UK/kKIZBjzh4m0BSspTYx8nst/E3MNo9AIrzRr8KTLPM2wTa1ExoZCpVtDtgp+VYlNjl0THO3nGctkH6ItrFg9oltsK7IN1q/8TCIzH7Es6wl+hMTyUb1nwi9n78CjOOadkz1PXClbXx0qlwbxnOr2uWa8qBEpXreO0+gp4ymNCBJOYK3PilqDRCUemiQuHrEV2jkFgHP45Qb6JFtj5ne+FSFzd/Pu07upI76YfAqU5qiGcj+0adI0PhvkFMWYTvc56ov4bx2amLBP5zltbO6ai+1pKqvPzFfTNLVyv3/fl5r1os6qqrpZcVUvLSWfQ+viGCc6k8Xyh5XmI84hmvLhndJuNM7q9svu07bGgSFyxuJCOOxMlUepDV1nSMKMj4Fqfoir/VLJHJm2OCej2PZcTCoaKoENU+ap7BujB3cLla+Kz/5hMCCPpJTDTmhgiqKvZ6yVi36L249SFW+jMx0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwMzY3MTE1NiwKICAicHJvZmlsZUlkIiA6ICI2MjgwNTgwYzhkYzg0MWM5YjYyZjY0NTZjMWVjNWJjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPMnRoZUMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU4M2VkYmZhODVlNDVjZGRhNjNjODI4MzEzODkzOGUyZjBmMTM1YTE1NWEyZWM0NmQ2NWE5ZDYxNzdmOGYzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwMzY3MTE1NiwKICAicHJvZmlsZUlkIiA6ICI2MjgwNTgwYzhkYzg0MWM5YjYyZjY0NTZjMWVjNWJjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJPMnRoZUMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU4M2VkYmZhODVlNDVjZGRhNjNjODI4MzEzODkzOGUyZjBmMTM1YTE1NWEyZWM0NmQ2NWE5ZDYxNzdmOGYzZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Used for NEU Recipes\",1:\"\",2:\"§c§l§ka§r §c§lSPECIAL §c§l§ka\"],Name:\"§cHelix Tree Gifts\"}}",
     "damage": 3,
     "lore": [
       "§7Used for NEU Recipes",
@@ -280327,7 +280335,7 @@
   "WAND_OF_STRENGTH": {
     "itemid": "minecraft:stick",
     "displayname": "§5Wand of Strength",
-    "nbttag": "{ExtraAttributes:{id:\"WAND_OF_STRENGTH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/wand_of_strength\",display:{Lore:[0:\"§7Damage: §c+50\",1:\"§7Strength: §c+20\",2:\"\",3:\"§6Ability: Life Blood  §e§lRIGHT CLICK\",4:\"§7Use §c10% §7of your max health to boost your\",5:\"§7nearby allies by §c+30 Strength §7for 10\",6:\"§7seconds.\",7:\"§8Health Cost: §c15.6\",8:\"§8Cooldown: §a1s\",9:\"\",10:\"§4❣ §cRequires §aCombat Skill 22§c.\",11:\"§5§lEPIC WAND\"],Name:\"§5Wand of Strength\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"WAND_OF_STRENGTH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/wand_of_strength\",display:{Lore:[0:\"§7Damage: §c+50\",1:\"§7Strength: §c+20\",2:\"\",3:\"§6Ability: Life Blood  §e§lRIGHT CLICK\",4:\"§7Use §c10% §7of your max health to boost your\",5:\"§7nearby allies by §c+30 Strength §7for 10\",6:\"§7seconds.\",7:\"§8Health Cost: §c10\",8:\"§8Cooldown: §a1s\",9:\"\",10:\"§4❣ §cRequires §aCombat Skill 22§c.\",11:\"§5§lEPIC WAND\"],Name:\"§5Wand of Strength\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+50",
@@ -280337,7 +280345,7 @@
       "§7Use §c10% §7of your max health to boost your",
       "§7nearby allies by §c+30 Strength §7for 10",
       "§7seconds.",
-      "§8Health Cost: §c15.6",
+      "§8Health Cost: §c10",
       "§8Cooldown: §a1s",
       "",
       "§4❣ §cRequires §aCombat Skill 22§c.",
@@ -280346,7 +280354,7 @@
     "internalname": "WAND_OF_STRENGTH",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wand_of_Strength"
@@ -292434,7 +292442,7 @@
   "ZOMBIE_SOLDIER_CUTLASS": {
     "itemid": "minecraft:iron_sword",
     "displayname": "§9Zombie Soldier Cutlass",
-    "nbttag": "{ExtraAttributes:{id:\"ZOMBIE_SOLDIER_CUTLASS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/zombie_soldier_cutlass\",display:{Lore:[0:\"§7Gear Score: §d283\",1:\"§7Damage: §c+52\",2:\"§7Strength: §c+26\",3:\"§7Attack Speed: §e+100%\",4:\"\",5:\"§6Ability: Love Tap \",6:\"§7Heals you for §c+10 Health §7when you hit an\",7:\"§7entity while in Dungeons!\",8:\"\",9:\"§8This item can be reforged!\",10:\"§4❣ §cRequires Catacombs Skill 5.\",11:\"§9§lRARE DUNGEON SWORD\"],Name:\"§9Zombie Soldier Cutlass\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ZOMBIE_SOLDIER_CUTLASS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/zombie_soldier_cutlass\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d283\",1:\"§7Damage: §c+52\",2:\"§7Strength: §c+26\",3:\"§7Attack Speed: §e+100%\",4:\"\",5:\"§6Ability: Love Tap \",6:\"§7Heals you for §c+10 Health §7when you hit an\",7:\"§7entity while in Dungeons!\",8:\"\",9:\"§8This item can be reforged!\",10:\"§4❣ §cRequires Catacombs Skill 5.\",11:\"§9§lRARE DUNGEON SWORD\"],Name:\"§9Zombie Soldier Cutlass\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d283",
@@ -292453,7 +292461,7 @@
     "internalname": "ZOMBIE_SOLDIER_CUTLASS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Zombie_Soldier_Cutlass"
