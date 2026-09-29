@@ -60444,7 +60444,7 @@
   "DIAZ_MAYOR_MONSTER": {
     "itemid": "minecraft:skull",
     "displayname": "§6Diaz (Mayor)",
-    "nbttag": "{ExtraAttributes:{id:\"DIAZ_MAYOR_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1db65f3f-1d34-40b1-869f-06cd046aa90b\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5Nzc4MTU4MDMzNSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWNmNDczN2NkNDQ0YjU5MDU0NTczNGE2NDA4Y2JlMjNjMTgyZjQyODNmMTY3YTNlM2MwOTUzMmNjYmVmMTdmOSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Candidate\",1:\"\",2:\"§6Stock Exchange\",3:\"§7Participate in the §dStonks Auction\",4:\"§7for a chance to win §5Stock of\",5:\"§5Stonks§7! Trade them for\",6:\"§6extravagant items §7at the §b⏣Trade\",7:\"§bCenter§7.\",8:\"\",9:\"§6Volume Trading\",10:\"§aDouble §7the item quantity from §6Shen's\",11:\"§6Auction§7, §6Shen's Special§7, and §6Rift Shen's\",12:\"§7on the year Diaz is elected. Two additonal\",13:\"§6Shen's Special §7auctions will be\",14:\"§7available for the duration of Diaz being\",15:\"§7elected as Mayor\",16:\"\",17:\"§6Long Term Investment\",18:\"§7The elected §bminister §7will appear in\",19:\"§7the next §aElection §7with §dall §7of \",20:\"§7their available perks.\",21:\"\",22:\"§6Shopping Spree\",23:\"§7Increase daily NPC buy limits by §e10x§7.\"],Name:\"§6Diaz (Mayor)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DIAZ_MAYOR_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1db65f3f-1d34-40b1-869f-06cd046aa90b\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5Nzc4MTU4MDMzNSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWNmNDczN2NkNDQ0YjU5MDU0NTczNGE2NDA4Y2JlMjNjMTgyZjQyODNmMTY3YTNlM2MwOTUzMmNjYmVmMTdmOSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Candidate\",1:\"\",2:\"§6Stock Exchange\",3:\"§7Participate in the §dStonks Auction\",4:\"§7for a chance to win §5Stock of\",5:\"§5Stonks§7! Trade them for\",6:\"§6extravagant items §7at the §bTrade\",7:\"§bCenter§7.\",8:\"\",9:\"§6Volume Trading\",10:\"§7The available item quantity per\",11:\"§6Shen's Auction §7has been doubled,\",12:\"§7and two additional §6Shen's Special\",13:\"§7auctions will be §7available if Diaz is\",14:\"§7Mayor\",15:\"\",16:\"§6Long Term Investment\",17:\"§7The §belected minister §7will appear as\",18:\"§7a candidate with §dall §7of their perks\",19:\"§7in the §anext election cycle§7.\",20:\"\",21:\"§6Shopping Spree\",22:\"§7Increase daily NPC buy limits by\",23:\"§e10x§7.\"],Name:\"§6Diaz (Mayor)\"}}",
     "damage": 3,
     "lore": [
       "§8Candidate",
@@ -60453,24 +60453,24 @@
       "§7Participate in the §dStonks Auction",
       "§7for a chance to win §5Stock of",
       "§5Stonks§7! Trade them for",
-      "§6extravagant items §7at the §b⏣Trade",
+      "§6extravagant items §7at the §bTrade",
       "§bCenter§7.",
       "",
       "§6Volume Trading",
-      "§aDouble §7the item quantity from §6Shen's",
-      "§6Auction§7, §6Shen's Special§7, and §6Rift Shen's",
-      "§7on the year Diaz is elected. Two additonal",
-      "§6Shen's Special §7auctions will be",
-      "§7available for the duration of Diaz being",
-      "§7elected as Mayor",
+      "§7The available item quantity per",
+      "§6Shen's Auction §7has been doubled,",
+      "§7and two additional §6Shen's Special",
+      "§7auctions will be §7available if Diaz is",
+      "§7Mayor",
       "",
       "§6Long Term Investment",
-      "§7The elected §bminister §7will appear in",
-      "§7the next §aElection §7with §dall §7of ",
-      "§7their available perks.",
+      "§7The §belected minister §7will appear as",
+      "§7a candidate with §dall §7of their perks",
+      "§7in the §anext election cycle§7.",
       "",
       "§6Shopping Spree",
-      "§7Increase daily NPC buy limits by §e10x§7."
+      "§7Increase daily NPC buy limits by",
+      "§e10x§7."
     ],
     "internalname": "DIAZ_MAYOR_MONSTER",
     "clickcommand": "",
@@ -66017,6 +66017,29 @@
       "https://hypixelskyblock.minecraft.wiki/w/Secret_Dye"
     ]
   },
+  "DYE_SLUDGE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aSludge Dye",
+    "nbttag": "{ExtraAttributes:{id:\"DYE_SLUDGE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c6e297a0-4911-3e36-9a49-571d0da9905e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"sxC6ozBZuAW2asEPm6ufL2DGIkq0TAQJsBvt/BaPjhEXBIONy69+pVcaG/4OuaSkDzQg9CW80r4rmJAz2sdECjlkMHsYm9MrlQKMSCbWocRLZNHnMmAif9ozPbkrj4w9JRSKzqw6DNdP+9bEF+UEvLArWiajGDtdxwtOeOye+PsbGsZnKqUoFj6KnP+aqX82JhCBIjFhIJpJ6Ph2u+kv8eLvPVoOMJz/emoHAFDj6Ww1dGgrIw1AIevPL3DYalPT8tOgvG3eP0Yuxms9tpF0LoLROvP9OwowaxL++aeepLzP+v3B9f4r9qWPUCCL/o52xp0Bn9Mki+0lMv0UNf/q9BN3llgzv9TJIOxtPt71CJAEvqJ/mpneBiOh8/clH2tXkInR8xrbV5SB3Mzcd4XQyqSK+9OPvu5hcOJDLYa4H6OnCMc7ptohdB8PyLYIdnWRJ3EByJbSJunkdlQXvjs15HyYOTXAsSOVoU/n9S1hK/B06PZkyOISizOZaI4nSpm5hRHp9x1E8Je0xoX0QCxIEIbr9w7dMZJJFvw3Yn6bkoPfxkxSbBYYsjpKbNwIPSKOAoxwe1+fVwcVoSPlvm7z/jbbPj5EMXb0YzmMrgWDlDirfUx2c0WdPQtntHq5QmMnl7vzPTJz4H6fQP/tAvdgAwt7jDlakpL+/5KgIHq/vMU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjkzODE2MzI4MywKICAicHJvZmlsZUlkIiA6ICIxZjk0OTQzN2RlYmQ0ODgyYTlhYzZhZmZmN2RhNDcxMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWlra2FLIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxNmI0NjJjNmE4YTllMDZlNTJhOTA3NGZmMzIzNWE0NjRlN2MyMjI1ODQ1NTBkNDAxMWViZjAzNTc2NTUzYzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Animates the color of an armor piece\",3:\"§7between §a#72D159§7 and §a#6FCD58§7!\",4:\"\",5:\"§7This dye also displays a §6special\",6:\"§6particle effect §7when equipped!\",7:\"\",8:\"§d§lMYTHIC DYE\"],Name:\"§aSludge Dye\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Animates the color of an armor piece",
+      "§7between §a#72D159§7 and §a#6FCD58§7!",
+      "",
+      "§7This dye also displays a §6special",
+      "§6particle effect §7when equipped!",
+      "",
+      "§d§lMYTHIC DYE"
+    ],
+    "internalname": "DYE_SLUDGE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
+  },
   "DYE_SNOWFLAKE": {
     "itemid": "minecraft:skull",
     "displayname": "§fSnowflake Dye",
@@ -66038,6 +66061,29 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Snowflake_Dye"
     ]
+  },
+  "DYE_SPIRIT": {
+    "itemid": "minecraft:skull",
+    "displayname": "§3Spirit Dye",
+    "nbttag": "{ExtraAttributes:{id:\"DYE_SPIRIT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a069326e-7dbc-32d4-aad3-b7d0d1ad0904\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oNT/Oah+IrMen78bc0oQaO93A/VaPYtWl0wVdJDaI5epUk+62OMSyQZBFas++yJBYNxkBn3wlGS/Jp+By4jWJjZ5eLF7ly8rUSHhCAUZLKxlWzgjlK6OVfFPQsEGl1RUokA0xMSgELnkP8peGZMEHvlnppDIIvcTT5tRITeSyqpY7WZM+yZQvfrcRbWpzn2zTj0vQeY2quDAwNR+bbvIzbRGO8SE4DG1UCE4YQmPLv5ceVVQN37sjd0fCv7MCVX9gXFOfKT4mM7oQU/gfjuwuqoZ6Zpzcc7fh1BW4ZB8pNdWuKthLnoY7dzjZ5rK2EjOLQMvRmAl2IQPav3KI1LtlG7EDgtfowPZ9Xcrvgt7dZCqGW2HgYft3n+9NBW3g0sfy6VO3P8XD78NufO8g2gRUpgSBI7n1qmd6fH/4z8uXE6O59xkyShw2pWbm+Q0TjD6klQKtx2GQAuCWCA0vua2aFnLreBWc4L3ZvmNIvSxVrpylJ8Tn3Vn6DgI/rsYkdjHW4v/kSTRjnUWN7T91sBkWkRAkDDDxNusp4RS2rVdW+KJGkjXEeHJGoR5lqqAK80cBGuy5W21z/56k6Afg14h8GeojeggYKbQQjTSOHTtStMCckveI6k9IRaBrYxFnB2m1Kvo58mRfhH3YDiOgNW9BT5DKe6DL6NApvCx55RZ+y8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjkzODE2NDQ0OSwKICAicHJvZmlsZUlkIiA6ICIyOGQyZDFmZDEyNGY0NGMyOGYxZDgwNDY4NGFkOTA2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYmFjZGI2ZGRhMDQzNThhZmZjNGNkMGVkMjdjNzU0ZjhmYzRlMGY1NTAwNzcwY2Y2NDE4MWVjNjEzMzIyZmM0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Animates the color of an armor piece\",3:\"§7between §3#00AFB9§7 and §3#00A9B4§7!\",4:\"\",5:\"§7This dye also displays a §6special\",6:\"§6particle effect §7when equipped!\",7:\"\",8:\"§d§lMYTHIC DYE\"],Name:\"§3Spirit Dye\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Animates the color of an armor piece",
+      "§7between §3#00AFB9§7 and §3#00A9B4§7!",
+      "",
+      "§7This dye also displays a §6special",
+      "§6particle effect §7when equipped!",
+      "",
+      "§d§lMYTHIC DYE"
+    ],
+    "internalname": "DYE_SPIRIT",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
   },
   "DYE_SPOOKY": {
     "itemid": "minecraft:skull",
@@ -80744,6 +80790,32 @@
       "https://hypixelskyblock.minecraft.wiki/w/Exploding_Frog"
     ]
   },
+  "EXPLOSIFALL_RUNE;3": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6◆ Explosifall Rune III",
+    "nbttag": "{ExtraAttributes:{id:\"EXPLOSIFALL_RUNE;3\",runes:{EXPLOSIFALL:3}},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ccd101e9-062d-3ea3-9ff9-daa12b8e2ec4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GCK8avV/mvpASWEaOvGAmDS2uf5jZSLRGw0RdIfUKQFEJVvYy92iAqcAeBCmiuv6ENql7n5PS9rcTqlyyV7JvjQ/hy8rch5VqOUDyY0NxFiMxsHCuHKj9OfMmnbSFiUhU0MaLhLlW+u0qRbsYow7xy3nv6Gk+fJULdx8I+zti2lx0uKEA7UNMqbeGBGH95jgTeQdMjhN3chauJanmvZVlG+4F5g4aJNqc4v+EvuIRZ/NFOL1hcLecnLpkbBiI13/yq8CCWaFrD0H8wKAU+9XGZMmW6nG2z0sc7T/6CYuV0UbgC9s/orespgj4uveW7oM3VmgaWqV9Ojp16o/vomcE9wuFmI6zHfMoqIEGVs7uoAVLwxKiQDpBpIYMY83YROXSyiI+enolh5OdDxgt6Eyu5WmWQeHEXYAl7PcWfZKHS+2KuC0SaEcM/qUtBzgVQgdGnv/iTbxnntnRp5rPBb8YwRrxVRfkRJ2l+Qhes9zsodtOwWsQp8Rf/6bCe0GWvp+dfsch0/CBkXVhyyR2IAWINWmUIu6xfy5JSAd2Tn3qe+wT/a81Y/ca+8pZewJ4GHvF2ItvLcE45hiwBgX222kOqYgz9+K8wIQ+9Z/yLKlQXTFvhNes0Gp7wfbM/LMbZriRr2vIodSd8lWLpL8tKdeBIC57Lq5sz0rf8fXiAV0iOc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODc4NTcyODYzMCwKICAicHJvZmlsZUlkIiA6ICJkMjU0ZjQxMDkyNTE0NTdlYmU5NGM5NDQ2ZmIzZTc3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUcmFzaEFwcCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZWE0YzIyODdhZDllNTA1MGRmMTEyZTYxMmE2NWI2NDkzMDZkYzUxMzg4OGYxNDU2MDdlNDU1ZWU1ZWEzNDdjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Requires level 0\",1:\"§8Weapons\",2:\"\",3:\"§7Let the slain be one with nature.\",4:\"§7Changes color based on the current\",5:\"§7SkyBlock season. Obtained from the\",6:\"§7Taylor Fall Bundle.\",7:\"\",8:\"§7Apply this rune to weapons at the\",9:\"§7Runic Pedestal!\",10:\"\",11:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6◆ Explosifall Rune III\"},ench:[]}",
+    "damage": 3,
+    "lore": [
+      "§8Requires level 0",
+      "§8Weapons",
+      "",
+      "§7Let the slain be one with nature.",
+      "§7Changes color based on the current",
+      "§7SkyBlock season. Obtained from the",
+      "§7Taylor Fall Bundle.",
+      "",
+      "§7Apply this rune to weapons at the",
+      "§7Runic Pedestal!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "EXPLOSIFALL_RUNE;3",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
+  },
   "EXPLOSIVE_ARROW": {
     "itemid": "minecraft:arrow",
     "displayname": "§9Explosive Arrow",
@@ -93740,6 +93812,30 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Flower_Sack"
     ]
+  },
+  "FLOWING_FALL_RUNE;3": {
+    "itemid": "minecraft:skull",
+    "displayname": "§c◆ Flowing Fall Rune III",
+    "nbttag": "{ExtraAttributes:{id:\"FLOWING_FALL_RUNE;3\",runes:{FLOWING_FALL:3}},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bb3db4fe-a150-307a-a63a-7d8ea703cea7\",Properties:{textures:[0:{Name:\"textures\",Signature:\"MdkToWgPVid/vyPA0vUatxZSExruRjZI/wmFpYhCKB19fB8nzKgLDflA8iucjYL4xWwiZAPAJhYbuajeAN50iOM4DsEij6RHtW9kSRmnsPij9SGmIrn9/CNslG30mg3p+aqkcXpE1VBDi1S/OtmF0Cb301AZCc5X5ptVlYwb7E9fg0J9j+5c2RqslKdkoWwXqZjrsnhkICLsR4jRtqqyqFnluYtw3a8HEFrIIUi82Qbs7ph7eGbtFkxnN9v6934ntX1vlOKmEjYOfegygNyAXgp6Uxu2Fzv2Ga9j9DiAJEg4YLdyIXIoT0vTyG6oiv8YhBsS9Z5YFY4S1imQGQQTKY1Un6rATp35EQxljdm4fGGq5F6LfyQpMNwucowZBU2aYj8CMGLbnQu7jB1UMWpT2sgudSsS/5yGG6myx7OJYg+ouz5/TUCBNlVIMqQblOtA+bZG9taAFjdWgje5EEOfgPGAiG+UED1g19JQY2q5jHWkEraacMAdJNvm2abVT0Doob0qDdImpsgnxQ79lWfzTkb10Qld8LBdtyhqNIQNAYNJQEKkzruWkaKPHqctKbqw1lgOImlxuKjvdGpgKF9b/jK+LWKbroXZg7L0vJMM2R2hkr0NfBdv79C5yfWTPZ1+MwGphYGPtDOeiigV1g7SQALUGmfDWUx9BK3lJiAQmaA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODc4NTcyNjY4NiwKICAicHJvZmlsZUlkIiA6ICI2YTQ3NjRhZWEwNWY0MTE1OTc0NzFlZjNjYWU4ZTdmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWRlZW5kamVoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhNGQ1MjUzMDBlMmJiNjA2OTc1N2Q2ODk5NWNiNDQyYmEwMDZjODY1NTg4YTUxMDg2MjM3YTQzNTIyYTFlZTgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Requires level 0\",1:\"§8Boots\",2:\"\",3:\"§7Let the flowers hit the floor.\",4:\"§7Obtained from the Taylor Fall Bundle.\",5:\"\",6:\"§7Apply this rune to boots at the Runic\",7:\"§7Pedestal!\",8:\"\",9:\"§6§lLEGENDARY COSMETIC\"],Name:\"§c◆ Flowing Fall Rune III\"},ench:[]}",
+    "damage": 3,
+    "lore": [
+      "§8Requires level 0",
+      "§8Boots",
+      "",
+      "§7Let the flowers hit the floor.",
+      "§7Obtained from the Taylor Fall Bundle.",
+      "",
+      "§7Apply this rune to boots at the Runic",
+      "§7Pedestal!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "FLOWING_FALL_RUNE;3",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
   },
   "FLYCATCHER_UPGRADE": {
     "itemid": "minecraft:web",
@@ -114735,6 +114831,47 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Harvesting"
     ]
+  },
+  "HARVEST_BARN_SKIN": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Harvest Barn Skin",
+    "nbttag": "{ExtraAttributes:{id:\"HARVEST_BARN_SKIN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"eb18a72e-93a5-30b8-aa33-ca8623432372\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GD9KfOcE3f5E3KOnA0aEJbXKMQO7WPvdBp3YF+xs1yFOpWE6VXlPcn0bw2zASTOEIwkuUvpqdUyaeyf7B78enJMreD2bicVhJxd0KCpEKUjYSWCSmd0jxsZ/dIjizv5XLKzVPjS3cQxEPHGWDqXSr/jLb5sNwiOO9ud6TH/L3jRP5UyaF7URZwwRiu4DFHFy77ohpqNnsLev41tYWIjj3RyrlRIrByvDpAWnAlUZ42jEWEBEryPLKHgBMjv9MxBFnGkTuvp6efAVqWZxoSoC1UMoB7DZmln7LqxlgFr7eOeZJs+Z9zpgjfIjspx4DG1JsdZ4mA7dP66FBe3vsieSJEePzv7Y3zswhmyiY050Og9AneBKTNmTTNyKDREPbQNGz49cFLc4D+7WQjnH+GEzs6suzTK/GL0dn3CN0qUQnlbeoWe+KTNd+Z+UoYdqwmCTS+imZyjKp57SOKWZZpaHmpIlBSIALY/FFqfWFGpkf5hpbLFQesnni7O0nYmY5PiR/ESCFP76BgDFHyifFiU+kfD1h+ygNcGkipS9kWG3bAj0GLaxLvmE+vn8djPXt/FU2UX8PJLeyw+xn+z0m/vcUNKXPClhNmXmhgWFkYquk1Cwi0OSV0ZXpziy0aiix2fbYV1FvVzdw2bk1lzevbFcjZE9XdgZZ5f5pL2Ub6bGjPY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODM5MjA0NTE2NCwKICAicHJvZmlsZUlkIiA6ICJhNWM5MmJlODg5MGY0NDU0OTdkNGEwOTM2Yjg1NDc5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbG93ZGVyVGVjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hOTY1MmZhYWY0NDM5YTE4MDBhOTZmNmVmNTEzODYwYzJjZTgzY2M0ODhiZjk0ZGQxOGI5Mjc4YmZlNGY0YTY3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§6Harvest Barn Skin §7on §aThe Garden§7!\",2:\"\",3:\"§eClick to consume!\",4:\"\",5:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Harvest Barn Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Consume this item to unlock the",
+      "§6Harvest Barn Skin §7on §aThe Garden§7!",
+      "",
+      "§eClick to consume!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "HARVEST_BARN_SKIN",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
+  },
+  "HARVEST_GREENHOUSE_SKIN": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Harvest Greenhouse Skin",
+    "nbttag": "{ExtraAttributes:{id:\"HARVEST_GREENHOUSE_SKIN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"813a2bd4-8515-35c2-a1d0-208616229019\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jgPPgzU5upWKC8Sx4yuE51q/cUckn1Fnw+uE2B15TrYMBpK1N8tqtmAFcLucXC3SmOHn6CTRmpUpKc47LtrOiMgf+7VpNEXjAnf24IyFXOAq4VTE5q1rIcyZJCfEjp2vQGV2NcoHbQRzXsfKkVmaFItlXFMTvscDSpJ7r79+1d/6P9FoxqL07pihq+3l6Qx+zGPZpJiWCIUslYv3MgLfa2Zhflpj2II2ZXo8QZe0/WZHSX7QLRR0c2Odt2fsf6jdOr9VEqDRAkMV9kxKZ0OoD0hGK0cHSnmmh5vD0jAU7dK8h69gRy14vDUiJCN3CPi0AJz99PYUPAlGTLkWaWg79IHlztbgz7Ye9zbFlNM036TQ+ScPiSeI3gaoA1vfKh4Vk9QQ5ILp5qtjOUCMdAub/avhJF90v10zITNdgbYH2CNO1bywAN2uzBLOkQBbTXxH9XitCsMOyIgo2BnIlXVmBWdATCnmpF+T9v9FV/FW+aw81VuftVobbEtMhon466GvctvvHjoPhOEH+uhWfwDVnPs2ecO+8fOP4RuUtkQL/rd8aUcvaVYhTFjmlwOL4lOwAFKbBHkSC51LNx1waU3cwcDLAG4b7/nf2PFvdiyS+aFh1p8rWlKdt3yefbGkODF8WdhssjkrFT7JDJi0S5HqR7g1oZiXUyv0hPwbd8olyGk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODM5MjA0NTczOCwKICAicHJvZmlsZUlkIiA6ICJjY2MxNGM2ZDUwMDE0MjBmYmMxYjkyMTM2Y2JmOWU4MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJab25lX1gwODE1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0NTgxOGE2OWI2NjM1OTlkNTQwMGY0MDU3YTQzMjZmZDI3MTA4MGM4MzJiMTdjZjRiZmU0Y2UwYmJiMDdkNTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Consume this item to unlock the\",1:\"§6Harvest Greenhouse Skin §7on §aThe\",2:\"§aGarden§7!\",3:\"\",4:\"§eClick to consume!\",5:\"\",6:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Harvest Greenhouse Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Consume this item to unlock the",
+      "§6Harvest Greenhouse Skin §7on §aThe",
+      "§aGarden§7!",
+      "",
+      "§eClick to consume!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "HARVEST_GREENHOUSE_SKIN",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
   },
   "HASHBROWN": {
     "itemid": "minecraft:skull",
@@ -148861,26 +148998,25 @@
   "MARINA_MAYOR_MONSTER": {
     "itemid": "minecraft:skull",
     "displayname": "§bMarina (Mayor)",
-    "nbttag": "{ExtraAttributes:{id:\"MARINA_MAYOR_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7be557d7-0535-4113-a080-f71d2d454433\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5Nzc4MTQxNjY5MiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA3ZmM5YmVlOGQzMzQ0ZTg0MGU0MDMxYTM3MjQ5YTRjM2M4N2ZjODBjZjE2NDMyY2M1YzIxNTNkMWY5YzUzZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Candidate\",1:\"\",2:\"§bLuck of the Sea 2.0\",3:\"§7Gain §315 Sea Creature Chance.\",4:\"\",5:\"§bFishing XP Buff\",6:\"§7Gain §3+50☯ Fishing Wisdom\",7:\"§7on public islands.\",8:\"\",9:\"§bFishing Festival\",10:\"§7Start a special fishing\",11:\"§7event the first §b3 §7days\",12:\"§7of each month!\",13:\"\",14:\"§7Fish and fight dangerous\",15:\"§bsharks §7and earn unique\",16:\"§7Shark loot.\",17:\"\",18:\"§bDouble Trouble\",19:\"§7For every §31 Sea Creature\",20:\"§3Chance§7, gain §9+0.1⚓ Double Hook\",21:\"§9Chance§7.\"],Name:\"§bMarina (Mayor)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MARINA_MAYOR_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7be557d7-0535-4113-a080-f71d2d454433\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5Nzc4MTQxNjY5MiwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA3ZmM5YmVlOGQzMzQ0ZTg0MGU0MDMxYTM3MjQ5YTRjM2M4N2ZjODBjZjE2NDMyY2M1YzIxNTNkMWY5YzUzZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Candidate\",1:\"\",2:\"§bLuck of the Sea 2.0\",3:\"§7Gain §315 Sea Creature Chance§7.\",4:\"\",5:\"§bFishing XP Buff\",6:\"§7Gain §3+50☯ Fishing Wisdom §7on public\",7:\"§7islands.\",8:\"\",9:\"§bFishing Festival\",10:\"§7Start a special fishing event the\",11:\"first §b3 §7days of each month!\",12:\"\",13:\"§7Fish and fight dangerous\",14:\"§bSharks §7and earn unique §7Shark\",15:\"§7loot.\",16:\"\",17:\"§bDouble Trouble\",18:\"§7For every §31 Sea Creature\",19:\"§3Chance§7, gain §9+0.1⚓ Double Hook\",20:\"§9Chance§7.\"],Name:\"§bMarina (Mayor)\"}}",
     "damage": 3,
     "lore": [
       "§8Candidate",
       "",
       "§bLuck of the Sea 2.0",
-      "§7Gain §315 Sea Creature Chance.",
+      "§7Gain §315 Sea Creature Chance§7.",
       "",
       "§bFishing XP Buff",
-      "§7Gain §3+50☯ Fishing Wisdom",
-      "§7on public islands.",
+      "§7Gain §3+50☯ Fishing Wisdom §7on public",
+      "§7islands.",
       "",
       "§bFishing Festival",
-      "§7Start a special fishing",
-      "§7event the first §b3 §7days",
-      "§7of each month!",
+      "§7Start a special fishing event the",
+      "first §b3 §7days of each month!",
       "",
       "§7Fish and fight dangerous",
-      "§bsharks §7and earn unique",
-      "§7Shark loot.",
+      "§bSharks §7and earn unique §7Shark",
+      "§7loot.",
       "",
       "§bDouble Trouble",
       "§7For every §31 Sea Creature",
@@ -181329,6 +181465,39 @@
       "https://hypixelskyblock.minecraft.wiki/w/Lunar_Ender_Dragon_Skin"
     ]
   },
+  "PET_SKIN_ENDER_DRAGON_SMOL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§4Smol Ender Dragon Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_ENDER_DRAGON_SMOL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"034e3737-214d-35ce-b384-282c3f998427\",Properties:{textures:[0:{Name:\"textures\",Signature:\"nSaBaoznyaY0v8O/m/NkUEXqxIsX0mypOX20wy/NSpE7xayw6Lu85eHUBAzAQZpHyyy60DW85CT0ePSQjzlAMshmH+fasunrPf8Vwbv4RfwnUs08djIF5QPFC2p2N6sXxZC4h9fM9MPU6/VPu9PlvKlQkdknLpIj3+1EPZ9eQrUIJGEjkNJxp4wI3IDDNO8hNOLjkl//BVjmk1AvEq6jwOME1E/EDD9jALM0CzE6ykgTviT3pCEkn9zOY7vBVEvVkPmM5x1Atkry9ybmcMcPc7pCZGrmApVcAoLKUsAHrP+y1ksigmdGWZ9P63d5/6wjA0F1mo+WAw+cfzYSDJ1PxxpBmg1pC3WK9FKthJ4lVvqxEy3AMg5VhmW+kfly0V2KG41+SuvZe3QSE69TJFsrIt/OAZ0b1kIVKMFhb6g6N4ctgEWYA9CiY2X86Pzf+EiJ6sJ97Kfl+CfU7WNpYIcRdCdbZKn0cgTRABztJmKkdJWMJOLgksYkgAA3LudzXmARWJwBb8e4nKIpoARhlZzHbrAZQDtoTxX9RdXZS3naaGVsDTyuT0/jBQTOmZkLKiM0yahfAGUEec9XYTMddcFdbTwlJ+QPcbS0d3VWMkzyi13rtiPYEe9e/OHCC3jxI1aMddZzFCYPbi5t6Ks0e8tUt651kcXhN77GOeXiWhBdegI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODE1OTE5Mjg5NywKICAicHJvZmlsZUlkIiA6ICI3YmFiY2ExNGU2MDI0MTJlYTM3YjU5NjU1MGZkOWRiYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWthX05vZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMzZTUwYTc0ZTA0NzMwMDFjOWIxZGQ3ODE5YzY4MDcxNzU3ZTViNGJkMDA1M2JkYWQ3NTc2MTJlYzYxYTI5MSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aEnder Dragon§7 pets.\",8:\"\",9:\"§aFeatures!\",10:\"§8▶ §7This skin is swappable between §a17\",11:\"§7animated smol dragons!\",12:\"§8▶ §7Displays §aMob Kills §7with this pet\",13:\"§7equipped above your pet!\",14:\"\",15:\"§eRight-click on your summoned pet to\",16:\"§eapply this skin!\",17:\"\",18:\"§4§lULTIMATE COSMETIC\"],Name:\"§4Smol Ender Dragon Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aEnder Dragon§7 pets.",
+      "",
+      "§aFeatures!",
+      "§8▶ §7This skin is swappable between §a17",
+      "§7animated smol dragons!",
+      "§8▶ §7Displays §aMob Kills §7with this pet",
+      "§7equipped above your pet!",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§4§lULTIMATE COSMETIC"
+    ],
+    "internalname": "PET_SKIN_ENDER_DRAGON_SMOL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
+  },
   "PET_SKIN_ENDER_DRAGON_SWAP_PLUSHIE": {
     "itemid": "minecraft:skull",
     "displayname": "§4Super Plushie Ender Dragon Skin",
@@ -199034,6 +199203,33 @@
       }
     ]
   },
+  "PRIMORDIAL_HUNTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§dHunter Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_HUNTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c50541a2-f458-33de-97b2-3b17b6d768f4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jkXWnCQGme/F7yuetrdK/iRMm+5iIgM4XM2G+a24+R+pP0eb6PKyNk4eDq6LNgP9ZZwNA2aUIiA+b5aHk0WZWaqCBxAcY/YEwZ8ocZ0QPMkJ+1qgFZOIz2LtbA6yq46cNFjzH7fSFupal/qjVoyRZbu2LrHC2ywhx6LXASTBHw0KO4HhTlUbIPhA94I65S6t72bphYv1S9DToLRbejIiSwB6RvIhG3+0aA1uQyzfGkpR4gn6P+n85gR65iAIvYTvv+nkfqcWpmULPuW+cQxEkubQGousceyGxaInMbUTna3QoKaAuINBgrrRM9V5SoxfN09O0Mx+Dxwe4Gw+h5ifTC2D4t+6C8k39Aya9h4FEO6rLr4UhNMr2qmVgf3IoMRfVAQ5iDziI/K5SXQTAAovX4Zzj8Z/tfRwCXLKj8YzzlcowRVitNgwzgkBVdvVj/LmUKLovslBTqh6R5D2D2KZnfQPW5oGi7gTEselr3woyiBNYga11AWjfTyepMIWJ1mD64B1CH69f6jQtAYYItvfLNabSk2Z4WU0B6u4DJ2sdzSRrQ9OtIsOkPA6eH/ZcRGPANwXm5qLLZWT0MquRqkZKG6wOnt9agpqrTgLrEwKSTVBDQCOURVTMekv1xIxcr64cLQuvjt6pIW1CxqkmbUp6zjsfcGbSbF9ES5n5QViPVY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODE2MjM5MzYwMiwKICAicHJvZmlsZUlkIiA6ICI3MzFiOTdlYTI1MWM0ZjNmYTk0OTEwY2RkMmQwOTU4YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJJbU5vdEFDYXQ2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M4MjM4NjBlZWI2ODE4MGI5OTE2NDhkMDIxODIwZTRjZDgxYjc0MmE3N2RkYThkMTI1YzA3ZTNhZDI1MTM2NjUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §6Primordial\",7:\"§6Helmet§7.\",8:\"\",9:\"§aThis skin will allow you to swap\",10:\"§abetween 21 favorite hunted versions!\",11:\"\",12:\"§d§lMYTHIC COSMETIC\"],Name:\"§dHunter Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §6Primordial",
+      "§6Helmet§7.",
+      "",
+      "§aThis skin will allow you to swap",
+      "§abetween 21 favorite hunted versions!",
+      "",
+      "§d§lMYTHIC COSMETIC"
+    ],
+    "internalname": "PRIMORDIAL_HUNTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
+  },
   "PRIMORDIAL_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§6Primordial Leggings",
@@ -201996,6 +202192,37 @@
         "overrideOutputId": "PUMPKIN_DICER_3"
       }
     ]
+  },
+  "PUMPKIN_FLUX": {
+    "itemid": "minecraft:skull",
+    "displayname": "§dPumpkin Power Orb Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PUMPKIN_FLUX\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5bf864a4-f958-39d8-9c68-94c515d7e775\",Properties:{textures:[0:{Name:\"textures\",Signature:\"VfH706DKmCC6hnqx0D1tKmKkikKglHElhmFxM05MNY3HrWPnJJW1ZiBHWz3Tkib8KE2lrTL62/Jjy3nEMDarrMkp1k6XntJjp9x4XRd2O0dhJwQE8OdWY30Uml06/ZPTYO036jztErpRQWVMx483ieHSO9Hw3+tVRA6juuN1vaNAGTHYDdDRaH5KmZDQrgm/DrMViIphRPaQ6Rfhc3tdfrGUbLxCiyRpC8KmmPqhZFgi3WhAetVGa4C3wGH1b559mKwKh1MfldWx9UJbL34h0NOInLoM6CLwTK1N/7lrfFMyuXGiSEIFUc2WIJAJRNp2ctRkeQ3j0aJ31rWSHQnTkuixcqNcc+F5fKu1xZPoVZYjsGOo38xyU0jq0LoQrEF2C7nJ2lO0l5LlB9a5grnjbtHXxXGmT95FjcmxhHB0OSX+LMoHOUGRrMA7ppKn8d8oqBBlkgNSF6UBlJBQx+OYTv9BB1Dh8KdXYRVAMRn4YGKste0mZKoTMmjasa4jFXhK3XbNOuboEPWiWxo/ITGNaRMgd0GNElTor2J1mLXWDTefi9UkN/t2kwfRyDEDDmKHi0LoRZP0sE5AIf3S/EYdupvYGIythbhFRN+s82j2YWuxPqvOG/43pHjVCAz6xvT5NqedJKf1Vfn99NUdfVnHr4f65rfeOc/1BSmNFFRL9dU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NzkzOTIyMDYxMywKICAicHJvZmlsZUlkIiA6ICJhODEzMzJmNjA5MmE0NDQ1Yjk1YzVhZGFjNDA2OTQzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmFwcHliM2FzdCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80OGNiZDhlNTZlNTczNzBiYTQzNzJhMDg1Mjg1M2NlZTcyZDc0MDg0Y2VhMmU0MDIzYzM3MWQ4NzVjY2JmODg4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §aRadiant\",7:\"§aPower Orb§7, §9Mana Flux Power Orb§7,\",8:\"§5Overflux Power Orb§7, and §6Plasmaflux\",9:\"§6Power Orb§7.\",10:\"\",11:\"§aFeatures!\",12:\"§8▶ §7This skin is swappable between §a17\",13:\"§7spooooooooky pumpkins!\",14:\"§8▶ §7Throws candy all over the place!\",15:\"\",16:\"§d§lMYTHIC COSMETIC\"],Name:\"§dPumpkin Power Orb Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §aRadiant",
+      "§aPower Orb§7, §9Mana Flux Power Orb§7,",
+      "§5Overflux Power Orb§7, and §6Plasmaflux",
+      "§6Power Orb§7.",
+      "",
+      "§aFeatures!",
+      "§8▶ §7This skin is swappable between §a17",
+      "§7spooooooooky pumpkins!",
+      "§8▶ §7Throws candy all over the place!",
+      "",
+      "§d§lMYTHIC COSMETIC"
+    ],
+    "internalname": "PUMPKIN_FLUX",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
   },
   "PUMPKIN_GENERATOR_1": {
     "itemid": "minecraft:skull",
@@ -217276,8 +217503,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Safari_Barn_Skin"
+    ]
   },
   "SAFARI_BELT": {
     "itemid": "minecraft:paper",
@@ -284724,6 +284953,33 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wishing_Compass"
     ]
+  },
+  "WISP_SPIRIT": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Wisp Spirit Skin",
+    "nbttag": "{ExtraAttributes:{id:\"WISP_SPIRIT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f92d9ec1-871c-3179-9913-45d468ef4491\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Punixo0OJdMLizimaMXoWK7mIe/KeJixucqUS7iF9B7n7yJhvH6mN8B8V+BiExjHuAe82S2VkqZ4ozQB9K0FFsGR/qn3mDKE8dCBRFNtmxYCCmzhqPk/gIWoX/a4nJu190RCdt5eXB8REN43iMTjjEKxaNPNOJ9lL9+TDuiC+0xqNaR/WbsCFQUrG0h74OO72Xu6vh2/ClkGaRVmMVXoxRQsgSLVmOcIcdiU/bqf0eA4oIMCJc4JAEM4FiOEgEEheCCWkAg8xfvIlSAGrEs2uHREvcGsSKPGw2laQU2xHxftyJSyarIUCVt8CdHsZulKuwvWCwoPKaXyc9aMvtHSifkx0yydb+Zesu4iFmwRjIkYJOXt8XR+MnIh8zDjmJhw+hUKqpdrLe08GJ/LR/3IqyCRdX5gdlOPYwLyT5mUCLZ0Ui5GALZkaI1AMOQcAZ88OJqBF7o5olqx6hHdG6isji1wdHwuU8k6dSugdxSxxc+Kcto/DUXZ83kNIybSsSGmGxwHKFm2SWOVQ+k9riLXhV/VYv96VGQ0h6SQgT7cOGMNwahZ9ema6gWL+Pxm4cWI7lCHm42PuXB0BLoSP6tzUiy190f+5nmHAF36iFWmgosJXBSlS+KDHwGLJIpm4dvadQVnck/fXjIrmhBWzwZiWQ1VO9q25AZlN8WnOPexz3Q=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4Nzk1MTg1OTIwOSwKICAicHJvZmlsZUlkIiA6ICI4OGQ1NDUxYjFlZjg0MjdlYWZmMmVlNDEwZjMzNDJmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb25hbGRUcnVtcDQyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzExMWIxYzE2NmQxZWIzMzI1Mjc4YTkxMWQ1ZGMxZDk0ZDU3MGY3MGY3ZDMyNmVlOGEwNDUwYWRiNjRkNzhlYWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §5Spirit\",7:\"§5Mask§7 and §6 Spirit Mask§7.\",8:\"\",9:\"§aThis skin is swappable between 21\",10:\"§awispy spirited variants!\",11:\"\",12:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Wisp Spirit Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §5Spirit",
+      "§5Mask§7 and §6 Spirit Mask§7.",
+      "",
+      "§aThis skin is swappable between 21",
+      "§awispy spirited variants!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "WISP_SPIRIT",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
   },
   "WITCH;0": {
     "itemid": "minecraft:skull",
