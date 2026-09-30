@@ -6004,6 +6004,30 @@
       }
     ]
   },
+  "APOTHEJERRY_PERSONALITY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fApothejerry Minion Skin",
+    "nbttag": "{ExtraAttributes:{id:\"APOTHEJERRY_PERSONALITY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"22434344-1200-36db-9bf5-08e709ef7482\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GJs+q60W0l93KcynsF9aG/ki3luxdP1fGxJhXukS+pyZRitTsogR1vJu0Q2LZ8LpG4F3UjWb7EQhtMH+O2nlK2XSAvUcC8pH4VIN7eESiX4Xoq7SfuqpZs/WwvSFNRdqCwjnhAowoZlDwV49oij9K+Y8MSxJRnt8MKO9nkkHRrM6H9ffp9i8j03D/FMmIxRQpIczWGGjkBzot/BRt0kUMyrRmVYinYUdUDcq451tEvKlaKA26UKewi8p589aC62hRez+gbzGKKRUNkeFVM9TETsGelH6j4FI7zm7Wc+2jYu9WlBCgXS1dihlVEjtVcg6xXhvbgNbGWxtdySSufXS3qyxVzqEpr0JD4iXcre5OS6nM3CZU1sAVb5Ib8cTQOpg17SXvnhIQnatFS9MULl9WCPvajtF0W52lTzcmiPXopOzpO1NsgazKh82sizXzsPeiChM8rQsW2LV0BdihFrxkJ8Kw1VHYGPPk8+RocmDFQpRTuMg4hk3aa8hPs8QfSCXxvilIEPlnQK924KcXcNh1Z/BIvdVgY1wJkcMVIXjq8ptioZdc4tw96B/NX+mQszm53BSP/YANeT6QEBa9Wx9oyu1Py8zS6NtMq1e5Zka55ygIFvNY/CtFPTFX0D/IcOhbQCgVi+NMLw9XqPWYXQEgULVtckQIuz5LMCDo14DfKg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODQ1OTgyNTM5MiwKICAicHJvZmlsZUlkIiA6ICIzMjA3MWFlYjYzZjI0NmY0YTVlMGZhMWY3ODg3ZGRhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNcl9HZW5lcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOGM0NTZjOWJkODc5ZWQyMjJhYmU4ZGNjOGYxYjA1OTFkZjVhYmRmZTRjMjM3ODc0OTgwNTIzZmQ2NjQwMTM1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Minion Skin\",1:\"\",2:\"§7This Minion skin changes your\",3:\"§7minion's appearance to an\",4:\"§eApothejerry§7.\",5:\"\",6:\"§7You can place this item in any minion\",7:\"§7of your choice!\",8:\"\",9:\"§f§lCOMMON COSMETIC\"],Name:\"§fApothejerry Minion Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Minion Skin",
+      "",
+      "§7This Minion skin changes your",
+      "§7minion's appearance to an",
+      "§eApothejerry§7.",
+      "",
+      "§7You can place this item in any minion",
+      "§7of your choice!",
+      "",
+      "§f§lCOMMON COSMETIC"
+    ],
+    "internalname": "APOTHEJERRY_PERSONALITY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
+  },
   "APPLE": {
     "itemid": "minecraft:apple",
     "displayname": "§fApple",
@@ -66037,8 +66061,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sludge_Dye"
+    ]
   },
   "DYE_SNOWFLAKE": {
     "itemid": "minecraft:skull",
@@ -66082,8 +66108,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Spirit_Dye"
+    ]
   },
   "DYE_SPOOKY": {
     "itemid": "minecraft:skull",
@@ -101108,7 +101136,7 @@
   "GIANT_FISHING_ROD": {
     "itemid": "minecraft:fishing_rod",
     "displayname": "§6Giant Fishing Rod",
-    "nbttag": "{ExtraAttributes:{date:1658888352113L,edition:134,id:\"GIANT_FISHING_ROD\",player:\"§b[MVP§c+§b] 3o23§f\",recipient_name:\"§b[MVP§c+§b] 3o23§f\"},HideFlags:254,Unbreakable:1B,display:{Lore:[0:\"§7Double Hook Chance: §9+10%\",1:\"\",2:\"§7Purchased by: §c[§fYOUTUBE§c] Nullzee§f\",3:\"§7Purchased for: §6§k666,666,666 §6 coins\",4:\"\",5:\"§8Auction #§k1\",6:\"§8Bid #§k1\",7:\"§8July 2022\",8:\"\",9:\"§9ථ Hook §8§lNONE\",10:\"§9ꨃ Line §8§lNONE\",11:\"§9࿉ Sinker §8§lNONE\",12:\"\",13:\"§7Talk to §2Roddy §7in the §2Backwater\",14:\"§2Bayou §7to apply parts to this rod.\",15:\"\",16:\"§7§8This item can be reforged!\",17:\"§6§lLEGENDARY FISHING ROD\"],Name:\"§6Giant Fishing Rod\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GIANT_FISHING_ROD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/rod/giant_fishing_rod\",Unbreakable:1B,display:{Lore:[0:\"§7Double Hook Chance: §9+10%\",1:\"\",2:\"§7Purchased by: §c[§fYOUTUBE§c] Nullzee§f\",3:\"§7Purchased for: §6§k666,666,666 §6 coins\",4:\"\",5:\"§8Auction #§k1\",6:\"§8Bid #§k1\",7:\"§8July 2022\",8:\"\",9:\"§9ථ Hook §8§lNONE\",10:\"§9ꨃ Line §8§lNONE\",11:\"§9࿉ Sinker §8§lNONE\",12:\"\",13:\"§7Talk to §2Roddy §7in the §2Backwater\",14:\"§2Bayou §7to apply parts to this rod.\",15:\"\",16:\"§8This item can be reforged!\",17:\"§6§lLEGENDARY FISHING ROD\"],Name:\"§6Giant Fishing Rod\"}}",
     "damage": 0,
     "lore": [
       "§7Double Hook Chance: §9+10%",
@@ -101127,13 +101155,13 @@
       "§7Talk to §2Roddy §7in the §2Backwater",
       "§2Bayou §7to apply parts to this rod.",
       "",
-      "§7§8This item can be reforged!",
+      "§8This item can be reforged!",
       "§6§lLEGENDARY FISHING ROD"
     ],
     "internalname": "GIANT_FISHING_ROD",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Giant_Fishing_Rod"
@@ -114849,8 +114877,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Harvest_Barn_Skin"
+    ]
   },
   "HARVEST_GREENHOUSE_SKIN": {
     "itemid": "minecraft:skull",
@@ -114870,8 +114900,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Harvest_Greenhouse_Skin"
+    ]
   },
   "HASHBROWN": {
     "itemid": "minecraft:skull",
@@ -181495,8 +181527,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Smol_Ender_Dragon_Skin"
+    ]
   },
   "PET_SKIN_ENDER_DRAGON_SWAP_PLUSHIE": {
     "itemid": "minecraft:skull",
@@ -186266,6 +186300,33 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Zodiac_Snake_Scatha_Skin"
     ]
+  },
+  "PET_SKIN_SEAL_PUP": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Pup Seal Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_SEAL_PUP\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c1d7829b-6470-3554-8423-ec405b21a0d9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODQ1NTgxMDc3MywKICAicHJvZmlsZUlkIiA6ICI5MjI1NDBlMTRjZjI0NDI3YmExYmZjOTk3NWVmNGQ0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfRmxhbnR5XyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jY2VjNTFmYzFhM2EzY2NiYmVjODdkMzRhOGM1OWM3ZjUxNDA0Y2E0YTU1OGMyMDM1NGViNGViMjU5M2I2NzEwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODQ1NTgxMDc3MywKICAicHJvZmlsZUlkIiA6ICI5MjI1NDBlMTRjZjI0NDI3YmExYmZjOTk3NWVmNGQ0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfRmxhbnR5XyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jY2VjNTFmYzFhM2EzY2NiYmVjODdkMzRhOGM1OWM3ZjUxNDA0Y2E0YTU1OGMyMDM1NGViNGViMjU5M2I2NzEwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aSeal\",7:\"§7pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Pup Seal Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to §aSeal",
+      "§7pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_SEAL_PUP",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
   },
   "PET_SKIN_SEAL_SEA_LEOPARD": {
     "itemid": "minecraft:skull",
@@ -199227,8 +199288,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hunter_Skin"
+    ]
   },
   "PRIMORDIAL_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
@@ -202221,8 +202284,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Power_Orb_Skin"
+    ]
   },
   "PUMPKIN_GENERATOR_1": {
     "itemid": "minecraft:skull",
@@ -263855,7 +263920,7 @@
     ],
     "internalname": "TITAN_LINE",
     "clickcommand": "viewrecipe",
-    "crafttext": "",
+    "crafttext": "Requires: Fishing XXXV",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
@@ -284978,8 +285043,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Wisp_Spirit_Skin"
+    ]
   },
   "WITCH;0": {
     "itemid": "minecraft:skull",
@@ -291403,6 +291470,29 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Zombie_Commander_Whip"
     ]
+  },
+  "ZOMBIE_EYE_PERSONALITY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§fZombie Eye Minion Skin",
+    "nbttag": "{ExtraAttributes:{id:\"ZOMBIE_EYE_PERSONALITY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ee225def-b105-3643-b080-6efaf1d87c84\",Properties:{textures:[0:{Name:\"textures\",Signature:\"nokSP/vwAPskgKHUOG6IdpDgvMd9v9xN1Oi2ptEcBLrp7EDfQmOBDSn/F87eSfjG/cbDIKItqNelkXsDLtUxjPCOceTLnJXxMHOK2i4a6VLKvDfPGUczqdjMhWYktq6Y4gpcXr3EkwFvpSgFaEpMEg3TIuqCMfEI3r+PQ6Xi8KGjTYpMEIVChN5/pbYknXGF3dsba3kYQmA3Qt7pHshsRUdhPYpS7fQwZ7WjZPCOmI7vvjY+bQ5MRBxDmPL3740VAerKCTirczTncdkL5Tky1ZK0jxN5PE0SxanwPwzajRCy+4zvhX9PdffMo6K1G5mIlMfNTKYoXLdyXixOyfLOCh321Qxip6ciW2+NM9HjoRPTonV16BHRh7+5xao8fVh/7GRv/RAllQh/5h6/9nYX0ZtR543ULT2TIzjNzvJdluLZiEmeALPmLg5zCkFSOFMRS9Es968hp748I+lzmFZHJaABjqJ58cUaZGWfn+mutf6I4IhptTfK+h6waXpYoF9GMP6uM5NaXNbi80aH7XQtoTLCAYyWnzJb9OIcRkYPExCPhBF/k039gAlUv2OOGSfUtftkpRtjWkVePfTki7CQ+zlk4xIq/SewESf10wrt+6EQQJN+DuwBDF/a2msurb5IJsnaIX6znx/B5WjJtY9153MFYqTPgrfRD+j7Iy+wM5E=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4ODQ1OTgxNzMzMiwKICAicHJvZmlsZUlkIiA6ICJlZmI1ZWQ2YjVjOTU0ODBlYWFmMjAyZDIxOWVmNjBjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWtlSHdhazAwMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zY2NkZWM0YTllYTA4NDVkMzgzYzhkZTBjNmFiZWE1NmYyZWRmMDE2MGU1ZDkxMmI5Y2E3ZDc1NjlmM2JlNWVmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Minion Skin\",1:\"\",2:\"§7This Minion skin changes your\",3:\"§7minion's appearance to a §eZombie Eye§7.\",4:\"\",5:\"§7You can place this item in any minion\",6:\"§7of your choice!\",7:\"\",8:\"§f§lCOMMON COSMETIC\"],Name:\"§fZombie Eye Minion Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Minion Skin",
+      "",
+      "§7This Minion skin changes your",
+      "§7minion's appearance to a §eZombie Eye§7.",
+      "",
+      "§7You can place this item in any minion",
+      "§7of your choice!",
+      "",
+      "§f§lCOMMON COSMETIC"
+    ],
+    "internalname": "ZOMBIE_EYE_PERSONALITY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
   },
   "ZOMBIE_GENERATOR_1": {
     "itemid": "minecraft:skull",
