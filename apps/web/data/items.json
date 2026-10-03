@@ -103267,8 +103267,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Cyan_Guardian_Glacite_Helmet_Skin"
+    ]
   },
   "GLACITE_GUARDIAN_DARK": {
     "itemid": "minecraft:skull",
@@ -103291,8 +103293,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Dark_Guardian_Glacite_Helmet_Skin"
+    ]
   },
   "GLACITE_GUARDIAN_GLACIAL": {
     "itemid": "minecraft:skull",
@@ -103315,8 +103319,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Glacial_Guardian_Glacite_Helmet_Skin"
+    ]
   },
   "GLACITE_GUARDIAN_LIGHT": {
     "itemid": "minecraft:skull",
@@ -103339,8 +103345,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Light_Guardian_Glacite_Helmet_Skin"
+    ]
   },
   "GLACITE_GUARDIAN_PURPLE": {
     "itemid": "minecraft:skull",
@@ -103363,8 +103371,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Purple_Guardian_Glacite_Helmet_Skin"
+    ]
   },
   "GLACITE_HELMET": {
     "itemid": "minecraft:packed_ice",
