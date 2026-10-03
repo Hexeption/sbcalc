@@ -1,13 +1,8 @@
 import { create } from "zustand";
 import { DEFAULT_FORGE_SETTINGS } from "@/lib/constants";
-import type { ItemListEntry, Settings } from "@/lib/types";
+import type { Settings } from "@/lib/types";
 
 interface CalculatorState {
-  // Mode
-  mode: "single" | "multi";
-  setMode: (mode: "single" | "multi") => void;
-  handleModeSwitch: (mode: "single" | "multi") => void;
-
   // Single-item selection
   selectedItem: string | null;
   setSelectedItem: (item: string | null) => void;
@@ -16,25 +11,19 @@ interface CalculatorState {
   searchValue: string;
   setSearchValue: (v: string) => void;
 
-  // Multi-item list
-  itemList: ItemListEntry[];
-  setItemList: (items: ItemListEntry[]) => void;
-  multiTreeSelectedItem: string | null;
-  setMultiTreeSelectedItem: (id: string | null) => void;
-
-  // Material depth (Crafting vs Raw toggle)
-  materialDepth: number;
-  setMaterialDepth: (depth: number) => void;
-
   // Settings (forge)
   settings: Settings;
   updateSettings: (partial: Partial<Settings>) => void;
 
-  // Todo mode
-  todoMode: boolean;
-  checkedItems: Set<string>;
-  toggleTodoMode: () => void;
-  toggleChecked: (itemName: string, descendants: string[]) => void;
+  // Inventory: items you already own, by internalname -> quantity. The net
+  // requirements (tree + list + forge time) are computed after deducting these.
+  inventory: Map<string, number>;
+  // Set an item's owned quantity (qty <= 0 removes it).
+  setInventoryItem: (name: string, qty: number) => void;
+  // Add `qty` to an item's owned quantity (used by per-row "add to inventory").
+  addToInventory: (name: string, qty: number) => void;
+  // Empty the whole inventory.
+  clearInventory: () => void;
 
   // Hydration
   hydrated: boolean;
@@ -45,13 +34,10 @@ interface CalculatorState {
 }
 
 const LOCAL_KEYS = {
-  mode: "sbcalc_mode",
   selectedItem: "sbcalc_selectedItem",
   multiplier: "sbcalc_multiplier",
-  itemList: "sbcalc_itemList",
-  lastMultiSelectedItem: "sbcalc_lastMultiSelectedItem",
   settings: "sbcalc-settings",
-  checkedItems: "sbcalc_checkedItems",
+  inventory: "sbcalc_inventory",
 } as const;
 
 function loadJson<T>(key: string, fallback: T): T {
@@ -74,27 +60,12 @@ function saveJson(key: string, value: unknown) {
 
 export const useCalculatorStore = create<CalculatorState>((set, get) => ({
   // Defaults (pre-hydration)
-  mode: "single",
   selectedItem: null,
   multiplier: 1,
   searchValue: "",
-  itemList: [],
-  multiTreeSelectedItem: null,
-  materialDepth: Number.POSITIVE_INFINITY,
   settings: { ...DEFAULT_FORGE_SETTINGS },
   hydrated: false,
-  todoMode: false,
-  checkedItems: new Set<string>(),
-
-  // Mode
-  setMode: (mode) => {
-    set({ mode });
-    saveJson(LOCAL_KEYS.mode, mode);
-  },
-  handleModeSwitch: (newMode) => {
-    set({ mode: newMode });
-    saveJson(LOCAL_KEYS.mode, newMode);
-  },
+  inventory: new Map<string, number>(),
 
   // Single item
   setSelectedItem: (item) => {
@@ -107,41 +78,25 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
   },
   setSearchValue: (v) => set({ searchValue: v }),
 
-  // Multi item
-  setItemList: (items) => {
-    set({ itemList: items });
-    saveJson(LOCAL_KEYS.itemList, items);
+  // Inventory
+  setInventoryItem: (name, qty) => {
+    const next = new Map(get().inventory);
+    if (qty <= 0) next.delete(name);
+    else next.set(name, Math.floor(qty));
+    set({ inventory: next });
+    saveJson(LOCAL_KEYS.inventory, Array.from(next.entries()));
   },
-  setMultiTreeSelectedItem: (id) => {
-    set({ multiTreeSelectedItem: id });
-    if (id) saveJson(LOCAL_KEYS.lastMultiSelectedItem, id);
+  addToInventory: (name, qty) => {
+    const next = new Map(get().inventory);
+    const total = (next.get(name) ?? 0) + Math.floor(qty);
+    if (total <= 0) next.delete(name);
+    else next.set(name, total);
+    set({ inventory: next });
+    saveJson(LOCAL_KEYS.inventory, Array.from(next.entries()));
   },
-
-  // Material depth
-  setMaterialDepth: (depth) => set({ materialDepth: depth }),
-
-  // Todo mode
-  toggleTodoMode: () => {
-    const { todoMode } = get();
-    const clearing = todoMode;
-    set({
-      todoMode: !todoMode,
-      checkedItems: clearing ? new Set<string>() : get().checkedItems,
-    });
-    if (clearing) saveJson(LOCAL_KEYS.checkedItems, []);
-  },
-  toggleChecked: (itemName, descendants) => {
-    const prev = get().checkedItems;
-    const next = new Set(prev);
-    if (next.has(itemName)) {
-      next.delete(itemName);
-      for (const d of descendants) next.delete(d);
-    } else {
-      next.add(itemName);
-      for (const d of descendants) next.add(d);
-    }
-    set({ checkedItems: next });
-    saveJson(LOCAL_KEYS.checkedItems, Array.from(next));
+  clearInventory: () => {
+    set({ inventory: new Map<string, number>() });
+    saveJson(LOCAL_KEYS.inventory, []);
   },
 
   // Settings
@@ -155,51 +110,28 @@ export const useCalculatorStore = create<CalculatorState>((set, get) => ({
   hydrate: () => {
     if (get().hydrated) return;
 
-    const mode = loadJson<"single" | "multi">(LOCAL_KEYS.mode, "single");
     const selectedItem = loadJson<string | null>(LOCAL_KEYS.selectedItem, null);
     const multiplier = loadJson<number>(LOCAL_KEYS.multiplier, 1);
-    const itemList = loadJson<ItemListEntry[]>(LOCAL_KEYS.itemList, []);
     const settings = {
       ...DEFAULT_FORGE_SETTINGS,
       ...loadJson<Partial<Settings>>(LOCAL_KEYS.settings, {}),
     };
-
-    // Restore multi-tree selection
-    const lastMulti = loadJson<string | null>(
-      LOCAL_KEYS.lastMultiSelectedItem,
-      null,
+    const inventory = new Map(
+      loadJson<Array<[string, number]>>(LOCAL_KEYS.inventory, []),
     );
-    const multiTreeSelectedItem =
-      lastMulti && itemList.some((i) => i.itemId === lastMulti)
-        ? lastMulti
-        : null;
-    const checkedItems = new Set(
-      loadJson<string[]>(LOCAL_KEYS.checkedItems, []),
-    );
-    const todoMode = checkedItems.size > 0;
 
     set({
-      mode,
       selectedItem,
       multiplier,
-      itemList,
       settings,
-      multiTreeSelectedItem,
-      checkedItems,
-      todoMode,
+      inventory,
       hydrated: true,
     });
   },
 
   // Helpers
   getRecipeState: () => {
-    const { mode, selectedItem, multiplier, itemList } = get();
-    if (mode === "single" && selectedItem)
-      return { [selectedItem]: multiplier };
-    if (mode === "multi")
-      return Object.fromEntries(
-        itemList.map((item) => [item.itemId, item.quantity]),
-      );
-    return {};
+    const { selectedItem, multiplier } = get();
+    return selectedItem ? { [selectedItem]: multiplier } : {};
   },
 }));
