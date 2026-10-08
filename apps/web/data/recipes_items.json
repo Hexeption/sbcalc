@@ -14925,8 +14925,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Drone_Mod:_Contraband"
+    ],
     "recipes": [
       {
         "A1": "",
@@ -17939,10 +17941,10 @@
     }
   },
   "DAY_CRYSTAL": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Day Crystal",
-    "nbttag": "{ExtraAttributes:{id:\"DAY_CRYSTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"3b51d90c-aae0-381f-879c-c5f108b59914\",Properties:{textures:[0:{Name:\"textures\",Signature:\"NuuEz2pZ21o0UIDflx9nyFl1P/P3y2nBTIWiDyMoOaZ2p5aP+QaTtupFQ5PZBEAlVaeLrBL0Kr2K3eAU65HIdlEXiRBmCxiE+3Pe4Z+3R+TP1GYxAZZ9+Wgigzdx/exbiejeioXjYGkytd2vuU8hUb6RFWwM9cw2TV0rLUDdgwgyY0q0EEirtC2vgqu5NJuu0lRwd7OV5WElFfwNJNylpZnFmGXnkFlRTjGmeyb/aa04B/X2bQoZhepxSDk1d3dtmsbIzvuB3KzCm8xqi55L6um4I6yyD5fr6wwJcXXmEy8+0Xkyv3aQ01FrneUvajSo88fujoSDLw3aIJisqKI9Mo/1UxgB9EaawaMPWMZ+/B0z6Vz1O1S0nEdi3LZP1mcOb2PYCrLnyeQn50O/P1c9/5PZNvD08+rhTZ1hLtKFcLviPuwhskpbHkVbqh9ftEkNOTmfnU5mN9jljFyhnqY+dRFPeCndQCAP2/hgmopXbwK+pjroFip/6xcO2XhQW5JPzM8CeUotn7NfGIy84rbm+n64t3XlnPysz+RiyMtdCzjdA88UAvYvUGfJIDAmoX/inGDnjAL3TWQ+t6OlDwH52qe7ZbghObrYH278T4BUDKJzPEsYpu65ATdGEKxp2OBkOruAcuySCfpY0k6yJylhnTnhAgMvuR+YNKEoScZuCug=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5NDEzMzIzODc5MSwKICAicHJvZmlsZUlkIiA6ICI4ZGUyNDAzYTEyMjU0ZmFkOTM1OTYxYWFlYmQwNGUyOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdW5hbWkyNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNTFlNTJiMWRlOTdiNTM0MzU4YjUzY2QyYzljNDU1MjYwODZkMmE2ZjBlMGFlNjVlNGJhMmZmNWM2MjkwZWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+5§7 during the Day.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Day Crystal\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"DAY_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/day_crystal\",display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+5§7 during the Day.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Day Crystal\"}}",
+    "damage": 0,
     "lore": [
       "§7Accessory Power: §6+8",
       "",
@@ -17955,7 +17957,7 @@
     "internalname": "DAY_CRYSTAL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Nether Quartz VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Day_Crystal"
@@ -42521,8 +42523,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Clay Ball IX",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Artifact"
+    ],
     "recipes": [
       {
         "A1": "",
@@ -42674,8 +42678,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Clay Ball VII",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Ring"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_CLAY_BALL:8",
@@ -42752,8 +42758,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Clay Ball V",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Talisman"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_CLAY_BALL:1",
@@ -48897,8 +48905,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Raw Fish VII",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Large_Bait_Sack"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_RAW_FISH:16",
@@ -54092,8 +54102,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Raw Fish V",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Medium_Bait_Sack"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_RAW_FISH:1",
@@ -57453,10 +57465,10 @@
     ]
   },
   "MOONLIGHT_CRYSTAL": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Moonlight Crystal",
-    "nbttag": "{ExtraAttributes:{id:\"MOONLIGHT_CRYSTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8cc2b8fb-2cc8-337f-aa2e-be88cf3b4cc8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CAF6HEIXxMR2cbvBr1UHST41OA1vndgKR3U2cTtVB2jPfXfoAvF7vA2adJItQHr60/SHmqTA+ADGY0Pf4EqwpUNrs1SisR0Wojw43tROqikho9NrdlZsTvFw2kfeTRyPnEwADDdmfKyu8LGa45q52cZ4E1jRaDwlbMd9cGbtg7vYXd81BhdytwZtEIQtUC31jfwhOJbB/az3i6koQ0Q2c/fTdgBrcIx5n3yd9cUZNvl7foKX7dbztAhCVdvLukGBfgO97GzDYQAg0ghqcfqB4LsJ8yxvH9oORiMBFyVrelyUgfEOBHcrsgKlUE+j1zOE6IX9ol06BOdouUlFHh4BQandZggh5n/oIDzWBwW+GSbG4N900iYo/Y/kGGVkMmUP4CT/daReSkNZh4gvARwKBr3v+0T3kcxNUFX43qCQ1K+9SCO7LQh9zONbBq6yx+MM28ndRJ8MgOeuVTUAlbBpFezhY3PsgHvixlAf7atVjr0v4LxQ7zT6S7bWuusvnclA/TmRBII7CSws+iQxmTQlDmXH/wdJ5V6did7N+GB0FfGdI1ZQkf50v/vaVWtNI2w79NxLsZNZCwzSkm2hbf563NaWMrmBJdFuqA5/Ex7vhQki5FifrR4ixSZynlTVm9Pvc436WVBDbHeA+sWlTY1xk18OLRsxk/hUxtvrekEvkLk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1NzAwNDU1NDc4MCwKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODUzY2ZkYjUwNDk3NDg2ZjI1ZWEwN2U0YzZmMmE3NTIwM2ZiMTdhMmI1Yzg0ODJiMzg5NDc4NDAwODAwZGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+10§7 during the Night.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§5§lEPIC ACCESSORY\"],Name:\"§5Moonlight Crystal\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"MOONLIGHT_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/moonlight_crystal\",display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+10§7 during the Night.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§5§lEPIC ACCESSORY\"],Name:\"§5Moonlight Crystal\"}}",
+    "damage": 0,
     "lore": [
       "§7Accessory Power: §6+12",
       "",
@@ -57469,7 +57481,7 @@
     "internalname": "MOONLIGHT_CRYSTAL",
     "clickcommand": "",
     "crafttext": "Requires: Moonflower VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Moonlight_Crystal"
@@ -60382,10 +60394,10 @@
     ]
   },
   "NIGHT_CRYSTAL": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Night Crystal",
-    "nbttag": "{ExtraAttributes:{id:\"NIGHT_CRYSTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8f005abb-e0be-3594-a9a0-8b223fdcf764\",Properties:{textures:[0:{Name:\"textures\",Signature:\"NKjTna/HL4aDBfetC8Cqqh9auJT1Sf1NHE6nlFhghWmGmmynwNtJ/uKjVYiWN0Hhj/LlvEZFj49abeqRfVT99LvMNzu3rVpSkv+L9sVoVKbxfXNkp0rsfA087WlBC+zk9Dm58YTy157c1gqGBwCjFEHxF78ng9cJqVj1b+2aI/ql1pfwM53ikBi/1Cyh4pGR59d5n4Cy/dlkSVLIjhVLi/5ExNoAmJRY0QtOnqxLfPnr0NU/ZaP1c0fMeJ5IxSMvTpx5FooWGhJ0B/vY7zk5UiC2KYYFB0qL/De35da3foAyP2xV6TSO7naX85qgODQ5nX+a8xHk9asZhqR65KfD4eH62ymwjWqUdCyuvH1AYQdtsOXJr4+278zIljry0BIUxCuR2VzvOvLSHWby5W04V+bX4rhC9KYmRa+XSUp10MA29h9/YuzBHUKa56XnreAhuk+99zWee+5c3uViXTnYgmJhnrU3hOmzuH5qHSC3yOUqxIs1YYzfapOlT1r1ACeBkY6P0e232tPwC0I2qJJXtqVi+PbJrZ83YxVYCiQ+5zcV0F3F78WbBs/6XPMlfi7feiEH3XUWbGxNY/FrEX112sfwFCAENfLwJwSD8MBErcQlMPG5utKVhCDrwDe/XfWk1snGzaiCjMayjfpEFCRxBni90lpmOASgNkmj/sKvAgM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5NDEzMzI3MTE0MywKICAicHJvZmlsZUlkIiA6ICJjMTc2MDkwNTQ1OGE0NDE5OGY5ODdmYTZjMzI5YjljMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb29kX05vcm1hbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YzQ2NTc4YWQ1OGU5NzZmYTA1NDc4NTEwODg5YTU4NzM1YTY3YzRkZDAyMmQzOThjMDRkNTY2NzZmMGRjMTcxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+5§7 during the Night.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Night Crystal\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"NIGHT_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/night_crystal\",display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+5§7 during the Night.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Night Crystal\"}}",
+    "damage": 0,
     "lore": [
       "§7Accessory Power: §6+8",
       "",
@@ -60398,7 +60410,7 @@
     "internalname": "NIGHT_CRYSTAL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Nether Quartz VII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Night_Crystal"
@@ -67097,7 +67109,7 @@
       {
         "type": "forge",
         "inputs": [
-          "REFINED_MINERAL:1.0",
+          "REFINED_MITHRIL:1.0",
           "REFINED_TITANIUM:1.0"
         ],
         "count": 1,
@@ -67715,8 +67727,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Precursor_Drone_Pet"
+    ],
     "recipes": [
       {
         "type": "forge",
@@ -75063,14 +75077,14 @@
   "RUBY_POWER_SCROLL": {
     "itemid": "minecraft:paper",
     "displayname": "§cRuby Power Scroll",
-    "nbttag": "{ExtraAttributes:{id:\"RUBY_POWER_SCROLL\"},HideFlags:254,ItemModel:\"minecraft:writable_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Heal back §a1% §7of your missing §c\",3:\"§cHealth §7when using your §e§lRIGHT\",4:\"§e§lCLICK §6Item Ability§7. Has a §c5s §7cooldown.\",5:\"\",6:\"§7Can be combined with any §bitem §7with a §e§lRIGHT\",7:\"§e§lCLICK §6Item Ability §7at an anvil.\",8:\"\",9:\"§5§lEPIC\"],Name:\"§cRuby Power Scroll\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"RUBY_POWER_SCROLL\"},HideFlags:254,ItemModel:\"minecraft:writable_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Gain §c+10 Health Regen §7for §a5s §7when\",3:\"§7using your §e§lRIGHT CLICK §6Item\",4:\"§6Ability§7. Has a §c5s §7cooldown.\",5:\"\",6:\"§7Can be combined with any §bitem §7with a §e§lRIGHT\",7:\"§e§lCLICK §6Item Ability §7at an anvil.\",8:\"\",9:\"§5§lEPIC\"],Name:\"§cRuby Power Scroll\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
-      "§7Heal back §a1% §7of your missing §c",
-      "§cHealth §7when using your §e§lRIGHT",
-      "§e§lCLICK §6Item Ability§7. Has a §c5s §7cooldown.",
+      "§7Gain §c+10 Health Regen §7for §a5s §7when",
+      "§7using your §e§lRIGHT CLICK §6Item",
+      "§6Ability§7. Has a §c5s §7cooldown.",
       "",
       "§7Can be combined with any §bitem §7with a §e§lRIGHT",
       "§e§lCLICK §6Item Ability §7at an anvil.",
@@ -75080,7 +75094,7 @@
     "internalname": "RUBY_POWER_SCROLL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Gemstone VII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ruby_Power_Scroll"
@@ -79853,8 +79867,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Raw Fish III",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Small_Bait_Sack"
+    ],
     "recipes": [
       {
         "A1": "RAW_FISH:1",
@@ -89126,10 +89142,10 @@
     ]
   },
   "SUNSHINE_CRYSTAL": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Sunshine Crystal",
-    "nbttag": "{ExtraAttributes:{id:\"SUNSHINE_CRYSTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"39e4a317-7bf3-375b-9d8a-404ac725984b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"qdjK6qHWzSq5AwZcpvp8PeB4/g/qRm2vpwZQVGI/gr5Wn7DVzgWCUCvkg1UjxBFodb49yTYshnWtiGyaVMBx8MtGW0CcCJVn+19gZe/t3t8/8JSQeniPPNicakNxQQyrl9EkvESN+OPwlbYfB5C4ofzFWrB40ieRxUmsxmlyACW02RWs0r01ozobcR+H2Quz/LulYr7/Az1ad1D/Hui7N8aKlcwjFJw9iZIMWmcPuRccruAcKCjR4fonlLjpc5sJZiGdFJCyRqZxsBjNz1700P0OihdE0Vjbf0lA8+cjs5cFaPmzkfgChVcxFIHLEH1P3x7AZgzocKsSs1VHwb8qu4JLZOM8e2IMpSioqLneSo5MvihH0CvqV7MBCD8IUgfsGqtQye+KFcENcuyJQqlHOXWjXkAnuUyLzV+RKYN1Xlobzah9O56vIgkyVWW39wOS52CbhbDfLN+Gw08DFxEUL9859Vz0ruqbiA+RWUuTjYlUssPkfspghD5xdYNVnsc6GjRTw6PoZpVr6QwHV/IrPoLCQcZdZzTYCmUO9M1DXgF+BaWPUpPxeXmVxeV7FupL2KawaGrj9ECBsgZteVLkdlvxwqo+IxDaqOV0jEQe2Zhkdp3lqXjwEIOPeEAiW1QEF0BPoTSwIv4lEOpq+Z+SG5R1ZThoPmIm/PUshglg0bc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2Mjg4NjQzMTEwMCwKICAicHJvZmlsZUlkIiA6ICJiNTQ1ZDcxNDJkZmM0MWVlYjBjMDcwOTkwOTI4NTE0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJraXdpNDgxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xM2NmYzNjYmMwY2Y2ZjgxNzc0ZmEzN2IxZjY2MDg0MTdjMzZhYTE5ZTVhNDI5Yzk3Njk4ZmY5NGRhZmIzYTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+10§7 during the Day.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§5§lEPIC ACCESSORY\"],Name:\"§5Sunshine Crystal\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SUNSHINE_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/sunshine_crystal\",display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+10§7 during the Day.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§5§lEPIC ACCESSORY\"],Name:\"§5Sunshine Crystal\"}}",
+    "damage": 0,
     "lore": [
       "§7Accessory Power: §6+12",
       "",
@@ -89142,7 +89158,7 @@
     "internalname": "SUNSHINE_CRYSTAL",
     "clickcommand": "",
     "crafttext": "Requires: Sunflower VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sunshine_Crystal"
@@ -89213,10 +89229,10 @@
     ]
   },
   "SUNS_GRASP": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§6Sun's Grasp",
-    "nbttag": "{ExtraAttributes:{id:\"SUNS_GRASP\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c144f619-79bf-3ca1-b189-27b8f2267986\",Properties:{textures:[0:{Name:\"textures\",Signature:\"segYWuinT95Gk63YUOoTK68/PG4bj9bGa/Y26jSiMwcj3Je9noD+YSwUEE1m2Evy9Ts05ypWkQ8sH41iItBDKXLHnguXeGeVy9BJkyPuEPdZgDl/AcGMWfpgtZdSHaVXHkPxAJCUU5SC+RQxsEGEqyNr2yGnJemb95uGwY8lBa5TntPGuAZIUrqzuFV/wUlEXhiujtzLf+t/k115pehD08Z/f8SLsFM2mTjBO4j7+B3RglPIoiruLZBEFQGSRtQnK8FzxcU2gbCCcPmGwY2M5LhO6af9lvITHWCev3XVTxGdFIJRy7Qx6oUGUm2QVdtDB81zdgSJBiEgXlYPS8QUpL2V/L9xK3Oax8Y4I41U+h5VSymDOd47ldngO8sfvI6GTyX6RPiHopuG+QAj+97X44AdbjQ/g0Bzk40lYwm+sjXO/pQbDMNfaW25xdVNqZdZ6NEJXlY8HOBQr+saWtjp/UPqW+1AA+7wNgWUoyMKwK2M7s/GlBLcMAAgeC2iDJUBUJgaISeuiTRvNpzGHwgxOCG4GHaob3sFYhk/Tqst+RQsYDX7Ib+1FRcdfpAdYavqAOKXjvvJFCiIVM18DqkW61oiwhKGf7PGoBZ+HL4SzGkNF7Vao+anGoWYkQiJiQgqb1ROGz4D2k6pTkR3amcTqguXW5xPZIEmmKmrGQGhGXU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3NTI0NjY1NTE2NywKICAicHJvZmlsZUlkIiA6ICIzODY2ZTk1MmIxZWE0M2E4OGE3NGI1NzAxZDVjYTAwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYWtlTWFybG93IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU1MGJhYmZmMzAyNjI3Y2QwNWE2MjZhZDEyNDAyZDk5ZGE1YmUxYmFkZDBiMWI5MDUwMTliODQzMzJiNjU5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Farming Fortune: §6+12\",1:\"\",2:\"§7While breaking crops with your fist:\",3:\"  §7Grants §ex2  Overbloom\",4:\"  §7Capped at §6500 Farming Fortune\",5:\"  §7Crops automatically replanted\",6:\"\",7:\"§8§oA farmer of legend, said to be born\",8:\"§8§oof the sun’s grace itself. With bare\",9:\"§8§ohands he cultivated the earth, and\",10:\"§8§ofrom his harvests baked humble\",11:\"§8§obread bowls, gifted only to those\",12:\"§8§oheld close to his heart.\",13:\"\",14:\"§eRight-click to equip!\",15:\"\",16:\"§8This item can be reforged!\",17:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Sun's Grasp\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SUNS_GRASP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/finnegan/suns_grasp\",display:{Lore:[0:\"§7Farming Fortune: §6+12\",1:\"\",2:\"§7While breaking crops with your fist:\",3:\"  §7Grants §ex2  Overbloom\",4:\"  §7Capped at §6500 Farming Fortune\",5:\"  §7Crops automatically replanted\",6:\"\",7:\"§8§oA farmer of legend, said to be born\",8:\"§8§oof the sun’s grace itself. With bare\",9:\"§8§ohands he cultivated the earth, and\",10:\"§8§ofrom his harvests baked humble\",11:\"§8§obread bowls, gifted only to those\",12:\"§8§oheld close to his heart.\",13:\"\",14:\"§eRight-click to equip!\",15:\"\",16:\"§8This item can be reforged!\",17:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Sun's Grasp\"}}",
+    "damage": 0,
     "lore": [
       "§7Farming Fortune: §6+12",
       "",
@@ -89240,7 +89256,7 @@
     "internalname": "SUNS_GRASP",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sun%27s_Grasp"

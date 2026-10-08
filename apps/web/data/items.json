@@ -10893,8 +10893,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Folf_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_CATACOMBS_EXPLORER;1": {
     "itemid": "minecraft:skull",
@@ -13065,8 +13067,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Flora_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_FLYING_FORTUNE;1": {
     "itemid": "minecraft:skull",
@@ -21144,10 +21148,10 @@
     ]
   },
   "BALLOON_SNAKE": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Balloon Snake",
-    "nbttag": "{ExtraAttributes:{id:\"BALLOON_SNAKE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dc7f5ca2-daa7-319e-97db-ca77cface41a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FbT86BWRHOiBg+44UbADg1q+CjDSj+rib7+Q/+ChCRFMhKuCvJEal7pBXIK0/5jn21tJlUh+5FF9PPdS7wgSyK1ESe1nKSy7gkhoWWKq+bPCNg0EtfNt26Dna0Qrkt8Zx83xF6UjD/YgFaWPH7YEOBX33wxQ+txOtmq5iLROZ2L5btwAB/RoIxLsswwSaqrbFsYodF7oDAVsNJE/MOzPr4a15oLPPZVN0tft0xmGgifK/N4DjaiF8iZGKMHOCGFnD2WGC7weJ+zyDfadNe/h6GoSpFVNseg0VwHinoZrfh3qqfaaTpe1SE15zm742uSNCtfri2IDuD7isu2YgqEERdfk89e2tRfNuAHiHkGRwqnB47/1urM2bxgRwDjWroZod4o9xo4jiGYNi92SaI8VF2abtpOeTLM3Qwrxo0YeLobjAX5a7jBj/HouaDo/YBh+/12DRi/YFNch5lJxoO8XPAPkvGAwAzEZSd5LxZetKCEG3hiiPYUsIZsfpbgLoEpjNvlOLMA9QXwhbP6ICHMtBxWCwnGVPFpXn147Rrcjs3TsiqV4E9SKWDrvoibZrTv1hWh8WgViPp6+T5NLMzEtxmLn4YHoczluRASktu0WDzrWXjS714ZZQf95LXDCPbWLcEinOgdQ3++e7EfGmGrO5HZG92yxUiYlWl+RAVrYGgw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI0MDc0MSwKICAicHJvZmlsZUlkIiA6ICI2ZDgwYjVkMjQyMGY0MWZkOTQxMjM4YzA3YzVlYzAxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb05pWW8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTUzMDg4ZGUzZWRmZDFiMTA5OGQ4ZDhmNTZmNTAwNGE4OTMwNTUxZTA2M2M3Nzg5MWZhMDA3MDNjZjAzMWI5OSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Intelligence: §b+10\",2:\"\",3:\"§7Grants §bJump Boost II §7while equipped.\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires The Catacombs Floor I Completion.\",9:\"§9§lRARE DUNGEON NECKLACE\"],Name:\"§9Balloon Snake\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"BALLOON_SNAKE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/balloon_snake\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Intelligence: §b+10\",2:\"\",3:\"§7Grants §bJump Boost II §7while equipped.\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires The Catacombs Floor I Completion.\",9:\"§9§lRARE DUNGEON NECKLACE\"],Name:\"§9Balloon Snake\"}}",
+    "damage": 0,
     "lore": [
       "§7Health: §c+10",
       "§7Intelligence: §b+10",
@@ -21163,7 +21167,7 @@
     "internalname": "BALLOON_SNAKE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Balloon_Snake"
@@ -24928,8 +24932,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beastslayer%27s_Codex"
+    ]
   },
   "BEATING_HEART": {
     "itemid": "minecraft:paper",
@@ -26289,8 +26295,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bestiary_Talisman"
+    ]
   },
   "BEST_WEAPON_RACK": {
     "itemid": "minecraft:skull",
@@ -38834,8 +38842,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+g7a7c1559",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Calvin"
+    ],
     "island": "dynamic"
   },
   "CAMPAIGN_POSTER": {
@@ -50689,8 +50699,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Drone_Mod:_Contraband"
+    ],
     "recipes": [
       {
         "A1": "",
@@ -57539,10 +57551,10 @@
     ]
   },
   "DAY_CRYSTAL": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Day Crystal",
-    "nbttag": "{ExtraAttributes:{id:\"DAY_CRYSTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"3b51d90c-aae0-381f-879c-c5f108b59914\",Properties:{textures:[0:{Name:\"textures\",Signature:\"NuuEz2pZ21o0UIDflx9nyFl1P/P3y2nBTIWiDyMoOaZ2p5aP+QaTtupFQ5PZBEAlVaeLrBL0Kr2K3eAU65HIdlEXiRBmCxiE+3Pe4Z+3R+TP1GYxAZZ9+Wgigzdx/exbiejeioXjYGkytd2vuU8hUb6RFWwM9cw2TV0rLUDdgwgyY0q0EEirtC2vgqu5NJuu0lRwd7OV5WElFfwNJNylpZnFmGXnkFlRTjGmeyb/aa04B/X2bQoZhepxSDk1d3dtmsbIzvuB3KzCm8xqi55L6um4I6yyD5fr6wwJcXXmEy8+0Xkyv3aQ01FrneUvajSo88fujoSDLw3aIJisqKI9Mo/1UxgB9EaawaMPWMZ+/B0z6Vz1O1S0nEdi3LZP1mcOb2PYCrLnyeQn50O/P1c9/5PZNvD08+rhTZ1hLtKFcLviPuwhskpbHkVbqh9ftEkNOTmfnU5mN9jljFyhnqY+dRFPeCndQCAP2/hgmopXbwK+pjroFip/6xcO2XhQW5JPzM8CeUotn7NfGIy84rbm+n64t3XlnPysz+RiyMtdCzjdA88UAvYvUGfJIDAmoX/inGDnjAL3TWQ+t6OlDwH52qe7ZbghObrYH278T4BUDKJzPEsYpu65ATdGEKxp2OBkOruAcuySCfpY0k6yJylhnTnhAgMvuR+YNKEoScZuCug=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5NDEzMzIzODc5MSwKICAicHJvZmlsZUlkIiA6ICI4ZGUyNDAzYTEyMjU0ZmFkOTM1OTYxYWFlYmQwNGUyOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdW5hbWkyNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNTFlNTJiMWRlOTdiNTM0MzU4YjUzY2QyYzljNDU1MjYwODZkMmE2ZjBlMGFlNjVlNGJhMmZmNWM2MjkwZWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+5§7 during the Day.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Day Crystal\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"DAY_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/day_crystal\",display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+5§7 during the Day.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Day Crystal\"}}",
+    "damage": 0,
     "lore": [
       "§7Accessory Power: §6+8",
       "",
@@ -57555,7 +57567,7 @@
     "internalname": "DAY_CRYSTAL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Nether Quartz VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Day_Crystal"
@@ -57809,8 +57821,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Dead_Man%27s_Chestplate"
+    ]
   },
   "DEAD_MANS_JOURNAL": {
     "itemid": "minecraft:paper",
@@ -57830,8 +57844,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Dead_Man%27s_Journal"
+    ]
   },
   "DEAD_PLANT": {
     "itemid": "minecraft:deadbush",
@@ -61159,30 +61175,34 @@
     ]
   },
   "DIRT_BOTTLE": {
-    "itemid": "minecraft:skull",
-    "displayname": "§9Dirt Bottle",
-    "nbttag": "{ExtraAttributes:{id:\"DIRT_BOTTLE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2436e673-d4a0-3171-a2e3-b3ebb2efc111\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ofa/vj4B8/Hd+HJ6lcSmpucTawy/sg/CoDKDAvNxHY9ea9Mk7gY5hvTEZ9IeO8AWMwNKyaxuRecGjr7mer7Eyn1vgatPUrk4Xvptux+iOlvja0N5Z7g6ups7iqzWEQaGmfhpv4m2RLM2/ywvAORBmsmrYX0kMrgEsTovWtVcbZjX5xDXXweRKytjGnv28aqTnRfvCyGcp8YO8r9aM8wUw+sSzl83hacQk6AIKvZVtIXxZqvFviBeJR7phZxp2nV4sx7HCxNUX8GbGQ6L+C7t/nX+MhQXyzfJSd/HVvZDbT84lKaQcNEigAkuSX/JDPTbbFO17+jY076qLbW+Olfri3lexe/RkvecN0Mh/X5YtRXWtcFoUudjZbyBU/kWx27lPCk+mxAe56f/5Bx6OMVnALNTYtzA3x/b3L+rN66+F9Aee9lMEz1+AWvtQSTvZYtlPkec1+vPh3VaVRd9UnEpj1jHEVOi+PhlCD1OcbtncizpsCxgiePdX7zBvqUAWA3MjgyjTYdbLisqyqYEFSJedn0tIRtp2A+sFuU8Yzf0G9pkSalR03MvJPLJmRyY40S43MkL7OX1BAYLpjbC0WJl0AX27uSGK4PwUuQZDsBdSYPnYkUO1wY0ms1MvUSt93ULDu8CSvO9ySnwYn4MghgE3VAknddU8FmL1z7Mya7Ufvs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MTA2MTUzMTc1NSwKICAicHJvZmlsZUlkIiA6ICIzNDkxZjJiOTdjMDE0MWE2OTM2YjFjMjJhMmEwMGZiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZXNzc3N1aGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQwMmIzZmYyMTI4OWRjYzQyNWM3NWZjMjVjNDRjY2FlMGY4ZWExOTIzOTEyYzRlOWRlM2EwMjljNzAyMWNjNCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Dirty §7reforge when\",4:\"§7combined with a melee weapon.\",5:\"\",6:\"§9Dirty §7(§6Legendary§7):\",7:\"§7Strength: §c+12\",8:\"§7Attack Speed: §e+15%\",9:\"§7Ferocity: §c+12\",10:\"\",11:\"§7Requires §aMining Skill Level X§7!\",12:\"\",13:\"§9§lRARE REFORGE STONE\"],Name:\"§9Dirt Bottle\"}}",
-    "damage": 3,
+    "itemid": "minecraft:paper",
+    "displayname": "§aDirt Bottle",
+    "nbttag": "{ExtraAttributes:{id:\"DIRT_BOTTLE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/dirt_bottle\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Dirty §7reforge when\",4:\"§7combined with a §cMelee Weapon§7 or\",5:\"§bFishing Rod§7.\",6:\"\",7:\"§7Grants the following stats that scale\",8:\"§7with the item's rarity:\",9:\" §c Strength\",10:\" §e Attack Speed\",11:\" §c Ferocity\",12:\"\",13:\"§eRight-click to view rarity scaling!\",14:\"\",15:\"§4❣ §cRequires §aMining Skill 10§c.\",16:\"\",17:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aDirt Bottle\"}}",
+    "damage": 0,
     "lore": [
       "§8Reforge Stone",
       "§8Combinable in Anvil",
       "",
       "§7Applies the §9Dirty §7reforge when",
-      "§7combined with a melee weapon.",
+      "§7combined with a §cMelee Weapon§7 or",
+      "§bFishing Rod§7.",
       "",
-      "§9Dirty §7(§6Legendary§7):",
-      "§7Strength: §c+12",
-      "§7Attack Speed: §e+15%",
-      "§7Ferocity: §c+12",
+      "§7Grants the following stats that scale",
+      "§7with the item's rarity:",
+      " §c Strength",
+      " §e Attack Speed",
+      " §c Ferocity",
       "",
-      "§7Requires §aMining Skill Level X§7!",
+      "§eRight-click to view rarity scaling!",
       "",
-      "§9§lRARE REFORGE STONE"
+      "§4❣ §cRequires §aMining Skill 10§c.",
+      "",
+      "§a§lUNCOMMON REFORGE STONE"
     ],
     "internalname": "DIRT_BOTTLE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g19f28a05",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dirt_Bottle"
@@ -66695,8 +66715,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Eagle_Pet"
+    ]
   },
   "EAGLE;1": {
     "itemid": "minecraft:skull",
@@ -66722,8 +66744,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Eagle_Pet"
+    ]
   },
   "EAGLE;2": {
     "itemid": "minecraft:skull",
@@ -66754,8 +66778,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Eagle_Pet"
+    ]
   },
   "EAGLE;3": {
     "itemid": "minecraft:skull",
@@ -66786,8 +66812,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Eagle_Pet"
+    ]
   },
   "EAGLE;4": {
     "itemid": "minecraft:skull",
@@ -66819,8 +66847,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Eagle_Pet"
+    ]
   },
   "EARTH_SHARD": {
     "itemid": "minecraft:stone_sword",
@@ -92116,10 +92146,10 @@
     ]
   },
   "FLAMING_FIST": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Flaming Fist",
-    "nbttag": "{ExtraAttributes:{id:\"FLAMING_FIST\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"94ce8918-36eb-327e-9559-87b14cab98bb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"XuiDgJQeShkLRnXqnm/mBQFyPDkbXAJqTj+Bkg+5DnoGsAVpfiXQt8cD3hQR1ihpc3brHEIaecgrtfkAQsiFX4q2QpaA27Cjm6HX+cBt0FIkY4WHmO3MmJfLFglkWLgYHH2U2OjXUopxIxZzKr8nJLRg4ZFZWk0TbGtGqwnTMz1lo/yvAd6JWG3o1fb7VFc6hrBO+CSOmSQYGKRHBiQFxADxPOrdEo3h8FsGaJ2dvhr8eiHbvPoBJd+KvoN+q19ZT5oYjc7GmyxS2VrNykUW6O1x33coBCuxC9vIjG3H2YO1qOQGSd8gCmqvhLyk0I7oPnzZ44I0OJICQ2qFihv3/JbcM8rsM60IFZf0PsDUs14dkS7WFg+6eE06eLhg7oPpnADsE0F5b4c9jG/eFluBrJNd8h+ZgUVbuA5ZgGL71Z9d5yCCUdSwsVcUnPfY3o3TPeEsrmXREx6FEi5GiR/610ZwCcIW+Wc+L77YevfmyEOx5PnBlwcEmXdRRnXE/ereffYlT+kgdpeJ6GsRcgSwNz4ToA4UEXxIy7kg9McKvMWTV4shocFslgMTZ9kerbk+hgQl/ndYLGPQv9U3DiWHg8GY4UuSNquEpBGSIdtQkqVtv2HqN/CoOWNxZRzIVUqy8kLc0DoX2CbIE9W4Xcb0M8/A58mLRgffRS53W3MD5vc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NDUwMDUyMTI2NiwKICAicHJvZmlsZUlkIiA6ICI0ZDEzZWUyZjViOWI0N2I2OGU2NzhhMjAxN2VmZTc1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmF5ZGVyZWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg3MTk4NDljZWY0MjY0ZDY3MGM2Yjg4ZTZiNWViZDQwYjMyYjUzNWE2OGEyYzIyODkyZGQwOGQ4YmNjMTNjNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+10\",3:\"§7Crit Damage: §9+10%\",4:\"§7Ferocity: §c+1\",5:\"\",6:\"§7When equipped, melee attacks fire\",7:\"§7three §6flaming fists §7dealing §c10,000\",8:\"§7fire damage over time.\",9:\"\",10:\"§eRight-click to equip!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §aCombat Skill 22§c.\",14:\"§5§lEPIC GLOVES\"],Name:\"§5Flaming Fist\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"FLAMING_FIST\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/flaming_fist\",display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+10\",3:\"§7Crit Damage: §9+10%\",4:\"§7Ferocity: §c+1\",5:\"\",6:\"§7When equipped, melee attacks fire\",7:\"§7three §6flaming fists §7dealing §c10,000\",8:\"§7fire damage over time.\",9:\"\",10:\"§eRight-click to equip!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §aCombat Skill 22§c.\",14:\"§5§lEPIC GLOVES\"],Name:\"§5Flaming Fist\"}}",
+    "damage": 0,
     "lore": [
       "§7Health: §c+30",
       "§7Defense: §a+20",
@@ -92140,7 +92170,7 @@
     "internalname": "FLAMING_FIST",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Flaming_Fist"
@@ -97233,8 +97263,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Frog%27s_Spirit"
+    ]
   },
   "FROG_ANIMAL": {
     "itemid": "minecraft:skull",
@@ -97819,10 +97851,10 @@
     "z": -1
   },
   "FROZEN_AMULET": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Frozen Amulet",
-    "nbttag": "{ExtraAttributes:{id:\"FROZEN_AMULET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9e052f3d-b158-34df-9793-591b3a5e7ebd\",Properties:{textures:[0:{Name:\"textures\",Signature:\"xgYYe+TxhWFZ3XsrMfLTl7x/5bCTWYMn9Z+ieJCh8KPylZoQWOQmYnQHSXrrJZWll2Sfq0S3ubbAWffLkSwN7Ye3WQQ3RcXz4FNDLjNQga32zJgn/BlDivccZe1H62ab4m65f7yTxYLKn4T/mS24qq2PS3EapVtPAu6Au/Eni1e2pC/1/FT9xa58O1e/Vu8XmabuRlCKH4eqRMUuO5wfOgpzpX8GKq+u67Y1cumG4kjpmvpdF6iubRBtax1fomz7pxyE5MHhp2qf2uWzKlzfCLud3QqrEqDyBn6aWEghYKtXEkPyyzZTq80PWAabiaXV+qNl84sV4HzKVKixJPg4cjah3Ip5YwAmzwC5zCgRLomTg/9EYUEVS8aU4PnWFZCqZyBcKQitZZrClAHG6310vsnZo8Y7O5tXpjJ43z4eso3Dr8HlgFsLd3RPfMqvaxz4QDhel6eNYSp3XNmwsaxEyLm0U4he93fkD3OOOxaBw6d7bAi1caAt9L7MIfDcFxkhI4JC+EnsBZxac+H2rv0BzteuxbL8phF04snhjvuQXAvWd+1/nIDvQ2wRiLfkbEOATOPxbIkAg7RrjprRGG+aQZgRJ2xmnlIsGIaYOtMWGNe8B8tsiNfhYa/7aSSUoB9ywZggFVnt1dIDlnTRhRuy5I+MsjeJnYCL9mGIpUZ7An0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczNjQyNzUxMTkwOSwKICAicHJvZmlsZUlkIiA6ICJlNzdlMDRhNmMyMzg0MGVmODZlOGViOWY4NGQ3OWVjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMT1JJU0pUMTYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGVkYTI1OGY2ZmNlZDk1ZjQ0OWI0MTI4NzgxMDMyYmI2YTNiYWI2NWI3Mzc3ODI4NjBlMmJkYjhlOWQ5Yjg2YiIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Fishing Speed: §b+3\",1:\"§7Sea Creature Chance: §3+1%\",2:\"§7Treasure Chance: §6+0.5%\",3:\"\",4:\"§eRight-click to equip!\",5:\"\",6:\"§8This item can be reforged!\",7:\"§9§lRARE NECKLACE\"],Name:\"§9Frozen Amulet\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"FROZEN_AMULET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/frozen_amulet\",display:{Lore:[0:\"§7Fishing Speed: §b+3\",1:\"§7Sea Creature Chance: §3+1%\",2:\"§7Treasure Chance: §6+0.5%\",3:\"\",4:\"§eRight-click to equip!\",5:\"\",6:\"§8This item can be reforged!\",7:\"§9§lRARE NECKLACE\"],Name:\"§9Frozen Amulet\"}}",
+    "damage": 0,
     "lore": [
       "§7Fishing Speed: §b+3",
       "§7Sea Creature Chance: §3+1%",
@@ -97836,7 +97868,7 @@
     "internalname": "FROZEN_AMULET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frozen_Amulet"
@@ -110877,10 +110909,10 @@
     ]
   },
   "GREAT_SPOOK_BELT": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Great Spook Belt",
-    "nbttag": "{ExtraAttributes:{id:\"GREAT_SPOOK_BELT\",year:2023},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2fc1be40-775a-3fc3-9624-c51d9784560a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"p1b6GafCrzU3MiNC0fO4t6mZJD3E/SFELsymyCV48A0AxLq1B0ITZAwO0jxtkyHHDCpcuMxXpcm5NuOrBmft6llPmAI4zEy6eaQJqclJqMcURvrgKPmhA+3GIFBq3bSrNobYYErRu30kfrzvdY8es76KXjbeVdWkx2YRS4BZUzUFjF0Au2zlCo9TzLXDuKI3ngxdlC+5yk5vE2GwUxvxhKfsxWX7KxnChKhAKq9HIOpuO1vmn5gXEpZLzSkkWtum2UdHFUUYPVsPleqRLC+QKwjQ8lWLsCoAVgR2lhxVdMqpAy6K+qa4wxGxke8dzpc2Kr56eK/LzqC3L+zruCT5ssLaqUa9MEl4XMSb6bWErfnhRHwd2wrKUAe5vQ5+RCMKcKOBVTyBNvHdzN5/96zNDv2KcjYK00DcnJBKUcrTth0a/LzphqlgSDOF3SBJh6z7bYpbtihHp8Z8+PCvwm8o5rGhMEbkL5ySnNyQREAMT9qe4MCHWKOz17WMn7H49UyualEiTaQVBKHYjOHLcbkHSCP8xWDlxXvTrR7gQ7S7ZZCd/20/rprjRRRn3zViXrKZjVwp5MSu/kLFqI1WYtenlBOqzEmBsjuVsn0wmoXUvihWtyFTH1a+vyyfrjG1pcHfpdhmCCY5oi4hNicl84U/dmnWiFeSPvFrBnxPuWu7gFU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzAyMTQ2MSwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I4ZjVkN2IyYmUwOTQ5NDAyZDU5YTZjOGRhNjdiYmIxZDg1NjI1ZWY0MzY0YjUxYTUzZmVmZGRhZjU5ZDc0N2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Fear: §5+5\",1:\"\",2:\"§7Obtained during the §5Alchemist\",3:\"§7experiments!\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§5§lEPIC BELT\"],Name:\"§5Great Spook Belt\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{edition:3391,id:\"GREAT_SPOOK_BELT\",year:2022},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/great_spook_belt\",display:{Lore:[0:\"§7Fear: §5+5\",1:\"\",2:\"§7Obtained during the §5Alchemist\",3:\"§7experiments!\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§5§lEPIC BELT\"],Name:\"§5Great Spook Belt\"}}",
+    "damage": 0,
     "lore": [
       "§7Fear: §5+5",
       "",
@@ -110895,7 +110927,7 @@
     "internalname": "GREAT_SPOOK_BELT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Great_Spook_Belt"
@@ -110966,10 +110998,10 @@
     ]
   },
   "GREAT_SPOOK_CLOAK": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Great Spook Cloak",
-    "nbttag": "{ExtraAttributes:{id:\"GREAT_SPOOK_CLOAK\",year:2024},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"4ae223b9-13db-36d0-b5b8-f54057e01a7a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Y88cgrElKf5qMVLVDmOXszoiij/Kt8bTHW2gvSH2xFVTDkXcYZWvv0K1LCS5J1M3s6ArclNc4wlhE+2BuO7uKO8njJvijhd4sqjHzr/RdB2vYhTGkmjFdSgGC2qqYsQPMfAewrtuzVsXsajYEqmWmzCnrQ5Gnuv4K1lK9rTjODKif34k2S+2mwuRgdDhNa2br0HCFE8a5AfDOMOwh/DxxRMoGIyfnwkO/2ozUpgi8PG074R1l6o/sqNzD9FQflaYDtUHWmdra7QFnjk9T++jncnswK6r/EFj5AC/cjYZQzNVMlcawRBhZ2owI0y/xBgt4dcGOMAtqQdrphh99zkjWu0w8bzW6cVemMCcAs9sv68aZqtBkwIvyj5raQFiFlcp8OKvHWV5tPUHmDRrfqtecnvKgJZ6rQJAyDpHct5vCuAsqSIv2llDC3BV2Ezrb2LhtiVkvl6Aoj3eWdNjlUfrbE+5UnLSBxx88kNEaTWDanZ4f43rCGjLLxEYqkvIq+/HMhIeUWg3huz0d/3zCF39JbcVUInixcYy1dp/3JO/whHJUQ8A1QCMmQ2gOiLgD3S9tYGADDHQUV4j0voY6GJ/arWBwDtDXbr+jMAI/p/TsN+/WZc/mqEa0TWG6hLgJcRj7KHZvCwWOCMlI+ancp/T3ObFypIkuh22JeaaA2KKf30=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzA0ODY2MSwKICAicHJvZmlsZUlkIiA6ICI2NmI0ZDRlMTFlNmE0YjhjYTFkN2Q5YzliZTBhNjQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmFzdG9vWXNmIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVkYzEyMzFiYmI5Nzc2NDFiOWI0YTg1NDNlY2Y2NjA2ZjNhOTkwYmJhYmFlMzAwMTBiZDE1Y2RmMDcxOTM0OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Fear: §5+5\",1:\"\",2:\"§7Obtained during the §5Alchemist\",3:\"§7experiments!\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§5§lEPIC CLOAK\"],Name:\"§5Great Spook Cloak\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"GREAT_SPOOK_CLOAK\",year:2024},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/great_spook_cloak\",display:{Lore:[0:\"§7Fear: §5+5\",1:\"\",2:\"§7Obtained during the §5Alchemist\",3:\"§7experiments!\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§5§lEPIC CLOAK\"],Name:\"§5Great Spook Cloak\"}}",
+    "damage": 0,
     "lore": [
       "§7Fear: §5+5",
       "",
@@ -110984,17 +111016,17 @@
     "internalname": "GREAT_SPOOK_CLOAK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Great_Spook_Cloak"
     ]
   },
   "GREAT_SPOOK_GLOVES": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Great Spook Gloves",
-    "nbttag": "{ExtraAttributes:{id:\"GREAT_SPOOK_GLOVES\",year:2025},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9d1b44ab-5632-3349-aa68-36f6cb269fd4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"wtIH1ghjMIRknK9nCzSTY09VXKcOtI2nX8JLVwbjVOOtZw5MR84LbxBlWNbDx9GFgrRkC/R3ZoGMjkDKl6cijGhO11Tl9tdfyHpOlwjbPG3H7gNC+upnFZkUKqGDGELm+bAaYXgCgp0EavYpjD7+dWTvB+ZjyhomoZW18Wpp29gr2H4scneiAfCUFgwTQJ1LLvRiaU3kZV9BjpGuMnaaUuEORU19rHZrmLmz5vCyNA5bqo/VslCQxHCPQ7Z4/VmjXQeW66EiOeSEdeNQWdzfbSh5u8Qd2FJ2oON2dXYSa6JJSIBzWhe6ib/CMGMkimnX/KAtvGXcw/l8nL76S4Vb9jG2QUrbWURaqmlPDaOgGZINALWs9okGV6tnZA01mss2rKH1SAn/ub7jeePihapYx2+Aha88SLX64sS/lNE/6nemAcdqlO6lfo33+tnFHUIlOoFOYT5yYgjLlSB6XNDCRt/MfaPY4x6XHm1s24RaH8lqTolr+dB1RS56O2RhNqGMa3tOnueJ1Ep8u2UHS6tG21IHNOn8bNc76EqzKZrghRYVZl0lwAEIiYfhorqG2akgkdcZhACOAJHEvkkZKnamKVIYf8nL2GjYtV/wzIHHer0qkiuKW7zxEXhY1GEzG1BYqV/FQzkPFe3/Pc/Mi1kI8e4DbSJHUDMAgJCMh6QpEEA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzA3MzYxMCwKICAicHJvZmlsZUlkIiA6ICJmMjc0YzRkNjI1MDQ0ZTQxOGVmYmYwNmM3NWIyMDIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJIeXBpZ3NlbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yNWY0YTBmZmE4MjJkYzA5YzM1M2NjYTZhN2QxNmZjODlmZTIwYzBkOTYwYmFmMzA0MjAxNDgwNmJkNTMzYmE3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Fear: §5+5\",1:\"\",2:\"§7Obtained during the §5Alchemist\",3:\"§7experiments!\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§5§lEPIC GLOVES\"],Name:\"§5Great Spook Gloves\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"GREAT_SPOOK_GLOVES\",year:2022},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/great_spook_gloves\",display:{Lore:[0:\"§7Fear: §5+5\",1:\"\",2:\"§7Obtained during the §5Alchemist\",3:\"§7experiments!\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§5§lEPIC GLOVES\"],Name:\"§5Great Spook Gloves\"}}",
+    "damage": 0,
     "lore": [
       "§7Fear: §5+5",
       "",
@@ -111009,7 +111041,7 @@
     "internalname": "GREAT_SPOOK_GLOVES",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Great_Spook_Gloves"
@@ -111080,10 +111112,10 @@
     ]
   },
   "GREAT_SPOOK_NECKLACE": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Great Spook Necklace",
-    "nbttag": "{ExtraAttributes:{id:\"GREAT_SPOOK_NECKLACE\",year:2024},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cdef231a-65a2-3313-94e3-3210f1df81a6\",Properties:{textures:[0:{Name:\"textures\",Signature:\"SITddC4LGeJaptycstG7vfM3lPiq/LnndVG9fvGhOmz5Hbt8Gub0narwrDc/ZoDRCdPXkMJudwVqB1Aj3Q1lbFHw2cNnhL9yZUSU5YJKES9amKe6eN4VkVU9rWwz6J2Qc8fhO2i5BGgqVmo0wQryhBRxHGJ38Ziupi3MDFIMZ68kJyKzSKSHOXuinWg4KtayobD2rhQoleMdEzdEdHU4r/8G+LhTgxDN7rsP8XJ8CZdwJrWTAP3g72zPgZOeBc+1zilYBz+Ramexpx/c903UAWm820kbqxWdnLRHABpJSTmqb1JndO0Q4zCtuus8E2DUVQJIyDm+5JKEmlonYJ6wf2E0IQoEYtRbnekA47oqrRFyjgiKcfzwDm1ahdytLOWD20y5ehzx3Mynjl1XaWtzbWKVziokdj2RVPFxMBriLIwk7nz2KoclA1XKrSJ/2ON20qnQmWbEbpn487+ljV/+F1uFTW2n8Y4u0rSvXOGogyIBBba5SATNcD5rEq0AWkhRE17lIAWOMXX/9ZmYtnW2u42DtsJKFcBBJSrU7QCzDRLPzzhSaCynesNvTO7tPk9QQHc5/REde+JEBLMH7jUSYhNz8bw5tzuw/KDVjpyboo0jVjCTq9XiwkMqzMi9pIUfCjLrS/RTGM1fq7eGyo+V+zTvvcl1cg9Nr9NNqVNCUFg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2MzUxNzA5NTQzMiwKICAicHJvZmlsZUlkIiA6ICJhYzM2YmVkZGQxNGQ0YjVmYmQyYzc5OThlMWMwOTg3ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYWlzYWthIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RjZGUyZmY2MGU0ZjVjZDFjMmIxM2M2MDk3MDUzOWRiZGMzY2U5NDQyZTdlNjEyNDdkMWIxZjEyMmYwNDU4ZGQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Fear: §5+5\",1:\"\",2:\"§7Obtained during the §5Alchemist\",3:\"§7experiments!\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§5§lEPIC NECKLACE\"],Name:\"§5Great Spook Necklace\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{edition:754,id:\"GREAT_SPOOK_NECKLACE\",year:2022},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/great_spook_necklace\",display:{Lore:[0:\"§7Fear: §5+5\",1:\"\",2:\"§7Obtained during the §5Alchemist\",3:\"§7experiments!\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§5§lEPIC NECKLACE\"],Name:\"§5Great Spook Necklace\"}}",
+    "damage": 0,
     "lore": [
       "§7Fear: §5+5",
       "",
@@ -111098,7 +111130,7 @@
     "internalname": "GREAT_SPOOK_NECKLACE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Great_Spook_Necklace"
@@ -113151,8 +113183,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Drone_Mod:_Grungle"
+    ]
   },
   "GRUNT_MONSTER": {
     "itemid": "minecraft:skull",
@@ -120437,8 +120471,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Clay Ball IX",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Artifact"
+    ],
     "recipes": [
       {
         "A1": "",
@@ -120590,8 +120626,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Clay Ball VII",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Ring"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_CLAY_BALL:8",
@@ -120668,8 +120706,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Clay Ball V",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Talisman"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_CLAY_BALL:1",
@@ -127588,8 +127628,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Infinipot%E2%84%A2"
+    ]
   },
   "INFINITE_QUIVER;1": {
     "itemid": "minecraft:enchanted_book",
@@ -134684,10 +134726,10 @@
     ]
   },
   "KNUCKLE_SANDWICH": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§6Knuckle Sandwich",
-    "nbttag": "{ExtraAttributes:{id:\"KNUCKLE_SANDWICH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fb0345a5-c324-31a4-8e82-7c021ad232c7\",Properties:{textures:[0:{Name:\"textures\",Signature:\"hlVLYekzX0CtuOw4wWaubG0kMf9YUm6VcJdIEYDOw4onKALSGtF6OdpDrzIt3S8IKH+REY5VfzuSCPKsUT7YXFq0OOqqQ85W3hrh3GQ7WYtiLF4fx58OYIXRnky49k60+bebExtnTfQk+1CR3jpIk9BByImzE5VUuFFR8MrbH1BjCTjaEiSJ9rJ76jcpftLCWWPv20cT+6gDMIabMoc9ZvIOr2Jtx2mIg/+B6QnSRhh8RqaVyClUS/35KAzMqxmxMiySgQtXunZw5nhpJ/ojyDi/mDCESM+xHv5o/d55QqRh/h/XP/BzBApvT3tbee3dLsC6m/sJbP7cyCaitaNHQu4E7pFg2gwmox9kgWAJ115D151GhkomLQCv0dzKg9DYYdRgRujbVuX8kiTSj4wacy9M02xq8w8uAykql2UbPWZcOprFvk1t1/dFFyihNUdekagvIv4ZnWXfgS7h75fEfqpG+NP29anWDoOlB/y4ZSzpJAbVYWgu0/8Tj5qBSPym0onN4lnYeGb3Tm3tYCg2aGwv7YeLmLcN7/gH8NC1iOgYYb8++5WVVg34J4Gv5wJjB7w85Rey9wKUz3vVmF25Df356OObmfvmGbjGON6nKHsGep1D05lrBgD6hMJXvacP/yF/byxDVr5Kc14YXy+0eY1UajG5EVeD0ucttThrZWM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1Mjk3Mjk1OCwKICAicHJvZmlsZUlkIiA6ICJiMmQ4MTA2YTJjM2Y0ZTY4ODA0ODkzOWU0NGM1NmUyMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWdoeGQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDBkZDQ3OGZjNGYzMWM2OTA2NDI1NDczMTUzZTU3Mjk5MTBlYTQyOGNkMTNjNDVlMjE5NWUxN2FkNDg0YTIzNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Increases the melee damage of your\",1:\"§7fists by §a500%§7!\",2:\"\",3:\"§8§oNot recommended for breakfast,\",4:\"§8§olunch, or dinner.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Knuckle Sandwich\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"KNUCKLE_SANDWICH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/knuckle_sandwich\",display:{Lore:[0:\"§7Increases the melee damage of your\",1:\"§7fists by §a500%§7!\",2:\"\",3:\"§8§oNot recommended for breakfast,\",4:\"§8§olunch, or dinner.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Knuckle Sandwich\"}}",
+    "damage": 0,
     "lore": [
       "§7Increases the melee damage of your",
       "§7fists by §a500%§7!",
@@ -134703,7 +134745,7 @@
     "internalname": "KNUCKLE_SANDWICH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Knuckle_Sandwich"
@@ -137296,8 +137338,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Raw Fish VII",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Large_Bait_Sack"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_RAW_FISH:16",
@@ -151726,8 +151770,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Raw Fish V",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Medium_Bait_Sack"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_RAW_FISH:1",
@@ -155419,8 +155465,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Drone_Mod:_Mining_Off_Camera"
+    ]
   },
   "MINING_PUMPKIN": {
     "itemid": "minecraft:pumpkin_pie",
@@ -158348,31 +158396,31 @@
     ]
   },
   "MOIL_LOG": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aMoil Log",
-    "nbttag": "{ExtraAttributes:{id:\"MOIL_LOG\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2e7644a8-702a-3396-a8f9-942ae9bd69c5\",Properties:{textures:[0:{Name:\"textures\",Signature:\"h0afF3hiFYMAxN12Nh2mvq03zfwqNYS1PQ/05ALnaVYJ2Ch/sTpFtnrtc0pvXA2UXIVymMVdG4KQ7xgHBjZumbXw1J5zFTQnX42RYEsClK0mUYeFu9Cvj4dlJe6aT6Op/PPp73jh+Q0XTnyT6oqL4xT/JdvK/zgpQQPbHmj/i4ENsNHYYDEZ4uEl9PYIVy9ykf9Qg6LSoXvlajWefyt0RCJgKH34wYLst0aOe8ITTZFvk1nkCoqRNSfN6KGe7uHfOKD06xla7SjMPrPZ8ZNBTjUs1LwtuF5Pve6sGP0W/paTCyRzSAUHlvm+Dllv6Fse4/L8ek8LJdgZ6bPmZjx5TySNWcJXBWoS15fQ+++CcHKV2ukTDLVzDOfGPkHn9w56Q23T+W4K22wa2XI7moTpWMlUKjzt6ZAN0LSBC/51K2UF5YSjAsA/rQ2v2fw5Ig8ueBULUUUvCIsdwNihUIk4hnlaFWb0GNzzZc8SjszCWNIz5PoluysWJxmEZlsncKJh205rA/ZSSbS9mkyacldUgy66GCKuP1hewPr05imM/17mFqVEEzxyKBsUVEqfnwGZScXAmynk8P8CAGqU5HUdRL4QsmLZ2F+sEK8okX1bB/ZfZmYyjhgmtQo74fXmOQ/qwCNMrWpfUQk9WixgPN1Q1xcczOLaLYzm6mNHEyRrB5g=\",Value:\"eyJ0aW1lc3RhbXAiOjE1NTczMzQ4NjM2NjIsInByb2ZpbGVJZCI6IjkxZjA0ZmU5MGYzNjQzYjU4ZjIwZTMzNzVmODZkMzllIiwicHJvZmlsZU5hbWUiOiJTdG9ybVN0b3JteSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM5MWU4NzNkZmMyODFmZWM1MzBjYTllY2JlYjk0NzEwZmNkMTdiNTA4NGE5N2I4OGZiMjcwMDY3MWYxN2I4ZiJ9fX0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Moil §7reforge when\",4:\"§7combined with an axe.\",5:\"\",6:\"§9Moil §7(§6Legendary§7):\",7:\"§7Foraging Wisdom: §3+3\",8:\"\",9:\"§9Moil Bonus\",10:\"§7Grants §3+3☯ Foraging Wisdom§7.\",11:\"\",12:\"§7Requires §aMining Skill Level V§7!\",13:\"\",14:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aMoil Log\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"MOIL_LOG\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/moil_log\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Moil §7reforge when\",4:\"§7combined with an §2Axe§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §6 Foraging Fortune\",9:\"\",10:\"§eRight-click to view rarity scaling!\",11:\"\",12:\"§4❣ §cRequires §aMining Skill 5§c.\",13:\"\",14:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aMoil Log\"}}",
+    "damage": 0,
     "lore": [
       "§8Reforge Stone",
       "§8Combinable in Anvil",
       "",
       "§7Applies the §9Moil §7reforge when",
-      "§7combined with an axe.",
+      "§7combined with an §2Axe§7.",
       "",
-      "§9Moil §7(§6Legendary§7):",
-      "§7Foraging Wisdom: §3+3",
+      "§7Grants the following stats that scale",
+      "§7with the item's rarity:",
+      " §6 Foraging Fortune",
       "",
-      "§9Moil Bonus",
-      "§7Grants §3+3☯ Foraging Wisdom§7.",
+      "§eRight-click to view rarity scaling!",
       "",
-      "§7Requires §aMining Skill Level V§7!",
+      "§4❣ §cRequires §aMining Skill 5§c.",
       "",
       "§a§lUNCOMMON REFORGE STONE"
     ],
     "internalname": "MOIL_LOG",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g19f28a05",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Moil_Log"
@@ -158610,10 +158658,10 @@
     ]
   },
   "MOLTEN_BELT": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Molten Belt",
-    "nbttag": "{ExtraAttributes:{boss_tier:2,id:\"MOLTEN_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"4d1b74cc-dbaf-3f6d-bb94-10fcfc0aaa17\",Properties:{textures:[0:{Name:\"textures\",Signature:\"k9Pphe0nOuyxTI+rM8z8uHDptlf2Zv5/LX+ZJh0ofNlVgyNDjsptrM/SXtUOgGOQOtIoM4XlMaDDIzRIk85GT/aaQ3O1CYKio9rhtRwlMmSAQ3wfGV7DjghkHBEjn0/N/aAEqZZrdr7d07alzXdcpp0xLNIX2WsKM+ejM8bxdhIIRqCz/bp6hZNaH+jZcKXE89SYfmJtq5XALD8NR1i3rVopg/xxSfVie+Y+apMUhZUvcnDeyMSP/ghiaZYKtoEKMCwM0/ZBZl8tKrt5q+XegsCPOOBuBMMrfdbry7AWXgFnKJivsn1+/BNmKh0vZsT6JIo4L78fyT1/67C0cTEbxoU9Dc4fj2IiGum5RNVlD2gqBf/EOh8rJU6GSwRzaQlpj7LgpSbCnPcs4xDGRTfMRrMD6rJR01NHoUA5/qHt33mYhEwLGOnX7AsKTSatfZVyPKJVdiqwR/1FuFVFO0Y/meELjbu5WJrTKMyI5QZZmsuX6iVy1WX/WYmbzXB8J0yqsTR1k5TlZKrEERTmOPfl8I36AvGDTR2+L2wTTf7U+mqqC2qCq/dFhuKw5UCSeS948poeQT/hPF84fFA0PyeVFpWIJKG1tvcZghzx2CbU+TT69GeKM+jTy7oIrTOrFpZxgIL3scNFmdQMDTqw/ARL3WlQJ/xss+PnkZJcxbY84Kw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NzAxNjQ4ODIwMSwKICAicHJvZmlsZUlkIiA6ICI5ZDQyNWFiOGFmZjg0MGU1OWM3NzUzZjc5Mjg5YjMyZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb21wa2luNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdmN2Y1NzIzNGI5OTg2ZTg1ZGE4NzhmYjNiNjY3MGYxYzcwYTM1NzBkZGRiZTlmYjUzMDkxMzA4MmJhNDRiNSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+20\",3:\"\",4:\"§8Tiered Bonus: Molten Core (0/4)\",5:\"§7Gain §a5% §7damage resistance while\",6:\"§7fighting §6Kuudra§7.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aCombat Skill 22§c.\",12:\"§5§lEPIC BELT\"],Name:\"§5Molten Belt\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{boss_tier:2,id:\"MOLTEN_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/molten_belt\",display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+20\",3:\"\",4:\"§8Tiered Bonus: Molten Core (0/4)\",5:\"§7Gain §a5% §7damage resistance while\",6:\"§7fighting §6Kuudra§7.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aCombat Skill 22§c.\",12:\"§5§lEPIC BELT\"],Name:\"§5Molten Belt\"}}",
+    "damage": 0,
     "lore": [
       "§7Health: §c+30",
       "§7Defense: §a+20",
@@ -158632,17 +158680,17 @@
     "internalname": "MOLTEN_BELT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Molten_Belt"
     ]
   },
   "MOLTEN_BRACELET": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Molten Bracelet",
-    "nbttag": "{ExtraAttributes:{boss_tier:4,id:\"MOLTEN_BRACELET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"479e23bf-e9c9-3cb7-a346-795f3b0847a9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"RgvYgvO+w1CwWRkreBi7RVrFhC7mUigvp3fv/W0hIN5MM00grOBIR9Owe8XIa5zJLrOIRX7sQLEmpjF5s0G8vxuLh98lyUPQSxOUZURb0JZCmBhKavYQXYAopLhpMMJpvrvuTXdAt9kAoqo2+V50mzJeKGfpwfm7e/wt3n/jf2nHN8ODqrwXJ+eqi+GLJJ/bruL9LyK1JGxrFw2StgQE3CU1NDc2uGIQLaDYO6IrY9j7N/sgVKhdKK0iDcvUTQUSQxz8VnT4jaMjjuhs9RfwfNEvfz1zNsxpFdVFTHfAppHDhZspAcKnFVID1umsAaPBy6shoHGjOADMh3P5/C9gNZbPoKMOoo6DEOSb4LeBiIzG/W12w4kyJQMM8fQ3tcNpT2Hoz3Mt29dlUGADR5PtK0CqQgXe/5h2sntMu8jwPerPIxCE3PfxkjIgqpWbGchUEct3qLAynRTocthSiMPbVGX0Eyfsvj45ty75mINBYTWeFjBooe9Yrc6AC54L9eVy18kACuKrpva2mo5vFHBH+93pVSgv8QuArngLcVb/Lus7P94tecZGp1WxB34mTm3wlhT+i51xJUhZVT8ukdlQNOl1yfhNXZfbYqv6KS1SaR2nnsepIcK902TCL8XqnUwK/UIGTI6BZX+FWZgjUZnHorlL2ut4VYjEk4FoPsDfzxo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NzAxNjUwNTAzMSwKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIwNTI5NGY4OTE1YzhkYTliNmUzODI5ZjZkYmExMzVmODhhYjQ3NjFiOTQzMGUxOGZmMTI1ZWYzZTk1MGNjZGYiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+20\",3:\"\",4:\"§8Tiered Bonus: Molten Core (0/4)\",5:\"§7Gain §a5% §7damage resistance while\",6:\"§7fighting §6Kuudra§7.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aCombat Skill 22§c.\",12:\"§5§lEPIC BRACELET\"],Name:\"§5Molten Bracelet\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{boss_tier:4,id:\"MOLTEN_BRACELET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/molten_bracelet\",display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+20\",3:\"\",4:\"§8Tiered Bonus: Molten Core (0/4)\",5:\"§7Gain §a5% §7damage resistance while\",6:\"§7fighting §6Kuudra§7.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aCombat Skill 22§c.\",12:\"§5§lEPIC BRACELET\"],Name:\"§5Molten Bracelet\"}}",
+    "damage": 0,
     "lore": [
       "§7Health: §c+30",
       "§7Defense: §a+20",
@@ -158661,17 +158709,17 @@
     "internalname": "MOLTEN_BRACELET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Molten_Bracelet"
     ]
   },
   "MOLTEN_CLOAK": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Molten Cloak",
-    "nbttag": "{ExtraAttributes:{boss_tier:4,id:\"MOLTEN_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e7b0b792-7786-3b14-82b0-d04f7b5fbf7c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"IJqJydOr55X1VF7y9+s4javdRc4WJcE5Io63ipwnyM9ehF57ujEUK0Lb5nSKGPiFOeXXxjSyYHu05MGKUWl53IkBcQ6Y+fS8uFRTTQlf77pL7brcwrdU2QHwdpPLWmQrVY0RVzSOZy3rG+kAx1g1uVpsLyPXfAEvCNCc3YFOr86qQa4gGu3cNdPY1eVifNyktZJo0GlOHpfykmSCzuE1QQ4NaayD2fNpKLfIGqS789unDKNiwTCsd+4NHk2RqpOtBSS3O86I4iz2tbUDtPbrC3I1ZS/fjfcfBBkhDGQuqjTp1SIAGqClpLTaeY/1jLsD9JUkaHvKtybJ+GrCG2+0LJdnf1JHmA94lIJS7Ey2AkDxkg7kq1F2shCB1SX7ydUQa313vpLj8wLUAqGYt8rPbLoUnHpeqXdORbXwrNeHbaxiH+VYpwhGzre4k3EjujOYrNDmOND9j531ntEUQeMtxxjvynFrIZUs9uwxFvHtdtqfUPhLnr3lGySHZwgpi5IiZQ4C8aRTaALmiteYqeLlyC5cQxjkBmCNJaqNqxuBS/X84l/LSGVM5W64Whfw2otO9XX/sz8rGJjj1aNzO5JjW8kT7Ldnktap3j/Xs2Dmjf67hlsGca2NFQUQo/UM6xwLC/lmxqk7bVhrr2RUF9borPuntTE0Ap66MfX8M+rOPPo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NzAxNjQzNDExNiwKICAicHJvZmlsZUlkIiA6ICJlZThjNWMzMGY3NWU0N2QxOTBmOTllNjI5NDgyOGZjMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGFya19QaGFudG9tIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjMThiYjBmNTJmMjQ2ZWM5YmZmNWYwNTc2MTQ1NmJlMjczZTczMGNkMjc2NTU1ZmQ3NzJiYThjM2ZhMGYxNDQiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+20\",3:\"\",4:\"§8Tiered Bonus: Molten Core (0/4)\",5:\"§7Gain §a5% §7damage resistance while\",6:\"§7fighting §6Kuudra§7.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aCombat Skill 22§c.\",12:\"§5§lEPIC CLOAK\"],Name:\"§5Molten Cloak\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{boss_tier:4,id:\"MOLTEN_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/molten_cloak\",display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+20\",3:\"\",4:\"§8Tiered Bonus: Molten Core (0/4)\",5:\"§7Gain §a5% §7damage resistance while\",6:\"§7fighting §6Kuudra§7.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aCombat Skill 22§c.\",12:\"§5§lEPIC CLOAK\"],Name:\"§5Molten Cloak\"}}",
+    "damage": 0,
     "lore": [
       "§7Health: §c+30",
       "§7Defense: §a+20",
@@ -158690,7 +158738,7 @@
     "internalname": "MOLTEN_CLOAK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Molten_Cloak"
@@ -158738,10 +158786,10 @@
     ]
   },
   "MOLTEN_NECKLACE": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Molten Necklace",
-    "nbttag": "{ExtraAttributes:{boss_tier:0,id:\"MOLTEN_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"edc180da-fb33-3fd0-9d05-52ce80874304\",Properties:{textures:[0:{Name:\"textures\",Signature:\"C5qq8C3ayGnVPZZXs9Uu3FpdvgevofLDmju+5QLejVXcXo/9yFvmVoQP4WqfW46icgCvJR5htEvvDADeqxNLVMHW8lFRSg6FHBr+9V1zhNNblZFvr1HL5UEbH1SYHA7IwmZuY+W5sZjrCnno9+gtUjqPvMcKfc3EJYom4vwWquYHUkREp3560jkYHqRg37xfTXS2xhaAJIHdP8RMYY7tFJgptmNbFFuMK27cjAqD5L73KDFGPrOHv0yRA/7N8YoSjYRqRcBVLaBDwlIZMm3jTXOByYIpSDISgKoONXjl7bU+8UP8UM+rWPPvsmRbkIM5zeKjCnbGbTe2d1FCXmnHwg2kPgRHMMUllq/uJG+vL01lD3YXMoR5fpq2hoCmF655o/HWq7oeaqrZsCYKRV0gIgFPVvd1PPfEjWoHE4W9NYI+Z8aSTplFJzmIdxA9LByQiLNLXpMBk8bibuxKItpijhun4alpV5PhfJEsJ8iPQMPcRi/J/2K7bbThLfhrJEh7yz3VJ2PH9EYldTd39mYT4i/Bw6h2tL9zxZuJ/3Txiv3f1+BJHHyCenkxWHWe0sLreniNelz2y0N16kfQHtegWLwX4IM+fbpYzq6pDN9NR+J60EAEvQrQj5Svr8ZbjZ5cBI+BI2VpknDb9DhXCdtueOFZHpm5dvWb0ZxVdnyZpDU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NzAxNjQxODA4MiwKICAicHJvZmlsZUlkIiA6ICI2NmI0ZDRlMTFlNmE0YjhjYTFkN2Q5YzliZTBhNjQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmFzdG9vWXNmIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiYzBjYTQ0YzY3OGM0ZmI0ZWJlNzNmMTI3MTdmOGFiNmRmM2I1YWI4NjhkMjE3ZTY4YzM2YWFmZTJhZDgwZTQiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+20\",3:\"\",4:\"§8Tiered Bonus: Molten Core (0/4)\",5:\"§7Gain §a5% §7damage resistance while\",6:\"§7fighting §6Kuudra§7.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aCombat Skill 22§c.\",12:\"§5§lEPIC NECKLACE\"],Name:\"§5Molten Necklace\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{boss_tier:2,id:\"MOLTEN_NECKLACE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/molten_necklace\",display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+20\",3:\"\",4:\"§8Tiered Bonus: Molten Core (0/4)\",5:\"§7Gain §a5% §7damage resistance while\",6:\"§7fighting §6Kuudra§7.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires §aCombat Skill 22§c.\",12:\"§5§lEPIC NECKLACE\"],Name:\"§5Molten Necklace\"}}",
+    "damage": 0,
     "lore": [
       "§7Health: §c+30",
       "§7Defense: §a+20",
@@ -158760,7 +158808,7 @@
     "internalname": "MOLTEN_NECKLACE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Molten_Necklace"
@@ -159310,10 +159358,10 @@
     ]
   },
   "MOONLIGHT_CRYSTAL": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Moonlight Crystal",
-    "nbttag": "{ExtraAttributes:{id:\"MOONLIGHT_CRYSTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8cc2b8fb-2cc8-337f-aa2e-be88cf3b4cc8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"CAF6HEIXxMR2cbvBr1UHST41OA1vndgKR3U2cTtVB2jPfXfoAvF7vA2adJItQHr60/SHmqTA+ADGY0Pf4EqwpUNrs1SisR0Wojw43tROqikho9NrdlZsTvFw2kfeTRyPnEwADDdmfKyu8LGa45q52cZ4E1jRaDwlbMd9cGbtg7vYXd81BhdytwZtEIQtUC31jfwhOJbB/az3i6koQ0Q2c/fTdgBrcIx5n3yd9cUZNvl7foKX7dbztAhCVdvLukGBfgO97GzDYQAg0ghqcfqB4LsJ8yxvH9oORiMBFyVrelyUgfEOBHcrsgKlUE+j1zOE6IX9ol06BOdouUlFHh4BQandZggh5n/oIDzWBwW+GSbG4N900iYo/Y/kGGVkMmUP4CT/daReSkNZh4gvARwKBr3v+0T3kcxNUFX43qCQ1K+9SCO7LQh9zONbBq6yx+MM28ndRJ8MgOeuVTUAlbBpFezhY3PsgHvixlAf7atVjr0v4LxQ7zT6S7bWuusvnclA/TmRBII7CSws+iQxmTQlDmXH/wdJ5V6did7N+GB0FfGdI1ZQkf50v/vaVWtNI2w79NxLsZNZCwzSkm2hbf563NaWMrmBJdFuqA5/Ex7vhQki5FifrR4ixSZynlTVm9Pvc436WVBDbHeA+sWlTY1xk18OLRsxk/hUxtvrekEvkLk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1NzAwNDU1NDc4MCwKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODUzY2ZkYjUwNDk3NDg2ZjI1ZWEwN2U0YzZmMmE3NTIwM2ZiMTdhMmI1Yzg0ODJiMzg5NDc4NDAwODAwZGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+10§7 during the Night.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§5§lEPIC ACCESSORY\"],Name:\"§5Moonlight Crystal\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"MOONLIGHT_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/moonlight_crystal\",display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+10§7 during the Night.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§5§lEPIC ACCESSORY\"],Name:\"§5Moonlight Crystal\"}}",
+    "damage": 0,
     "lore": [
       "§7Accessory Power: §6+12",
       "",
@@ -159326,7 +159374,7 @@
     "internalname": "MOONLIGHT_CRYSTAL",
     "clickcommand": "",
     "crafttext": "Requires: Moonflower VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Moonlight_Crystal"
@@ -165015,10 +165063,10 @@
     ]
   },
   "NIGHT_CRYSTAL": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Night Crystal",
-    "nbttag": "{ExtraAttributes:{id:\"NIGHT_CRYSTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8f005abb-e0be-3594-a9a0-8b223fdcf764\",Properties:{textures:[0:{Name:\"textures\",Signature:\"NKjTna/HL4aDBfetC8Cqqh9auJT1Sf1NHE6nlFhghWmGmmynwNtJ/uKjVYiWN0Hhj/LlvEZFj49abeqRfVT99LvMNzu3rVpSkv+L9sVoVKbxfXNkp0rsfA087WlBC+zk9Dm58YTy157c1gqGBwCjFEHxF78ng9cJqVj1b+2aI/ql1pfwM53ikBi/1Cyh4pGR59d5n4Cy/dlkSVLIjhVLi/5ExNoAmJRY0QtOnqxLfPnr0NU/ZaP1c0fMeJ5IxSMvTpx5FooWGhJ0B/vY7zk5UiC2KYYFB0qL/De35da3foAyP2xV6TSO7naX85qgODQ5nX+a8xHk9asZhqR65KfD4eH62ymwjWqUdCyuvH1AYQdtsOXJr4+278zIljry0BIUxCuR2VzvOvLSHWby5W04V+bX4rhC9KYmRa+XSUp10MA29h9/YuzBHUKa56XnreAhuk+99zWee+5c3uViXTnYgmJhnrU3hOmzuH5qHSC3yOUqxIs1YYzfapOlT1r1ACeBkY6P0e232tPwC0I2qJJXtqVi+PbJrZ83YxVYCiQ+5zcV0F3F78WbBs/6XPMlfi7feiEH3XUWbGxNY/FrEX112sfwFCAENfLwJwSD8MBErcQlMPG5utKVhCDrwDe/XfWk1snGzaiCjMayjfpEFCRxBni90lpmOASgNkmj/sKvAgM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5NDEzMzI3MTE0MywKICAicHJvZmlsZUlkIiA6ICJjMTc2MDkwNTQ1OGE0NDE5OGY5ODdmYTZjMzI5YjljMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb29kX05vcm1hbCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YzQ2NTc4YWQ1OGU5NzZmYTA1NDc4NTEwODg5YTU4NzM1YTY3YzRkZDAyMmQzOThjMDRkNTY2NzZmMGRjMTcxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+5§7 during the Night.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Night Crystal\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"NIGHT_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/night_crystal\",display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+5§7 during the Night.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Night Crystal\"}}",
+    "damage": 0,
     "lore": [
       "§7Accessory Power: §6+8",
       "",
@@ -165031,7 +165079,7 @@
     "internalname": "NIGHT_CRYSTAL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Nether Quartz VII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Night_Crystal"
@@ -171397,10 +171445,10 @@
     ]
   },
   "PARTY_BELT": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aParty Belt",
-    "nbttag": "{ExtraAttributes:{id:\"PARTY_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f2f3ab1b-ebf4-3862-a5ee-f1871ff9d440\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Eg9o3D96DBhUOHatTrUhN7eiyY70s8wjlC6huEWwtRqFbIiMUeCM1iKoPOOr5tTn+yZdR0Bt/kQcQuw5zaal6R8TYpgDGX/Emmx2hB7Wan5IK6Vj9RAnTnzD3sYRs+Lgw1JN2OaIWcExs3bF2Pnhgv0NR1HnloBMlykp33miWE7OXU4mvsJcqnvCRfmSEa1VcfWHTC7ObJzJHBR9h04myJq4nafXh4NEp7NF2LHvjpvcGDglUUzfzqv43d2YQGx9WmI8ngB8jzf1ErEvjF4SoIlE2YenrkEFtBuKrlrSHzOQ5TfdMpvrpTUveiUGfj50xC9kZFZo9fHLZDznnLR+zCuMJnBqc+Rcy//1aW+h9qaYwXkBIgjKQkWVdzIpiup5JdKhPODRDv4QjrZbWzm69ZP5jLC18XvSqf62eGYaIpOTI2QubRG1bMJ7AmWV92ZKFxRYypBB0kIQKg3DN7I7sqaKNiqE7YsG8pk8cAfCNZUQtzU2FPo4haMo5CLpUA1UNLYmamAETebGsq17ydCIBg89eRPld6RKwk8VuDvGwh6RTmMFcu0WNOoF0Fm4U+WtKrnvN4Bl7fIQdOBSC7fOWgWsmzlCaowNe+oINmVTU9OanUA+SbFJyQrJYrzsSM/QZ7O47J4/zJjXczusD2GD6kAns9WADSiiVxmrVIv0suk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0MTE1MzYwNSwKICAicHJvZmlsZUlkIiA6ICJhNzQ0NWIzOTdkMWY0ZjBiOTNkYTMwNGZjY2M2OTM1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFc2tyYVRlVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNjMxMjc0YjRiZDg0ZmFlZjY0ZGMwMWVjM2Y1OGU3YmZiOWU4ZWYxZGEwOTk4MjI1ZTk3YmUzMjQ0YzljZGRhIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Tiered Bonus: Carnival Craze (0/5)\",1:\"§7Gain §a+4% §7more §eCarnival Tokens§7.\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON BELT\"],Name:\"§aParty Belt\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"PARTY_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/party_belt\",display:{Lore:[0:\"§8Tiered Bonus: Carnival Craze (0/5)\",1:\"§7Gain §a+4% §7more §eCarnival Tokens§7.\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON BELT\"],Name:\"§aParty Belt\"}}",
+    "damage": 0,
     "lore": [
       "§8Tiered Bonus: Carnival Craze (0/5)",
       "§7Gain §a+4% §7more §eCarnival Tokens§7.",
@@ -171413,17 +171461,17 @@
     "internalname": "PARTY_BELT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Party_Belt"
     ]
   },
   "PARTY_CLOAK": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aParty Cloak",
-    "nbttag": "{ExtraAttributes:{id:\"PARTY_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e3011416-5011-3820-aa87-43905d3e1a9e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"RGYXpQlgypAj8F1kqYa+AHPCR0sBG0CXRMLy0om9A7JfyMPpT9eumqnikSj5yQit+/0efEYJJW/f3VMXTQ9Uc0eBLKsRlzXlLt0lzfD/It+HdTze4wcgtMa7ExYngfRXr+guYjeRRU7kKZ5zbTCz6jVTtBZ6zfH3Jg38xyxbITdDyFV+JtTkStFURyqnFKvkaO0njbAALyb/XB8+KHGKq0LwUfrkJQVEAzqq39Hi8ffeXjXogpHVlB+/IDgcerMUrRDJEzKXjViGyxxpQI/KV8HvVTg6LbbTVoubtCLnQAx3AL5/6iHbxTnQ6v0ZMFQf7adS3t+LuUzHAIhPOqWzRYX6MDiC0VPTBgmyP8lG59Tt8lQmRZgIIKdyHgatAn18CQEbxsVSQF+K151OBpEKKXE/WuOfr+aPPv+lWrh2Hay0eY84WtO1HyalcnN2VE23aHP0xpOU46ZhfAVAVUxjmeU5yJP+1t3140kDuNXMyDZXVbAFGq88scpPyKL9MKMprrx5vcn90neVwPS02+X2+OEaWQE+iHpVLaK99z0Q1w0nsxuSDmZydCMJ/5K7yotClJDg8cq7Rx/5UpBA3QhqhpeFLDBI/yKOAoj8nOAAwqbDQ9uG8YUARCQTLyuf3M3WYTrqRH4IkUNsj+wUvC7/x8DUNQuMkxj0B7O42oS7Aoc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0MTEyOTE3NCwKICAicHJvZmlsZUlkIiA6ICJiOThjNGFkOGM2MjY0NGYxOWUzYzhhZTE0ZThhMDI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5cnRlZGR5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2OWViODljMjYwMGE0OGIwOGMzMzBkNWEwNjUyNGE5OWY1MGNiNDhkMDg0MTQ0MThiMzJhY2I3YWJhYzIwZDkiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Tiered Bonus: Carnival Craze (0/5)\",1:\"§7Gain §a+4% §7more §eCarnival Tokens§7.\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON CLOAK\"],Name:\"§aParty Cloak\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"PARTY_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/party_cloak\",display:{Lore:[0:\"§8Tiered Bonus: Carnival Craze (0/5)\",1:\"§7Gain §a+4% §7more §eCarnival Tokens§7.\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON CLOAK\"],Name:\"§aParty Cloak\"}}",
+    "damage": 0,
     "lore": [
       "§8Tiered Bonus: Carnival Craze (0/5)",
       "§7Gain §a+4% §7more §eCarnival Tokens§7.",
@@ -171436,7 +171484,7 @@
     "internalname": "PARTY_CLOAK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Party_Cloak"
@@ -171553,10 +171601,10 @@
     ]
   },
   "PARTY_GLOVES": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aParty Gloves",
-    "nbttag": "{ExtraAttributes:{id:\"PARTY_GLOVES\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c71c6028-2395-3e65-9d9b-1534e9e7a2d1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"T8/7JbcOFjMa+h3njltgXVplPtPgBGXNtR9pT5LA2a6xNp2yBJdYyXDjpKpqYjfqjJsiTRj1ys68WyYmjCS61gnUyBlnyQ/U1SCZXsrhg5NVtKzGteYtx84k7ZY01tQYVRsN38t1Vm4uvpGKdCcKFs7UJqQWcN45R8jzAgi+OYrPJ5ockxFLptN+Ot7SLuiyoULOJcfh7hUe7Aw53/jFAM9ikE86XuTLEajwB4xHahYIVRmE/NkQqWQxdY9UyNN7d2pGbV3L81iNtgW23Prbe1T1E18klRIwJe6gY7MbEKzKUmMs7+54m0JmCiGY6b85/NKMsuNIaF5oSMM3QQ2kiOP5SRmOckfr0ZLHVHWCNMP2zjpJjNmw5WboCaSXSLcXmsTaD0ncwWvtOZ7IG8wBkc352AaY5bSPLzntauc+FHdUNLYuye9Z/BiwhyDbulAccUZqnWo+h732vMty2uRCisFvxdOg2bT7GLGWAUSAa4bmy/WjvHKnsZtfUGUYvLv+JVyFqT0wQ3NTxdLjjE0Gb4nWSPe3i0QV7yPUJBCcOyt/EU4yd9A3RR6ZPslqoOGasT/B+9EJY0w6+69pEVjCFMVGhhYBD9Gb+vElvnpT5ZJX2KPF4stubDRlvqc4vnrlIMAUNLcQmbI8eZCNBbnuLzL/wxq62zbw1NT8o7vFSJU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0MTIyOTk1NSwKICAicHJvZmlsZUlkIiA6ICI3ZGEyYWIzYTkzY2E0OGVlODMwNDhhZmMzYjgwZTY4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2xkYXBmZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWE5ZjM5M2Y5MGVhZWFmMzBjMjcyMDk0MDNjZmQxNTc3OGIxMTg3Njk1ZjhlYTBhOWNhNTU3MTFlZTFhODkiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Tiered Bonus: Carnival Craze (0/5)\",1:\"§7Gain §a+4% §7more §eCarnival Tokens§7.\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON GLOVES\"],Name:\"§aParty Gloves\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"PARTY_GLOVES\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/party_gloves\",display:{Lore:[0:\"§8Tiered Bonus: Carnival Craze (0/5)\",1:\"§7Gain §a+4% §7more §eCarnival Tokens§7.\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON GLOVES\"],Name:\"§aParty Gloves\"}}",
+    "damage": 0,
     "lore": [
       "§8Tiered Bonus: Carnival Craze (0/5)",
       "§7Gain §a+4% §7more §eCarnival Tokens§7.",
@@ -171569,7 +171617,7 @@
     "internalname": "PARTY_GLOVES",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Party_Gloves"
@@ -172381,10 +172429,10 @@
     ]
   },
   "PARTY_NECKLACE": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aParty Necklace",
-    "nbttag": "{ExtraAttributes:{id:\"PARTY_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e5fbc10f-17a0-3f1c-84af-9883b898993f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Mjf9CGMEVQ6oRWqx9N2ziWNQa05Lo/XkY6eZgrAi14aA8thU7dLF3XV2rz7/BuddRTOb86GLQTji+UEVTBSwym+WMcA0qkt7nawJgoF8Z3Wfcu7qDvjIldDdTszqNr93c0i24+6MOTlMtqdNIHRLdLFcdtFtjeBf2hN73mLvyBIW3nDbNjxueQ1QdPrDxLsPOji/3v14Aahkih2vz9kKjmXEHsXVFoCBfeJKw3NiynDZEyiuLWJLp62+9Jnme7/IY1fJD9odojijhPLHHJU8lDRL76lQ0V5dCHzj1/MZWmK/R5fh7MjxVU+QNXrVwc8cOUNGMCVMAwinywg7iZkdQpS8Eqmmk1hzJQ/ATm9scsbn9voX1mv2mrj3ueSQCSa2uzCm8zsrniXcydTEV0oPP4g6dos068IE7shwo5iKRm9DcOAijkQDVhsADC4V14mvLsIebc0b7HPAXOzs0nni5ejUjMar79YWkeMD1NkU5edFFJ67RI3yy3yMyqril9KjQ2Oebu0bENFTOx4G3xDPsZBMS6wVyGMMs6XAYH5rJ76BzcgU8+WyiIuHkJa5dDLK/JrY23EZh9+aZ9N3YeRjduOg/YA9hV2L6i9gZID9LMk726jTXXvTBfE8QHXCsBO6J7lplI9mmah95YWBe3d18XBecg1d7PmgfG8YdMk1kxQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNDI0MTE3NzY5OCwKICAicHJvZmlsZUlkIiA6ICJmYjZkM2E5Zjk3MWY0ZTdlYmQ0MjE2Yjk0MjE5NDA3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXJjaXhkZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNWUzMTNlMzBjNTNkZTE3NmU3ZjNjZmNjMjc4MjdmZDQ1ZTE3ZDBjNGI5OWM2YzFmYjUyYTcwYWIyOTM5MzI0IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Tiered Bonus: Carnival Craze (0/5)\",1:\"§7Gain §a+4% §7more §eCarnival Tokens§7.\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON NECKLACE\"],Name:\"§aParty Necklace\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"PARTY_NECKLACE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/party_necklace\",display:{Lore:[0:\"§8Tiered Bonus: Carnival Craze (0/5)\",1:\"§7Gain §a+4% §7more §eCarnival Tokens§7.\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§a§lUNCOMMON NECKLACE\"],Name:\"§aParty Necklace\"}}",
+    "damage": 0,
     "lore": [
       "§8Tiered Bonus: Carnival Craze (0/5)",
       "§7Gain §a+4% §7more §eCarnival Tokens§7.",
@@ -172397,7 +172445,7 @@
     "internalname": "PARTY_NECKLACE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Party_Necklace"
@@ -198975,7 +199023,7 @@
       {
         "type": "forge",
         "inputs": [
-          "REFINED_MINERAL:1.0",
+          "REFINED_MITHRIL:1.0",
           "REFINED_TITANIUM:1.0"
         ],
         "count": 1,
@@ -199842,8 +199890,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Precursor_Drone_Pet"
+    ],
     "recipes": [
       {
         "type": "forge",
@@ -201430,8 +201480,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Professor_Wynd"
+    ],
     "island": "hub",
     "x": 2,
     "y": 180,
@@ -211767,8 +211819,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Refractive_Paint_Palette"
+    ]
   },
   "REFUND_COOKIE": {
     "itemid": "minecraft:cookie",
@@ -218244,14 +218298,14 @@
   "RUBY_POWER_SCROLL": {
     "itemid": "minecraft:paper",
     "displayname": "§cRuby Power Scroll",
-    "nbttag": "{ExtraAttributes:{id:\"RUBY_POWER_SCROLL\"},HideFlags:254,ItemModel:\"minecraft:writable_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Heal back §a1% §7of your missing §c\",3:\"§cHealth §7when using your §e§lRIGHT\",4:\"§e§lCLICK §6Item Ability§7. Has a §c5s §7cooldown.\",5:\"\",6:\"§7Can be combined with any §bitem §7with a §e§lRIGHT\",7:\"§e§lCLICK §6Item Ability §7at an anvil.\",8:\"\",9:\"§5§lEPIC\"],Name:\"§cRuby Power Scroll\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"RUBY_POWER_SCROLL\"},HideFlags:254,ItemModel:\"minecraft:writable_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Gain §c+10 Health Regen §7for §a5s §7when\",3:\"§7using your §e§lRIGHT CLICK §6Item\",4:\"§6Ability§7. Has a §c5s §7cooldown.\",5:\"\",6:\"§7Can be combined with any §bitem §7with a §e§lRIGHT\",7:\"§e§lCLICK §6Item Ability §7at an anvil.\",8:\"\",9:\"§5§lEPIC\"],Name:\"§cRuby Power Scroll\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
       "",
-      "§7Heal back §a1% §7of your missing §c",
-      "§cHealth §7when using your §e§lRIGHT",
-      "§e§lCLICK §6Item Ability§7. Has a §c5s §7cooldown.",
+      "§7Gain §c+10 Health Regen §7for §a5s §7when",
+      "§7using your §e§lRIGHT CLICK §6Item",
+      "§6Ability§7. Has a §c5s §7cooldown.",
       "",
       "§7Can be combined with any §bitem §7with a §e§lRIGHT",
       "§e§lCLICK §6Item Ability §7at an anvil.",
@@ -218261,7 +218315,7 @@
     "internalname": "RUBY_POWER_SCROLL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Gemstone VII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ruby_Power_Scroll"
@@ -235589,8 +235643,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Raw Fish III",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Small_Bait_Sack"
+    ],
     "recipes": [
       {
         "A1": "RAW_FISH:1",
@@ -238621,10 +238677,10 @@
     "vanilla": true
   },
   "SNOW_BELT": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Snow Belt",
-    "nbttag": "{ExtraAttributes:{id:\"SNOW_BELT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fce4e950-464c-3df6-9b91-c53ff23ffd03\",Properties:{textures:[0:{Name:\"textures\",Signature:\"p9/w+3LHa985hussV7pRNOp6lgUsvbfCNpTsPJyRFixhf3UzOQQ5wNBhiIjbQ1rwnPKRa7YVaxPIaNc0/W6bXtwApmpKK9RFrXYZxzpQ28oqQDpAWdxipgE24NF2G6jNMQvIebiQN4FfXW74L0lhMQ2yeKX1dK3ceYo1mR/TfzA25dGOSAcoZodP6CKge8H0p0yaKdXozDgJ84/lAkdjFH5kgDdPZI7Nv7W8vBNW+PlyNgXryKsRQ93fEase5MDvfkQOT/6uoPUA5mXByVmEdQYgHLULbBUIyB0d0dmFb8IxnSm9CW4GnpZqyWbM5kVb5RsZ64JZRxrONhdBzJ6GLPM+VTv2CZqy8Q6PlM4Oi25/Wj+0HzPjsmSwiF0PGLlzi+ak009jIJVRLFfxZ+oKON2cgY4WYApGSp3oIYsJN2zTRELtbh0IZ3EdS8DmMgmhSD/hskklG+BY0aHTPq2Ii/miN02LzH4KQ8B7uVbs4FsJxusKjBHP/UVYHWLNvQeWIuhW4xIaHjW01Rpop35F8B9HiRrD7VV8J+dpWJ+TskLOjzyAptRPmfoxF9yeI8K10ddNPOsXDvcF3/Gj2LkZc6MnhqIS2ki6ai+4c3NmqOcxXpARauDNpNW4mAJdC2J6jUvX6e7Kis+dy1fLK6zUT7thzQXv5vNktzfOh0nB+MQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk2Nzc3NSwKICAicHJvZmlsZUlkIiA6ICJmZTE0M2FhZTVmNGE0YTdiYjM4MzcxM2U1Mjg0YmIxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKZWZveHk0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjMDNlODdmYmZhOTAzMjQ4OTRlOTY4YmU5NmI5OTMwZDk5OGVjY2NmNjYzMmRlMDQ3YjNlOWNjNjkxMTFjYzciCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+5\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+2\",3:\"\",4:\"§6Full Set Bonus: Cold Thumb §7(0/8)\",5:\"§7Allows the wearer to shoot unlimited\",6:\"§7snowballs when using §9Frosty the\",7:\"§9Snow Cannon§7.\",8:\"\",9:\"§7Each piece grants a §a5% §7bonus gift\",10:\"§7chance for every present you earn\",11:\"§7from the §cGift Attack §7minigame!\",12:\"\",13:\"§7All stats of this armor piece are\",14:\"§7doubled while on §cJerry's Workshop§7!\",15:\"\",16:\"§eRight-click to equip!\",17:\"\",18:\"§8This item can be reforged!\",19:\"§9§lRARE BELT\"],Name:\"§9Snow Belt\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SNOW_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/equipment/snow_belt\",display:{Lore:[0:\"§7Health: §c+5\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+2\",3:\"\",4:\"§6Full Set Bonus: Cold Thumb §7(0/8)\",5:\"§7Allows the wearer to shoot unlimited\",6:\"§7snowballs when using §9Frosty the\",7:\"§9Snow Cannon§7.\",8:\"\",9:\"§7Each piece grants a §a5% §7bonus gift\",10:\"§7chance for every present you earn\",11:\"§7from the §cGift Attack §7minigame!\",12:\"\",13:\"§7All stats of this armor piece are\",14:\"§7doubled while on §cJerry's Workshop§7!\",15:\"\",16:\"§eRight-click to equip!\",17:\"\",18:\"§8This item can be reforged!\",19:\"§9§lRARE BELT\"],Name:\"§9Snow Belt\"}}",
+    "damage": 0,
     "lore": [
       "§7Health: §c+5",
       "§7Intelligence: §b+5",
@@ -238650,7 +238706,7 @@
     "internalname": "SNOW_BELT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Snow_Belt"
@@ -238736,10 +238792,10 @@
     ]
   },
   "SNOW_CLOAK": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Snow Cloak",
-    "nbttag": "{ExtraAttributes:{id:\"SNOW_CLOAK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"12820889-db89-362d-8b30-57d0f1afb537\",Properties:{textures:[0:{Name:\"textures\",Signature:\"a7joEJQF+rPQKrGg0yDVwd/63wv+7xY+MEolhFWWpxeRwAnJYnKi7Ul6K6Q7Wugeu7C+8j6faaqe3Fha+oPRDK03QZvS1py53GHoU1AKRiaELw7sefWEcFh6MiEuXpnJbz+JIkl8YUPCAPK1qoQMfxq1hngQireWIpLF4SRmhxel1Ctxic8j4hisjAsNvDDMrVoUB7khCT5ph+J/rG1j6fudY19B/yBVPKrj5JCjCQmENjpgym31gn9nE4/Y+w+FphyRWvvn3hyVNG0xox4MnfTOTErqRRaxYpggGAprFTYfu/+j4uSdXKRt1b9O8XidbEP8rNnfuoo8d5m0YWwtNiSUGH4fX2NIzO2kKcqfsEgKpQ8LNcSOWeXkzZNtBQVr9oYSQncpwjr2PtJlOIJapdDeArQMAdeHdQgvnY1RSIzqzdrztXuFrba4SNvxY5lePQ+nfls5KW4fiHfBviIMnnkg8fIYKb/wZpP33tCBhLRjf0EvrmBeID9FxiM2Q4pjOkWtR9b2X33/tk+IgvMgcSou3VQOr8PkWs28zZnoOiWXqzXBqPEBwI/I8L8Grjl0hkasm6ZI7ZkRAui9ZGPD9d3eR5mOQvLy5H5Ag0e/H0tdkqY82RtkShYFM9Z4e0YFSKjme0LIPA/UoNJDPMEXrizztQor3JW6yl2VWlvNTd4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk3ODk1NiwKICAicHJvZmlsZUlkIiA6ICJmYzg3ZTI3YTYwZjY0NjdhOGMwMDgyMmI2ZWY5ZTMyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbmRyZWlvX28iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjEyNGJmYjIyZDZmZjZjMDBhNzNkNWY2NzY5YjkwNzIzMTFiZGU2YzgwMTBkZjU1MWU4Njc1OGU4OTg0YjhiZiIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+5\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+2\",3:\"\",4:\"§6Full Set Bonus: Cold Thumb §7(0/8)\",5:\"§7Allows the wearer to shoot unlimited\",6:\"§7snowballs when using §9Frosty the\",7:\"§9Snow Cannon§7.\",8:\"\",9:\"§7Each piece grants a §a5% §7bonus gift\",10:\"§7chance for every present you earn\",11:\"§7from the §cGift Attack §7minigame!\",12:\"\",13:\"§7All stats of this armor piece are\",14:\"§7doubled while on §cJerry's Workshop§7!\",15:\"\",16:\"§eRight-click to equip!\",17:\"\",18:\"§8This item can be reforged!\",19:\"§9§lRARE CLOAK\"],Name:\"§9Snow Cloak\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SNOW_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/equipment/snow_cloak\",display:{Lore:[0:\"§7Health: §c+5\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+2\",3:\"\",4:\"§6Full Set Bonus: Cold Thumb §7(0/8)\",5:\"§7Allows the wearer to shoot unlimited\",6:\"§7snowballs when using §9Frosty the\",7:\"§9Snow Cannon§7.\",8:\"\",9:\"§7Each piece grants a §a5% §7bonus gift\",10:\"§7chance for every present you earn\",11:\"§7from the §cGift Attack §7minigame!\",12:\"\",13:\"§7All stats of this armor piece are\",14:\"§7doubled while on §cJerry's Workshop§7!\",15:\"\",16:\"§eRight-click to equip!\",17:\"\",18:\"§8This item can be reforged!\",19:\"§9§lRARE CLOAK\"],Name:\"§9Snow Cloak\"}}",
+    "damage": 0,
     "lore": [
       "§7Health: §c+5",
       "§7Intelligence: §b+5",
@@ -238765,7 +238821,7 @@
     "internalname": "SNOW_CLOAK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Snow_Cloak"
@@ -239217,10 +239273,10 @@
     "useneucraft": true
   },
   "SNOW_GLOVES": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Snow Gloves",
-    "nbttag": "{ExtraAttributes:{id:\"SNOW_GLOVES\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"959bc10c-248d-344c-bfbe-f2ed5e56ab65\",Properties:{textures:[0:{Name:\"textures\",Signature:\"xmUBzWs67CdtVZ4YgV0PT+46Flbgzm1V0XoJoVHnBwLW5FuEyxpX4zb5nCw5gsHitiJnrZN8ObWizcgw7mFuy6qUI8ySf7JIUWNm5vundUYOjmhLDVBDJjO01BntsCg7yuZ2ORWMGi460+idKOF17A/ErsNmH+RtKd1BTLHEBSPdIeboZO6vwxdqgK/Mp4IP70YTZAdb3KokLFYsbpsjLfFLROWDUhkBaTwtFH9pjJkMkaUIPk5AD/CDJAztXlCcCcp1kQzQt0jzfrRSUaaF0WjfbflH7sy0gP3jwLEog5L0guaYpA1hFpmLKqclB20cvXq7LKPfqrAVFwqEvcVlikDpJcA2kVBg0O9ivXohGA5BUNFmWct3xZuj2fzyJsHLkNpiONkqMt+w4WQGnx2IVFO8MCdXyqIM5ZaahiozsutdhnLUVROcvhgp59JEBJZd+KRKCw4y8pae4wQlkrcaJuvOiW64gijGIA773tMUR7oE6SpMNAYXyNkCg1FeTrsA8CpCSUY5CfNcERwVpubZ7o0Onw4swUmpfhmzJVFyFUAOK8+qDBa7hwzOg1eeWCrquLso93ljN/9B/7S7SWMuBzR6ZlevXUxUvGnAvyJYoouPeKfK26RqioXvgKgtoILso5ulkqSSaQcxzQd4QF7u6p7CcC3k8cnDeNJ5fIRVxZY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk1MzIwMywKICAicHJvZmlsZUlkIiA6ICIwNDNkZWIzOGIyNjE0MTg1YTIzYzU4ZmI2YTc5ZWZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaXRhbFNpZ256MiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lODg3NDUwNDk3OGJkODY4ODgwYjAwNGU4ZTYxMTEzYmI1OGExMDIzYWY4NjczN2U3NzUxMTEwOGEyNmVjMDViIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+5\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+2\",3:\"\",4:\"§6Full Set Bonus: Cold Thumb §7(0/8)\",5:\"§7Allows the wearer to shoot unlimited\",6:\"§7snowballs when using §9Frosty the\",7:\"§9Snow Cannon§7.\",8:\"\",9:\"§7Each piece grants a §a5% §7bonus gift\",10:\"§7chance for every present you earn\",11:\"§7from the §cGift Attack §7minigame!\",12:\"\",13:\"§7All stats of this armor piece are\",14:\"§7doubled while on §cJerry's Workshop§7!\",15:\"\",16:\"§eRight-click to equip!\",17:\"\",18:\"§8This item can be reforged!\",19:\"§9§lRARE GLOVES\"],Name:\"§9Snow Gloves\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SNOW_GLOVES\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/equipment/snow_gloves\",display:{Lore:[0:\"§7Health: §c+5\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+2\",3:\"\",4:\"§6Full Set Bonus: Cold Thumb §7(0/8)\",5:\"§7Allows the wearer to shoot unlimited\",6:\"§7snowballs when using §9Frosty the\",7:\"§9Snow Cannon§7.\",8:\"\",9:\"§7Each piece grants a §a5% §7bonus gift\",10:\"§7chance for every present you earn\",11:\"§7from the §cGift Attack §7minigame!\",12:\"\",13:\"§7All stats of this armor piece are\",14:\"§7doubled while on §cJerry's Workshop§7!\",15:\"\",16:\"§eRight-click to equip!\",17:\"\",18:\"§8This item can be reforged!\",19:\"§9§lRARE GLOVES\"],Name:\"§9Snow Gloves\"}}",
+    "damage": 0,
     "lore": [
       "§7Health: §c+5",
       "§7Intelligence: §b+5",
@@ -239246,7 +239302,7 @@
     "internalname": "SNOW_GLOVES",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Snow_Gloves"
@@ -239296,10 +239352,10 @@
     ]
   },
   "SNOW_NECKLACE": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Snow Necklace",
-    "nbttag": "{ExtraAttributes:{id:\"SNOW_NECKLACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"86b6ea61-80c2-33c4-9e74-a042f722a628\",Properties:{textures:[0:{Name:\"textures\",Signature:\"rNTRDkLGitTHKYq0EYtWUBPHj5ov2RxNCbuoF6H7RPyDilU72Yc27FBh1Mgn+RCkzZRL37fBZyH/fKLuYSCbeYQHbaDRvZnzVeyemGz5ubC4ZvwYSo5pN0KMzVJAW1ANrVmAK/d6co27BV3huXkqAxBrB/wfnF5y5EL7KaOMH6z/gsRpbT01/s23XBq7gMbCLgBCYzXQ+m5yCJcTZZ1anCUjL81OnPxpTBbrY4piVU7/SjTDChFmI/TImZ0vR53wpsiuK+iRil5/C+6O+qa3FnAXC0zs6bylIZNd0h+b4si4kYwz1ha8MuqaK8JMW+qPAcA29FfkgK1eeCZPzZ+Fzbm3ECCH2GOdjBjGULZ3mf8DqM1HmfxDAXgNn1eKR8MuaW3Rh2qJ3S7OWDlEd4ODFOukIB+CZ7vtemk5SwDDzRwZmWATrmUy6Oz07A10FTkHE+IbU0i9HNi6fu88Ga+MP0Xvu4o0pW3BFf9/IcPw+5We3m7BMyBG7iIfnGxpx2faO7g1YM5Kdz94lZrXaFCbaVT8v4uUer7DE8dQGTozLOwy7Xps7inGkIfz4YSP4B5o7x6FCtNIcdL7Xj2MvnM/7Taq1oxRq5VMwTjbT0G4XE4i4dzqGTkRPuRUvi+xCBlj/3FpeOTgOudeztI+dWHH+9pukz/3LX5fsgVmAa2f224=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2OTM4OTk5MzM4NSwKICAicHJvZmlsZUlkIiA6ICJkMmM1MThjMzJjNTY0OGJmOTM2ZjY0YjhmZDQ1ZThjZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmFjb0JlbGxzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxMmZhYTJlNzk4OTg5ZDkxMGVmYmY5MjgxYjhjYmEyNDE4NTYyMmU5YWEzNTdjNzUyODVhYTRiN2UzMzE0YmMiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+5\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+2\",3:\"\",4:\"§6Full Set Bonus: Cold Thumb §7(0/8)\",5:\"§7Allows the wearer to shoot unlimited\",6:\"§7snowballs when using §9Frosty the\",7:\"§9Snow Cannon§7.\",8:\"\",9:\"§7Each piece grants a §a5% §7bonus gift\",10:\"§7chance for every present you earn\",11:\"§7from the §cGift Attack §7minigame!\",12:\"\",13:\"§7All stats of this armor piece are\",14:\"§7doubled while on §cJerry's Workshop§7!\",15:\"\",16:\"§eRight-click to equip!\",17:\"\",18:\"§8This item can be reforged!\",19:\"§9§lRARE NECKLACE\"],Name:\"§9Snow Necklace\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SNOW_NECKLACE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/equipment/snow_necklace\",display:{Lore:[0:\"§7Health: §c+5\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+2\",3:\"\",4:\"§6Full Set Bonus: Cold Thumb §7(0/8)\",5:\"§7Allows the wearer to shoot unlimited\",6:\"§7snowballs when using §9Frosty the\",7:\"§9Snow Cannon§7.\",8:\"\",9:\"§7Each piece grants a §a5% §7bonus gift\",10:\"§7chance for every present you earn\",11:\"§7from the §cGift Attack §7minigame!\",12:\"\",13:\"§7All stats of this armor piece are\",14:\"§7doubled while on §cJerry's Workshop§7!\",15:\"\",16:\"§eRight-click to equip!\",17:\"\",18:\"§8This item can be reforged!\",19:\"§9§lRARE NECKLACE\"],Name:\"§9Snow Necklace\"}}",
+    "damage": 0,
     "lore": [
       "§7Health: §c+5",
       "§7Intelligence: §b+5",
@@ -239325,7 +239381,7 @@
     "internalname": "SNOW_NECKLACE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Snow_Necklace"
@@ -240401,10 +240457,10 @@
     ]
   },
   "SOULWEAVER_GLOVES": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Soulweaver Gloves",
-    "nbttag": "{ExtraAttributes:{id:\"SOULWEAVER_GLOVES\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bbbc2dc3-afa0-3a6d-a13c-c0a123252fba\",Properties:{textures:[0:{Name:\"textures\",Signature:\"byaUid/txh6NGDuBC9Po4p1Mf9bqhzI4BmPYk3rchzlfUISAvIz4p9JgHg01FUoPEThj0b6ulOsdmMyWXsXztyLIq8iXrgcfYI1e8VJrJVEkV+z93spf63QDNTz2jlM7t2gpcMQU25WiJZeE2YZ2i7TlL5jjCDQf24XQDv+jFrzamZPhUq8K3lwC5iwbPAXtT7T9RygE/ylLQbyHVknJiOEovnB20ueDn/wE5UmDNQQueLqmEHY65YiQvYPNtIk/8zMeTfeX5WyXh/AkJ7PIgeFSujXwz4ymGJvE12LlfHqDO5r3u6JlqyeW6BtEp2H+Eyz7meOqdFXYXB6FQGiolSHHcgCBeEQqc3CQQVI84PtHrVGjSFAHRRs0u+Ch+yJHA+XGhCJewZjEDteV3VMHHxWl7Pu1rDY6cYW5KNPiPS5v7MTdTHsvFs0em+q31PmJThRpgpDiNd884lYINXRZh6hi8hWCsQ1zV59WtMfL/UFs3qoaVuexs3iJX/qVQ0plfAQjZKju+cfB5ir/DBGgoKItJfVrwQLPsB/aYv9gp+TnT5pyXwEwVjLZIDjrqXmQ8nG0XG1cm9IOu7DvajIpP+eHB+NJTM3Lq/RikFZJ/nLINLZsvwjwuMsyBFGCbg67KgVhNwSrp15BrahHI/KGsmHSSd182DEuobODlhW+x64=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIyMjY4MywKICAicHJvZmlsZUlkIiA6ICI4NzE3ZGFhNmM3OTU0NzE2YmJlYWQ0MDRkYzg0NDQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3VsbDAwMDAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTUyMjg2NzcyMTJiZTQzZWFhZDIzZDQ3ZWQ4NDNlMTVmYjFlNjgzODQ1OTRjMDliNThiMjNmODI0MjdlNTQ5YSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+10\",1:\"§7Crit Damage: §9+10%\",2:\"\",3:\"§7While in §cThe Catacombs§7, summon a\",4:\"§cHaunted Skull §7that slowly revolves\",5:\"§7around you every §a15 §7seconds or\",6:\"§7when you kill a mob with melee damage.\",7:\"\",8:\"§7When an enemy is hit by a §cHaunted\",9:\"§cSkull§7, they are stunned for §b2\",10:\"§7seconds and deal §c5% §7less damage.\",11:\"\",12:\"§eRight-click to equip!\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires The Catacombs Floor VI Completion.\",16:\"§5§lEPIC DUNGEON GLOVES\"],Name:\"§5Soulweaver Gloves\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SOULWEAVER_GLOVES\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/soulweaver_gloves\",display:{Lore:[0:\"§7Strength: §c+10\",1:\"§7Crit Damage: §9+10%\",2:\"\",3:\"§7While in §cThe Catacombs§7, summon a\",4:\"§cHaunted Skull §7that slowly revolves\",5:\"§7around you every §a15 §7seconds or\",6:\"§7when you kill a mob with melee damage.\",7:\"\",8:\"§7When an enemy is hit by a §cHaunted\",9:\"§cSkull§7, they are stunned for §b2\",10:\"§7seconds and deal §c5% §7less damage.\",11:\"\",12:\"§eRight-click to equip!\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires The Catacombs Floor VI Completion.\",16:\"§5§lEPIC DUNGEON GLOVES\"],Name:\"§5Soulweaver Gloves\"}}",
+    "damage": 0,
     "lore": [
       "§7Strength: §c+10",
       "§7Crit Damage: §9+10%",
@@ -240427,7 +240483,7 @@
     "internalname": "SOULWEAVER_GLOVES",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Soulweaver_Gloves"
@@ -254401,10 +254457,10 @@
     ]
   },
   "SUNSHINE_CRYSTAL": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Sunshine Crystal",
-    "nbttag": "{ExtraAttributes:{id:\"SUNSHINE_CRYSTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"39e4a317-7bf3-375b-9d8a-404ac725984b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"qdjK6qHWzSq5AwZcpvp8PeB4/g/qRm2vpwZQVGI/gr5Wn7DVzgWCUCvkg1UjxBFodb49yTYshnWtiGyaVMBx8MtGW0CcCJVn+19gZe/t3t8/8JSQeniPPNicakNxQQyrl9EkvESN+OPwlbYfB5C4ofzFWrB40ieRxUmsxmlyACW02RWs0r01ozobcR+H2Quz/LulYr7/Az1ad1D/Hui7N8aKlcwjFJw9iZIMWmcPuRccruAcKCjR4fonlLjpc5sJZiGdFJCyRqZxsBjNz1700P0OihdE0Vjbf0lA8+cjs5cFaPmzkfgChVcxFIHLEH1P3x7AZgzocKsSs1VHwb8qu4JLZOM8e2IMpSioqLneSo5MvihH0CvqV7MBCD8IUgfsGqtQye+KFcENcuyJQqlHOXWjXkAnuUyLzV+RKYN1Xlobzah9O56vIgkyVWW39wOS52CbhbDfLN+Gw08DFxEUL9859Vz0ruqbiA+RWUuTjYlUssPkfspghD5xdYNVnsc6GjRTw6PoZpVr6QwHV/IrPoLCQcZdZzTYCmUO9M1DXgF+BaWPUpPxeXmVxeV7FupL2KawaGrj9ECBsgZteVLkdlvxwqo+IxDaqOV0jEQe2Zhkdp3lqXjwEIOPeEAiW1QEF0BPoTSwIv4lEOpq+Z+SG5R1ZThoPmIm/PUshglg0bc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2Mjg4NjQzMTEwMCwKICAicHJvZmlsZUlkIiA6ICJiNTQ1ZDcxNDJkZmM0MWVlYjBjMDcwOTkwOTI4NTE0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJraXdpNDgxMiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xM2NmYzNjYmMwY2Y2ZjgxNzc0ZmEzN2IxZjY2MDg0MTdjMzZhYTE5ZTVhNDI5Yzk3Njk4ZmY5NGRhZmIzYTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+10§7 during the Day.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§5§lEPIC ACCESSORY\"],Name:\"§5Sunshine Crystal\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SUNSHINE_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/sunshine_crystal\",display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+10§7 during the Day.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§5§lEPIC ACCESSORY\"],Name:\"§5Sunshine Crystal\"}}",
+    "damage": 0,
     "lore": [
       "§7Accessory Power: §6+12",
       "",
@@ -254417,7 +254473,7 @@
     "internalname": "SUNSHINE_CRYSTAL",
     "clickcommand": "",
     "crafttext": "Requires: Sunflower VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sunshine_Crystal"
@@ -254488,10 +254544,10 @@
     ]
   },
   "SUNS_GRASP": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§6Sun's Grasp",
-    "nbttag": "{ExtraAttributes:{id:\"SUNS_GRASP\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c144f619-79bf-3ca1-b189-27b8f2267986\",Properties:{textures:[0:{Name:\"textures\",Signature:\"segYWuinT95Gk63YUOoTK68/PG4bj9bGa/Y26jSiMwcj3Je9noD+YSwUEE1m2Evy9Ts05ypWkQ8sH41iItBDKXLHnguXeGeVy9BJkyPuEPdZgDl/AcGMWfpgtZdSHaVXHkPxAJCUU5SC+RQxsEGEqyNr2yGnJemb95uGwY8lBa5TntPGuAZIUrqzuFV/wUlEXhiujtzLf+t/k115pehD08Z/f8SLsFM2mTjBO4j7+B3RglPIoiruLZBEFQGSRtQnK8FzxcU2gbCCcPmGwY2M5LhO6af9lvITHWCev3XVTxGdFIJRy7Qx6oUGUm2QVdtDB81zdgSJBiEgXlYPS8QUpL2V/L9xK3Oax8Y4I41U+h5VSymDOd47ldngO8sfvI6GTyX6RPiHopuG+QAj+97X44AdbjQ/g0Bzk40lYwm+sjXO/pQbDMNfaW25xdVNqZdZ6NEJXlY8HOBQr+saWtjp/UPqW+1AA+7wNgWUoyMKwK2M7s/GlBLcMAAgeC2iDJUBUJgaISeuiTRvNpzGHwgxOCG4GHaob3sFYhk/Tqst+RQsYDX7Ib+1FRcdfpAdYavqAOKXjvvJFCiIVM18DqkW61oiwhKGf7PGoBZ+HL4SzGkNF7Vao+anGoWYkQiJiQgqb1ROGz4D2k6pTkR3amcTqguXW5xPZIEmmKmrGQGhGXU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3NTI0NjY1NTE2NywKICAicHJvZmlsZUlkIiA6ICIzODY2ZTk1MmIxZWE0M2E4OGE3NGI1NzAxZDVjYTAwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYWtlTWFybG93IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU1MGJhYmZmMzAyNjI3Y2QwNWE2MjZhZDEyNDAyZDk5ZGE1YmUxYmFkZDBiMWI5MDUwMTliODQzMzJiNjU5NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Farming Fortune: §6+12\",1:\"\",2:\"§7While breaking crops with your fist:\",3:\"  §7Grants §ex2  Overbloom\",4:\"  §7Capped at §6500 Farming Fortune\",5:\"  §7Crops automatically replanted\",6:\"\",7:\"§8§oA farmer of legend, said to be born\",8:\"§8§oof the sun’s grace itself. With bare\",9:\"§8§ohands he cultivated the earth, and\",10:\"§8§ofrom his harvests baked humble\",11:\"§8§obread bowls, gifted only to those\",12:\"§8§oheld close to his heart.\",13:\"\",14:\"§eRight-click to equip!\",15:\"\",16:\"§8This item can be reforged!\",17:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Sun's Grasp\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SUNS_GRASP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/finnegan/suns_grasp\",display:{Lore:[0:\"§7Farming Fortune: §6+12\",1:\"\",2:\"§7While breaking crops with your fist:\",3:\"  §7Grants §ex2  Overbloom\",4:\"  §7Capped at §6500 Farming Fortune\",5:\"  §7Crops automatically replanted\",6:\"\",7:\"§8§oA farmer of legend, said to be born\",8:\"§8§oof the sun’s grace itself. With bare\",9:\"§8§ohands he cultivated the earth, and\",10:\"§8§ofrom his harvests baked humble\",11:\"§8§obread bowls, gifted only to those\",12:\"§8§oheld close to his heart.\",13:\"\",14:\"§eRight-click to equip!\",15:\"\",16:\"§8This item can be reforged!\",17:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Sun's Grasp\"}}",
+    "damage": 0,
     "lore": [
       "§7Farming Fortune: §6+12",
       "",
@@ -254515,7 +254571,7 @@
     "internalname": "SUNS_GRASP",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sun%27s_Grasp"
