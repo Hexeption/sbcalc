@@ -5748,6 +5748,59 @@
     "infoType": "WIKI_URL",
     "info": []
   },
+  "ANT_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aAnt (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"ANT_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e01b619d-7612-3c2b-aec9-130f3082f72b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"AVQgA3TSyUsJmKhJ2Zj3cT1r6hXQesXRqycQi4g7vqP0zxWaxuOB4uBNSpovdFoSV8KTNKvVGgs5hIjkqhCNjFf98ShS2Sf33mWi/5QJxFkCvKtDuAQR1XOJEPCIKlXljh7AoaUj2tedQMVNWVjMLOA0zTSnck6N169/hzWsb0b/YTlQ/jztYxc0gePfD1tK2U6ypeeFMRgFa4xY5Rk+fH+eX1rlw9Kn+64ZCxInUr5QQmen94WfvVuWn3gOScebt7ibIkHjPDRpDgTZGykO12F9raO542INYXIFGE5SjAbudFi3fvvdQoZuLpCAQLH+6geAAYnQ2AODX2atdVe8aF3OIHaX1pjNetfg7aRMCthMtad1/PlCg9Kefv+g5EWgOToPjjImYMVXjsas9ZMR+hnFGO/uVY/OAk7J1MSN+sXWy/vflAa0pspLi0oeBFQ5C1G6EMzyJfj2u6kZyXxfK+8Qvxd4e7z3jqsP9uMQHa+ViEUkjyyVX6Aaf9Y+NZqYxnh7JaDk4SQqF6ulGeI5KkMNOwJqLpVvbBNa8j5YvlDGOegiW3fMLZIdfULWcrwFdsXa91ykZ7ik6nQBPTAilzLF2r5XGNQiDeAS7m/hPwdrDpGUx/t13AHBmoFE6FPDNqyp3Nf45xPSwBaQt9lkiI13CARPOmblGUtSgZgY3rU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0Mzk0OCwKICAicHJvZmlsZUlkIiA6ICIzN2VhNTQ5MTE3MTU0NDgzYmY0N2VmNGM3MzMwMWIzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSeXV6bG4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODhhNTEyMDg4ODU1NDhmYmJlMDgyNzExNDhkYjM2OTFmNTllMjc1YThkNzIzYmUwOTRiNDRkMzRjY2ZkOWM4NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Pest§7, §a Animal\",1:\"\",2:\"§7Ants are not meant to serve\",3:\"§7grasshoppers!\",4:\"\",5:\"§c❤ Health§8: §c2,500\"],Name:\"§aAnt (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Pest§7, §a Animal",
+      "",
+      "§7Ants are not meant to serve",
+      "§7grasshoppers!",
+      "",
+      "§c❤ Health§8: §c2,500"
+    ],
+    "internalname": "ANT_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Ant"
+    ],
+    "recipes": [
+      {
+        "level": 32,
+        "coins": 10,
+        "name": "§cAnt",
+        "render": "@neurepo:mobs/ant.json",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_QUEEN_TRACKER;1",
+            "extra": [
+              "§7 - Charm §cAnt§7.",
+              "§7 - Place §6Hunting Traps §7in §6Ant's Cave §7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "ANT_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Ant (NPC)",
@@ -15716,7 +15769,7 @@
     "internalname": "ATTRIBUTE_SHARD_MOSSY_BOX;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Hideonleaf_Shard"
@@ -25441,6 +25494,70 @@
       }
     ]
   },
+  "BEEHEEMOTH_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aBeeheemoth (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"BEEHEEMOTH_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"74bb3ed0-5c43-3718-96a0-1a3f4ea59cf1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"sR300iiu/bgueDOIn0J1FdYiegDNAM2vGDkJcibPUR8yDqgruOa0pwiHPUb4TJr4W7Er99ZimasIy5bE4yubUqKFGGsPOXbiW+6Pscz5utIXIwryRQVzZdeeNaNpdOewM6HyXwYKW2NeIZR8PyU6qMqaKW5lY0KxOt4JoLAkX63pSzI35h5eFCJ4VEELL0BxL/ZdgR9xYwryYVYvbMV+IiWgHMPwPaMQXhQQDmrsT93IMHmPkLQa6u+PbDulkZ8ywmsfPYVoWurs74xW8KO3JMymDKSB/7T0xIR6OfuBXIi4n1M6onrhK8yfl7YU/LP+NZS2uPrvB8QLDX6VAdFJv18WREsIKY2DBRmwBTRMg4DO91hx7jiGFcc9WorLrG3cKeZ9tY9vMUsFnK1J4UcsYDRY9nkIE1n7p536XRWmzAkeqdoJEcOyQbL8jlBh9wEk+5jH1Usg1QMk8D3ZApcZQ3mpouNdzIwtw5JPksKdIxPfs4A/uXakfcaSBy7cryPZadXW/bp1QxSHtB7NP+k9T6xqDbcSoEdSCgXN8M2tTypOaQ2NCUoS2N9oQrht61K2OeEj2kalHdqcHhrDCpaoED2XdvBPARXQFG2JxQS/Xi5cyME8lYarYETU0IxIcFeurq3liC9qqNyu1rmJjC77JjBOzhXzxB68zLDhFg9MaJE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzI4NSwKICAicHJvZmlsZUlkIiA6ICJjODVhZTlmOWJkNTU0YzFmYjk1ZTg3ZDI2Zjg2MGFmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGV2ZW4xNzUzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhOTYzMmMxOGJmZTViZGIwMjA1MzY2YjViMDhlYzFiMmM5YTk2OGFhNmNkYjg4YmI3ZjgzZTg4OThlM2FhZDAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types:  Airborne, §a Critter\",1:\"\",2:\"§7Defies all scientific reasoning - how\",3:\"§7can it even fly?\",4:\"\",5:\"§c❤ Health§8: §c1,000,000\"],Name:\"§aBeeheemoth (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types:  Airborne, §a Critter",
+      "",
+      "§7Defies all scientific reasoning - how",
+      "§7can it even fly?",
+      "",
+      "§c❤ Health§8: §c1,000,000"
+    ],
+    "internalname": "BEEHEEMOTH_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Beeheemoth"
+    ],
+    "recipes": [
+      {
+        "level": 105,
+        "coins": 35,
+        "xp": 500,
+        "name": "§cBeeheemoth",
+        "render": "Bee",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": "100%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_LATHERING_GREED;1",
+            "extra": [
+              "§7 - Fusing §5Queen Bee §7Shard with §5Lunar Moth §7Shard.",
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Dropped by §eBeeheemoth§7."
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "FUN_SIZED_POT_OF_HONEYCOMB",
+            "chance": "50%"
+          },
+          {
+            "id": "FAMILY_SIZED_POT_OF_HONEYCOMB:8",
+            "chance": "25%"
+          },
+          {
+            "id": "JUMBO_POT_OF_HONEYCOMB:8",
+            "chance": "10%"
+          },
+          {
+            "id": "BEHEMOTH_POT_OF_HONEYCOMB:8",
+            "chance": "1%"
+          }
+        ]
+      }
+    ]
+  },
   "BEEKEEPER_BARTHOLOMEW_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Beekeeper Bartholomew (NPC)",
@@ -31986,6 +32103,70 @@
       }
     ]
   },
+  "BLUE_JAY_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aBlue Jay (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"BLUE_JAY_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cca73cac-6179-383b-a796-d9a367c42bea\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Vc+Dt4PE7qMZjviI1LQzT/YfKMpdsYWPcMaaXUZi/Z3nLs4ycbpzMBfqk3IOHWqEOMBtI4MGhNPnWlusQy2o6ghRgoLAjj6l9axBcVJVWymVYneixfgcdP5iwPpTooVpaVY9X9l5eBzZSXTfmsKQTylvvsXx215wOGh6dE73BNJRp2AJHiBn1ZLCgjQTgpZrhf6TLvhE548XvSFUeRoNT9nQjStzig6dP/5EAJpOh6onWdw0arAamxyZ2SOCsS2AOSaVlZoQsvW0XuyJNcIOWiCng3AndCpf7Uv+/7LK5yIt/9ycxHPbWNQRXtz6854Am/M/Tth8PUxp0hNbuz105d1HgXCdH22UAHFd08hLcTvOrn8fw8aOEqrltqbELCqKHekT0g1I0SfBvoKSudim5EJubfefU7UwkmKtoUk2y52Sz3noANuiEZQhM2a+6MKmSn+QC/iKT5F44x0LOXZZm/y/UiQ82XWGGkmFlwxb3PFXzGxEZaa7QW0IlXsql/gmX/TV0wvoR17OzgxPiqxMQEdDwiI5hdwSqbnm7Y8dH1SuqFd+2PCUvEHd96F0ECN6iN9o1uDW764+6PRs5ERPvm1kN2vXKhzOhxTfM379j1nj4Uu1ZQeUHQv4V6tVmhZ/uBvZhVCy8RXun1u1yk4KYXjWOHTXU8Jeexp8CrQrMf4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzcxMywKICAicHJvZmlsZUlkIiA6ICI0YTQ1ZmY3NDM2Njk0YTNiYTc3OTdhYTgyN2IwNDM1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YThjNDA1Y2ExN2Y4YTk2ZDdhMDg4MTRmMDJmMGE3YzcyZGNiMGUzZjY2MDVmYmJjZDkwZTU2Y2MxYzI4NjUwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types:  Airborne, §e Timid§7, §a Critter\",1:\"\",2:\"§7High up in the sky, and your\",3:\"§7problems seem so far away.\",4:\"\",5:\"§c❤ Health§8: §c1,000\"],Name:\"§aBlue Jay (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types:  Airborne, §e Timid§7, §a Critter",
+      "",
+      "§7High up in the sky, and your",
+      "§7problems seem so far away.",
+      "",
+      "§c❤ Health§8: §c1,000"
+    ],
+    "internalname": "BLUE_JAY_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Blue_Jay"
+    ],
+    "recipes": [
+      {
+        "level": 9,
+        "coins": 3,
+        "xp": 75,
+        "name": "§cParrot",
+        "render": "Parrot",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x8-16"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "EGG",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "10%"
+          },
+          {
+            "id": "ENCHANTED_EGG",
+            "chance": "1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_AIRBORNE_RESISTANCE;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "BLUE_RING": {
     "itemid": "minecraft:paper",
     "displayname": "§9Blue Ring",
@@ -34109,6 +34290,80 @@
       "https://hypixelskyblock.minecraft.wiki/w/Brimstone_Handle"
     ]
   },
+  "BRINELING_SC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§3Brineling (Sea Creature)",
+    "nbttag": "{ExtraAttributes:{id:\"BRINELING_SC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"cca73cac-6179-383b-a796-d9a367c42bea\",Properties:{textures:[0:{Name:\"textures\",Signature:\"AB0MQNGas0iR1nBCqTdfaV6jG8rTRT8okhnye0FJTd82+ZA00771/Z3S5Te9DCnWNyhucez4t2q1ACbzYLPYjX21dlKYcjep5rOFxPDI0j5GJL4OUvUEGp+tw+il4GJ2XqTlfRYA0DhX+5LPosDoU7yKUcz482qX+eRBrY7MePLEih0GziyXfN9oa/UQkFWsheNTEOKlFlivxQXJbONUve/FyIA8EsRv9ETt4B5YwXI8OksjBKA+VdKF7wREUb53vtGGYA+8Uf49QRsdUM6cqKYrqvXmntOrJZqRNdLVrmZy0bG3RnV2uYhL+45oDCfPhvaXkEemV8O4dV9yopGrc7xrOfhQYDANi9uY6F2jk6a++mn3IFC3Z7511ADZeXhAX1BzmQN/8+SIYxK2DDaSA0MepEdyFgC09bDIXI3IYv8MnMqxoufpALqSdvKdmH3ORFdjkWOUEDwe+XOXKkHbVpDCHlWKwAVYm4ZaxtszTroA6Vyl8jvCwBI57+TrtdrIJFlzer7XicP+ZERvQp0snX53W/pbS6p2/k1Hy099+bJiZWjdOnvrEhXgAOVUiEfaFfe5q0Ua38OpsiduABonKkgnQbTiuIQxFzmdBriAl7l1LHNIR6NJqq7rFMqqYhfkpY25/o1f8R5Sh/LvODnGooDQKD1K1uhsV+btApGbCqM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjkyOTIyOCwKICAicHJvZmlsZUlkIiA6ICI0YzZhZTVkNzc0ZDE0MjBkYmJiNThjNDMzZGM3NjNlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdXN0VHJhbnNHaXJsIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE4ZGRmNDVmMmExNmU2NjJjNjY3NTQxNDIyY2JiZDk0NDM5OGIxYTkwYzUwMGIwMzMwOGIxYzk5YzEwMDAzZDMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §9 Aquatic§7, §a Animal\",1:\"\",2:\"§7An old soul who's ready for a fight!\",3:\"\",4:\"§c❤ Health§8: §c25,000\",5:\"\",6:\"§7Fished up on §6Torrhus Canyon§7.\"],Name:\"§3Brineling (Sea Creature)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §9 Aquatic§7, §a Animal",
+      "",
+      "§7An old soul who's ready for a fight!",
+      "",
+      "§c❤ Health§8: §c25,000",
+      "",
+      "§7Fished up on §6Torrhus Canyon§7."
+    ],
+    "internalname": "BRINELING_SC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Brineling"
+    ],
+    "recipes": [
+      {
+        "level": 58,
+        "coins": 58,
+        "fishing_xp": 580,
+        "name": "§cBrineling",
+        "render": "Nautilus",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x16-32"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "10%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "2.5%"
+          },
+          {
+            "id": "SEA_BRINE",
+            "chance": "0.5%"
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": "0.0000002%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_ARCANE_RESISTANCE;1",
+            "extra": [
+              "§7 - Charm §cBrineling§7.",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "BRINE_TONIC": {
     "itemid": "minecraft:paper",
     "displayname": "§9Brine Tonic",
@@ -35933,6 +36188,60 @@
           "HARD_STONE_GENERATOR_11"
         ],
         "result": "HARD_STONE_GENERATOR_12"
+      }
+    ]
+  },
+  "BUNBUN_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aBunbun (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"BUNBUN_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c8dc5db0-48b7-34c2-9253-4ba046346921\",Properties:{textures:[0:{Name:\"textures\",Signature:\"HlrF3IPN7z1TwjnaDljGvxi7MxSH8iVVRzQYMhS/gJVdq3grAuf3MRDWllZAJjBYGRzMLi7gMOIQh0gxK/vtSzy0xEeWup3OWGSBP0X9HdBkuGHJrxAVla4hjUcej8Kcq1/jSFRca8w/L224Jza+UvGdDOr78NVFKRYA7simUgDU7By5nkF4F7GGEI47H/duyiBew4F1mwB6AFNf+DhdrxTkRgvEH/Ld8Aba52ADaaHBHeDT8FVMTIUS8RA/YdSdd6tBgLOMBo7zwXk/LigyVlTGUGLHz7s9W55NRzRgi7UpNphX6I1k8xEl3Z6tIZjERfFQnQkTQaGskb5Og6IjCLsJJstojnMB3OyzBGmNc5jplAGRwQBNigbn/w2vwz1epGY4s4XzwjiWJ+aj4BMpRcaRMg/cm+NPT4FxKGbh0Lhx+RJ8ZhI4iQR7Sr89ZUPJQJXQhPZxSADjmogmYj5gxyjYn3HTacDngLa2cZtFWSFUOxhcvaGrUv323RLCKkv2+3MWefS4nHT//iOd+pNdYEfJ2afQYe/vBG8waN7acYadmMjzhf6GUmm3UkvABGw9kSO7WWCa7o9ldq+k15MobipepD0BG4sevpC6atNTVBUTuDrWm8IBaJxh1bw8iwlrTNjqyLRbazYDIqWUUz1/vfG/S1yf3Co0y09Lmj10u0A=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4NzIyMSwKICAicHJvZmlsZUlkIiA6ICI0MmU4MDAxM2I3ZWE0Y2FkYmE1NDJhZWJmNDVhNjBkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYW1hcmlpaWlpaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MzE4N2E3NzRmNzQ2YjU5ZjE0M2JjMDVjNDY4NDUxMTdhNjk1NDAyYWI2YTkwMWNkYjY2MmJkNTNhZWM5MThmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Type: §a Critter\",1:\"\",2:\"§7So cute you just want to take one\",3:\"§7home.\",4:\"\",5:\"§c❤ Health§8: §c250\"],Name:\"§aBunbun (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Type: §a Critter",
+      "",
+      "§7So cute you just want to take one",
+      "§7home.",
+      "",
+      "§c❤ Health§8: §c250"
+    ],
+    "internalname": "BUNBUN_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bunbun"
+    ],
+    "recipes": [
+      {
+        "level": 4,
+        "coins": 1,
+        "xp": 75,
+        "name": "§cRabbit",
+        "render": "Rabbit",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_CHOCOLATE_SPEED;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Place §6Hunting Traps §7in §6Torrhus Canyon§7. §7(§bOn Land§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
       }
     ]
   },
@@ -42237,7 +42546,7 @@
           },
           {
             "id": "DYE_AQUAMARINE",
-            "chance": "0.00004%"
+            "chance": "0.0000004%"
           }
         ]
       }
@@ -44667,6 +44976,61 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Cheap_Tuxedo_Pants"
+    ]
+  },
+  "CHEEKY_TIKI_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aCheeky Tiki (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"CHEEKY_TIKI_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e5ad5d1a-e9de-3bbc-bf9b-3075721fab1e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ezyYk04OexXJZxA0b1P2lGgRN8GiXDRv6thciALjhBQhk7Qh6vLihgZDUcJtSMkLuVrpUS7OkmAQAMZ4MBLvd5FNGgG9H8AUOfGYYm5vdcN3NODvXrDwV6vsDF8dXcMpyGXhwkYlZ2IqMGqPj43UO7dm4qHSH9i0XVj+2mwwb5j7Cr64I3sLg6VkODDjy5U7+6sf+ZeqGklvzZ7s8kmJWf6wYtnvjEL5HvhHVwCxUHVjcUJDKn6OGQj11O3HB6KuTmo4ROTV7t+glv1TcrJeiP19mEBsCFv7qmBImx4n1lx6CIy5rjOMShLAQdNJPe++og/pai0XQq5kK3tvIoYEwfwvWMZKBDQNDJMfOWFEkbrpVmJH3ea9eKOvZjDqyLvUcpFgLW+fb9qNNSqzFBFt/o1T2owqOjbP/O1M2x0QpI/LWdPo6w3U33C4CefUNacpdCqqIUsUVtaOzgU4LIPcgiHwrZ7jM7hLVfmQMzREWggd0CizOvFZuxceRGm+kyeR3+l/wwLGPGu9E2MVSunEm3Wx+ixnu3q+teazl0KrFHePxOXX1fot3VCBgyNU8vxwehkOD7+4binv72iBEpm3BSilyYkrOog+AwbQsDiahKmtIVBs9lmIGJMzlcZEtO3j1ASp+g6BgNlCAWrSYWPWFb9wAVMM18V5xwtlFLoSgjY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNjY4MTU3NCwKICAicHJvZmlsZUlkIiA6ICIxMzEzZGFmMDc2OGQ0YmQ5Yjc1ODJkMGI1NWUwZGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW50aWNjaGllIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiMTllNWI3MjE2N2RiNTE3ZmY4YjllMmRkMDczNTk5NjY0MWJkYjZiNjI2N2E3NThhZDI4NjQwMjIwMjNjYjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types:  Construct, §2 Woodland\",1:\"\",2:\"§7They lie dormant but aware, looking\",3:\"§7to spook fatigued explorers.\",4:\"\",5:\"§c❤ Health§8: §c50,000\",6:\"\",7:\"§7Hunted in §6Torrhus Canyon§7.\"],Name:\"§aCheeky Tiki (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types:  Construct, §2 Woodland",
+      "",
+      "§7They lie dormant but aware, looking",
+      "§7to spook fatigued explorers.",
+      "",
+      "§c❤ Health§8: §c50,000",
+      "",
+      "§7Hunted in §6Torrhus Canyon§7."
+    ],
+    "internalname": "CHEEKY_TIKI_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Cheeky_Tiki"
+    ],
+    "recipes": [
+      {
+        "level": 71,
+        "coins": 23,
+        "xp": 106,
+        "name": "§cCheeky Tiki",
+        "render": "@neurepo:mobs/cheeky_tiki.json",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x16-32"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "20%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_BAYOU_TREASURE;1",
+            "extra": [
+              "§7 - Catch with §cPocket Black Hole§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "CHEESEBITE": {
@@ -64004,6 +64368,62 @@
       }
     ]
   },
+  "DRYBARK_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aDrybark (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"DRYBARK_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2ec0a065-91ef-3387-b770-12a048b9bb76\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GBBdfgivG08ZkjLVI0M0VIN2fV5gYpSHcOb4ahH+N7RNuV5W5b9kREtsjx3RYybQSpQhmzyCf4YSxTX0U3YO2yqEAeus++m+OJKrMTIsTYWbwdsMHy44g7JIt7dM6+Ib2q23VzpK0t34r70mN7uYRXxQJYNVv5JlOwucLnuTF+GFOyArEQV1HdM0TcNeeMrYe4usuO4EuyOQJKK6FEPpJ91NmJd3DQsfC1KerkrBcwhov73XKbD8dG1FQZ3ExOCMNqmpwTTX2Y68WADjnhVCCu++30XjfCdK6Kl5TQQaGB5gvy0gm/AjAyY8IS9SdBzYqrnctn9OafPv/oiBQEC+/0hCNp+Du1goVeUjDX2wc7JnFXIIQzFR59XkueEkaDRsBjvN+5V7W3RPKvaWtjjMeW0J6eRajQcoeZ+0i2XTLMdALkus7AqXvuRju45N8uI6VXnxKsWxttjQCFTvhXRy4QFEv5lu7kr3+DEeLYf+bpPKZaGdhq9YLb5A5hACjfZT4vgzUxl3gwLm8YfoXcKWC+eejxMx/JI8vfwLPSLNMutmZWa+tHb7c7dkGyLN35lI7jZNM41ojCAEn+11zaRMlGkN98ar+pqqTErI1L9O7YfomFeWv0IxygLICUpxV0ysJO2X7KnjUKUMIRS8bq5h/iZvcrtwa7PaYoUnVZTm5P4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNDU3OSwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZiYWQ2OTJmYWY2MDQ1MDllOGNlMzQ2YmU5Nzk4MTYyYzEzNjk2ZGJiZTAzZWZmN2M2ZjQ0MmIyOWQxNGM3NzYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Woodland§7, §a Animal§7, §a Critter\",1:\"\",2:\"§7Ancient tales warn children to be\",3:\"§7weary of any strange-looking trees.\",4:\"\",5:\"§c❤ Health§8: §c50,000\",6:\"\",7:\"§7Found in Helix §2Tree Gifts§7.\"],Name:\"§aDrybark (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Woodland§7, §a Animal§7, §a Critter",
+      "",
+      "§7Ancient tales warn children to be",
+      "§7weary of any strange-looking trees.",
+      "",
+      "§c❤ Health§8: §c50,000",
+      "",
+      "§7Found in Helix §2Tree Gifts§7."
+    ],
+    "internalname": "DRYBARK_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Drybark"
+    ],
+    "recipes": [
+      {
+        "level": 80,
+        "coins": 26,
+        "xp": 300,
+        "name": "§cDrybark",
+        "render": "Creaking",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x1-2"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "PET_ITEM_FORAGING_SKILL_BOOST_RARE",
+            "chance": "0.1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_AXE_COOLDOWN;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Found in Helix §2Tree Gifts§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "DR_HIBBLE_RIFT_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§dDr. Hibble (Rift NPC)",
@@ -64664,6 +65084,62 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dustgrain"
+    ]
+  },
+  "DUSTYBIT_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aDustybit (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"DUSTYBIT_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"68265e00-b6e2-3678-a369-b240b5f94e2e\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMTc0MDEwODY2OCwKICAicHJvZmlsZUlkIiA6ICJkNzJlNGJjZDIyZGI0NjQ4OTUxNTc0M2UyYTRmMWFjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhdnZheSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YmNiNjU0MDg2OTIxMmMwZjk2MjYxZjcxYzZmMTk5Njc1YjIyMzQ0NzM4NWEyNjU0YTExZjQxZGM1NmEzNzdlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §6 Subterranean§7, §a Critter\",1:\"\",2:\"§7They burrow under the sand to keep\",3:\"§7cool\",4:\"\",5:\"§c❤ Health§8: §c500\"],Name:\"§aDustybit (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §6 Subterranean§7, §a Critter",
+      "",
+      "§7They burrow under the sand to keep",
+      "§7cool",
+      "",
+      "§c❤ Health§8: §c500"
+    ],
+    "internalname": "DUSTYBIT_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Dustybit"
+    ],
+    "recipes": [
+      {
+        "level": 9,
+        "coins": 3,
+        "xp": 150,
+        "name": "§cDustybit",
+        "render": "Frog",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "RUBY_VEILSHROOM",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_COMBAT_TRAP;1",
+            "extra": [
+              "§7 - Fusing §fTadgang §7Shard with §cCombat §7Category.",
+              "§7 - Hunted in §6Torrhus Springs§7.",
+              "§7 - Place §6Hunting Traps §7in §6Spring Path§7.",
+              "§7 - Place §6Hunting Traps §7in §bTorrhus Springs§7. §7(§bOn Land§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "DUST_THE_FISH": {
@@ -69160,6 +69636,63 @@
       "C2": "",
       "C3": "EMBER_FRAGMENT:1"
     }
+  },
+  "EMBER_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aEmber (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"EMBER_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"59fb26c3-128c-3a33-bdd3-5d530a4b9dcd\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwMzI2MDgyNSwKICAicHJvZmlsZUlkIiA6ICJlODE1MGY1MjlmZGU0YzdkYjI3OTAyZjJjNmU3NTc5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmFkQm90XzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY1MWRjNDhmMTQxMDcyMzVkYTQwNjAxODc2MmU4YjMxOWMxMDM2Yzc4NThhYjc0NTk5ZWZiOTNkM2FmNzBlZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §9 Aquatic§7, §a Critter\",1:\"\",2:\"§7Schools of them light the way for\",3:\"§7each other.\",4:\"\",5:\"§c❤ Health§8: §c250\",6:\"\",7:\"§7Hunted in §bTorrhus Springs§7.\"],Name:\"§aEmber (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §9 Aquatic§7, §a Critter",
+      "",
+      "§7Schools of them light the way for",
+      "§7each other.",
+      "",
+      "§c❤ Health§8: §c250",
+      "",
+      "§7Hunted in §bTorrhus Springs§7."
+    ],
+    "internalname": "EMBER_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Ember"
+    ],
+    "recipes": [
+      {
+        "level": 4,
+        "coins": 1,
+        "xp": 150,
+        "name": "§cEmber",
+        "render": "TropicalFish",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "RUBY_VEILSHROOM",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_GALATEA_TRAINING;1",
+            "extra": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Place §6Hunting Traps §7in §dHotspot Haven§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
   },
   "EMBER_ROD": {
     "itemid": "minecraft:blaze_rod",
@@ -89658,6 +90191,63 @@
       "C3": ""
     }
   },
+  "FIREFOX_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aFirefox (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"FIREFOX_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c3bc8906-6d26-3636-8524-9c17ba94fdbf\",Properties:{textures:[0:{Name:\"textures\",Signature:\"eRDHqYIazkzeyUgxh0Zf8y/ibAbo84ZPAecOsAO1+M/j3CG6nOc2EUfHFCYXErvWP7UJr+Y9YaAEqdQLdkLBrxRN8rMnaY5F5b5RtOgN0eDJ5t+W+AWCsjPYsaXxgQX6CeKQJayyEau9dLYohClZeVt3aQ99K/LOouYne/yHrOIlJLe9ri3kT7uPTv6mKsSLon1Ncnh1TNVIObRPdDkLs3sfolJnTDzVOWTsMIcexLLgvXn2h1qS6w1IEGVZBUvdS7VDIiSL5nK1pYEbvW9l+Y9Q7Ez9sl9Rky8T7ILIBkZ+pp1811XCRmdRK4EMCJ8CzxamGzK6+ECi9WdgcRaLDxgK4r7edyeNTE02auVLDk/ciUheUdt4xBQt1cRFHBaquK1kilblrGXxuEbaP9QKCmYCNDSfD84YXq44uopBYGkWpaPBupNxef7QmozKf67dVU13NjplDdstEVSQOfiDqeKDT6ygemC2J6k2/IiHCGDy28UJLe2lT06bPM78C2eqpUFtqulZSdSd964VbQtkPYbIktsC0e60W96dYD2JLbl87qnJ4AV0giaNAKVUqcQeTxNTfDxrvZtyGCxgclzt1jbsn65rnubOT/A+A5BXlrPfKK7ZJJ4ZdnOojldqJIDuDKoyhhv4rBmdhHtf4zHlS9wXZxzOfsaZCFjVgWROXoI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNTIwMywKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIyZmMwMjQ4MTAxNjQ1ODhmYzE1M2E4ZTUxNjBlMWQwM2M3NTA5ZGJiZjg4Yjg3MGFkZGJlNmY1YTI5MjY0NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Woodland§7, §a Animal§7, §a Critter\",1:\"\",2:\"§7Firefoxes glow so brightly in the\",3:\"§7dark that they can be spotted from\",4:\"§7nearly a mile away on a clear night\",5:\"\",6:\"§c❤ Health§8: §c2,500\",7:\"\",8:\"§7Found in Helix §2Tree Gifts§7.\"],Name:\"§aFirefox (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Woodland§7, §a Animal§7, §a Critter",
+      "",
+      "§7Firefoxes glow so brightly in the",
+      "§7dark that they can be spotted from",
+      "§7nearly a mile away on a clear night",
+      "",
+      "§c❤ Health§8: §c2,500",
+      "",
+      "§7Found in Helix §2Tree Gifts§7."
+    ],
+    "internalname": "FIREFOX_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Firefox"
+    ],
+    "recipes": [
+      {
+        "level": 32,
+        "coins": 10,
+        "xp": 75,
+        "name": "§cFox",
+        "render": "Fox",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x16-32"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "20%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_TORRHUS_MASTERY;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Found in Helix §2Tree Gifts§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "FIREPLACE": {
     "itemid": "minecraft:skull",
     "displayname": "§fFireplace",
@@ -99661,17 +100251,22 @@
   "GEMMA_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Gemma (NPC)",
-    "nbttag": "{SkullOwner:{Id:\"79720ae3-58ee-23f4-a80b-9c84b9bf0e77\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M4NmFkNGRkYjQwZTkxMjhhZTBiNWEzMTI2ZWZlNzNmNDE0OWM3NTdiYWMxNDhmY2ZiZWE2ZjdhYmE4Zjg1NjkifX19\"}]},Name:\"79720ae3-58ee-23f4-a80b-9c84b9bf0e77\"},display:{Lore:[0:\"\"],Name:\"§9Gemma (NPC)\"},ExtraAttributes:{id:\"GEMMA_NPC\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GEMMA_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a1018dca-5138-2f3f-b306-9c32400eb150\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGU0MjAxNWQwYmZhODU1Zjk5ZDA5YWYwNmYzMjc5MGQ5ZTM5MzgzOTYxNzY2ZDhlMmM4ZjE2MDQ1ODUyNDViOSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhMTAxOGRjYTUxMzgyZjNmYjMwNjljMzI0MDBlYjE1MCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkxMzg1NDY2MTU5fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Gemma (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
     ],
     "internalname": "GEMMA_NPC",
     "clickcommand": "",
-    "modver": "2.1.1-PRE",
-    "x": 476,
-    "y": 107,
-    "z": 514,
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Gemma"
+    ],
+    "x": 475,
+    "y": 106,
+    "z": 513,
     "island": "crystal_hollows",
     "recipes": [
       {
@@ -99681,11 +100276,14 @@
           "REFINED_DIAMOND:2"
         ],
         "result": "PERFECTLY_CUT_DIAMOND"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "ESSENCE_DIAMOND:2500"
+        ],
+        "result": "MINING_OFF_CAMERA"
       }
-    ],
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Gemma"
     ]
   },
   "GEMSTONE_CHAMBER": {
@@ -101964,6 +102562,82 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Giant_Honey_Dipper"
+    ]
+  },
+  "GIANT_ISOPOD_SC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§3Giant Isopod (Sea Creature)",
+    "nbttag": "{ExtraAttributes:{id:\"GIANT_ISOPOD_SC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1751517e-500b-39e6-883c-6c2f22a301e4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"i0WNpEFey41dGwQMAxOjtKBd2QG99TaHy4rV6kyz5i3UfnBvo46XQscMdgdfdSQmKPSos+mJ2FVAin8yP09TchkErIAE6Jr3nkAxDZOQ6604ZaVIrhE2sO8FqOUOHeqv9rrkGhvXuG2w1lw6E3r/+n+1sXojqy8zHTQiLuJGbfaNcRLGwnuzZUHZswb7pWfN0hOigYsq7wG8K8Fz8nrit1YiVkEyPQ2X3RajIUpRHHjDQrvKYv5HT+awfaUrla0X031aY1u80decZ7Lwpb39JH0NAJeSs7/OC2bo2Kk+A6PQ5hv2jw7v08iX8DlaRV9uj7mlG4JQl+wRdUkMILBmOCfZTDHesjOw7IuLgmpTsLQG2tkkTQTheuFGzeaaHwCORcKuoFxpve4m1i4iOrZSt0XXW0d+XOmtXZoN0GdNyEhKJHazBZE8CctPv5Om9bj6NyQCx/0wcnNs5QwQRl0LRREuAjH+mMIW391sWtxzSWkAj1J4JqwwvhSFbUX4Ldcx7J6v+KUzs6pFkDp5kJWUPatbrV7BBfSx5YqezenVhMT0R9iaw6SYyCPTYG31coB+ItHmkbuB9680KOaHIzueGen/w/K+hqt6LREe2f3ecxXtaQDA3q74w6JR05vp8OlttBtKUjmMFnBXoMHreyeDxJwsYZlslUH/Pkk/89F3Glo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MzYxNDI3ODk3MSwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZmNiMjAzYjAyOWFhYzQ5NTg0MDdkYWY0MDcyYTAxYTM1MzEwNTE2MjM3M2NlN2U1NTljNjY5ZDc4MzI1YmNiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §9 Aquatic§7, §4 Arthropod§7, §d Elusive\",1:\"\",2:\"§7And you thought the Giant Water\",3:\"§7Bugs were big...\",4:\"\",5:\"§c❤ Health§8: §c500,000\",6:\"\",7:\"§7Fished up on §6Torrhus Canyon§7.\"],Name:\"§3Giant Isopod (Sea Creature)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §9 Aquatic§7, §4 Arthropod§7, §d Elusive",
+      "",
+      "§7And you thought the Giant Water",
+      "§7Bugs were big...",
+      "",
+      "§c❤ Health§8: §c500,000",
+      "",
+      "§7Fished up on §6Torrhus Canyon§7."
+    ],
+    "internalname": "GIANT_ISOPOD_SC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Giant_Isopod"
+    ],
+    "recipes": [
+      {
+        "level": 186,
+        "coins": 930,
+        "fishing_xp": 4650,
+        "name": "§cGiant Isopod",
+        "render": "@neurepo:mobs/giant_isopod.json",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x16-32"
+            ],
+            "chance": "10%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM:8",
+            "chance": "2.5%"
+          },
+          {
+            "id": "VEILSHROOM_BUNCH",
+            "chance": "5%"
+          },
+          {
+            "id": "HELIXIS",
+            "chance": "5%"
+          },
+          {
+            "id": "ISOPOD_HUSK",
+            "chance": "2%"
+          },
+          {
+            "id": "REINFORCED_NETTING",
+            "chance": "1%"
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": "0.00002%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_FISHERS_FORTUNE;1",
+            "extra": [
+              "§7 - Charm §cGiant Isopod§7. (§aGuaranteed Drop§7)",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "GIANT_KILLER;1": {
@@ -107298,8 +107972,8 @@
           {
             "id": "ATTRIBUTE_SHARD_MIDAS_TOUCH;1:1",
             "extra": [
-              "§7 §7- §7Catch with §cPocket Black Hole§7.",
-              "§7 §7- §7Kill §6Golden Ghoul §7while using §cSalts§7."
+              "§7 §7- §7Charm §6Golden Ghoul§7.",
+              "§7 §7- §7Catch with §cPocket Black Hole§7."
             ],
             "chance": "100%"
           }
@@ -107526,6 +108200,66 @@
       "C2": "WOLF_TOOTH:32",
       "C3": ""
     }
+  },
+  "GOLDOLOT_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aGoldolot (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"GOLDOLOT_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"65d22760-271d-3393-bb19-9d6f87fcc2c1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"MNmZWS4s6rl+iMvcNzddhLm1pNF801AOny0aVHyFDTbFJBnNv3nzR6IbCLpMVj8TjQb51/qOQpQXXeCJP8rirJtNkZ9PwbHXMu4WnSlhiPdrRfEgaCnP0NWc5KzDsmR3xGxmF95nnDqPaj8El9PVdUxZT6CWpyO60iJrPZMuIYykLM+XQAaji0s0VByOW1AtDNw0Rzb1jKAtwhQSzYlSVigy0dXXNBFkxsyBg+DrC+Snq6PKvI3QqWNp0390QLJTMnArBJflUGSK9bes+9updKlgQI/ea4bsv+K4xBDcDwaiuVSjca25EabeGBMeqCNma4hQxccehsOqoiN5GDxWOtEx2MbTCHV9kd01yNaEs3fJc2XFqrFCCpxFob83mela6nAz9g4vS7W5iYliSnU9iMR/4jrDHkU1fQAY8qQdDlolbsxBFbXxnpvmJQA+IrQ4YSdvaGbkiu3uByNFC4rUU5qL1beXIFn0twHDkXC/NwEPIIPjQe8nLBxoN095RdYy83cIejZAcaUp2FkExhNF9WbvmaK1EcddWGjQAAJau3utO9ixPtsKiczuytGXYHkXKudR0pHI+5Hq+sDBGpHJoRYqBGf4XLGaXOsjvkNoXpcbDqyJfYfIRZGwAwkK/QqHwg8NC2C7bs1/H7vB+lY8h8gQAmcqVwE9XPyI2ulYZrM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMTgyMjg2ODE0NywKICAicHJvZmlsZUlkIiA6ICI0MmIwOTMyZDUwMWI0MWQ1YTM4YjEwOTcxYTYwYmYxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXJib2x0MDc4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ0MjM1ZGE3YjNhMGFhY2NjZGJhM2Q4ZTEzYzYxZWNjODc0YzdhZWZhNDk0MzM5MDNiOGNmNDM3NGE5YmY1NmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §a Critter§7, §e Timid§7, §d Elusive\",1:\"\",2:\"§7Though afraid of people, they get\",3:\"§7along with the other denizens of\",4:\"§7Torrhus.\",5:\"\",6:\"§c❤ Health§8: §c1,000\",7:\"\",8:\"§7Hunted in §bTorrhus Springs§7.\"],Name:\"§aGoldolot (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §a Critter§7, §e Timid§7, §d Elusive",
+      "",
+      "§7Though afraid of people, they get",
+      "§7along with the other denizens of",
+      "§7Torrhus.",
+      "",
+      "§c❤ Health§8: §c1,000",
+      "",
+      "§7Hunted in §bTorrhus Springs§7."
+    ],
+    "internalname": "GOLDOLOT_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Goldolot"
+    ],
+    "recipes": [
+      {
+        "level": 13,
+        "coins": 4,
+        "xp": 300,
+        "name": "§cSepialot",
+        "render": "Axolotl",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "RUBY_VEILSHROOM",
+            "extra": [
+              "§eDrop Count: §7x8-16"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "10%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_ECHO_OF_BUCKETS;1",
+            "extra": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §bTorrhus Springs§7. §7(§bOn Land§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
   },
   "GOLDOR_CELESTIAL": {
     "itemid": "minecraft:skull",
@@ -112542,36 +113276,36 @@
             ]
           },
           {
-            "id": "SOUL_FRAGMENT:1",
+            "id": "SOUL_FRAGMENT",
             "chance": "100%"
           },
           {
-            "id": "SHREDDED_LINE:1",
+            "id": "SHREDDED_LINE",
             "chance": "1%"
           },
           {
-            "id": "DEEP_SEA_ORB:1",
+            "id": "DEEP_SEA_ORB",
             "chance": "1%"
           },
           {
-            "id": "PET_ITEM_VAMPIRE_FANG:1",
+            "id": "PET_ITEM_VAMPIRE_FANG",
             "chance": "10%"
           },
           {
-            "id": "POLISHED_PUMPKIN:1",
+            "id": "POLISHED_PUMPKIN",
             "chance": "2%"
           },
           {
-            "id": "BOBBIN_SCRIPTURES:1",
+            "id": "BOBBIN_SCRIPTURES",
             "chance": "1%"
           },
           {
-            "id": "DYE_MIDNIGHT:1",
-            "chance": "0.002%"
+            "id": "DYE_MIDNIGHT",
+            "chance": "0.00002%"
           },
           {
-            "id": "DYE_AQUAMARINE:1",
-            "chance": "0.002%"
+            "id": "DYE_AQUAMARINE",
+            "chance": "0.00002%"
           }
         ]
       }
@@ -112638,11 +113372,11 @@
         ],
         "drops": [
           {
-            "id": "WHITE_GIFT:1",
+            "id": "WHITE_GIFT",
             "chance": "100%"
           },
           {
-            "id": "GREEN_GIFT:1",
+            "id": "GREEN_GIFT",
             "chance": "100%"
           },
           {
@@ -112655,8 +113389,11 @@
           },
           {
             "id": "DYE_ICEBERG",
-            "extra": [],
-            "chance": "0.0002%"
+            "chance": "0.000002%"
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": "0.0000004%"
           }
         ]
       }
@@ -112699,6 +113436,64 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Grizzly_Salmon"
+    ]
+  },
+  "GRIZZLY_BEAR_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aGrizzly Bear (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"GRIZZLY_BEAR_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0796c6a0-d60e-32ec-9d2c-08a984ec851f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Xrv75CYpw+fjr4/CeXTgMOjmsbTlTWjvaGkEZ+ICsrUp1Sb9Bm37slh6LXy2UiRnnOjf24ioCh8r58LoUVVCHxr4iUvh8Q9S8qCep3TqOI+F8Y6+vfRyhWzUmna+UHc8UqZ7wXJKt4Mng7Xmu8+TTIACcRtcWHRUfrtlfHsvMH/OogiLy/I2sEcwUDz+RqlaIcWor5U9FJMHtSqaX4QX4pD+u1SufC02DzVbSX4/yav91NYlPQP6c+CufC/1PJmLpNRltHQbrIO1E/mAKk01PYd/tD40HKI/ygJSTqTCFR6biNd7fucko+H6i04Zn60U6smoP7MGwk9npnxgHF4qjZGzG3BNZg/0UmJhHSJEcunVYfYDnWi5ufmfSPel2NbSQYNCn8HMsByWNBRDrVEHU7naEtxoHqElyFuf59WxI0yTA1fzjDhKkuMIFadf11/lJPbD0g1nK8Ikp38Q9miGXd+tPQ1IxmSqb/2wqwLR8pQB/YrUexw6PSFU8DHf2ioTU24eteDBMZo2x8Vok9yUAjRSaStHFuwLBVucU9IyW9DxvbamvWstFEs64DUaqyVXg0XrRayWDtRraWv+yzFF7qFZl4W2dZZE9nusygxjMVsGQHZmbpzVUmRbQsK2BmV4UEyc/wB5LE/uprlfUQ1D2gIW14zKN3vG5XP5AS37LsU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NjAzMzc5NjI5NywKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0MDYxMDhhYTZiZGRhNzNkZjEyMjQ1NGFhNDI1MGVjMGNkNDU3ZmQzMThhODkzZDlkN2M1NGQ5YzA3NjExNjgiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Woodland§7, §a Animal§7, §d Elusive\",1:\"\",2:\"§7On rainy days it becomes a drizzly\",3:\"§7bear.\",4:\"\",5:\"§c❤ Health§8: §c200,000\",6:\"\",7:\"§7Found in Helix §2Tree Gifts§7.\"],Name:\"§aGrizzly Bear (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Woodland§7, §a Animal§7, §d Elusive",
+      "",
+      "§7On rainy days it becomes a drizzly",
+      "§7bear.",
+      "",
+      "§c❤ Health§8: §c200,000",
+      "",
+      "§7Found in Helix §2Tree Gifts§7."
+    ],
+    "internalname": "GRIZZLY_BEAR_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Grizzly_Bear"
+    ],
+    "recipes": [
+      {
+        "level": 101,
+        "coins": 33,
+        "xp": 151,
+        "name": "§cGrizzly Bear",
+        "render": "@neurepo:mobs/grizzly_bear",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x8-16"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "HELIXIS",
+            "chance": "10%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_TOUGH_CLAWS;1",
+            "extra": [
+              "§7 - Catch with §cPocket Black Hole§7.",
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Charm §cQueen Ant§7. (§aGuaranteed Drop§7)",
+              "§7 - Found in Helix §2Tree Gifts§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "GROG_NPC": {
@@ -112751,6 +113546,64 @@
     "crafttext": "",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Grog"
+    ]
+  },
+  "GROUNDHOG_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aGroundhog (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"GROUNDHOG_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e8ccec5b-3ec7-3768-8858-256758ab9be0\",Properties:{textures:[0:{Name:\"textures\",Signature:\"P+u0U8aVommd6yKTWHncnkoFOrgD8Anjqw5qgGheBbRT6mGWw89OcxkxbPOsTUnTg1ur+EpE8Qm6EAsIukT7K4kZFcC46skgHICTngEP47kotJi7QgVPEAIrUAFyOoxbQkB6fzzuw0DeF+KzAnqFqYolI9Q3Ed8/3x/OcykOLMPsNvUEvEJ9BAwowKQgcTjI/396+llpIahFfzg0pv+1flo2oTS1AMvIZj1r26UZsPJQDc0fPO3gvU5Fgb/njYsRwmuWoN011Evv8xg9+qFyGs8OdMcPywn8nlGrVnyXBIQoKWrhr8wDO5YyDH9UmLc6xNVRHtPzLoZWAWL+LX0M3htxVg6zZPWldk6U3yHnUG2Pgnut0EXZjly/QLdBQ4PHxvLU7oMMRtP2A+8DOFVJhTi9o/cwo8QBqA4N5Dvd4G7A2W6YWp38IyM65/+eKwvgHtGvF2vkFbKbdlZmOB0KzkhYFSTMyD/+TR71Wm1PQmXAflWrSGTO6DkliAYT1G9dl+YnaaUONSaoxwPAZ2MoLxWnciqkmA8sXmRfB7fARrYcSNl4mNS2vyvZc2kuXMv/5b9ukpFX1Q8AOr9d9ZQPQeC1SiQ5hsol702y+xBn1IUvieoXjg2ppZNV1VkmE6NHjpSF4W7Ep5wlS9us0ba5StEcqdF7HOsAW46bxOOPMR8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNTc3NSwKICAicHJvZmlsZUlkIiA6ICI3NzQ3ODc3M2ExZTE0NzUxODE0M2Q5ZDA5YTc1NmQ2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0YXJlZmVycmV0cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YzcxYWQxNzQyYTUxMzc4NTU5YjA1MjFlNDRkZGJkNWM3ODhjNzM0YWU1ZmJkZDU4ZDEwNDQzY2YwOTY3N2M4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Woodland§7, §a Animal§7, §a Critter\",1:\"\",2:\"§7The Complex tunnel systems of\",3:\"§7Torrhus Canyon are hotly contested\",4:\"§7by many creatures, Groundhogs\",5:\"§7included\",6:\"\",7:\"§c❤ Health§8: §c5,000\",8:\"\",9:\"§7Found in Helix §2Tree Gifts§7.\"],Name:\"§aGroundhog (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Woodland§7, §a Animal§7, §a Critter",
+      "",
+      "§7The Complex tunnel systems of",
+      "§7Torrhus Canyon are hotly contested",
+      "§7by many creatures, Groundhogs",
+      "§7included",
+      "",
+      "§c❤ Health§8: §c5,000",
+      "",
+      "§7Found in Helix §2Tree Gifts§7."
+    ],
+    "internalname": "GROUNDHOG_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Groundhog"
+    ],
+    "recipes": [
+      {
+        "level": 42,
+        "coins": 14,
+        "xp": 75,
+        "name": "§cGroundhog",
+        "render": "Hoglin",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x16-32"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "20%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_DIURNAL_ANIMAL;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Found in Helix §2Tree Gifts§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "GROWTH;1": {
@@ -113998,6 +114851,85 @@
       "C3": "NULL_OVOID:16"
     },
     "slayer_req": "EMAN_6"
+  },
+  "HAGGARD_SC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§3Haggard (Sea Creature)",
+    "nbttag": "{ExtraAttributes:{id:\"HAGGARD_SC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5cbc017b-fc58-3d96-9208-205d4a10b1e1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"X+xEUr1uFHG/LeFosJUWCNEKDt5ablLDPM9DYKumSUVLtoInHgO8FxNGDbrDghmv+dKKQmnvxMnOCBPkMP9Mi3bk5Q/+g7RkhHzxb6n3IoJ2vpl9byNUW7+Fq401k2hku+oWKGUxaQVt+Ar2uJS3vaFyt5bCCQzC9jCIcxDCcdnspsYtlpAjoANvutDtSDe4CoxwhUa3gL1o4CK30T+mWn6R0L5dtVbdrolisWgZnaQ7HVrLVGfvJ8UBv0/H+VXVzKDLY9hzRVwpZttJIHTSjTTD1EWSsa85SSuN31mCMYNO2EEHorSlk8F905VdYhB6G/td4B2T6xhvYD+GChXDhNzkdgRU/WiTeulqpHN7iXu8inBJaYcZEHtpG1/FtAPmhUuPibh7F2H6PNvx2QJd7EBIjyXIUnNwdGbXDfFg3DTv03NwYydTGh9UPXxrI/652+1rHE9bikKdxoMYmSIZIyGk91rXgJgq2yaLjHpFHpBd6jGdRAJWcGmBdwQ29ykmOjgSE2DTzHy/f2p9bPvVZkjwknGS/UQ8YsQP+4XmjWq4r06T21L41TRBf3a1tzrGpwNWWjg2HdRTpeAIboOcYnqM8FMAYtlkxLM5MqWGFK1meepC9CHgZt4JHXOdLK/GS21O2yHJ18IxpjilHywRozYVkedY4aNq1Gzb8owFizI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjAwNjAwMywKICAicHJvZmlsZUlkIiA6ICIxZjk0OTQzN2RlYmQ0ODgyYTlhYzZhZmZmN2RhNDcxMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWlra2FLIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzN2JlNzc4MWEzYWU0NDU0ZjQ2NzBlMTY4NmRjMTdhMDdkZDMyMWQ2ZjY3MGJhODBmOTFlMzkxZjA3NjMzMjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §f Skeletal§7, §9 Aquatic\",1:\"\",2:\"§7An old soul who's ready for a fight!\",3:\"\",4:\"§c❤ Health§8: §c10,000\"],Name:\"§3Haggard (Sea Creature)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §f Skeletal§7, §9 Aquatic",
+      "",
+      "§7An old soul who's ready for a fight!",
+      "",
+      "§c❤ Health§8: §c10,000"
+    ],
+    "internalname": "HAGGARD_SC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Haggard"
+    ],
+    "recipes": [
+      {
+        "level": 44,
+        "coins": 33,
+        "fishing_xp": 330,
+        "name": "§cHaggard",
+        "render": "Stray",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "BONE",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x8-16"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "extra": [
+              "§eDrop Count: §7x1-2"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_BONE",
+            "chance": "2%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "5%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "1%"
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": "0.0000002%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_SKELETAL_RESISTANCE;1",
+            "extra": [
+              "§7 - Charm §cHaggard§7.",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
   },
   "HALF_EATEN_CARROT": {
     "itemid": "minecraft:carrot",
@@ -118501,34 +119433,157 @@
       "https://hypixelskyblock.minecraft.wiki/w/Herring_the_Fish"
     ]
   },
+  "HEWVER_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aHewver (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"HEWVER_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"4a303194-1965-38f9-a309-4c7b32af80e4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"pZlaa0oG5z44Ztr7LGSZ6Q3XphcaTgWpQ18HOhq/QX8ym3D7mAlijS6MBcPjnP1Wr/Db2JOItBBDrerSSnY9osfmLtRbqZLP10lfI9q4yDdQbMpLn4Wt1sWhsBmMxvyLUrSJ2f+7bbg1yeyzK2Vf3sMzHLGMQzICxWCBK+TnIUlh9h+ZUL+7TFKNzEBVyEZQqHyZmgvhASvH2yspmpfO0F1aDMx3GUT+2BBKHWWzsG8+EgHapqYMj+yvZJuPcwCH8PRJ+/nUAUFZO7Js3TNh5R6lGXszLAdX5G0SvZwnOxTpBLjCBRABcmJNIWIfPnYPgQqjQG6iVhMaFt2258x7ycXMsjPjdLhtb9YikjxfAoLWUHLix7jcDglg4SsjuMHa0beJo89XOXauI4Zm6jtDCGRvRibx3tRv2HP6UX5JuI5q234JFMjyzfgspyopzbkWubR5nyTDOKuH3TMMfFu63U+SVpROMooDVDTPYcCssc5EmxgQwrJt8Ma2orOMVIm0EIb0BTAH9EXLmbnxIkXPFMgP71RtKdPB6gkrPpNW7k0DhxHFWP7ef153q14sUGCPbiGhmZqLp081u2S+EhwujsQLahKM6Pfdy8oP+ogJfBVyTWjrSEDhVz+ba5xk5xzCMztDqaaL1Vj1Lmp7Sz5EcFkyYHVsoDtVr+eTuKuRZoI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MDU4NCwKICAicHJvZmlsZUlkIiA6ICI1OGZmZWI5NTMxNGQ0ODcwYTQwYjVjYjQyZDRlYTU5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2luREJuZXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNhMDM0ZTdlZDI2OWZiNGI3ZDNjZDg2NjJjZDk5N2JlODQ2MDVlMDI5YjllNzBjMTg0YjdlNTk3ZWI0MWIzNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Woodland\",1:\"\",2:\"§7Unaware it even eats critters, just\",3:\"§7thinks the floor tastes nice.\",4:\"\",5:\"§c❤ Health§8: §c50,000\",6:\"\",7:\"§7Found when lathering §aFig Trees§7.\"],Name:\"§aHewver (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Woodland",
+      "",
+      "§7Unaware it even eats critters, just",
+      "§7thinks the floor tastes nice.",
+      "",
+      "§c❤ Health§8: §c50,000",
+      "",
+      "§7Found when lathering §aFig Trees§7."
+    ],
+    "internalname": "HEWVER_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hewver"
+    ],
+    "recipes": [
+      {
+        "level": 69,
+        "coins": 23,
+        "xp": 104,
+        "name": "§cHewver",
+        "render": "@neurepo:mobs/hewver.json",
+        "panorama": "foraging_2",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "extra": [
+              "§eDrop Count: §7x4-8"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_FIG_LOG",
+            "extra": [
+              "§eDrop Count: §7x8-16"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_CRITTER_FORTUNE;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §aFig Trees§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "HIDEONLEAF_MONSTER": {
     "itemid": "minecraft:skull",
     "displayname": "§aHideonleaf (Monster)",
-    "nbttag": "{ExtraAttributes:{id:\"HIDEONLEAF_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"01b77ad6-2139-3bec-81b7-7ad621397bec\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMzA4Mjc2NzIzNSwKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkwYjNiZGM5ODFiODE3NTRhMjU2MzViZWEyZGVmOTNmOTkyYzA0MDc5ODFjZDdjNTAwYWQ0OWQxY2FkYTA0YWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§c❤ Health§8: §c1\",1:\"§c❁ Damage§8: §c1\"],Name:\"§aHideonleaf (Monster)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"HIDEONLEAF_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"01b77ad6-2139-3bec-81b7-7ad621397bec\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMzA4Mjc2NzIzNSwKICAicHJvZmlsZUlkIiA6ICI5OWY1MzhjMDhlN2E0NTg3YmU4MGJjNGVmNzU0ZmQyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvV1MyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkwYjNiZGM5ODFiODE3NTRhMjU2MzViZWEyZGVmOTNmOTkyYzA0MDc5ODFjZDdjNTAwYWQ0OWQxY2FkYTA0YWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §a Critter§7, §2 Woodland\",1:\"\",2:\"§7Watch the foliage for the slightest\",3:\"§7sign of movement.\",4:\"\",5:\"§c❤ Health§8: §c2,500\",6:\"\",7:\"§7Hunted in the §2Moonglade Marsh§7.\"],Name:\"§aHideonleaf (Monster)\"}}",
     "damage": 3,
     "lore": [
-      "§c❤ Health§8: §c1",
-      "§c❁ Damage§8: §c1"
+      "§7Mob Types: §a Critter§7, §2 Woodland",
+      "",
+      "§7Watch the foliage for the slightest",
+      "§7sign of movement.",
+      "",
+      "§c❤ Health§8: §c2,500",
+      "",
+      "§7Hunted in the §2Moonglade Marsh§7."
     ],
     "internalname": "HIDEONLEAF_MONSTER",
-    "clickcommand": "viewrecipe",
+    "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Hideonleaf"
     ],
     "recipes": [
       {
+        "level": 14,
+        "coins": 4,
+        "xp": 75,
         "name": "§cHideonleaf",
         "render": "Shulker",
         "panorama": "foraging_2",
         "type": "drops",
         "drops": [
           {
-            "id": "ATTRIBUTE_SHARD_MOSSY_BOX;1:1",
+            "id": "ATTRIBUTE_SHARD_MOSSY_BOX;1",
             "extra": [
-              "§7 §7- §7Hunted on §2Galatea§7."
+              "§7 - Hunted in §2Moonglade Marsh§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
+  "HIDEONSUN_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aHideonsun (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"HIDEONSUN_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9905bf3a-dc3d-3ab9-ad84-5ddc2a11d793\",Properties:{textures:[0:{Name:\"textures\",Signature:\"hcJ2khUP5lLBrLFwiCR9eKDxp6TVNquz9gO/D34OhB+ZAKGNcSuJNyhuzqTcMn0JJvW1XVysM+wfLUqNGs7Cekbg0DltzUm/i/sidXZwvdG/dvIBSTWjwjk0mYmj5oExhI2EHlWillAjsiFqfjvGeg6t99X9CCVFhzYb7rQJ0Hq3UGitE1wGSQSGfj74Qxfzws+OxRicphSOmmbshrUGLcOEBhiZVMl2dnTYAIUwHtlGOwrFzdQkH16JIwSQdimA3/U9ImptmOqOTtudEfT4lB55mIKSW4Ytc4o3FaCuM7vgEE9oka9kIUnBUsNjYHrmKEsbFFxwnhphROBLiJPQwDmBH6k0XH8PpgR4Jquj0O8Jy+Cg2PPiGsk52Ll2YpfiKCo7R+ttx3RzU6xtXUy9K+a7opo03a3bc9UHRCVNORkNG8AlkIKDz1N5SanebS/A3oc1y6q9nhhZa87oIwdOCsOFX2SdFO74JDjAuqZOMElGFD8yvvgWLned26FNxaK+OAK2t3VjRHJTvH23QRzqWlSIaAr834xhzSgCEPGM3rkOYeAALUg74SYky8haPPP/d/76DsDHL+ZSR4q2vcIClyupN8Yu13T6kweIKtUXZB/kPZZkehZGi4Qi22zKKniQNYllUooUUODYakA0Eq6NmN120I1SflKGjYSLDIs5gnE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMzA4Mjg0NzA3NywKICAicHJvZmlsZUlkIiA6ICI4NDIzMzM5MTYwMjY0NjBiOWQ1MGFjZWU3MThiMjkxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmaXJlc2xpbmdlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MzM3ODFkYTUzYmUwNGNkN2I0ODMzNWRlNzIxMTIxNWQ3OTk2OGRjNzYyMjcwYWFhOTkyYzNlMzU0ZDcwNDUxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §a Cubic§7, §a Critter\",1:\"\",2:\"§7Its colouring helps it blend in with the\",3:\"§7rest of the canyon.\",4:\"\",5:\"§c❤ Health§8: §c5,000\",6:\"\",7:\"§7Hunted in §6Torrhus Canyon§7.\"],Name:\"§aHideonsun (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §a Cubic§7, §a Critter",
+      "",
+      "§7Its colouring helps it blend in with the",
+      "§7rest of the canyon.",
+      "",
+      "§c❤ Health§8: §c5,000",
+      "",
+      "§7Hunted in §6Torrhus Canyon§7."
+    ],
+    "internalname": "HIDEONSUN_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hideonsun"
+    ],
+    "recipes": [
+      {
+        "level": 24,
+        "coins": 8,
+        "xp": 75,
+        "name": "§cHideonsun",
+        "render": "Shulker",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x16-32"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "20%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_GOLD_BOX;1",
+            "extra": [
+              "§7 - Hunted in §6Torrhus Canyon§7."
             ],
             "chance": "100%"
           }
@@ -118832,6 +119887,68 @@
     "x": -554,
     "y": 110,
     "z": -17
+  },
+  "HIVETHIEF_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aHivethief (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"HIVETHIEF_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d1891b81-1b6e-3d2f-ba2d-624cce084599\",Properties:{textures:[0:{Name:\"textures\",Signature:\"hcH7Vr43f+hqZpp0s3TJBN9b1deQJJ5r/AO32ivrKHMldRVuu2R6PVOr3l0pHoERzOgRci/vve3AvSqhTL4z1ABVwlGJirVZj0SFdf9DWnZ5mEz0F4lhvg181OmF8nhc+PHs4kQ0N8R3W6JzbUdAb3g/3WZyGUQS8a/WXRqaVApOnZtnx2gqFcFXE1FANtH8KmxxRNqadVEQ9WDIvj8Wy6z4RSUeL3FqQElhFB6GeUzBdqb7vBId7c2QiwjMEPrEXfuBl+tyaS8eaP6PlrPKYQXENyf6yUCys23bJiQvuJIU0qPi1bNriQrqEbVZ4qCXfAhuiNYdETWNjklJ+TAJ8YMBD3gtjJk+tXiLKMF2LtNYMM0jfGp9oX1UQdv8Nfi/QCOxtVqUdRZ5rHQjeQN0EWJ+Jek9ivLLfK+5vHuR6+2t3W0qSsjuytW2gy3c+fKa151iWY8OTBlFQrjQiX8/Lbvbc1r5/vZEMMlb9WVWRTBk8XLwvIx1zuj+2/9jaQXptSHpaJWcrQ6xhXUhSqVMivOhsl7OTd12/w1/PigHGqNewHeAqkc+rKPBRjC/+/uXYiDTF9uE14k1PIEVHv8rJuZNycrnYvHEoCePG40n2Cy9mXbAK/b5UAPULgCeQ+uLapSY1dfYYmmREES6+5A5D67D5Uq1toAdXBRAp5Cl+Og=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjM3NCwKICAicHJvZmlsZUlkIiA6ICJjOWZkZjFiMThhZGI0MGE3OTQwMzMyMTg3NThhZDJkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfc3BhY2VfODAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjBjN2FhZTIxZWY4ODA3ZjY5YTdlYzhlMjk0NWU2MmVhZTI0OTY5MmJiYmU5M2IzM2M4ZGFlMTUwMGI5Mzg1NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §a Cubic§7,  Airborne, §a Critter\",1:\"\",2:\"§7The bee equivalent of a UFO.\",3:\"\",4:\"§c❤ Health§8: §c50,000\",5:\"\",6:\"§7Found when lathering §6Helix Trees§7.\"],Name:\"§aHivethief (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §a Cubic§7,  Airborne, §a Critter",
+      "",
+      "§7The bee equivalent of a UFO.",
+      "",
+      "§c❤ Health§8: §c50,000",
+      "",
+      "§7Found when lathering §6Helix Trees§7."
+    ],
+    "internalname": "HIVETHIEF_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hivethief"
+    ],
+    "recipes": [
+      {
+        "level": 80,
+        "coins": 26,
+        "xp": 300,
+        "name": "§cHive Thief",
+        "render": "Ghast",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "extra": [
+              "§eDrop Count: §7x4-8"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x8-16"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "HELIXIS",
+            "chance": "15%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_CUBIC_FORTUNE;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §6Helix Trees§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
   },
   "HIVE_BARN_SKIN": {
     "itemid": "minecraft:stained_hardened_clay",
@@ -119713,6 +120830,62 @@
       "C3": ""
     }
   },
+  "HONEYBUZZ_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aHoneybuzz (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"HONEYBUZZ_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c3dd4dc5-04a1-3924-a9ec-1471cb9b445a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Qc0o9JoX9WWypJxEDkQa/3QDdpGqx2ZY01rOl4DUGIEuTdKIuYAdKcCtBL4mIoRm5gDlHWtVPPoLgRIrboukVmdNwskBgJkQjAAJ//LJphyyXOzVtbtptRgBhWx2runouo52T+oI0NhX0cDwlH0YQYR0+hRC3pAFZfWd7SegWepSMaYxJYd2tLwye/PeDlRcNlG+clkv4+pKUG3dnUUazAqOWNJ81Qvb3jokDnam7DZNLd3OYkNGC6x6zk7XrFk/vOrEJ3kqQzo4wc9AN5kF3nosnXELQyr+7bnHNQ2duIvfgPlUqZ1Dwekt2xEOlZA+zJ6BBI1SgWXYEnPEqklTbmXn3VD+fbxkCu//q4UMJGDNzCVjRByI48GE0Mx8rqPli7TmG1y8U2QPda39+WK6e9y4okg5fAON0NCtHbAyE7fouMPt7FsHPJRVGcdRXWuIaaZty1xUl9QV9cVRTi3d6bk/invzAaOIT/bRsFTj/US2te4wPEAA5Eo74C+GdUQAhm66B2myHzO43iaxcvDsbyUl0B8VG3PIkxk4Ig61hAT7WeULaVgp6NV91ze55i1pu2WgPn/ZWZXtUJ37RDuRNepk0faD7LlYVr+kB+p867c8HS3Lgd6uC3KcXXUeAMbob1AYOo3wpInIoEWlZ3gh7zKN3acMOgTP0wQkZA9vB/0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3NjgwNDIzOTU2NywKICAicHJvZmlsZUlkIiA6ICJkNGUwNTFjZGRhNDU0NTUxYjk1ZWRiZjdkNTM1ZTA3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVtZW50YWxfTWF4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5MGVmYzhhYTVhYWMyNzQyYWIwNDU2NDUwMWM0ZjU2ZTljNzE2OWIyNzJkMDUzMGY3OGMyMDk4NjU1Nzc5MjgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types:  Airborne, §a Critter\",1:\"\",2:\"§7So cute you just want to take one\",3:\"§7home.\",4:\"\",5:\"§c❤ Health§8: §c500\",6:\"\",7:\"§7Found when reaching into §6Honeyhives§7.\"],Name:\"§aHoneybuzz (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types:  Airborne, §a Critter",
+      "",
+      "§7So cute you just want to take one",
+      "§7home.",
+      "",
+      "§c❤ Health§8: §c500",
+      "",
+      "§7Found when reaching into §6Honeyhives§7."
+    ],
+    "internalname": "HONEYBUZZ_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Honeybuzz"
+    ],
+    "recipes": [
+      {
+        "level": 9,
+        "coins": 3,
+        "xp": 75,
+        "name": "§cHoneybuzz",
+        "render": "Bee",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HONEYCOMB",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "chance": "1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_HONEY_HAUL;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Found in §6Honeyhives§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "HONEYCOMB": {
     "itemid": "minecraft:paper",
     "displayname": "§fHoneycomb",
@@ -119891,6 +121064,122 @@
         "type": "crafting",
         "count": 1,
         "overrideOutputId": "HONEYCOMB_TALISMAN"
+      }
+    ]
+  },
+  "HONEYHOG_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aHoneyhog (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"HONEYHOG_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2a928c58-95d1-303e-9156-2b2e7c3e57e7\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Qm4d58U/QiePMczq/L845RtsuoJAE/WKr9q4nqDEWsIJL2l54j/PN+90gzLzndtxoLb6AitnGT0x/d3Tse9+Rh2Xh5vm0CzvP1l+I+lcDO9ADLOIe1UOHnF1aVbgLloHotfaT6GoA45/i3vs0Lx4gVLYbgjtbj8ok7t1bjauVdHHtUqHG5cSzhX68itZagPr7pmpzE6U5y1Yu88x5tA1szZUy1yXEu8g7od0qQWyUXWrocolW0EGllj7Q98G341f9ltE+yZVPHVK4iriUtresBb5o7dXjFN3WUsmGnNRxDWL637bjH4LUnse1ZkhxjUbx2nMulPKWCbF6RlF7Z9Z2nRfCl7K50AZZabaPWTYrLgQTD5tDY8yZsv9oVJ5QrJY79pH967XkohcTa+pRp3gaCH9tooyETY6tUWTeZx8ckAEbmqPTzBMr39mNRqRhBLaTdJUlAM7tTV+wHJz7gRvF2Sa1tsz3tTBlnrmxIwlS6c+uYW5RSZazEtYIyCbNlYOUjjXo2+oX24ZJ39Ha/Kib7lRbGzMuglmidxIL2pf3WHaii/Dhoyh5zrB70GaGt9m4DpSr/BE58BEDWjCx15fmcf0eWphAjOZ1dA81JRA+nHPTiGS24lFP0jBUNawV/EOl+pXHNq8VCkm66sHUjaelyOJw99P4z9xUP25MnoH740=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MTg0MiwKICAicHJvZmlsZUlkIiA6ICI1MTAwZGZmZDI0NDI0M2I0OGQxMmVkZTVkMjgxMzk2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVjdHJvbmljU2V4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI4N2JlNDVlNDUzYjgzMmY5YWNjZWU1NzA5Yjk0MzEzZjcxNjU1NGU5M2JmYWRiNmQzNjdhODNlNDNhZDZkOTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Woodland§7, §a Critter\",1:\"\",2:\"§7Though still an adolescent, it will\",3:\"§7defend honey with its life.\",4:\"\",5:\"§c❤ Health§8: §c2,500\",6:\"\",7:\"§7Found when lathering §aFig Trees§7.\"],Name:\"§aHoneyhog (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Woodland§7, §a Critter",
+      "",
+      "§7Though still an adolescent, it will",
+      "§7defend honey with its life.",
+      "",
+      "§c❤ Health§8: §c2,500",
+      "",
+      "§7Found when lathering §aFig Trees§7."
+    ],
+    "internalname": "HONEYHOG_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Honeyhog"
+    ],
+    "recipes": [
+      {
+        "level": 32,
+        "coins": 11,
+        "xp": 48,
+        "name": "§cHoneyhog",
+        "render": "@neurepo:mobs/honeyhog.json",
+        "panorama": "foraging_2",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "extra": [
+              "§eDrop Count: §7x1-2"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_FIG_LOG",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_HONEY_SPEED;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §aFig Trees§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
+  "HONEYMITE_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aHoneymite (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"HONEYMITE_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c5d82e40-57f9-3ef7-9614-7f8153d7cc6e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"AGTX2B+whEhAxzyqhDAaHrCsvwhPLZW+zuCyBFBQjVPB+pseFwYOVImgJmh6+HKt95sNZqg0H7XJ1pPKiFgxS0P4PaAThIpmPKZyqFCkkFE5Bi/ocdQZmcE+Uu/vMZ1APe3H82JEEhvKO7Jb6RIgeaV7MumQy1UoTM2tv9aricSa89H0yhCD7fGJt/PY3uQFR7fHjeM8jRiNvcELKD8tz14HRIUvF6Hhdwm9IiUOeWaOBYiYP5K3Ssuk9Jfc162H0W3GtXlKmE1Ov6Sdq99NeGmPr0MnHU6svbLKOjaZd8itY+3VLvw+lG9Xcr2arFN/oKJgSyUMGd+WjF/uPpHRv8qvNQ2kpc6faD48QCk/LYLuNS9I7V6+1KciBMawumxfvY3l4d58F08zF+IuEF7othIlf7t8kfe3MB01Y7O5VtmtrS9AektBcQQFqOMU8e5ARqX5vMIIKunYsvTTFvKmehAusEboVd+GQKu14ZQQVbzrSp22DXhEQBVClyXNXc5UeF9MUBFMAS+9tKLc6szH2SNqEwXTUzdlEHAfZQaQlAL8xP+QotNE2HVjpU162M0MX4VbjNkIwmhI+fOGgv0+wP8pwLaFjy2MzfY0DCh1YbbrHBrSGDrnB4OSf63SYNpj938OBZ9H5jHll0rjrdzwJgtb+4JbRYEAxse7pPMSXJQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjA4NSwKICAicHJvZmlsZUlkIiA6ICI3NzQ3ODc3M2ExZTE0NzUxODE0M2Q5ZDA5YTc1NmQ2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3aGF0YXJlZmVycmV0cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMjE5MjA3MGIwOWRkODVmNzY2MDk2NWE3MDQ3NGY2MjhjODc3YzA3YWZmMTRkZjU2ZjM3YmQ2MWRmMmUwOGMyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Woodland§7,  §4 Arthropod\",1:\"\",2:\"§7Loves honey, the bees are just\",3:\"§7collateral.\",4:\"\",5:\"§c❤ Health§8: §c20,000\",6:\"\",7:\"§7Found when lathering §aFig Trees§7.\"],Name:\"§aHoneymite (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Woodland§7,  §4 Arthropod",
+      "",
+      "§7Loves honey, the bees are just",
+      "§7collateral.",
+      "",
+      "§c❤ Health§8: §c20,000",
+      "",
+      "§7Found when lathering §aFig Trees§7."
+    ],
+    "internalname": "HONEYMITE_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Honeymite"
+    ],
+    "recipes": [
+      {
+        "level": 52,
+        "coins": 18,
+        "xp": 78,
+        "name": "§cHoneymite",
+        "render": "Endermite",
+        "panorama": "foraging_2",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x1-2"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "PET_ITEM_FORAGING_SKILL_BOOST_RARE",
+            "chance": "0.1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_AXE_COOLDOWN;1",
+            "extra": [
+              "§7 - Catch with §cPocket Black Hole§7.",
+              "§7 - Charm §cHoneymite§7.",
+              "§7 - Lather §6Honeycomb §7on §aFig Trees§7."
+            ],
+            "chance": "100%"
+          }
+        ]
       }
     ]
   },
@@ -148151,12 +149440,12 @@
     "recipe": {
       "A1": "MAGMA_LORD_FRAGMENT:1",
       "A2": "MAGMA_LORD_FRAGMENT:1",
-      "A3": "MAGMA_LORD_FRAGMENT:1",
-      "B1": "MAGMA_LORD_FRAGMENT:1",
-      "B2": "MAGMA_LORD_FRAGMENT:1",
+      "A3": "",
+      "B1": "",
+      "B2": "",
       "B3": "MAGMA_LORD_FRAGMENT:1",
-      "C1": "",
-      "C2": "",
+      "C1": "MAGMA_LORD_FRAGMENT:1",
+      "C2": "MAGMA_LORD_FRAGMENT:1",
       "C3": ""
     }
   },
@@ -160169,6 +161458,62 @@
       "https://hypixelskyblock.minecraft.wiki/w/Mound_Of_Seagrass"
     ]
   },
+  "MOUNTAIN_GOAT_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aMountain Goat (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"MOUNTAIN_GOAT_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f4579b42-07da-396d-a6e9-663c939b0d1c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"v/Z0j6QGbWtOyWtV/mgeXocSFxJie3bUTN3/6XAbFZCgwNwRcg5yFQwYRuMZjJ/n4o40RKt5FPkO5ff5NXG2LDG1v6ISMJBLIzAw7YNpUEhBpW01zJDbjkKHeT4aysDVXrHOs+mnyysNaONcJNYKIoLfUf74eKhcdHTPGpyVa6iJdwDCCQudPHPPTWxcpBXjRvv2W4y/NpHwrFi9OwNMSU3MR9bUigfXazOd+fUm/rikxlXlEI3QsLBYo/cNBob397Pk7ZPmHOrPCK0wHEWtXxu/6/pLY4bCGlZpzDC00YA3JxzpyAVXk3djrxWvbnkf9UGbUsFV0BZSB/i9S6ypI57AESOw7OV9ffhMbRzBXBZFjpyzWrKZL+9I7hvj7qNuyWBAGdxoTZqc5ucFvbO9SLp829gz+hee+Ps/SD9+cvppCDExwSzYHKCJXY5SuYX9rqw94R4IGfFsJ5j8kMZmS3hWsJn8jd34LdSzkihKspcuesdlBenRa9R/3robaTJQYev/+XlUEQt+Vx13lVtA0qYphzpYVpah99K2wKE7pMv6kXjogqbiD0sq504U5O96WiIAkl7UCmYTgrrmen/H+gKqll9oeEwzDCvwR6BjuejMnTl34qOn1OOVKGXKKrKdLaXcfQRZbQb5rYp1mVMyN2TJfSdsIz7q1TgkqWK905s=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNjIzNDI0MSwKICAicHJvZmlsZUlkIiA6ICI2YmU4ODdiZmRmZTk0OWQ0OGViZTcyYzA3OWM3ZGEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFuY3l2b2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmI0ZGRmZTZiOGI1Y2ZiMDNiZTZhMTczYmJiN2RmYzRhZDVkYzliN2ZkMzRkYzhlODRmYTdmNzFjMWI4NWEwMSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §a Critter\",1:\"\",2:\"§7Sometimes all that stands between\",3:\"§7you and the summit is an angry goat.\",4:\"\",5:\"§c❤ Health§8: §c20,000\",6:\"\",7:\"§7Hunted in §6Torrhus Canyon§7.\"],Name:\"§aMountain Goat (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §a Critter",
+      "",
+      "§7Sometimes all that stands between",
+      "§7you and the summit is an angry goat.",
+      "",
+      "§c❤ Health§8: §c20,000",
+      "",
+      "§7Hunted in §6Torrhus Canyon§7."
+    ],
+    "internalname": "MOUNTAIN_GOAT_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Mountain_Goat"
+    ],
+    "recipes": [
+      {
+        "level": 55,
+        "coins": 18,
+        "xp": 500,
+        "name": "§cMountain Goat",
+        "render": "Goat",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x32-64"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "40%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_SOCIAL_WISDOM;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Place §6Hunting Traps §7in §6Spring Path§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "MOUSE_PEST_TRAP": {
     "itemid": "minecraft:paper",
     "displayname": "§5Mouse Trap",
@@ -160241,6 +161586,69 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mummy_Minion_Skin"
+    ]
+  },
+  "MURKBAT_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aMurkbat (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"MURKBAT_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7a41986b-ac0f-3172-ac53-e4aa502605fa\",Properties:{textures:[0:{Name:\"textures\",Signature:\"pWU/h4ALr9IKMawA8cmjE/KNNdqeDA3ACmvLGeHHTG3Mh0znTE7uEYCFYCBrD8o2THU5pTGum3UcgyTPp5of7jdyz7WTD9qRhRKu5Zba8GlWGV1701GB/S0DO6ABzmDHhd4woSVjkF8+uw3gbI4Jxx7wybc2qCbb/pX1BcruJQ62xe5txF9U0m9LrMfP4t0Ctafgifoa0S9mSdGqZQastGa+xp9Wx0AWdfwAx6Szgprri+2m3uStpTApL9YMvvaQrNsgHU20rErp3RW0AZhU8HZB3R3PpUnKkyR2TFi1LX5fswlv3lGtfWdO1eIQi6XneJEF7x+aDt06bKgshlNFk0quH6DYGmzumKHY58mSV/Y7JAJV+y3yxNbNQyuXi/9vCOQgkhEsuqPXsDiW10IDDxN/jsGlJ4SP6SvYuEk0jyl1wNzyHk1+fBmUNmadLmwCTMNJrbYkR8MMcbRrpJLmbixBNNn0OdvKF+w5kPu6Q0vM2gn+uGc2bwjPVPznl8Uzmk24Q5fzirNxbtzmh0i6kGNM5dgHjYml2rR6b5cbl6/mmAlbyUa3PHkTR9e1OOIasHVFS1ax9Aoui2oXq2rsL/tUV/z7j3vY9RPxgObfJcC79E1irkK054EnhjCwchTTYpUmlM+AVH915T2w5FIqwjNUo6eiK2iFkbNZZEgXXyg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMzA3NywKICAicHJvZmlsZUlkIiA6ICI3MjU1MDA3NjQzYzQ0YTZiYjM3MjJlNzc3OTk5OTFkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4ZW50YW55IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FlYTNiMDAyMGQwM2EzYWVmNzJiYTE4ZjliMTkwOTM5NjgzYTZhNWEwMmMxMzAyM2VlYTY3ZmFmYWFlNjZkNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types:  Airborne, §a Critter\",1:\"\",2:\"§7Drawn to the scent of mangrove\",3:\"§7trees.\",4:\"\",5:\"§c❤ Health§8: §c25,000\",6:\"\",7:\"§7Found when lathering §2Mangrove Trees§7.\"],Name:\"§aMurkbat (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types:  Airborne, §a Critter",
+      "",
+      "§7Drawn to the scent of mangrove",
+      "§7trees.",
+      "",
+      "§c❤ Health§8: §c25,000",
+      "",
+      "§7Found when lathering §2Mangrove Trees§7."
+    ],
+    "internalname": "MURKBAT_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Murkbat"
+    ],
+    "recipes": [
+      {
+        "level": 58,
+        "coins": 19,
+        "xp": 300,
+        "name": "§cMurkbat",
+        "render": "Bat",
+        "panorama": "foraging_2",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "extra": [
+              "§eDrop Count: §7x4-8"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_MANGROVE_LOG",
+            "extra": [
+              "§eDrop Count: §7x8-16"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "MANGCORE",
+            "chance": "15%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_REKINDLE;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §2Mangrove Trees§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "MURKWATER_LOCH_PORTAL": {
@@ -171180,6 +172588,61 @@
       "https://hypixelskyblock.minecraft.wiki/w/Pandora%27s_Box"
     ]
   },
+  "PANGOLIN_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aPangolin (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"PANGOLIN_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"844b972b-2bbd-3016-b68f-49b0f4cb28aa\",Properties:{textures:[0:{Name:\"textures\",Signature:\"hqzuviHyscE+2dobi7gFLFUPUZZ1sFpxiZA4f+VJt/DHB3myaqI7iwLNd1sN/TZsgb+LhxFrouM++Zw1K8yzW4v48XGDydctM66ERxZikuKstQ1XMZmLeqalgAQIaU9D0DEeebUUwapNSr+CIoRzieJ9X9vpQjaesp2drXBG2SgStcmbsFD1eJGHJEQ977BlkjGns+RDHugEHKx+lvfGTO9g7eLZBPuqHgiIRXVyUl+fpm3VqXnEyzMR0LX65U7WAiSAVqpY0lho2dORgJ0pIXujp3doGfIs6w7GF34uw5fCIbirw1BKwDYUyR0yg8xGrjs+x9AQRhffzH5B6zXKNe+EW30vTqwwkteHL2fAmUNSbFlrU84TYE5S+Fjnc99knZXdeTQfJJjp6pRqCeEfkBGH4rN9jPk7aCLEi5tasqlJL//rymkJwoEE9zyE7NAfbKauWLwhvPEhtRyyEw1MBpCUdMgCzyO+M9vs75KpM40wt+5dcDnG6mToSafHsFA2x0tWIqNuLNm+dlwdBK4yU3YTCKa4GK5u0DdUFiuTyegPiIYvWMX5FPHfSedd0AMcl6miLw1fjQZRCkIEIE+irG4L0iFLkiZJydrcYZ4ToYBiZT9adhztCc/MLDDt4Ho7HiVDCgRRiMGQ3t86aOH7WbVnBkP9It9PcmAFmJPhdnU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MjE3OSwKICAicHJvZmlsZUlkIiA6ICI1ZTI1YzI0ZmIxMGI0MTlmOWIzYTQzMWIyOTYzYjQ2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2NHIxbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MzgwYzEwMTVhMTlhNGI2ZjJmNDVjMmJjNzhlODc4NzUyZWRhMmZjMjYzYTY4ZGEzOTg3NmFmZGQwYjA0OWRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §a Critter§7, §e Timid§7, §a Animal\",1:\"\",2:\"§7Rolls into a tight ball when\",3:\"§7threatened.\",4:\"\",5:\"§c❤ Health§8: §c2,500\",6:\"\",7:\"§7Hunted in §6Torrhus Canyon§7.\"],Name:\"§aPangolin (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §a Critter§7, §e Timid§7, §a Animal",
+      "",
+      "§7Rolls into a tight ball when",
+      "§7threatened.",
+      "",
+      "§c❤ Health§8: §c2,500",
+      "",
+      "§7Hunted in §6Torrhus Canyon§7."
+    ],
+    "internalname": "PANGOLIN_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pangolin"
+    ],
+    "recipes": [
+      {
+        "level": 14,
+        "coins": 4,
+        "xp": 300,
+        "name": "§cPangolin",
+        "render": "Armadillo",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x1-2"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "HELIXIS",
+            "chance": "1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_ATOMIZED_WHISPERS;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "PAPER": {
     "itemid": "minecraft:paper",
     "displayname": "§fPaper",
@@ -171207,6 +172670,66 @@
       "C3": "",
       "count": 3
     }
+  },
+  "PARCHED_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aParched (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"PARCHED_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"143ba372-5468-3c61-9449-6554074e4b4d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"BMZwNjdcqm6nDa56JfWcQ85lFrpNByezroU+Bnf3ti0mm3O/XNmLj3bQIT0Te/0BkhI/wnmE+aJAgSDb/ArNzx7/6/UrmeHJtB6g6/EWr8qYP917o16vfpxF3TkMYW3oGB19pLtJ10m/Pd4MOsD5wvNIBjHpErbrRj46vu3Izv8VylPhX7kqRm4oLenhhAyb0teyrxXewIRjnqyWutZkyJ97D4yImw6aTlw2NCqMA7t+WDdpYN+lGqq0I/ZJ8xFRMJHSOLz+cKW1jy+Yl2WhKwNaX4XVOO6EvsoUNm340BZ5WjTPlVWZNHlpmWJ17ncbu3suPb3KlKO/T4WEIxHTGZ/DaiTcTbN3eOUqaEDZZo9I82u27bwHnEuMGBlyvEuD16Z3V9mhTWiZbhaGZ29AGfd/KdLTN89/brZlBW1GV4Fj+hCCI9XM5YZnuz1cHJxBv/GyOe74WaQHdIuST6Jv50Jwz8qtJvmp1yHSwJ9JYQ3iPVHAmpM7PqM297KKCnXK/kYvROsZuQbSeBz7KGIrIQOze9Sgy+keIIExG0JfFdJEJfopP+160L/f1EOuL6npFS5AwW0gHlhj/YVI9MqbW/rAvuCGTverTD2DBPomfuxveAvesbHrhnPzBF3knYM0PBv257G+9fVYbre+AhU+QDNPYEUoYrMOrLQlQuf+H2U=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjM3MDk2OCwKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2JhYjI2ZWExZTk1NDY4MWU1ZmQ4MmY3M2QwMTVjNTM3MDIxMjFjYzFjYzIxOGViYTUxY2I3Y2ZiMTA2MWFiYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Woodland§7, §2 Undead\",1:\"\",2:\"§7It shall remain thirsty, no matter how\",3:\"§7much it drinks.\",4:\"\",5:\"§c❤ Health§8: §c25,000\",6:\"\",7:\"§7Found when lathering §6Helix Trees§7.\"],Name:\"§aParched (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Woodland§7, §2 Undead",
+      "",
+      "§7It shall remain thirsty, no matter how",
+      "§7much it drinks.",
+      "",
+      "§c❤ Health§8: §c25,000",
+      "",
+      "§7Found when lathering §6Helix Trees§7."
+    ],
+    "internalname": "PARCHED_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Parched"
+    ],
+    "recipes": [
+      {
+        "level": 24,
+        "coins": 8,
+        "xp": 75,
+        "name": "§cParched",
+        "render": "Parched",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x4-8"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_VISITOR_COMPOST;1",
+            "extra": [
+              "§7 - Catch with §cPocket Black Hole§7.",
+              "§7 - Charm §cParched§7.",
+              "§7 - Lather §6Honeycomb §7on §6Helix Trees§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
   },
   "PARKOUR_CONTROLLER": {
     "itemid": "minecraft:light_weighted_pressure_plate",
@@ -183123,6 +184646,87 @@
       "https://hypixelskyblock.minecraft.wiki/w/Biome_Frog_Skin"
     ]
   },
+  "PET_SKIN_FROG_BURNING": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Burning Frog Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_FROG_BURNING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"03a11f89-b2e9-30e5-8a75-91486cb3abf1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"K/UOTHvb94qfbWrI+454V2dsWNEeM+2CqrOuhsPqONpHoH+wQBDev8iLrnkRXMgVbqXL2sg5+0AvjeEe4DDO45S2jOIoVCYKSr451zZzqEFarJsDb0ectE6n8VOcR/e5w8ztW+Nx41MoHL8y6VRCqznNoUcSjskQPYIPiXIyHsC0JFJquXBD4NMbGJ1Vtf8pFic/IaHetQKkWz+SIYnAfvosB4qz821oLDGqNgzWKptmpp0eI9E/Kyg+DcyktwEzDTza3+oGGq9R6Bpq7Ixkvlq0o3lHtEKspeMztv6EsCH/qr2Aqr8lqLuxOQ7ppxY9aKc3lKHT/h7gUlyAcHs7BKfHqkyue6Hp0cpPNl77tL3SWpwaIhd/dOS4L19dBHQL316BfeZclFYBEF6+c8KKfjwMnGUvM+Q9HNnl0AUnWYlrkREYcTAmHoA9dKyULuFJjwcFyc1GgX6vtPeseZ9iOtEGdjgLSdQHyluYOFLbeAbT056TTq2WThyF1SdTuGL32ZO0Tdo7q+baMSiZ/p7h4r9fC7ujwNqC87c/DCRUA05+t75FJcusQ2MBqgMHZfEIaT6/yYUshVowAep8qmBeWxfeRpzwVGz+4mwqT02RaWxhKXrs7zKm7xn6KTWJBfBTbqFLjwTdtsBvmGnd4/XN2m6SGDlhAkk3hYXflBpmrTM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5MTM3ODMwMjA2NywKICAicHJvZmlsZUlkIiA6ICIwNDZjYmJiYzEyNWI0MTlmYTg0NjY1OTQ0MGUwMjc3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVDdXJpb3VzTWluZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzg4NTA4MmVkOGIzMGMzOGIwMGY5NjRhNzM5N2IxYWExM2M4OGQ1MGE3MzNhYzBmYjliNjVkNTU3MjEyNTBkMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aFrog\",7:\"§7pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Burning Frog Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to §aFrog",
+      "§7pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_FROG_BURNING",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "",
+    "info": []
+  },
+  "PET_SKIN_FROG_FOSSIL": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Fossil Frog Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_FROG_FOSSIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7909e8b5-09ea-3909-a4c1-544886db7408\",Properties:{textures:[0:{Name:\"textures\",Signature:\"doFWfW7WvkV4hcWEmrouT02QG6GR3vMvpTEzEu1bMiy+dA4YZiiEkK0yYeT93QHWHEFcrB/nntIjgz6Ik9D0sAmZ3iCD5ovOgRvd0V7eQfDIeFg/hqggMS9BP2wqKr1xDNU73kZ/T7V2/uA8293M5EorCAnI8xdIt7+ubbhUHnA8hWEC3ol8B2QZCmy++RRlt/5hCPOWMSAZyLnUl/QViwcBtPKTQ8KGZaoRewiZoUT42pNoBGucLzsZ9oTjvTKYIR8jPdcQVKblA+cU/jxzm3vYRbMdsFZt/e2xniua+0VwL8Ks6QBEa9a94EEwP/PK8wvO+uOQM519LRyqDk8Dphut8YB0dRTjqpWAKgdHOI5NMqENhaMOxiUh7+E39Sd4T7ImF4UVGsCXi27RS0EpjWEDSaHv0YwZk4TD5qIQINtCh+k3A3cVlSxfPj/fYqBn3fyZF7GpPXad+b2uS0B3vzGgVL+tY1zE9yicxVoV2GpSBt4mcIieFzQHX4cRNpPKqM97p1fjrR3s6ZcO+V1igUXlTIQgxNe2pn6tJOiIIUsiAS3Uy66C0K/BzA1Tr2NI8M155BqtNCwbCiEGdkar4EH5z9ZSY7H+3ApWtityKp0XsmcOp8+ZVou/3r51p/klLGRSopi/eQbqhzIDfVl/EWqesYuxiDjhvJHwisFUYJE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5MTM3ODMwMjA0NSwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxMDliOGIzOWZiZTRmNDJhMTYwZTE0ZDA2ZGFhZjBmNmMwNWNlMzU3M2VmZjJlY2YyNjAxNjI1YmJhN2IwNjciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aFrog\",7:\"§7pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Fossil Frog Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to §aFrog",
+      "§7pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_FROG_FOSSIL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "",
+    "info": []
+  },
+  "PET_SKIN_FROG_ZOMBIE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Zombie Frog Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_FROG_ZOMBIE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"739b59be-92cc-3894-b1bc-39a7d555d9bb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"py009EoF7ZwHC/JYK+veds7UEURpA9jBAp7yF1A3571DwuTZrysvIq4BInncROlFt0OPj8rJ16iMkAYcvy7bdn9fDxlx0ysajC8N9o8sKdz4lV8zIof/cyt2dUXy/IgogZ/Vmmp4h+FiiIov+aR6DxFDPVcDTwFBydv6itaXBQrWVrzYhZxu7ErLmb/Qq17kCcN3Y9YNu8r9vC7JxEBGgJKupuVBf/3UWvsXQZ0njb3iqJVFPp7c+vzULhCtB00XTarCEa8TYU6zktDx301W2hT94JCzMyQw5mQCaoJ8tQr3EVTdQiKaUQRmd4kRfyl5p+4MSPfl3i+5wmpVKjhnzJVlFV2P96nBkFMkb9HXJLR+7AlfRlcTrK3Ynxzz1HmSPTRWMqSIV/BbnYmMynLIf0J+FlaxEP6yiUyBgxwuN9na8f/e2usdSpmqon32czz5MS5oea+x7wTHouiCb4mlFTaUt9loFOejNWzZRpLo7bXQKRKoC19rKUanhFlBTuEO9Vm7kfUngN+sun0YiCjoemYpePc3Hdf3hBdX2OxkoEpqt5rwGtdqFjjonXTc9/ha9vPGE2wgB1u2jBea6nKu+MAOqnyV9gR2zUSfNO6g/zT0WloJxoutfyNzIb4pgAmiHdQgDANiWL1+DGlo+pBFMPzuHhYdJQ1pzGi1Hz/ODGU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5MTM3ODM1Mzg5MCwKICAicHJvZmlsZUlkIiA6ICJmYWU5NzYzY2FmMDU0OWI2YjlmZTM0MmNjM2E3YzNlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHUjFaWkxZMTgwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE2Y2FlYjhkN2M2NTAzMzdkZGNkODhkNWE2MjQ1M2I1MWYyNWQ5ZWQzMmViYjY1MTE5OTU2ZGUxYjk3NWUzYmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aFrog\",7:\"§7pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Zombie Frog Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to §aFrog",
+      "§7pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_FROG_ZOMBIE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "",
+    "info": []
+  },
   "PET_SKIN_GHOUL_GHOULFRIEND": {
     "itemid": "minecraft:skull",
     "displayname": "§5Ghoulfriend Ghoul Skin",
@@ -193557,6 +195161,65 @@
       }
     ]
   },
+  "POLLENDART_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aPollendart (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"POLLENDART_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f5e30a09-9173-3dbf-bc61-019b6d03e8bc\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GjLWS1hT+GOBmJ72knmCnyM8ulRexzNtWG4nhg5Az/bJtsu6+rlSw/kOX6aRHGvUrAIAu8rsIZ6ksCiEO9OYUfc472KGC3mXo1D0TEGr/SqiQjqb8BuVOHmOJUUE1WJ1z91R7oW5WDnwY8NQ5CmSQvjLHvFLD43aFwfABC3y4L68/uCwlzbDRae9MGXX6exKBWjCLib1C4CixnFkOTvixocPiYxNn/rjS+J7vGnth2AjEGEfXJMo0HR9U5jMxJzQ9Xqxj1FQZdzISku/fdWRkFkldncQg52hoRwNP07nbn1GeXhMBTYk8dGsvXiGLJGpIxip8L4/DLwiGpc5bRqgpE1w903QMcqMxzs2jyBG4dAl9IDRSbrL2H9DeRhdZqnB8Kaf7fh1yWyxZ9qOqFLZeedYqCELvl5zQVvAqm3l9rJAJwQL73U1u0QyUOM5peJkdJh1qqorpjt9XTH+7PJuzbCcuETRzVKxNTHRqHLLUNAT4utRwrFiSikn9xC/bVzjTPZcrEFJMLukP4W5HwhkFcT9RrUD4um0fyJSUXx5urW3tIA3e3UAl0qQO0nG/gIe8IaDsFOVbK/ORh8eECOPqv+XGrm/8yETgY8neBGe9+SuE98oAT2pVIZqJ91rtwMNJjHMPksc08QwMZZerkjAkMWXgHeJWgQKqnt4lQZVPEk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMzc4OCwKICAicHJvZmlsZUlkIiA6ICI4OGQ1NDUxYjFlZjg0MjdlYWZmMmVlNDEwZjMzNDJmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb25hbGRUcnVtcDQyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgxNTBhYmExMDY5NDQ4MDRjMzkwZTdkYzcwMmRhMzY0NTVlZmRjMDE2OTZmMzNkZjE0ZDdmMTQ0NjY5YWIxYTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §a Critter§7,  Airborne\",1:\"\",2:\"§7Nobody has ever reported being\",3:\"§7stung by one.\",4:\"\",5:\"§c❤ Health§8: §c2,500\",6:\"\",7:\"§7Found when lathering §6Helix Trees§7.\"],Name:\"§aPollendart (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §a Critter§7,  Airborne",
+      "",
+      "§7Nobody has ever reported being",
+      "§7stung by one.",
+      "",
+      "§c❤ Health§8: §c2,500",
+      "",
+      "§7Found when lathering §6Helix Trees§7."
+    ],
+    "internalname": "POLLENDART_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pollendart"
+    ],
+    "recipes": [
+      {
+        "level": 24,
+        "coins": 8,
+        "xp": 36,
+        "name": "§cPollendart",
+        "render": "Bee",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "extra": [
+              "§eDrop Count: §7x1-2"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_HONEY_LUCK;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §6Helix Trees§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "POMTAIR_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Pomtair (NPC)",
@@ -202938,6 +204601,62 @@
       "https://hypixelskyblock.minecraft.wiki/w/Proto-Chicken"
     ]
   },
+  "PUCK_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aPuck (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"PUCK_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a154c305-1cfb-3230-970e-aebb168f013a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"K4/yAzXIPg26JsZMVBQ5R6d01b14Yzxk7P3FXZeMcxJ5f/otOEsx9NfBp45OhO/43G38TXb/EoULJta6m7hC6g0jO+AgFc3BIz5ghmTr37P4x/ynwWeARF2u4JgPGDcyQz3E2nfMhOn63b2R9tdXZgaS1iIQtncshGdEIGPsAn9qGgrf3nm3YQ7hIrcnvf01QsdclTpqy/EPby+iNpyoSqqsSpPiOcgYOGukBBNEDOi2y+OSlHdsa+6P9FtDCSEBbvrLd0nHBrvBcNubEHG0BjhdOyL6Ozo3jucAdVFWg1a7M9VokzmybYSLl0G8coabLTxborRhG0i5O5qytVXe7vXmNfZcTD0pz0gto5tPO6BRffvc+Li3nJOoLueMuEnI82bJmlkwOkOm17ZyvTFcJuMyI5ukQwdmRV57gF4VD0Wbzx99xF0akc6vphQQ3TjhJI4/XbcbETdGTpB4MWpTWxj8i7SV3qyCIi1nFX2N5hj5JKLo/d2AxBSe8BCuyYuh+Ibyq3eqVSQz7VWkuTmM3E4Lc5XCA9SAuIaLFv05uhtnvJztSeeCViE8/QyL8mm7KDsggUaFYl4Vyrpi82cc/UIQOuz5sCHtJQlRsL0b5fYVMCee1fcBgAuFMk6uAX9Y0BG5jaR6wNNfZYQvJwfMRnqjGTmagBwd5YDHlhIzsrk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMTU0NSwKICAicHJvZmlsZUlkIiA6ICIwNWU0OTczZTk5ZDk0NGY2YjczNjY3ZTEzMzdiY2IzOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lX1NraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDY5MDJhYmJmNTI2N2U5ODVlM2UwZDRlYmEwMzU4MDkzMTMzNDQxYmIwOGNlZTQ0ZWQzMTM2ODc4ZDMwN2FmOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Woodland§7,  Airborne, §a Critter\",1:\"\",2:\"§7If they seem to be behaving, it means\",3:\"§7they've done bad elsewhere.\",4:\"\",5:\"§c❤ Health§8: §c25,000\",6:\"\",7:\"§7Found in Helix §2Tree Gifts§7.\"],Name:\"§aPuck (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Woodland§7,  Airborne, §a Critter",
+      "",
+      "§7If they seem to be behaving, it means",
+      "§7they've done bad elsewhere.",
+      "",
+      "§c❤ Health§8: §c25,000",
+      "",
+      "§7Found in Helix §2Tree Gifts§7."
+    ],
+    "internalname": "PUCK_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Puck"
+    ],
+    "recipes": [
+      {
+        "level": 58,
+        "coins": 19,
+        "xp": 300,
+        "name": "§cPuck",
+        "render": "Vex",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x1-2"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "BOTTLED_MISCHIEF",
+            "chance": "5%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_FOREST_SERENDIPITY;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Found in Helix §2Tree Gifts§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "PUDDLE_JUMPER_BRONZE": {
     "itemid": "minecraft:paper",
     "displayname": "§6Puddle Jumper §8§lBRONZE",
@@ -205590,6 +207309,60 @@
       "C3": "QUARTZ_BLOCK:1",
       "count": 4
     }
+  },
+  "QUEEN_ANT_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aQueen Ant (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"QUEEN_ANT_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"aaa66027-9c06-3e29-804f-1fef46e5d51e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"OaxVnqtbPhnaE6jcw//fcvbmJSgXN2UIuS9YNVIs64oeHT8YCavNG9oIjPzRr5carycKaDpAIyUIUj5+aqfBobmYuQ+RzArLMaZKCD0UC7oPwvLMDiCgyA6r7UKCK4d/Nj79lDd1IRApVUfp20RY6USuPCunjF1VLvrgyNxSZ1GdJSYRueUvnPrJk0qvdXyh6vEg92A7YdRr4aS54O8oUlGZzWl2tzfje+Rrh3XUR15U7UnR084tY0GX7UVcqJHVF5dTX8DzmykVVorXezfH+nM782Me20hwZisTuzLOONEHhop5sZAtTq9CxRO7mRERlTUczVQ6VSLK2n8Y6p1vomP9xRznWcvyUrOHMardsF9vLev6t09uJVtokXSCg1HjOrTTMDUT7rVnlXOdrx8JawBjyiIT3YaxoTwsCjF8swwyq15k+Ie2W8YISCrPwKzU2T2ZL/4/fIPTbcPu6En3EEP/G3pXpI0fwMbp/z/pmO2JP5Cfy52q8Ts7W/i1U/avS0R4gxbnIUQqJC0RAaJGbEtTAWHs2yeQzVwSsHuVy/tEB6NysQYciwsDawwWY9UWhGsKih/vs88mEJ+ldjdwS3vkGWrC3qLDIUh9Trl+yEn+rZ7ZfMRaX0PEk3sNKlC0s0uw879bdISlS9BtDKl3zZCGS5jNFkKw89/RukNqYpg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MjIzNDA0NDYwNSwKICAicHJvZmlsZUlkIiA6ICI0N2U2MjJjNmE1OWU0NmNhOWU3OGNjYzE1ZDliNzhhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbnRpbGFmTVgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzIxZmNmOTBkOTA5MGRlOGZkNzIwY2IyODE3YTRkZmRjMjI4M2U4MjhmZDQ0ZjhiZmRjN2ZmOWE4NTA1Y2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §2 Pest§7, §a Animal§7, §d Elusive\",1:\"\",2:\"§7Ruler of Torrhus Canyon's ant\",3:\"§7colony.\",4:\"\",5:\"§c❤ Health§8: §c25,000\"],Name:\"§aQueen Ant (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §2 Pest§7, §a Animal§7, §d Elusive",
+      "",
+      "§7Ruler of Torrhus Canyon's ant",
+      "§7colony.",
+      "",
+      "§c❤ Health§8: §c25,000"
+    ],
+    "internalname": "QUEEN_ANT_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Queen_Ant"
+    ],
+    "recipes": [
+      {
+        "level": 69,
+        "coins": 23,
+        "name": "§cQueen Ant",
+        "render": "@neurepo:mobs/ant_queen.json",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x1-2"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "HELIXIS",
+            "chance": "0.1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_ELUSIVE_RULER;1",
+            "extra": [
+              "§7 - Fusing §fAnt §7Shard with §5Queen Bee §7Shard.",
+              "§7 - Charm §cQueen Ant§7. (§aGuaranteed Drop§7)",
+              "§7 - Place §6Hunting Traps §7in §6Ant's Cave§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
   },
   "QUEEN_MISMYLA_NPC": {
     "itemid": "minecraft:skull",
@@ -217058,7 +218831,7 @@
   "ROSEMARY_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Rosemary (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"ROSEMARY_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"4f646db8-aee9-2a91-b184-516ac6fcfe54\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTkwNDNkM2QzMWM1ZTc2ZmRhNzk0OTNmZDEzZTZmOGYzMTYxYTFhM2Q4ZWM3NGM2NTc5MmYwMzQwNmEzYTFhMyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI0ZjY0NmRiOGFlZTkyYTkxYjE4NDUxNmFjNmZjZmU1NCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzUwNzAyNTE5OTI4fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Rosemary (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ROSEMARY_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"82cff447-230b-2bfb-b5e5-75b722c06f8c\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTkwNDNkM2QzMWM1ZTc2ZmRhNzk0OTNmZDEzZTZmOGYzMTYxYTFhM2Q4ZWM3NGM2NTc5MmYwMzQwNmEzYTFhMyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI4MmNmZjQ0NzIzMGIyYmZiYjVlNTc1YjcyMmMwNmY4YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkxMzg1NDE0ODcwfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Rosemary (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
@@ -217066,7 +218839,7 @@
     "internalname": "ROSEMARY_NPC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.1.0-dev+mc1.21.5+g58be5f6",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rosemary"
@@ -217096,6 +218869,13 @@
           "ESSENCE_FOREST:5000"
         ],
         "result": "FROGS_SPIRIT_SCROLL"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "ESSENCE_FOREST:2500"
+        ],
+        "result": "GRUNGLE"
       }
     ]
   },
@@ -224724,6 +226504,67 @@
       "https://hypixelskyblock.minecraft.wiki/w/Sentinel_Warden_Skin"
     ]
   },
+  "SEPIALOT_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aSepialot (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"SEPIALOT_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"65d22760-271d-3393-bb19-9d6f87fcc2c1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"glAuDU7iZbEj1uTNXSlBM4ZEY0vEC/4l9uv0+6YATsl0OLsMqW5cT4uDAsxvtbOn0u3M2EjYQv4UwP1a3Pj/WB6f1MEZRcxtU6IOigAbo3i+70pXx3wKUm8h9HVn+qPZiFrySzK92gHYqif4NjuNSUXJhOmGUC0ane2d7lpL/IvgwaficjBv4Ky8FtHvGpK8IqG3cR/FkTM8RxaVUMJCLmUBMo1BP3wRmoNSg4QDfzYrzesNBthb9zE3+DJIwtZegW8PLJbpftbut2UIU4YoPGY3XQ/E5sPqw0zO4m31odvtbk40QPhy8X2OyE8akiwbxqXUTHXOIJesx0iIrGVJjAYQIWWUHXMGho4fQYU7r0uyd94YOk10roGZyW2V079WNRy672JsPch4eoI0RJCuN/7DhAS5Vt+Cpr4ZYRYk1VdVkMWi8q9EMQlDd9JHCMxdtpYk45p6q/Xq7jWiRd2t1nefAjqOoRwNxZL8E4hqtPgJ/Dwkuo9PKM9sk00vnQtNkGwma1qxqVY8/DWxurxWEu1oP15ZQPF9E38mbtYh31AS/34p3LVIqgzvOG98SW5LPSPiQJF3t9yeK3fXjG2BkPYKDynvOuugLABfUn+Puj7SI9Y69OYWIXGXB60plJxgHsr18U6nmHSmGlEE7yMToWCwk5Xun26ahHw0GHPB+oo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMTgyMjg4ODg3OSwKICAicHJvZmlsZUlkIiA6ICJjMzI3NDg4ZmRlOTg0MzMyYjljMzNjNzRkN2IyNWNkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBTVlfVXdVMTQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzZhZTFkOWZlN2I2YWM1MGVhNDY1NDFmYTAxZDZmZjc1YTIzNmYyYTMzN2Q4NDU2NWU5MTg3OGYyZTc5ZmVkZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §a Critter§7, §e Timid§7, §9 Aquatic\",1:\"\",2:\"§7Though afraid of people, they get\",3:\"§7along with the other denizens of\",4:\"§7Torrhus.\",5:\"\",6:\"§c❤ Health§8: §c500\",7:\"\",8:\"§7Hunted in §bTorrhus Springs§7.\"],Name:\"§aSepialot (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §a Critter§7, §e Timid§7, §9 Aquatic",
+      "",
+      "§7Though afraid of people, they get",
+      "§7along with the other denizens of",
+      "§7Torrhus.",
+      "",
+      "§c❤ Health§8: §c500",
+      "",
+      "§7Hunted in §bTorrhus Springs§7."
+    ],
+    "internalname": "SEPIALOT_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sepialot"
+    ],
+    "recipes": [
+      {
+        "level": 9,
+        "coins": 3,
+        "xp": 150,
+        "name": "§cSepialot",
+        "render": "Axolotl",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "RUBY_VEILSHROOM",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "1%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_BUCKET_GREED;1",
+            "extra": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Place §6Hunting Traps §7in §6Torrhus Canyon§7. §7(§bOn Land§7)",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §bTorrhus Springs§7. §7(§bOn Land§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "SERAPHINE_RIFT_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§dSeraphine (Rift NPC)",
@@ -228078,6 +229919,61 @@
       "https://hypixelskyblock.minecraft.wiki/w/Shredded_Line"
     ]
   },
+  "SHRIEKY_TIKI_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aShrieky Tiki (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"SHRIEKY_TIKI_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6535a7e9-4643-3355-949a-94ff34a90b1a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"GWTfh+F+Ap9MmLsdJzXDz0Okn+xRJMmhar4vJYtbsSQSoaENi2GXHZm/skWpIoRYCQau4q4Rdz13LE7QxEwEtAnB6ZirzivunDT85I6XhijJbKa3iANu6eDMhlv13vbj+8t9UaMmclRGHJPE2Tm1IJ0smClKCNZZ+KJc9bJt8cL+JIGF26euHIryKGkXFCjLgfGWexwOv0yo3q1RguAFu5Icx2Ks6F3pU1KOeMdgyMwRh64pfTZzNUb20j+n7NPuh8IvF6L6Za4yK+LwfKEwHSeXh1yiOjbfh0oDFKs/5ymM3ec0BajkzOW9WkwSJpJxgo36CHYZRYqYXGNkGcrwWC/VZeVOVi5CVpeftJ69XSFyByqIklc2cqv6BW+Od4VlmRtWOECMphKzoikWmPyjA9377JeED7v42rGCfVBpfmm+t2aUgWBFFn8SQcYKfmz+gUUhgdl76jL/bG2ugqkGKep4zyQJnF5zxSKitngjTZdOzUabfST9MnCerNyhPQZr1uoZ/nmb59u1hNXeZnLvl/Rql1qX4WaUA/3rCdjj35quIf45EvdsK3tbsfY61XGvAfDAkS4y/AetRmMrZrZDKv8o0VHvWodSBqeXrBhraNpeDcYnTEsS0wRrKysXWoMM06jPTc0uMogWHOD7vptwQREUSxFuerz3lMstVuE66fE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDMzNjgzMDI4OSwKICAicHJvZmlsZUlkIiA6ICI2OTU3YjQyOTZiOTI0NGJkOGQzNWJiZGU4M2JiZDI3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2xpblBBUEEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjYyYmVmOGNhNThkODM3NjZjN2UyNmY5ZmI0ZmUwNmMxMWI5MzU0MmE5YzEwZjM2ZjQ2MGEzYjQyNzc0ODIyMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types:  Construct, §2 Woodland\",1:\"\",2:\"§7They lie dormant but aware, looking\",3:\"§7to spook fatigued explorers.\",4:\"\",5:\"§c❤ Health§8: §c50,000\",6:\"\",7:\"§7Hunted in §6Torrhus Canyon§7.\"],Name:\"§aShrieky Tiki (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types:  Construct, §2 Woodland",
+      "",
+      "§7They lie dormant but aware, looking",
+      "§7to spook fatigued explorers.",
+      "",
+      "§c❤ Health§8: §c50,000",
+      "",
+      "§7Hunted in §6Torrhus Canyon§7."
+    ],
+    "internalname": "SHRIEKY_TIKI_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Shrieky_Tiki"
+    ],
+    "recipes": [
+      {
+        "level": 71,
+        "coins": 23,
+        "xp": 106,
+        "name": "§cShrieky Tiki",
+        "render": "@neurepo:mobs/shrieky_tiki.json",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x16-32"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "20%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_CONSTRUCT_RULER;1",
+            "extra": [
+              "§7 - Catch with §cPocket Black Hole§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "SHRIMP_THE_FISH": {
     "itemid": "minecraft:fish",
     "displayname": "§cShrimp the Fish",
@@ -228555,6 +230451,82 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sharp_Rock"
+    ]
+  },
+  "SILKBREEZE_SC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§3Silkbreeze (Sea Creature)",
+    "nbttag": "{ExtraAttributes:{id:\"SILKBREEZE_SC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"fd6178fe-5ee4-39ce-b7c2-072779a3d46b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"YuQaN6DTsYSq/5yywUo24mvaB4bBnIP7LRnadsEL8FwrWTRZkxdcICeGy/wESof1L8JllxBFSs/nHv5KsQa6/V0/diZUqq4T8yDiklXgcS4NBXPIvpkxx4jVrbvH2yqfqxwPeZL6qSVYE0SJMqICtq3ayRnrYOm4E7+Ikxkd/rp3qVH+vmzgj0pf0k9FVqZrfDXjGIfMCkaUlhi/PDtXelM/+7ha9OCx4fllgi1bPCv2zIeOLwHyScsX0Uv441X5ZyZqzVk9wi4lmW0CplrmZ+/b/AhihwhEhsfvyQwm6w6Ih6lL7h6e2OHbQ0CfK3VoR5wEF7jQxELdfdvyetIwbgoUbIIe//DOeDQ9nNQr3EqQP0du7XNgDABmRwRyh/V0YYhYSsKGkmeovxXV2n6XDY4IA2+dzXP2a7HvJPtW5L3qFL4HoWBTdyq4R501HyxZfFLVW+jbEt/V6gq+6pmqLN6chfhB5PQmk77fQ5EYJzGMm4rDFjpefLZBwEUu/NioUnzP2ph9j4CpHkueF0kLlDLZwfyKinzlgOV+vQOWNgLBrXHKkS6ccN5q4DpYnbcv0DvWI7/EAVIbBLv2/3GnCEeYXKzlX0N4g4Z2ps2cPgX46PZ5Yly2W9FC/u8umaW0U5PePp1R5g5AprijfkXhKbtgbdju7RlYi6IvL2N0OMk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDIxNTk4ODQ1MywKICAicHJvZmlsZUlkIiA6ICIxMTM0OTAxMTU3ZTE0Yzg0OTE1YTNjMGY3M2RmYzM0NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJab2xlZWV5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI2MzBjMzE3MWM0MDI4NTQ0ZmY5NzliYTg3ZmEwMzEwMmFhY2JjMWU5MTdhY2U5OTg0ZDhlZTUxYTliYmQ1YmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §9 Aquatic§7,  Airborne, §d Elusive\",1:\"\",2:\"§7It weaves silk at impressive speeds\",3:\"§7as it moves.\",4:\"\",5:\"§c❤ Health§8: §c250,000\",6:\"\",7:\"§7Fished up on §6Torrhus Canyon§7.\"],Name:\"§3Silkbreeze (Sea Creature)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §9 Aquatic§7,  Airborne, §d Elusive",
+      "",
+      "§7It weaves silk at impressive speeds",
+      "§7as it moves.",
+      "",
+      "§c❤ Health§8: §c250,000",
+      "",
+      "§7Fished up on §6Torrhus Canyon§7."
+    ],
+    "internalname": "SILKBREEZE_SC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Silkbreeze"
+    ],
+    "recipes": [
+      {
+        "level": 105,
+        "coins": 210,
+        "fishing_xp": 1837,
+        "name": "§cSilkbreeze",
+        "render": "Breeze",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x4-8"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "100%"
+          },
+          {
+            "id": "SUBLIME_SILK",
+            "chance": "20%"
+          },
+          {
+            "id": "HELIXIS",
+            "chance": "1%"
+          },
+          {
+            "id": "VEILSHROOM_BUNCH",
+            "chance": "1%"
+          },
+          {
+            "id": "DISTANT_ECHO",
+            "chance": "1%"
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": "0.00002%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_FORAGERS_FORTUNE;1",
+            "extra": [
+              "§7 - Charm §cSilkbreeze§7. (§aGuaranteed Drop§7)",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "SILKRIDER_SAFETY_BELT": {
@@ -238058,6 +240030,61 @@
       }
     ]
   },
+  "SNEAKY_TIKI_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aSneaky Tiki (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"SNEAKY_TIKI_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ae7e4d37-10f9-3d37-b440-ca96f1ffe354\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Q8VcXOmfIE5A5QO2Uq30kFeTOk9Yr5/oYAwL9k76iPBZDjPyP4gjpN9XfSfF87lApgXHZrS8aCk5ApEZtHEitS7mBFYfgbalQg+XsAW1/mcKNsV+MH9+IfjCMRw8VaHOtx0DUxMyq5zJGRL7C9mueXpquIZD53PLpqyRUauBCz6i4T8ydmJ6neJ3KdKVZah5VbUQp0GvjFFOI7bY1m1AwL/Eyl+/j1+qirJXK+blfkBFdOgv0VDURoQ6Kbnkgbh15KoWz9QMc1ltMHKjgXJlYDkyrDLx+Vjb8pDQklveJrE6E2wq+T8z1dIT22HdnylgyJr5rg6VZeJ9qE78tpZe7eRcyUMdMJyqcfj3Bwkco+BjDlUM4UZAIZiZbrDsoGO6210lhupnc35iHNi1Znx4QesyLIP6ZPdEOtqZG7VwDRf0IiBIoAXa7VX2HnwrwCu3pUw1hzisJn9jPCTwReFuh6udFZxR7Enf4qAiR1n+c4CDgO8Pnmy5jdQGkXEvQW/aN7VO4FY2xvnfvB3RvJq4gX7aPu7PtfTOy50YVlhbtexLlk9asmhoKCYbnkK0AAGFOgPPYjbfBwZgYaASftSShq+lS0BtcFpZ03v7Z5OLeXVQM8JrorG27o7xadHkPaGF1GKQ2dmqLWvammvNT1ZL2q/gWvbj1h256v3DAX6QUYE=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNzcyNzQ3NiwKICAicHJvZmlsZUlkIiA6ICIyM2RjZjc3NWQ5YzQ0MGE1ODc3MjE4ZjU3NzNlMTUzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZWx1c2lvblNrZXRjaCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMGZhZDBjMWViNDI2MzM2MTBkZjdlM2YyN2Q3YzM4Y2E5YzNlNjUzMGJmZTFiYWI1YTNkNTIzODgyNGE3MzA3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types:  Construct, §2 Woodland\",1:\"\",2:\"§7They lie dormant but aware, looking\",3:\"§7to spook fatigued explorers.\",4:\"\",5:\"§c❤ Health§8: §c50,000\",6:\"\",7:\"§7Hunted in §6Torrhus Canyon§7.\"],Name:\"§aSneaky Tiki (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types:  Construct, §2 Woodland",
+      "",
+      "§7They lie dormant but aware, looking",
+      "§7to spook fatigued explorers.",
+      "",
+      "§c❤ Health§8: §c50,000",
+      "",
+      "§7Hunted in §6Torrhus Canyon§7."
+    ],
+    "internalname": "SNEAKY_TIKI_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sneaky_Tiki"
+    ],
+    "recipes": [
+      {
+        "level": 71,
+        "coins": 23,
+        "xp": 106,
+        "name": "§cSneaky Tiki",
+        "render": "@neurepo:mobs/sneaky_tiki.json",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x16-32"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "20%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_TIKI_TRACKER;1",
+            "extra": [
+              "§7 - Catch with §cPocket Black Hole§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "SNIPE;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
@@ -239720,6 +241747,63 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Soggybud"
+    ]
+  },
+  "SOLAR_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aSolar (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"SOLAR_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1a201ebd-81e5-34d4-977b-c6c079cbc89a\",Properties:{textures:[0:{Name:\"textures\",Signature:\"H47/MNBfDSNCqtMgqsRF52b0nh5jmaTAUyXpTqV8Tu07FJrspXG8AVBUvzqKCKJhy//AdFXuDycK/OgF/ZxUVwVCjqwoAZHEI51CXI84vgZQ78Ck4K3/a374kDXtrKtizwCW9uIWUKzmGG9CdSRB3L6/jTu2VjgdrYdeAaBFM1DWtLcqfOv0J2EI46nrxqFCP8WpkejE8ScgcsZttr8evyOmds3bRZaNwiLiVVlqUJOFtjbeG0OB8tjtGq1k9jt0/iEofrudEWhxnREeAT3hY10W7C5Q1CLGA3ynCwjP7BwFsbqZGA/SgtRLpX8KxrsFtkhh4jbImZ3rTNwJvyND3M8YwK9P/Uj5kbVdxlQ25vtunqlgRESZtdFxHP3ls+V2PJ8j9bxsPTb+wdctI84aKOrQDy0ipFgmJh1gFyNhceGc76OrIjkwe9/3S8D+Yi+baLE78JRiLnSqgfjyreq9LhxSgDiQwG/9RqIap8l0ZlBrTlV02NimABygv8IgZm/m7AVV0ZcObER8Xe3jjCKCeYQLnycXew6CZnJrevra7CHGCS0OpgPLVOPGpm673Mi15V+LwAL5zXlqnvcldK0mqGac3Z7e/DKMiBn+N7lXiiqN1iVhMDsedZ56/kygCpHi/yCPPLxQbaOwqzk2uqv8UMZ0X6qcG9YJL1rKugtbqD0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMTc2NDkxMTE5MiwKICAicHJvZmlsZUlkIiA6ICJiZWNlZGU1YmRkODY0YTkwOTc3MTRmODk0ZWUxNmE3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW1hQ29tcG9zZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2I2YjE4N2RmNjc0MTRiNWU5MjJiMzRmMGIwZjdhYTU4MDFjMzFhYzZlMjExMjM0Y2VmMDlmYzZlYzg5MjYyOCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §9 Aquatic§7, §a Critter\",1:\"\",2:\"§7They enter a motionless, drifting\",3:\"§7state when they run out of stored\",4:\"§7sunlight.\",5:\"\",6:\"§c❤ Health§8: §c100\",7:\"\",8:\"§7Hunted in §bTorrhus Springs§7.\"],Name:\"§aSolar (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §9 Aquatic§7, §a Critter",
+      "",
+      "§7They enter a motionless, drifting",
+      "§7state when they run out of stored",
+      "§7sunlight.",
+      "",
+      "§c❤ Health§8: §c100",
+      "",
+      "§7Hunted in §bTorrhus Springs§7."
+    ],
+    "internalname": "SOLAR_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Solar"
+    ],
+    "recipes": [
+      {
+        "level": 80,
+        "coins": 26,
+        "xp": 300,
+        "name": "§cSolar",
+        "render": "TropicalFish",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "RUBY_VEILSHROOM",
+            "extra": [
+              "§eDrop Count: §7x1-2"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "0.5%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_STARLYN_TRAINING;1",
+            "extra": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "SOLAR_PANEL": {
@@ -245326,6 +247410,77 @@
       "https://hypixelskyblock.minecraft.wiki/w/Spotlite"
     ]
   },
+  "SPRAWL_SC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§3Sprawl (Sea Creature)",
+    "nbttag": "{ExtraAttributes:{id:\"SPRAWL_SC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2caf57da-1517-3035-aea7-03878941d68b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"aqZ/8dc+BPcLXK8Ojqh0ivHGyO0G0Pu5L/6hhE3iT4/Wdgk1Uw3DAs0LYfGnNZF3Y10s4aDLZNy411moadEAgOBkeHnRl83SQD/okcdRVyEvqwz7prtpE7pEKqCFBxJXdtwWzdteUddShvSOTw2bR3Qumrkcb2vSYvWOo84AUlLcoukvrGkUBjhyHQaMszqiVbt6c/SFqUJDg9ysBu8Eu441t6z+j1dnvqrYdyh6t9IFm9gqyVU5SeSoxLC3FQIpbm045oL9GnOmVM9SqlZylHLDfQRXzOZd0syIs6H8G9+6vG2n0ph2Czykl+5QtEI8Jni6n+bAShCCcg3gkte2yOOVuQ0fa13UuQ9IelU3fuubOne9D+CdbOKDRpLrKc4dwS96I1r0DEFHjqux167ZmWaiQyIN//vbw7uUNtf1HfCJwF1LHoOD3hSfrjPAXeBI8SftLyMdrFdiH/Jhp8zJNAvyd6aa+3y3emuPkCtScOkwrJ9T4Z1jtqSes5XxNl+KWsLLIOkEVWLQjEUQip1asVX9a73PfqUmhtD8E5k0iM1yDnkJ2DtxT8ZpL0CTLjKis6BktUzHOZaTcGiqzqALYlJ+mIKyMfGqRys6jy3dCBz5Eo0Dr3V0vSYR4mR4hEGKwShqTiSbjj1vF3aFHN4o3MnVgUDTlM8TxCCUtPffs0o=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjYyNzI0NywKICAicHJvZmlsZUlkIiA6ICI4ODYyYjU4ZWI4YjE0MTg5OGY3MWE0YjI2MDA3ZWVkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYWJyaWV3RiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YmJlNmE3OGI4YjliMWJlZTQ0NThmYWU2MzNkZWNhN2RjOWRhMzE1ODliOTg5MDNjOWU4NzFlZmNiNDE2YWVhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §9 Aquatic§7,  Airborne\",1:\"\",2:\"§7A distant relative of the Puck, it's\",3:\"§7always scheming.\",4:\"\",5:\"§c❤ Health§8: §c50,000\",6:\"\",7:\"§7Fished up on §6Torrhus Canyon§7.\"],Name:\"§3Sprawl (Sea Creature)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §9 Aquatic§7,  Airborne",
+      "",
+      "§7A distant relative of the Puck, it's",
+      "§7always scheming.",
+      "",
+      "§c❤ Health§8: §c50,000",
+      "",
+      "§7Fished up on §6Torrhus Canyon§7."
+    ],
+    "internalname": "SPRAWL_SC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sprawl"
+    ],
+    "recipes": [
+      {
+        "level": 71,
+        "coins": 88,
+        "fishing_xp": 887,
+        "name": "§cSprawl",
+        "render": "Phantom",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "HELIX_LOG",
+            "extra": [
+              "§eDrop Count: §7x32-64"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "RUBY_VEILSHROOM",
+            "extra": [
+              "§eDrop Count: §7x8-16"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "25%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "5%"
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": "0.0000002%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_ANIMAL_RULER;1",
+            "extra": [
+              "§7 - Charm §cSprawl§7.",
+              "§7 - Place §6Hunting Traps §7in §bSpring Shallows§7. §7(§bUnderwater§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "SPRAYONATOR": {
     "itemid": "minecraft:paper",
     "displayname": "§aSprayonator",
@@ -246835,6 +248990,65 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Staff_of_the_Volcano"
+    ]
+  },
+  "STAG_BEETLE_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aStag Beetle (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"STAG_BEETLE_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9e0fbacc-86f2-3a06-9373-c2f8db8541d0\",Properties:{textures:[0:{Name:\"textures\",Signature:\"RL7mfHmybnIFEnKfa5V14t3i/nispd20ipAIvQEev48NwcHCb9ONULVW8eUl3WbtoTsj9Zjk2URsv59wrcYwA3Rl0bnL24rAMgSzUb8x/UCdnaZBDY48Znxe2UMVWQxblcmpDImPPa9XNX3PV8c0R/PHI6DShZh1AOBJbf9BR7sUnyZHrwTh00ilBAWFLfpL/a06KGiEHihlrgQJJl2d6TlEyVS2AaRo89aK5LvRV8Xx9GsopE92BIEakzXq3+Cnrbthi3kAQtb0OLrVM+Q3ljEE5tdwZn8bseddJ8LEA0FPmPx96jIzaqwZAxZYFTdvu5s0aW2k6E9IJz00rDizw7jh04Y45cUl1IB+0V1WdTfuzwwqQHaWAOylMY6WJVEXq6hkWT2JmUI2SwrKQFe5GfGbTuRZySXmbaWUSqq6lOBrxxz+IDcf2UOaX6cyN1wxEcTx32saM5RoQVob1BGPMb6CVfsjmxMWHKuvS36784fph3JLeOjl2WQZXlXjnJ/+08FJteTYeB1XizI7Ybv3hhdL05h+CvqRwi6NozApHVqX18fiqyvi5n3/EexrRe9qy9IslAP5Q3VgaPy5HzooQbDzheboIjrn6z1KQiFx03AyPyKeBluyjHNAH7J+vz1n+gDzf3hIRp2dobynj+wDEjIHYWaLD7mGIsS4lY3QpxY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwODg3MTA0MiwKICAicHJvZmlsZUlkIiA6ICI5MTU1ZmYzNTNlMzc0ZmZlYjE0MmE5NmU2MzU2ZjA4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbG5hZFhCIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1NGI1NGU1YmZmZmU3MjUwYWEzYTA5MWI2OGYxZGQzZjUxZmZjNzY5N2QyZTNmMjFhZDAzOTI1ODllYjYxMzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §a Critter§7, §4 Arthropod\",1:\"\",2:\"§7Reaches a new level of intimidating\",3:\"§7once you realize it can fly.\",4:\"\",5:\"§c❤ Health§8: §c5,000\",6:\"\",7:\"§7Found when lathering §2Mangrove Trees§7.\"],Name:\"§aStag Beetle (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §a Critter§7, §4 Arthropod",
+      "",
+      "§7Reaches a new level of intimidating",
+      "§7once you realize it can fly.",
+      "",
+      "§c❤ Health§8: §c5,000",
+      "",
+      "§7Found when lathering §2Mangrove Trees§7."
+    ],
+    "internalname": "STAG_BEETLE_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Stag_Beetle"
+    ],
+    "recipes": [
+      {
+        "level": 29,
+        "coins": 9,
+        "xp": 75,
+        "name": "§cStag Beetle",
+        "render": "@neurepo:mobs/stag_beetle.json",
+        "panorama": "foraging_2",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "extra": [
+              "§eDrop Count: §7x1-2"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_MANGROVE_LOG",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_WOODLAND_RESISTANCE;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §2Mangrove Trees§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "STAINED_CLAY-1": {
@@ -264440,6 +266654,55 @@
       "https://hypixelskyblock.minecraft.wiki/w/Time_Shuriken"
     ]
   },
+  "TIMIL_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aTimil (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"TIMIL_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a35dfa36-c2f4-3b1c-a31a-796efb601c1b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"tu2hiD8aAGODWCuxEzTy93zDBzwVwoMKYcto+aYi5IVmvPOUwm0kd6H1pZNs1kWDEvZR6y5uXhqy1ewXyEdbCuUP6sWpmM0RqZJPXU3uw/h44/mvx3hQKi56BPttfoQqLvddtkPg9W/PtELu012YMUV2gmwneT/7h3Mn6fKg6ToEuwkEfdItsU8uvmZlnteC97lQcxOAT4PDikD9+RXDdy1WBSnxAsDWEyvY8K/wsuzakblGrOgv7GveUiHj7y/W4qe0mqcivG7eQ2ea8EG5umuwt80wHcFWS4PCEPaxkG2MXGSZmBOS0oa25Y24nNc4Vup7TK8CANTmYaf6H2AQDEjOYvw/coAxW6xlBRmutQUp4sWXoE964aO1vh2SvskaZ+vJLOOx7Zwl0e+Ol2kqyKa3+P/mj1FlAlFtGR4YM1WD7uQjTzDnN3Akeb2as+Qhb74L8jYNZbNayPX3GaASMOusXBX311u8gJGk7aJzXZQynOunV9qzaWtD9DUgEBFuOHoxQPPFPFWT2WhzHxcOsacbWWJwRwBQSryR+agSIPaqWylNOqteJQYe2816sx0iPW99PK/zV6edRqUXTH3P4R7+Wc92bfxMBOfn/I8q84x9Wuh12DJX9OSdsCQ9dkqytVFXFLiqwk/GfcdDVGn3p5jhMuHRCI0uRz5+hzhB7xo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3ODY1NjE5OTQ1OSwKICAicHJvZmlsZUlkIiA6ICIyYmQyZTAxNGI5YWE0YzRjYmRmMzdmZjc5MzE2NDE5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXRvU2tpbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNWMwMjRhZWVjMWM4ZGM5OGYyYjQyYWRkNWIwZjAyMDc4OGMzZjk4MGRmZjVlODYzNjM2NzYxZTYwYzVlZmZlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §9 Aquatic§7, §a Critter§7, §e Timid\",1:\"\",2:\"§7Spooks at the slightest change in\",3:\"§7water pressure.\",4:\"\",5:\"§c❤ Health§8: §c50\",6:\"\",7:\"§7Hunted in §6Torrhus Canyon§7.\"],Name:\"§aTimil (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §9 Aquatic§7, §a Critter§7, §e Timid",
+      "",
+      "§7Spooks at the slightest change in",
+      "§7water pressure.",
+      "",
+      "§c❤ Health§8: §c50",
+      "",
+      "§7Hunted in §6Torrhus Canyon§7."
+    ],
+    "internalname": "TIMIL_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Timil"
+    ],
+    "recipes": [
+      {
+        "level": 1,
+        "coins": 1,
+        "xp": 75,
+        "name": "§cTimil",
+        "render": "TropicalFish",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "RAW_FISH",
+            "chance": "100%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_TORRHUS_DIVER;1",
+            "extra": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Place §6Hunting Traps §7in §6Spring Path§7. §7(§bUnderwater§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "TIMITE": {
     "itemid": "minecraft:skull",
     "displayname": "§9Timite",
@@ -266485,6 +268748,80 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Torrhus_Talisman"
+    ]
+  },
+  "TORRID_SC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§3Torrid (Sea Creature)",
+    "nbttag": "{ExtraAttributes:{id:\"TORRID_SC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"494f12a3-d931-356e-bf68-7d0bf86514e7\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Q09Js22cZd6lmynN0rYE5QyWimTwEDUzuVnTymeJazUUi2maBa2WqyUXI2qcEfns8ZLwxpSFWZ8sPcI+VK6HdYAz1s2T5hnzDoapQ6FbiFJQRKVYGGTgWNRfrn2/6zFBp5SEm4uJUPYq9vQLvaXUjYz6uRAOJaKLA/nEIDKNQew3pLL4r/bY0M7y+IsOpodslLYIsxbpMPb1DYeOBUEWc0MyFRSvbDLjrGx5QlfJdj7IJDe2W9O1zMxBXO69sikOIzY1gPrru20Ky/Vb6CxDL9wrWDiB4kvQK4WNvrLk+pOudpU1kGZAiLfKsMu9OKRB0/HaG8BOkeyQtUnuZhK+ofOQOWRipRY8/WfLQzbdALPKSLg+ZGKv3aRk+4pF/f4xjWdGWBPLVc4oAOZFgnLG9/Gxd/Q2gsEU03uj5HMbcrWRPKkKtgigTAjE8WzWa7LrN+9d2yWnYngdhPVsmwCsb6gZl3xriccnAJBiReWqaqOWY0Fu8OZlT8KZKzuy/saGGPuZ7oWlkBB9Skvv5hNxoG7sIMXRvlGbKBkBLXvFyZIXF7EzHsa2iCjh5FTvAfAFomKrQcoXizdwwS7RxBFvL0ks5U9Fw53juwn05/jffViDRZywCwL0orWFPkgw9cB9dUHX6pgh5eUWI0mS0H2w7BFOvnPZuT15Dzg/sitrstg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4NDEyNjgwMjE1MCwKICAicHJvZmlsZUlkIiA6ICI2YmU4ODdiZmRmZTk0OWQ0OGViZTcyYzA3OWM3ZGEyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmFuY3l2b2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWRhMTQ1MjU0YTU5ZWZjZTU3MTg2ZTZjOTliNjRiYTBlODY4MDNhNDQ5NmNkYmU4Yzk2Y2MxM2RkYTcxYWEyNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §9 Aquatic§7,  Airborne\",1:\"\",2:\"§7Always up to no good. When they get\",3:\"§7together with Pucks, even more\",4:\"§7trouble is caused.\",5:\"\",6:\"§c❤ Health§8: §c100,000\",7:\"\",8:\"§7Fished up on §6Torrhus Canyon§7.\"],Name:\"§3Torrid (Sea Creature)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §9 Aquatic§7,  Airborne",
+      "",
+      "§7Always up to no good. When they get",
+      "§7together with Pucks, even more",
+      "§7trouble is caused.",
+      "",
+      "§c❤ Health§8: §c100,000",
+      "",
+      "§7Fished up on §6Torrhus Canyon§7."
+    ],
+    "internalname": "TORRID_SC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Torrid"
+    ],
+    "recipes": [
+      {
+        "level": 85,
+        "coins": 127,
+        "fishing_xp": 1275,
+        "name": "§cTorrid",
+        "render": "Allay",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HELIX_LOG",
+            "chance": "100%"
+          },
+          {
+            "id": "RUBY_VEILSHROOM:32",
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "20%"
+          },
+          {
+            "id": "HELIXIS",
+            "chance": "0.2%"
+          },
+          {
+            "id": "VEILSHROOM_BUNCH",
+            "chance": "0.2%"
+          },
+          {
+            "id": "WATER_HYACINTH",
+            "chance": "1%"
+          },
+          {
+            "id": "DYE_AQUAMARINE",
+            "chance": "0.0000004%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_FIRST_SWEEP;1",
+            "extra": [
+              "§7 - Charm §cTorrid§7.",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "TOTEM": {
@@ -283369,6 +285706,62 @@
       }
     ]
   },
+  "WATER_SNAKE_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aWater Snake (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"WATER_SNAKE_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1c5b1500-18be-378f-ad31-3948762c6efd\",Properties:{textures:[0:{Name:\"textures\",Signature:\"bLNVIBnFss+waOh4uipFXCejl9I7I/MRGoLnfUgMmKisW5vI9dDGb01lclN/TU8j7+S5CvlmLS60yE48CXd1VlOYfMwsoADCE3XUki+YyThVvt01goomfs2NQ3EDSwg9zQGtO/qL7BwobJvZL2YnGdveMsc4Mltg3IV1ty6xVogCQ8z1oDRdtO9SfyC3jlyIO+OVcO+PzvZm3TzzsfOB0uO5Vvk0wSoJRiZ5C94CDt2k7Ay3/mT5vD9stZ4MSpRjcFd5vab86xjVbuPzewfoPabMxDwDYPDsSDw5DOf/npIwUSbd75X8+WldR8Eg1ZL4vfX8anlHUj2t+Dg9QBmAeUYzULAnaRJvxDHEqmPPrwi+CoOhKV459eQbwvdEephlvHgT4AH+iVTWkgim4g/cEpBYgNn05gLJ5w2uaBrKPBnOWX9fdi6qX8Bqh5fLsmVa+5lval9tuGsTg7AxqLuc+wtKd/oaI6TzTq7d3mJnE1+OwWv/qTb+QFIpWP2nNpJzfbMRNIJsptQoo/kbZwxHKVhxeNJRqvVHHscuadbEdoQpL/qXWAmabPIcAcCqPIXQxI8/qwOxlydjLaiYohGlTflkL7xr5kBjIdHwEasYlV5I/MwDSPlBtddEjd6bJXTOaLkB6AI+ZqUAhA/1FNf+DaJiOXnSDv0EIVr/6yZoHIc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4OTcwNjk0NywKICAicHJvZmlsZUlkIiA6ICI2NmRmYzFmNTRlNTU0ZTZmODJjNTA5ZjM1NTJiYTkwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJadWFyaWciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWIwNmQxNTE1NWM2MGQwZjBmMjY3YmUwNWM4NDM2YzVhMWU3NjRhOGM4YWNhMjM2YmIzNzIyM2Y0OWQ5YTFkMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §9 Aquatic§7, §a Critter\",1:\"\",2:\"§7Bites first, asks questions later.\",3:\"\",4:\"§c❤ Health§8: §c1,000\",5:\"\",6:\"§7Hunted in §bTorrhus Springs§7.\"],Name:\"§aWater Snake (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §9 Aquatic§7, §a Critter",
+      "",
+      "§7Bites first, asks questions later.",
+      "",
+      "§c❤ Health§8: §c1,000",
+      "",
+      "§7Hunted in §bTorrhus Springs§7."
+    ],
+    "internalname": "WATER_SNAKE_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Water_Snake"
+    ],
+    "recipes": [
+      {
+        "level": 25,
+        "coins": 8,
+        "xp": 150,
+        "name": "§cWater Snake",
+        "render": "@neurepo:mobs/water_snake.json",
+        "panorama": "foraging_3",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "RUBY_VEILSHROOM",
+            "extra": [
+              "§eDrop Count: §7x32-64"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_RUBY_VEILSHROOM",
+            "chance": "20%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_TITANOBOA_TRACKER;1",
+            "extra": [
+              "§7 - Catch with a §3Fishing Net§7.",
+              "§7 - Place §6Hunting Traps §7in §dHotspot Haven§7. §7(§bUnderwater§7)",
+              "§7 - Place §6Hunting Traps §7in §9Spring Depths§7. §7(§bUnderwater§7)"
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
+    ]
+  },
   "WATER_TROUGH": {
     "itemid": "minecraft:skull",
     "displayname": "§fWater Trough",
@@ -289233,6 +291626,65 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wooden_Bait"
+    ]
+  },
+  "WOODLOUSE_MONSTER": {
+    "itemid": "minecraft:skull",
+    "displayname": "§aWoodlouse (Monster)",
+    "nbttag": "{ExtraAttributes:{id:\"WOODLOUSE_MONSTER\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8ba2da43-622f-3a37-b98b-e9c2acc07193\",Properties:{textures:[0:{Name:\"textures\",Signature:\"He1MlapNT2UagWD0nLNpCRArsIlMr8ld1ZBRjtDZ08hHYmgQVw01XqMc9JAl5ywzyloIDiiF9v4JfDoVoe+2t9Ok8YqAUhQwkvrrs3IQ0ylp6Or6nbJF2V5pak1DFS2iaBHxEM07PyBPPfmPY8aTHCdJlILormYZQVFVgaS7SFqP3KfKK0wvX0XxZPPKcO0Gzcu40OITO2LZruYYK9h2CrX4CE++mcbg9gCEkvxjpsXHiQkY6Gv1sM6OqI/q37YDcaosph7+DiiwtjQbuObKqx2yhBUwK+qFGSY5dpyADU0vxZiNdXc3bIEJ2k6pENdpbpXpNTwglzgwXSulYofYJzssrhfwJJkvmWen2gAELeHfD2g5uohAJVwxef+UgtqbL0nXXcAndPnelFXsqBxUz/tG2E2NuMV9J+Gq/khYiXNFZXGKvRmi5S+ddAcFpQvAl0js3XqHvdL5AMIjRjDrYG3OQcNwUrXkW/PiOXSDcrLC9oZJaNeuYehEoSUtlrUi13d5xYUEfIsmkC8uGTdc4/84rp0pH9eA07wsYGR7Jf/z3PgntagcS6kl+IlPguWcXZwz9QJ3NSpNoAFVjaOENu9uewZk3R7OgaOrs3NtO9y6boU/Ui2RqMIU+0Oe2A3LiVEr4gjZMHL871Hl4sosSg8JIaiqZNYclBB4JjAVxh0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc4MzcwODg2OTg0MywKICAicHJvZmlsZUlkIiA6ICJjMjVlMWMxZTE1YTQ0N2IwOTQ2Zjg2YzYzYzhjYjZkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYm9zMzIxIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwNTU2ZDQ0YzFhOWNiNWU0OWFiZTRkYjgxZDViNzc1MGQ4ZjAxOGYzYWJkMTZlZmVjYjllNzJlYThlOGE3YzgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Mob Types: §a Critter§7, §4 Arthropod\",1:\"\",2:\"§7Lives on land and has a set of gills,\",3:\"§7how strange!\",4:\"\",5:\"§c❤ Health§8: §c1,000\",6:\"\",7:\"§7Found when lathering §2Mangrove Trees§7.\"],Name:\"§aWoodlouse (Monster)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Mob Types: §a Critter§7, §4 Arthropod",
+      "",
+      "§7Lives on land and has a set of gills,",
+      "§7how strange!",
+      "",
+      "§c❤ Health§8: §c1,000",
+      "",
+      "§7Found when lathering §2Mangrove Trees§7."
+    ],
+    "internalname": "WOODLOUSE_MONSTER",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Woodlouse"
+    ],
+    "recipes": [
+      {
+        "level": 29,
+        "coins": 9,
+        "xp": 75,
+        "name": "§cWoodlouse",
+        "render": "@neurepo:mobs/woodlouse.json",
+        "panorama": "foraging_2",
+        "type": "drops",
+        "drops": [
+          {
+            "id": "ENCHANTED_HONEYCOMB",
+            "extra": [
+              "§eDrop Count: §7x2-4"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ENCHANTED_MANGROVE_LOG",
+            "extra": [
+              "§eDrop Count: §7x4-8"
+            ],
+            "chance": "100%"
+          },
+          {
+            "id": "ATTRIBUTE_SHARD_VISITOR_CHEESE;1",
+            "extra": [
+              "§7 - Catch with §2Lasso§7.",
+              "§7 - Lather §6Honeycomb §7on §2Mangrove Trees§7."
+            ],
+            "chance": "100%"
+          }
+        ]
+      }
     ]
   },
   "WOOD_AXE": {
