@@ -184670,8 +184670,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Burning_Frog_Skin"
+    ]
   },
   "PET_SKIN_FROG_FOSSIL": {
     "itemid": "minecraft:skull",
@@ -184697,8 +184699,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fossil_Frog_Skin"
+    ]
   },
   "PET_SKIN_FROG_ZOMBIE": {
     "itemid": "minecraft:skull",
@@ -184724,8 +184728,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Zombie_Frog_Skin"
+    ]
   },
   "PET_SKIN_GHOUL_GHOULFRIEND": {
     "itemid": "minecraft:skull",
