@@ -963,7 +963,7 @@
   "ABSORB;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{absorb:1},id:\"ABSORB;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Absorb I\",3:\"§7Grants §3+1☯ Foraging Wisdom §7and\",4:\"§6+2☘ Foraging Fortune§7.\",5:\"§81k logs to tier up!\",6:\"\",7:\"§e▲ §7Absorb cannot be combined!\",8:\"\",9:\"§6Sources:\",10:\" §7- Community Shop (§aI§7)\",11:\" §7- Bazaar (§aI§7)\",12:\"\",13:\"§6Applied To:\",14:\" §7- §fAxe\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{absorb:1},id:\"ABSORB;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Absorb I\",3:\"§7Grants §3+1☯ Foraging Wisdom §7and\",4:\"§6+2☘ Foraging Fortune§7.\",5:\"§81k logs to tier up!\",6:\"\",7:\"§8Break 1k Logs for Tier II\",8:\"§8Break 5k Logs for Tier III\",9:\"§8Break 25k Logs for Tier IV\",10:\"§8Break 100k Logs for Tier V\",11:\"§8Break 300k Logs for Tier VI\",12:\"§8Break 1.5M Logs for Tier VII\",13:\"§8Break 5M Logs for Tier VIII\",14:\"§8Break 10M Logs for Tier IX\",15:\"§8Break 25M Logs for Tier X\",16:\"\",17:\"§e▲ §7Absorb cannot be combined!\",18:\"\",19:\"§6Sources:\",20:\" §7- Community Shop (§aI§7)\",21:\" §7- Bazaar (§aI§7)\",22:\"\",23:\"§6Applied To:\",24:\" §7- §fAxe\",25:\"\",26:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -972,6 +972,16 @@
       "§7Grants §3+1☯ Foraging Wisdom §7and",
       "§6+2☘ Foraging Fortune§7.",
       "§81k logs to tier up!",
+      "",
+      "§8Break 1k Logs for Tier II",
+      "§8Break 5k Logs for Tier III",
+      "§8Break 25k Logs for Tier IV",
+      "§8Break 100k Logs for Tier V",
+      "§8Break 300k Logs for Tier VI",
+      "§8Break 1.5M Logs for Tier VII",
+      "§8Break 5M Logs for Tier VIII",
+      "§8Break 10M Logs for Tier IX",
+      "§8Break 25M Logs for Tier X",
       "",
       "§e▲ §7Absorb cannot be combined!",
       "",
@@ -108876,7 +108886,7 @@
         "level": 13,
         "coins": 4,
         "xp": 300,
-        "name": "§cSepialot",
+        "name": "§cGoldolot",
         "render": "Axolotl",
         "panorama": "foraging_3",
         "type": "drops",
@@ -167191,7 +167201,7 @@
   "NEW_BOTTLE_OF_JYRRE": {
     "itemid": "minecraft:potion",
     "displayname": "§cBottle of Jyrre",
-    "nbttag": "{CustomPotionEffects:[],ExtraAttributes:{bottle_of_jyrre_seconds:380,id:\"NEW_BOTTLE_OF_JYRRE\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§7Consume to boost your §b\",1:\"§bIntelligence §7for §a60m§7.\",2:\"\",3:\"§7Keep this item in your inventory to\",4:\"§7increase the bonus up to §b+300\",5:\"§bIntelligence§7, at which point the item\",6:\"§c§oevolves§7!\",7:\"\",8:\"§7Current Bonus: §b+0 Intelligence\",9:\"\",10:\"§9§lRARE\"],Name:\"§cBottle of Jyrre\"}}",
+    "nbttag": "{CustomPotionEffects:[],ExtraAttributes:{id:\"NEW_BOTTLE_OF_JYRRE\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§7Consume to boost your §b\",1:\"§bIntelligence §7for §a60m§7.\",2:\"\",3:\"§7Keep this item in your inventory to\",4:\"§7increase the bonus up to §b+300\",5:\"§bIntelligence§7, at which point the item\",6:\"§c§oevolves§7!\",7:\"\",8:\"§7Current Bonus: §b+0 Intelligence\",9:\"\",10:\"§9§lRARE\"],Name:\"§cBottle of Jyrre\"}}",
     "damage": 0,
     "lore": [
       "§7Consume to boost your §b",
@@ -167209,7 +167219,7 @@
     "internalname": "NEW_BOTTLE_OF_JYRRE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
@@ -197378,8 +197388,8 @@
   "POTION_ABSORPTION;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fAbsorption I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0b,Duration:20,Id:12b,Amplifier:0b}],HideFlags:254,display:{Lore:[0:\"\",1:\"§6Absorption I §f(3:00)\",2:\"§7Grants §a+20 §7of absorption.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fAbsorption I Potion\"},ExtraAttributes:{potion_level:1,potion:\"absorption\",effects:[0:{level:1,effect:\"absorption\",duration_ticks:3600}],potion_type:\"POTION\",id:\"POTION_ABSORPTION;1\"}}",
-    "damage": 3,
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:12B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:12B}],ExtraAttributes:{effects:[0:{duration_ticks:3600,effect:\"absorption\",level:1}],id:\"POTION_ABSORPTION;1\",potion:\"absorption\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§6Absorption I §f(3:00)\",2:\"§7Grants §a+20 §7of absorption.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fAbsorption I Potion\"}}",
+    "damage": 0,
     "lore": [
       "",
       "§6Absorption I §f(3:00)",
@@ -197388,10 +197398,11 @@
       "§f§lCOMMON"
     ],
     "internalname": "POTION_ABSORPTION;1",
-    "crafttext": "",
     "clickcommand": "viewpotion",
-    "modver": "",
-    "infoType": ""
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "",
+    "info": []
   },
   "POTION_ABSORPTION;2": {
     "itemid": "minecraft:potion",
@@ -197788,9 +197799,10 @@
   "POTION_ALCHEMY_XP_BOOST;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fAlchemy XP Boost I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"alchemy_xp_boost\",level:1}],id:\"POTION_ALCHEMY_XP_BOOST;1\",potion:\"alchemy_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aAlchemy XP Boost I §f(12:00)\",1:\"§7Grants §3+5☯ Alchemy Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fAlchemy XP Boost I Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"alchemy_xp_boost\",level:1}],id:\"POTION_ALCHEMY_XP_BOOST;1\",potion:\"alchemy_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aAlchemy XP Boost I §f(12:00)\",2:\"§7Grants §3+5☯ Alchemy Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fAlchemy XP Boost I Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aAlchemy XP Boost I §f(12:00)",
       "§7Grants §3+5☯ Alchemy Wisdom§7.",
       "",
@@ -197799,16 +197811,17 @@
     "internalname": "POTION_ALCHEMY_XP_BOOST;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_ALCHEMY_XP_BOOST;2": {
     "itemid": "minecraft:potion",
     "displayname": "§fAlchemy XP Boost II Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"alchemy_xp_boost\",level:2}],id:\"POTION_ALCHEMY_XP_BOOST;2\",potion:\"alchemy_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aAlchemy XP Boost II §f(24:00)\",1:\"§7Grants §3+10☯ Alchemy Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fAlchemy XP Boost II Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"alchemy_xp_boost\",level:2}],id:\"POTION_ALCHEMY_XP_BOOST;2\",potion:\"alchemy_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aAlchemy XP Boost II §f(24:00)\",2:\"§7Grants §3+10☯ Alchemy Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fAlchemy XP Boost II Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aAlchemy XP Boost II §f(24:00)",
       "§7Grants §3+10☯ Alchemy Wisdom§7.",
       "",
@@ -197817,16 +197830,17 @@
     "internalname": "POTION_ALCHEMY_XP_BOOST;2",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_ALCHEMY_XP_BOOST;3": {
     "itemid": "minecraft:potion",
     "displayname": "§aAlchemy XP Boost III Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"alchemy_xp_boost\",level:3}],id:\"POTION_ALCHEMY_XP_BOOST;3\",potion:\"alchemy_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aAlchemy XP Boost III §f(36:00)\",1:\"§7Grants §3+20☯ Alchemy Wisdom§7.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aAlchemy XP Boost III Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"alchemy_xp_boost\",level:3}],id:\"POTION_ALCHEMY_XP_BOOST;3\",potion:\"alchemy_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aAlchemy XP Boost III §f(36:00)\",2:\"§7Grants §3+20☯ Alchemy Wisdom§7.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aAlchemy XP Boost III Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aAlchemy XP Boost III §f(36:00)",
       "§7Grants §3+20☯ Alchemy Wisdom§7.",
       "",
@@ -197835,7 +197849,7 @@
     "internalname": "POTION_ALCHEMY_XP_BOOST;3",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
@@ -198141,7 +198155,7 @@
   "POTION_COMBAT_XP_BOOST;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fCombat XP Boost I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0b,Duration:20,Id:22b,Amplifier:0b}],HideFlags:254,display:{Lore:[0:\"\",1:\"§aCombat XP Boost I §f(12:00)\",2:\"§7Grants §3+5☯ Combat Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fCombat XP Boost I Potion\"},ExtraAttributes:{potion_level:1,potion:\"combat_xp_boost\",effects:[0:{level:1,effect:\"combat_xp_boost\",duration_ticks:14400}],potion_type:\"POTION\",id:\"POTION_COMBAT_XP_BOOST;1\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"combat_xp_boost\",level:1}],id:\"POTION_COMBAT_XP_BOOST;1\",potion:\"combat_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aCombat XP Boost I §f(12:00)\",2:\"§7Grants §3+5☯ Combat Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fCombat XP Boost I Potion\"}}",
     "damage": 0,
     "lore": [
       "",
@@ -198151,17 +198165,19 @@
       "§f§lCOMMON"
     ],
     "internalname": "POTION_COMBAT_XP_BOOST;1",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.2.1",
-    "infoType": ""
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "",
+    "info": []
   },
   "POTION_COMBAT_XP_BOOST;2": {
     "itemid": "minecraft:potion",
     "displayname": "§fCombat XP Boost II Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"combat_xp_boost\",level:2}],id:\"POTION_COMBAT_XP_BOOST;2\",potion:\"combat_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aCombat XP Boost II §f(24:00)\",1:\"§7Grants §3+10☯ Combat Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fCombat XP Boost II Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"combat_xp_boost\",level:2}],id:\"POTION_COMBAT_XP_BOOST;2\",potion:\"combat_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aCombat XP Boost II §f(24:00)\",2:\"§7Grants §3+10☯ Combat Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fCombat XP Boost II Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aCombat XP Boost II §f(24:00)",
       "§7Grants §3+10☯ Combat Wisdom§7.",
       "",
@@ -198170,16 +198186,17 @@
     "internalname": "POTION_COMBAT_XP_BOOST;2",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_COMBAT_XP_BOOST;3": {
     "itemid": "minecraft:potion",
     "displayname": "§aCombat XP Boost III Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"combat_xp_boost\",level:3}],id:\"POTION_COMBAT_XP_BOOST;3\",potion:\"combat_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aCombat XP Boost III §f(36:00)\",1:\"§7Grants §3+20☯ Combat Wisdom§7.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aCombat XP Boost III Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"combat_xp_boost\",level:3}],id:\"POTION_COMBAT_XP_BOOST;3\",potion:\"combat_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aCombat XP Boost III §f(36:00)\",2:\"§7Grants §3+20☯ Combat Wisdom§7.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aCombat XP Boost III Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aCombat XP Boost III §f(36:00)",
       "§7Grants §3+20☯ Combat Wisdom§7.",
       "",
@@ -198188,7 +198205,7 @@
     "internalname": "POTION_COMBAT_XP_BOOST;3",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
@@ -198491,12 +198508,12 @@
   "POTION_DUNGEON;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fDungeon I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:24000,effect:\"regeneration\",level:1},1:{duration_ticks:24000,effect:\"strength\",level:3},2:{duration_ticks:24000,effect:\"critical\",level:1},3:{duration_ticks:24000,effect:\"speed\",level:1},4:{duration_ticks:24000,effect:\"resistance\",level:1}],id:\"POTION_DUNGEON;1\",potion:\"regeneration\",potion_level:1,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration I §f(20:00)\",2:\"§7Grants §c+5 Health Regen§7.\",3:\"\",4:\"§4Strength III §f(20:00)\",5:\"§7Increases §c Strength §7by §a20§7.\",6:\"\",7:\"§4Critical I §f(20:00)\",8:\"§7Increases §9 Crit Chance §7by §a10% §7and\",9:\"§9 Crit Damage §7by §a10%§7.\",10:\"\",11:\"§9Speed I §f(20:00)\",12:\"§7Grants §a+5 §f Speed§7.\",13:\"\",14:\"§aResistance I §f(20:00)\",15:\"§7Increases §a Defense §7by §a+5§7.\",16:\"\",17:\"§f§lCOMMON\"],Name:\"§fDungeon I Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:24000,effect:\"regeneration\",level:1},1:{duration_ticks:24000,effect:\"strength\",level:3},2:{duration_ticks:24000,effect:\"critical\",level:1},3:{duration_ticks:24000,effect:\"speed\",level:1},4:{duration_ticks:24000,effect:\"resistance\",level:1}],id:\"POTION_DUNGEON;1\",potion:\"regeneration\",potion_level:1,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration I §f(20:00)\",2:\"§7Grants §c+2.5 Health Regen§7.\",3:\"\",4:\"§4Strength III §f(20:00)\",5:\"§7Increases §c Strength §7by §a20§7.\",6:\"\",7:\"§4Critical I §f(20:00)\",8:\"§7Increases §9 Crit Chance §7by §a10% §7and\",9:\"§9 Crit Damage §7by §a10%§7.\",10:\"\",11:\"§9Speed I §f(20:00)\",12:\"§7Grants §a+5 §f Speed§7.\",13:\"\",14:\"§aResistance I §f(20:00)\",15:\"§7Increases §a Defense §7by §a+5§7.\",16:\"\",17:\"§f§lCOMMON\"],Name:\"§fDungeon I Potion\"}}",
     "damage": 0,
     "lore": [
       "",
       "§4Regeneration I §f(20:00)",
-      "§7Grants §c+5 Health Regen§7.",
+      "§7Grants §c+2.5 Health Regen§7.",
       "",
       "§4Strength III §f(20:00)",
       "§7Increases §c Strength §7by §a20§7.",
@@ -198516,19 +198533,19 @@
     "internalname": "POTION_DUNGEON;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_DUNGEON;2": {
     "itemid": "minecraft:potion",
     "displayname": "§fDungeon II Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:1B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:2},1:{duration_ticks:48000,effect:\"strength\",level:3},2:{duration_ticks:48000,effect:\"critical\",level:1},3:{duration_ticks:48000,effect:\"speed\",level:2},4:{duration_ticks:48000,effect:\"resistance\",level:1}],id:\"POTION_DUNGEON;2\",potion:\"regeneration\",potion_level:2,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration II §f(40:00)\",2:\"§7Grants §c+10 Health Regen§7.\",3:\"\",4:\"§4Strength III §f(40:00)\",5:\"§7Increases §c Strength §7by §a20§7.\",6:\"\",7:\"§4Critical I §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a10% §7and\",9:\"§9 Crit Damage §7by §a10%§7.\",10:\"\",11:\"§9Speed II §f(40:00)\",12:\"§7Grants §a+10 §f Speed§7.\",13:\"\",14:\"§aResistance I §f(40:00)\",15:\"§7Increases §a Defense §7by §a+5§7.\",16:\"\",17:\"§f§lCOMMON\"],Name:\"§fDungeon II Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:1B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:2},1:{duration_ticks:48000,effect:\"strength\",level:3},2:{duration_ticks:48000,effect:\"critical\",level:1},3:{duration_ticks:48000,effect:\"speed\",level:2},4:{duration_ticks:48000,effect:\"resistance\",level:1}],id:\"POTION_DUNGEON;2\",potion:\"regeneration\",potion_level:2,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration II §f(40:00)\",2:\"§7Grants §c+5 Health Regen§7.\",3:\"\",4:\"§4Strength III §f(40:00)\",5:\"§7Increases §c Strength §7by §a20§7.\",6:\"\",7:\"§4Critical I §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a10% §7and\",9:\"§9 Crit Damage §7by §a10%§7.\",10:\"\",11:\"§9Speed II §f(40:00)\",12:\"§7Grants §a+10 §f Speed§7.\",13:\"\",14:\"§aResistance I §f(40:00)\",15:\"§7Increases §a Defense §7by §a+5§7.\",16:\"\",17:\"§f§lCOMMON\"],Name:\"§fDungeon II Potion\"}}",
     "damage": 0,
     "lore": [
       "",
       "§4Regeneration II §f(40:00)",
-      "§7Grants §c+10 Health Regen§7.",
+      "§7Grants §c+5 Health Regen§7.",
       "",
       "§4Strength III §f(40:00)",
       "§7Increases §c Strength §7by §a20§7.",
@@ -198548,19 +198565,19 @@
     "internalname": "POTION_DUNGEON;2",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_DUNGEON;3": {
     "itemid": "minecraft:potion",
     "displayname": "§aDungeon III Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:2B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:3},1:{duration_ticks:48000,effect:\"strength\",level:3},2:{duration_ticks:48000,effect:\"critical\",level:2},3:{duration_ticks:48000,effect:\"speed\",level:2},4:{duration_ticks:48000,effect:\"resistance\",level:2}],id:\"POTION_DUNGEON;3\",potion:\"regeneration\",potion_level:3,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration III §f(40:00)\",2:\"§7Grants §c+15 Health Regen§7.\",3:\"\",4:\"§4Strength III §f(40:00)\",5:\"§7Increases §c Strength §7by §a20§7.\",6:\"\",7:\"§4Critical II §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a15% §7and\",9:\"§9 Crit Damage §7by §a20%§7.\",10:\"\",11:\"§9Speed II §f(40:00)\",12:\"§7Grants §a+10 §f Speed§7.\",13:\"\",14:\"§aResistance II §f(40:00)\",15:\"§7Increases §a Defense §7by §a+10§7.\",16:\"\",17:\"§a§lUNCOMMON\"],Name:\"§aDungeon III Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:2B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:3},1:{duration_ticks:48000,effect:\"strength\",level:3},2:{duration_ticks:48000,effect:\"critical\",level:2},3:{duration_ticks:48000,effect:\"speed\",level:2},4:{duration_ticks:48000,effect:\"resistance\",level:2}],id:\"POTION_DUNGEON;3\",potion:\"regeneration\",potion_level:3,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration III §f(40:00)\",2:\"§7Grants §c+7.5 Health Regen§7.\",3:\"\",4:\"§4Strength III §f(40:00)\",5:\"§7Increases §c Strength §7by §a20§7.\",6:\"\",7:\"§4Critical II §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a15% §7and\",9:\"§9 Crit Damage §7by §a20%§7.\",10:\"\",11:\"§9Speed II §f(40:00)\",12:\"§7Grants §a+10 §f Speed§7.\",13:\"\",14:\"§aResistance II §f(40:00)\",15:\"§7Increases §a Defense §7by §a+10§7.\",16:\"\",17:\"§a§lUNCOMMON\"],Name:\"§aDungeon III Potion\"}}",
     "damage": 0,
     "lore": [
       "",
       "§4Regeneration III §f(40:00)",
-      "§7Grants §c+15 Health Regen§7.",
+      "§7Grants §c+7.5 Health Regen§7.",
       "",
       "§4Strength III §f(40:00)",
       "§7Increases §c Strength §7by §a20§7.",
@@ -198580,19 +198597,19 @@
     "internalname": "POTION_DUNGEON;3",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_DUNGEON;4": {
     "itemid": "minecraft:potion",
     "displayname": "§aDungeon IV Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:3B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:3},1:{duration_ticks:48000,effect:\"strength\",level:4},2:{duration_ticks:48000,effect:\"critical\",level:2},3:{duration_ticks:48000,effect:\"speed\",level:2},4:{duration_ticks:48000,effect:\"resistance\",level:3},5:{duration_ticks:48000,effect:\"archery\",level:1}],id:\"POTION_DUNGEON;4\",potion:\"regeneration\",potion_level:4,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration III §f(40:00)\",2:\"§7Grants §c+15 Health Regen§7.\",3:\"\",4:\"§4Strength IV §f(40:00)\",5:\"§7Increases §c Strength §7by §a30§7.\",6:\"\",7:\"§4Critical II §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a15% §7and\",9:\"§9 Crit Damage §7by §a20%§7.\",10:\"\",11:\"§9Speed II §f(40:00)\",12:\"§7Grants §a+10 §f Speed§7.\",13:\"\",14:\"§aResistance III §f(40:00)\",15:\"§7Increases §a Defense §7by §a+15§7.\",16:\"\",17:\"§bArchery I §f(40:00)\",18:\"§7Increases bow damage by §a12.5%§7.\",19:\"\",20:\"§a§lUNCOMMON\"],Name:\"§aDungeon IV Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:3B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:3},1:{duration_ticks:48000,effect:\"strength\",level:4},2:{duration_ticks:48000,effect:\"critical\",level:2},3:{duration_ticks:48000,effect:\"speed\",level:2},4:{duration_ticks:48000,effect:\"resistance\",level:3},5:{duration_ticks:48000,effect:\"archery\",level:1}],id:\"POTION_DUNGEON;4\",potion:\"regeneration\",potion_level:4,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration III §f(40:00)\",2:\"§7Grants §c+7.5 Health Regen§7.\",3:\"\",4:\"§4Strength IV §f(40:00)\",5:\"§7Increases §c Strength §7by §a30§7.\",6:\"\",7:\"§4Critical II §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a15% §7and\",9:\"§9 Crit Damage §7by §a20%§7.\",10:\"\",11:\"§9Speed II §f(40:00)\",12:\"§7Grants §a+10 §f Speed§7.\",13:\"\",14:\"§aResistance III §f(40:00)\",15:\"§7Increases §a Defense §7by §a+15§7.\",16:\"\",17:\"§bArchery I §f(40:00)\",18:\"§7Increases bow damage by §a12.5%§7.\",19:\"\",20:\"§a§lUNCOMMON\"],Name:\"§aDungeon IV Potion\"}}",
     "damage": 0,
     "lore": [
       "",
       "§4Regeneration III §f(40:00)",
-      "§7Grants §c+15 Health Regen§7.",
+      "§7Grants §c+7.5 Health Regen§7.",
       "",
       "§4Strength IV §f(40:00)",
       "§7Increases §c Strength §7by §a30§7.",
@@ -198615,19 +198632,19 @@
     "internalname": "POTION_DUNGEON;4",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_DUNGEON;5": {
     "itemid": "minecraft:potion",
     "displayname": "§9Dungeon V Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:4B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:3},1:{duration_ticks:48000,effect:\"strength\",level:4},2:{duration_ticks:48000,effect:\"critical\",level:3},3:{duration_ticks:48000,effect:\"speed\",level:2},4:{duration_ticks:48000,effect:\"resistance\",level:4},5:{duration_ticks:48000,effect:\"archery\",level:2}],id:\"POTION_DUNGEON;5\",potion:\"regeneration\",potion_level:5,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration III §f(40:00)\",2:\"§7Grants §c+15 Health Regen§7.\",3:\"\",4:\"§4Strength IV §f(40:00)\",5:\"§7Increases §c Strength §7by §a30§7.\",6:\"\",7:\"§4Critical III §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a20% §7and\",9:\"§9 Crit Damage §7by §a30%§7.\",10:\"\",11:\"§9Speed II §f(40:00)\",12:\"§7Grants §a+10 §f Speed§7.\",13:\"\",14:\"§aResistance IV §f(40:00)\",15:\"§7Increases §a Defense §7by §a+20§7.\",16:\"\",17:\"§bArchery II §f(40:00)\",18:\"§7Increases bow damage by §a25%§7.\",19:\"\",20:\"§9§lRARE\"],Name:\"§9Dungeon V Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:4B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:3},1:{duration_ticks:48000,effect:\"strength\",level:4},2:{duration_ticks:48000,effect:\"critical\",level:3},3:{duration_ticks:48000,effect:\"speed\",level:2},4:{duration_ticks:48000,effect:\"resistance\",level:4},5:{duration_ticks:48000,effect:\"archery\",level:2}],id:\"POTION_DUNGEON;5\",potion:\"regeneration\",potion_level:5,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration III §f(40:00)\",2:\"§7Grants §c+7.5 Health Regen§7.\",3:\"\",4:\"§4Strength IV §f(40:00)\",5:\"§7Increases §c Strength §7by §a30§7.\",6:\"\",7:\"§4Critical III §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a20% §7and\",9:\"§9 Crit Damage §7by §a30%§7.\",10:\"\",11:\"§9Speed II §f(40:00)\",12:\"§7Grants §a+10 §f Speed§7.\",13:\"\",14:\"§aResistance IV §f(40:00)\",15:\"§7Increases §a Defense §7by §a+20§7.\",16:\"\",17:\"§bArchery II §f(40:00)\",18:\"§7Increases bow damage by §a25%§7.\",19:\"\",20:\"§9§lRARE\"],Name:\"§9Dungeon V Potion\"}}",
     "damage": 0,
     "lore": [
       "",
       "§4Regeneration III §f(40:00)",
-      "§7Grants §c+15 Health Regen§7.",
+      "§7Grants §c+7.5 Health Regen§7.",
       "",
       "§4Strength IV §f(40:00)",
       "§7Increases §c Strength §7by §a30§7.",
@@ -198650,18 +198667,19 @@
     "internalname": "POTION_DUNGEON;5",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_DUNGEON;6": {
     "itemid": "minecraft:potion",
     "displayname": "§9Dungeon VI Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:5B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:4},1:{duration_ticks:48000,effect:\"strength\",level:4},2:{duration_ticks:48000,effect:\"critical\",level:3},3:{duration_ticks:48000,effect:\"speed\",level:3},4:{duration_ticks:48000,effect:\"resistance\",level:4},5:{duration_ticks:48000,effect:\"archery\",level:3}],id:\"POTION_DUNGEON;6\",potion:\"regeneration\",potion_level:6,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§4Regeneration IV §f(40:00)\",1:\"§7Grants §c+20 Health Regen§7.\",2:\"\",3:\"§4Strength IV §f(40:00)\",4:\"§7Increases §c Strength §7by §a30§7.\",5:\"\",6:\"§4Critical III §f(40:00)\",7:\"§7Increases §9 Crit Chance §7by §a20% §7and\",8:\"§9 Crit Damage §7by §a30%§7.\",9:\"\",10:\"§9Speed III §f(40:00)\",11:\"§7Grants §a+15 §f Speed§7.\",12:\"\",13:\"§aResistance IV §f(40:00)\",14:\"§7Increases §a Defense §7by §a+20§7.\",15:\"\",16:\"§bArchery III §f(40:00)\",17:\"§7Increases bow damage by §a50%§7.\",18:\"\",19:\"§9§lRARE\"],Name:\"§9Dungeon VI Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:5B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:4},1:{duration_ticks:48000,effect:\"strength\",level:4},2:{duration_ticks:48000,effect:\"critical\",level:3},3:{duration_ticks:48000,effect:\"speed\",level:3},4:{duration_ticks:48000,effect:\"resistance\",level:4},5:{duration_ticks:48000,effect:\"archery\",level:3}],id:\"POTION_DUNGEON;6\",potion:\"regeneration\",potion_level:6,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration IV §f(40:00)\",2:\"§7Grants §c+10 Health Regen§7.\",3:\"\",4:\"§4Strength IV §f(40:00)\",5:\"§7Increases §c Strength §7by §a30§7.\",6:\"\",7:\"§4Critical III §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a20% §7and\",9:\"§9 Crit Damage §7by §a30%§7.\",10:\"\",11:\"§9Speed III §f(40:00)\",12:\"§7Grants §a+15 §f Speed§7.\",13:\"\",14:\"§aResistance IV §f(40:00)\",15:\"§7Increases §a Defense §7by §a+20§7.\",16:\"\",17:\"§bArchery III §f(40:00)\",18:\"§7Increases bow damage by §a50%§7.\",19:\"\",20:\"§9§lRARE\"],Name:\"§9Dungeon VI Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§4Regeneration IV §f(40:00)",
-      "§7Grants §c+20 Health Regen§7.",
+      "§7Grants §c+10 Health Regen§7.",
       "",
       "§4Strength IV §f(40:00)",
       "§7Increases §c Strength §7by §a30§7.",
@@ -198684,19 +198702,19 @@
     "internalname": "POTION_DUNGEON;6",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_DUNGEON;7": {
     "itemid": "minecraft:potion",
     "displayname": "§5Dungeon VII Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:6B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:4},1:{duration_ticks:48000,effect:\"strength\",level:5},2:{duration_ticks:48000,effect:\"critical\",level:3},3:{duration_ticks:48000,effect:\"speed\",level:3},4:{duration_ticks:48000,effect:\"resistance\",level:5},5:{duration_ticks:48000,effect:\"archery\",level:3}],id:\"POTION_DUNGEON;7\",potion:\"regeneration\",potion_level:7,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration IV §f(40:00)\",2:\"§7Grants §c+20 Health Regen§7.\",3:\"\",4:\"§4Strength V §f(40:00)\",5:\"§7Increases §c Strength §7by §a40§7.\",6:\"\",7:\"§4Critical III §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a20% §7and\",9:\"§9 Crit Damage §7by §a30%§7.\",10:\"\",11:\"§9Speed III §f(40:00)\",12:\"§7Grants §a+15 §f Speed§7.\",13:\"\",14:\"§aResistance V §f(40:00)\",15:\"§7Increases §a Defense §7by §a+30§7.\",16:\"\",17:\"§bArchery III §f(40:00)\",18:\"§7Increases bow damage by §a50%§7.\",19:\"\",20:\"§5§lEPIC\"],Name:\"§5Dungeon VII Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:900,Id:10B},1:{Ambient:0B,Amplifier:6B,Duration:20,Id:10B}],ExtraAttributes:{dungeon_potion:1B,effects:[0:{duration_ticks:48000,effect:\"regeneration\",level:4},1:{duration_ticks:48000,effect:\"strength\",level:5},2:{duration_ticks:48000,effect:\"critical\",level:3},3:{duration_ticks:48000,effect:\"speed\",level:3},4:{duration_ticks:48000,effect:\"resistance\",level:5},5:{duration_ticks:48000,effect:\"archery\",level:3}],id:\"POTION_DUNGEON;7\",potion:\"regeneration\",potion_level:7,potion_name:\"Dungeon\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§4Regeneration IV §f(40:00)\",2:\"§7Grants §c+10 Health Regen§7.\",3:\"\",4:\"§4Strength V §f(40:00)\",5:\"§7Increases §c Strength §7by §a40§7.\",6:\"\",7:\"§4Critical III §f(40:00)\",8:\"§7Increases §9 Crit Chance §7by §a20% §7and\",9:\"§9 Crit Damage §7by §a30%§7.\",10:\"\",11:\"§9Speed III §f(40:00)\",12:\"§7Grants §a+15 §f Speed§7.\",13:\"\",14:\"§aResistance V §f(40:00)\",15:\"§7Increases §a Defense §7by §a+30§7.\",16:\"\",17:\"§bArchery III §f(40:00)\",18:\"§7Increases bow damage by §a50%§7.\",19:\"\",20:\"§5§lEPIC\"],Name:\"§5Dungeon VII Potion\"}}",
     "damage": 0,
     "lore": [
       "",
       "§4Regeneration IV §f(40:00)",
-      "§7Grants §c+20 Health Regen§7.",
+      "§7Grants §c+10 Health Regen§7.",
       "",
       "§4Strength V §f(40:00)",
       "§7Increases §c Strength §7by §a40§7.",
@@ -198719,16 +198737,17 @@
     "internalname": "POTION_DUNGEON;7",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_ENCHANTING_XP_BOOST;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fEnchanting XP Boost I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"enchanting_xp_boost\",level:1}],id:\"POTION_ENCHANTING_XP_BOOST;1\",potion:\"enchanting_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aEnchanting XP Boost I §f(12:00)\",1:\"§7Grants §3+5☯ Enchanting Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fEnchanting XP Boost I Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"enchanting_xp_boost\",level:1}],id:\"POTION_ENCHANTING_XP_BOOST;1\",potion:\"enchanting_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aEnchanting XP Boost I §f(12:00)\",2:\"§7Grants §3+5☯ Enchanting Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fEnchanting XP Boost I Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aEnchanting XP Boost I §f(12:00)",
       "§7Grants §3+5☯ Enchanting Wisdom§7.",
       "",
@@ -198737,16 +198756,17 @@
     "internalname": "POTION_ENCHANTING_XP_BOOST;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_ENCHANTING_XP_BOOST;2": {
     "itemid": "minecraft:potion",
     "displayname": "§fEnchanting XP Boost II Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"enchanting_xp_boost\",level:2}],id:\"POTION_ENCHANTING_XP_BOOST;2\",potion:\"enchanting_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aEnchanting XP Boost II §f(24:00)\",1:\"§7Grants §3+10☯ Enchanting Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fEnchanting XP Boost II Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"enchanting_xp_boost\",level:2}],id:\"POTION_ENCHANTING_XP_BOOST;2\",potion:\"enchanting_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aEnchanting XP Boost II §f(24:00)\",2:\"§7Grants §3+10☯ Enchanting Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fEnchanting XP Boost II Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aEnchanting XP Boost II §f(24:00)",
       "§7Grants §3+10☯ Enchanting Wisdom§7.",
       "",
@@ -198755,16 +198775,17 @@
     "internalname": "POTION_ENCHANTING_XP_BOOST;2",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_ENCHANTING_XP_BOOST;3": {
     "itemid": "minecraft:potion",
     "displayname": "§aEnchanting XP Boost III Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"enchanting_xp_boost\",level:3}],id:\"POTION_ENCHANTING_XP_BOOST;3\",potion:\"enchanting_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aEnchanting XP Boost III §f(36:00)\",1:\"§7Grants §3+20☯ Enchanting Wisdom§7.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aEnchanting XP Boost III Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"enchanting_xp_boost\",level:3}],id:\"POTION_ENCHANTING_XP_BOOST;3\",potion:\"enchanting_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aEnchanting XP Boost III §f(36:00)\",2:\"§7Grants §3+20☯ Enchanting Wisdom§7.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aEnchanting XP Boost III Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aEnchanting XP Boost III §f(36:00)",
       "§7Grants §3+20☯ Enchanting Wisdom§7.",
       "",
@@ -198773,7 +198794,7 @@
     "internalname": "POTION_ENCHANTING_XP_BOOST;3",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
@@ -198852,9 +198873,10 @@
   "POTION_FARMING_XP_BOOST;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fFarming XP Boost I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"farming_xp_boost\",level:1}],id:\"POTION_FARMING_XP_BOOST;1\",potion:\"farming_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aFarming XP Boost I §f(12:00)\",1:\"§7Grants §3+5☯ Farming Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fFarming XP Boost I Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"farming_xp_boost\",level:1}],id:\"POTION_FARMING_XP_BOOST;1\",potion:\"farming_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aFarming XP Boost I §f(12:00)\",2:\"§7Grants §3+5☯ Farming Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fFarming XP Boost I Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aFarming XP Boost I §f(12:00)",
       "§7Grants §3+5☯ Farming Wisdom§7.",
       "",
@@ -198863,16 +198885,17 @@
     "internalname": "POTION_FARMING_XP_BOOST;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_FARMING_XP_BOOST;2": {
     "itemid": "minecraft:potion",
     "displayname": "§fFarming XP Boost II Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"farming_xp_boost\",level:2}],id:\"POTION_FARMING_XP_BOOST;2\",potion:\"farming_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aFarming XP Boost II §f(24:00)\",1:\"§7Grants §3+10☯ Farming Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fFarming XP Boost II Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"farming_xp_boost\",level:2}],id:\"POTION_FARMING_XP_BOOST;2\",potion:\"farming_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aFarming XP Boost II §f(24:00)\",2:\"§7Grants §3+10☯ Farming Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fFarming XP Boost II Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aFarming XP Boost II §f(24:00)",
       "§7Grants §3+10☯ Farming Wisdom§7.",
       "",
@@ -198881,16 +198904,17 @@
     "internalname": "POTION_FARMING_XP_BOOST;2",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_FARMING_XP_BOOST;3": {
     "itemid": "minecraft:potion",
     "displayname": "§aFarming XP Boost III Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"farming_xp_boost\",level:3}],id:\"POTION_FARMING_XP_BOOST;3\",potion:\"farming_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aFarming XP Boost III §f(36:00)\",1:\"§7Grants §3+20☯ Farming Wisdom§7.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aFarming XP Boost III Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"farming_xp_boost\",level:3}],id:\"POTION_FARMING_XP_BOOST;3\",potion:\"farming_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aFarming XP Boost III §f(36:00)\",2:\"§7Grants §3+20☯ Farming Wisdom§7.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aFarming XP Boost III Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aFarming XP Boost III §f(36:00)",
       "§7Grants §3+20☯ Farming Wisdom§7.",
       "",
@@ -198899,7 +198923,7 @@
     "internalname": "POTION_FARMING_XP_BOOST;3",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
@@ -198925,9 +198949,10 @@
   "POTION_FISHING_XP_BOOST;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fFishing XP Boost I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"fishing_xp_boost\",level:1}],id:\"POTION_FISHING_XP_BOOST;1\",potion:\"fishing_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aFishing XP Boost I §f(12:00)\",1:\"§7Grants §3+5☯ Fishing Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fFishing XP Boost I Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"fishing_xp_boost\",level:1}],id:\"POTION_FISHING_XP_BOOST;1\",potion:\"fishing_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aFishing XP Boost I §f(12:00)\",2:\"§7Grants §3+5☯ Fishing Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fFishing XP Boost I Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aFishing XP Boost I §f(12:00)",
       "§7Grants §3+5☯ Fishing Wisdom§7.",
       "",
@@ -198936,16 +198961,17 @@
     "internalname": "POTION_FISHING_XP_BOOST;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_FISHING_XP_BOOST;2": {
     "itemid": "minecraft:potion",
     "displayname": "§fFishing XP Boost II Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"fishing_xp_boost\",level:2}],id:\"POTION_FISHING_XP_BOOST;2\",potion:\"fishing_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aFishing XP Boost II §f(24:00)\",1:\"§7Grants §3+10☯ Fishing Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fFishing XP Boost II Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"fishing_xp_boost\",level:2}],id:\"POTION_FISHING_XP_BOOST;2\",potion:\"fishing_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aFishing XP Boost II §f(24:00)\",2:\"§7Grants §3+10☯ Fishing Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fFishing XP Boost II Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aFishing XP Boost II §f(24:00)",
       "§7Grants §3+10☯ Fishing Wisdom§7.",
       "",
@@ -198954,16 +198980,17 @@
     "internalname": "POTION_FISHING_XP_BOOST;2",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_FISHING_XP_BOOST;3": {
     "itemid": "minecraft:potion",
     "displayname": "§aFishing XP Boost III Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"fishing_xp_boost\",level:3}],id:\"POTION_FISHING_XP_BOOST;3\",potion:\"fishing_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aFishing XP Boost III §f(36:00)\",1:\"§7Grants §3+20☯ Fishing Wisdom§7.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aFishing XP Boost III Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"fishing_xp_boost\",level:3}],id:\"POTION_FISHING_XP_BOOST;3\",potion:\"fishing_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aFishing XP Boost III §f(36:00)\",2:\"§7Grants §3+20☯ Fishing Wisdom§7.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aFishing XP Boost III Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aFishing XP Boost III §f(36:00)",
       "§7Grants §3+20☯ Fishing Wisdom§7.",
       "",
@@ -198972,14 +198999,14 @@
     "internalname": "POTION_FISHING_XP_BOOST;3",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_FORAGING_XP_BOOST;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fForaging XP Boost I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0b,Duration:20,Id:22b,Amplifier:0b}],HideFlags:254,display:{Lore:[0:\"\",1:\"§aForaging XP Boost I §f(12:00)\",2:\"§7Grants §3+5☯ Foraging Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fForaging XP Boost I Potion\"},ExtraAttributes:{potion_level:1,potion:\"foraging_xp_boost\",effects:[0:{level:1,effect:\"foraging_xp_boost\",duration_ticks:14400}],potion_type:\"POTION\",id:\"POTION_FORAGING_XP_BOOST;1\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"foraging_xp_boost\",level:1}],id:\"POTION_FORAGING_XP_BOOST;1\",potion:\"foraging_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aForaging XP Boost I §f(12:00)\",2:\"§7Grants §3+5☯ Foraging Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fForaging XP Boost I Potion\"}}",
     "damage": 0,
     "lore": [
       "",
@@ -198989,17 +199016,19 @@
       "§f§lCOMMON"
     ],
     "internalname": "POTION_FORAGING_XP_BOOST;1",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.2.1",
-    "infoType": ""
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "",
+    "info": []
   },
   "POTION_FORAGING_XP_BOOST;2": {
     "itemid": "minecraft:potion",
     "displayname": "§fForaging XP Boost II Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"foraging_xp_boost\",level:2}],id:\"POTION_FORAGING_XP_BOOST;2\",potion:\"foraging_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aForaging XP Boost II §f(24:00)\",1:\"§7Grants §3+10☯ Foraging Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fForaging XP Boost II Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"foraging_xp_boost\",level:2}],id:\"POTION_FORAGING_XP_BOOST;2\",potion:\"foraging_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aForaging XP Boost II §f(24:00)\",2:\"§7Grants §3+10☯ Foraging Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fForaging XP Boost II Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aForaging XP Boost II §f(24:00)",
       "§7Grants §3+10☯ Foraging Wisdom§7.",
       "",
@@ -199008,16 +199037,17 @@
     "internalname": "POTION_FORAGING_XP_BOOST;2",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_FORAGING_XP_BOOST;3": {
     "itemid": "minecraft:potion",
     "displayname": "§aForaging XP Boost III Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"foraging_xp_boost\",level:3}],id:\"POTION_FORAGING_XP_BOOST;3\",potion:\"foraging_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aForaging XP Boost III §f(36:00)\",1:\"§7Grants §3+20☯ Foraging Wisdom§7.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aForaging XP Boost III Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"foraging_xp_boost\",level:3}],id:\"POTION_FORAGING_XP_BOOST;3\",potion:\"foraging_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aForaging XP Boost III §f(36:00)\",2:\"§7Grants §3+20☯ Foraging Wisdom§7.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aForaging XP Boost III Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aForaging XP Boost III §f(36:00)",
       "§7Grants §3+20☯ Foraging Wisdom§7.",
       "",
@@ -199026,25 +199056,26 @@
     "internalname": "POTION_FORAGING_XP_BOOST;3",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_HARVEST_HARBINGER;5": {
     "itemid": "minecraft:potion",
     "displayname": "§9Harvest Harbinger V Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:12B},1:{Ambient:0B,Amplifier:4B,Duration:20,Id:12B}],ExtraAttributes:{effects:[0:{duration_ticks:30000,effect:\"harvest_harbinger\",level:5}],id:\"POTION_HARVEST_HARBINGER;5\",potion:\"harvest_harbinger\",potion_level:5,potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§6Harvest Harbinger V §f(25:00)\",1:\"§7Grants §6+50☘ Farming Fortune§7.\",2:\"\",3:\"§9§lRARE\"],Name:\"§9Harvest Harbinger V Potion\"}}",
-    "damage": 3,
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:12B},1:{Ambient:0B,Amplifier:4B,Duration:20,Id:12B}],ExtraAttributes:{effects:[0:{duration_ticks:30000,effect:\"harvest_harbinger\",level:5}],id:\"POTION_HARVEST_HARBINGER;5\",potion:\"harvest_harbinger\",potion_level:5,potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§6Harvest Harbinger V §f(25:00)\",2:\"§7Grants §6+50 Farming Fortune§7.\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Harvest Harbinger V Potion\"}}",
+    "damage": 0,
     "lore": [
+      "",
       "§6Harvest Harbinger V §f(25:00)",
-      "§7Grants §6+50☘ Farming Fortune§7.",
+      "§7Grants §6+50 Farming Fortune§7.",
       "",
       "§9§lRARE"
     ],
     "internalname": "POTION_HARVEST_HARBINGER;5",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
@@ -199666,7 +199697,7 @@
   "POTION_MINING_XP_BOOST;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fMining XP Boost I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0b,Duration:20,Id:22b,Amplifier:0b}],HideFlags:254,display:{Lore:[0:\"\",1:\"§aMining XP Boost I §f(12:00)\",2:\"§7Grants §3+5☯ Mining Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fMining XP Boost I Potion\"},ExtraAttributes:{potion_level:1,potion:\"mining_xp_boost\",effects:[0:{level:1,effect:\"mining_xp_boost\",duration_ticks:14400}],potion_type:\"POTION\",id:\"POTION_MINING_XP_BOOST;1\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:14400,effect:\"mining_xp_boost\",level:1}],id:\"POTION_MINING_XP_BOOST;1\",potion:\"mining_xp_boost\",potion_level:1,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aMining XP Boost I §f(12:00)\",2:\"§7Grants §3+5☯ Mining Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fMining XP Boost I Potion\"}}",
     "damage": 0,
     "lore": [
       "",
@@ -199676,17 +199707,19 @@
       "§f§lCOMMON"
     ],
     "internalname": "POTION_MINING_XP_BOOST;1",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.2.1",
-    "infoType": ""
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "",
+    "info": []
   },
   "POTION_MINING_XP_BOOST;2": {
     "itemid": "minecraft:potion",
     "displayname": "§fMining XP Boost II Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"mining_xp_boost\",level:2}],id:\"POTION_MINING_XP_BOOST;2\",potion:\"mining_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aMining XP Boost II §f(24:00)\",1:\"§7Grants §3+10☯ Mining Wisdom§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fMining XP Boost II Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:1B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:28800,effect:\"mining_xp_boost\",level:2}],id:\"POTION_MINING_XP_BOOST;2\",potion:\"mining_xp_boost\",potion_level:2,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aMining XP Boost II §f(24:00)\",2:\"§7Grants §3+10☯ Mining Wisdom§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fMining XP Boost II Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aMining XP Boost II §f(24:00)",
       "§7Grants §3+10☯ Mining Wisdom§7.",
       "",
@@ -199695,16 +199728,17 @@
     "internalname": "POTION_MINING_XP_BOOST;2",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_MINING_XP_BOOST;3": {
     "itemid": "minecraft:potion",
     "displayname": "§aMining XP Boost III Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"mining_xp_boost\",level:3}],id:\"POTION_MINING_XP_BOOST;3\",potion:\"mining_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§aMining XP Boost III §f(36:00)\",1:\"§7Grants §3+20☯ Mining Wisdom§7.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aMining XP Boost III Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:2B,Duration:20,Id:22B}],ExtraAttributes:{effects:[0:{duration_ticks:43200,effect:\"mining_xp_boost\",level:3}],id:\"POTION_MINING_XP_BOOST;3\",potion:\"mining_xp_boost\",potion_level:3,potion_type:\"POTION\"},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§aMining XP Boost III §f(36:00)\",2:\"§7Grants §3+20☯ Mining Wisdom§7.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aMining XP Boost III Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§aMining XP Boost III §f(36:00)",
       "§7Grants §3+20☯ Mining Wisdom§7.",
       "",
@@ -199713,16 +199747,17 @@
     "internalname": "POTION_MINING_XP_BOOST;3",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_MUSHED_GLOWY_TONIC;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fMushed Glowy Tonic I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:8B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:8B}],ExtraAttributes:{effects:[0:{duration_ticks:72000,effect:\"mushed_glowy_tonic\",level:1}],id:\"POTION_MUSHED_GLOWY_TONIC;1\",potion:\"mushed_glowy_tonic\",potion_level:1,potion_name:\"Mushed Glowy Tonic\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§2Mushed Glowy Tonic I §f(1:00:00)\",1:\"§7Grants §b+30 Fishing Speed§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fMushed Glowy Tonic I Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:8B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:8B}],ExtraAttributes:{effects:[0:{duration_ticks:72000,effect:\"mushed_glowy_tonic\",level:1}],id:\"POTION_MUSHED_GLOWY_TONIC;1\",potion:\"mushed_glowy_tonic\",potion_level:1,potion_name:\"Mushed Glowy Tonic\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§2Mushed Glowy Tonic I §f(1:00:00)\",2:\"§7Grants §b+30 Fishing Speed§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fMushed Glowy Tonic I Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§2Mushed Glowy Tonic I §f(1:00:00)",
       "§7Grants §b+30 Fishing Speed§7.",
       "",
@@ -199731,7 +199766,7 @@
     "internalname": "POTION_MUSHED_GLOWY_TONIC;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
@@ -200370,9 +200405,10 @@
   "POTION_SECRETS;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fSecret I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:1,Id:7B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:7B}],ExtraAttributes:{effects:[0:{duration_ticks:4212,effect:\"secrets\",level:1,modifiers:{}}],enhanced:0B,extended:0B,id:\"POTION_SECRETS;1\",potion:\"secrets\",potion_level:1,potion_type:\"POTION\",soulbound:1B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§fSecret I\",1:\"§7§oAn enigmatic elixir steeped in\",2:\"§7§omystery. One sip reveals the unseen,\",3:\"§7§obut be wary, for not all secrets wish\",4:\"§7§oto be known.\",5:\"\",6:\"§8§l* §8Soulbound §8§l*\",7:\"§f§lCOMMON\"],Name:\"§fSecret I Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:1,Id:7B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:7B}],ExtraAttributes:{effects:[0:{duration_ticks:4212,effect:\"secrets\",level:1,modifiers:{}}],enhanced:0B,extended:0B,id:\"POTION_SECRETS;1\",potion:\"secrets\",potion_level:1,potion_type:\"POTION\",soulbound:1B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§fSecret I\",2:\"§7§oAn enigmatic elixir steeped in\",3:\"§7§omystery. One sip reveals the unseen,\",4:\"§7§obut be wary, for not all secrets wish\",5:\"§7§oto be known.\",6:\"\",7:\"§8§l* §8Soulbound §8§l*\",8:\"§f§lCOMMON\"],Name:\"§fSecret I Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§fSecret I",
       "§7§oAn enigmatic elixir steeped in",
       "§7§omystery. One sip reveals the unseen,",
@@ -200773,11 +200809,12 @@
   "POTION_SPIRIT;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fSpirit I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:1B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:1B}],ExtraAttributes:{effects:[0:{duration_ticks:3600,effect:\"spirit\",level:1}],id:\"POTION_SPIRIT;1\",potion:\"spirit\",potion_level:1,potion_name:\"Spirit\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§bSpirit I §f(3:00)\",1:\"§7Grants §a+10 §f✦ Speed §7and §a+10% §9☠\",2:\"§9Crit Damage§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fSpirit I Potion\"}}",
-    "damage": 2,
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:1B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:1B}],ExtraAttributes:{effects:[0:{duration_ticks:3600,effect:\"spirit\",level:1}],id:\"POTION_SPIRIT;1\",potion:\"spirit\",potion_level:1,potion_name:\"Spirit\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§bSpirit I §f(3:00)\",2:\"§7Grants §a+10 §f Speed §7and §a+10% §9\",3:\"§9Crit Damage§7.\",4:\"\",5:\"§f§lCOMMON\"],Name:\"§fSpirit I Potion\"}}",
+    "damage": 0,
     "lore": [
+      "",
       "§bSpirit I §f(3:00)",
-      "§7Grants §a+10 §f✦ Speed §7and §a+10% §9☠",
+      "§7Grants §a+10 §f Speed §7and §a+10% §9",
       "§9Crit Damage§7.",
       "",
       "§f§lCOMMON"
@@ -200785,66 +200822,69 @@
     "internalname": "POTION_SPIRIT;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
   "POTION_SPIRIT;2": {
     "itemid": "minecraft:potion",
     "displayname": "§fSpirit II Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0b,Duration:20,Id:1b,Amplifier:1b}],HideFlags:254,display:{Lore:[0:\"\",1:\"§bSpirit II §f(3:00)\",2:\"§7Grants §a+20 §f✦ Speed §7and §a+20% §9☠\",3:\"§9Crit Damage§7.\",4:\"\",5:\"§f§lCOMMON\"],Name:\"§fSpirit II Potion\"},ExtraAttributes:{potion_level:2,enhanced:1b,potion:\"spirit\",effects:[0:{level:2,effect:\"spirit\",duration_ticks:3600,modifiers:{}}],potion_type:\"POTION\",id:\"POTION_SPIRIT;2\",splash:0b,potion_name:\"Spirit\"}}",
-    "damage": 2,
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:1B},1:{Ambient:0B,Amplifier:1B,Duration:20,Id:1B}],ExtraAttributes:{effects:[0:{duration_ticks:3600,effect:\"spirit\",level:2,modifiers:{}}],enhanced:1B,id:\"POTION_SPIRIT;2\",potion:\"spirit\",potion_level:2,potion_name:\"Spirit\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§bSpirit II §f(3:00)\",2:\"§7Grants §a+20 §f Speed §7and §a+20% §9\",3:\"§9Crit Damage§7.\",4:\"\",5:\"§f§lCOMMON\"],Name:\"§fSpirit II Potion\"}}",
+    "damage": 0,
     "lore": [
       "",
       "§bSpirit II §f(3:00)",
-      "§7Grants §a+20 §f✦ Speed §7and §a+20% §9☠",
+      "§7Grants §a+20 §f Speed §7and §a+20% §9",
       "§9Crit Damage§7.",
       "",
       "§f§lCOMMON"
     ],
     "internalname": "POTION_SPIRIT;2",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.3.0",
-    "infoType": ""
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "",
+    "info": []
   },
   "POTION_SPIRIT;3": {
     "itemid": "minecraft:potion",
     "displayname": "§aSpirit III Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0b,Duration:20,Id:1b,Amplifier:2b}],HideFlags:254,display:{Lore:[0:\"\",1:\"§bSpirit III §f(3:00)\",2:\"§7Grants §a+30 §f✦ Speed §7and §a+30% §9☠\",3:\"§9Crit Damage§7.\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aSpirit III Potion\"},ExtraAttributes:{potion_level:3,enhanced:1b,potion:\"spirit\",effects:[0:{level:3,effect:\"spirit\",duration_ticks:3600,modifiers:{}}],potion_type:\"POTION\",id:\"POTION_SPIRIT;3\",splash:0b,potion_name:\"Spirit\"}}",
-    "damage": 2,
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:1B},1:{Ambient:0B,Amplifier:2B,Duration:20,Id:1B}],ExtraAttributes:{effects:[0:{duration_ticks:3600,effect:\"spirit\",level:3,modifiers:{}}],enhanced:1B,id:\"POTION_SPIRIT;3\",potion:\"spirit\",potion_level:3,potion_name:\"Spirit\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§bSpirit III §f(3:00)\",2:\"§7Grants §a+30 §f Speed §7and §a+30% §9\",3:\"§9Crit Damage§7.\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aSpirit III Potion\"}}",
+    "damage": 0,
     "lore": [
       "",
       "§bSpirit III §f(3:00)",
-      "§7Grants §a+30 §f✦ Speed §7and §a+30% §9☠",
+      "§7Grants §a+30 §f Speed §7and §a+30% §9",
       "§9Crit Damage§7.",
       "",
       "§a§lUNCOMMON"
     ],
     "internalname": "POTION_SPIRIT;3",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.3.0",
-    "infoType": ""
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "",
+    "info": []
   },
   "POTION_SPIRIT;4": {
     "itemid": "minecraft:potion",
     "displayname": "§aSpirit IV Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0b,Duration:20,Id:1b,Amplifier:3b}],HideFlags:254,display:{Lore:[0:\"\",1:\"§bSpirit IV §f(3:00)\",2:\"§7Grants §a+40 §f✦ Speed §7and §a+40% §9☠\",3:\"§9Crit Damage§7.\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aSpirit IV Potion\"},ExtraAttributes:{potion_level:4,enhanced:1b,potion:\"spirit\",effects:[0:{level:4,effect:\"spirit\",duration_ticks:3600,modifiers:{}}],potion_type:\"POTION\",id:\"POTION_SPIRIT;4\",splash:0b,potion_name:\"Spirit\"}}",
-    "damage": 2,
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:1B},1:{Ambient:0B,Amplifier:3B,Duration:20,Id:1B}],ExtraAttributes:{effects:[0:{duration_ticks:3600,effect:\"spirit\",level:4,modifiers:{}}],enhanced:1B,id:\"POTION_SPIRIT;4\",potion:\"spirit\",potion_level:4,potion_name:\"Spirit\",potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§bSpirit IV §f(3:00)\",2:\"§7Grants §a+40 §f Speed §7and §a+40% §9\",3:\"§9Crit Damage§7.\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aSpirit IV Potion\"}}",
+    "damage": 0,
     "lore": [
       "",
       "§bSpirit IV §f(3:00)",
-      "§7Grants §a+40 §f✦ Speed §7and §a+40% §9☠",
+      "§7Grants §a+40 §f Speed §7and §a+40% §9",
       "§9Crit Damage§7.",
       "",
       "§a§lUNCOMMON"
     ],
     "internalname": "POTION_SPIRIT;4",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.3.0",
-    "infoType": ""
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "infoType": "",
+    "info": []
   },
   "POTION_STAMINA;1": {
     "itemid": "minecraft:potion",
@@ -200925,9 +200965,10 @@
   "POTION_STINKY_CHEESE;1": {
     "itemid": "minecraft:potion",
     "displayname": "§fDouce Pluie de Stinky Cheese I Potion",
-    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:12B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:12B}],ExtraAttributes:{effects:[0:{duration_ticks:72000,effect:\"stinky_cheese\",level:1}],id:\"POTION_STINKY_CHEESE;1\",potion:\"stinky_cheese\",potion_level:1,potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"§eDouce Pluie de Stinky Cheese I §f(1:00:00)\",1:\"§7Gain §2+20 Bonus Pest Chance§7.\",2:\"\",3:\"§f§lCOMMON\"],Name:\"§fDouce Pluie de Stinky Cheese I Potion\"}}",
+    "nbttag": "{CustomPotionEffects:[0:{Ambient:0B,Amplifier:0B,Duration:3600,Id:12B},1:{Ambient:0B,Amplifier:0B,Duration:20,Id:12B}],ExtraAttributes:{effects:[0:{duration_ticks:72000,effect:\"stinky_cheese\",level:1}],id:\"POTION_STINKY_CHEESE;1\",potion:\"stinky_cheese\",potion_level:1,potion_type:\"POTION\",splash:0B},HideFlags:254,ItemModel:\"minecraft:potion\",display:{Lore:[0:\"\",1:\"§eDouce Pluie de Stinky Cheese I §f(1:00:00)\",2:\"§7Gain §2+20 Bonus Pest Chance§7.\",3:\"\",4:\"§f§lCOMMON\"],Name:\"§fDouce Pluie de Stinky Cheese I Potion\"}}",
     "damage": 0,
     "lore": [
+      "",
       "§eDouce Pluie de Stinky Cheese I §f(1:00:00)",
       "§7Gain §2+20 Bonus Pest Chance§7.",
       "",
@@ -200936,7 +200977,7 @@
     "internalname": "POTION_STINKY_CHEESE;1",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "",
     "info": []
   },
