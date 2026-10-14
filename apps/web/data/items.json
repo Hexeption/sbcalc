@@ -37894,13 +37894,13 @@
   "BUZZYBEES_FANTABULOUS_DISCO_DESTINATION": {
     "itemid": "minecraft:mob_spawner",
     "displayname": "§aBuzzybee's Fantabulous Disco Destination",
-    "nbttag": "{ExtraAttributes:{id:\"BUZZYBEES_FANTABULOUS_DISCO_DESTINATION\"},HideFlags:254,ItemModel:\"minecraft:spawner\",display:{Lore:[0:\"§7Place this in your §2Garden §7and fill it\",1:\"§7with Pest Vinyls.\",2:\"\",3:\"§7Offline §2 Pests §7will spawn within §a10\",4:\"§7blocks of this if their Pest Vinyl has\",5:\"§7been placed in this.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aBuzzybee's Fantabulous Disco Destination\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BUZZYBEES_FANTABULOUS_DISCO_DESTINATION\"},HideFlags:254,ItemModel:\"minecraft:spawner\",display:{Lore:[0:\"§7Place this in your §2Garden §7and fill it\",1:\"§7with Pest Vinyls.\",2:\"\",3:\"§7Offline §2 Pests §7will spawn within §a10\",4:\"§7blocks of this if their Pest Vinyl has\",5:\"§7been placed in this.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aBuzzybee's Fantabulous Disco Destination\"}}",
     "damage": 0,
     "lore": [
       "§7Place this in your §2Garden §7and fill it",
       "§7with Pest Vinyls.",
       "",
-      "§7Offline §2 Pests §7will spawn within §a10",
+      "§7Offline §2 Pests §7will spawn within §a10",
       "§7blocks of this if their Pest Vinyl has",
       "§7been placed in this.",
       "",
@@ -37909,7 +37909,7 @@
     "internalname": "BUZZYBEES_FANTABULOUS_DISCO_DESTINATION",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Buzzybee%27s_Fantabulous_Disco_Destination"
@@ -41575,11 +41575,11 @@
   "CARROT_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§fCarrot Bait",
-    "nbttag": "{ExtraAttributes:{id:\"CARROT_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/carrot_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Chance of fishing up... a rabbit?\",4:\"\",5:\"§f§lCOMMON BAIT\"],Name:\"§fCarrot Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CARROT_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/carrot_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Chance of fishing up... a rabbit?\",4:\"\",5:\"§f§lCOMMON BAIT\"],Name:\"§fCarrot Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Chance of fishing up... a rabbit?",
       "",
@@ -41588,7 +41588,7 @@
     "internalname": "CARROT_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Carrot_Bait"
@@ -48590,12 +48590,12 @@
   "COALROOT": {
     "itemid": "minecraft:skull",
     "displayname": "§aCoalroot",
-    "nbttag": "{ExtraAttributes:{id:\"COALROOT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8312649b-f404-338a-81b0-f1581719567e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"MVZDT8qVBOIytYRoFQDoA6tw+e6fN231r4CJr5Oon+yCGTtQleDjBxj1bjdmPtwi4c59R2GFhOQI3IYXJ23gefvKRd9GGAw6W1KHBnTj+btICZrKm48XD1UpRNXMQaeFt3Cq/rQQWt2tfOaZsx5G5Ceb/zpiOkLH/X0/LVcPvoBTAd+GWcCzazVa8kKVa+dVZJm8ywNNjnZA8uViQQaSbTLtT19oukioE9g5juuLwbPLGjcHZVNN1pqJmBKoWG2efHN59WkYZzY8X8PUR+zWs6vlZPHFn/m0ZKxG+8r/rD7G9XV44iDWbMtjNrHpNSLKO/HI0j1VA5ydZSun3mMaGHp68qC8aC0KlBkBLjTehisHW5RorR+MOZBL3Ys0Z/O1hac5JmWDkHTks1yoVlPRyGoafENm53UagxE3tZNi7AMgN2SUM+NtGZbPaq6QE5YbkkNtwSkiT/l32HPnSEg95Rvujo9EjWzi/okcCKYnQURYrAAHi3qqGotzsIjvWhMKHr0FVyFAFLQVLyVyrX0AH8+mBSLMM2H58k90Wpyg1hT3IFQ/FhI3MVVWh44iYXA+JJOUG0gXlAgFDdFWFWqo1HM0HDlqo37cul6WXyGqTN1hGIIR2t8umOjQCEgBQmbbANKocePydRuHl9Nv8WsJLT6wvz8woUSRHjWej8+DO6I=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2NTQ1OTE1NCwKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjk0NjQ0M2ZhMDAzOTM1NGVkZDMxYTcwYzc0OWM0Zjk2MzQ2NDc0NGRjMjBiNzkxMzdiZDk5MTAzNTZlZTkwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Machine Fuel\",1:\"\",2:\"§7Adds §2+5,000♢ Fuel §7to a refuelable\",3:\"§7machine.\",4:\"\",5:\"§7A smoldering root that oddly can\",6:\"§7also be used as fuel.\",7:\"\",8:\"§7Complete Visitor §6Beth's§7 quest to\",9:\"§eAnalyze§7 this crop!\",10:\"\",11:\"§a§lUNCOMMON MUTATION\"],Name:\"§aCoalroot\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"COALROOT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8312649b-f404-338a-81b0-f1581719567e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"MVZDT8qVBOIytYRoFQDoA6tw+e6fN231r4CJr5Oon+yCGTtQleDjBxj1bjdmPtwi4c59R2GFhOQI3IYXJ23gefvKRd9GGAw6W1KHBnTj+btICZrKm48XD1UpRNXMQaeFt3Cq/rQQWt2tfOaZsx5G5Ceb/zpiOkLH/X0/LVcPvoBTAd+GWcCzazVa8kKVa+dVZJm8ywNNjnZA8uViQQaSbTLtT19oukioE9g5juuLwbPLGjcHZVNN1pqJmBKoWG2efHN59WkYZzY8X8PUR+zWs6vlZPHFn/m0ZKxG+8r/rD7G9XV44iDWbMtjNrHpNSLKO/HI0j1VA5ydZSun3mMaGHp68qC8aC0KlBkBLjTehisHW5RorR+MOZBL3Ys0Z/O1hac5JmWDkHTks1yoVlPRyGoafENm53UagxE3tZNi7AMgN2SUM+NtGZbPaq6QE5YbkkNtwSkiT/l32HPnSEg95Rvujo9EjWzi/okcCKYnQURYrAAHi3qqGotzsIjvWhMKHr0FVyFAFLQVLyVyrX0AH8+mBSLMM2H58k90Wpyg1hT3IFQ/FhI3MVVWh44iYXA+JJOUG0gXlAgFDdFWFWqo1HM0HDlqo37cul6WXyGqTN1hGIIR2t8umOjQCEgBQmbbANKocePydRuHl9Nv8WsJLT6wvz8woUSRHjWej8+DO6I=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1OTc2NTQ1OTE1NCwKICAicHJvZmlsZUlkIiA6ICJhNzdkNmQ2YmFjOWE0NzY3YTFhNzU1NjYxOTllYmY5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICIwOEJFRDUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjk0NjQ0M2ZhMDAzOTM1NGVkZDMxYTcwYzc0OWM0Zjk2MzQ2NDc0NGRjMjBiNzkxMzdiZDk5MTAzNTZlZTkwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Machine Fuel\",1:\"\",2:\"§7Adds §2+5,000 Fuel §7to a refuelable\",3:\"§7machine.\",4:\"\",5:\"§7A smoldering root that oddly can\",6:\"§7also be used as fuel.\",7:\"\",8:\"§7Complete Visitor §6Beth's§7 quest to\",9:\"§eAnalyze§7 this crop!\",10:\"\",11:\"§a§lUNCOMMON MUTATION\"],Name:\"§aCoalroot\"}}",
     "damage": 3,
     "lore": [
       "§8Machine Fuel",
       "",
-      "§7Adds §2+5,000♢ Fuel §7to a refuelable",
+      "§7Adds §2+5,000 Fuel §7to a refuelable",
       "§7machine.",
       "",
       "§7A smoldering root that oddly can",
@@ -48609,7 +48609,7 @@
     "internalname": "COALROOT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 42.0.0+mc1.21.7",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Coalroot"
@@ -51702,11 +51702,11 @@
   "CORRUPTED_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§fCorrupted Bait",
-    "nbttag": "{ExtraAttributes:{id:\"CORRUPTED_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/corrupted_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Decreases your §b Fishing Speed §7by\",4:\"§c50%§7, but lures a special Trophy Fish\",5:\"§7in the §cCrimson Isle§7.\",6:\"\",7:\"§f§lCOMMON BAIT\"],Name:\"§fCorrupted Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CORRUPTED_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/corrupted_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Decreases your §b Fishing Speed §7by\",4:\"§c50%§7, but lures a special Trophy Fish\",5:\"§7in the §cCrimson Isle§7.\",6:\"\",7:\"§f§lCOMMON BAIT\"],Name:\"§fCorrupted Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Decreases your §b Fishing Speed §7by",
       "§c50%§7, but lures a special Trophy Fish",
@@ -51717,7 +51717,7 @@
     "internalname": "CORRUPTED_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Magmafish V",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Corrupted_Bait"
@@ -55719,22 +55719,22 @@
   "CRYSTAL_BALL": {
     "itemid": "minecraft:skull",
     "displayname": "§9Crystal Ball",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"070a9665-2306-35a8-8aca-350e54aa8f0c\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGM3N2RmZDIxNTk4YTM5NzRmYTg1OTE5YTE1YzA5NDlmZWM3MzQ0NTFiMTIyMTg5YmEyMTVkMGE5ZDhiZWJmIn19fQ==\"}]}},display:{Lore:[0:\"§8Furniture\",1:\"§8Halloween Cosmetic\",2:\"\",3:\"§7This exclusive §6Halloween\",4:\"§6§7cosmetic can be placed on your\",5:\"§7island or traded.\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Crystal Ball\"},ExtraAttributes:{id:\"CRYSTAL_BALL\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CRYSTAL_BALL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"611eefbe-bec3-395e-ab22-74af17b855be\",Properties:{textures:[0:{Name:\"textures\",Signature:\"l14a0rkA+VapSPcJwhj3mxNTQkPYlOAn7s07nprvxrUpyniieo1Ep+I2mpu0Ezyzt2fs12nVBtDMiAMKs5jYh+zB0azxUxtHoCinjWCwDHL4OPQ8Mx4IMClkaPfSx0m/J7khxEjXVV6qRQRhsnypY7GxYQhPBVmd2iXnwWImka1nGUMdtsy97NOCTkiYVw7uFr3lRmoU1kX/2lIW8XQYeP9UHscptW4+ShuU7L5tRxBetEp5ff6TQqv37t8VjY5QJuYDsIfn38Iilx3EZ6/NufzYrnDK5aKBEBGvnKYHJWOSGGWXpZ9EsrsQ2AX17B86om+0IRTVL/WUWh0uGDWiUoVdpZ3ErbceoJNiznT5aTpN/NWrDwjUw2O82TFM8+Tl/OrcYZf3GPT5weeDtbLdWINk75V7lek906YQV2lDmb4gcO2yD0M1tVkgDwk24ltmUwtIP6xk9wBTst/sLNW9/GbxHuab0fTku/VkOqH0T6yObuQLgs9agjjfXq8Lwu9FZYBhjGdAO1L/+p/rEySvkLQEvrKrngwLESWCc5XW3/Kd3OUDNQAhqh+pLZS5i1nXPxzWFVNTf/7EC8GimCLgMAif+lzTOY38UxIgQx/Z8h0Xq8Cjd8RCGXYAtvMbzMo/YhuZWE68Uig+MlQIzzSPR7MT5YbR2b8ScWzh6l7VPok=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMTQzMjI2ODgwOCwKICAicHJvZmlsZUlkIiA6ICJkZTU3MWExMDJjYjg0ODgwOGZlN2M5ZjQ0OTZlY2RhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNSEZfTWluZXNraW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjliMjRhOGM2MmVmNDgwODg0ZmEwZWRlYjI4MjU1OTIzNTNjNDQxNmM2MzE3ZDk2YzU2NmE2YWViYTE5Y2E1NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Furniture\",1:\"§8Halloween Cosmetic\",2:\"\",3:\"§7This exclusive §6Halloween §7cosmetic\",4:\"§7can be placed on your island or\",5:\"§7traded.\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Crystal Ball\"}}",
     "damage": 3,
     "lore": [
       "§8Furniture",
       "§8Halloween Cosmetic",
       "",
-      "§7This exclusive §6Halloween",
-      "§6§7cosmetic can be placed on your",
-      "§7island or traded.",
+      "§7This exclusive §6Halloween §7cosmetic",
+      "§7can be placed on your island or",
+      "§7traded.",
       "",
       "§9§lRARE"
     ],
     "internalname": "CRYSTAL_BALL",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.1.0-REL",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Crystal_Ball"
@@ -57122,11 +57122,11 @@
   "DARK_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§fDark Bait",
-    "nbttag": "{ExtraAttributes:{id:\"DARK_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/dark_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Increases your chance to catch\",4:\"§7rare Sea Creatures during the night.\",5:\"\",6:\"§f§lCOMMON BAIT\"],Name:\"§fDark Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DARK_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/dark_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Increases your chance to catch\",4:\"§7rare Sea Creatures during the night.\",5:\"\",6:\"§f§lCOMMON BAIT\"],Name:\"§fDark Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Increases your chance to catch",
       "§7rare Sea Creatures during the night.",
@@ -57136,7 +57136,7 @@
     "internalname": "DARK_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Ink Sac II",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dark_Bait"
@@ -58225,9 +58225,11 @@
   "DAYSWITCH": {
     "itemid": "minecraft:skull",
     "displayname": "§9Dayswitch",
-    "nbttag": "{ExtraAttributes:{id:\"DAYSWITCH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"72590c21-cc6d-3bb8-8643-eb5bcafa602b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"dewJZL6lXFgmBRE0CZ43awOQxbxAHz5Y6oQ3NRjxvw42VFRRZSr0TxoGaoTGGDZ5gVone2EhKZATHE8ZzWel0TEXZsMZ9fJSIRPvqps6H7fSRvFTVrgrvxPM06pc2KfREtzI9RkxOpOHi3BTSpKg8t55Nb7Ka1enNqUxoWxuxCXevaXCxS/D+utsNNGM2h1K3LY2/vRE3HAAaJ6f1n59Ku9oIck7Hht7KOOqUKHy36uGlF5tzqMrftAx0dUXNuePEzDq/DLxhGMAprstA8RnVLUVBy9p5kX+GNveSgSdNe7nUbxRjUYPDeAdw2JFhyVI1ntEgSdPbcSrHsIxjubo8dWDpUaWOg9IFRNSRNoZtbqLK+9qU41ve9bifRTO0zJucMJ89OTmxq485kBFwPYDZ1Yg2PO/nLXoMIoirIlh/RWk917X2H6NaBMikXH5INTz8mK+8oJnbDuLfbAR8IlNPV4jLFWBTaVlhc+hRV9z3lRwXRTipIVGpdfTO+lOLsaa9XCZrnRXTISUnfQVpdWRIZGsxnZ+0477K73yrsGGRgjrbNtPDGEIAtzX8xreBmf/0QL33AemBEoWg6t4XqYpWo1oQOzk2FtevejDAws/g0iPgVDHZNISPLMjWQncPg3r335y/joSJ4FjoSQaENeXJfHvwMLkW5myrcTi0C28nBw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2Mjg3NzMxMzkyMCwKICAicHJvZmlsZUlkIiA6ICI1MzgyNzM1OGIzOTc0ZmJiOTg0OTY5MWM5Yzg3NTA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPdmVyQmlnYm95MTIzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JlZThlNWFkNmQzNTkxYzllNmQ1MGU5ZjVkYWQxYWEyYmQwNDRhZDE0NjljMThmMjYxYmYwZGMxMTFmNTRjZTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Can be placed in a Sunflower Minion\",1:\"§7to exclusively produce §fSunflower§7.\",2:\"§7Increases the speed of your minion\",3:\"§7by §a20%§7.\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Dayswitch\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DAYSWITCH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"72590c21-cc6d-3bb8-8643-eb5bcafa602b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"dewJZL6lXFgmBRE0CZ43awOQxbxAHz5Y6oQ3NRjxvw42VFRRZSr0TxoGaoTGGDZ5gVone2EhKZATHE8ZzWel0TEXZsMZ9fJSIRPvqps6H7fSRvFTVrgrvxPM06pc2KfREtzI9RkxOpOHi3BTSpKg8t55Nb7Ka1enNqUxoWxuxCXevaXCxS/D+utsNNGM2h1K3LY2/vRE3HAAaJ6f1n59Ku9oIck7Hht7KOOqUKHy36uGlF5tzqMrftAx0dUXNuePEzDq/DLxhGMAprstA8RnVLUVBy9p5kX+GNveSgSdNe7nUbxRjUYPDeAdw2JFhyVI1ntEgSdPbcSrHsIxjubo8dWDpUaWOg9IFRNSRNoZtbqLK+9qU41ve9bifRTO0zJucMJ89OTmxq485kBFwPYDZ1Yg2PO/nLXoMIoirIlh/RWk917X2H6NaBMikXH5INTz8mK+8oJnbDuLfbAR8IlNPV4jLFWBTaVlhc+hRV9z3lRwXRTipIVGpdfTO+lOLsaa9XCZrnRXTISUnfQVpdWRIZGsxnZ+0477K73yrsGGRgjrbNtPDGEIAtzX8xreBmf/0QL33AemBEoWg6t4XqYpWo1oQOzk2FtevejDAws/g0iPgVDHZNISPLMjWQncPg3r335y/joSJ4FjoSQaENeXJfHvwMLkW5myrcTi0C28nBw=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc2Mjg3NzMxMzkyMCwKICAicHJvZmlsZUlkIiA6ICI1MzgyNzM1OGIzOTc0ZmJiOTg0OTY5MWM5Yzg3NTA1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJPdmVyQmlnYm95MTIzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JlZThlNWFkNmQzNTkxYzllNmQ1MGU5ZjVkYWQxYWEyYmQwNDRhZDE0NjljMThmMjYxYmYwZGMxMTFmNTRjZTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Minion Fuel\",1:\"\",2:\"§7Can be placed in a Sunflower Minion\",3:\"§7to exclusively produce §fSunflower§7.\",4:\"§7Increases the speed of your minion\",5:\"§7by §a20%§7.\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Dayswitch\"}}",
     "damage": 3,
     "lore": [
+      "§8Minion Fuel",
+      "",
       "§7Can be placed in a Sunflower Minion",
       "§7to exclusively produce §fSunflower§7.",
       "§7Increases the speed of your minion",
@@ -58238,7 +58240,7 @@
     "internalname": "DAYSWITCH",
     "clickcommand": "",
     "crafttext": "Requires: Sunflower III",
-    "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dayswitch"
@@ -72227,9 +72229,10 @@
   "ENCHANTED_BREAD": {
     "itemid": "minecraft:bread",
     "displayname": "§fEnchanted Bread",
-    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BREAD\"},HideFlags:254,ItemModel:\"minecraft:bread\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Increases the speed of\",3:\"§7your minion by §a5%§7 for 12\",4:\"§7hours!\",5:\"\",6:\"§f§lCOMMON\"],Name:\"§fEnchanted Bread\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BREAD\"},HideFlags:254,ItemModel:\"minecraft:bread\",display:{Lore:[0:\"§8Minion Fuel\",1:\"§8Collection Item\",2:\"\",3:\"§7Increases the speed of\",4:\"§7your minion by §a5%§7 for 12\",5:\"§7hours!\",6:\"\",7:\"§f§lCOMMON\"],Name:\"§fEnchanted Bread\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Minion Fuel",
       "§8Collection Item",
       "",
       "§7Increases the speed of",
@@ -72241,7 +72244,7 @@
     "internalname": "ENCHANTED_BREAD",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wheat V",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Bread"
@@ -72682,9 +72685,10 @@
   "ENCHANTED_COAL": {
     "itemid": "minecraft:coal",
     "displayname": "§aEnchanted Coal",
-    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COAL\"},HideFlags:254,ItemModel:\"minecraft:coal\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7Increases the speed of\",3:\"§7your minion by §a10%§7 for 24\",4:\"§7hours!\",5:\"\",6:\"§a§lUNCOMMON ORE\"],Name:\"§aEnchanted Coal\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_COAL\"},HideFlags:254,ItemModel:\"minecraft:coal\",display:{Lore:[0:\"§8Minion Fuel\",1:\"§8Collection Item\",2:\"\",3:\"§7Increases the speed of\",4:\"§7your minion by §a10%§7 for 24\",5:\"§7hours!\",6:\"\",7:\"§a§lUNCOMMON ORE\"],Name:\"§aEnchanted Coal\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Minion Fuel",
       "§8Collection Item",
       "",
       "§7Increases the speed of",
@@ -72696,7 +72700,7 @@
     "internalname": "ENCHANTED_COAL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Coal III",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Coal"
@@ -73014,14 +73018,13 @@
   "ENCHANTED_DANDELION": {
     "itemid": "minecraft:yellow_flower",
     "displayname": "§aEnchanted Dandelion",
-    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_DANDELION\"},HideFlags:254,ItemModel:\"minecraft:dandelion\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§8Machine Fuel\",3:\"\",4:\"§7Adds §2+360♢ Fuel §7to a refuelable\",5:\"§7machine.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Dandelion\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_DANDELION\"},HideFlags:254,ItemModel:\"minecraft:dandelion\",display:{Lore:[0:\"§8Machine Fuel\",1:\"§8Collection Item\",2:\"\",3:\"§7Adds §2+360 Fuel §7to a refuelable\",4:\"§7machine.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Dandelion\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Machine Fuel",
       "§8Collection Item",
       "",
-      "§8Machine Fuel",
-      "",
-      "§7Adds §2+360♢ Fuel §7to a refuelable",
+      "§7Adds §2+360 Fuel §7to a refuelable",
       "§7machine.",
       "",
       "§a§lUNCOMMON"
@@ -73029,7 +73032,7 @@
     "internalname": "ENCHANTED_DANDELION",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Dandelion"
@@ -74460,9 +74463,11 @@
   "ENCHANTED_LAVA_BUCKET": {
     "itemid": "minecraft:lava_bucket",
     "displayname": "§5Enchanted Lava Bucket",
-    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_LAVA_BUCKET\"},HideFlags:254,ItemModel:\"minecraft:lava_bucket\",display:{Lore:[0:\"§7Increases the speed of your minion\",1:\"§7by §a25%§7. Unlimited Duration!\",2:\"\",3:\"§5§lEPIC\"],Name:\"§5Enchanted Lava Bucket\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_LAVA_BUCKET\"},HideFlags:254,ItemModel:\"minecraft:lava_bucket\",display:{Lore:[0:\"§8Minion Fuel\",1:\"\",2:\"§7Increases the speed of your minion\",3:\"§7by §a25%§7. Unlimited Duration!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Enchanted Lava Bucket\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Minion Fuel",
+      "",
       "§7Increases the speed of your minion",
       "§7by §a25%§7. Unlimited Duration!",
       "",
@@ -74471,7 +74476,7 @@
     "internalname": "ENCHANTED_LAVA_BUCKET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Coal VIII",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Lava_Bucket"
@@ -75080,14 +75085,13 @@
   "ENCHANTED_POPPY": {
     "itemid": "minecraft:red_flower",
     "displayname": "§aEnchanted Poppy",
-    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_POPPY\"},HideFlags:254,ItemModel:\"minecraft:poppy\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§8Machine Fuel\",3:\"\",4:\"§7Adds §2+1,024♢ Fuel §7to a refuelable\",5:\"§7machine.\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Poppy\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_POPPY\"},HideFlags:254,ItemModel:\"minecraft:poppy\",display:{Lore:[0:\"§8Machine Fuel\",1:\"§8Collection Item\",2:\"\",3:\"§7Adds §2+1,024 Fuel §7to a refuelable\",4:\"§7machine.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Poppy\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Machine Fuel",
       "§8Collection Item",
       "",
-      "§8Machine Fuel",
-      "",
-      "§7Adds §2+1,024♢ Fuel §7to a refuelable",
+      "§7Adds §2+1,024 Fuel §7to a refuelable",
       "§7machine.",
       "",
       "§a§lUNCOMMON"
@@ -75095,7 +75099,7 @@
     "internalname": "ENCHANTED_POPPY",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Poppy"
@@ -96874,9 +96878,10 @@
   "FOUL_FLESH": {
     "itemid": "minecraft:coal",
     "displayname": "§9Foul Flesh",
-    "nbttag": "{ExtraAttributes:{id:\"FOUL_FLESH\"},HideFlags:254,ItemModel:\"minecraft:charcoal\",display:{Lore:[0:\"§8Brewing Ingredient\",1:\"\",2:\"§7Increases the speed of\",3:\"§7your minion by §a90%§7 for 5\",4:\"§7hours!\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Foul Flesh\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FOUL_FLESH\"},HideFlags:254,ItemModel:\"minecraft:charcoal\",display:{Lore:[0:\"§8Minion Fuel\",1:\"§8Brewing Ingredient\",2:\"\",3:\"§7Increases the speed of\",4:\"§7your minion by §a90%§7 for 5\",5:\"§7hours!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Foul Flesh\"}}",
     "damage": 1,
     "lore": [
+      "§8Minion Fuel",
       "§8Brewing Ingredient",
       "",
       "§7Increases the speed of",
@@ -96888,7 +96893,7 @@
     "internalname": "FOUL_FLESH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Foul_Flesh"
@@ -99088,11 +99093,11 @@
   "FROZEN_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§9Frozen Bait",
-    "nbttag": "{ExtraAttributes:{id:\"FROZEN_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/frozen_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+50 Fishing Speed§7.\",4:\"§7Grants §3+8 Sea Creature Chance§7.\",5:\"\",6:\"§7Can only be used in §cJerry's\",7:\"§cWorkshop§7.\",8:\"\",9:\"§9§lRARE BAIT\"],Name:\"§9Frozen Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FROZEN_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/frozen_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §b+50 Fishing Speed§7.\",4:\"§7Grants §3+8 Sea Creature Chance§7.\",5:\"\",6:\"§7Can only be used in §cJerry's\",7:\"§cWorkshop§7.\",8:\"\",9:\"§9§lRARE BAIT\"],Name:\"§9Frozen Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §b+50 Fishing Speed§7.",
       "§7Grants §3+8 Sea Creature Chance§7.",
@@ -99105,7 +99110,7 @@
     "internalname": "FROZEN_BAIT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Frozen_Bait"
@@ -106841,11 +106846,11 @@
   "GLOWY_CHUM_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§aGlowy Chum Bait",
-    "nbttag": "{ExtraAttributes:{id:\"GLOWY_CHUM_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/farming_1/glowy_chum_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+25 Fishing Speed§7.\",4:\"§7Grants §3+3 Sea Creature Chance§7.\",5:\"\",6:\"§7Adds §a+2 Chums §7dropped on Sea\",7:\"§7Creatures fished with this bait.\",8:\"\",9:\"§a§lUNCOMMON BAIT\"],Name:\"§aGlowy Chum Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GLOWY_CHUM_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/farming_1/glowy_chum_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §b+25 Fishing Speed§7.\",4:\"§7Grants §3+3 Sea Creature Chance§7.\",5:\"\",6:\"§7Adds §a+2 Chums §7dropped on Sea\",7:\"§7Creatures fished with this bait.\",8:\"\",9:\"§a§lUNCOMMON BAIT\"],Name:\"§aGlowy Chum Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §b+25 Fishing Speed§7.",
       "§7Grants §3+3 Sea Creature Chance§7.",
@@ -106858,7 +106863,7 @@
     "internalname": "GLOWY_CHUM_BAIT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Glowy_Chum_Bait"
@@ -108121,11 +108126,11 @@
   "GOLDEN_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§aGolden Bait",
-    "nbttag": "{ExtraAttributes:{id:\"GOLDEN_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/golden_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §6+4 Treasure Chance§7.\",4:\"\",5:\"§a§lUNCOMMON BAIT\"],Name:\"§aGolden Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GOLDEN_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/golden_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §6+4 Treasure Chance§7.\",4:\"\",5:\"§a§lUNCOMMON BAIT\"],Name:\"§aGolden Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §6+4 Treasure Chance§7.",
       "",
@@ -108134,7 +108139,7 @@
     "internalname": "GOLDEN_BAIT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Golden_Bait"
@@ -115817,19 +115822,21 @@
   "HAMSTER_WHEEL": {
     "itemid": "minecraft:trapdoor",
     "displayname": "§9Hamster Wheel",
-    "nbttag": "{ExtraAttributes:{id:\"HAMSTER_WHEEL\"},HideFlags:254,ItemModel:\"minecraft:oak_trapdoor\",display:{Lore:[0:\"§7increases the speed of\",1:\"§7your minion by §a50%\",2:\"§7for 24 hours!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Hamster Wheel\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"HAMSTER_WHEEL\"},HideFlags:254,ItemModel:\"minecraft:oak_trapdoor\",display:{Lore:[0:\"§8Minion Fuel\",1:\"\",2:\"§7Increases the speed of\",3:\"§7your minion by §a50%§7 for 24\",4:\"§7hours!\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Hamster Wheel\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7increases the speed of",
-      "§7your minion by §a50%",
-      "§7for 24 hours!",
+      "§8Minion Fuel",
+      "",
+      "§7Increases the speed of",
+      "§7your minion by §a50%§7 for 24",
+      "§7hours!",
       "",
       "§9§lRARE"
     ],
     "internalname": "HAMSTER_WHEEL",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Hamster_Wheel"
@@ -121461,7 +121468,7 @@
   "HOLY_ICE": {
     "itemid": "minecraft:diamond",
     "displayname": "§9Holy Ice",
-    "nbttag": "{ExtraAttributes:{id:\"HOLY_ICE\"},HideFlags:254,ItemModel:\"minecraft:diamond\",display:{Lore:[0:\"§6Ability: Splash Yo Face  §e§lRIGHT CLICK\",1:\"§7For the next §a1.5s§7, reduce §c❤ §7damage taken by\",2:\"§a80%§7.\",3:\"§8Mana Cost: §b20\",4:\"§8Cooldown: §a4s\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Holy Ice\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"HOLY_ICE\"},HideFlags:254,ItemModel:\"minecraft:diamond\",display:{Lore:[0:\"§6Ability: Splash Yo Face  §e§lRIGHT CLICK\",1:\"§7For the next §a1.5s§7, reduce §c❤ §7damage taken by\",2:\"§a80%§7.\",3:\"§8Mana Cost: §b20\",4:\"§8Cooldown: §a4s\",5:\"\",6:\"§4☠ §cRequires §5Vampire Slayer 1§c.\",7:\"§9§lRARE\"],Name:\"§9Holy Ice\"}}",
     "damage": 0,
     "lore": [
       "§6Ability: Splash Yo Face  §e§lRIGHT CLICK",
@@ -121470,6 +121477,7 @@
       "§8Mana Cost: §b20",
       "§8Cooldown: §a4s",
       "",
+      "§4☠ §cRequires §5Vampire Slayer 1§c.",
       "§9§lRARE"
     ],
     "internalname": "HOLY_ICE",
@@ -122561,11 +122569,11 @@
   "HOTSPOT_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§9Hotspot Bait",
-    "nbttag": "{ExtraAttributes:{id:\"HOTSPOT_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/hotspot_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants a §a+20% §7chance to catch\",4:\"§dHotspot Sea Creatures §7while fishing\",5:\"§7in a §dHotspot§7.\",6:\"\",7:\"§9§lRARE BAIT\"],Name:\"§9Hotspot Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"HOTSPOT_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/hotspot_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants a §a+20% §7chance to catch\",4:\"§dHotspot Sea Creatures §7while fishing\",5:\"§7in a §dHotspot§7.\",6:\"\",7:\"§9§lRARE BAIT\"],Name:\"§9Hotspot Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants a §a+20% §7chance to catch",
       "§dHotspot Sea Creatures §7while fishing",
@@ -122576,7 +122584,7 @@
     "internalname": "HOTSPOT_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Pufferfish VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Hotspot_Bait"
@@ -123026,11 +123034,11 @@
   "HOT_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§aHot Bait",
-    "nbttag": "{ExtraAttributes:{id:\"HOT_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/hot_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+15 Fishing Speed§7 and §6+5\",4:\"§6Trophy Chance§7.\",5:\"\",6:\"§a§lUNCOMMON BAIT\"],Name:\"§aHot Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"HOT_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/hot_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §b+15 Fishing Speed§7 and §6+5\",4:\"§6Trophy Chance§7.\",5:\"\",6:\"§a§lUNCOMMON BAIT\"],Name:\"§aHot Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §b+15 Fishing Speed§7 and §6+5",
       "§6Trophy Chance§7.",
@@ -123040,7 +123048,7 @@
     "internalname": "HOT_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Magmafish II",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Hot_Bait"
@@ -125590,11 +125598,11 @@
   "ICE_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§aIce Bait",
-    "nbttag": "{ExtraAttributes:{id:\"ICE_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/ice_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+25 Fishing Speed§7.\",4:\"§7Grants §3+4 Sea Creature Chance§7.\",5:\"\",6:\"§7Can only be used in §cJerry's\",7:\"§cWorkshop§7.\",8:\"\",9:\"§a§lUNCOMMON BAIT\"],Name:\"§aIce Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ICE_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/ice_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §b+25 Fishing Speed§7.\",4:\"§7Grants §3+4 Sea Creature Chance§7.\",5:\"\",6:\"§7Can only be used in §cJerry's\",7:\"§cWorkshop§7.\",8:\"\",9:\"§a§lUNCOMMON BAIT\"],Name:\"§aIce Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §b+25 Fishing Speed§7.",
       "§7Grants §3+4 Sea Creature Chance§7.",
@@ -125607,7 +125615,7 @@
     "internalname": "ICE_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Ice II",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ice_Bait"
@@ -143270,11 +143278,11 @@
   "LIGHT_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§fLight Bait",
-    "nbttag": "{ExtraAttributes:{id:\"LIGHT_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/light_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Increases your chance to catch\",4:\"§7rare Sea Creatures during the day.\",5:\"\",6:\"§f§lCOMMON BAIT\"],Name:\"§fLight Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"LIGHT_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/light_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Increases your chance to catch\",4:\"§7rare Sea Creatures during the day.\",5:\"\",6:\"§f§lCOMMON BAIT\"],Name:\"§fLight Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Increases your chance to catch",
       "§7rare Sea Creatures during the day.",
@@ -143284,7 +143292,7 @@
     "internalname": "LIGHT_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Prismarine Crystals II",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Light_Bait"
@@ -149074,9 +149082,11 @@
   "MAGMA_BUCKET": {
     "itemid": "minecraft:paper",
     "displayname": "§6Magma Bucket",
-    "nbttag": "{ExtraAttributes:{id:\"MAGMA_BUCKET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/magma_bucket\",display:{Lore:[0:\"§7Increases the speed of your minion\",1:\"§7by §a30%§7. Unlimited Duration!\",2:\"\",3:\"§6§lLEGENDARY\"],Name:\"§6Magma Bucket\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"MAGMA_BUCKET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/magma_bucket\",display:{Lore:[0:\"§8Minion Fuel\",1:\"\",2:\"§7Increases the speed of your minion\",3:\"§7by §a30%§7. Unlimited Duration!\",4:\"\",5:\"§6§lLEGENDARY\"],Name:\"§6Magma Bucket\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Minion Fuel",
+      "",
       "§7Increases the speed of your minion",
       "§7by §a30%§7. Unlimited Duration!",
       "",
@@ -149085,7 +149095,7 @@
     "internalname": "MAGMA_BUCKET",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Magma_Bucket"
@@ -157972,11 +157982,11 @@
   "MINNOW_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§fMinnow Bait",
-    "nbttag": "{ExtraAttributes:{id:\"MINNOW_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/minnow_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+25 Fishing Speed§7.\",4:\"\",5:\"§f§lCOMMON BAIT\"],Name:\"§fMinnow Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MINNOW_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/minnow_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §b+25 Fishing Speed§7.\",4:\"\",5:\"§f§lCOMMON BAIT\"],Name:\"§fMinnow Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §b+25 Fishing Speed§7.",
       "",
@@ -157985,7 +157995,7 @@
     "internalname": "MINNOW_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Raw Cod I",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Minnow_Bait"
@@ -167470,9 +167480,11 @@
   "NIGHTSWITCH": {
     "itemid": "minecraft:skull",
     "displayname": "§9Nightswitch",
-    "nbttag": "{ExtraAttributes:{id:\"NIGHTSWITCH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"00e8905c-495c-3feb-8888-3b8b47a48ad3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"L0Zc3XQzFbhiy3xOgXIUgUK6BBWHnGeWplZqjMnVql20Fa5hAO6thSUru45Hxzc8qxyh20pQwAdcvofbP7OmxtpdkGokXgAx1Kp/M9eO69BYy5p9DNIthT7GNQD6YuQBvCpdfYzzdAhbTx5zrUsTG+qLOuKkcZIWB6jMdavCh3ZhNpMxCja3AsSCjWb/d74fHWl89XSWzBtbg03XDC2Qc1o4q/2up4j4EoLaUAPekXiS5XlGPikCH/yWnQerDX0p23bhQNynLRsc/OGEEwk5Ezivd67RlgImgGyfq27Lg7Xj3BuP9oTeI1sZmYf5UiKm85vbfuNoWmKmRQjynb6fsG7/SdyXsctu4TMXXgbHa22U6L5hMCFsUJzsBTVSTdBj2D8dpk2BhvIwDOnGQTt6PfUpQg5aP6dMHq3xXecV8ocnVh4754345U9o8U177BtThZMCl3AZNHux9oflXK+VpRQmYDlQ6mkRCeU91sL1Cq2h2kJcOZ6dZKAkIfHaWYfuG8sn7CqkGZzaqGAfPFKZrppEkWZqzS50bstVaMkMBg/+Y4XvNE7HCfo3YvufqbN2vIvv6SinZHM6r0csKkFO0oeXhLSTVRRW1k+3Rp0idIO5mWosibWjH/qYWrCdgGaDYWultdqS8kGe6E4FwtFGiLlWFaDUfyUQxSKXwO0Bt0o=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1NzAwMTQ5NTIzMiwKICAicHJvZmlsZUlkIiA6ICJjZjc4YzFkZjE3ZTI0Y2Q5YTIxYmU4NWQ0NDk5ZWE4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXR0c0FybW9yU3RhbmRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3NThlOTM3MWM0ZTYxMjVhY2FmNWJmZTVlOGUzMWE1NmY5Nzk2MTAwZTkwNTY5MTc4MmUyODM2YTRjMDUzYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Can be placed in a Sunflower Minion\",1:\"§7to exclusively produce §fMoonflower§7.\",2:\"§7Increases the speed of your minion\",3:\"§7by §a20%§7.\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Nightswitch\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"NIGHTSWITCH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"00e8905c-495c-3feb-8888-3b8b47a48ad3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"L0Zc3XQzFbhiy3xOgXIUgUK6BBWHnGeWplZqjMnVql20Fa5hAO6thSUru45Hxzc8qxyh20pQwAdcvofbP7OmxtpdkGokXgAx1Kp/M9eO69BYy5p9DNIthT7GNQD6YuQBvCpdfYzzdAhbTx5zrUsTG+qLOuKkcZIWB6jMdavCh3ZhNpMxCja3AsSCjWb/d74fHWl89XSWzBtbg03XDC2Qc1o4q/2up4j4EoLaUAPekXiS5XlGPikCH/yWnQerDX0p23bhQNynLRsc/OGEEwk5Ezivd67RlgImgGyfq27Lg7Xj3BuP9oTeI1sZmYf5UiKm85vbfuNoWmKmRQjynb6fsG7/SdyXsctu4TMXXgbHa22U6L5hMCFsUJzsBTVSTdBj2D8dpk2BhvIwDOnGQTt6PfUpQg5aP6dMHq3xXecV8ocnVh4754345U9o8U177BtThZMCl3AZNHux9oflXK+VpRQmYDlQ6mkRCeU91sL1Cq2h2kJcOZ6dZKAkIfHaWYfuG8sn7CqkGZzaqGAfPFKZrppEkWZqzS50bstVaMkMBg/+Y4XvNE7HCfo3YvufqbN2vIvv6SinZHM6r0csKkFO0oeXhLSTVRRW1k+3Rp0idIO5mWosibWjH/qYWrCdgGaDYWultdqS8kGe6E4FwtFGiLlWFaDUfyUQxSKXwO0Bt0o=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1NzAwMTQ5NTIzMiwKICAicHJvZmlsZUlkIiA6ICJjZjc4YzFkZjE3ZTI0Y2Q5YTIxYmU4NWQ0NDk5ZWE4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXR0c0FybW9yU3RhbmRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3NThlOTM3MWM0ZTYxMjVhY2FmNWJmZTVlOGUzMWE1NmY5Nzk2MTAwZTkwNTY5MTc4MmUyODM2YTRjMDUzYSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Minion Fuel\",1:\"\",2:\"§7Can be placed in a Sunflower Minion\",3:\"§7to exclusively produce §fMoonflower§7.\",4:\"§7Increases the speed of your minion\",5:\"§7by §a20%§7.\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Nightswitch\"}}",
     "damage": 3,
     "lore": [
+      "§8Minion Fuel",
+      "",
       "§7Can be placed in a Sunflower Minion",
       "§7to exclusively produce §fMoonflower§7.",
       "§7Increases the speed of your minion",
@@ -167483,7 +167495,7 @@
     "internalname": "NIGHTSWITCH",
     "clickcommand": "",
     "crafttext": "Requires: Moonflower II",
-    "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Nightswitch"
@@ -169148,11 +169160,11 @@
   "OBFUSCATED_FISH_1_BRONZE": {
     "itemid": "minecraft:paper",
     "displayname": "§f§kObfuscated-1 §8§lBRONZE",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_BRONZE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_1_bronze\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §8§lBRONZE\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_BRONZE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_1_bronze\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §8§lBRONZE\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Caught with Corrupted Bait.",
       "",
@@ -169165,7 +169177,7 @@
     "internalname": "OBFUSCATED_FISH_1_BRONZE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -169174,11 +169186,11 @@
   "OBFUSCATED_FISH_1_DIAMOND": {
     "itemid": "minecraft:paper",
     "displayname": "§f§kObfuscated-1 §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_1_diamond\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §b§lDIAMOND\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_1_diamond\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §b§lDIAMOND\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Caught with Corrupted Bait.",
       "",
@@ -169191,7 +169203,7 @@
     "internalname": "OBFUSCATED_FISH_1_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -169200,11 +169212,11 @@
   "OBFUSCATED_FISH_1_GOLD": {
     "itemid": "minecraft:paper",
     "displayname": "§f§kObfuscated-1 §6§lGOLD",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_1_gold\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §6§lGOLD\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_1_gold\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §6§lGOLD\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Caught with Corrupted Bait.",
       "",
@@ -169217,7 +169229,7 @@
     "internalname": "OBFUSCATED_FISH_1_GOLD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -169226,11 +169238,11 @@
   "OBFUSCATED_FISH_1_SILVER": {
     "itemid": "minecraft:paper",
     "displayname": "§f§kObfuscated-1 §7§lSILVER",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_1_silver\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §7§lSILVER\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_1_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_1_silver\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Caught with Corrupted Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§f§lCOMMON TROPHY\"],Name:\"§f§kObfuscated-1 §7§lSILVER\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Caught with Corrupted Bait.",
       "",
@@ -169243,7 +169255,7 @@
     "internalname": "OBFUSCATED_FISH_1_SILVER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -169252,11 +169264,11 @@
   "OBFUSCATED_FISH_2_BRONZE": {
     "itemid": "minecraft:paper",
     "displayname": "§a§kObfuscated-2 §8§lBRONZE",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_BRONZE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_bronze\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §8§lBRONZE\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_BRONZE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_bronze\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §8§lBRONZE\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Caught with §7§kObfuscated 1§7 Bait.",
       "",
@@ -169269,7 +169281,7 @@
     "internalname": "OBFUSCATED_FISH_2_BRONZE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -169278,11 +169290,11 @@
   "OBFUSCATED_FISH_2_DIAMOND": {
     "itemid": "minecraft:paper",
     "displayname": "§a§kObfuscated-2 §b§lDIAMOND",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_diamond\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §b§lDIAMOND\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_diamond\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §b§lDIAMOND\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Caught with §7§kObfuscated 1§7 Bait.",
       "",
@@ -169295,7 +169307,7 @@
     "internalname": "OBFUSCATED_FISH_2_DIAMOND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -169304,11 +169316,11 @@
   "OBFUSCATED_FISH_2_GOLD": {
     "itemid": "minecraft:paper",
     "displayname": "§a§kObfuscated-2 §6§lGOLD",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_gold\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §6§lGOLD\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_GOLD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_gold\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §6§lGOLD\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Caught with §7§kObfuscated 1§7 Bait.",
       "",
@@ -169321,7 +169333,7 @@
     "internalname": "OBFUSCATED_FISH_2_GOLD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -169330,11 +169342,11 @@
   "OBFUSCATED_FISH_2_SILVER": {
     "itemid": "minecraft:paper",
     "displayname": "§a§kObfuscated-2 §7§lSILVER",
-    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_silver\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §7§lSILVER\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OBFUSCATED_FISH_2_SILVER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/obfuscated_fish_2_silver\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Caught with §7§kObfuscated 1§7 Bait.\",4:\"\",5:\"§7Bring this to §fOdger §7at the top of the\",6:\"§6Blazing Volcano§7.\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§a§lUNCOMMON TROPHY\"],Name:\"§a§kObfuscated-2 §7§lSILVER\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Caught with §7§kObfuscated 1§7 Bait.",
       "",
@@ -169347,7 +169359,7 @@
     "internalname": "OBFUSCATED_FISH_2_SILVER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Trophy_Fishes"
@@ -195387,9 +195399,11 @@
   "PLASMA_BUCKET": {
     "itemid": "minecraft:paper",
     "displayname": "§dPlasma Bucket",
-    "nbttag": "{ExtraAttributes:{id:\"PLASMA_BUCKET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/plasma_bucket\",display:{Lore:[0:\"§7Increases the speed of your minion\",1:\"§7by §a35%§7. Unlimited Duration!\",2:\"\",3:\"§d§lMYTHIC\"],Name:\"§dPlasma Bucket\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PLASMA_BUCKET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/plasma_bucket\",display:{Lore:[0:\"§8Minion Fuel\",1:\"\",2:\"§7Increases the speed of your minion\",3:\"§7by §a35%§7. Unlimited Duration!\",4:\"\",5:\"§d§lMYTHIC\"],Name:\"§dPlasma Bucket\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Minion Fuel",
+      "",
       "§7Increases the speed of your minion",
       "§7by §a35%§7. Unlimited Duration!",
       "",
@@ -195398,7 +195412,7 @@
     "internalname": "PLASMA_BUCKET",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Plasma_Bucket"
@@ -216637,15 +216651,16 @@
   "RETIA_FORTA": {
     "itemid": "minecraft:paper",
     "displayname": "§5Greater Huntrap",
-    "nbttag": "{ExtraAttributes:{id:\"RETIA_FORTA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/traps/greater_huntrap\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Retentio  §e§lRIGHT CLICK\",3:\"§cTraps §7can be placed near the spawn\",4:\"§7location of a §9Shard §7creature, with\",5:\"§7time it will eventually catch it.\",6:\"\",7:\"§6Ability: Forta \",8:\"§7Reduces the time to capture by §c35%§7.\",9:\"\",10:\"§7§oSagacitas et fortitudo coniuncta.\",11:\"\",12:\"§4❣ §cRequires §aHunting Skill 15§c.\",13:\"§5§lEPIC TRAP\"],Name:\"§5Greater Huntrap\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RETIA_FORTA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/traps/greater_huntrap\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Retentio  §e§lRIGHT CLICK\",3:\"§6Hunting Traps §7can be placed near\",4:\"§7the spawn location of a §9Shard\",5:\"§7creature, with time it will eventually\",6:\"§7catch it.\",7:\"\",8:\"§6Ability: Forta \",9:\"§7Reduces the time to capture by §c35%§7.\",10:\"\",11:\"§7§oSagacitas et fortitudo coniuncta.\",12:\"\",13:\"§4❣ §cRequires §aHunting Skill 15§c.\",14:\"§5§lEPIC TRAP\"],Name:\"§5Greater Huntrap\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
       "",
       "§6Ability: Retentio  §e§lRIGHT CLICK",
-      "§cTraps §7can be placed near the spawn",
-      "§7location of a §9Shard §7creature, with",
-      "§7time it will eventually catch it.",
+      "§6Hunting Traps §7can be placed near",
+      "§7the spawn location of a §9Shard",
+      "§7creature, with time it will eventually",
+      "§7catch it.",
       "",
       "§6Ability: Forta ",
       "§7Reduces the time to capture by §c35%§7.",
@@ -216658,7 +216673,7 @@
     "internalname": "RETIA_FORTA",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Greater_Huntrap"
@@ -216683,15 +216698,16 @@
   "RETIA_MELIORA": {
     "itemid": "minecraft:paper",
     "displayname": "§aMedium Huntrap",
-    "nbttag": "{ExtraAttributes:{id:\"RETIA_MELIORA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/traps/medium_huntrap\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Retentio  §e§lRIGHT CLICK\",3:\"§cTraps §7can be placed near the spawn\",4:\"§7location of a §9Shard §7creature, with\",5:\"§7time it will eventually catch it.\",6:\"\",7:\"§6Ability: Meliora \",8:\"§7Reduces the time to capture by §c10%§7.\",9:\"\",10:\"§8§oUbi ars naturam superat.\",11:\"\",12:\"§4❣ §cRequires §aHunting Skill 5§c.\",13:\"§a§lUNCOMMON TRAP\"],Name:\"§aMedium Huntrap\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RETIA_MELIORA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/traps/medium_huntrap\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Retentio  §e§lRIGHT CLICK\",3:\"§6Hunting Traps §7can be placed near\",4:\"§7the spawn location of a §9Shard\",5:\"§7creature, with time it will eventually\",6:\"§7catch it.\",7:\"\",8:\"§6Ability: Meliora \",9:\"§7Reduces the time to capture by §c10%§7.\",10:\"\",11:\"§8§oUbi ars naturam superat.\",12:\"\",13:\"§4❣ §cRequires §aHunting Skill 5§c.\",14:\"§a§lUNCOMMON TRAP\"],Name:\"§aMedium Huntrap\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
       "",
       "§6Ability: Retentio  §e§lRIGHT CLICK",
-      "§cTraps §7can be placed near the spawn",
-      "§7location of a §9Shard §7creature, with",
-      "§7time it will eventually catch it.",
+      "§6Hunting Traps §7can be placed near",
+      "§7the spawn location of a §9Shard",
+      "§7creature, with time it will eventually",
+      "§7catch it.",
       "",
       "§6Ability: Meliora ",
       "§7Reduces the time to capture by §c10%§7.",
@@ -216704,7 +216720,7 @@
     "internalname": "RETIA_MELIORA",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Medium_Huntrap"
@@ -216729,15 +216745,16 @@
   "RETIA_ROBUSTA": {
     "itemid": "minecraft:paper",
     "displayname": "§9Large Huntrap",
-    "nbttag": "{ExtraAttributes:{id:\"RETIA_ROBUSTA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/traps/large_huntrap\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Retentio  §e§lRIGHT CLICK\",3:\"§cTraps §7can be placed near the spawn\",4:\"§7location of a §9Shard §7creature, with\",5:\"§7time it will eventually catch it.\",6:\"\",7:\"§6Ability: Robusta \",8:\"§7Reduces the time to capture by §c20%§7.\",9:\"\",10:\"§7§oIn robore, fiducia.\",11:\"\",12:\"§4❣ §cRequires §aHunting Skill 10§c.\",13:\"§9§lRARE TRAP\"],Name:\"§9Large Huntrap\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RETIA_ROBUSTA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/traps/large_huntrap\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Retentio  §e§lRIGHT CLICK\",3:\"§6Hunting Traps §7can be placed near\",4:\"§7the spawn location of a §9Shard\",5:\"§7creature, with time it will eventually\",6:\"§7catch it.\",7:\"\",8:\"§6Ability: Robusta \",9:\"§7Reduces the time to capture by §c20%§7.\",10:\"\",11:\"§7§oIn robore, fiducia.\",12:\"\",13:\"§4❣ §cRequires §aHunting Skill 10§c.\",14:\"§9§lRARE TRAP\"],Name:\"§9Large Huntrap\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
       "",
       "§6Ability: Retentio  §e§lRIGHT CLICK",
-      "§cTraps §7can be placed near the spawn",
-      "§7location of a §9Shard §7creature, with",
-      "§7time it will eventually catch it.",
+      "§6Hunting Traps §7can be placed near",
+      "§7the spawn location of a §9Shard",
+      "§7creature, with time it will eventually",
+      "§7catch it.",
       "",
       "§6Ability: Robusta ",
       "§7Reduces the time to capture by §c20%§7.",
@@ -216750,7 +216767,7 @@
     "internalname": "RETIA_ROBUSTA",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Large_Huntrap"
@@ -216775,15 +216792,16 @@
   "RETIA_SUPREMA": {
     "itemid": "minecraft:paper",
     "displayname": "§6Astral Huntrap",
-    "nbttag": "{ExtraAttributes:{id:\"RETIA_SUPREMA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/traps/astral_huntrap\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Retentio  §e§lRIGHT CLICK\",3:\"§cTraps §7can be placed near the spawn\",4:\"§7location of a §9Shard §7creature, with\",5:\"§7time it will eventually catch it.\",6:\"\",7:\"§6Ability: Suprema \",8:\"§7Reduces the time to capture by §c50%§7.\",9:\"\",10:\"§7§oSuprema inter retia, nulla praeda\",11:\"§7§oelabitur.\",12:\"\",13:\"§4❣ §cRequires §aHunting Skill 20§c.\",14:\"§6§lLEGENDARY TRAP\"],Name:\"§6Astral Huntrap\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RETIA_SUPREMA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/traps/astral_huntrap\",display:{Lore:[0:\"§8Hunting Tool\",1:\"\",2:\"§6Ability: Retentio  §e§lRIGHT CLICK\",3:\"§6Hunting Traps §7can be placed near\",4:\"§7the spawn location of a §9Shard\",5:\"§7creature, with time it will eventually\",6:\"§7catch it.\",7:\"\",8:\"§6Ability: Suprema \",9:\"§7Reduces the time to capture by §c50%§7.\",10:\"\",11:\"§7§oSuprema inter retia, nulla praeda\",12:\"§7§oelabitur.\",13:\"\",14:\"§4❣ §cRequires §aHunting Skill 20§c.\",15:\"§6§lLEGENDARY TRAP\"],Name:\"§6Astral Huntrap\"}}",
     "damage": 0,
     "lore": [
       "§8Hunting Tool",
       "",
       "§6Ability: Retentio  §e§lRIGHT CLICK",
-      "§cTraps §7can be placed near the spawn",
-      "§7location of a §9Shard §7creature, with",
-      "§7time it will eventually catch it.",
+      "§6Hunting Traps §7can be placed near",
+      "§7the spawn location of a §9Shard",
+      "§7creature, with time it will eventually",
+      "§7catch it.",
       "",
       "§6Ability: Suprema ",
       "§7Reduces the time to capture by §c50%§7.",
@@ -216797,7 +216815,7 @@
     "internalname": "RETIA_SUPREMA",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Astral_Huntrap"
@@ -228948,11 +228966,11 @@
   "SHARK_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§aShark Bait",
-    "nbttag": "{ExtraAttributes:{id:\"SHARK_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/marina/shark_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants a §a+20% §7chance to catch\",4:\"§bSharks §7during the §bFishing Festival§7.\",5:\"\",6:\"§a§lUNCOMMON BAIT\"],Name:\"§aShark Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SHARK_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/marina/shark_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants a §a+20% §7chance to catch\",4:\"§bSharks §7during the §bFishing Festival§7.\",5:\"\",6:\"§a§lUNCOMMON BAIT\"],Name:\"§aShark Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants a §a+20% §7chance to catch",
       "§bSharks §7during the §bFishing Festival§7.",
@@ -228962,7 +228980,7 @@
     "internalname": "SHARK_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Shark_Bait"
@@ -247381,11 +247399,11 @@
   "SPIKED_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§fSpiked Bait",
-    "nbttag": "{ExtraAttributes:{id:\"SPIKED_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/spiked_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §3+6 Sea Creature Chance§7.\",4:\"\",5:\"§f§lCOMMON BAIT\"],Name:\"§fSpiked Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPIKED_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/spiked_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §3+6 Sea Creature Chance§7.\",4:\"\",5:\"§f§lCOMMON BAIT\"],Name:\"§fSpiked Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §3+6 Sea Creature Chance§7.",
       "",
@@ -247394,7 +247412,7 @@
     "internalname": "SPIKED_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Pufferfish I",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spiked_Bait"
@@ -248599,11 +248617,11 @@
   "SPOOKY_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§fSpooky Bait",
-    "nbttag": "{ExtraAttributes:{id:\"SPOOKY_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/spooky_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+25 Fishing Speed §7and a\",4:\"§a+15% §7chance to catch §6Spooky Sea\",5:\"§6Creatures §7during the §6Spooky Festival§7.\",6:\"\",7:\"§f§lCOMMON BAIT\"],Name:\"§fSpooky Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPOOKY_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/spooky_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §b+25 Fishing Speed §7and a\",4:\"§a+15% §7chance to catch §6Spooky Sea\",5:\"§6Creatures §7during the §6Spooky Festival§7.\",6:\"\",7:\"§f§lCOMMON BAIT\"],Name:\"§fSpooky Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §b+25 Fishing Speed §7and a",
       "§a+15% §7chance to catch §6Spooky Sea",
@@ -248614,7 +248632,7 @@
     "internalname": "SPOOKY_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spooky_Bait"
@@ -266066,9 +266084,11 @@
   "THORNY_VINES": {
     "itemid": "minecraft:vine",
     "displayname": "§9Thorny Vines",
-    "nbttag": "{ExtraAttributes:{id:\"THORNY_VINES\"},HideFlags:254,ItemModel:\"minecraft:vine\",display:{Lore:[0:\"§7Can be placed in a Flower Minion to\",1:\"§7exclusively produce §fWild Rose§7.\",2:\"§7Increases the speed of your minion\",3:\"§7by §a20%§7. Unlimited Duration!\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Thorny Vines\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"THORNY_VINES\"},HideFlags:254,ItemModel:\"minecraft:vine\",display:{Lore:[0:\"§8Minion Fuel\",1:\"\",2:\"§7Can be placed in a Flower Minion to\",3:\"§7exclusively produce §fWild Rose§7.\",4:\"§7Increases the speed of your minion\",5:\"§7by §a20%§7. Unlimited Duration!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Thorny Vines\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Minion Fuel",
+      "",
       "§7Can be placed in a Flower Minion to",
       "§7exclusively produce §fWild Rose§7.",
       "§7Increases the speed of your minion",
@@ -266079,7 +266099,7 @@
     "internalname": "THORNY_VINES",
     "clickcommand": "",
     "crafttext": "Requires: Wild Rose II",
-    "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Thorny_Vines"
@@ -270549,7 +270569,7 @@
   "TOTEM_OF_CORRUPTION": {
     "itemid": "minecraft:banner",
     "displayname": "§aTotem of Corruption",
-    "nbttag": "{ExtraAttributes:{id:\"TOTEM_OF_CORRUPTION\"},HideFlags:254,ItemModel:\"minecraft:white_banner\",display:{Lore:[0:\"§8Fishing Deployable\",1:\"\",2:\"§6Ability: Deploy  §e§lRIGHT CLICK\",3:\"§7Place a totem down for §a5m§7, buffing\",4:\"§7only yourself within §a30 §7blocks.\",5:\"§8Mana Cost: §b500\",6:\"\",7:\"§aDeployable Buff: Corrupted\",8:\"§a• §3Sea Creatures §7you fish up will be\",9:\"§5Corrupted§7.\",10:\"§8Corrupted Sea Creatures may drop\",11:\"§8an exclusive Trophy Fish.\",12:\"\",13:\"§8Only one deployable can be active at\",14:\"§8a time.\",15:\"\",16:\"§a§lUNCOMMON DEPLOYABLE\"],Name:\"§aTotem of Corruption\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TOTEM_OF_CORRUPTION\"},HideFlags:254,ItemModel:\"minecraft:white_banner\",display:{Lore:[0:\"§8Fishing Deployable\",1:\"\",2:\"§6Ability: Deploy  §e§lRIGHT CLICK\",3:\"§7Place a totem down for §a5m§7, buffing\",4:\"§7only yourself within §a30 §7blocks.\",5:\"§8Mana Cost: §3500\",6:\"\",7:\"§aDeployable Buff: Corrupted\",8:\"§a• §3Sea Creatures §7you fish up will be\",9:\"§5Corrupted§7.\",10:\"§8Corrupted Sea Creatures may drop\",11:\"§8an exclusive Trophy Fish.\",12:\"\",13:\"§8Only one deployable can be active at\",14:\"§8a time.\",15:\"\",16:\"§a§lUNCOMMON DEPLOYABLE\"],Name:\"§aTotem of Corruption\"}}",
     "damage": 15,
     "lore": [
       "§8Fishing Deployable",
@@ -270557,7 +270577,7 @@
       "§6Ability: Deploy  §e§lRIGHT CLICK",
       "§7Place a totem down for §a5m§7, buffing",
       "§7only yourself within §a30 §7blocks.",
-      "§8Mana Cost: §b500",
+      "§8Mana Cost: §3500",
       "",
       "§aDeployable Buff: Corrupted",
       "§a• §3Sea Creatures §7you fish up will be",
@@ -270573,7 +270593,7 @@
     "internalname": "TOTEM_OF_CORRUPTION",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Sulphur IV",
-    "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Totem_of_Corruption"
@@ -271179,11 +271199,11 @@
   "TREASURE_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§9Treasure Bait",
-    "nbttag": "{ExtraAttributes:{id:\"TREASURE_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/treasure_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+10 Fishing Speed§7 and §6+2\",4:\"§6Treasure Chance§7.\",5:\"\",6:\"§9§lRARE BAIT\"],Name:\"§9Treasure Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TREASURE_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/treasure_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §b+10 Fishing Speed§7 and §6+2\",4:\"§6Treasure Chance§7.\",5:\"\",6:\"§9§lRARE BAIT\"],Name:\"§9Treasure Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §b+10 Fishing Speed§7 and §6+2",
       "§6Treasure Chance§7.",
@@ -271193,7 +271213,7 @@
     "internalname": "TREASURE_BAIT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Treasure_Bait"
@@ -289304,11 +289324,11 @@
   "WHALE_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§9Whale Bait",
-    "nbttag": "{ExtraAttributes:{id:\"WHALE_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/whale_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+30 Fishing Speed §7and\",4:\"§7increases your chance to catch\",5:\"§7rare Sea Creatures.\",6:\"\",7:\"§9§lRARE BAIT\"],Name:\"§9Whale Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WHALE_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/bait/whale_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §b+30 Fishing Speed §7and\",4:\"§7increases your chance to catch\",5:\"§7rare Sea Creatures.\",6:\"\",7:\"§9§lRARE BAIT\"],Name:\"§9Whale Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §b+30 Fishing Speed §7and",
       "§7increases your chance to catch",
@@ -289319,7 +289339,7 @@
     "internalname": "WHALE_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Lily Pad VI",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Whale_Bait"
@@ -293828,11 +293848,11 @@
   "WOODEN_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§aWooden Bait",
-    "nbttag": "{ExtraAttributes:{id:\"WOODEN_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/wooden_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Ensures your next §eGOOD CATCH\",4:\"§7hooks a §bRare Fish Shard§7.\",5:\"§8§oWill not be consumed if no Rare\",6:\"§8§oShards are available to catch.\",7:\"\",8:\"§a§lUNCOMMON BAIT\"],Name:\"§aWooden Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WOODEN_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/wooden_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Ensures your next §eGOOD CATCH\",4:\"§7hooks a §bRare Fish Shard§7.\",5:\"§8§oWill not be consumed if no Rare\",6:\"§8§oShards are available to catch.\",7:\"\",8:\"§a§lUNCOMMON BAIT\"],Name:\"§aWooden Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Ensures your next §eGOOD CATCH",
       "§7hooks a §bRare Fish Shard§7.",
@@ -293844,7 +293864,7 @@
     "internalname": "WOODEN_BAIT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wooden_Bait"
@@ -295491,11 +295511,11 @@
   "WORM_BAIT": {
     "itemid": "minecraft:paper",
     "displayname": "§aWorm Bait",
-    "nbttag": "{ExtraAttributes:{id:\"WORM_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/worm_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Cast\",2:\"\",3:\"§7Grants §b+60 Fishing Speed§7 but only\",4:\"§7Worms will bite.\",5:\"\",6:\"§7Only works in the §5Crystal Hollows§7.\",7:\"\",8:\"§a§lUNCOMMON BAIT\"],Name:\"§aWorm Bait\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WORM_BAIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/worm_bait\",display:{Lore:[0:\"§8Fishing Bait\",1:\"§8Consumes on Catch\",2:\"\",3:\"§7Grants §b+60 Fishing Speed§7 but only\",4:\"§7Worms will bite.\",5:\"\",6:\"§7Only works in the §5Crystal Hollows§7.\",7:\"\",8:\"§a§lUNCOMMON BAIT\"],Name:\"§aWorm Bait\"}}",
     "damage": 0,
     "lore": [
       "§8Fishing Bait",
-      "§8Consumes on Cast",
+      "§8Consumes on Catch",
       "",
       "§7Grants §b+60 Fishing Speed§7 but only",
       "§7Worms will bite.",
@@ -295507,7 +295527,7 @@
     "internalname": "WORM_BAIT",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Worm_Bait"
