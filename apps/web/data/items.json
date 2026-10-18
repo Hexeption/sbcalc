@@ -75988,13 +75988,14 @@
   "ENCHANTED_SHEARS": {
     "itemid": "minecraft:shears",
     "displayname": "§fEnchanted Shears",
-    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SHEARS\"},HideFlags:254,ItemModel:\"minecraft:shears\",Unbreakable:1B,display:{Lore:[0:\"§7This item can be used as a\",1:\"§7minion upgrade for sheep\",2:\"§7generators. This will\",3:\"§7automatically shear sheep for\",4:\"§7you as they spawn.\",5:\"\",6:\"§f§lCOMMON SHEARS\"],Name:\"§fEnchanted Shears\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SHEARS\"},HideFlags:254,ItemModel:\"minecraft:shears\",Unbreakable:1B,display:{Lore:[0:\"§8Minion Upgrade\",1:\"\",2:\"§7This item can be used as a minion\",3:\"§7upgrade for sheep generators. This\",4:\"§7will automatically shear sheep for\",5:\"§7you as they spawn.\",6:\"\",7:\"§f§lCOMMON SHEARS\"],Name:\"§fEnchanted Shears\"},ench:[]}",
     "damage": 0,
     "lore": [
-      "§7This item can be used as a",
-      "§7minion upgrade for sheep",
-      "§7generators. This will",
-      "§7automatically shear sheep for",
+      "§8Minion Upgrade",
+      "",
+      "§7This item can be used as a minion",
+      "§7upgrade for sheep generators. This",
+      "§7will automatically shear sheep for",
       "§7you as they spawn.",
       "",
       "§f§lCOMMON SHEARS"
@@ -76002,7 +76003,7 @@
     "internalname": "ENCHANTED_SHEARS",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Shears"
@@ -80065,14 +80066,13 @@
   "ENSNARED_SNAIL": {
     "itemid": "minecraft:skull",
     "displayname": "§6Ensnared Snail",
-    "nbttag": "{ExtraAttributes:{id:\"ENSNARED_SNAIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"834575f3-6974-32de-947a-250a2319c3ed\",Properties:{textures:[0:{Name:\"textures\",Signature:\"r1qdPiPW0FFUhLqd9kF5hByjapy7xvDYyp5zNQMocwXCmfVDyPd03mc2I9DtlndJvoL2kiOCyNqylO7HImF69k1rzw9Kp03syMxgRm+Sq4tTjgVNAXHEp2acVX69TwEPMryxnUi9C//ffdvggLgdkd76quG22m3iYn092lEh2cV2iZdONV44TcU7uctVjN5fexBZkQ/bT2+Q7lYTFdJ45MG+Uij8lPyhPJyxRXLYP6xspKalYvRw2nRNK/njdNmpkjCquoUklj4kxRXttJSMsOAN993mfthQka7mlZxXpUaBZNOdQoDan0jMUvvGDHzZCsuLqjfL7pdSuBkDGZlg7zEF2DhCUlNqdiE82cNqcE3qFJNtqyIi+rc0d0M7H0YG3LReHw9OOZQKa+N8T69XA/7WHj1nR42aZDCoVmvpVD8joGAeE3b8oSKpBsp+ljUwN0cisUXQgd+udh/jPfbTj+xoxDdyKbUSCE32ovHNcYSPawmQ6IBoGVmSF/BfCqwKN6AGzFp4FVDiYkY2/KcLovsAgP9GWPgQUIX+rdJkBgz2wdYRgwkqyMC1LGXUX+9bu0QzH8e7/TR+cT0tKZaZn0NZZqXZL6M1w7l8NgwuSHM+vY5Rk/v0+4WjBa1twOWOo/sdTuCq4CNwcizeWvgNL9Bhf4GN7OAwCcqaJdbX4Uk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczODc1NzgzNTc2MSwKICAicHJvZmlsZUlkIiA6ICJjNDIzYjQwMWZiOGU0ODc3YjMzMmVmMjhiZDdlZGZmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFjdGlvbkJyaW5lWVQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQ1MzJiN2UwZmJkOTc2ZDU1OWZiYjIxOGQ5ZjRlNTNjOTM1NGY2OGIxZjM2M2MwNDgyMTI3MDkyNzI0Mjc0ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to to a sword,\",3:\"§7increases its §9Bane of Arthropods\",4:\"§7level by §a1§7!\",5:\"§8Can be applied once.\",6:\"§8Requires Bane of Arthropods VI!\",7:\"\",8:\"§8§oThe remains of a snail, tightly\",9:\"§8§owrapped in webbing by a fiend of\",10:\"§8§oEldritch proportions. Maybe it will\",11:\"§8§ohave its revenge - in the next life.\",12:\"\",13:\"§6§lLEGENDARY\"],Name:\"§6Ensnared Snail\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ENSNARED_SNAIL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"834575f3-6974-32de-947a-250a2319c3ed\",Properties:{textures:[0:{Name:\"textures\",Signature:\"r1qdPiPW0FFUhLqd9kF5hByjapy7xvDYyp5zNQMocwXCmfVDyPd03mc2I9DtlndJvoL2kiOCyNqylO7HImF69k1rzw9Kp03syMxgRm+Sq4tTjgVNAXHEp2acVX69TwEPMryxnUi9C//ffdvggLgdkd76quG22m3iYn092lEh2cV2iZdONV44TcU7uctVjN5fexBZkQ/bT2+Q7lYTFdJ45MG+Uij8lPyhPJyxRXLYP6xspKalYvRw2nRNK/njdNmpkjCquoUklj4kxRXttJSMsOAN993mfthQka7mlZxXpUaBZNOdQoDan0jMUvvGDHzZCsuLqjfL7pdSuBkDGZlg7zEF2DhCUlNqdiE82cNqcE3qFJNtqyIi+rc0d0M7H0YG3LReHw9OOZQKa+N8T69XA/7WHj1nR42aZDCoVmvpVD8joGAeE3b8oSKpBsp+ljUwN0cisUXQgd+udh/jPfbTj+xoxDdyKbUSCE32ovHNcYSPawmQ6IBoGVmSF/BfCqwKN6AGzFp4FVDiYkY2/KcLovsAgP9GWPgQUIX+rdJkBgz2wdYRgwkqyMC1LGXUX+9bu0QzH8e7/TR+cT0tKZaZn0NZZqXZL6M1w7l8NgwuSHM+vY5Rk/v0+4WjBa1twOWOo/sdTuCq4CNwcizeWvgNL9Bhf4GN7OAwCcqaJdbX4Uk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczODc1NzgzNTc2MSwKICAicHJvZmlsZUlkIiA6ICJjNDIzYjQwMWZiOGU0ODc3YjMzMmVmMjhiZDdlZGZmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFjdGlvbkJyaW5lWVQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQ1MzJiN2UwZmJkOTc2ZDU1OWZiYjIxOGQ5ZjRlNTNjOTM1NGY2OGIxZjM2M2MwNDgyMTI3MDkyNzI0Mjc0ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7When applied to a sword, increases\",3:\"§7its §9Bane of Arthropods §7level by §a1§7!\",4:\"§8Can be applied once.\",5:\"§8Requires Bane of Arthropods VI!\",6:\"\",7:\"§8§oThe remains of a snail, tightly\",8:\"§8§owrapped in webbing by a fiend of\",9:\"§8§oEldritch proportions. Maybe it will\",10:\"§8§ohave its revenge - in the next life.\",11:\"\",12:\"§6§lLEGENDARY\"],Name:\"§6Ensnared Snail\"}}",
     "damage": 3,
     "lore": [
       "§8Combinable in Anvil",
       "",
-      "§7When applied to to a sword,",
-      "§7increases its §9Bane of Arthropods",
-      "§7level by §a1§7!",
+      "§7When applied to a sword, increases",
+      "§7its §9Bane of Arthropods §7level by §a1§7!",
       "§8Can be applied once.",
       "§8Requires Bane of Arthropods VI!",
       "",
@@ -80086,7 +80086,7 @@
     "internalname": "ENSNARED_SNAIL",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0+mc1.21.5",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ensnared_Snail"
@@ -169467,18 +169467,18 @@
   "OBSCURE_ENDING": {
     "itemid": "minecraft:skull",
     "displayname": "§9Obscure Ending",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"8ba55f9a-7776-3391-9174-216823bbfa8f\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2Mzk1OTUxNDUxNywKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1MDQ5YjlhNTU2MzQyMjZiOWNiYmEzZmI3NjllZWU5ZmNiMjUyNWFhZGZkOTg5NjMwNDllMzgyMGZlMjVmZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]}},display:{Lore:[0:\"§7§7Darkened by shadow.\",1:\"\",2:\"§8§l* §8Soulbound §8§l*\",3:\"§9§lRARE\"],Name:\"§9Obscure Ending\"},ExtraAttributes:{id:\"OBSCURE_ENDING\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"OBSCURE_ENDING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"8ba55f9a-7776-3391-9174-216823bbfa8f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"HFfjEVYGjJ6cqa82IJi02cx3zh43ek1gfOA47BUj6KMh1jcQY/qbyA36V7Nt4TQEHK1+1wj7VfqbrLb8Xq/7x5RHd0lIttuYNfwvFbBQ4vxoKF2bxSpVhOdSsRKi1wgKvanVYwBBbGKeYJEIIKOtueWgbsJWQAtNIy3R6J4VlJgfgeUggwzi/rM3B/aDp2XB87sfEz/A2iFGkoP7OpMyG3XvOQIESV4j7a0gxFyX6+aaKHNK5ubJHjTT+aQ1GN5Sf06ZSxb/uRn5xID1B3mBWTp5WMIDLCVDohAf/N+MaHPa8OxtuFoD/rSGVdWGn1DyxI4LiOA475R9SrJF9nQ1dEULPdz2LDwPPAyY0LuNDnOFpLBv9ARgURBHfIIgWVxer0lrcGQ/c2GJtBFyhoQbE/ee75bgcXD/VmWYJ/UsL1Y8gVBJdJKOZ3JgWpHFLuIAip+u6XNRLNph0zvW16p+RkY/vX3trG2bgZ2GR0sJJYGCyHs1zRvucnzd1vMn6OxEMf0EtBkMTyZ6ZpyU45mzUXvcM6Nd8jhHvFkmC7nLXGSVpVcihoVrAClb4+2Dc1T7Ja4NPcHWfEIQICS1qWeQY8mASbc+5Svc8KaRqvDIgteYIxqQlFq9iK7CQKNC26GGjElZBVb275zBc737WIakx8Xd7aIryupe/e2CqUzVYEU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2Mzk1OTUxNDUxNywKICAicHJvZmlsZUlkIiA6ICJiYzRlZGZiNWYzNmM0OGE3YWM5ZjFhMzlkYzIzZjRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI4YWNhNjgwYjIyNDYxMzQwIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1MDQ5YjlhNTU2MzQyMjZiOWNiYmEzZmI3NjllZWU5ZmNiMjUyNWFhZGZkOTg5NjMwNDllMzgyMGZlMjVmZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Darkened by shadow.\",1:\"\",2:\"§8§l* §8Co-op Soulbound §8§l*\",3:\"§9§lRARE\"],Name:\"§9Obscure Ending\"}}",
     "damage": 3,
     "lore": [
-      "§7§7Darkened by shadow.",
+      "§7Darkened by shadow.",
       "",
-      "§8§l* §8Soulbound §8§l*",
+      "§8§l* §8Co-op Soulbound §8§l*",
       "§9§lRARE"
     ],
     "internalname": "OBSCURE_ENDING",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.1.0-REL",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Obscure_Ending"
@@ -215279,11 +215279,10 @@
   "REINFORCED_CHISEL": {
     "itemid": "minecraft:armor_stand",
     "displayname": "§9Reinforced Chisel",
-    "nbttag": "{ExtraAttributes:{gems:{CHISEL_0:{quality:\"FLAWLESS\",uuid:\"73e3d827-2ffe-4896-bdf0-b2db06d4a562\"},CHISEL_0_gem:\"CITRINE\"},id:\"REINFORCED_CHISEL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/chisel/reinforced_chisel\",display:{Lore:[0:\"§7Highlight Chance: §a+60%\",1:\"§7Gemstones: §5[§4❥§5]\",2:\"\",3:\"§7Can be placed in the §6Fossil\",4:\"§6Excavator §7alongside a §9Suspicious\",5:\"§9Scrap §7to begin the excavation\",6:\"§7process!\",7:\"\",8:\"§7Charges: §e18\",9:\"\",10:\"§4❣ §cRequires §5Heart of the Mountain Tier 8§c.\",11:\"§9§lRARE CHISEL\"],Name:\"§9Reinforced Chisel\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"REINFORCED_CHISEL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/chisel/reinforced_chisel\",display:{Lore:[0:\"§7Gemstones: §8[§7❥§8]\",1:\"\",2:\"§7Can be placed in the §6Fossil\",3:\"§6Excavator §7alongside a §9Suspicious\",4:\"§9Scrap §7to begin the excavation\",5:\"§7process!\",6:\"\",7:\"§7Charges: §e18\",8:\"\",9:\"§4❣ §cRequires §5Heart of the Mountain Tier 8§c.\",10:\"§9§lRARE CHISEL\"],Name:\"§9Reinforced Chisel\"}}",
     "damage": 0,
     "lore": [
-      "§7Highlight Chance: §a+60%",
-      "§7Gemstones: §5[§4❥§5]",
+      "§7Gemstones: §8[§7❥§8]",
       "",
       "§7Can be placed in the §6Fossil",
       "§6Excavator §7alongside a §9Suspicious",
@@ -215298,7 +215297,7 @@
     "internalname": "REINFORCED_CHISEL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: HotM 8",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Reinforced_Chisel"
@@ -225620,15 +225619,15 @@
   "SCORCHED_POWER_CRYSTAL": {
     "itemid": "minecraft:skull",
     "displayname": "§6Scorched Power Crystal",
-    "nbttag": "{ExtraAttributes:{id:\"SCORCHED_POWER_CRYSTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"448df54c-cab4-37e2-841a-37227d9d1b01\",Properties:{textures:[0:{Name:\"textures\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NTY0MDI4NzI0NCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjA5OWQ0ZTI1YTU2OWUyZDAxOGJkOGQ3ZTFhNDBhZDJjY2JjOWJkMWZkMmVkNDg2ODhiY2MzZjYyYTk2MjEzYSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Powers §bBeacons §7for up to\",1:\"§348 hours §7at a time!\",2:\"\",3:\"§7Adds §6+1% §7minion speed buff and\",4:\"§a+20% §7profile stats to beacons\",5:\"§7fueled by this power crystal!\",6:\"\",7:\"§7Has a single use and can be stacked.\",8:\"\",9:\"§6§lLEGENDARY\"],Name:\"§6Scorched Power Crystal\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SCORCHED_POWER_CRYSTAL\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a91f970e-bcd6-37cf-b54e-4313c6d5795c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"n1sV9RVf1ZAtbEnGBdczk3sfwpbtHTAPgti+E2HYvjCLIfWJItqhh7uszqHpGLXxk3O+fdAeFmyb+eMQH/DEMvMccdGO33DcMqY9ghv1LY6tE1D9zxERn3wQz1vHHeF9SeYxZFQqcxeKKNVOGLxAJ5v/4qzk0msFaC+bchUSnphhnowGsBByR7jbX4m6IfdLML5/fcZ0XO9s8jgp7BdZTT9AwMIUeJlj1CNXuosgRLB7nbHRJbMyeqO97PPExhgtw3o0zvik6EHQR/ojJyMY9ZVaRQEZB6srQGLKPBtev1oLjuJaLc/m+l/iOuP7gV+5PEUZHGF7SN2tXXUg7vKLB2fz60SGZQKDiAx2h1WbgFpEfM8Ha2weF950QJFjlxmycg+9rAvbve6Jus4w1iNufsc2HndeT4REIlkpFIOdfRVh0FTyYqDuxQscY9J0lN6BmKnfTDxJRECAzYcj99IrVdPuCyhyq2hT93jxxXc4c8eB/CJbyivHhfPNfHu1fYTkSpHwtdrajzmliBlgTDIAnGuECbxu57OE7/WkagrlNkjKGRppsSjUMGpr88rzDf9K1s+yjGlO1pnLor8Q4WV6HepP66B3sVjWqm0nQpp6NVTML+Szp/77Wnrbtd4JbPN4n7uayUhRt2nNvisnsGLl3Bf1U6xNy0GqeUZeozcBUhQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5NzQwMDEzNCwKICAicHJvZmlsZUlkIiA6ICI0NDA3OTk4M2Q0ZTU0MTZiYmY4NzAzNDU2YzczYTc5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBeWFhbjEzMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMDk5ZDRlMjVhNTY5ZTJkMDE4YmQ4ZDdlMWE0MGFkMmNjYmM5YmQxZmQyZWQ0ODY4OGJjYzNmNjJhOTYyMTNhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Powers §bBeacons §7for up to §348 hours\",1:\"§7at a time!\",2:\"\",3:\"§7Adds §6+1% §7minion speed buff and §a+20%\",4:\"§7profile stats to beacons fueled by this\",5:\"§7power crystal!\",6:\"\",7:\"§7Has a single use and can be stacked.\",8:\"\",9:\"§6§lLEGENDARY\"],Name:\"§6Scorched Power Crystal\"}}",
     "damage": 3,
     "lore": [
-      "§7Powers §bBeacons §7for up to",
-      "§348 hours §7at a time!",
+      "§7Powers §bBeacons §7for up to §348 hours",
+      "§7at a time!",
       "",
-      "§7Adds §6+1% §7minion speed buff and",
-      "§a+20% §7profile stats to beacons",
-      "§7fueled by this power crystal!",
+      "§7Adds §6+1% §7minion speed buff and §a+20%",
+      "§7profile stats to beacons fueled by this",
+      "§7power crystal!",
       "",
       "§7Has a single use and can be stacked.",
       "",
@@ -225637,7 +225636,7 @@
     "internalname": "SCORCHED_POWER_CRYSTAL",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Scorched_Power_Crystal"
@@ -243433,9 +243432,11 @@
   "SOLAR_PANEL": {
     "itemid": "minecraft:daylight_detector",
     "displayname": "§aSolar Panel",
-    "nbttag": "{ExtraAttributes:{id:\"SOLAR_PANEL\"},HideFlags:254,ItemModel:\"minecraft:daylight_detector\",display:{Lore:[0:\"§7Increases the speed of your minion\",1:\"§7by §a25%§7 during the day. Unlimited\",2:\"§7Duration!\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aSolar Panel\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"SOLAR_PANEL\"},HideFlags:254,ItemModel:\"minecraft:daylight_detector\",display:{Lore:[0:\"§8Minion Fuel\",1:\"\",2:\"§7Increases the speed of your minion\",3:\"§7by §a25%§7 during the day. Unlimited\",4:\"§7Duration!\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aSolar Panel\"},ench:[]}",
     "damage": 0,
     "lore": [
+      "§8Minion Fuel",
+      "",
       "§7Increases the speed of your minion",
       "§7by §a25%§7 during the day. Unlimited",
       "§7Duration!",
@@ -243445,7 +243446,7 @@
     "internalname": "SOLAR_PANEL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Nether Quartz IX",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Solar_Panel"
@@ -275829,10 +275830,11 @@
   "TYASHOI_ALCHEMIST_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Tyashoi Alchemist (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"TYASHOI_ALCHEMIST_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5dc9ab0d-bfc6-2fab-8d99-f28831424fe1\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdiNDA2MDc0YjA2YmUzYWM5MWY1ZTk5Nzc0NDE2NzEwYWFiYzIyMTBhMmZiNjdhNzYyMDUxZDViNTYwYWQ4NCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1ZGM5YWIwZGJmYzYyZmFiOGQ5OWYyODgzMTQyNGZlMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkxOTkzOTM4Mzg2fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only appears during §5Great Spook §7in October.\"],Name:\"§9Tyashoi Alchemist (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"TYASHOI_ALCHEMIST_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5dc9ab0d-bfc6-2fab-8d99-f28831424fe1\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdiNDA2MDc0YjA2YmUzYWM5MWY1ZTk5Nzc0NDE2NzEwYWFiYzIyMTBhMmZiNjdhNzYyMDUxZDViNTYwYWQ4NCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1ZGM5YWIwZGJmYzYyZmFiOGQ5OWYyODgzMTQyNGZlMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkxOTkzOTM4Mzg2fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only appears during §5The Great Spook\",1:\"§7in §fOctober§7.\"],Name:\"§9Tyashoi Alchemist (NPC)\"}}",
     "damage": 3,
     "lore": [
-      "§7Only appears during §5Great Spook §7in October."
+      "§7Only appears during §5The Great Spook",
+      "§7in §fOctober§7."
     ],
     "internalname": "TYASHOI_ALCHEMIST_NPC",
     "clickcommand": "",
@@ -283471,10 +283473,11 @@
   "VARGUL_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Vargul (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"VARGUL_NPC\"},HideFlags:254,ItemModel:\"minecraft:zombie_head\",display:{Lore:[0:\"§7Only appears during §5Great Spook §7in October.\"],Name:\"§9Vargul (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"VARGUL_NPC\"},HideFlags:254,ItemModel:\"minecraft:zombie_head\",display:{Lore:[0:\"§7Only appears during §5The Great Spook\",1:\"§7in §fOctober§7.\"],Name:\"§9Vargul (NPC)\"}}",
     "damage": 2,
     "lore": [
-      "§7Only appears during §5Great Spook §7in October."
+      "§7Only appears during §5The Great Spook",
+      "§7in §fOctober§7."
     ],
     "internalname": "VARGUL_NPC",
     "clickcommand": "",
@@ -289377,17 +289380,18 @@
   "WET_PUMPKIN": {
     "itemid": "minecraft:skull",
     "displayname": "§5Wet Pumpkin",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"4434ee4f-15ca-37b9-90e9-fc6ae7a002d2\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYzNDkyNzY3NjA4MSwKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzNTdmMjVkY2NhNWZhZDFkOWI5ZDc2YTJhOGQxYmE1ZGY4OTM2MGU2NDJjN2ZiMzE3MTgwODdhODUxNTcxZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]}},display:{Lore:[0:\"§7§7A squishy moist mess.\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Wet Pumpkin\"},ExtraAttributes:{id:\"WET_PUMPKIN\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WET_PUMPKIN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"4434ee4f-15ca-37b9-90e9-fc6ae7a002d2\",Properties:{textures:[0:{Name:\"textures\",Signature:\"BDailKTLPwsI1rLR2UX0vsbdjw+JcDJ72GHo23mBakE7p8YqdJhzmZVSxBOeHOX/irB05imVspEdmnyzEwwNNhDgyDA5x65j12bOD2JlciD54KNt2a1n4ya329+PyCqPnrCVgzQ31l0a2YFPMF0JEQlVTbaTYxsLvUpaBC7T0JtBIZRLCTpM9g/mZN36tST4Q8CExszRA9PPXjbtYxjASCftZIZ6nEJbmfGdn3BzoSY53zKfioeuh9MWNcF6qkQNlpvYkq/A/QkXAtCzutkimTkH0+uWsvNTf62V9Wgivuxi84NQlxvoA6SOvTM0uspHOCZRW2U7A2251Fij5quwTs5JbEfrX//wxY/EZSjFjj0u0OMa9/QYT7v2YvR2KUulTxUCaMEC/wmiS6FyeXM+0CcLV9AOM0/lADxaiqwBwpNupC837hcX6vbBaCNOesxGICOMiMy1znr/+JGfi6e0wv7IZqsPzpg8M8q23Qp3LTMpV2IKuRhr9GYPoUwUc6JUfnLZccwgPMa519WSjujbaaHEhbj0jBKGv4xBVrNmNflTjbVUKXpgbnHNFLiqSKfA5dfQHwe/hdr3c1Qc2oAeKIZ4vzJW4yfUETQYZo3x59GM9KOijDh0VxDuw+4oPt29alB+QCpbBXXBFM69yc687kRrF1sPeGri4LXuXMUga9U=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYzNDkyNzY3NjA4MSwKICAicHJvZmlsZUlkIiA6ICJmYzUwMjkzYTVkMGI0NzViYWYwNDJhNzIwMWJhMzBkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDVUNGTDE3IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzNTdmMjVkY2NhNWZhZDFkOWI5ZDc2YTJhOGQxYmE1ZGY4OTM2MGU2NDJjN2ZiMzE3MTgwODdhODUxNTcxZWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7A squishy moist mess.\",1:\"\",2:\"§8§l* §8Co-op Soulbound §8§l*\",3:\"§5§lEPIC\"],Name:\"§5Wet Pumpkin\"}}",
     "damage": 3,
     "lore": [
-      "§7§7A squishy moist mess.",
+      "§7A squishy moist mess.",
       "",
+      "§8§l* §8Co-op Soulbound §8§l*",
       "§5§lEPIC"
     ],
     "internalname": "WET_PUMPKIN",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.1.0-REL",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wet_Pumpkin"
