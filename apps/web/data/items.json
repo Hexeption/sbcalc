@@ -84833,12 +84833,12 @@
   "FARMER_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§aFarmer Boots",
-    "nbttag": "{ExtraAttributes:{id:\"FARMER_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+40\",1:\"§7Defense: §a+34\",2:\"§7Speed: §f+38\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§7These boots gain §a+2 Defense §7and\",6:\"§f+4 Speed§7 for every Farming Skill\",7:\"§7level you have. While on §aThe Garden§7,\",8:\"§7these boots instead gain §6+1\",9:\"§6Farming Fortune §7for every Farming\",10:\"§7Skill level.\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §aFarming Skill 18§c.\",14:\"§a§lUNCOMMON BOOTS\"],Name:\"§aFarmer Boots\",color:13391104}}",
+    "nbttag": "{ExtraAttributes:{id:\"FARMER_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+40\",1:\"§7Defense: §a+20\",2:\"§7Speed: §f+10\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§7These boots gain §a+2 Defense §7and\",6:\"§f+4 Speed§7 for every Farming Skill\",7:\"§7level you have. While on §aThe Garden§7,\",8:\"§7these boots instead gain §6+1\",9:\"§6Farming Fortune §7for every Farming\",10:\"§7Skill level.\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §aFarming Skill 18§c.\",14:\"§a§lUNCOMMON BOOTS\"],Name:\"§aFarmer Boots\",color:13391104}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+40",
-      "§7Defense: §a+34",
-      "§7Speed: §f+38",
+      "§7Defense: §a+20",
+      "§7Speed: §f+10",
       "§7Gemstones: §8[]",
       "",
       "§7These boots gain §a+2 Defense §7and",
@@ -84855,7 +84855,7 @@
     "internalname": "FARMER_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Pumpkin IX",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Farmer_Boots"
@@ -179478,7 +179478,7 @@
           {
             "id": "DYE_DUNG:1",
             "extra": [],
-            "chance": "0.001%"
+            "chance": "0.002%"
           }
         ]
       }
@@ -179764,7 +179764,7 @@
           {
             "id": "DYE_DUNG:1",
             "extra": [],
-            "chance": "0.0002%"
+            "chance": "0.0004%"
           },
           {
             "id": "ATTRIBUTE_SHARD_PEST_LUCK;1:1",
@@ -179863,7 +179863,7 @@
           {
             "id": "DYE_DUNG:1",
             "extra": [],
-            "chance": "0.0002%"
+            "chance": "0.002%"
           },
           {
             "id": "ATTRIBUTE_SHARD_PEST_LUCK;1:1",
@@ -182866,6 +182866,87 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Candy_Bat_Skin"
     ]
+  },
+  "PET_SKIN_BAT_HUNTER_ALBINO": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Albino Hunter Bat Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_BAT_HUNTER_ALBINO\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"49981c6d-3dd2-3748-a121-fbad716042e8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"WuGTmvDh09L7DwuuNWQj1z/w6wRqBXJthkNc/rJMPBCqJvIQSpemkkdUQO//kC7OU/poouSrenWHFdWN3y5ygI6o5aj181FbnzvOkSNm0RbB+tu4PFv7K1rd2LAKgPjs1DafJV2UEP7UZQDd9o99a/z8IDRtSsUpl7VbouCUmQiPeK0NnCsmwoNJQrC4OJms8lwdgnNkOjUjFPiXTaKGvcUl2qAR2QuarqUyzBvPk6SYfo6SvtEtwXhkqPGXi3q45qR/OoNYLg4NepfdSbQ/T0g6syUqWN+j+bgpAFq2L5KOQxqdHUNUimWCycHLkE65N1t5y6B191ysIgLR414rMQHPLaSa5EPRy2zH0ZG0QC+LNgOLqqlITBPFECsv4pIctZ/r1GXyqllH9PzukzfdSucKDNRVdDqzJjI8AUtMMLlxgmrIf9hYtVZRi+RBO2KalY+Umli4EPJRbKa8xDCoibpg0VhAG/PN9Wo1qzlLqu3GiCn09BpX/hnKt2irZ8iNGJPjNk9E99TgQViiGYiHzQYz2VECE5Oic2KivCttcnuqtCsjE32V/IAE/mJAXt7IcjCXPTE+SdpztgKqK+uV1uClIYeH8OB5w2Gy0pRluW/SGSDIKBIY6Snlh5edawOXFMe/nkcbzl2OQYA/9ZoCzCx1yg95VZlMJKG+q+vB+qg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5MjY4NDA2ODU4MSwKICAicHJvZmlsZUlkIiA6ICI5NmYyMmIwNmI2YWM0OGNkYTE5OWEzMjFkZDY4NTFmNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtZW93ZWRkZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yM2RiNDQyNTE1OWJjNGM1MWQ2MWE4MTk2MWI5MzlhZDc2YjhjZDUxZjk5NGI1NWQyZjkzYTVjZDQxYmQxZTgzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aBat\",7:\"§7pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Albino Hunter Bat Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to §aBat",
+      "§7pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_BAT_HUNTER_ALBINO",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
+  },
+  "PET_SKIN_BAT_HUNTER_MIDNIGHT": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Midnight Hunter Bat Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_BAT_HUNTER_MIDNIGHT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"57363fe7-a060-347a-97c5-fe347d5b3c38\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oMyNZ/T8nT9uEyUCImSs6YBfoW5KJ8SZ+zGTtXEzp9zOm1f7rC0Ate/Vx4/BCdv+nzsRpu16qHof+hReKz1VWCQKhNfrMzXCq8k3pzGxgs6445zFP1FFliyMwdXzUfhVwgL04jOVx3I4payvf2LJgZhXbPaJuHzETIEdsroIRC4PNbBqFOzwt3EB+Bo6Ph44icLDwYC/uqhfXYpxmuGkBqabjz5H2EroahFJIvKAs4+j3a+dDCLWBv+z9ErUFwt6oudsaqttc/1U71lHrEkNLCM4UTtS9acJgWjlYxtnv1EUGrWtLYN9iodwDpkZQkX4fbbUVGXJkpVLdj9sr6eqKfgf+UBGJpPI9YS9DK6d6cwQSplgbbZrq6g/a3Yloaa9qW56AG1YdOzf0DZdM17UWmRvyEwFYR2m5kwNvzoyZHhnbUQcDvCJ1xOri2mO/Zf/o9uSqSDWLG4ZtLU/Fi9OLKFpnUvMGJkEHldGlR20Xyje2U0GkZ0bHFsjMuC46fi0pSYaP9BYEqOovijWd9tXSE7kS24O7wAx+7V2VhlXcU0qUt7jpAw+gEWFbuJBZjdFkPjGK5zCiihtS3Q/9ZhK+32Yz/3tBWVgtAVSBVR3/3euHXoZUuabrYuEQBFNI8+s5pO7YGqor3w/o9YLUSfWLhvJB8dwfPgfw0XcURsYLJ0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5MjY4NDA2ODgxNSwKICAicHJvZmlsZUlkIiA6ICJhYjNkNTgwMjVkOWM0NTcyODNkNTFlYTcwYTY4N2U1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJsdWN5X2ludGhlc2t5XyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NGJkZWZmNGFkOTZiNTBiM2Y1NGY2Mjk0ZGQ5N2JiN2JiNWIyMjY3OTIxMDU2NmNkMmRiNzUyYTg4NTVhZjE2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aBat\",7:\"§7pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Midnight Hunter Bat Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to §aBat",
+      "§7pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_BAT_HUNTER_MIDNIGHT",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
+  },
+  "PET_SKIN_BAT_HUNTER_PURPLE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Purple Hunter Bat Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_BAT_HUNTER_PURPLE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d32dd889-3b47-322f-8e6d-9e46df74a90b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"wIlv+QF/xpVESAg5jbELehE7PV52vsH7D8ezXO3+N0R7Rx8wyKYyDYzSg3kuS294HBLeXKfLxQevUY8j+HKE7Er6rTsvbixGjtjpMbFgS28KF7DjonkviyK+Y1dZkWKih6NOzda321aNydTDrdpTbcdGM5/rPDhppgEFrfAsNnsYKBe46b0OAlduvy4eIHOD/cgFGuz8lw0f6ZfbpzvxV0/Jh1eQJWBWp9OVzbUB4gt+vhtDNa5ZBWOst2OcZOoroVot6CsBQFkZ4Wpszb1h5NetJjVEJOPB5G6uW8XBI9O0z0asmak1Fc1LfuvaYShDxoXw+r/TOqy1R5Av53Wj9lawJjoFwBxrTzDd6w3hlx2ZnV1uh/tUTTJeCh/hM04lG+4J+4MLEjGmiYd9irCZVYuJYCWc6GSskwCyRIA51ib80mS+KUBzN3/dt6V6+BQiJt+osbh6y4rvka4oB66/4D+2nVeuZiCgkPferWPlnHSzGM/hAqBzj6gRtYIhQ4YoQmWx912O1xtmkmqbmVw/LHyTUcbyzv5KqLnL3urvex9hRwaQv0vOlvAg/x47Purzz/LSLphCrSPYS74wTeAofCM+o/n/K1o+Kp91hN5o5/pJ7T+GITgCq+fkpwbNYnRqw/vZtacR1Fu1dSl72WzVpZsJC2I/y8j9CB2O085p24U=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5MjY4NDA2OTgzNywKICAicHJvZmlsZUlkIiA6ICIwMzFmMzIyYjM1YzE0ZWExYmNmMmY5ZmVjNWZjYmEzYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaXJNYXlvckN1cnJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I1ZjRjNTUyYjQ3YzJjMWRkYWQ2NGQwMjBhMjgyM2QwY2JmOTM5NWRlNzdiMTdjOTU5YTdmNTljYzg1MmMxMjEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aBat\",7:\"§7pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Purple Hunter Bat Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to §aBat",
+      "§7pets.",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "PET_SKIN_BAT_HUNTER_PURPLE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
   },
   "PET_SKIN_BAT_SUGAR_GLIDER": {
     "itemid": "minecraft:skull",
@@ -210882,12 +210963,12 @@
   "RANCHERS_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§5Rancher's Boots",
-    "nbttag": "{ExtraAttributes:{id:\"RANCHERS_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+100\",1:\"§7Defense: §a+84\",2:\"§7Speed: §f+78\",3:\"§7Gemstones: §8[] []\",4:\"\",5:\"§7These boots gain §a+2 Defense §7and\",6:\"§f+4 Speed§7 for every Farming Skill\",7:\"§7level you have. While on §aThe Garden§7,\",8:\"§7these boots also gain §6+1 Farming\",9:\"§6Fortune §7for every Farming Skill level.\",10:\"\",11:\"§6Ability: Farmer's Speed  §e§lLEFT CLICK\",12:\"§7Set a maximum amount of §f Speed§7.\",13:\"\",14:\"§6Ability: Farmer's Grace \",15:\"§7Grants immunity to trampling crops.\",16:\"\",17:\"§7Bonus Defense: §a14\",18:\"§7Bonus Speed: §a28\",19:\"\",20:\"§7Current Speed Cap: §a400\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4❣ §cRequires §aFarming Skill 21§c.\",24:\"§5§lEPIC BOOTS\"],Name:\"§5Rancher's Boots\",color:0}}",
+    "nbttag": "{ExtraAttributes:{id:\"RANCHERS_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+100\",1:\"§7Defense: §a+70\",2:\"§7Speed: §f+50\",3:\"§7Gemstones: §8[] []\",4:\"\",5:\"§7These boots gain §a+2 Defense §7and\",6:\"§f+4 Speed§7 for every Farming Skill\",7:\"§7level you have. While on §aThe Garden§7,\",8:\"§7these boots also gain §6+1 Farming\",9:\"§6Fortune §7for every Farming Skill level.\",10:\"\",11:\"§6Ability: Farmer's Speed  §e§lLEFT CLICK\",12:\"§7Set a maximum amount of §f Speed§7.\",13:\"\",14:\"§6Ability: Farmer's Grace \",15:\"§7Grants immunity to trampling crops.\",16:\"\",17:\"§7Bonus Defense: §a0\",18:\"§7Bonus Speed: §a0\",19:\"\",20:\"§7Current Speed Cap: §a400\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4❣ §cRequires §aFarming Skill 21§c.\",24:\"§5§lEPIC BOOTS\"],Name:\"§5Rancher's Boots\",color:0}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+100",
-      "§7Defense: §a+84",
-      "§7Speed: §f+78",
+      "§7Defense: §a+70",
+      "§7Speed: §f+50",
       "§7Gemstones: §8[] []",
       "",
       "§7These boots gain §a+2 Defense §7and",
@@ -210902,8 +210983,8 @@
       "§6Ability: Farmer's Grace ",
       "§7Grants immunity to trampling crops.",
       "",
-      "§7Bonus Defense: §a14",
-      "§7Bonus Speed: §a28",
+      "§7Bonus Defense: §a0",
+      "§7Bonus Speed: §a0",
       "",
       "§7Current Speed Cap: §a400",
       "",
@@ -210914,7 +210995,7 @@
     "internalname": "RANCHERS_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Pumpkin XI",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rancher%27s_Boots"
