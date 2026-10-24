@@ -182891,8 +182891,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Albino_Hunter_Bat_Skin"
+    ]
   },
   "PET_SKIN_BAT_HUNTER_MIDNIGHT": {
     "itemid": "minecraft:skull",
@@ -182918,8 +182920,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Midnight_Hunter_Bat_Skin"
+    ]
   },
   "PET_SKIN_BAT_HUNTER_PURPLE": {
     "itemid": "minecraft:skull",
@@ -182945,8 +182949,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Purple_Hunter_Bat_Skin"
+    ]
   },
   "PET_SKIN_BAT_SUGAR_GLIDER": {
     "itemid": "minecraft:skull",
