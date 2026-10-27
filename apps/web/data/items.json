@@ -74509,8 +74509,8 @@
     ],
     "internalname": "ENCHANTED_LEATHER",
     "clickcommand": "viewrecipe",
-    "crafttext": "Requires: Leather VI",
-    "modver": "Firmament 42.0.0+mc1.21.7",
+    "crafttext": "Requires: Leather IV",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Leather"
@@ -75468,8 +75468,8 @@
     ],
     "internalname": "ENCHANTED_RAW_BEEF",
     "clickcommand": "viewrecipe",
-    "crafttext": "Requires: Leather IV",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "crafttext": "Requires: Leather V",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Raw_Beef"
@@ -112165,7 +112165,7 @@
     "internalname": "GREATER_BACKPACK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Leather XI",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Greater_Backpack"
@@ -112176,7 +112176,7 @@
         "A2": "ENCHANTED_LEATHER:12",
         "A3": "ENCHANTED_LEATHER:12",
         "B1": "ENCHANTED_LEATHER:12",
-        "B2": "LARGE_BACKPACK:1",
+        "B2": "LARGE_BACKPACK",
         "B3": "ENCHANTED_LEATHER:12",
         "C1": "ENCHANTED_LEATHER:12",
         "C2": "ENCHANTED_LEATHER:12",
@@ -139472,8 +139472,8 @@
     ],
     "internalname": "LARGE_BACKPACK",
     "clickcommand": "viewrecipe",
-    "crafttext": "Requires: Leather VIII",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "crafttext": "Requires: Leather IX",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Large_Backpack"
@@ -139484,7 +139484,7 @@
         "A2": "ENCHANTED_LEATHER:6",
         "A3": "ENCHANTED_LEATHER:6",
         "B1": "ENCHANTED_LEATHER:6",
-        "B2": "MEDIUM_BACKPACK:1",
+        "B2": "MEDIUM_BACKPACK",
         "B3": "ENCHANTED_LEATHER:6",
         "C1": "ENCHANTED_LEATHER:6",
         "C2": "ENCHANTED_LEATHER:6",
@@ -154071,8 +154071,8 @@
     ],
     "internalname": "MEDIUM_BACKPACK",
     "clickcommand": "viewrecipe",
-    "crafttext": "Requires: Leather V",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "crafttext": "Requires: Leather VI",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Medium_Backpack"
@@ -154082,7 +154082,7 @@
       "A2": "LEATHER:64",
       "A3": "LEATHER:64",
       "B1": "LEATHER:64",
-      "B2": "SMALL_BACKPACK:1",
+      "B2": "SMALL_BACKPACK",
       "B3": "LEATHER:64",
       "C1": "LEATHER:64",
       "C2": "LEATHER:64",
@@ -181826,7 +181826,7 @@
     "internalname": "PET_ITEM_SADDLE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Leather VII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Saddle"
@@ -239196,8 +239196,8 @@
     ],
     "internalname": "SMALL_BACKPACK",
     "clickcommand": "viewrecipe",
-    "crafttext": "Requires: Leather III",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "crafttext": "Requires: Leather II",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Small_Backpack"
@@ -263052,7 +263052,7 @@
             "extra": [
               "§eWeight: 10"
             ],
-            "chance": "0.071%"
+            "chance": "0.142%"
           },
           {
             "id": "ENSNARED_SNAIL",
