@@ -3680,10 +3680,10 @@
     ]
   },
   "ALLIGATOR_SKIN": {
-    "itemid": "minecraft:dye",
+    "itemid": "minecraft:paper",
     "displayname": "§5Alligator Skin",
     "nbttag": "{ExtraAttributes:{id:\"ALLIGATOR_SKIN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/misc/alligator_skin\",display:{Lore:[0:\"§7Harsh, jagged skin that is rough to\",1:\"§7the touch.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Alligator Skin\"}}",
-    "damage": 2,
+    "damage": 0,
     "lore": [
       "§7Harsh, jagged skin that is rough to",
       "§7the touch.",
@@ -3695,7 +3695,7 @@
     "internalname": "ALLIGATOR_SKIN",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Alligator_Skin"
@@ -6963,7 +6963,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_Arachne%27s_Sanctuary"
     ]
   },
   "ARACHNE_SANCTUARY_TRAVEL_SCROLL": {
@@ -11458,8 +11458,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Soul_of_the_Alpha_Shard"
+    ]
   },
   "ATTRIBUTE_SHARD_COMPOST_SPEED;1": {
     "itemid": "minecraft:skull",
@@ -22907,7 +22909,9 @@
     "crafttext": "",
     "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Dwarven_Base_Camp"
+    ]
   },
   "BASE_CAMP_TRAVEL_SCROLL": {
     "itemid": "minecraft:map",
@@ -23252,7 +23256,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Basket_Of_Seeds"
+      "https://hypixelskyblock.minecraft.wiki/w/Basket_of_Seeds"
     ]
   },
   "BAT;0": {
@@ -26138,8 +26142,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Behemoth_Pot_of_Honeycomb"
+    ]
   },
   "BEJEWELED_COLLAR": {
     "itemid": "minecraft:skull",
@@ -29131,10 +29137,10 @@
     ]
   },
   "BLACK_WOOLEN_YARN": {
-    "itemid": "minecraft:wool",
+    "itemid": "minecraft:paper",
     "displayname": "§dBlack Woolen Yarn",
-    "nbttag": "{ExtraAttributes:{id:\"BLACK_WOOLEN_YARN\"},HideFlags:254,ItemModel:\"minecraft:black_wool\",display:{Lore:[0:\"§7Use at §bKat §7to upgrade §eBlack Cat Pets\",1:\"§7to §dMythic §7rarity.\",2:\"\",3:\"§d§lMYTHIC\"],Name:\"§dBlack Woolen Yarn\"}}",
-    "damage": 15,
+    "nbttag": "{ExtraAttributes:{id:\"BLACK_WOOLEN_YARN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/black_woolen_yarn\",display:{Lore:[0:\"§7Use at §bKat §7to upgrade §eBlack Cat Pets\",1:\"§7to §dMythic §7rarity.\",2:\"\",3:\"§d§lMYTHIC\"],Name:\"§dBlack Woolen Yarn\"}}",
+    "damage": 0,
     "lore": [
       "§7Use at §bKat §7to upgrade §eBlack Cat Pets",
       "§7to §dMythic §7rarity.",
@@ -29144,7 +29150,7 @@
     "internalname": "BLACK_WOOLEN_YARN",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Black_Woolen_Yarn"
@@ -32264,7 +32270,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Hunk_Of_Blue_Ice"
+      "https://hypixelskyblock.minecraft.wiki/w/Hunk_of_Blue_Ice"
     ],
     "recipes": [
       {
@@ -32484,7 +32490,7 @@
     ]
   },
   "BLUE_SHARK_TOOTH": {
-    "itemid": "minecraft:ghast_tear",
+    "itemid": "minecraft:paper",
     "displayname": "§9Blue Shark Tooth",
     "nbttag": "{ExtraAttributes:{id:\"BLUE_SHARK_TOOTH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/marina/blue_shark_tooth\",display:{Lore:[0:\"§7Dropped by a Shark during Fishing\",1:\"§7Festival.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Blue Shark Tooth\"},ench:[]}",
     "damage": 0,
@@ -32499,7 +32505,7 @@
     "internalname": "BLUE_SHARK_TOOTH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Blue_Shark_Tooth"
@@ -34092,8 +34098,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Box_of_Junk"
+    ]
   },
   "BOX_OF_SEEDS": {
     "itemid": "minecraft:paper",
@@ -39149,7 +39157,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/7th_Anniversary_Cake_Hat"
+      "https://hypixelskyblock.minecraft.wiki/w/Orange_7th_Anniversary_Cake_Hat"
     ]
   },
   "CAKE_HAT_2026_PINK": {
@@ -43709,8 +43717,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Artifact_of_the_Century"
+    ],
     "recipes": [
       {
         "A1": "TOKEN_OF_THE_CENTURY:2",
@@ -47120,22 +47130,23 @@
   "CHRONO_PICKAXE": {
     "itemid": "minecraft:iron_pickaxe",
     "displayname": "§5Chrono Pickaxe",
-    "nbttag": "{ExtraAttributes:{id:\"CHRONO_PICKAXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/rift/zones/mountaintop/timite_collection/chrono_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§7Allows you to break living metal,\",1:\"§5Obsolite§7, §9Timite§7, and §bYoungite§7.\",2:\"\",3:\"§8This pickaxe is not a particular fan\",4:\"§8of the like, overall vibe.\",5:\"\",6:\"§8This item can be reforged!\",7:\"§5§lEPIC SWORD\"],Name:\"§5Chrono Pickaxe\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CHRONO_PICKAXE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/rift/zones/mountaintop/timite_collection/chrono_pickaxe\",Unbreakable:1B,display:{Lore:[0:\"§7Rift Damage: §5+5\",1:\"\",2:\"§7Allows you to break living metal,\",3:\"§5Obsolite§7, §9Timite§7, and §bYoungite§7.\",4:\"\",5:\"§8This pickaxe is not a particular fan\",6:\"§8of the like, overall vibe.\",7:\"\",8:\"§5§lEPIC SWORD\"],Name:\"§5Chrono Pickaxe\"}}",
     "damage": 0,
     "lore": [
+      "§7Rift Damage: §5+5",
+      "",
       "§7Allows you to break living metal,",
       "§5Obsolite§7, §9Timite§7, and §bYoungite§7.",
       "",
       "§8This pickaxe is not a particular fan",
       "§8of the like, overall vibe.",
       "",
-      "§8This item can be reforged!",
       "§5§lEPIC SWORD"
     ],
     "internalname": "CHRONO_PICKAXE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Timite III",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Chrono_Pickaxe"
@@ -48538,7 +48549,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Cluck_The_Fish"
+      "https://hypixelskyblock.minecraft.wiki/w/Cluck_the_Fish"
     ]
   },
   "COAL-1": {
@@ -54816,8 +54827,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Crown_of_Avarice"
+    ]
   },
   "CROWN_OF_AVARICE_ROYAL": {
     "itemid": "minecraft:skull",
@@ -55908,7 +55921,7 @@
     "modver": "2.1.1-PRE",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Crystal_Hollows"
     ]
   },
   "CRYSTAL_HOLLOWS_SACK": {
@@ -56037,7 +56050,7 @@
     "modver": "Firmament 44.0.0+mc1.21.11",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Crystal_Nucleus"
     ]
   },
   "CRYSTAL_NUCLEUS_TRAVEL_SCROLL": {
@@ -56863,7 +56876,7 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_End"
     ],
     "recipe": {
       "A1": "OBSIDIAN:16",
@@ -57122,7 +57135,7 @@
     "modver": "Firmament 3.4.0+mc1.21.5",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Dark_Auction"
     ]
   },
   "DARK_BAIT": {
@@ -57187,10 +57200,10 @@
     ]
   },
   "DARK_CANDY": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§9Dark Candy",
-    "nbttag": "{ExtraAttributes:{id:\"DARK_CANDY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d0242dd3-2823-3dc7-8145-79e159080e8c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"k3kyK1wm5t30AzbJxLn0r9ozMZTb9qH5pgQZfb96ED5RvTq+ZhFFSy6mufaGFIY8cvCj4M5ZsB9OUjJbTyTBITwPYDuCUVs5+QgGVkbUzPV+K2DTXhGmMtNvGnYagVEZ76ZOKhnq//ElIFO/hNB8gMzYnbHWw9QAhOMRVfTbjy8tElEj+tVxlQljDvAVZBmlMxqnZKwevcUPjcyegaU+yrayGcw6+Sj9aQJPcxqA51PeHTNIIEU1IV7V11eShb6B1KbDo4bRN76mwEBjEj/zg65Wa+yzxNk/GTDXCT7VMv7cGEEf9IGYVzOyXIl8wwps/aSYLI974+/3eJODLvMxociox9DXxrG1ptcR48spEFC8Q3tv/PRY/1Q1EanCk2fqDD4cd1i/0a02Wr9Z/S3+6B+LLMbTV2UyMHfHCgCEOUQo1ERTJCUO5BmH/d4Et9Uq4MHIx8caDDQO5Q3fxsBzq7RYnNsMyy5GW7KYZhig7JlQ0akIlAn8FW+NgCAc3TUJrjtHkJDb/WdxJooFDLeEyeZUU+H30IzxQk7craoa360zlJp52YrIFF7y3f5O4B6VNIRy7No2J7zIz31lsHRrJ0g9Xs3/ec8l4y1Io/tqsKA6smcLE1v6/W9nGDyB9uVtIaPZuJXAeoOuGZGcp9tvwtEgtNwb/69rlZlLz5Blbks=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYzNTEyMjkwMDI5NSwKICAicHJvZmlsZUlkIiA6ICI4ODBiZWMwYTE0MmM0YzRlYTJlZjliMTFiMTBkNWNiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJmZ2FiIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjODY2ZTQyMzk1NTE0MjhmOWM4MTRkOWRjMTFlNzAwMmUwNDNiODdmNTkwZjFmZGNiNGZmNmJiNDk3YjhlMTgiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Can be brought to §cVargul the\",1:\"§cUnearthed §7at the back of the Hub\",2:\"§7island during the §5Great Spook§7.\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Dark Candy\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"DARK_CANDY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/dark_candy\",display:{Lore:[0:\"§7Can be brought to §cVargul the\",1:\"§cUnearthed §7at the back of the Hub\",2:\"§7island during the §5Great Spook§7.\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Dark Candy\"}}",
+    "damage": 0,
     "lore": [
       "§7Can be brought to §cVargul the",
       "§cUnearthed §7at the back of the Hub",
@@ -57201,7 +57214,7 @@
     "internalname": "DARK_CANDY",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dark_Candy"
@@ -58480,7 +58493,7 @@
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Cat_Detector"
+      "https://hypixelskyblock.minecraft.wiki/w/Dead_Cat_Detector"
     ]
   },
   "DEAD_CAT_FOOD": {
@@ -62276,7 +62289,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Boots_Of_Divan"
+      "https://hypixelskyblock.minecraft.wiki/w/Boots_of_Divan"
     ],
     "recipes": [
       {
@@ -62315,7 +62328,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Chestplate_Of_Divan"
+      "https://hypixelskyblock.minecraft.wiki/w/Chestplate_of_Divan"
     ],
     "recipes": [
       {
@@ -62431,7 +62444,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Helmet_Of_Divan"
+      "https://hypixelskyblock.minecraft.wiki/w/Helmet_of_Divan"
     ],
     "recipes": [
       {
@@ -62470,7 +62483,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Leggings_Of_Divan"
+      "https://hypixelskyblock.minecraft.wiki/w/Leggings_of_Divan"
     ],
     "recipes": [
       {
@@ -64242,7 +64255,7 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Dragon%27s_Nest"
     ]
   },
   "DRAGON_NEST_TRAVEL_SCROLL": {
@@ -65824,7 +65837,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Dwarven_Mines"
     ]
   },
   "DWARVEN_MINES_SACK": {
@@ -67854,9 +67867,9 @@
     ]
   },
   "ECTOPLASM": {
-    "itemid": "minecraft:prismarine_crystals",
+    "itemid": "minecraft:paper",
     "displayname": "§9Ectoplasm",
-    "nbttag": "{ExtraAttributes:{id:\"ECTOPLASM\"},HideFlags:254,ItemModel:\"minecraft:prismarine_crystals\",display:{Lore:[0:\"§7Spooky, yet practical.\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Ectoplasm\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ECTOPLASM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/ectoplasm\",display:{Lore:[0:\"§7Spooky, yet practical.\",1:\"\",2:\"§eRight-click to view recipes!\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Ectoplasm\"}}",
     "damage": 0,
     "lore": [
       "§7Spooky, yet practical.",
@@ -67868,7 +67881,7 @@
     "internalname": "ECTOPLASM",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ectoplasm"
@@ -68028,7 +68041,7 @@
   "EERIE;2": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §9Eerie",
-    "nbttag": "{ExtraAttributes:{id:\"EERIE;2\",petInfo:\"{\\\"type\\\":\\\"EERIE\\\",\\\"active\\\":false,\\\"exp\\\":0,\\\"tier\\\":\\\"RARE\\\",\\\"hideInfo\\\":false,\\\"candyUsed\\\":0,\\\"uuid\\\":\\\"b0ecc0bd-7d4a-4b42-9f52-95d4824c8932\\\",\\\"uniqueId\\\":\\\"909d0691-036a-4b5c-92e9-1223f9254434\\\",\\\"hideRightClick\\\":false}\"},HideFlags:254,SkullOwner:{Id:\"6977593c-236b-31c8-943e-6df9b3c0ab6c\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5NTY2NTQ5MTMwMiwKICAicHJvZmlsZUlkIiA6ICJkYmQ4MDQ2M2EwMzY0Y2FjYjI3OGNhODBhMDBkZGIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bG9nMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNhZjcwYzZmZjc2YmE0OGYyNGVlOGEyMDYzYTViNTBiYmZhYmY0MDlmNDc5NTI0OGEyOTJmODI4OWY0N2M5OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7§8Edition: #???\",3:\"\",4:\"§7Intelligence: §b+{INTELLIGENCE}\",5:\"§7Speed: §f+{SPEED}\",6:\"\",7:\"§6Fearnesy\",8:\"§7§7§5Fear §7from §5Great Spook\",9:\"§5Armor §7in your §bwardrobe\",10:\"§b§7applies to you, even if you\",11:\"§7aren't wearing it.\",12:\"\",13:\"§6Fearama §8Edition #???\",14:\"§7§7§7Increases §cdamage §7dealt\",15:\"§7to Primal Fears and Spooky Mobs\",16:\"§7by §a{0} §7for every §5Fear §7you\",17:\"§7have.\",18:\"\",19:\"§7§eRight-click to add this pet to\",20:\"§eyour pet menu!\",21:\"\",22:\"§8§l* §8Soulbound §8§l*\",23:\"§9§lRARE PET\"],Name:\"§7[Lvl {LVL}] §9Eerie\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"EERIE;2\",petInfo:\"{\\\"type\\\":\\\"EERIE\\\",\\\"tier\\\":\\\"RARE\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6977593c-236b-31c8-943e-6df9b3c0ab6c\",Properties:{textures:[0:{Name:\"textures\",Signature:\"vkdKDh1v6IXY2L3q1AyhCN680TjmuhRzFMfw60aRw+21E3lf5ncGNWY8OI9XAhk+kY2wXp1t6BCpaIp8GC1+bwVvji1rjIZr0/ZrqEFUXjYQrDEA4ChOIEh/fQ06v3qMy5ZSmscS4UUekQ/LaUDP41QRYpIOJREkcAkT0uRb/2YVSB2tIRS10dqxbGEtNrOohoKoWs+Ro0yUO0uHZdYC3RmJO5lCcuxc3lAp3sNpJBRkmFQNccONtfzCKol+Vsptbu3tDdas5zRPmGpLkIaMYiKJte3bs5LKHpKAMjElz4VjaumIQXDxKhcs7Z448AhMraq87zwWsM+CTPRWxksYi3/2cQwN41+wPJpCFlkhdAi5sVEk+HjAPRT8UngjiCMq/efF+9IdlcVl2Qdmj9wy3Lxcwt81qDF6S+pHdGcuFbLlyn5cz8oKZpgZN/Bm9ZFl38pmKKa9Vfro9iT7jcZK9QU5eFNMSIeTCiM9n0++Pt+mcbcSjZ5UgbCm4sxdk2XvPE197cRgtoE8BFcZI7uxl4jR53meXHsfH9mExLFIHYwkwfOCEU30Rgpg8SII6GrQ2aroMgb9mlL4ziv0e/2iZgyKzKJeu8E3P10S+L0xWpFCR20uWW6Pt6QP6ojcgbNCJ5f2Ku4+FdP9Az7uXoGZt2HezV+3lIMlY6OUju/AMLU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5NTY2NTQ5MTMwMiwKICAicHJvZmlsZUlkIiA6ICJkYmQ4MDQ2M2EwMzY0Y2FjYjI3OGNhODBhMDBkZGIxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4bG9nMjEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNhZjcwYzZmZjc2YmE0OGYyNGVlOGEyMDYzYTViNTBiYmZhYmY0MDlmNDc5NTI0OGEyOTJmODI4OWY0N2M5OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combat Pet\",1:\"\",2:\"§7§8Edition: #???\",3:\"\",4:\"§7Intelligence: §b+{INTELLIGENCE}\",5:\"§7Speed: §f+{SPEED}\",6:\"\",7:\"§6Fearnesy\",8:\"§5Fear §7from §5Great Spook Armor §7in\",9:\"§7your §bwardrobe §7applies to you, even\",10:\"§7if you aren't wearing it.\",11:\"\",12:\"§6Fearama\",13:\"§7Increases §cdamage §7dealt to Primal\",14:\"§7Fears and Spooky Mobs by §a{0}% §7for\",15:\"§7every §5Fear §7you have.\",16:\"\",17:\"§7§eRight-click to add this pet to\",18:\"§eyour pet menu!\",19:\"\",20:\"§8§l* §8Soulbound §8§l*\",21:\"§9§lRARE PET\"],Name:\"§7[Lvl {LVL}] §9Eerie\"}}",
     "damage": 3,
     "lore": [
       "§8Combat Pet",
@@ -68039,16 +68052,14 @@
       "§7Speed: §f+{SPEED}",
       "",
       "§6Fearnesy",
-      "§7§7§5Fear §7from §5Great Spook",
-      "§5Armor §7in your §bwardrobe",
-      "§b§7applies to you, even if you",
-      "§7aren't wearing it.",
+      "§5Fear §7from §5Great Spook Armor §7in",
+      "§7your §bwardrobe §7applies to you, even",
+      "§7if you aren't wearing it.",
       "",
-      "§6Fearama §8Edition #???",
-      "§7§7§7Increases §cdamage §7dealt",
-      "§7to Primal Fears and Spooky Mobs",
-      "§7by §a{0} §7for every §5Fear §7you",
-      "§7have.",
+      "§6Fearama",
+      "§7Increases §cdamage §7dealt to Primal",
+      "§7Fears and Spooky Mobs by §a{0}% §7for",
+      "§7every §5Fear §7you have.",
       "",
       "§7§eRight-click to add this pet to",
       "§eyour pet menu!",
@@ -68057,9 +68068,9 @@
       "§9§lRARE PET"
     ],
     "internalname": "EERIE;2",
-    "crafttext": "",
     "clickcommand": "",
-    "modver": "2.4.0",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Eerie_Pet"
@@ -71849,10 +71860,10 @@
     }
   },
   "ENCHANTED_BONE_BLOCK": {
-    "itemid": "minecraft:quartz_block",
+    "itemid": "minecraft:paper",
     "displayname": "§9Enchanted Bone Block",
-    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BONE_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:chiseled_quartz_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Bone Block\"},ench:[]}",
-    "damage": 1,
+    "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_BONE_BLOCK\"},HideFlags:254,ItemModel:\"minecraft:bone_block\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§9§lRARE\"],Name:\"§9Enchanted Bone Block\"},ench:[]}",
+    "damage": 0,
     "lore": [
       "§8Collection Item",
       "",
@@ -71861,7 +71872,7 @@
     "internalname": "ENCHANTED_BONE_BLOCK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Bone X",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Bone_Block"
@@ -75951,7 +75962,7 @@
     }
   },
   "ENCHANTED_SHARK_FIN": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:paper",
     "displayname": "§5Enchanted Shark Fin",
     "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_SHARK_FIN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/marina/shark_fin\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7A razor-sharp shark fin designed to\",3:\"§7craft powerful items.\",4:\"\",5:\"§eRight-click to view recipes!\",6:\"\",7:\"§5§lEPIC\"],Name:\"§5Enchanted Shark Fin\"},ench:[]}",
     "damage": 0,
@@ -75968,7 +75979,7 @@
     "internalname": "ENCHANTED_SHARK_FIN",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Shark_Fin"
@@ -80277,7 +80288,7 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Eon_The_Fish"
+      "https://hypixelskyblock.minecraft.wiki/w/Eon_the_Fish"
     ]
   },
   "EPHEMERAL_GRATITUDE": {
@@ -80784,8 +80795,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Century_Cake_of_the_Seven_Seas"
+    ]
   },
   "EPOCH_CAKE_SILVER": {
     "itemid": "minecraft:skull",
@@ -82266,10 +82279,10 @@
     ]
   },
   "EXPIRED_PUMPKIN": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aExpired Pumpkin",
-    "nbttag": "{ExtraAttributes:{id:\"EXPIRED_PUMPKIN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e58e2dd6-ea21-3d00-94ca-967f33dbc892\",Properties:{textures:[0:{Name:\"textures\",Signature:\"oXdWHSdP+TrFvHmuHi5wO6a/2pE58igu3U6GGEO9eELAhuIih/qhIiVh12Glkn9zdTpx6LYqwpQfJpurCi+M9YeQ8AgKB6cvPnqSGXHZb5LbUCEuyTJR6J6TnCKYIDRvkvmv4+7TnUTrFAjd9vZUGXjQ8oPV7YJfUVxb2Mz1zvuIkkcdlNO3WethIPRTDsggOPK0jDVVdTjZoA0g2c43S9qL13S3W+twZmjpG1O0tLKhfeukZVE9J7Up10Dm/R1D9jgeVx8J3beaWi6xTxpczbaS5X1XIhFBIlDHbGJIkFa/V0Yj8CJiZA1UOzTZ8VB463wQ3LR+r/lYL0/vONatXMCzFQRFty1rNX3wQ+7JY6Zq9PM/+ku5pkHRkS9grd4VInboYZc3GWbR17643uzubSEeYv00HdYxh9cF5Ce2MPBq+d1w/bVLrrc0+gARQu2QgXCmoBQXBoEKblWoJNqOj+fFdwdYFIz9dCzJPgrUBzVo/rkC+fCNTi305KOJ0raVLm6gGIp3DHt9KaTV414YxgSW8YqEmvCAKRhIpdhViJgvVeZdn2d02IY+5ox40Ph1eMUc21kJDGBwSi6vyXQcSrW5wRpJwsOxtgbT9DrOdfIWyPGx9wpzF1hu9hG97H6oD1naRevEhyOzFystD6JC3Mx1S1uoZ21LaVBaLuXvQGk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5OTcxNjQ1NjU0MiwKICAicHJvZmlsZUlkIiA6ICIzNzdmYzE2NzE2ZDY0NDM4YjNkYjQzYzYyOWExYTkyOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTd2VkZW5zdHlsZTM0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgyODkyMDk5MjBkNWYxOTE3NWQ3OWFlNmFhNmFhN2JiODk5MTQ0YTdiYzRmMzYxMmY0MzQ3ZWNhMjVlNTcyZmEiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Bring §63,000 §7of these to §5Carrolyn §7in\",1:\"§5Scarleton §7on the §cCrimson Isle §7to\",2:\"§7permanently gain §c+5 Health §7and\",3:\"§6+12 Pumpkin Fortune§7.\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aExpired Pumpkin\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"EXPIRED_PUMPKIN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/expired_pumpkin\",display:{Lore:[0:\"§7Bring §63,000 §7of these to §5Carrolyn §7in\",1:\"§5Scarleton §7on the §cCrimson Isle §7to\",2:\"§7permanently gain §c+5 Health §7and\",3:\"§6+12 Pumpkin Fortune§7.\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aExpired Pumpkin\"}}",
+    "damage": 0,
     "lore": [
       "§7Bring §63,000 §7of these to §5Carrolyn §7in",
       "§5Scarleton §7on the §cCrimson Isle §7to",
@@ -82281,7 +82294,7 @@
     "internalname": "EXPIRED_PUMPKIN",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Expired_Pumpkin"
@@ -82610,7 +82623,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Gemstone"
+      "https://hypixelskyblock.minecraft.wiki/w/Extra_Large_Gemstone_Sack"
     ]
   },
   "EXTREMELY_MILD_ADHESIVE": {
@@ -84508,7 +84521,7 @@
     ]
   },
   "FAKE_SHURIKEN": {
-    "itemid": "minecraft:nether_star",
+    "itemid": "minecraft:paper",
     "displayname": "§9Extremely Real Shuriken",
     "nbttag": "{ExtraAttributes:{id:\"FAKE_SHURIKEN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/rift/weapons/time_shuriken\",display:{Lore:[0:\"§7Can be thrown at §cEnemies §7to tag\",1:\"§7them. Grants §b+5%  Magic Find §7when\",2:\"§7a tagged §cEnemy §7is killed.\",3:\"§8Cooldown: §a1s\",4:\"\",5:\"§5§kX§5 Rift-Transferable §5§kX\",6:\"§9§lRARE\"],Name:\"§9Extremely Real Shuriken\"}}",
     "damage": 0,
@@ -84524,7 +84537,7 @@
     "internalname": "FAKE_SHURIKEN",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Extremely_Real_Shuriken"
@@ -84635,8 +84648,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Honeycomb III",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Family-Sized_Pot_of_Honeycomb"
+    ],
     "recipes": [
       {
         "A1": "",
@@ -85047,7 +85062,7 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Barn"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_Barn"
     ],
     "recipe": {
       "A1": "CARROT_ITEM:16",
@@ -85082,7 +85097,7 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Barn"
+      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_The_Barn"
     ],
     "recipe": {
       "A1": "ENCHANTED_CARROT:16",
@@ -91940,7 +91955,9 @@
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Backwater_Bayou"
+    ]
   },
   "FISHING_CRYSTAL": {
     "itemid": "minecraft:skull",
@@ -94592,7 +94609,7 @@
     ]
   },
   "FLEXBONE": {
-    "itemid": "minecraft:bone",
+    "itemid": "minecraft:paper",
     "displayname": "§aFlexbone",
     "nbttag": "{ExtraAttributes:{id:\"FLEXBONE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/flexbone\",display:{Lore:[0:\"§7Caught as a §6Treasure §7catch in the\",1:\"§cTomb Floodway §7on the §2Moonglade\",2:\"§2Marsh§7.\",3:\"\",4:\"§8§oThese softened bones have\",5:\"§8§oabsorbed moss over time, offering a\",6:\"§8§oflexible material.\",7:\"\",8:\"§eRight-click to view recipes!\",9:\"\",10:\"§a§lUNCOMMON\"],Name:\"§aFlexbone\"}}",
     "damage": 0,
@@ -94612,7 +94629,7 @@
     "internalname": "FLEXBONE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Flexbone"
@@ -96108,7 +96125,7 @@
     "modver": "Firmament 3.1.0-dev+mc1.21.5+g4907900",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_the_Park"
+      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_The_Park"
     ]
   },
   "FORAGING_2_PORTAL": {
@@ -96601,7 +96618,7 @@
     "modver": "Firmament 43.0.0+mc1.21.10",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_Forge"
     ]
   },
   "FORGE_TRAVEL_SCROLL": {
@@ -97820,7 +97837,7 @@
     ]
   },
   "FRIED_FEATHER": {
-    "itemid": "minecraft:feather",
+    "itemid": "minecraft:paper",
     "displayname": "§aFried Feather",
     "nbttag": "{ExtraAttributes:{id:\"FRIED_FEATHER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/misc/fried_feather\",display:{Lore:[0:\"§7A greasy feather, somehow still in\",1:\"§7one piece despite having been\",2:\"§7doused in boiling-hot lava.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aFried Feather\"}}",
     "damage": 0,
@@ -97836,7 +97853,7 @@
     "internalname": "FRIED_FEATHER",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Fried_Feather"
@@ -100186,8 +100203,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Honeycomb I",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fun-Sized_Pot_of_Honeycomb"
+    ],
     "recipes": [
       {
         "A1": "",
@@ -100369,7 +100388,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+gf6d72409",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Gabagool_The_Fish"
+      "https://hypixelskyblock.minecraft.wiki/w/Gabagool_the_Fish"
     ]
   },
   "GAIA_CONSTRUCT_MONSTER": {
@@ -102665,20 +102684,21 @@
   },
   "GHOST_BOOTS": {
     "itemid": "minecraft:leather_boots",
-    "displayname": "§9Ghostly Boots",
-    "nbttag": "{ExtraAttributes:{id:\"GHOST_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7§oBoots made of pure ghost\",1:\"§7§oessence.\",2:\"\",3:\"§8This item can be reforged!\",4:\"§9§lRARE BOOTS\"],Name:\"§9Ghostly Boots\",color:8421504}}",
+    "displayname": "§5Ghostly Boots",
+    "nbttag": "{ExtraAttributes:{id:\"GHOST_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Fear: §5+1\",1:\"\",2:\"§8§oFor ghosts, by ghosts.\",3:\"\",4:\"§8This item can be reforged!\",5:\"§5§lEPIC BOOTS\"],Name:\"§5Ghostly Boots\",color:8421504}}",
     "damage": 0,
     "lore": [
-      "§7§oBoots made of pure ghost",
-      "§7§oessence.",
+      "§7Fear: §5+1",
+      "",
+      "§8§oFor ghosts, by ghosts.",
       "",
       "§8This item can be reforged!",
-      "§9§lRARE BOOTS"
+      "§5§lEPIC BOOTS"
     ],
     "internalname": "GHOST_BOOTS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ghostly_Boots"
@@ -105957,13 +105977,13 @@
     "slayer_req": "EMAN_5"
   },
   "GLOSSY_GEMSTONE": {
-    "itemid": "minecraft:dye",
+    "itemid": "minecraft:paper",
     "displayname": "§5Glossy Gemstone",
-    "nbttag": "{ExtraAttributes:{id:\"GLOSSY_GEMSTONE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/cole/glossy_gemstone\",display:{Lore:[0:\"§7Drops rarely from §dGemstones§7 while\",1:\"§6Mayor Cole§7 is in office.\",2:\"\",3:\"§8§oYou can see thousands of glittering\",4:\"§8§oreflections as you stare into its\",5:\"§8§ointricate patterns. Maybe you should\",6:\"§8§ostop gazing and keep mining...\",7:\"\",8:\"§eRight-click to view recipes!\",9:\"\",10:\"§5§lEPIC\"],Name:\"§5Glossy Gemstone\"}}",
-    "damage": 5,
+    "nbttag": "{ExtraAttributes:{id:\"GLOSSY_GEMSTONE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/cole/glossy_gemstone\",display:{Lore:[0:\"§7Drops rarely from §dGemstones§7 while\",1:\"§bMayor Cole's §6Mining Fiesta §7is active.\",2:\"\",3:\"§8§oYou can see thousands of glittering\",4:\"§8§oreflections as you stare into its\",5:\"§8§ointricate patterns. Maybe you should\",6:\"§8§ostop gazing and keep mining...\",7:\"\",8:\"§eRight-click to view recipes!\",9:\"\",10:\"§5§lEPIC\"],Name:\"§5Glossy Gemstone\"}}",
+    "damage": 0,
     "lore": [
       "§7Drops rarely from §dGemstones§7 while",
-      "§6Mayor Cole§7 is in office.",
+      "§bMayor Cole's §6Mining Fiesta §7is active.",
       "",
       "§8§oYou can see thousands of glittering",
       "§8§oreflections as you stare into its",
@@ -105977,7 +105997,7 @@
     "internalname": "GLOSSY_GEMSTONE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Glossy_Gemstone"
@@ -106260,8 +106280,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 43.0.0+mc1.21.10",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Glowing_Mushroom_Cave"
+    ]
   },
   "GLOWING_MUSHROOM_CAVE_TRAVEL_SCROLL": {
     "itemid": "minecraft:map",
@@ -110982,7 +111004,7 @@
     "modver": "Firmament 44.2.0-dev+mc1.21.11+ga2a6cfec",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/HsiF_ehT_gorF"
+      "https://hypixelskyblock.minecraft.wiki/w/Hsif_Eht_Gorf"
     ]
   },
   "GRANDFATHER_CLOCK": {
@@ -111493,13 +111515,12 @@
   "GRATITUDE_ARTIFACT": {
     "itemid": "minecraft:skull",
     "displayname": "§9Gratitude Artifact",
-    "nbttag": "{ExtraAttributes:{id:\"GRATITUDE_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2e4d2114-c120-372c-a52b-6a0a70fa8838\",Properties:{textures:[0:{Name:\"textures\",Signature:\"J5SAPZC4taleCe4toYY7gMSMDEWYm+YJKAnKy+upyLcxQShUuTG+VA3zwBCj5+DFtRFBDFKDhHLX63H721N132wROnJQTDnWXxUEHHrpOBO5t9vn47ElSgakLbuSd1XWK7tgXZbQEWQH5NvxcRRcZmwWedsbLfVEu2psN7IcMRS+CrOOodsKAEjv5fIK/405Kh4am4Uf6Inv/ZkCyiNm60zgbwcpZmaWCpmb9EVwWhl6aDha8i6uQBQorx11n9mUrDX1Nw8GL72yT9Mpw5Bd7lERAFCYclx6oqxI2duHCpE6RJ7Tf+L/KCIhnwqCtZ+Wxg073r3pBefB+YibuE8jFvHneY7CwtONJEzjzh8bILH1BJKTWY1VkX5q1b93YgYbEI+WFz8vgwv42cyJUKU98Fo+Izfi0FkL1hRaMlnlHYvZSXvj+841x9yrxXdnaSjHr4lKP32PN7rUWg1nJ/BfOjlN/1kQ0bRG9QX5f7WvlA5stgt5Jf5FUb0tOwBH3b+/Z2Az7v8MNmxqDSgzsyViarZKKKuYdx4uJeJVLeK2ZBHoTBaFQmawVnzfTyZxvAJb44HQLAW5/8+lWPtV63iiaoJ66EAqce4tnu6/y3Fa8COiRqAAmwJ6DMTp8NzjkL1U/JKyellkX19/i+8TJAPzngn6hs5kBNatODbPzhdr4So=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIzMjg2MiwKICAicHJvZmlsZUlkIiA6ICI0NDYwMjU3Y2U3MTE0MzQ1YTA2MzBkMjgzNWY3MzcxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWxlZGljdF9ZVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZmJhODQ0ZmY2OTJmMWRlNDZkNjY2NGE5YzZjNGQyOWJiZmI4NjJjNjdkZjc0NTVmNDdkZWUyMTUyZWE0YzgwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§bVisitors §7appear §a5% §7faster while\",3:\"§7you're in §aThe Garden§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§9§lRARE ACCESSORY\"],Name:\"§9Gratitude Artifact\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GRATITUDE_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2e4d2114-c120-372c-a52b-6a0a70fa8838\",Properties:{textures:[0:{Name:\"textures\",Signature:\"J5SAPZC4taleCe4toYY7gMSMDEWYm+YJKAnKy+upyLcxQShUuTG+VA3zwBCj5+DFtRFBDFKDhHLX63H721N132wROnJQTDnWXxUEHHrpOBO5t9vn47ElSgakLbuSd1XWK7tgXZbQEWQH5NvxcRRcZmwWedsbLfVEu2psN7IcMRS+CrOOodsKAEjv5fIK/405Kh4am4Uf6Inv/ZkCyiNm60zgbwcpZmaWCpmb9EVwWhl6aDha8i6uQBQorx11n9mUrDX1Nw8GL72yT9Mpw5Bd7lERAFCYclx6oqxI2duHCpE6RJ7Tf+L/KCIhnwqCtZ+Wxg073r3pBefB+YibuE8jFvHneY7CwtONJEzjzh8bILH1BJKTWY1VkX5q1b93YgYbEI+WFz8vgwv42cyJUKU98Fo+Izfi0FkL1hRaMlnlHYvZSXvj+841x9yrxXdnaSjHr4lKP32PN7rUWg1nJ/BfOjlN/1kQ0bRG9QX5f7WvlA5stgt5Jf5FUb0tOwBH3b+/Z2Az7v8MNmxqDSgzsyViarZKKKuYdx4uJeJVLeK2ZBHoTBaFQmawVnzfTyZxvAJb44HQLAW5/8+lWPtV63iiaoJ66EAqce4tnu6/y3Fa8COiRqAAmwJ6DMTp8NzjkL1U/JKyellkX19/i+8TJAPzngn6hs5kBNatODbPzhdr4So=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIzMjg2MiwKICAicHJvZmlsZUlkIiA6ICI0NDYwMjU3Y2U3MTE0MzQ1YTA2MzBkMjgzNWY3MzcxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWxlZGljdF9ZVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZmJhODQ0ZmY2OTJmMWRlNDZkNjY2NGE5YzZjNGQyOWJiZmI4NjJjNjdkZjc0NTVmNDdkZWUyMTUyZWE0YzgwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§bVisitors §7give §c+5% Copper.\",3:\"\",4:\"§8Works while in Accessory Bag!\",5:\"§9§lRARE ACCESSORY\"],Name:\"§9Gratitude Artifact\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+8",
       "",
-      "§bVisitors §7appear §a5% §7faster while",
-      "§7you're in §aThe Garden§7.",
+      "§bVisitors §7give §c+5% Copper.",
       "",
       "§8Works while in Accessory Bag!",
       "§9§lRARE ACCESSORY"
@@ -111507,7 +111528,7 @@
     "internalname": "GRATITUDE_ARTIFACT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Gratitude_Artifact"
@@ -111532,13 +111553,12 @@
   "GRATITUDE_RING": {
     "itemid": "minecraft:skull",
     "displayname": "§aGratitude Ring",
-    "nbttag": "{ExtraAttributes:{id:\"GRATITUDE_RING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a3e94b35-3b30-3c1b-a421-6de4ab66c2c3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"meu6FrnMOwcGN9VZXRqZu7T4PfbKtK3W3Y4IBifTTuBtHhB/FytKUbmc87qwErvNXsaHlRpIGpt8aVRKQlXZT8LM52HmjmMvarOt9nHp7dT9xAoGtkpDJJQxRDWCCOQYM6skqYae0N86X4xah9LDH/8rzusyAcITS1sarl//MGja0unnFg/aUeAu8FQKeemsCDHAo5XLuL6+6bATsH/z4NsT8jUsQ49RnhKFVNEg1yQIQvnJ+sW36XnGKyFnQHIan/44AO8bt5g5ly25kbztoGdhcq5mjFqQzjDMfYQRxk39VKIE7mTncBc9K6wVH2IsJRUmdUY/B7EyYxg8Rj2JCDHbg+uvVSw3Pmi+GrLQR4bqHw3nokahkDOjHw5xIkOD36PtNwAjZGbMqIBrV/BOQeqvgyawb6aZjz4C3KjzgpAtjSQoomMuKUTC5VKFUcAiMWD6VI8h5UeGTy0Su7/RyCeaM6khePLps0jGCK8uxyUdTU4O2JpjjCGsx+PG+ww/sImZFtMeTiWVKl5iZXssl3GTWblRaojVHwt7XD1JqsT/N92NBovHSRkuB4y2CDNKx32NBjgjqje5l6bcV5p2EAWdXcurEkvm5UrkXU7RzfztHj1VVuN9CsW9ClZklL+zfoH40JhP3K1tnOMFwxr3x1dtQd9rJRcuIxcW/sCncM4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIzNTk1NCwKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjAwM2M1MjNkZmE2YWQ1MTQxMWNlZGFhMWMxYjI4N2ExZDMzMWUzZWMxZTdjZWRhZmYxMzVlMGEwMTY3YTYxOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§bVisitors §7appear §a3% §7faster while\",3:\"§7you're in §aThe Garden§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aGratitude Ring\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GRATITUDE_RING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a3e94b35-3b30-3c1b-a421-6de4ab66c2c3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"meu6FrnMOwcGN9VZXRqZu7T4PfbKtK3W3Y4IBifTTuBtHhB/FytKUbmc87qwErvNXsaHlRpIGpt8aVRKQlXZT8LM52HmjmMvarOt9nHp7dT9xAoGtkpDJJQxRDWCCOQYM6skqYae0N86X4xah9LDH/8rzusyAcITS1sarl//MGja0unnFg/aUeAu8FQKeemsCDHAo5XLuL6+6bATsH/z4NsT8jUsQ49RnhKFVNEg1yQIQvnJ+sW36XnGKyFnQHIan/44AO8bt5g5ly25kbztoGdhcq5mjFqQzjDMfYQRxk39VKIE7mTncBc9K6wVH2IsJRUmdUY/B7EyYxg8Rj2JCDHbg+uvVSw3Pmi+GrLQR4bqHw3nokahkDOjHw5xIkOD36PtNwAjZGbMqIBrV/BOQeqvgyawb6aZjz4C3KjzgpAtjSQoomMuKUTC5VKFUcAiMWD6VI8h5UeGTy0Su7/RyCeaM6khePLps0jGCK8uxyUdTU4O2JpjjCGsx+PG+ww/sImZFtMeTiWVKl5iZXssl3GTWblRaojVHwt7XD1JqsT/N92NBovHSRkuB4y2CDNKx32NBjgjqje5l6bcV5p2EAWdXcurEkvm5UrkXU7RzfztHj1VVuN9CsW9ClZklL+zfoH40JhP3K1tnOMFwxr3x1dtQd9rJRcuIxcW/sCncM4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIzNTk1NCwKICAicHJvZmlsZUlkIiA6ICJhYzY1NDYwOWVkZjM0ODhmOTM0ZWNhMDRmNjlkNGIwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFjZUd1cmxTa3kiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjAwM2M1MjNkZmE2YWQ1MTQxMWNlZGFhMWMxYjI4N2ExZDMzMWUzZWMxZTdjZWRhZmYxMzVlMGEwMTY3YTYxOSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§bVisitors §7give §c+3% Copper.\",3:\"\",4:\"§8Works while in Accessory Bag!\",5:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aGratitude Ring\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+5",
       "",
-      "§bVisitors §7appear §a3% §7faster while",
-      "§7you're in §aThe Garden§7.",
+      "§bVisitors §7give §c+3% Copper.",
       "",
       "§8Works while in Accessory Bag!",
       "§a§lUNCOMMON ACCESSORY"
@@ -111546,7 +111566,7 @@
     "internalname": "GRATITUDE_RING",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Gratitude_Ring"
@@ -111571,13 +111591,12 @@
   "GRATITUDE_TALISMAN": {
     "itemid": "minecraft:skull",
     "displayname": "§fGratitude Talisman",
-    "nbttag": "{ExtraAttributes:{id:\"GRATITUDE_TALISMAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6ed6d69f-6199-3101-b616-d6c5984c9a73\",Properties:{textures:[0:{Name:\"textures\",Signature:\"fJ31aXX9A6JgtTHhKHKP24TCQQNBVHj24eSNELjlF59TjefD2fbB6eWyas2hBtaav8l1MPVidhy/oIdAKt2UAiul7VqKtlOYP421o6l22+tFgxtHresdjbTWuaF7c0dMRefsp8Dm/E+yVeef7jB8Hrc8Jk0HMM67uTDsLWFT2ErqR0O7lV3SmnEbdj8a5Ifv/A8F5omuTu8z3+oC+ToV360F1JUbaWn4k3bwxvG0iUjMyx4wwBGkkC8Tb9L82IBdynTbdz+orm5+5DeW45KGNcrAvONug24CwbJYQRHMGBS4gIH8h+F3+ObgjzexUmvbPtVXlX6eQ+Q6HiTaahWQlRKIyU69KZ3UpkXngshCmqDgVAbTHNyF/9xm7a8F3oH2prMJqMGYjZARpPGMjYPYimtuPlNd+q96RHt/78tyYiaBOyXw50JWaMLso3hQtrfAc30Ur/w/jZCEcqVpmasdQLn75RfemT+GhziVd0V+y8x887czcHfADlvK/yFGZK7LRImlsyT2EgqoNqrJ1zRJR/7FL/hgvYfekgU+81fZJR14C672LqzG1ZUnJZVvum+DfNu8est2nhALFjbrj9+8oIZznt5SpzmnsAw6UK/91WUGE/7DR2JZAZ94y+/y4IzBl8ZGDE4YFI7brvG2NDR/MYbLFZPMJfG5FMcZuwniT18=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjE2MDkzMjc2OSwKICAicHJvZmlsZUlkIiA6ICJlZmI1ZWQ2YjVjOTU0ODBlYWFmMjAyZDIxOWVmNjBjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWtlSHdhazAwMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MGUxMmVjODU0N2E1NDUwMzMyNjU3YjVkMmU4NTUwNGM4NDEzODZjY2UyYTZhMjQzNGNjYTNkMzEwZDE0YTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§bVisitors §7appear §a1% §7faster while\",3:\"§7you're in §aThe Garden§7.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§f§lCOMMON ACCESSORY\"],Name:\"§fGratitude Talisman\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GRATITUDE_TALISMAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"6ed6d69f-6199-3101-b616-d6c5984c9a73\",Properties:{textures:[0:{Name:\"textures\",Signature:\"fJ31aXX9A6JgtTHhKHKP24TCQQNBVHj24eSNELjlF59TjefD2fbB6eWyas2hBtaav8l1MPVidhy/oIdAKt2UAiul7VqKtlOYP421o6l22+tFgxtHresdjbTWuaF7c0dMRefsp8Dm/E+yVeef7jB8Hrc8Jk0HMM67uTDsLWFT2ErqR0O7lV3SmnEbdj8a5Ifv/A8F5omuTu8z3+oC+ToV360F1JUbaWn4k3bwxvG0iUjMyx4wwBGkkC8Tb9L82IBdynTbdz+orm5+5DeW45KGNcrAvONug24CwbJYQRHMGBS4gIH8h+F3+ObgjzexUmvbPtVXlX6eQ+Q6HiTaahWQlRKIyU69KZ3UpkXngshCmqDgVAbTHNyF/9xm7a8F3oH2prMJqMGYjZARpPGMjYPYimtuPlNd+q96RHt/78tyYiaBOyXw50JWaMLso3hQtrfAc30Ur/w/jZCEcqVpmasdQLn75RfemT+GhziVd0V+y8x887czcHfADlvK/yFGZK7LRImlsyT2EgqoNqrJ1zRJR/7FL/hgvYfekgU+81fZJR14C672LqzG1ZUnJZVvum+DfNu8est2nhALFjbrj9+8oIZznt5SpzmnsAw6UK/91WUGE/7DR2JZAZ94y+/y4IzBl8ZGDE4YFI7brvG2NDR/MYbLFZPMJfG5FMcZuwniT18=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjE2MDkzMjc2OSwKICAicHJvZmlsZUlkIiA6ICJlZmI1ZWQ2YjVjOTU0ODBlYWFmMjAyZDIxOWVmNjBjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWtlSHdhazAwMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MGUxMmVjODU0N2E1NDUwMzMyNjU3YjVkMmU4NTUwNGM4NDEzODZjY2UyYTZhMjQzNGNjYTNkMzEwZDE0YTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§bVisitors §7give §c+1% Copper.\",3:\"\",4:\"§8Works while in Accessory Bag!\",5:\"§f§lCOMMON ACCESSORY\"],Name:\"§fGratitude Talisman\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+3",
       "",
-      "§bVisitors §7appear §a1% §7faster while",
-      "§7you're in §aThe Garden§7.",
+      "§bVisitors §7give §c+1% Copper.",
       "",
       "§8Works while in Accessory Bag!",
       "§f§lCOMMON ACCESSORY"
@@ -111585,7 +111604,7 @@
     "internalname": "GRATITUDE_TALISMAN",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Gratitude_Talisman"
@@ -112749,7 +112768,7 @@
     ]
   },
   "GREAT_WHITE_SHARK_TOOTH": {
-    "itemid": "minecraft:ghast_tear",
+    "itemid": "minecraft:paper",
     "displayname": "§6Great White Shark Tooth",
     "nbttag": "{ExtraAttributes:{id:\"GREAT_WHITE_SHARK_TOOTH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/marina/great_white_shark_tooth\",display:{Lore:[0:\"§7Dropped by a Shark during Fishing\",1:\"§7Festival.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§6§lLEGENDARY\"],Name:\"§6Great White Shark Tooth\"},ench:[]}",
     "damage": 0,
@@ -112764,7 +112783,7 @@
     "internalname": "GREAT_WHITE_SHARK_TOOTH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Great_White_Shark_Tooth"
@@ -112875,10 +112894,10 @@
     ]
   },
   "GREEN_CANDY": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§aGreen Candy",
-    "nbttag": "{ExtraAttributes:{id:\"GREEN_CANDY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e5190c90-5144-3e4e-a545-8499ea3503ca\",Properties:{textures:[0:{Name:\"textures\",Signature:\"jKGpwn560rPDCmeZcPjw/XYgo1k2Los5P/zK1Q78ozc74omVtuFsvUnzCK8L0iH6vyiXVFB6tivSYfUHaZ5L8crUu4ZdI9wAh0Qjc0uR3NoIu4hj2gBUaI9MUSJ+m9t5fkbzLuDdyl5+75dXPIYtCDTO6yjr7BzYwPCiooS+/m8RO1nWuEkzh/3GU/sdBaVJ9Nj2M92gaspVSXuW9b1MFJCPqfqUBZKTu3H2LcDdHeDqYRx3eXbA/r4IKBwZSPaV5uSI8mkFq981ULVhnaC/8GmtAUqzrFIE3NKdMZxSetVhLecxDuCD8zecAw4/2JGlF2IagbY/QtBQtOaSlPqvpBTzQZAxTrVBQKfkKhpl5q7R1bm9UXDNXoJYZwheUBzk0FvCl4YUmPPEs5/gGkKfPWPwg0bPkSN99y83tVxE2ThDOFoeBkyIWLlKd87P1m6D9iHSTeCvRq97C7fdMLNi4tN88ZxlZYAv+BIUGvCpk/pgD2ctOapRulL1J23rVjR5073CLF/Cxd3PW7tEbYZp8fg5qeEegLOfueVOQgVpMWKc5R7E603+QV6jlsRh79cOrvglqpt+sKPzZvSmoT2feNHf0SuY3QrjLi6h0LlLZET4WAKbSSy/128UHYYUblM0yjHstd2Y2MbRrJw+KaJuTNUyPBGUpVycLMYWUJtxsU4=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzA4ODM1NSwKICAicHJvZmlsZUlkIiA6ICIyMWNjMzkxZmNkMjc0NzY5OTg5Y2M3M2VjYWRiNTE3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHT1NUTFk5NyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzFjMGJkNzZhNjU1ZDVkOGZlYTViMDZkYWFmMWZiOGQ4MDYwYmYwODIzZWJiYzZlYjZmOTljOGVlNWEzNWFhIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Candy can be used to trade with the\",1:\"§7Fear Mongerer during the §6Spooky\",2:\"§6Festival§7!\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aGreen Candy\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"GREEN_CANDY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/green_candy\",display:{Lore:[0:\"§7Candy can be used to trade with the\",1:\"§7Fear Mongerer during the §6Spooky\",2:\"§6Festival§7!\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aGreen Candy\"}}",
+    "damage": 0,
     "lore": [
       "§7Candy can be used to trade with the",
       "§7Fear Mongerer during the §6Spooky",
@@ -112889,7 +112908,7 @@
     "internalname": "GREEN_CANDY",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Green_Candy"
@@ -113162,7 +113181,7 @@
   "GREEN_THUMB;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{green_thumb:1},id:\"GREEN_THUMB;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Green Thumb I\",3:\"§7Grants §60.05 Farming Fortune\",4:\"§7per unique visitor served.\",5:\"\",6:\"§7Can be applied to Equipment.\",7:\"\",8:\"§6Sources:\",9:\" §7- SkyMart (§aI§7)\",10:\" §7- Bazaar (§aI-V§7)\",11:\"\",12:\"§6Applied To:\",13:\" §7- §fGloves\",14:\" §7- §fBelt\",15:\" §7- §fNecklace\",16:\" §7- §fBracelet\",17:\" §7- §fCloak\",18:\"\",19:\"§6Requirements:\",20:\" §7- §bEnchanting Level 24\",21:\"\",22:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{green_thumb:1},id:\"GREEN_THUMB;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Green Thumb I\",3:\"§7Grants §60.05 Farming Fortune\",4:\"§7per unique visitor served.\",5:\"§8(Excludes §lSPECIAL §8Visitors)\",6:\"\",7:\"§7Can be applied to Equipment.\",8:\"\",9:\"§6Sources:\",10:\" §7- SkyMart (§aI§7)\",11:\" §7- Bazaar (§aI-V§7)\",12:\"\",13:\"§6Applied To:\",14:\" §7- §fGloves\",15:\" §7- §fBelt\",16:\" §7- §fNecklace\",17:\" §7- §fBracelet\",18:\" §7- §fCloak\",19:\"\",20:\"§6Requirements:\",21:\" §7- §bEnchanting Level 24\",22:\"\",23:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -113170,6 +113189,7 @@
       "§9Green Thumb I",
       "§7Grants §60.05 Farming Fortune",
       "§7per unique visitor served.",
+      "§8(Excludes §lSPECIAL §8Visitors)",
       "",
       "§7Can be applied to Equipment.",
       "",
@@ -113201,7 +113221,7 @@
   "GREEN_THUMB;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{green_thumb:2},id:\"GREEN_THUMB;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Green Thumb II\",3:\"§7Grants §60.1 Farming Fortune\",4:\"§7per unique visitor served.\",5:\"\",6:\"§7Can be applied to Equipment.\",7:\"\",8:\"§6Sources:\",9:\" §7- SkyMart (§aI§7)\",10:\" §7- Bazaar (§aI-V§7)\",11:\"\",12:\"§6Applied To:\",13:\" §7- §fGloves\",14:\" §7- §fBelt\",15:\" §7- §fNecklace\",16:\" §7- §fBracelet\",17:\" §7- §fCloak\",18:\"\",19:\"§6Requirements:\",20:\" §7- §bEnchanting Level 24\",21:\"\",22:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{green_thumb:2},id:\"GREEN_THUMB;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Green Thumb II\",3:\"§7Grants §60.1 Farming Fortune\",4:\"§7per unique visitor served.\",5:\"§8(Excludes §lSPECIAL §8Visitors)\",6:\"\",7:\"§7Can be applied to Equipment.\",8:\"\",9:\"§6Sources:\",10:\" §7- SkyMart (§aI§7)\",11:\" §7- Bazaar (§aI-V§7)\",12:\"\",13:\"§6Applied To:\",14:\" §7- §fGloves\",15:\" §7- §fBelt\",16:\" §7- §fNecklace\",17:\" §7- §fBracelet\",18:\" §7- §fCloak\",19:\"\",20:\"§6Requirements:\",21:\" §7- §bEnchanting Level 24\",22:\"\",23:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -113209,6 +113229,7 @@
       "§9Green Thumb II",
       "§7Grants §60.1 Farming Fortune",
       "§7per unique visitor served.",
+      "§8(Excludes §lSPECIAL §8Visitors)",
       "",
       "§7Can be applied to Equipment.",
       "",
@@ -113240,7 +113261,7 @@
   "GREEN_THUMB;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{green_thumb:3},id:\"GREEN_THUMB;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Green Thumb III\",3:\"§7Grants §60.15 Farming Fortune\",4:\"§7per unique visitor served.\",5:\"\",6:\"§7Can be applied to Equipment.\",7:\"\",8:\"§6Sources:\",9:\" §7- SkyMart (§aI§7)\",10:\" §7- Bazaar (§aI-V§7)\",11:\"\",12:\"§6Applied To:\",13:\" §7- §fGloves\",14:\" §7- §fBelt\",15:\" §7- §fNecklace\",16:\" §7- §fBracelet\",17:\" §7- §fCloak\",18:\"\",19:\"§6Requirements:\",20:\" §7- §bEnchanting Level 24\",21:\"\",22:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{green_thumb:3},id:\"GREEN_THUMB;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Green Thumb III\",3:\"§7Grants §60.15 Farming Fortune\",4:\"§7per unique visitor served.\",5:\"§8(Excludes §lSPECIAL §8Visitors)\",6:\"\",7:\"§7Can be applied to Equipment.\",8:\"\",9:\"§6Sources:\",10:\" §7- SkyMart (§aI§7)\",11:\" §7- Bazaar (§aI-V§7)\",12:\"\",13:\"§6Applied To:\",14:\" §7- §fGloves\",15:\" §7- §fBelt\",16:\" §7- §fNecklace\",17:\" §7- §fBracelet\",18:\" §7- §fCloak\",19:\"\",20:\"§6Requirements:\",21:\" §7- §bEnchanting Level 24\",22:\"\",23:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -113248,6 +113269,7 @@
       "§9Green Thumb III",
       "§7Grants §60.15 Farming Fortune",
       "§7per unique visitor served.",
+      "§8(Excludes §lSPECIAL §8Visitors)",
       "",
       "§7Can be applied to Equipment.",
       "",
@@ -113279,7 +113301,7 @@
   "GREEN_THUMB;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{green_thumb:4},id:\"GREEN_THUMB;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Green Thumb IV\",3:\"§7Grants §60.2 Farming Fortune\",4:\"§7per unique visitor served.\",5:\"\",6:\"§7Can be applied to Equipment.\",7:\"\",8:\"§6Sources:\",9:\" §7- SkyMart (§aI§7)\",10:\" §7- Bazaar (§aI-V§7)\",11:\"\",12:\"§6Applied To:\",13:\" §7- §fGloves\",14:\" §7- §fBelt\",15:\" §7- §fNecklace\",16:\" §7- §fBracelet\",17:\" §7- §fCloak\",18:\"\",19:\"§6Requirements:\",20:\" §7- §bEnchanting Level 24\",21:\"\",22:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{green_thumb:4},id:\"GREEN_THUMB;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Green Thumb IV\",3:\"§7Grants §60.2 Farming Fortune\",4:\"§7per unique visitor served.\",5:\"§8(Excludes §lSPECIAL §8Visitors)\",6:\"\",7:\"§7Can be applied to Equipment.\",8:\"\",9:\"§6Sources:\",10:\" §7- SkyMart (§aI§7)\",11:\" §7- Bazaar (§aI-V§7)\",12:\"\",13:\"§6Applied To:\",14:\" §7- §fGloves\",15:\" §7- §fBelt\",16:\" §7- §fNecklace\",17:\" §7- §fBracelet\",18:\" §7- §fCloak\",19:\"\",20:\"§6Requirements:\",21:\" §7- §bEnchanting Level 24\",22:\"\",23:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -113287,6 +113309,7 @@
       "§9Green Thumb IV",
       "§7Grants §60.2 Farming Fortune",
       "§7per unique visitor served.",
+      "§8(Excludes §lSPECIAL §8Visitors)",
       "",
       "§7Can be applied to Equipment.",
       "",
@@ -113318,7 +113341,7 @@
   "GREEN_THUMB;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{green_thumb:5},id:\"GREEN_THUMB;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Green Thumb V\",3:\"§7Grants §60.25 Farming Fortune\",4:\"§7per unique visitor served.\",5:\"\",6:\"§7Can be applied to Equipment.\",7:\"\",8:\"§6Sources:\",9:\" §7- SkyMart (§aI§7)\",10:\" §7- Bazaar (§aI-V§7)\",11:\"\",12:\"§6Applied To:\",13:\" §7- §fGloves\",14:\" §7- §fBelt\",15:\" §7- §fNecklace\",16:\" §7- §fBracelet\",17:\" §7- §fCloak\",18:\"\",19:\"§6Requirements:\",20:\" §7- §bEnchanting Level 24\",21:\"\",22:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{green_thumb:5},id:\"GREEN_THUMB;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Green Thumb V\",3:\"§7Grants §60.25 Farming Fortune\",4:\"§7per unique visitor served.\",5:\"§8(Excludes §lSPECIAL §8Visitors)\",6:\"\",7:\"§7Can be applied to Equipment.\",8:\"\",9:\"§6Sources:\",10:\" §7- SkyMart (§aI§7)\",11:\" §7- Bazaar (§aI-V§7)\",12:\"\",13:\"§6Applied To:\",14:\" §7- §fGloves\",15:\" §7- §fBelt\",16:\" §7- §fNecklace\",17:\" §7- §fBracelet\",18:\" §7- §fCloak\",19:\"\",20:\"§6Requirements:\",21:\" §7- §bEnchanting Level 24\",22:\"\",23:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -113326,6 +113349,7 @@
       "§9Green Thumb V",
       "§7Grants §60.25 Farming Fortune",
       "§7per unique visitor served.",
+      "§8(Excludes §lSPECIAL §8Visitors)",
       "",
       "§7Can be applied to Equipment.",
       "",
@@ -120629,7 +120653,7 @@
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Hilt_Of_Revelations"
+      "https://hypixelskyblock.minecraft.wiki/w/Hilt_of_Revelations"
     ]
   },
   "HILT_OF_TRUE_ICE": {
@@ -122483,10 +122507,10 @@
     ]
   },
   "HORSEMAN_CANDLE": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Horseman's Candle",
-    "nbttag": "{ExtraAttributes:{id:\"HORSEMAN_CANDLE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"80ed2f44-c441-3532-b347-f32419917188\",Properties:{textures:[0:{Name:\"textures\",Signature:\"lfi3c2bzduTCO6nuDgyazEakm0eHCC7G/SCkLLj288eUcbnEt3GLuweZT9TFljFnx6NZe1X1NV7olfn4hJ3IHGSYsVCWV7EiwDRvEPUQq6p59HsgP4lnEEX9mAlgyPe3o4h2+Q8UpFVXG6W3XExAwnT4siCfFR2pio+9D8qAjMiG34JAhSK142yp17l8F7dtFtvTNoVPsTcCdVSRqiCz939FwIUOzKbJ4ANyYbUlatd/DdTSaAAoQq+RKcoQVaG01EaJPoNaCCaS3ZBbGdADiVf3HNAgfEuCzCihxo/ounGwTRKqnt5au/JCKz2ze65XR80CnHZEBODRUqbCu7Pd+pIYbDmx32EB9KwH2TIQqHenSjXqHQRth+WOrJka57NDCRorAK5FCR3c0KomiGvUWBhVJTTbTGQjZ3DFtUNrfu5ApoiuDWek4ADLgllHxJ8v+TsDUrHjvDWYnCMDwImYQr0xafaIvHyOLmV+v3NS1F0hN94yyOlmRJqKZwh75Q7lMmcQyS+r8ShvN64/X7RhyZUyP5+kmekDw4f+8DN77tYnhpPNTizf5I/Tpc6vd+C1GhkQwkHt/GEnY2SLr3TEnnbgy3dhaDx8iueO1nZ91S/pDZ+RQLRaqKo+BF0jIMRCbPsZtBDysSz0tTcVKHY5eNTd9hHNqIELAvT9/S8bDhk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0Mjc0Nzk4NiwKICAicHJvZmlsZUlkIiA6ICJlOTUyODY0OGZhYzU0ZDdlOGI0ZGU1NDhiMzU3MDY5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICIwNjAwMDEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzQ2Zjc0NjliN2Q5Y2MzNGM4OTkwYTBhZGQ2MzU4NDE5MTdhZjg5Y2E1MmNhZmRkZTU3NTAwN2QxYThjMzk4ZSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Used to summon the Headless\",1:\"§7Horseman. This item can only be used\",2:\"§7at night!\",3:\"\",4:\"§7Can be spawned in:\",5:\"§cGraveyard\",6:\"§2Wilderness\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Horseman's Candle\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"HORSEMAN_CANDLE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/horsemans_candle\",display:{Lore:[0:\"§7Used to summon the Headless\",1:\"§7Horseman. This item can only be used\",2:\"§7at night!\",3:\"\",4:\"§7Can be spawned in:\",5:\"§cGraveyard\",6:\"§2Wilderness\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Horseman's Candle\"}}",
+    "damage": 0,
     "lore": [
       "§7Used to summon the Headless",
       "§7Horseman. This item can only be used",
@@ -122501,7 +122525,7 @@
     "internalname": "HORSEMAN_CANDLE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Horseman%27s_Candle"
@@ -124086,7 +124110,7 @@
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Howling_Cave"
     ]
   },
   "HOWLING_SPIRIT_MONSTER": {
@@ -124171,7 +124195,7 @@
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Hub_Castle"
     ]
   },
   "HUB_CASTLE_TRAVEL_SCROLL": {
@@ -124222,7 +124246,7 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Hub_Crypts"
     ]
   },
   "HUB_CRYPTS_TRAVEL_SCROLL": {
@@ -130174,26 +130198,26 @@
   "INFINI_VACUUM": {
     "itemid": "minecraft:paper",
     "displayname": "§5InfiniVacuum™",
-    "nbttag": "{ExtraAttributes:{id:\"INFINI_VACUUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/infini_vacuum\",display:{Lore:[0:\"§7Damage: §c+300\",1:\"§7Farming Fortune: §6+20\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§7Can be used to damage §2 Pests§7.\",5:\"\",6:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",7:\"§7Deals §c300  Damage §7per second to\",8:\"§7nearby §2 Pests§7.\",9:\"\",10:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",11:\"§7Leads you in the direction of the\",12:\"§7nearest §2 Pest§7.\",13:\"§8Cooldown: §a1s\",14:\"\",15:\"§7Vacuum Bag: §20 Pests\",16:\"§8Vacuum  Pests in your Garden to\",17:\"§8increase!\",18:\"\",19:\"§4❣ §cRequires §aGarden Level 5§c.\",20:\"§5§lEPIC VACUUM\"],Name:\"§5InfiniVacuum™\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"INFINI_VACUUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/infini_vacuum\",display:{Lore:[0:\"§7Damage: §c+300\",1:\"§7Farming Fortune: §6+20\",2:\"§7Gemstones: §8[§7§8]\",3:\"\",4:\"§7Can be used to damage §2 Pests§7.\",5:\"\",6:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",7:\"§7Deals §c300  Damage §7per second to\",8:\"§7nearby §2 Pests§7.\",9:\"\",10:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",11:\"§7Leads you in the direction of the\",12:\"§7nearest §2 Pest§7.\",13:\"§8Cooldown: §a1s\",14:\"\",15:\"§7Vacuum Bag: §20 Pests\",16:\"§8Vacuum  Pests in your Garden to\",17:\"§8increase!\",18:\"\",19:\"§4❣ §cRequires §aGarden Level 5§c.\",20:\"§5§lEPIC VACUUM\"],Name:\"§5InfiniVacuum™\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+300",
       "§7Farming Fortune: §6+20",
       "§7Gemstones: §8[§7§8]",
       "",
-      "§7Can be used to damage §2 Pests§7.",
+      "§7Can be used to damage §2 Pests§7.",
       "",
       "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK",
       "§7Deals §c300  Damage §7per second to",
-      "§7nearby §2 Pests§7.",
+      "§7nearby §2 Pests§7.",
       "",
       "§6Ability: Pest Tracker  §e§lLEFT CLICK",
       "§7Leads you in the direction of the",
-      "§7nearest §2 Pest§7.",
+      "§7nearest §2 Pest§7.",
       "§8Cooldown: §a1s",
       "",
       "§7Vacuum Bag: §20 Pests",
-      "§8Vacuum  Pests in your Garden to",
+      "§8Vacuum  Pests in your Garden to",
       "§8increase!",
       "",
       "§4❣ §cRequires §aGarden Level 5§c.",
@@ -130211,26 +130235,26 @@
   "INFINI_VACUUM_HOOVERIUS": {
     "itemid": "minecraft:paper",
     "displayname": "§6InfiniVacuum™ Hooverius",
-    "nbttag": "{ExtraAttributes:{id:\"INFINI_VACUUM_HOOVERIUS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/infini_vacuum_hooverius\",display:{Lore:[0:\"§7Damage: §c+400\",1:\"§7Farming Fortune: §6+25\",2:\"§7Gemstones: §8[§7§8] []\",3:\"\",4:\"§7Can be used to damage §2 Pests§7.\",5:\"\",6:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",7:\"§7Deals §c400  Damage §7per second to\",8:\"§7nearby §2 Pests§7.\",9:\"\",10:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",11:\"§7Leads you in the direction of the\",12:\"§7nearest §2 Pest§7.\",13:\"§8Cooldown: §a1s\",14:\"\",15:\"§6Ability: Stereo Harmony  §e§lSNEAK LEFT CLICK\",16:\"§7Plays vinyls at a frequency only §2\",17:\"§2Pests §7can hear. Certain Pests are\",18:\"§7more likely to appear when certain\",19:\"§7vinyls are playing.\",20:\"\",21:\"§7Now Playing: §cNone\",22:\"\",23:\"§7Vacuum Bag: §20 Pests\",24:\"§8Vacuum  Pests in your Garden to\",25:\"§8increase!\",26:\"\",27:\"§4❣ §cRequires §aGarden Level 5§c.\",28:\"§6§lLEGENDARY VACUUM\"],Name:\"§6InfiniVacuum™ Hooverius\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"INFINI_VACUUM_HOOVERIUS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/infini_vacuum_hooverius\",display:{Lore:[0:\"§7Damage: §c+400\",1:\"§7Farming Fortune: §6+25\",2:\"§7Gemstones: §8[§7§8] []\",3:\"\",4:\"§7Can be used to damage §2 Pests§7.\",5:\"\",6:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",7:\"§7Deals §c400  Damage §7per second to\",8:\"§7nearby §2 Pests§7.\",9:\"\",10:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",11:\"§7Leads you in the direction of the\",12:\"§7nearest §2 Pest§7.\",13:\"§8Cooldown: §a1s\",14:\"\",15:\"§6Ability: Stereo Harmony  §e§lSNEAK LEFT CLICK\",16:\"§7Plays vinyls at a frequency only §2\",17:\"§2Pests §7can hear. Certain Pests are\",18:\"§7more likely to appear when certain\",19:\"§7vinyls are playing.\",20:\"\",21:\"§7Now Playing: §cNone\",22:\"\",23:\"§7Vacuum Bag: §20 Pests\",24:\"§8Vacuum  Pests in your Garden to\",25:\"§8increase!\",26:\"\",27:\"§4❣ §cRequires §aGarden Level 5§c.\",28:\"§6§lLEGENDARY VACUUM\"],Name:\"§6InfiniVacuum™ Hooverius\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+400",
       "§7Farming Fortune: §6+25",
       "§7Gemstones: §8[§7§8] []",
       "",
-      "§7Can be used to damage §2 Pests§7.",
+      "§7Can be used to damage §2 Pests§7.",
       "",
       "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK",
       "§7Deals §c400  Damage §7per second to",
-      "§7nearby §2 Pests§7.",
+      "§7nearby §2 Pests§7.",
       "",
       "§6Ability: Pest Tracker  §e§lLEFT CLICK",
       "§7Leads you in the direction of the",
-      "§7nearest §2 Pest§7.",
+      "§7nearest §2 Pest§7.",
       "§8Cooldown: §a1s",
       "",
       "§6Ability: Stereo Harmony  §e§lSNEAK LEFT CLICK",
-      "§7Plays vinyls at a frequency only §2",
+      "§7Plays vinyls at a frequency only §2",
       "§2Pests §7can hear. Certain Pests are",
       "§7more likely to appear when certain",
       "§7vinyls are playing.",
@@ -130238,7 +130262,7 @@
       "§7Now Playing: §cNone",
       "",
       "§7Vacuum Bag: §20 Pests",
-      "§8Vacuum  Pests in your Garden to",
+      "§8Vacuum  Pests in your Garden to",
       "§8increase!",
       "",
       "§4❣ §cRequires §aGarden Level 5§c.",
@@ -132758,22 +132782,22 @@
   "JAKE_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Jake (NPC)",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"29340f2b-3d79-5076-813f-5d74407d4040\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUxY2M3YzFkMTFhYTBhMDhhNzNjYmMxODQ1NDcwNTFhZWJkMDdiM2JiNTBkODZmMTE4OGZkN2E3ZGFkMmVkMyJ9fX0=\"}]}},display:{Lore:[0:\"\"],Name:\"§9Jake (NPC)\"},ExtraAttributes:{id:\"JAKE_NPC\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"JAKE_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"812067cb-908b-2681-9af3-df4f3e7f8ded\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDUxY2M3YzFkMTFhYTBhMDhhNzNjYmMxODQ1NDcwNTFhZWJkMDdiM2JiNTBkODZmMTE4OGZkN2E3ZGFkMmVkMyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI4MTIwNjdjYjkwOGIyNjgxOWFmM2RmNGYzZTdmOGRlZCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzMTEyMDEyOTE3fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Jake (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
     ],
     "internalname": "JAKE_NPC",
     "clickcommand": "viewrecipe",
-    "modver": "2.1.0-REL",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Jake"
     ],
-    "crafttext": "",
-    "x": 261,
-    "y": 186,
-    "z": -566,
+    "x": 245,
+    "y": 95,
+    "z": -345,
     "island": "farming_1",
     "recipes": [
       {
@@ -134406,13 +134430,13 @@
   "JUICY_SPRAYONATOR": {
     "itemid": "minecraft:paper",
     "displayname": "§9Juicy Sprayonator",
-    "nbttag": "{ExtraAttributes:{id:\"JUICY_SPRAYONATOR\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/juicy_sprayonator\",display:{Lore:[0:\"§6Ability: Configure  §e§lLEFT CLICK\",1:\"§7Select a nozzle and material for\",2:\"§7spraying. Certain materials attract\",3:\"§7certain types of §2 Pests§7.\",4:\"\",5:\"§7Selected Nozzle: §9Juicy\",6:\"§7Selected Material: §aCompost\",7:\"§7Attracts: §6Earthworm§7, §6Mosquito\",8:\"\",9:\"§6Ability: Spray  §e§lRIGHT CLICK\",10:\"§7Sprays your selected material onto\",11:\"§7the §aGarden §7plot you are on. Lasts\",12:\"§7for §a45m§7.\",13:\"\",14:\"§9Juicy Nozzle Bonus:\",15:\"§8➜ §2+50 Bonus Pest Chance §7while\",16:\"§7   in a sprayed plot.\",17:\"§8➜ §2 Pests §7are §a2x §7more likely to\",18:\"§7   spawn in sprayed plots.\",19:\"§8Cooldown: §a3s\",20:\"\",21:\"§4❣ §cRequires §aGarden Level 5§c.\",22:\"§9§lRARE\"],Name:\"§9Juicy Sprayonator\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"JUICY_SPRAYONATOR\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/juicy_sprayonator\",display:{Lore:[0:\"§6Ability: Configure  §e§lLEFT CLICK\",1:\"§7Select a nozzle and material for\",2:\"§7spraying. Certain materials attract\",3:\"§7certain types of §2 Pests§7.\",4:\"\",5:\"§7Selected Nozzle: §9Juicy\",6:\"§7Selected Material: §aCompost\",7:\"§7Attracts: §6Earthworm§7, §6Mosquito\",8:\"\",9:\"§6Ability: Spray  §e§lRIGHT CLICK\",10:\"§7Sprays your selected material onto\",11:\"§7the §aGarden §7plot you are on. Lasts\",12:\"§7for §a45m§7.\",13:\"\",14:\"§9Juicy Nozzle Bonus:\",15:\"§8➜ §2+50 Bonus Pest Chance §7while\",16:\"§7   in a sprayed plot.\",17:\"§8➜ §2 Pests §7are §a2x §7more likely to\",18:\"§7   spawn in sprayed plots.\",19:\"§8Cooldown: §a3s\",20:\"\",21:\"§4❣ §cRequires §aGarden Level 5§c.\",22:\"§9§lRARE\"],Name:\"§9Juicy Sprayonator\"}}",
     "damage": 0,
     "lore": [
       "§6Ability: Configure  §e§lLEFT CLICK",
       "§7Select a nozzle and material for",
       "§7spraying. Certain materials attract",
-      "§7certain types of §2 Pests§7.",
+      "§7certain types of §2 Pests§7.",
       "",
       "§7Selected Nozzle: §9Juicy",
       "§7Selected Material: §aCompost",
@@ -134426,7 +134450,7 @@
       "§9Juicy Nozzle Bonus:",
       "§8➜ §2+50 Bonus Pest Chance §7while",
       "§7   in a sprayed plot.",
-      "§8➜ §2 Pests §7are §a2x §7more likely to",
+      "§8➜ §2 Pests §7are §a2x §7more likely to",
       "§7   spawn in sprayed plots.",
       "§8Cooldown: §a3s",
       "",
@@ -134436,7 +134460,7 @@
     "internalname": "JUICY_SPRAYONATOR",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Juicy_Sprayonator"
@@ -134591,8 +134615,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Honeycomb V",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Jumbo_Pot_of_Honeycomb"
+    ],
     "recipes": [
       {
         "A1": "",
@@ -137834,7 +137860,7 @@
     "modver": "Firmament 44.2.0-dev+mc1.21.11+ga97960bc",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Forgotten_Skull"
     ]
   },
   "KUUDRA_TEETH": {
@@ -148119,7 +148145,7 @@
     "modver": "Firmament 43.0.0+mc1.21.10",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Maddox_The_Slayer"
+      "https://hypixelskyblock.minecraft.wiki/w/Maddox_the_Slayer"
     ],
     "x": -84,
     "y": 68,
@@ -148143,7 +148169,7 @@
     "island": "rift",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Maddox_The_Slayer"
+      "https://hypixelskyblock.minecraft.wiki/w/Maddox_the_Slayer"
     ]
   },
   "MAD_REDSTONE_ENGINEER_NPC": {
@@ -149142,7 +149168,7 @@
     ]
   },
   "MAGMA_CORE": {
-    "itemid": "minecraft:magma_cream",
+    "itemid": "minecraft:paper",
     "displayname": "§9Magma Core",
     "nbttag": "{ExtraAttributes:{id:\"MAGMA_CORE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/magma_core\",display:{Lore:[0:\"§9§lRARE\"],Name:\"§9Magma Core\"}}",
     "damage": 0,
@@ -149152,7 +149178,7 @@
     "internalname": "MAGMA_CORE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Magma_Core"
@@ -161467,7 +161493,7 @@
     ]
   },
   "MOOGMA_PELT": {
-    "itemid": "minecraft:leather",
+    "itemid": "minecraft:paper",
     "displayname": "§aMoogma Pelt",
     "nbttag": "{ExtraAttributes:{id:\"MOOGMA_PELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/moogma_pelt\",display:{Lore:[0:\"§7The bottom of the volcano is filled\",1:\"§7with it, Moogmas keep on moulting. It's\",2:\"§7a problem.\",3:\"\",4:\"§a§lUNCOMMON\"],Name:\"§aMoogma Pelt\"},ench:[]}",
     "damage": 0,
@@ -161481,7 +161507,7 @@
     "internalname": "MOOGMA_PELT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Moogma_Pelt"
@@ -162479,10 +162505,10 @@
     ]
   },
   "MOUND_OF_SEAGRASS": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Mound of Seagrass",
-    "nbttag": "{ExtraAttributes:{id:\"MOUND_OF_SEAGRASS\"},HideFlags:254,ItemModel:\"minecraft:seagrass\",SkullOwner:{Id:\"4d6e7afe-63d5-3f70-a341-dab54fc4b49d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"BkR8IgoZvJeopIdkj+O6VqE8N76iz6Ofuq/7ToInQEQZgZFTSTYvhXuq0sMPGJ0bvWqHOwz9ML4kOmaP66wavE4TzP1Yf8m799FetKmxuGsz/t/ffY84oXsc3sLQlxsfxKLZ5KsmpMTRoZ7Z1Ke1ybgBOxDC01q7aE81gTAFX+aVEyjEfvy27FiwjgGGAEiRB6Nb/sO97wYoJOqGLAcDAmjlPHowkscmHxyWy2EqMd3iqFw/65TYl3h7NnCtVTwzsNItURCK0+NrhZZXdIUQ+3qShU2jPKe/D3TNQaNAPj7QWN2P3Cl09o06Ah3yhDVBjLq8JuW2SHgd544vLNGJEFBSYSPldkhSaisxbcwoRjTUVqzBtFWgloK8z+VsZ5DGa8rGPxpQ4iLUis4guWvERYTgovocCD+jAgWrx4zByq4trQQwD81IDxwkpJAYpMkrmQVNkwILcP7hvn9VQ26Eam4rY7FjWuNEkqrDJUbKbSZuo7fBGzNF73Vv5tDo64nlP5k+j3d8lZkIns4qVEXO8mzDXOYWa2M/9vHsVLugsN48cn0fHMr4w1txFwAc5KXJapmwU0adt9x170tmZuDuay/6SHyqXDo+A6mepKzLt6U2M97uk1il8fmo8Mm2klMNZoMElX7FaBrFl82iU6PDz7CDvMGgIels3wPUbuYsA1U=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc1Mjc2Nzg5NzQ4MywKICAicHJvZmlsZUlkIiA6ICJjN2Y2Nzk3ZmE4ZGM0NTdiYTkxNTU0NWIwMGU3M2UzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZGd5c3BlbmNlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg5MDJmMWM1NTgzODEyMWE4MzczNjFkMzVlM2MwNTRhOTc1ZWU2MDZlMTk3YzI0MTVmOTFiZWZmODg4ZmFkMWMiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§7Consume this item to permanently\",3:\"§7gain §9+1 Pressure Resistance§7.\",4:\"\",5:\"§7You can only consume §a5 §7of these\",6:\"§7little guys before the guilt becomes\",7:\"§7too severe.\",8:\"\",9:\"§8§oNessie's favorite food. She has a lot\",10:\"§8§oof favorite foods.\",11:\"\",12:\"§eRight-click to consume!\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Mound of Seagrass\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"MOUND_OF_SEAGRASS\"},HideFlags:254,ItemModel:\"minecraft:seagrass\",display:{Lore:[0:\"§8Consumable\",1:\"\",2:\"§7Consume this item to permanently\",3:\"§7gain §9+1 Pressure Resistance§7.\",4:\"\",5:\"§7You can only consume §a5 §7of these\",6:\"§7little guys before the guilt becomes\",7:\"§7too severe.\",8:\"\",9:\"§8§oNessie's favorite food. She has a lot\",10:\"§8§oof favorite foods.\",11:\"\",12:\"§eRight-click to consume!\",13:\"\",14:\"§5§lEPIC\"],Name:\"§5Mound of Seagrass\"}}",
+    "damage": 0,
     "lore": [
       "§8Consumable",
       "",
@@ -162503,10 +162529,10 @@
     "internalname": "MOUND_OF_SEAGRASS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Mound_Of_Seagrass"
+      "https://hypixelskyblock.minecraft.wiki/w/Mound_of_Seagrass"
     ]
   },
   "MOUNTAIN_GOAT_MONSTER": {
@@ -162568,11 +162594,11 @@
   "MOUSE_PEST_TRAP": {
     "itemid": "minecraft:paper",
     "displayname": "§5Mouse Trap",
-    "nbttag": "{ExtraAttributes:{id:\"MOUSE_PEST_TRAP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/mouse_pest_trap\",display:{Lore:[0:\"§7Place in a §aGarden §7plot and fill with\",1:\"§7bait to catch §2 Pests §7while offline.\",2:\"§8Maximum Capacity: 3 Pests\",3:\"§8Limit of 3 Traps\",4:\"\",5:\"§6Field Mice §7are §a3x §7more likely to be\",6:\"§7caught in this type of trap!\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Mouse Trap\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"MOUSE_PEST_TRAP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/mouse_pest_trap\",display:{Lore:[0:\"§7Place in a §aGarden §7plot and fill with\",1:\"§7bait to catch §2 Pests §7while offline.\",2:\"§8Maximum Capacity: 3 Pests\",3:\"§8Limit of 3 Traps\",4:\"\",5:\"§6Field Mice §7are §a3x §7more likely to be\",6:\"§7caught in this type of trap!\",7:\"\",8:\"§5§lEPIC\"],Name:\"§5Mouse Trap\"}}",
     "damage": 0,
     "lore": [
       "§7Place in a §aGarden §7plot and fill with",
-      "§7bait to catch §2 Pests §7while offline.",
+      "§7bait to catch §2 Pests §7while offline.",
       "§8Maximum Capacity: 3 Pests",
       "§8Limit of 3 Traps",
       "",
@@ -162584,7 +162610,7 @@
     "internalname": "MOUSE_PEST_TRAP",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Mouse_Trap"
@@ -162722,8 +162748,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.1.0-dev+mc1.21.5+g4907900",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Murkwater_Loch"
+    ]
   },
   "MURKWATER_TRAVEL_SCROLL": {
     "itemid": "minecraft:map",
@@ -162787,7 +162815,7 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Museum"
     ]
   },
   "MUSEUM_TRAVEL_SCROLL": {
@@ -165337,7 +165365,7 @@
     "modver": "Firmament 42.0.0+mc1.21.7",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Myth_The_Fish"
+      "https://hypixelskyblock.minecraft.wiki/w/Myth_the_Fish"
     ]
   },
   "NALL_NPC": {
@@ -167773,7 +167801,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+gf8a751d",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Nope_The_Fish"
+      "https://hypixelskyblock.minecraft.wiki/w/Nope_the_Fish"
     ],
     "recipes": [
       {
@@ -168219,7 +168247,7 @@
     ]
   },
   "NURSE_SHARK_TOOTH": {
-    "itemid": "minecraft:ghast_tear",
+    "itemid": "minecraft:paper",
     "displayname": "§aNurse Shark Tooth",
     "nbttag": "{ExtraAttributes:{id:\"NURSE_SHARK_TOOTH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/marina/nurse_shark_tooth\",display:{Lore:[0:\"§7Dropped by a Shark during Fishing\",1:\"§7Festival.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aNurse Shark Tooth\"},ench:[]}",
     "damage": 0,
@@ -168234,7 +168262,7 @@
     "internalname": "NURSE_SHARK_TOOTH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Nurse_Shark_Tooth"
@@ -174421,10 +174449,10 @@
   "PARTY_HAT_CRAB_LIME": {
     "itemid": "minecraft:skull",
     "displayname": "§aLime Crab Hat of Celebration",
-    "nbttag": "{ExtraAttributes:{id:\"PARTY_HAT_CRAB_LIME\",originTag:\"REWARD_PARTY_TIME_HAT_NPC\",party_hat_color:\"lime\",party_hat_year:2020},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dd24060c-36f5-3151-af68-c5d440560d84\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Mi1Ea3Y1IMFEF7+lVkjwHfi4aVf+RVpPKXr5KwA0wAfwvzNTqfHL9j1oomxhqv05FKU2oWc5bt9GdsuCQihxravZ+p35BMynH3t/yYoNKipbgHixIGRRJxmXud79r7iJNekFmqaLh2ycAPscNPob8jeVAo4trlD8WVsRvTwth5c5JU8fNKC/oR7ZFyRx4DYqRlFXPeOzd/xlyyHv7U2xkOySgbKZJIp3EaZ4JCyIYlHCRbeUEFEEpdSHKLklHmfwi8dzUa2VIFKImtvEylrNrLSLRZ5Q10zz/JrV0fbEnfHslXj+cKLlrpkEfxiQqrT+cFlR53UU8cpC9P5EnfTKDyGhB96nMCLoRn9vWmSzOykr27FN03Cbf7MJx4Or/iZpKTjmYPz9TsICGZX5ORFwWK+V65ZgP4uYQ00XmSQ7EZxlkRl26uDGOwDd0+tLaHvEdqpSzdkbDL//DvGg2h2t92GbUhXF07XMmQ0h4qB0tolGcjGHuga1jLs+1r5C8cxzgfpUy5QIp5mjUpaIAqalVF/B9G92o6g36MoXrX1Hu57MYriFH2aIGE2bVJnuRGb73Dtu4rZjSx9U8m9hIJ+iCO/WeuwEl6yOVBJhThkGO4okSIfNaS8+KnYkzUAHr0w7Db0uMM3MzKuu+5/ANKagSwiScI2VlcCAMczUZmdpSCs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NzMyNzkxNDM5MCwKICAicHJvZmlsZUlkIiA6ICI4YTg3NGJhNmFiZDM0ZTc5OTljOWM1ODMwYWYyY2NmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFeGVjdXRvcnMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTkzYzYwZmQwZGQxMzA2OTVlMzc4ZWVmMDEwYTdkM2M1ZGZkZTc3ZjZiODJiMjBiODEyNGNmYjgzMDAxN2ZmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Magic Find: §b+1.5\",1:\"§7Accessory Power: §6+3\",2:\"\",3:\"§6Ability: Party Time! \",4:\"§7Gain §b+1 Intelligence §7while on your\",5:\"§7head for each SkyBlock year you've\",6:\"§7been playing.\",7:\"\",8:\"§7Obtained: §e2020\",9:\"\",10:\"§8Works while in Accessory Bag!\",11:\"§c§lSPECIAL HATCESSORY\"],Name:\"§aLime Crab Hat of Celebration\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PARTY_HAT_CRAB_LIME\",originTag:\"REWARD_PARTY_TIME_HAT_NPC\",party_hat_color:\"lime\",party_hat_year:2020},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dd24060c-36f5-3151-af68-c5d440560d84\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Mi1Ea3Y1IMFEF7+lVkjwHfi4aVf+RVpPKXr5KwA0wAfwvzNTqfHL9j1oomxhqv05FKU2oWc5bt9GdsuCQihxravZ+p35BMynH3t/yYoNKipbgHixIGRRJxmXud79r7iJNekFmqaLh2ycAPscNPob8jeVAo4trlD8WVsRvTwth5c5JU8fNKC/oR7ZFyRx4DYqRlFXPeOzd/xlyyHv7U2xkOySgbKZJIp3EaZ4JCyIYlHCRbeUEFEEpdSHKLklHmfwi8dzUa2VIFKImtvEylrNrLSLRZ5Q10zz/JrV0fbEnfHslXj+cKLlrpkEfxiQqrT+cFlR53UU8cpC9P5EnfTKDyGhB96nMCLoRn9vWmSzOykr27FN03Cbf7MJx4Or/iZpKTjmYPz9TsICGZX5ORFwWK+V65ZgP4uYQ00XmSQ7EZxlkRl26uDGOwDd0+tLaHvEdqpSzdkbDL//DvGg2h2t92GbUhXF07XMmQ0h4qB0tolGcjGHuga1jLs+1r5C8cxzgfpUy5QIp5mjUpaIAqalVF/B9G92o6g36MoXrX1Hu57MYriFH2aIGE2bVJnuRGb73Dtu4rZjSx9U8m9hIJ+iCO/WeuwEl6yOVBJhThkGO4okSIfNaS8+KnYkzUAHr0w7Db0uMM3MzKuu+5/ANKagSwiScI2VlcCAMczUZmdpSCs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NzMyNzkxNDM5MCwKICAicHJvZmlsZUlkIiA6ICI4YTg3NGJhNmFiZDM0ZTc5OTljOWM1ODMwYWYyY2NmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFeGVjdXRvcnMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTkzYzYwZmQwZGQxMzA2OTVlMzc4ZWVmMDEwYTdkM2M1ZGZkZTc3ZjZiODJiMjBiODEyNGNmYjgzMDAxN2ZmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Magic Find: §b+1\",1:\"§7Accessory Power: §6+3\",2:\"\",3:\"§6Ability: Party Time! \",4:\"§7Gain §b+1 Intelligence §7while on your\",5:\"§7head for each SkyBlock year you've\",6:\"§7been playing.\",7:\"\",8:\"§7Obtained: §e2020\",9:\"\",10:\"§8Works while in Accessory Bag!\",11:\"§c§lSPECIAL HATCESSORY\"],Name:\"§aLime Crab Hat of Celebration\"}}",
     "damage": 3,
     "lore": [
-      "§7Magic Find: §b+1.5",
+      "§7Magic Find: §b+1",
       "§7Accessory Power: §6+3",
       "",
       "§6Ability: Party Time! ",
@@ -174440,7 +174468,7 @@
     "internalname": "PARTY_HAT_CRAB_LIME",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 43.0.0+mc1.21.10",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Lime_Crab_Hat_of_Celebration"
@@ -178815,9 +178843,16 @@
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_PEST:40"
+          "SKYBLOCK_PEST:100"
         ],
         "result": "PESTHUNTERS_GLOVES:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_PEST:40"
+        ],
+        "result": "VINYL_SACK:1"
       },
       {
         "type": "npc_shop",
@@ -180531,11 +180566,11 @@
   "PEST_TRAP": {
     "itemid": "minecraft:paper",
     "displayname": "§9Pest Trap",
-    "nbttag": "{ExtraAttributes:{id:\"PEST_TRAP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/pest_trap\",display:{Lore:[0:\"§7Place in a §aGarden §7plot and fill with\",1:\"§7bait to catch §2 Pests §7while offline.\",2:\"§8Maximum Capacity: 2 Pests\",3:\"§8Limit of 3 Traps\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Pest Trap\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PEST_TRAP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/pest_trap\",display:{Lore:[0:\"§7Place in a §aGarden §7plot and fill with\",1:\"§7bait to catch §2 Pests §7while offline.\",2:\"§8Maximum Capacity: 2 Pests\",3:\"§8Limit of 3 Traps\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Pest Trap\"}}",
     "damage": 0,
     "lore": [
       "§7Place in a §aGarden §7plot and fill with",
-      "§7bait to catch §2 Pests §7while offline.",
+      "§7bait to catch §2 Pests §7while offline.",
       "§8Maximum Capacity: 2 Pests",
       "§8Limit of 3 Traps",
       "",
@@ -180544,7 +180579,7 @@
     "internalname": "PEST_TRAP",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pest_Trap"
@@ -183133,7 +183168,7 @@
   "PET_SKIN_BEE_HONEY": {
     "itemid": "minecraft:skull",
     "displayname": "§5Honey Bee Skin",
-    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_BEE_HONEY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9cab3a9d-cfbd-361e-82a4-3213626f8af6\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ba3ETY8+KaWPixhnheSS83NU4mVW1N0Cg6d0YWRSeMH1KiWxq3yrMFoBvqilYEJlk1bOjOiwYUELwwDIw1bN6mJFTrIVaqR0yH23ONaoh0NoPPIWJkhPc9aMHpgonsfig+8Rqd2Ygo3e6Wes91VY8q6k/H0NzDdMAZP4jyE9/ru8lt/PNL3jd2RN8tkpIoINLzv1AJpp76i6UJrkubBI+ggiLL/JDuwj2zj5JIUM5IAi2Vbcw1n6DIWeN+rUq/6Fef78ESkAWr9ultDe0TnKZxK0HQtYqv6bAsBGjYtp0W1E3Z/dlsCKSU1jTLOXZBHcQJMeQXsoylYVh/Q/1RxzNb2f24TQBjtmjeRl7Qr7wtdHOHdQ4WMCo8irfANr5kwkFvDHUKZ49+nA8yL0GEqZvkFSHOOLTg+9/6ZBGxNt3Ow62WXt2oNK2cVHb/M8YtnrtweqOWvFl6Y6WDeNlY+FWcKldmNPlfkHme9OP3gYaUFcvQyPGNpEGctTRU56jdEf8j+QD6hGHxIpM3oql442BN5VfiqgjwlQLad+tLV31O8g+Dtdzew7AYrNr7qM/mhnzJRp2eVa5aUxfQqrewSaRrQF2d+LWX2rimaU2oPcwD1wfoKPfqFcqTIzaPCt1xOrX0Z5U2I0kkLqLyoX7van4mgixdj50hreKw7e8dhyrEc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwNzc0MTg5NzkxMywKICAicHJvZmlsZUlkIiA6ICJjMTJkMmY5ZWJhZGI0ZTllYTIxZmM2M2M3YWY3M2E5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmVhbXlOZW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM2ZTdhODEzZTI3NTgwZTBiNWNhZGU4NzA5MDViOGM4YzdjYmMxNzhmODA4OTMzODRjODY5N2JhZWI4YTZhOCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to Bee\",7:\"§7pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Honey Bee Skin\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_BEE_HONEY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9cab3a9d-cfbd-361e-82a4-3213626f8af6\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ba3ETY8+KaWPixhnheSS83NU4mVW1N0Cg6d0YWRSeMH1KiWxq3yrMFoBvqilYEJlk1bOjOiwYUELwwDIw1bN6mJFTrIVaqR0yH23ONaoh0NoPPIWJkhPc9aMHpgonsfig+8Rqd2Ygo3e6Wes91VY8q6k/H0NzDdMAZP4jyE9/ru8lt/PNL3jd2RN8tkpIoINLzv1AJpp76i6UJrkubBI+ggiLL/JDuwj2zj5JIUM5IAi2Vbcw1n6DIWeN+rUq/6Fef78ESkAWr9ultDe0TnKZxK0HQtYqv6bAsBGjYtp0W1E3Z/dlsCKSU1jTLOXZBHcQJMeQXsoylYVh/Q/1RxzNb2f24TQBjtmjeRl7Qr7wtdHOHdQ4WMCo8irfANr5kwkFvDHUKZ49+nA8yL0GEqZvkFSHOOLTg+9/6ZBGxNt3Ow62WXt2oNK2cVHb/M8YtnrtweqOWvFl6Y6WDeNlY+FWcKldmNPlfkHme9OP3gYaUFcvQyPGNpEGctTRU56jdEf8j+QD6hGHxIpM3oql442BN5VfiqgjwlQLad+tLV31O8g+Dtdzew7AYrNr7qM/mhnzJRp2eVa5aUxfQqrewSaRrQF2d+LWX2rimaU2oPcwD1wfoKPfqFcqTIzaPCt1xOrX0Z5U2I0kkLqLyoX7van4mgixdj50hreKw7e8dhyrEc=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwNzc0MTg5NzkxMywKICAicHJvZmlsZUlkIiA6ICJjMTJkMmY5ZWJhZGI0ZTllYTIxZmM2M2M3YWY3M2E5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEcmVhbXlOZW9uIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM2ZTdhODEzZTI3NTgwZTBiNWNhZGU4NzA5MDViOGM4YzdjYmMxNzhmODA4OTMzODRjODY5N2JhZWI4YTZhOCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aBee\",7:\"§7pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Honey Bee Skin\"}}",
     "damage": 3,
     "lore": [
       "§8Consumed on use",
@@ -183142,7 +183177,7 @@
       "§7particle trail of your pet but only",
       "§7one skin can be active at a time!",
       "",
-      "§7This skin can only be applied to Bee",
+      "§7This skin can only be applied to §aBee",
       "§7pets.",
       "",
       "§eRight-click on your summoned pet to",
@@ -183153,7 +183188,7 @@
     "internalname": "PET_SKIN_BEE_HONEY",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Honey_Bee_Skin"
@@ -192973,7 +193008,7 @@
   "PET_SKIN_YETI_GROWN_UP": {
     "itemid": "minecraft:skull",
     "displayname": "§5Grown-up Baby Yeti Skin",
-    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_YETI_GROWN_UP\",originTag:\"FIRE_SALE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9fd5bceb-0e74-3df9-b59b-f33b6a2a6162\",Properties:{textures:[0:{Name:\"textures\",Signature:\"PZbMMu7fZKFhZXmMjFNGC0EczhFvsx5TP0uWbfEqAnOoOU5V3RefUBPvteLd/Qr57IrWJIuP2iqTbZRc83Xssvq6aVE62BSL2JvtavNzJWyQj0mH01AmEd3O0Dr0Ri2qSC9j/h53ZRZbEa7+RoGa3PLAUBc5CAGaGG2vYb6Uah/gRNmRAxT0dYg/apgz94eMg9mRsbGSzVCbSM78WBuMdFACvq7qrh4hM6OzQOyM8n9p80AH8LUuRmG4ajIt0I9+2Ecgjp6mLdv/0LDPbt5qDVBPbQlKK9nydHGucf8gReqBjsJPCeiPK0QZC3pdbPUE2mKSjXyfEWQVuUiVRpU69L+MWZ5ZaMLtQsyF/BxFm7f++NeEdn9xCZ4QlGDo62raDJdY0efjdl7Vz3seJwZPA5QXKCWT9NJDr844+sZ0DcvAeW1wzynyLFapi42tw8vxKt/XDdrS5gWjtc1tPVzcLpUj7ABSnwtXkdOGQ1pfHCSK8JZfjU4jHjzYm+29bJn1VWhkI6z78a8qOOt/HgArMMGqObzwJXLXr+Oy8z8akmn8AsbT0GDAtNgbOQsmgCiVjJnwUGu3e1myOIKfPQxoBMNKalT5IeHXVyemxR5A+hN2vujdtSCLl8Os6TZDbggHCF6N+142EbcHVpRo44Wcpz7/7gcrHyDHfJk7svCqoU0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwNjQyODA5NTg3NywKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjVmMjlhOTc1NTI5Mjc2ZDkxNmZjNjc5OTg4MzNjMTFlZTE3OGZmMjFlNTk0MWFmZGZiMGZhNzAxMGY4Mzc0ZSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to Baby\",7:\"§7Yeti pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Grown-up Baby Yeti Skin\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_YETI_GROWN_UP\",originTag:\"FIRE_SALE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9fd5bceb-0e74-3df9-b59b-f33b6a2a6162\",Properties:{textures:[0:{Name:\"textures\",Signature:\"PZbMMu7fZKFhZXmMjFNGC0EczhFvsx5TP0uWbfEqAnOoOU5V3RefUBPvteLd/Qr57IrWJIuP2iqTbZRc83Xssvq6aVE62BSL2JvtavNzJWyQj0mH01AmEd3O0Dr0Ri2qSC9j/h53ZRZbEa7+RoGa3PLAUBc5CAGaGG2vYb6Uah/gRNmRAxT0dYg/apgz94eMg9mRsbGSzVCbSM78WBuMdFACvq7qrh4hM6OzQOyM8n9p80AH8LUuRmG4ajIt0I9+2Ecgjp6mLdv/0LDPbt5qDVBPbQlKK9nydHGucf8gReqBjsJPCeiPK0QZC3pdbPUE2mKSjXyfEWQVuUiVRpU69L+MWZ5ZaMLtQsyF/BxFm7f++NeEdn9xCZ4QlGDo62raDJdY0efjdl7Vz3seJwZPA5QXKCWT9NJDr844+sZ0DcvAeW1wzynyLFapi42tw8vxKt/XDdrS5gWjtc1tPVzcLpUj7ABSnwtXkdOGQ1pfHCSK8JZfjU4jHjzYm+29bJn1VWhkI6z78a8qOOt/HgArMMGqObzwJXLXr+Oy8z8akmn8AsbT0GDAtNgbOQsmgCiVjJnwUGu3e1myOIKfPQxoBMNKalT5IeHXVyemxR5A+hN2vujdtSCLl8Os6TZDbggHCF6N+142EbcHVpRo44Wcpz7/7gcrHyDHfJk7svCqoU0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwNjQyODA5NTg3NywKICAicHJvZmlsZUlkIiA6ICIzZmM3ZmRmOTM5NjM0YzQxOTExOTliYTNmN2NjM2ZlZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZZWxlaGEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjVmMjlhOTc1NTI5Mjc2ZDkxNmZjNjc5OTg4MzNjMTFlZTE3OGZmMjFlNTk0MWFmZGZiMGZhNzAxMGY4Mzc0ZSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to §aBaby\",7:\"§aYeti§7 pets.\",8:\"\",9:\"§eRight-click on your summoned pet to\",10:\"§eapply this skin!\",11:\"\",12:\"§5§lEPIC COSMETIC\"],Name:\"§5Grown-up Baby Yeti Skin\"}}",
     "damage": 3,
     "lore": [
       "§8Consumed on use",
@@ -192982,8 +193017,8 @@
       "§7particle trail of your pet but only",
       "§7one skin can be active at a time!",
       "",
-      "§7This skin can only be applied to Baby",
-      "§7Yeti pets.",
+      "§7This skin can only be applied to §aBaby",
+      "§aYeti§7 pets.",
       "",
       "§eRight-click on your summoned pet to",
       "§eapply this skin!",
@@ -192993,7 +193028,7 @@
     "internalname": "PET_SKIN_YETI_GROWN_UP",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pet_Skins"
@@ -196468,6 +196503,53 @@
       }
     ]
   },
+  "POLTERGEIST_PITCHFORK": {
+    "itemid": "minecraft:wooden_sword",
+    "displayname": "§5Poltergeist Pitchfork",
+    "nbttag": "{ExtraAttributes:{id:\"POLTERGEIST_PITCHFORK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/poltergeist_pitchfork\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+170\",1:\"§7Strength: §c+120\",2:\"§7Gemstones: §8[] []\",3:\"\",4:\"§7Deals §c+200%  Damage §7to §fGhosts§7.\",5:\"\",6:\"§6Ability: Haymaker  §e§lRIGHT CLICK\",7:\"§7Thrust §a3 §7prongs forward §e6 §7blocks,\",8:\"§7which deals §c Damage§7. Any §fGhost §7or\",9:\"§2 Pest §7pierced gets stunned for §a3s§7.\",10:\"§8Mana Cost: §b180\",11:\"§8Cooldown: §a1s\",12:\"\",13:\"§8This item can be reforged!\",14:\"§5§lEPIC SWORD\"],Name:\"§5Poltergeist Pitchfork\"}}",
+    "damage": 0,
+    "lore": [
+      "§7Damage: §c+170",
+      "§7Strength: §c+120",
+      "§7Gemstones: §8[] []",
+      "",
+      "§7Deals §c+200%  Damage §7to §fGhosts§7.",
+      "",
+      "§6Ability: Haymaker  §e§lRIGHT CLICK",
+      "§7Thrust §a3 §7prongs forward §e6 §7blocks,",
+      "§7which deals §c Damage§7. Any §fGhost §7or",
+      "§2 Pest §7pierced gets stunned for §a3s§7.",
+      "§8Mana Cost: §b180",
+      "§8Cooldown: §a1s",
+      "",
+      "§8This item can be reforged!",
+      "§5§lEPIC SWORD"
+    ],
+    "internalname": "POLTERGEIST_PITCHFORK",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Poltergeist_Pitchfork"
+    ],
+    "recipes": [
+      {
+        "A1": "",
+        "A2": "ECTOPLASM:1",
+        "A3": "ECTOPLASM:1",
+        "B1": "",
+        "B2": "BEJEWELED_HANDLE:1",
+        "B3": "ECTOPLASM:1",
+        "C1": "BEJEWELED_HANDLE:1",
+        "C2": "",
+        "C3": "",
+        "type": "crafting",
+        "count": 1,
+        "overrideOutputId": "POLTERGEIST_PITCHFORK"
+      }
+    ]
+  },
   "POMTAIR_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Pomtair (NPC)",
@@ -196870,7 +196952,7 @@
     "crafttext": "",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Basket_of_Hope_from_the_Great_Potato_War"
+      "https://hypixelskyblock.minecraft.wiki/w/Basket_of_Hope_From_the_Great_Potato_War"
     ]
   },
   "POTATO_CROWN": {
@@ -202036,8 +202118,10 @@
     "clickcommand": "",
     "crafttext": "Requires: HotM 2",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Powder_of_One"
+    ],
     "recipes": [
       {
         "type": "forge",
@@ -202071,8 +202155,10 @@
     "clickcommand": "",
     "crafttext": "Requires: HotM 5",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Powder_of_the_Few"
+    ],
     "recipes": [
       {
         "type": "forge",
@@ -202109,8 +202195,10 @@
     "clickcommand": "",
     "crafttext": "Requires: HotM 8",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Powder_of_the_Many"
+    ],
     "recipes": [
       {
         "type": "forge",
@@ -202144,8 +202232,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Powder_of_the_People"
+    ]
   },
   "POWER;1": {
     "itemid": "minecraft:enchanted_book",
@@ -207435,9 +207525,9 @@
     "useneucraft": true
   },
   "PUMPKIN_GUTS": {
-    "itemid": "minecraft:pumpkin_seeds",
+    "itemid": "minecraft:paper",
     "displayname": "§aPumpkin Guts",
-    "nbttag": "{ExtraAttributes:{id:\"PUMPKIN_GUTS\"},HideFlags:254,ItemModel:\"minecraft:pumpkin_seeds\",display:{Lore:[0:\"§7Why does Halloween have to be so\",1:\"§7gross?\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aPumpkin Guts\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"PUMPKIN_GUTS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/pumpkin_guts\",display:{Lore:[0:\"§7Why does Halloween have to be so\",1:\"§7gross?\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§aPumpkin Guts\"}}",
     "damage": 0,
     "lore": [
       "§7Why does Halloween have to be so",
@@ -207450,7 +207540,7 @@
     "internalname": "PUMPKIN_GUTS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+gb028db5",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Guts"
@@ -207804,10 +207894,10 @@
     ]
   },
   "PURPLE_CANDY": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Purple Candy",
-    "nbttag": "{ExtraAttributes:{id:\"PURPLE_CANDY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"60a5c7bc-a65b-3772-889f-8831d4329fc4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"VCa186lo9hWu30VLvYfBJGs+BnvkNYgdm7vTca8NfXHQEsvwtoLYIo51dHDv+rW0kfgq9veAmotS6WHF86wPPrDqAYxybuYD9djpycrBAAYXj30xeq9ci6hvA1VR5SS5CA/WQvkzbsKlR0YurLSBYra3I/uMSIGcFJkm7dX+2ZWhYGEQKXtN76bQYBCppXBrdvDQSW2S7zxf1vrqA6E82qemAVZuxoEBMw9WrmMuYhkpnTFC4gWXF5KN/b1Um2hdMB7cgR1+JyFQG6Y/pGOXUkf8WtIG5GDjxh2Y9RF7uL71JeyHlwTm3PO13DJ956eYaM4B5HvDjUSkZAI6nFKOt6HCtEsB+9cd4RWT+OWSk8R4lPLwJn4WwJ57bW4ngB3r1hi5fVKzH+VaoTdQayFQjfMx5SXX8/McE8tDtKSV7JtjNUOSsA9wT8DwuViS9e8oVW+xxWB+TtOBbAOp+hKNK6yR7FMBZyEzTVDx/rvWV09PiI4L8HWEghyIpDyqbx4wyhywhSP0exRWFXjRwg0BRcpLkeuDjVKl63jO3vIH4eR5MfuUWkij3Ko/lUk0ChkefDbiQI1v25fak4fSY0DW7msaAi9uYqgrM8X0dqLeVVWCimM29A+AT9WCRYW7gN6kCxM+EyKmRpwv17fMF0xP6JNEbfbAQN28HDP4p8rh6xs=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwMzQxNDc0NTAyNSwKICAicHJvZmlsZUlkIiA6ICIyYzEwNjRmY2Q5MTc0MjgyODRlM2JmN2ZhYTdlM2UxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWVtZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MTYxMWQ4NzRlODc0ZTMyMmExMTk5YjNiN2I5ZTkzNGJiYjBkYmVkNTg3ZWU4ZmNkNmNjYzFiMDdlMjgxNjUxIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Candy can be used to trade with the\",1:\"§7Fear Mongerer during the §6Spooky\",2:\"§6Festival§7!\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Purple Candy\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"PURPLE_CANDY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/purple_candy\",display:{Lore:[0:\"§7Candy can be used to trade with the\",1:\"§7Fear Mongerer during the §6Spooky\",2:\"§6Festival§7!\",3:\"\",4:\"§5§lEPIC\"],Name:\"§5Purple Candy\"}}",
+    "damage": 0,
     "lore": [
       "§7Candy can be used to trade with the",
       "§7Fear Mongerer during the §6Spooky",
@@ -207818,7 +207908,7 @@
     "internalname": "PURPLE_CANDY",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Purple_Candy"
@@ -207970,7 +208060,7 @@
     ]
   },
   "PYROCLASTIC_SCALE": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:paper",
     "displayname": "§aPyroclastic Scale",
     "nbttag": "{ExtraAttributes:{id:\"PYROCLASTIC_SCALE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/pyroclastic_scale\",display:{Lore:[0:\"§7Makes pretty \\\"drip\\\" necklaces,\",1:\"§7according to the local youth.\",2:\"\",3:\"§a§lUNCOMMON\"],Name:\"§aPyroclastic Scale\"},ench:[]}",
     "damage": 0,
@@ -207983,7 +208073,7 @@
     "internalname": "PYROCLASTIC_SCALE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pyroclastic_Scale"
@@ -214652,14 +214742,14 @@
     ]
   },
   "REFINED_MINERAL": {
-    "itemid": "minecraft:dye",
+    "itemid": "minecraft:paper",
     "displayname": "§9Refined Mineral",
-    "nbttag": "{ExtraAttributes:{id:\"REFINED_MINERAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/cole/refined_mineral\",display:{Lore:[0:\"§7Drops rarely from §6Ores§7 and\",1:\"§2Dwarven Metals§7 while §6Mayor Cole§7 is in\",2:\"§7office.\",3:\"\",4:\"§8§oA material so pure it comes\",5:\"§8§opre-refined from its place of origin.\",6:\"\",7:\"§eRight-click to view recipes!\",8:\"\",9:\"§9§lRARE\"],Name:\"§9Refined Mineral\"}}",
-    "damage": 12,
+    "nbttag": "{ExtraAttributes:{id:\"REFINED_MINERAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/cole/refined_mineral\",display:{Lore:[0:\"§7Drops rarely from §6Ores§7 and\",1:\"§2Dwarven Metals§7 while §bMayor Cole's\",2:\"§6Mining Fiesta §7is active.\",3:\"\",4:\"§8§oA material so pure it comes\",5:\"§8§opre-refined from its place of origin.\",6:\"\",7:\"§eRight-click to view recipes!\",8:\"\",9:\"§9§lRARE\"],Name:\"§9Refined Mineral\"}}",
+    "damage": 0,
     "lore": [
       "§7Drops rarely from §6Ores§7 and",
-      "§2Dwarven Metals§7 while §6Mayor Cole§7 is in",
-      "§7office.",
+      "§2Dwarven Metals§7 while §bMayor Cole's",
+      "§6Mining Fiesta §7is active.",
       "",
       "§8§oA material so pure it comes",
       "§8§opre-refined from its place of origin.",
@@ -214671,7 +214761,7 @@
     "internalname": "REFINED_MINERAL",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Refined_Mineral"
@@ -218229,9 +218319,9 @@
     "slayer_req": "ZOMBIE_2"
   },
   "REVERSE_REFORGE_STONE_CORE": {
-    "itemid": "minecraft:clay_ball",
+    "itemid": "minecraft:paper",
     "displayname": "§9eroC enotS egrofeR",
-    "nbttag": "{ExtraAttributes:{id:\"REVERSE_REFORGE_STONE_CORE\"},HideFlags:254,ItemModel:\"minecraft:popped_chorus_fruit\",display:{Lore:[0:\"§7⸮morf emoc ti did erehw dna ,gniht\",1:\"§7siht si htrae no tahW\",2:\"\",3:\"§e!sepicer weiv ot kcilc-thgiR\",4:\"\",5:\"§9§lERAR\"],Name:\"§9eroC enotS egrofeR\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"REVERSE_REFORGE_STONE_CORE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/lotus_atoll/eroc_enots_egrofer\",display:{Lore:[0:\"§7⸮morf emoc ti did erehw dna ,gniht\",1:\"§7siht si htrae no tahW\",2:\"\",3:\"§e!sepicer weiv ot kcilc-thgiR\",4:\"\",5:\"§9§lERAR\"],Name:\"§9eroC enotS egrofeR\"}}",
     "damage": 0,
     "lore": [
       "§7⸮morf emoc ti did erehw dna ,gniht",
@@ -218244,7 +218334,7 @@
     "internalname": "REVERSE_REFORGE_STONE_CORE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "",
     "info": []
   },
@@ -219387,7 +219477,9 @@
     "crafttext": "",
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_Rift"
+    ]
   },
   "RIFT_WIZARD_TOWER_TRAVEL_SCROLL": {
     "itemid": "minecraft:map",
@@ -219410,7 +219502,9 @@
     "clickcommand": "",
     "modver": "",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_The_Rift"
+    ]
   },
   "RING_OF_BROKEN_LOVE": {
     "itemid": "minecraft:skull",
@@ -219489,7 +219583,7 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ring_Of_Eternal_Love"
+      "https://hypixelskyblock.minecraft.wiki/w/Ring_of_Eternal_Love"
     ]
   },
   "RING_POTION_AFFINITY": {
@@ -220077,7 +220171,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Rod_Of_The_Sea"
+      "https://hypixelskyblock.minecraft.wiki/w/Rod_of_the_Sea"
     ],
     "recipe": {
       "A1": "ENCHANTED_SHARK_FIN:1",
@@ -223224,13 +223318,13 @@
   "SALTY_SPRAYONATOR": {
     "itemid": "minecraft:paper",
     "displayname": "§5Salty Sprayonator",
-    "nbttag": "{ExtraAttributes:{id:\"SALTY_SPRAYONATOR\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/salty_sprayonator\",display:{Lore:[0:\"§6Ability: Configure  §e§lLEFT CLICK\",1:\"§7Select a nozzle and material for\",2:\"§7spraying. Certain materials attract\",3:\"§7certain types of §2 Pests§7.\",4:\"\",5:\"§7Selected Nozzle: §5Salty\",6:\"§7Selected Material: §aCompost\",7:\"§7Attracts: §6Earthworm§7, §6Mosquito\",8:\"\",9:\"§6Ability: Spray  §e§lRIGHT CLICK\",10:\"§7Sprays your selected material onto\",11:\"§7the §aGarden §7plot you are on. Lasts\",12:\"§7for §a60m§7.\",13:\"\",14:\"§5Salty Nozzle Bonus:\",15:\"§8➜ §2+75 Bonus Pest Chance §7while\",16:\"§7   in a sprayed plot.\",17:\"§8➜ §2 Pests §7are §a3x §7more likely to\",18:\"§7   spawn in sprayed plots.\",19:\"§8Cooldown: §a3s\",20:\"\",21:\"§4❣ §cRequires §aGarden Level 5§c.\",22:\"§5§lEPIC\"],Name:\"§5Salty Sprayonator\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SALTY_SPRAYONATOR\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/salty_sprayonator\",display:{Lore:[0:\"§6Ability: Configure  §e§lLEFT CLICK\",1:\"§7Select a nozzle and material for\",2:\"§7spraying. Certain materials attract\",3:\"§7certain types of §2 Pests§7.\",4:\"\",5:\"§7Selected Nozzle: §5Salty\",6:\"§7Selected Material: §aCompost\",7:\"§7Attracts: §6Earthworm§7, §6Mosquito\",8:\"\",9:\"§6Ability: Spray  §e§lRIGHT CLICK\",10:\"§7Sprays your selected material onto\",11:\"§7the §aGarden §7plot you are on. Lasts\",12:\"§7for §a60m§7.\",13:\"\",14:\"§5Salty Nozzle Bonus:\",15:\"§8➜ §2+75 Bonus Pest Chance §7while\",16:\"§7   in a sprayed plot.\",17:\"§8➜ §2 Pests §7are §a3x §7more likely to\",18:\"§7   spawn in sprayed plots.\",19:\"§8Cooldown: §a3s\",20:\"\",21:\"§4❣ §cRequires §aGarden Level 5§c.\",22:\"§5§lEPIC\"],Name:\"§5Salty Sprayonator\"}}",
     "damage": 0,
     "lore": [
       "§6Ability: Configure  §e§lLEFT CLICK",
       "§7Select a nozzle and material for",
       "§7spraying. Certain materials attract",
-      "§7certain types of §2 Pests§7.",
+      "§7certain types of §2 Pests§7.",
       "",
       "§7Selected Nozzle: §5Salty",
       "§7Selected Material: §aCompost",
@@ -223244,7 +223338,7 @@
       "§5Salty Nozzle Bonus:",
       "§8➜ §2+75 Bonus Pest Chance §7while",
       "§7   in a sprayed plot.",
-      "§8➜ §2 Pests §7are §a3x §7more likely to",
+      "§8➜ §2 Pests §7are §a3x §7more likely to",
       "§7   spawn in sprayed plots.",
       "§8Cooldown: §a3s",
       "",
@@ -223254,7 +223348,7 @@
     "internalname": "SALTY_SPRAYONATOR",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Salty_Sprayonator"
@@ -224689,10 +224783,10 @@
     ]
   },
   "SCARE_FRAGMENT": {
-    "itemid": "minecraft:stained_glass",
+    "itemid": "minecraft:paper",
     "displayname": "§9Scare Fragment",
-    "nbttag": "{ExtraAttributes:{id:\"SCARE_FRAGMENT\"},HideFlags:254,ItemModel:\"minecraft:black_stained_glass\",display:{Lore:[0:\"§7Imbued with the pure essence of\",1:\"§7terror, this shard pulsates with an\",2:\"§7unsettling energy.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Scare Fragment\"}}",
-    "damage": 15,
+    "nbttag": "{ExtraAttributes:{id:\"SCARE_FRAGMENT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/scare_fragment\",display:{Lore:[0:\"§7Imbued with the pure essence of\",1:\"§7terror, this shard pulsates with an\",2:\"§7unsettling energy.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§9§lRARE\"],Name:\"§9Scare Fragment\"}}",
+    "damage": 0,
     "lore": [
       "§7Imbued with the pure essence of",
       "§7terror, this shard pulsates with an",
@@ -224705,7 +224799,7 @@
     "internalname": "SCARE_FRAGMENT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Scare_Fragment"
@@ -229176,7 +229270,7 @@
     }
   },
   "SHARK_FIN": {
-    "itemid": "minecraft:prismarine_shard",
+    "itemid": "minecraft:paper",
     "displayname": "§9Shark Fin",
     "nbttag": "{ExtraAttributes:{id:\"SHARK_FIN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/marina/shark_fin\",display:{Lore:[0:\"§7Dropped by a Shark during Fishing\",1:\"§7Festival.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§9§lRARE\"],Name:\"§9Shark Fin\"}}",
     "damage": 0,
@@ -229191,7 +229285,7 @@
     "internalname": "SHARK_FIN",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Shark_Fin"
@@ -235498,7 +235592,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Frozen_Corpses"
+      "https://hypixelskyblock.minecraft.wiki/w/Lapis_Corpse"
     ],
     "recipes": [
       {
@@ -236829,7 +236923,7 @@
   "SKYBLOCK_MENU": {
     "itemid": "minecraft:nether_star",
     "displayname": "§aSkyBlock Menu §7(Click)",
-    "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_MENU\"},HideFlags:254,ItemModel:\"minecraft:nether_star\",display:{Lore:[0:\"§7View all of your SkyBlock progress,\",1:\"§7including your Skills, Collections,\",2:\"§7Recipes, and more!\",3:\"\",4:\"§eClick to open!\"],Name:\"§aSkyBlock Menu §7(Click)\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"SKYBLOCK_MENU\"},HideFlags:254,ItemModel:\"minecraft:nether_star\",display:{Lore:[0:\"§7View all of your SkyBlock progress,\",1:\"§7including your Skills, Collections,\",2:\"§7Recipes, and more!\",3:\"\",4:\"§eClick to open!\"],Name:\"§aSkyBlock Menu §7(Click)\"}}",
     "damage": 0,
     "lore": [
       "§7View all of your SkyBlock progress,",
@@ -236841,7 +236935,7 @@
     "internalname": "SKYBLOCK_MENU",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/SkyBlock_Menu"
@@ -236863,7 +236957,7 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Motes"
+      "https://hypixelskyblock.minecraft.wiki/w/Mote"
     ]
   },
   "SKYBLOCK_NORTH_STAR": {
@@ -237113,25 +237207,25 @@
   "SKYMART_HYPER_VACUUM": {
     "itemid": "minecraft:paper",
     "displayname": "§9SkyMart Hyper Vacuum",
-    "nbttag": "{ExtraAttributes:{id:\"SKYMART_HYPER_VACUUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/skymart_hyper_vacuum\",display:{Lore:[0:\"§7Damage: §c+200\",1:\"§7Farming Fortune: §6+15\",2:\"\",3:\"§7Can be used to damage §2 Pests§7.\",4:\"\",5:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",6:\"§7Deals §c200  Damage §7per second to\",7:\"§7nearby §2 Pests§7.\",8:\"\",9:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",10:\"§7Leads you in the direction of the\",11:\"§7nearest §2 Pest§7.\",12:\"§8Cooldown: §a1s\",13:\"\",14:\"§7Vacuum Bag: §20 Pests\",15:\"§8Vacuum  Pests in your Garden to\",16:\"§8increase!\",17:\"\",18:\"§4❣ §cRequires §aGarden Level 5§c.\",19:\"§9§lRARE VACUUM\"],Name:\"§9SkyMart Hyper Vacuum\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SKYMART_HYPER_VACUUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/skymart_hyper_vacuum\",display:{Lore:[0:\"§7Damage: §c+200\",1:\"§7Farming Fortune: §6+15\",2:\"\",3:\"§7Can be used to damage §2 Pests§7.\",4:\"\",5:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",6:\"§7Deals §c200  Damage §7per second to\",7:\"§7nearby §2 Pests§7.\",8:\"\",9:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",10:\"§7Leads you in the direction of the\",11:\"§7nearest §2 Pest§7.\",12:\"§8Cooldown: §a1s\",13:\"\",14:\"§7Vacuum Bag: §20 Pests\",15:\"§8Vacuum  Pests in your Garden to\",16:\"§8increase!\",17:\"\",18:\"§4❣ §cRequires §aGarden Level 5§c.\",19:\"§9§lRARE VACUUM\"],Name:\"§9SkyMart Hyper Vacuum\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+200",
       "§7Farming Fortune: §6+15",
       "",
-      "§7Can be used to damage §2 Pests§7.",
+      "§7Can be used to damage §2 Pests§7.",
       "",
       "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK",
       "§7Deals §c200  Damage §7per second to",
-      "§7nearby §2 Pests§7.",
+      "§7nearby §2 Pests§7.",
       "",
       "§6Ability: Pest Tracker  §e§lLEFT CLICK",
       "§7Leads you in the direction of the",
-      "§7nearest §2 Pest§7.",
+      "§7nearest §2 Pest§7.",
       "§8Cooldown: §a1s",
       "",
       "§7Vacuum Bag: §20 Pests",
-      "§8Vacuum  Pests in your Garden to",
+      "§8Vacuum  Pests in your Garden to",
       "§8increase!",
       "",
       "§4❣ §cRequires §aGarden Level 5§c.",
@@ -237721,25 +237815,25 @@
   "SKYMART_TURBO_VACUUM": {
     "itemid": "minecraft:paper",
     "displayname": "§aSkyMart Turbo Vacuum",
-    "nbttag": "{ExtraAttributes:{id:\"SKYMART_TURBO_VACUUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/skymart_turbo_vacuum\",display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Farming Fortune: §6+10\",2:\"\",3:\"§7Can be used to damage §2 Pests§7.\",4:\"\",5:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",6:\"§7Deals §c150  Damage §7per second to\",7:\"§7nearby §2 Pests§7.\",8:\"\",9:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",10:\"§7Leads you in the direction of the\",11:\"§7nearest §2 Pest§7.\",12:\"§8Cooldown: §a1s\",13:\"\",14:\"§7Vacuum Bag: §20 Pests\",15:\"§8Vacuum  Pests in your Garden to\",16:\"§8increase!\",17:\"\",18:\"§4❣ §cRequires §aGarden Level 5§c.\",19:\"§a§lUNCOMMON VACUUM\"],Name:\"§aSkyMart Turbo Vacuum\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SKYMART_TURBO_VACUUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/skymart_turbo_vacuum\",display:{Lore:[0:\"§7Damage: §c+150\",1:\"§7Farming Fortune: §6+10\",2:\"\",3:\"§7Can be used to damage §2 Pests§7.\",4:\"\",5:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",6:\"§7Deals §c150  Damage §7per second to\",7:\"§7nearby §2 Pests§7.\",8:\"\",9:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",10:\"§7Leads you in the direction of the\",11:\"§7nearest §2 Pest§7.\",12:\"§8Cooldown: §a1s\",13:\"\",14:\"§7Vacuum Bag: §20 Pests\",15:\"§8Vacuum  Pests in your Garden to\",16:\"§8increase!\",17:\"\",18:\"§4❣ §cRequires §aGarden Level 5§c.\",19:\"§a§lUNCOMMON VACUUM\"],Name:\"§aSkyMart Turbo Vacuum\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+150",
       "§7Farming Fortune: §6+10",
       "",
-      "§7Can be used to damage §2 Pests§7.",
+      "§7Can be used to damage §2 Pests§7.",
       "",
       "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK",
       "§7Deals §c150  Damage §7per second to",
-      "§7nearby §2 Pests§7.",
+      "§7nearby §2 Pests§7.",
       "",
       "§6Ability: Pest Tracker  §e§lLEFT CLICK",
       "§7Leads you in the direction of the",
-      "§7nearest §2 Pest§7.",
+      "§7nearest §2 Pest§7.",
       "§8Cooldown: §a1s",
       "",
       "§7Vacuum Bag: §20 Pests",
-      "§8Vacuum  Pests in your Garden to",
+      "§8Vacuum  Pests in your Garden to",
       "§8increase!",
       "",
       "§4❣ §cRequires §aGarden Level 5§c.",
@@ -237757,25 +237851,25 @@
   "SKYMART_VACUUM": {
     "itemid": "minecraft:paper",
     "displayname": "§fSkyMart Vacuum",
-    "nbttag": "{ExtraAttributes:{id:\"SKYMART_VACUUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/skymart_vacuum\",display:{Lore:[0:\"§7Damage: §c+100\",1:\"§7Farming Fortune: §6+5\",2:\"\",3:\"§7Can be used to damage §2 Pests§7.\",4:\"\",5:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",6:\"§7Deals §c100  Damage §7per second to\",7:\"§7nearby §2 Pests§7.\",8:\"\",9:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",10:\"§7Leads you in the direction of the\",11:\"§7nearest §2 Pest§7.\",12:\"§8Cooldown: §a1s\",13:\"\",14:\"§7Vacuum Bag: §20 Pests\",15:\"§8Vacuum  Pests in your Garden to\",16:\"§8increase!\",17:\"\",18:\"§4❣ §cRequires §aGarden Level 5§c.\",19:\"§f§lCOMMON VACUUM\"],Name:\"§fSkyMart Vacuum\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SKYMART_VACUUM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/vacuum/skymart_vacuum\",display:{Lore:[0:\"§7Damage: §c+100\",1:\"§7Farming Fortune: §6+5\",2:\"\",3:\"§7Can be used to damage §2 Pests§7.\",4:\"\",5:\"§6Ability: Vacuum  §e§lHOLD RIGHT CLICK\",6:\"§7Deals §c100  Damage §7per second to\",7:\"§7nearby §2 Pests§7.\",8:\"\",9:\"§6Ability: Pest Tracker  §e§lLEFT CLICK\",10:\"§7Leads you in the direction of the\",11:\"§7nearest §2 Pest§7.\",12:\"§8Cooldown: §a1s\",13:\"\",14:\"§7Vacuum Bag: §20 Pests\",15:\"§8Vacuum  Pests in your Garden to\",16:\"§8increase!\",17:\"\",18:\"§4❣ §cRequires §aGarden Level 5§c.\",19:\"§f§lCOMMON VACUUM\"],Name:\"§fSkyMart Vacuum\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+100",
       "§7Farming Fortune: §6+5",
       "",
-      "§7Can be used to damage §2 Pests§7.",
+      "§7Can be used to damage §2 Pests§7.",
       "",
       "§6Ability: Vacuum  §e§lHOLD RIGHT CLICK",
       "§7Deals §c100  Damage §7per second to",
-      "§7nearby §2 Pests§7.",
+      "§7nearby §2 Pests§7.",
       "",
       "§6Ability: Pest Tracker  §e§lLEFT CLICK",
       "§7Leads you in the direction of the",
-      "§7nearest §2 Pest§7.",
+      "§7nearest §2 Pest§7.",
       "§8Cooldown: §a1s",
       "",
       "§7Vacuum Bag: §20 Pests",
-      "§8Vacuum  Pests in your Garden to",
+      "§8Vacuum  Pests in your Garden to",
       "§8increase!",
       "",
       "§4❣ §cRequires §aGarden Level 5§c.",
@@ -241056,7 +241150,9 @@
     "clickcommand": "",
     "modver": "2.5.0",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Smoldering_Tomb"
+    ]
   },
   "SMOL_JERRY_PERSONALITY": {
     "itemid": "minecraft:skull",
@@ -245376,6 +245472,27 @@
       "https://hypixelskyblock.minecraft.wiki/w/Sowledge_Chip"
     ]
   },
+  "SPACEMAN_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Spaceman (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"SPACEMAN_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7a76faf0-96f3-2939-8ed8-e1ce8909114b\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNmMWE3ZTg4ZWRmZTNkYjE5YzdlNjRkZTAzZDZiMjUyMmZhNWYyYjk3NGQxYjM3MmE2ZTlmYWFjNTYzZjdlNSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3YTc2ZmFmMDk2ZjMyOTM5OGVkOGUxY2U4OTA5MTE0YiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzMTEyMDAxNDkzfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Spaceman (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "SPACEMAN_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Spaceman"
+    ],
+    "island": "farming_1",
+    "x": 260,
+    "y": 182,
+    "z": -566
+  },
   "SPARKLING_AMULET": {
     "itemid": "minecraft:paper",
     "displayname": "§bSparkling Amulet",
@@ -248994,10 +249111,10 @@
     ]
   },
   "SPOOKY_SHARD": {
-    "itemid": "minecraft:skull",
+    "itemid": "minecraft:paper",
     "displayname": "§5Spooky Fragment",
-    "nbttag": "{ExtraAttributes:{id:\"SPOOKY_SHARD\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"57eae950-485e-3423-9e4a-1a08db4dc9ed\",Properties:{textures:[0:{Name:\"textures\",Signature:\"TIjPGV6TSsCSCiL2geugHf70GneO91Vfja3qFj3fdZqsK1nrCIlsgA3l94C2UIzzLT9GYhBAHb8VCXvLVDVa8Da4S+0V9FrRtwTvDlpVhmnJVpCMW0cFGRJvOGJhY1FP2ggBMbd7LjT1azxjWJrPBRzajrrqDZa+GFGELU+5s3yfwIMS5tynTA8VyFAxpWQWub9h5yRbtaMLDki9nG8gBuceo++ymwz5ra5aj/4/huZw8BMHoNi5VUaSRLhuJwRT67B6dLXWpB4ySHQ4/0Tt//Qq+RqxAiFC/u5hY4lstAidXbgL95SPrixlwFNWCDCv3iOTt2hap4+tzO2chYYPUW+Ka61SyI0l92a9n3ZZwbEdVT9FPneiIGtcgG3Zyu4F6v731cyv29dP3IOPSYEH771X7TYqs3gfIHP9TL059jkTe3aeZOcZ3tI2moktT3GoY5aKRy+bLVlF6P4bjbAc/kyw8kEO/mD1MdMzhP8eSMjg7/JKRkv7qZ+8GGP4zgux3KU1LsMy+P6jZf25vBgQqp/ZonUw2Oz/+L9xCFV+DE7u3feZD8wycKX2A2K6FjlVRlOrYgVQcNRxpLSxT8D7zSOVNssm0CHsv+LaQhprYE1/5YDeVtdaMR9Z5RlYZ1MdlF+E9HS44N+Dre1wOI1dtTLZLQtm4TCfllQQWuRjHP0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5ODMzMzYxODQyNCwKICAicHJvZmlsZUlkIiA6ICI0YzhjNTIxZjMxZDI0ZDc1OThlNTI4YjRlODExOGMwNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXR5YXdhbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kODg0ZWQxOTUwYmI4YjE5OGFkYTgxOTE2ODQ0MDBiZDY2NDBlMDM3MTA0ODFjODEyMmI3ODBiOWVkMWJkOThjIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Spooky Fragment\"}}",
-    "damage": 3,
+    "nbttag": "{ExtraAttributes:{id:\"SPOOKY_SHARD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/spooky_fragment\",display:{Lore:[0:\"§eRight-click to view recipes!\",1:\"\",2:\"§5§lEPIC\"],Name:\"§5Spooky Fragment\"}}",
+    "damage": 0,
     "lore": [
       "§eRight-click to view recipes!",
       "",
@@ -249006,7 +249123,7 @@
     "internalname": "SPOOKY_SHARD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spooky_Fragment"
@@ -249223,13 +249340,13 @@
   "SPRAYONATOR": {
     "itemid": "minecraft:paper",
     "displayname": "§aSprayonator",
-    "nbttag": "{ExtraAttributes:{id:\"SPRAYONATOR\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/sprayonator\",display:{Lore:[0:\"§6Ability: Configure  §e§lLEFT CLICK\",1:\"§7Select a nozzle and material for\",2:\"§7spraying. Certain materials attract\",3:\"§7certain types of §2 Pests§7.\",4:\"\",5:\"§7Selected Nozzle: §aBasic\",6:\"§7Selected Material: §aCompost\",7:\"§7Attracts: §6Earthworm§7, §6Mosquito\",8:\"\",9:\"§6Ability: Spray  §e§lRIGHT CLICK\",10:\"§7Sprays your selected material onto\",11:\"§7the §aGarden §7plot you are on. Lasts\",12:\"§7for §a30m§7.\",13:\"\",14:\"§aBasic Nozzle Bonus:\",15:\"§8➜ §2+25 Bonus Pest Chance §7while\",16:\"§7   in a sprayed plot.\",17:\"§8➜ §2 Pests §7are §a1.5x §7more likely to\",18:\"§7   spawn in sprayed plots.\",19:\"§8Cooldown: §a3s\",20:\"\",21:\"§4❣ §cRequires §aGarden Level 5§c.\",22:\"§a§lUNCOMMON\"],Name:\"§aSprayonator\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPRAYONATOR\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/sprayonator\",display:{Lore:[0:\"§6Ability: Configure  §e§lLEFT CLICK\",1:\"§7Select a nozzle and material for\",2:\"§7spraying. Certain materials attract\",3:\"§7certain types of §2 Pests§7.\",4:\"\",5:\"§7Selected Nozzle: §aBasic\",6:\"§7Selected Material: §aCompost\",7:\"§7Attracts: §6Earthworm§7, §6Mosquito\",8:\"\",9:\"§6Ability: Spray  §e§lRIGHT CLICK\",10:\"§7Sprays your selected material onto\",11:\"§7the §aGarden §7plot you are on. Lasts\",12:\"§7for §a30m§7.\",13:\"\",14:\"§aBasic Nozzle Bonus:\",15:\"§8➜ §2+25 Bonus Pest Chance §7while\",16:\"§7   in a sprayed plot.\",17:\"§8➜ §2 Pests §7are §a1.5x §7more likely to\",18:\"§7   spawn in sprayed plots.\",19:\"§8Cooldown: §a3s\",20:\"\",21:\"§4❣ §cRequires §aGarden Level 5§c.\",22:\"§a§lUNCOMMON\"],Name:\"§aSprayonator\"}}",
     "damage": 0,
     "lore": [
       "§6Ability: Configure  §e§lLEFT CLICK",
       "§7Select a nozzle and material for",
       "§7spraying. Certain materials attract",
-      "§7certain types of §2 Pests§7.",
+      "§7certain types of §2 Pests§7.",
       "",
       "§7Selected Nozzle: §aBasic",
       "§7Selected Material: §aCompost",
@@ -249243,7 +249360,7 @@
       "§aBasic Nozzle Bonus:",
       "§8➜ §2+25 Bonus Pest Chance §7while",
       "§7   in a sprayed plot.",
-      "§8➜ §2 Pests §7are §a1.5x §7more likely to",
+      "§8➜ §2 Pests §7are §a1.5x §7more likely to",
       "§7   spawn in sprayed plots.",
       "§8Cooldown: §a3s",
       "",
@@ -249253,7 +249370,7 @@
     "internalname": "SPRAYONATOR",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sprayonator"
@@ -250682,12 +250799,12 @@
   "STAFF_OF_THE_RISING_MOON": {
     "itemid": "minecraft:red_flower",
     "displayname": "§5Staff of the Rising Moon",
-    "nbttag": "{ExtraAttributes:{id:\"STAFF_OF_THE_RISING_MOON\"},HideFlags:254,ItemModel:\"minecraft:allium\",display:{Lore:[0:\"§6Ability: Ray of Hope  §e§lRIGHT CLICK\",1:\"§7Launches an explosive moon towards the\",2:\"§7target location, dealing §c1❤ Heart §7of damage\",3:\"§7to §cWizardman §7when hit.\",4:\"§8Mana Cost: §b1\",5:\"\",6:\"§5§lEPIC WAND\"],Name:\"§5Staff of the Rising Moon\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"STAFF_OF_THE_RISING_MOON\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/rift/wands/staff_of_the_rising_moon\",display:{Lore:[0:\"§6Ability: Ray of Hope  §e§lRIGHT CLICK\",1:\"§7Launches an explosive moon towards the\",2:\"§7target location, dealing §c1 Heart §7of damage\",3:\"§7to §cWizardman §7when hit.\",4:\"§8Mana Cost: §b1\",5:\"\",6:\"§5§lEPIC WAND\"],Name:\"§5Staff of the Rising Moon\"},ench:[]}",
     "damage": 2,
     "lore": [
       "§6Ability: Ray of Hope  §e§lRIGHT CLICK",
       "§7Launches an explosive moon towards the",
-      "§7target location, dealing §c1❤ Heart §7of damage",
+      "§7target location, dealing §c1 Heart §7of damage",
       "§7to §cWizardman §7when hit.",
       "§8Mana Cost: §b1",
       "",
@@ -250696,7 +250813,7 @@
     "internalname": "STAFF_OF_THE_RISING_MOON",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Staff_of_the_Rising_Moon"
@@ -255636,7 +255753,7 @@
     ]
   },
   "STRETCHING_STICKS": {
-    "itemid": "minecraft:stick",
+    "itemid": "minecraft:paper",
     "displayname": "§aStretching Sticks",
     "nbttag": "{ExtraAttributes:{id:\"STRETCHING_STICKS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/stretching_sticks\",display:{Lore:[0:\"§7§oThese slender sticks have a natural\",1:\"§7§oflexibility, making them ideal for\",2:\"§7§ocrafting and building.\",3:\"\",4:\"§eRight-click to view recipes!\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aStretching Sticks\"}}",
     "damage": 0,
@@ -255652,7 +255769,7 @@
     "internalname": "STRETCHING_STICKS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Stretching_Sticks"
@@ -265802,7 +265919,7 @@
     "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/The_Art_Of_Peace"
+      "https://hypixelskyblock.minecraft.wiki/w/The_Art_of_Peace"
     ]
   },
   "THE_ART_OF_WAR": {
@@ -265829,7 +265946,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/The_Art_Of_War"
+      "https://hypixelskyblock.minecraft.wiki/w/The_Art_of_War"
     ]
   },
   "THE_CAKE": {
@@ -268299,7 +268416,7 @@
     ]
   },
   "TIGER_SHARK_TOOTH": {
-    "itemid": "minecraft:ghast_tear",
+    "itemid": "minecraft:paper",
     "displayname": "§5Tiger Shark Tooth",
     "nbttag": "{ExtraAttributes:{id:\"TIGER_SHARK_TOOTH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/marina/tiger_shark_tooth\",display:{Lore:[0:\"§7Dropped by a Shark during Fishing\",1:\"§7Festival.\",2:\"\",3:\"§eRight-click to view recipes!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Tiger Shark Tooth\"},ench:[]}",
     "damage": 0,
@@ -268314,7 +268431,7 @@
     "internalname": "TIGER_SHARK_TOOTH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tiger_Shark_Tooth"
@@ -269961,7 +270078,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Toil_Log"
+      "https://hypixelskyblock.minecraft.wiki/w/Rotting_Branch"
     ]
   },
   "TOKEN_OF_THE_CENTURY": {
@@ -270267,7 +270384,7 @@
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Top_of_the_Nest"
     ]
   },
   "TORCH": {
@@ -270440,8 +270557,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Torrhus_Canyon"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_HELIX_LOG:1",
@@ -270478,8 +270597,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Helix Log I",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_Torrhus_Canyon"
+    ],
     "recipes": [
       {
         "A1": "HELIX_LOG:64",
@@ -270538,8 +270659,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Critter_Safari_Entrance"
+    ]
   },
   "TORRHUS_SAFARI_ENTRANCE_TRAVEL_SCROLL": {
     "itemid": "minecraft:map",
@@ -270585,8 +270708,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Torrhus_Springs"
+    ]
   },
   "TORRHUS_SPRINGS_TRAVEL_SCROLL": {
     "itemid": "minecraft:map",
@@ -270607,8 +270732,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Ruby Veilshroom I",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Travel_Scroll_to_Torrhus_Springs"
+    ],
     "recipes": [
       {
         "A1": "RUBY_VEILSHROOM:16",
@@ -271231,7 +271358,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Trapper%27s_Den"
     ]
   },
   "TRAPPER_DEN_TRAVEL_SCROLL": {
@@ -284196,11 +284323,11 @@
   "VERMIN_PEST_TRAP": {
     "itemid": "minecraft:paper",
     "displayname": "§6Vermin Trap",
-    "nbttag": "{ExtraAttributes:{id:\"VERMIN_PEST_TRAP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/vermin_pest_trap\",display:{Lore:[0:\"§7Place in a §aGarden §7plot and fill with\",1:\"§7bait to catch §2 Pests §7while offline.\",2:\"§8Maximum Capacity: 4 Pests\",3:\"§8Limit of 3 Traps\",4:\"\",5:\"§6Field Mice §7are §a4x §7more likely to be\",6:\"§7caught in this type of trap!\",7:\"\",8:\"§6§lLEGENDARY\"],Name:\"§6Vermin Trap\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"VERMIN_PEST_TRAP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/pests/vermin_pest_trap\",display:{Lore:[0:\"§7Place in a §aGarden §7plot and fill with\",1:\"§7bait to catch §2 Pests §7while offline.\",2:\"§8Maximum Capacity: 4 Pests\",3:\"§8Limit of 3 Traps\",4:\"\",5:\"§6Field Mice §7are §a4x §7more likely to be\",6:\"§7caught in this type of trap!\",7:\"\",8:\"§6§lLEGENDARY\"],Name:\"§6Vermin Trap\"}}",
     "damage": 0,
     "lore": [
       "§7Place in a §aGarden §7plot and fill with",
-      "§7bait to catch §2 Pests §7while offline.",
+      "§7bait to catch §2 Pests §7while offline.",
       "§8Maximum Capacity: 4 Pests",
       "§8Limit of 3 Traps",
       "",
@@ -284212,7 +284339,7 @@
     "internalname": "VERMIN_PEST_TRAP",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Vermin_Trap"
@@ -284331,7 +284458,7 @@
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Very_Official_Yellow_Rock_of_Love!"
+      "https://hypixelskyblock.minecraft.wiki/w/Very_Official_Yellow_Rock_of_Love%21"
     ]
   },
   "VERY_SCIENTIFIC_PAPER": {
@@ -284413,8 +284540,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament nogitversion+mc26.2",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Vial_of_Spring_Water"
+    ]
   },
   "VIAL_OF_VENOM": {
     "itemid": "minecraft:skull",
@@ -284772,7 +284901,7 @@
     ]
   },
   "VINYL_BEETLE": {
-    "itemid": "minecraft:record_mellohi",
+    "itemid": "minecraft:paper",
     "displayname": "§aNot Just a Pest Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_BEETLE\"},HideFlags:254,ItemModel:\"minecraft:music_disc_mellohi\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts\",4:\"§2Beetle Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aNot Just a Pest Vinyl\"}}",
     "damage": 0,
@@ -284788,12 +284917,12 @@
     "internalname": "VINYL_BEETLE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": []
   },
   "VINYL_BUZZIN_BEATS": {
-    "itemid": "minecraft:record_ward",
+    "itemid": "minecraft:paper",
     "displayname": "§aBuzzin' Beats Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_BUZZIN_BEATS\"},HideFlags:254,ItemModel:\"minecraft:music_disc_ward\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts\",4:\"§2Mosquito Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aBuzzin' Beats Vinyl\"}}",
     "damage": 0,
@@ -284809,14 +284938,14 @@
     "internalname": "VINYL_BUZZIN_BEATS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Buzzin%27_Beats_Vinyl"
     ]
   },
   "VINYL_CICADA_SYMPHONY": {
-    "itemid": "minecraft:record_blocks",
+    "itemid": "minecraft:paper",
     "displayname": "§aCicada Symphony Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_CICADA_SYMPHONY\"},HideFlags:254,ItemModel:\"minecraft:music_disc_blocks\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts\",4:\"§2Locust Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aCicada Symphony Vinyl\"}}",
     "damage": 0,
@@ -284832,14 +284961,14 @@
     "internalname": "VINYL_CICADA_SYMPHONY",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Cicada_Symphony_Vinyl"
     ]
   },
   "VINYL_CRICKET_CHOIR": {
-    "itemid": "minecraft:record_chirp",
+    "itemid": "minecraft:paper",
     "displayname": "§aCricket Choir Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_CRICKET_CHOIR\"},HideFlags:254,ItemModel:\"minecraft:music_disc_chirp\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts\",4:\"§2Cricket Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aCricket Choir Vinyl\"}}",
     "damage": 0,
@@ -284855,14 +284984,14 @@
     "internalname": "VINYL_CRICKET_CHOIR",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Cricket_Choir_Vinyl"
     ]
   },
   "VINYL_DYNAMITES": {
-    "itemid": "minecraft:record_strad",
+    "itemid": "minecraft:paper",
     "displayname": "§aDynaMITES Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_DYNAMITES\"},HideFlags:254,ItemModel:\"minecraft:music_disc_strad\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts §2Mite\",4:\"§2Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aDynaMITES Vinyl\"}}",
     "damage": 0,
@@ -284878,14 +285007,14 @@
     "internalname": "VINYL_DYNAMITES",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/DynaMITES_Vinyl"
     ]
   },
   "VINYL_EARTHWORM_ENSEMBLE": {
-    "itemid": "minecraft:record_mall",
+    "itemid": "minecraft:paper",
     "displayname": "§aEarthworm Ensemble Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_EARTHWORM_ENSEMBLE\"},HideFlags:254,ItemModel:\"minecraft:music_disc_mall\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts\",4:\"§2Earthworm Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aEarthworm Ensemble Vinyl\"}}",
     "damage": 0,
@@ -284901,7 +285030,7 @@
     "internalname": "VINYL_EARTHWORM_ENSEMBLE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Earthworm_Ensemble_Vinyl"
@@ -284929,7 +285058,7 @@
     "info": []
   },
   "VINYL_IMAGINE_DRAGONFLIES": {
-    "itemid": "minecraft:record_cat",
+    "itemid": "minecraft:paper",
     "displayname": "§aImagine Dragonflies Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_IMAGINE_DRAGONFLIES\"},HideFlags:254,ItemModel:\"minecraft:music_disc_relic\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts\",4:\"§2Dragonfly Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aImagine Dragonflies Vinyl\"}}",
     "damage": 0,
@@ -284945,14 +285074,14 @@
     "internalname": "VINYL_IMAGINE_DRAGONFLIES",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Imagine_Dragonflies_Vinyl"
     ]
   },
   "VINYL_PRAY_FOR_ME": {
-    "itemid": "minecraft:record_mellohi",
+    "itemid": "minecraft:paper",
     "displayname": "§aPray For Me Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_PRAY_FOR_ME\"},HideFlags:254,ItemModel:\"minecraft:music_disc_creator\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts\",4:\"§2Praying Mantis Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aPray For Me Vinyl\"}}",
     "damage": 0,
@@ -284968,14 +285097,14 @@
     "internalname": "VINYL_PRAY_FOR_ME",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pray_For_Me_Vinyl"
     ]
   },
   "VINYL_PRETTY_FLY": {
-    "itemid": "minecraft:record_stal",
+    "itemid": "minecraft:paper",
     "displayname": "§aPretty Fly Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_PRETTY_FLY\"},HideFlags:254,ItemModel:\"minecraft:music_disc_stal\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts §2Fly\",4:\"§2Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aPretty Fly Vinyl\"}}",
     "damage": 0,
@@ -284991,14 +285120,14 @@
     "internalname": "VINYL_PRETTY_FLY",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pretty_Fly_Vinyl"
     ]
   },
   "VINYL_RODENT_REVOLUTION": {
-    "itemid": "minecraft:record_13",
+    "itemid": "minecraft:paper",
     "displayname": "§aRodent Revolution Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_RODENT_REVOLUTION\"},HideFlags:254,ItemModel:\"minecraft:music_disc_13\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts §2Rat\",4:\"§2Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aRodent Revolution Vinyl\"}}",
     "damage": 0,
@@ -285014,14 +285143,40 @@
     "internalname": "VINYL_RODENT_REVOLUTION",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rodent_Revolution_Vinyl"
     ]
   },
+  "VINYL_SACK": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Vinyl Sack",
+    "nbttag": "{ExtraAttributes:{id:\"VINYL_SACK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"49c110bf-5f21-394f-90de-81575c1bc934\",Properties:{textures:[0:{Name:\"textures\",Signature:\"aGmPeMYUnCOZp2L36NNl6Ts6zcmTijocSsklm5x/qSBLBw1GEbqfPdPgTdFef+ULTsnjSnZfi75tXv4/c5udnpoy4Zs3zwsyRz4ygIqUNsQl60gU6BpuPed9nq/CN9aUZLvGyJvH4voYLOZGvuVjL+11welny8KdkwZLzApJCHEby11+kx+0S400x5JAsMdk3A7t9O9pM1m1Xq4wvEYybU+6IkXfbBCIY/25lcbE/64rfgYRTAhhuXv2woeXSf/giN11/MD2MeCsEl9H7qnUFIt/CGqC4NePnBP3VJkA3apMu9YBoS6p7VX627Kyt0YwY3vuv1VrjfSpjVgyWECLJWfimay9+LV1Mp5OjbURU3IQjx5kQ6+fY/tXGe5M58H7tZcT2DZiGpql9hDrP6JrWLm6SspS8v58zdGpw6eG7sOI4S32fCixsmBPykeA5Hi8LYJM1c/dlDSqZLNiGAlifBOb0OtMhW5buevPDTQ+unZ3Gb668Nqut2/pE+KNq2Xg0eyOBIcZmP+M7m+oEVkv3paYXdRnhxyQlRjSn77kAGIBevQNJ9omMxecz34pI2LmWmTQuP7/xZm0FiujQQ52eTFb9LYgwNxRvKtx3u+y4/2N3h9SxrV3jir/jcRNVu3Tf1NioPGupO3ir5m9/z+6qyrdgcxZ33n7LRGTMsruOYM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5MjUwMjU3MjY2NSwKICAicHJvZmlsZUlkIiA6ICJlMzk1NjU0YzdmMmU0NzI0YmE0Y2FhMDhkYTgzNGJjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwZHNfXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZTYwMzA1ZmY4MGJlYTljY2ZlNmE4NzVjOGU3M2UxZjM3YzYwYmM4YzkxZGI3ODdmN2EzMWUwNmJkMGY5MzJkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Holds §bVinyls §7dropped by §2 Pests§7!\",1:\"§7Items you pickup go directly into\",2:\"§7your sacks.\",3:\"\",4:\"§7Capacity: §e20,160 of each item\",5:\"§8Multiple sacks sum their capacity!\",6:\"\",7:\"§eRight Click to open!\",8:\"\",9:\"§5§lEPIC SACK\"],Name:\"§5Vinyl Sack\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Holds §bVinyls §7dropped by §2 Pests§7!",
+      "§7Items you pickup go directly into",
+      "§7your sacks.",
+      "",
+      "§7Capacity: §e20,160 of each item",
+      "§8Multiple sacks sum their capacity!",
+      "",
+      "§eRight Click to open!",
+      "",
+      "§5§lEPIC SACK"
+    ],
+    "internalname": "VINYL_SACK",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Vinyl_Sack"
+    ]
+  },
   "VINYL_SLOW_AND_GROOVY": {
-    "itemid": "minecraft:record_far",
+    "itemid": "minecraft:paper",
     "displayname": "§aSlow and Groovy Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_SLOW_AND_GROOVY\"},HideFlags:254,ItemModel:\"minecraft:music_disc_far\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts §2Slug\",4:\"§2Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aSlow and Groovy Vinyl\"}}",
     "damage": 0,
@@ -285037,12 +285192,12 @@
     "internalname": "VINYL_SLOW_AND_GROOVY",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": []
   },
   "VINYL_WINGS_OF_HARMONY": {
-    "itemid": "minecraft:record_wait",
+    "itemid": "minecraft:paper",
     "displayname": "§aWings of Harmony Vinyl",
     "nbttag": "{ExtraAttributes:{id:\"VINYL_WINGS_OF_HARMONY\"},HideFlags:254,ItemModel:\"minecraft:music_disc_wait\",display:{Lore:[0:\"§7Place in a §6Chirping Stereo §7to play\",1:\"§7funky tunes for §2 Pests§7.\",2:\"\",3:\"§7When playing, this vinyl attracts §2Moth\",4:\"§2Pests§7.\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§aWings of Harmony Vinyl\"}}",
     "damage": 0,
@@ -285058,7 +285213,7 @@
     "internalname": "VINYL_WINGS_OF_HARMONY",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wings_of_Harmony_Vinyl"
@@ -286256,7 +286411,7 @@
     "modver": "Firmament 44.0.1+mc1.21.11",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Portals"
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_the_Void_Sepulture"
     ]
   },
   "VOID_SEPULTURE_TRAVEL_SCROLL": {
@@ -288446,7 +288601,7 @@
     "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Weather_Stick"
+      "https://hypixelskyblock.minecraft.wiki/w/Weather_Wand"
     ],
     "recipe": {
       "A1": "",
@@ -293379,7 +293534,9 @@
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Portal_to_The_Wizard_Tower"
+    ]
   },
   "WIZARD_WAND": {
     "itemid": "minecraft:blaze_rod",
@@ -295734,7 +295891,7 @@
     }
   },
   "WORM_MEMBRANE": {
-    "itemid": "minecraft:rotten_flesh",
+    "itemid": "minecraft:paper",
     "displayname": "§aWorm Membrane",
     "nbttag": "{ExtraAttributes:{id:\"WORM_MEMBRANE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/worm_membrane\",display:{Lore:[0:\"§a§lUNCOMMON\"],Name:\"§aWorm Membrane\"}}",
     "damage": 0,
@@ -295744,7 +295901,7 @@
     "internalname": "WORM_MEMBRANE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+ga5fdc6d2",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Worm_Membrane"
