@@ -1,110 +1,65 @@
 "use client";
 
-import { Checkbox } from "@workspace/ui/components/checkbox";
-import { ChevronDown, ChevronRight, ExternalLink } from "lucide-react";
+import { Button } from "@workspace/ui/components/button";
+import {
+  ChevronDown,
+  ChevronRight,
+  ExternalLink,
+  PackagePlus,
+} from "lucide-react";
 import type React from "react";
 import { MinecraftColoredText } from "@/components/minecraft-colored-text";
 import { trackRecipeTreeItemClick } from "@/lib/analytics";
-import { BASE_MATERIALS } from "@/lib/constants";
-import {
-  calculateOptimalForgeTime,
-  formatForgeTime,
-} from "@/lib/forge-time-utils";
+import { formatForgeTime } from "@/lib/forge-time-utils";
+import type { NetTreeNode } from "@/lib/net-requirements";
 import { useRecipeData } from "@/lib/recipe-data-context";
-import {
-  aggregateIngredients,
-  getIngredientsFromRecipe,
-  getRecipe,
-} from "@/lib/recipe-utils";
-import type { ForgeRecipe, ForgeSettings } from "@/lib/types";
+import type { ForgeSettings } from "@/lib/types";
 import { getDisplayName } from "@/lib/utils";
 import { ItemImage } from "./item-image";
 
 interface RecipeTreeProps {
-  internalname: string;
-  multiplier?: number;
+  node: NetTreeNode;
   depth?: number;
-  visited?: Set<string>;
   expandedItems: Set<string>;
   onToggleExpanded: (itemName: string) => void;
-  forgeSettings?: ForgeSettings;
+  forgeSettings: ForgeSettings;
+  onAddToInventory: (name: string, qty: number) => void;
   isLastChild?: boolean;
   ancestorLines?: boolean[];
-  todoMode?: boolean;
-  checkedItems?: Set<string>;
-  onToggleChecked?: (itemName: string) => void;
 }
 
 export function RecipeTree({
-  internalname,
-  multiplier = 1,
+  node,
   depth = 0,
-  visited = new Set(),
-  expandedItems: externalExpandedItems,
+  expandedItems,
   onToggleExpanded,
-  forgeSettings = { forgeSlots: 2, useMultipleSlots: true, quickForgeLevel: 0 },
+  forgeSettings,
+  onAddToInventory,
   isLastChild = true,
   ancestorLines = [],
-  todoMode = false,
-  checkedItems,
-  onToggleChecked,
 }: RecipeTreeProps): React.ReactElement | null {
   const { recipes, itemsData } = useRecipeData();
 
-  const expandedItems = externalExpandedItems ?? new Set([internalname]);
-
-  if (visited.has(internalname)) {
-    return null;
-  }
-
-  let entry = recipes[internalname];
-  let isLeafFromItems = false;
-  if (!entry && itemsData && itemsData[internalname]) {
-    entry = itemsData[internalname];
-    isLeafFromItems = true;
-  }
+  const { internalname, net, isBase, isForge, children } = node;
+  const entry = recipes[internalname] ?? itemsData[internalname];
   if (!entry) return null;
 
-  const recipe = !isLeafFromItems ? getRecipe(entry) : undefined;
-  const isBaseMaterial = BASE_MATERIALS.has(internalname) || isLeafFromItems;
-  const ingredients = recipe ? getIngredientsFromRecipe(recipe) : [];
-  const hasIngredients = ingredients.length > 0 && !isBaseMaterial;
-
-  const counts = aggregateIngredients(ingredients);
-  const nextVisited = new Set(visited);
-  nextVisited.add(internalname);
-
+  const hasIngredients = children.length > 0;
   const isExpanded = expandedItems.has(internalname);
 
   const displayName = getDisplayName(entry, internalname, itemsData);
   const plainDisplayName = displayName.replace(/§./g, "");
 
-  const isForgeRecipe = (recipe as ForgeRecipe)?.type === "forge";
-  const rawForgeTime = isForgeRecipe
-    ? (recipe as ForgeRecipe).forge_time
-    : undefined;
-
-  const optimizedForgeTime =
-    rawForgeTime !== undefined
-      ? calculateOptimalForgeTime(rawForgeTime, multiplier, forgeSettings)
-      : undefined;
-
   const forgeTime =
-    optimizedForgeTime !== undefined
-      ? formatForgeTime(optimizedForgeTime)
+    isForge && node.forgeTimeSeconds > 0
+      ? formatForgeTime(node.forgeTimeSeconds)
       : undefined;
-  const recipeCount: number = !isForgeRecipe
-    ? Number((recipe as Record<string, string | number>)?.count) || 1
-    : 1;
-  const actualMultiplier = Math.ceil(multiplier / recipeCount);
 
   const wikiUrl =
     entry.infoType === "WIKI_URL" && entry.info?.length
       ? (entry.info.find((u) => u.includes("wiki.hypixel.net")) ??
         entry.info[0])
       : undefined;
-
-  const isChecked = todoMode && checkedItems?.has(internalname);
 
   return (
     <div>
@@ -128,7 +83,7 @@ export function RecipeTree({
         <div
           className={`group flex items-center gap-3 px-3 py-2 my-0.5 rounded-lg transition-all flex-1 min-w-0 ${
             hasIngredients ? "cursor-pointer hover:bg-accent/30" : ""
-          } ${isBaseMaterial ? "bg-emerald-500/5 border border-emerald-500/15" : "hover:bg-muted/50"} ${isChecked ? "opacity-40" : ""}`}
+          } ${isBase ? "bg-emerald-500/5 border border-emerald-500/15" : "hover:bg-muted/50"}`}
           onClick={() => {
             if (hasIngredients) {
               onToggleExpanded(internalname);
@@ -136,21 +91,13 @@ export function RecipeTree({
                 internalname,
                 displayName,
                 depth,
-                multiplier,
-                isForgeRecipe,
+                net,
+                isForge,
                 isExpanded,
               );
             }
           }}
         >
-          {todoMode && onToggleChecked && (
-            <Checkbox
-              checked={!!isChecked}
-              onCheckedChange={() => onToggleChecked(internalname)}
-              onClick={(e) => e.stopPropagation()}
-              className="flex-shrink-0"
-            />
-          )}
           {hasIngredients && (
             <span className="text-muted-foreground flex-shrink-0">
               {isExpanded ? (
@@ -178,22 +125,22 @@ export function RecipeTree({
           />
 
           <div className="ml-auto flex items-center gap-2 flex-shrink-0">
-            {isForgeRecipe && (
+            {isForge && (
               <span className="px-1.5 py-0.5 rounded text-[10px] font-semibold bg-amber-500/15 text-amber-600 dark:text-amber-400 border border-amber-500/20">
                 FORGE
               </span>
             )}
-            {isForgeRecipe && forgeTime && (
+            {isForge && forgeTime && (
               <span className="px-1.5 py-0.5 rounded text-[10px] font-medium bg-blue-500/10 text-blue-600 dark:text-blue-400 border border-blue-500/15 font-mono">
                 {forgeTime}
-                {forgeSettings.useMultipleSlots && multiplier > 1 && (
+                {forgeSettings.useMultipleSlots && net > 1 && (
                   <span className="ml-1 opacity-70">
-                    ({Math.min(multiplier, forgeSettings.forgeSlots)}s)
+                    ({Math.min(net, forgeSettings.forgeSlots)}s)
                   </span>
                 )}
               </span>
             )}
-            {isBaseMaterial && (
+            {isBase && (
               <span className="px-1.5 py-0.5 rounded text-[10px] font-semibold bg-emerald-500/15 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20">
                 BASE
               </span>
@@ -210,8 +157,21 @@ export function RecipeTree({
                 <ExternalLink className="w-3 h-3" />
               </a>
             )}
+            <Button
+              variant="ghost"
+              size="icon-xs"
+              onClick={(e) => {
+                e.stopPropagation();
+                onAddToInventory(internalname, net);
+              }}
+              className="opacity-0 group-hover:opacity-100"
+              title="Add to inventory"
+              aria-label={`Add ${net} ${plainDisplayName} to inventory`}
+            >
+              <PackagePlus />
+            </Button>
             <span className="font-mono text-xs font-semibold text-primary bg-primary/10 px-2 py-0.5 rounded-md">
-              {multiplier}x
+              {net.toLocaleString()}x
             </span>
           </div>
         </div>
@@ -219,23 +179,19 @@ export function RecipeTree({
 
       {isExpanded && hasIngredients && (
         <div>
-          {Object.entries(counts).map(([name, count], index, arr) => (
+          {children.map((child, index, arr) => (
             <RecipeTree
-              key={name}
-              internalname={name}
-              multiplier={count * actualMultiplier}
+              key={child.path}
+              node={child}
               depth={depth + 1}
-              visited={nextVisited}
-              expandedItems={externalExpandedItems}
+              expandedItems={expandedItems}
               onToggleExpanded={onToggleExpanded}
               forgeSettings={forgeSettings}
+              onAddToInventory={onAddToInventory}
               isLastChild={index === arr.length - 1}
               ancestorLines={
                 depth === 0 ? [] : [...ancestorLines, !isLastChild]
               }
-              todoMode={todoMode}
-              checkedItems={checkedItems}
-              onToggleChecked={onToggleChecked}
             />
           ))}
         </div>
