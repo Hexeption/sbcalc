@@ -16,7 +16,7 @@
     "internalname": "AATROX_BADPHONE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Vampire Slayer 2",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Maddox_Badphone"
@@ -81,7 +81,7 @@
     "internalname": "ABSOLUTE_ENDER_PEARL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Ender Pearl VII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Absolute_Ender_Pearl"
@@ -508,8 +508,7 @@
       "C1": "LOG_2:10",
       "C2": "LOG_2:10",
       "C3": "LOG_2:10"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -547,8 +546,7 @@
       "C1": "ENCHANTED_ACACIA_LOG:32",
       "C2": "ENCHANTED_ACACIA_LOG:32",
       "C3": "ENCHANTED_ACACIA_LOG:32"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -586,8 +584,7 @@
       "C1": "ENCHANTED_ACACIA_LOG:64",
       "C2": "ENCHANTED_ACACIA_LOG:64",
       "C3": "ENCHANTED_ACACIA_LOG:64"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -668,8 +665,7 @@
       "C1": "LOG_2:20",
       "C2": "LOG_2:20",
       "C3": "LOG_2:20"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -707,8 +703,7 @@
       "C1": "LOG_2:40",
       "C2": "LOG_2:40",
       "C3": "LOG_2:40"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -746,8 +741,7 @@
       "C1": "LOG_2:64",
       "C2": "LOG_2:64",
       "C3": "LOG_2:64"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -785,8 +779,7 @@
       "C1": "ENCHANTED_ACACIA_LOG:1",
       "C2": "ENCHANTED_ACACIA_LOG:1",
       "C3": "ENCHANTED_ACACIA_LOG:1"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -824,8 +817,7 @@
       "C1": "ENCHANTED_ACACIA_LOG:2",
       "C2": "ENCHANTED_ACACIA_LOG:2",
       "C3": "ENCHANTED_ACACIA_LOG:2"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -863,8 +855,7 @@
       "C1": "ENCHANTED_ACACIA_LOG:4",
       "C2": "ENCHANTED_ACACIA_LOG:4",
       "C3": "ENCHANTED_ACACIA_LOG:4"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -902,8 +893,7 @@
       "C1": "ENCHANTED_ACACIA_LOG:8",
       "C2": "ENCHANTED_ACACIA_LOG:8",
       "C3": "ENCHANTED_ACACIA_LOG:8"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -941,8 +931,7 @@
       "C1": "ENCHANTED_ACACIA_LOG:16",
       "C2": "ENCHANTED_ACACIA_LOG:16",
       "C3": "ENCHANTED_ACACIA_LOG:16"
-    },
-    "useneucraft": true
+    }
   },
   "ACACIA_STAIRS": {
     "itemid": "minecraft:acacia_stairs",
@@ -2080,7 +2069,7 @@
   "ANTI_BITE_SCARF": {
     "itemid": "minecraft:carpet",
     "displayname": "§6Anti-Bite Scarf",
-    "nbttag": "{ExtraAttributes:{id:\"ANTI_BITE_SCARF\"},HideFlags:254,ItemModel:\"minecraft:red_carpet\",display:{Lore:[0:\"§7Rift Time: §a+100s\",1:\"§7Hearts: §c+1\",2:\"§7Intelligence: §b+20\",3:\"\",4:\"§6Ability: Helmets All The Way Around \",5:\"§7Regain §a+2ф §7when killing a monster.\",6:\"\",7:\"§7If you would take §c❤ §7damage, take\",8:\"§c0.3❤ §7less.\",9:\"\",10:\"§4☠ §cRequires §5Vampire Slayer 1§c.\",11:\"§6§lLEGENDARY HELMET\"],Name:\"§6Anti-Bite Scarf\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ANTI_BITE_SCARF\"},HideFlags:254,ItemModel:\"minecraft:red_carpet\",display:{Lore:[0:\"§7Rift Time: §a+100s\",1:\"§7Hearts: §c+1\",2:\"§7Intelligence: §b+20\",3:\"\",4:\"§6Ability: Helmets All The Way Around \",5:\"§7Regain §a+2 §7when killing a monster.\",6:\"\",7:\"§7If you would take §c❤ §7damage, take\",8:\"§c0.3❤ §7less.\",9:\"\",10:\"§4☠ §cRequires §5Vampire Slayer 1§c.\",11:\"§6§lLEGENDARY HELMET\"],Name:\"§6Anti-Bite Scarf\"}}",
     "damage": 14,
     "lore": [
       "§7Rift Time: §a+100s",
@@ -2088,7 +2077,7 @@
       "§7Intelligence: §b+20",
       "",
       "§6Ability: Helmets All The Way Around ",
-      "§7Regain §a+2ф §7when killing a monster.",
+      "§7Regain §a+2 §7when killing a monster.",
       "",
       "§7If you would take §c❤ §7damage, take",
       "§c0.3❤ §7less.",
@@ -2099,7 +2088,7 @@
     "internalname": "ANTI_BITE_SCARF",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Vampire Slayer 1",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Anti-Bite_Scarf"
@@ -2119,7 +2108,7 @@
   "ANTI_BITE_SCARF_2": {
     "itemid": "minecraft:carpet",
     "displayname": "§dAnti-Bite Scarf",
-    "nbttag": "{ExtraAttributes:{id:\"ANTI_BITE_SCARF_2\"},HideFlags:254,ItemModel:\"minecraft:red_carpet\",display:{Lore:[0:\"§7Rift Time: §a+110s\",1:\"§7Hearts: §c+1\",2:\"§7Intelligence: §b+22\",3:\"\",4:\"§6Ability: Helmets All The Way Around \",5:\"§7Regain §a+2ф §7when killing a monster.\",6:\"\",7:\"§7If you would take §c❤ §7damage, take\",8:\"§c0.5❤ §7less.\",9:\"\",10:\"§eLeft-click to pick color!\",11:\"\",12:\"§4☠ §cRequires §5Vampire Slayer 4§c.\",13:\"§d§lMYTHIC HELMET\"],Name:\"§dAnti-Bite Scarf\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"ANTI_BITE_SCARF_2\"},HideFlags:254,ItemModel:\"minecraft:red_carpet\",display:{Lore:[0:\"§7Rift Time: §a+110s\",1:\"§7Hearts: §c+1\",2:\"§7Intelligence: §b+22\",3:\"\",4:\"§6Ability: Helmets All The Way Around \",5:\"§7Regain §a+2 §7when killing a monster.\",6:\"\",7:\"§7If you would take §c❤ §7damage, take\",8:\"§c0.5❤ §7less.\",9:\"\",10:\"§eLeft-click to pick color!\",11:\"\",12:\"§4☠ §cRequires §5Vampire Slayer 4§c.\",13:\"§d§lMYTHIC HELMET\"],Name:\"§dAnti-Bite Scarf\"},ench:[]}",
     "damage": 14,
     "lore": [
       "§7Rift Time: §a+110s",
@@ -2127,7 +2116,7 @@
       "§7Intelligence: §b+22",
       "",
       "§6Ability: Helmets All The Way Around ",
-      "§7Regain §a+2ф §7when killing a monster.",
+      "§7Regain §a+2 §7when killing a monster.",
       "",
       "§7If you would take §c❤ §7damage, take",
       "§c0.5❤ §7less.",
@@ -2140,7 +2129,7 @@
     "internalname": "ANTI_BITE_SCARF_2",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Vampire Slayer 4",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Anti-Bite_Scarf"
@@ -2898,8 +2887,7 @@
       "C1": "GIANT_FRAGMENT_BOULDER:1",
       "C2": "GIANT_FRAGMENT_BOULDER:1",
       "C3": "GIANT_FRAGMENT_BOULDER:1"
-    },
-    "parent": "NECRON_BLADE"
+    }
   },
   "ATOMSPLIT_KATANA": {
     "itemid": "minecraft:blaze_rod",
@@ -3431,7 +3419,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-1",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3460,7 +3447,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-10",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3489,7 +3475,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-11",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3518,7 +3503,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-12",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3547,7 +3531,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-13",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3576,7 +3559,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-14",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3613,7 +3595,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Banner"
     ],
-    "parent": "BANNER",
     "vanilla": true,
     "recipe": {
       "A1": "WOOL:1",
@@ -3636,7 +3617,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-2",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3665,7 +3645,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-3",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3694,7 +3673,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-4",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3723,7 +3701,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-5",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3752,7 +3729,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-6",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3781,7 +3757,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-7",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3810,7 +3785,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-8",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -3839,7 +3813,6 @@
       "§f§lCOMMON"
     ],
     "internalname": "BANNER-9",
-    "parent": "BANNER",
     "modver": "1.3-REL",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -5684,8 +5657,7 @@
       "C1": "LOG-2:10",
       "C2": "LOG-2:10",
       "C3": "LOG-2:10"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -5723,8 +5695,7 @@
       "C1": "ENCHANTED_BIRCH_LOG:32",
       "C2": "ENCHANTED_BIRCH_LOG:32",
       "C3": "ENCHANTED_BIRCH_LOG:32"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -5762,8 +5733,7 @@
       "C1": "ENCHANTED_BIRCH_LOG:64",
       "C2": "ENCHANTED_BIRCH_LOG:64",
       "C3": "ENCHANTED_BIRCH_LOG:64"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -5844,8 +5814,7 @@
       "C1": "LOG-2:20",
       "C2": "LOG-2:20",
       "C3": "LOG-2:20"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -5883,8 +5852,7 @@
       "C1": "LOG-2:40",
       "C2": "LOG-2:40",
       "C3": "LOG-2:40"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -5922,8 +5890,7 @@
       "C1": "LOG-2:64",
       "C2": "LOG-2:64",
       "C3": "LOG-2:64"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -5961,8 +5928,7 @@
       "C1": "ENCHANTED_BIRCH_LOG:1",
       "C2": "ENCHANTED_BIRCH_LOG:1",
       "C3": "ENCHANTED_BIRCH_LOG:1"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -6000,8 +5966,7 @@
       "C1": "ENCHANTED_BIRCH_LOG:2",
       "C2": "ENCHANTED_BIRCH_LOG:2",
       "C3": "ENCHANTED_BIRCH_LOG:2"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -6039,8 +6004,7 @@
       "C1": "ENCHANTED_BIRCH_LOG:4",
       "C2": "ENCHANTED_BIRCH_LOG:4",
       "C3": "ENCHANTED_BIRCH_LOG:4"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -6078,8 +6042,7 @@
       "C1": "ENCHANTED_BIRCH_LOG:8",
       "C2": "ENCHANTED_BIRCH_LOG:8",
       "C3": "ENCHANTED_BIRCH_LOG:8"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -6117,8 +6080,7 @@
       "C1": "ENCHANTED_BIRCH_LOG:16",
       "C2": "ENCHANTED_BIRCH_LOG:16",
       "C3": "ENCHANTED_BIRCH_LOG:16"
-    },
-    "useneucraft": true
+    }
   },
   "BIRCH_WOOD_STAIRS": {
     "itemid": "minecraft:birch_stairs",
@@ -6399,8 +6361,7 @@
       "C1": "BLAZE_ROD:10",
       "C2": "BLAZE_ROD:10",
       "C3": "BLAZE_ROD:10"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -6437,8 +6398,7 @@
       "C1": "ENCHANTED_BLAZE_POWDER:64",
       "C2": "ENCHANTED_BLAZE_POWDER:64",
       "C3": "ENCHANTED_BLAZE_POWDER:64"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -6475,8 +6435,7 @@
       "C1": "ENCHANTED_BLAZE_ROD:1",
       "C2": "ENCHANTED_BLAZE_ROD:1",
       "C3": "ENCHANTED_BLAZE_ROD:1"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -6513,8 +6472,7 @@
       "C1": "BLAZE_ROD:20",
       "C2": "BLAZE_ROD:20",
       "C3": "BLAZE_ROD:20"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -6551,8 +6509,7 @@
       "C1": "BLAZE_ROD:40",
       "C2": "BLAZE_ROD:40",
       "C3": "BLAZE_ROD:40"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -6589,8 +6546,7 @@
       "C1": "BLAZE_ROD:64",
       "C2": "BLAZE_ROD:64",
       "C3": "BLAZE_ROD:64"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -6627,8 +6583,7 @@
       "C1": "ENCHANTED_BLAZE_POWDER:1",
       "C2": "ENCHANTED_BLAZE_POWDER:1",
       "C3": "ENCHANTED_BLAZE_POWDER:1"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -6665,8 +6620,7 @@
       "C1": "ENCHANTED_BLAZE_POWDER:3",
       "C2": "ENCHANTED_BLAZE_POWDER:3",
       "C3": "ENCHANTED_BLAZE_POWDER:3"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -6703,8 +6657,7 @@
       "C1": "ENCHANTED_BLAZE_POWDER:8",
       "C2": "ENCHANTED_BLAZE_POWDER:8",
       "C3": "ENCHANTED_BLAZE_POWDER:8"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -6741,8 +6694,7 @@
       "C1": "ENCHANTED_BLAZE_POWDER:16",
       "C2": "ENCHANTED_BLAZE_POWDER:16",
       "C3": "ENCHANTED_BLAZE_POWDER:16"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -6779,8 +6731,7 @@
       "C1": "ENCHANTED_BLAZE_POWDER:32",
       "C2": "ENCHANTED_BLAZE_POWDER:32",
       "C3": "ENCHANTED_BLAZE_POWDER:32"
-    },
-    "useneucraft": true
+    }
   },
   "BLAZE_HELMET": {
     "itemid": "minecraft:skull",
@@ -8768,8 +8719,7 @@
       "C1": "CACTUS:16",
       "C2": "CACTUS:16",
       "C3": "CACTUS:16"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -8807,8 +8757,7 @@
       "C1": "ENCHANTED_CACTUS:1",
       "C2": "ENCHANTED_CACTUS:1",
       "C3": "ENCHANTED_CACTUS:1"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -8846,8 +8795,7 @@
       "C1": "ENCHANTED_CACTUS:2",
       "C2": "ENCHANTED_CACTUS:2",
       "C3": "ENCHANTED_CACTUS:2"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -8885,8 +8833,7 @@
       "C1": "CACTUS:32",
       "C2": "CACTUS:32",
       "C3": "CACTUS:32"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -8924,8 +8871,7 @@
       "C1": "CACTUS:64",
       "C2": "CACTUS:64",
       "C3": "CACTUS:64"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -8963,8 +8909,7 @@
       "C1": "ENCHANTED_CACTUS_GREEN:1",
       "C2": "ENCHANTED_CACTUS_GREEN:1",
       "C3": "ENCHANTED_CACTUS_GREEN:1"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -9002,8 +8947,7 @@
       "C1": "ENCHANTED_CACTUS_GREEN:3",
       "C2": "ENCHANTED_CACTUS_GREEN:3",
       "C3": "ENCHANTED_CACTUS_GREEN:3"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -9041,8 +8985,7 @@
       "C1": "ENCHANTED_CACTUS_GREEN:8",
       "C2": "ENCHANTED_CACTUS_GREEN:8",
       "C3": "ENCHANTED_CACTUS_GREEN:8"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -9080,8 +9023,7 @@
       "C1": "ENCHANTED_CACTUS_GREEN:16",
       "C2": "ENCHANTED_CACTUS_GREEN:16",
       "C3": "ENCHANTED_CACTUS_GREEN:16"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -9119,8 +9061,7 @@
       "C1": "ENCHANTED_CACTUS_GREEN:32",
       "C2": "ENCHANTED_CACTUS_GREEN:32",
       "C3": "ENCHANTED_CACTUS_GREEN:32"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -9158,8 +9099,7 @@
       "C1": "ENCHANTED_CACTUS_GREEN:64",
       "C2": "ENCHANTED_CACTUS_GREEN:64",
       "C3": "ENCHANTED_CACTUS_GREEN:64"
-    },
-    "useneucraft": true
+    }
   },
   "CACTUS_HELMET": {
     "itemid": "minecraft:leather_helmet",
@@ -10129,8 +10069,7 @@
       "C1": "CARROT_ITEM:16",
       "C2": "CARROT_ITEM:16",
       "C3": "CARROT_ITEM:16"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -10168,8 +10107,7 @@
       "C1": "ENCHANTED_GOLDEN_CARROT:1",
       "C2": "ENCHANTED_GOLDEN_CARROT:1",
       "C3": "ENCHANTED_GOLDEN_CARROT:1"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -10207,8 +10145,7 @@
       "C1": "ENCHANTED_GOLDEN_CARROT:2",
       "C2": "ENCHANTED_GOLDEN_CARROT:2",
       "C3": "ENCHANTED_GOLDEN_CARROT:2"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -10246,8 +10183,7 @@
       "C1": "CARROT_ITEM:32",
       "C2": "CARROT_ITEM:32",
       "C3": "CARROT_ITEM:32"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -10285,8 +10221,7 @@
       "C1": "CARROT_ITEM:64",
       "C2": "CARROT_ITEM:64",
       "C3": "CARROT_ITEM:64"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -10324,8 +10259,7 @@
       "C1": "ENCHANTED_CARROT:1",
       "C2": "ENCHANTED_CARROT:1",
       "C3": "ENCHANTED_CARROT:1"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -10363,8 +10297,7 @@
       "C1": "ENCHANTED_CARROT:3",
       "C2": "ENCHANTED_CARROT:3",
       "C3": "ENCHANTED_CARROT:3"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -10402,8 +10335,7 @@
       "C1": "ENCHANTED_CARROT:8",
       "C2": "ENCHANTED_CARROT:8",
       "C3": "ENCHANTED_CARROT:8"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -10441,8 +10373,7 @@
       "C1": "ENCHANTED_CARROT:16",
       "C2": "ENCHANTED_CARROT:16",
       "C3": "ENCHANTED_CARROT:16"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -10480,8 +10411,7 @@
       "C1": "ENCHANTED_CARROT:32",
       "C2": "ENCHANTED_CARROT:32",
       "C3": "ENCHANTED_CARROT:32"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -10519,8 +10449,7 @@
       "C1": "ENCHANTED_CARROT:64",
       "C2": "ENCHANTED_CARROT:64",
       "C3": "ENCHANTED_CARROT:64"
-    },
-    "useneucraft": true
+    }
   },
   "CARROT_STICK": {
     "itemid": "minecraft:carrot_on_a_stick",
@@ -10679,8 +10608,7 @@
       "C1": "SPIDER_EYE:10",
       "C2": "SPIDER_EYE:10",
       "C3": "SPIDER_EYE:10"
-    },
-    "useneucraft": true
+    }
   },
   "CAVESPIDER_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -10717,8 +10645,7 @@
       "C1": "ENCHANTED_SPIDER_EYE:64",
       "C2": "ENCHANTED_SPIDER_EYE:64",
       "C3": "ENCHANTED_SPIDER_EYE:64"
-    },
-    "useneucraft": true
+    }
   },
   "CAVESPIDER_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -10755,8 +10682,7 @@
       "C1": "ENCHANTED_FERMENTED_SPIDER_EYE:2",
       "C2": "ENCHANTED_FERMENTED_SPIDER_EYE:2",
       "C3": "ENCHANTED_FERMENTED_SPIDER_EYE:2"
-    },
-    "useneucraft": true
+    }
   },
   "CAVESPIDER_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -10793,8 +10719,7 @@
       "C1": "SPIDER_EYE:20",
       "C2": "SPIDER_EYE:20",
       "C3": "SPIDER_EYE:20"
-    },
-    "useneucraft": true
+    }
   },
   "CAVESPIDER_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -10831,8 +10756,7 @@
       "C1": "SPIDER_EYE:40",
       "C2": "SPIDER_EYE:40",
       "C3": "SPIDER_EYE:40"
-    },
-    "useneucraft": true
+    }
   },
   "CAVESPIDER_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -10869,8 +10793,7 @@
       "C1": "SPIDER_EYE:64",
       "C2": "SPIDER_EYE:64",
       "C3": "SPIDER_EYE:64"
-    },
-    "useneucraft": true
+    }
   },
   "CAVESPIDER_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -10907,8 +10830,7 @@
       "C1": "ENCHANTED_SPIDER_EYE:1",
       "C2": "ENCHANTED_SPIDER_EYE:1",
       "C3": "ENCHANTED_SPIDER_EYE:1"
-    },
-    "useneucraft": true
+    }
   },
   "CAVESPIDER_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -10945,8 +10867,7 @@
       "C1": "ENCHANTED_SPIDER_EYE:3",
       "C2": "ENCHANTED_SPIDER_EYE:3",
       "C3": "ENCHANTED_SPIDER_EYE:3"
-    },
-    "useneucraft": true
+    }
   },
   "CAVESPIDER_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -10983,8 +10904,7 @@
       "C1": "ENCHANTED_SPIDER_EYE:8",
       "C2": "ENCHANTED_SPIDER_EYE:8",
       "C3": "ENCHANTED_SPIDER_EYE:8"
-    },
-    "useneucraft": true
+    }
   },
   "CAVESPIDER_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -11021,8 +10941,7 @@
       "C1": "ENCHANTED_SPIDER_EYE:16",
       "C2": "ENCHANTED_SPIDER_EYE:16",
       "C3": "ENCHANTED_SPIDER_EYE:16"
-    },
-    "useneucraft": true
+    }
   },
   "CAVESPIDER_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -11059,8 +10978,7 @@
       "C1": "ENCHANTED_SPIDER_EYE:32",
       "C2": "ENCHANTED_SPIDER_EYE:32",
       "C3": "ENCHANTED_SPIDER_EYE:32"
-    },
-    "useneucraft": true
+    }
   },
   "CAYENNE;4": {
     "itemid": "minecraft:enchanted_book",
@@ -11822,8 +11740,7 @@
       "C1": "RAW_CHICKEN:8",
       "C2": "RAW_CHICKEN:8",
       "C3": "RAW_CHICKEN:8"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -11860,8 +11777,7 @@
       "C1": "ENCHANTED_RAW_CHICKEN:32",
       "C2": "ENCHANTED_RAW_CHICKEN:32",
       "C3": "ENCHANTED_RAW_CHICKEN:32"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -11898,8 +11814,7 @@
       "C1": "ENCHANTED_RAW_CHICKEN:64",
       "C2": "ENCHANTED_RAW_CHICKEN:64",
       "C3": "ENCHANTED_RAW_CHICKEN:64"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -11936,8 +11851,7 @@
       "C1": "RAW_CHICKEN:16",
       "C2": "RAW_CHICKEN:16",
       "C3": "RAW_CHICKEN:16"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -11974,8 +11888,7 @@
       "C1": "RAW_CHICKEN:32",
       "C2": "RAW_CHICKEN:32",
       "C3": "RAW_CHICKEN:32"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -12012,8 +11925,7 @@
       "C1": "RAW_CHICKEN:64",
       "C2": "RAW_CHICKEN:64",
       "C3": "RAW_CHICKEN:64"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -12050,8 +11962,7 @@
       "C1": "ENCHANTED_RAW_CHICKEN:1",
       "C2": "ENCHANTED_RAW_CHICKEN:1",
       "C3": "ENCHANTED_RAW_CHICKEN:1"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -12088,8 +11999,7 @@
       "C1": "ENCHANTED_RAW_CHICKEN:2",
       "C2": "ENCHANTED_RAW_CHICKEN:2",
       "C3": "ENCHANTED_RAW_CHICKEN:2"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -12126,8 +12036,7 @@
       "C1": "ENCHANTED_RAW_CHICKEN:4",
       "C2": "ENCHANTED_RAW_CHICKEN:4",
       "C3": "ENCHANTED_RAW_CHICKEN:4"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -12164,8 +12073,7 @@
       "C1": "ENCHANTED_RAW_CHICKEN:8",
       "C2": "ENCHANTED_RAW_CHICKEN:8",
       "C3": "ENCHANTED_RAW_CHICKEN:8"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -12202,8 +12110,7 @@
       "C1": "ENCHANTED_RAW_CHICKEN:16",
       "C2": "ENCHANTED_RAW_CHICKEN:16",
       "C3": "ENCHANTED_RAW_CHICKEN:16"
-    },
-    "useneucraft": true
+    }
   },
   "CHICKEN_HEAD": {
     "itemid": "minecraft:skull",
@@ -12408,8 +12315,7 @@
       "C1": "CLAY_BALL:10",
       "C2": "CLAY_BALL:10",
       "C3": "CLAY_BALL:10"
-    },
-    "useneucraft": true
+    }
   },
   "CLAY_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -12446,8 +12352,7 @@
       "C1": "ENCHANTED_CLAY_BALL:32",
       "C2": "ENCHANTED_CLAY_BALL:32",
       "C3": "ENCHANTED_CLAY_BALL:32"
-    },
-    "useneucraft": true
+    }
   },
   "CLAY_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -12484,8 +12389,7 @@
       "C1": "ENCHANTED_CLAY_BALL:64",
       "C2": "ENCHANTED_CLAY_BALL:64",
       "C3": "ENCHANTED_CLAY_BALL:64"
-    },
-    "useneucraft": true
+    }
   },
   "CLAY_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -12559,8 +12463,7 @@
       "C1": "CLAY_BALL:20",
       "C2": "CLAY_BALL:20",
       "C3": "CLAY_BALL:20"
-    },
-    "useneucraft": true
+    }
   },
   "CLAY_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -12597,8 +12500,7 @@
       "C1": "CLAY_BALL:40",
       "C2": "CLAY_BALL:40",
       "C3": "CLAY_BALL:40"
-    },
-    "useneucraft": true
+    }
   },
   "CLAY_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -12635,8 +12537,7 @@
       "C1": "CLAY_BALL:64",
       "C2": "CLAY_BALL:64",
       "C3": "CLAY_BALL:64"
-    },
-    "useneucraft": true
+    }
   },
   "CLAY_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -12673,8 +12574,7 @@
       "C1": "ENCHANTED_CLAY_BALL:1",
       "C2": "ENCHANTED_CLAY_BALL:1",
       "C3": "ENCHANTED_CLAY_BALL:1"
-    },
-    "useneucraft": true
+    }
   },
   "CLAY_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -12711,8 +12611,7 @@
       "C1": "ENCHANTED_CLAY_BALL:2",
       "C2": "ENCHANTED_CLAY_BALL:2",
       "C3": "ENCHANTED_CLAY_BALL:2"
-    },
-    "useneucraft": true
+    }
   },
   "CLAY_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -12749,8 +12648,7 @@
       "C1": "ENCHANTED_CLAY_BALL:4",
       "C2": "ENCHANTED_CLAY_BALL:4",
       "C3": "ENCHANTED_CLAY_BALL:4"
-    },
-    "useneucraft": true
+    }
   },
   "CLAY_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -12787,8 +12685,7 @@
       "C1": "ENCHANTED_CLAY_BALL:8",
       "C2": "ENCHANTED_CLAY_BALL:8",
       "C3": "ENCHANTED_CLAY_BALL:8"
-    },
-    "useneucraft": true
+    }
   },
   "CLAY_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -12825,8 +12722,7 @@
       "C1": "ENCHANTED_CLAY_BALL:16",
       "C2": "ENCHANTED_CLAY_BALL:16",
       "C3": "ENCHANTED_CLAY_BALL:16"
-    },
-    "useneucraft": true
+    }
   },
   "CLEAVER": {
     "itemid": "minecraft:golden_sword",
@@ -13041,8 +12937,7 @@
       "C1": "COAL:10",
       "C2": "COAL:10",
       "C3": "COAL:10"
-    },
-    "useneucraft": true
+    }
   },
   "COAL_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -13080,8 +12975,7 @@
       "C1": "ENCHANTED_COAL:64",
       "C2": "ENCHANTED_COAL:64",
       "C3": "ENCHANTED_COAL:64"
-    },
-    "useneucraft": true
+    }
   },
   "COAL_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -13119,8 +13013,7 @@
       "C1": "ENCHANTED_COAL_BLOCK:1",
       "C2": "ENCHANTED_COAL_BLOCK:1",
       "C3": "ENCHANTED_COAL_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "COAL_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -13158,8 +13051,7 @@
       "C1": "COAL:20",
       "C2": "COAL:20",
       "C3": "COAL:20"
-    },
-    "useneucraft": true
+    }
   },
   "COAL_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -13197,8 +13089,7 @@
       "C1": "COAL:40",
       "C2": "COAL:40",
       "C3": "COAL:40"
-    },
-    "useneucraft": true
+    }
   },
   "COAL_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -13236,8 +13127,7 @@
       "C1": "COAL:64",
       "C2": "COAL:64",
       "C3": "COAL:64"
-    },
-    "useneucraft": true
+    }
   },
   "COAL_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -13275,8 +13165,7 @@
       "C1": "ENCHANTED_COAL:1",
       "C2": "ENCHANTED_COAL:1",
       "C3": "ENCHANTED_COAL:1"
-    },
-    "useneucraft": true
+    }
   },
   "COAL_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -13314,8 +13203,7 @@
       "C1": "ENCHANTED_COAL:3",
       "C2": "ENCHANTED_COAL:3",
       "C3": "ENCHANTED_COAL:3"
-    },
-    "useneucraft": true
+    }
   },
   "COAL_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -13353,8 +13241,7 @@
       "C1": "ENCHANTED_COAL:8",
       "C2": "ENCHANTED_COAL:8",
       "C3": "ENCHANTED_COAL:8"
-    },
-    "useneucraft": true
+    }
   },
   "COAL_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -13392,8 +13279,7 @@
       "C1": "ENCHANTED_COAL:16",
       "C2": "ENCHANTED_COAL:16",
       "C3": "ENCHANTED_COAL:16"
-    },
-    "useneucraft": true
+    }
   },
   "COAL_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -13431,8 +13317,7 @@
       "C1": "ENCHANTED_COAL:32",
       "C2": "ENCHANTED_COAL:32",
       "C3": "ENCHANTED_COAL:32"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_1": {
     "itemid": "minecraft:skull",
@@ -13470,8 +13355,7 @@
       "C1": "COBBLESTONE:10",
       "C2": "COBBLESTONE:10",
       "C3": "COBBLESTONE:10"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -13509,8 +13393,7 @@
       "C1": "ENCHANTED_COBBLESTONE:32",
       "C2": "ENCHANTED_COBBLESTONE:32",
       "C3": "ENCHANTED_COBBLESTONE:32"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -13548,8 +13431,7 @@
       "C1": "ENCHANTED_COBBLESTONE:64",
       "C2": "ENCHANTED_COBBLESTONE:64",
       "C3": "ENCHANTED_COBBLESTONE:64"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -13587,8 +13469,7 @@
       "C1": "COBBLESTONE:20",
       "C2": "COBBLESTONE:20",
       "C3": "COBBLESTONE:20"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -13626,8 +13507,7 @@
       "C1": "COBBLESTONE:40",
       "C2": "COBBLESTONE:40",
       "C3": "COBBLESTONE:40"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -13665,8 +13545,7 @@
       "C1": "COBBLESTONE:64",
       "C2": "COBBLESTONE:64",
       "C3": "COBBLESTONE:64"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -13704,8 +13583,7 @@
       "C1": "ENCHANTED_COBBLESTONE:1",
       "C2": "ENCHANTED_COBBLESTONE:1",
       "C3": "ENCHANTED_COBBLESTONE:1"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -13743,8 +13621,7 @@
       "C1": "ENCHANTED_COBBLESTONE:2",
       "C2": "ENCHANTED_COBBLESTONE:2",
       "C3": "ENCHANTED_COBBLESTONE:2"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -13782,8 +13659,7 @@
       "C1": "ENCHANTED_COBBLESTONE:4",
       "C2": "ENCHANTED_COBBLESTONE:4",
       "C3": "ENCHANTED_COBBLESTONE:4"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -13821,8 +13697,7 @@
       "C1": "ENCHANTED_COBBLESTONE:8",
       "C2": "ENCHANTED_COBBLESTONE:8",
       "C3": "ENCHANTED_COBBLESTONE:8"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -13860,8 +13735,7 @@
       "C1": "ENCHANTED_COBBLESTONE:16",
       "C2": "ENCHANTED_COBBLESTONE:16",
       "C3": "ENCHANTED_COBBLESTONE:16"
-    },
-    "useneucraft": true
+    }
   },
   "COBBLESTONE_STAIRS": {
     "itemid": "minecraft:stone_stairs",
@@ -13905,7 +13779,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "COBBLE_WALL",
     "vanilla": true,
     "recipe": {
       "A1": "MOSSY_COBBLESTONE:1",
@@ -13986,8 +13859,7 @@
       "C1": "INK_SACK-3:10",
       "C2": "INK_SACK-3:10",
       "C3": "INK_SACK-3:10"
-    },
-    "useneucraft": true
+    }
   },
   "COCOA_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -14027,8 +13899,7 @@
       "C1": "ENCHANTED_COCOA:64",
       "C2": "ENCHANTED_COCOA:64",
       "C3": "ENCHANTED_COCOA:64"
-    },
-    "useneucraft": true
+    }
   },
   "COCOA_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -14068,8 +13939,7 @@
       "C1": "ENCHANTED_COOKIE:1",
       "C2": "ENCHANTED_COOKIE:1",
       "C3": "ENCHANTED_COOKIE:1"
-    },
-    "useneucraft": true
+    }
   },
   "COCOA_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -14109,8 +13979,7 @@
       "C1": "INK_SACK-3:20",
       "C2": "INK_SACK-3:20",
       "C3": "INK_SACK-3:20"
-    },
-    "useneucraft": true
+    }
   },
   "COCOA_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -14150,8 +14019,7 @@
       "C1": "INK_SACK-3:40",
       "C2": "INK_SACK-3:40",
       "C3": "INK_SACK-3:40"
-    },
-    "useneucraft": true
+    }
   },
   "COCOA_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -14191,8 +14059,7 @@
       "C1": "INK_SACK-3:64",
       "C2": "INK_SACK-3:64",
       "C3": "INK_SACK-3:64"
-    },
-    "useneucraft": true
+    }
   },
   "COCOA_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -14232,8 +14099,7 @@
       "C1": "ENCHANTED_COCOA:1",
       "C2": "ENCHANTED_COCOA:1",
       "C3": "ENCHANTED_COCOA:1"
-    },
-    "useneucraft": true
+    }
   },
   "COCOA_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -14273,8 +14139,7 @@
       "C1": "ENCHANTED_COCOA:3",
       "C2": "ENCHANTED_COCOA:3",
       "C3": "ENCHANTED_COCOA:3"
-    },
-    "useneucraft": true
+    }
   },
   "COCOA_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -14314,8 +14179,7 @@
       "C1": "ENCHANTED_COCOA:8",
       "C2": "ENCHANTED_COCOA:8",
       "C3": "ENCHANTED_COCOA:8"
-    },
-    "useneucraft": true
+    }
   },
   "COCOA_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -14355,8 +14219,7 @@
       "C1": "ENCHANTED_COCOA:16",
       "C2": "ENCHANTED_COCOA:16",
       "C3": "ENCHANTED_COCOA:16"
-    },
-    "useneucraft": true
+    }
   },
   "COCOA_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -14396,8 +14259,7 @@
       "C1": "ENCHANTED_COCOA:32",
       "C2": "ENCHANTED_COCOA:32",
       "C3": "ENCHANTED_COCOA:32"
-    },
-    "useneucraft": true
+    }
   },
   "COCO_CHOPPER_2": {
     "itemid": "minecraft:golden_axe",
@@ -15174,8 +15036,7 @@
       "C1": "RAW_BEEF:8",
       "C2": "RAW_BEEF:8",
       "C3": "RAW_BEEF:8"
-    },
-    "useneucraft": true
+    }
   },
   "COW_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -15211,8 +15072,7 @@
       "C1": "ENCHANTED_RAW_BEEF:64",
       "C2": "ENCHANTED_RAW_BEEF:64",
       "C3": "ENCHANTED_RAW_BEEF:64"
-    },
-    "useneucraft": true
+    }
   },
   "COW_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -15248,8 +15108,7 @@
       "C1": "ENCHANTED_LEATHER:64",
       "C2": "ENCHANTED_LEATHER:64",
       "C3": "ENCHANTED_LEATHER:64"
-    },
-    "useneucraft": true
+    }
   },
   "COW_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -15285,8 +15144,7 @@
       "C1": "RAW_BEEF:16",
       "C2": "RAW_BEEF:16",
       "C3": "RAW_BEEF:16"
-    },
-    "useneucraft": true
+    }
   },
   "COW_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -15322,8 +15180,7 @@
       "C1": "RAW_BEEF:32",
       "C2": "RAW_BEEF:32",
       "C3": "RAW_BEEF:32"
-    },
-    "useneucraft": true
+    }
   },
   "COW_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -15359,8 +15216,7 @@
       "C1": "RAW_BEEF:64",
       "C2": "RAW_BEEF:64",
       "C3": "RAW_BEEF:64"
-    },
-    "useneucraft": true
+    }
   },
   "COW_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -15396,8 +15252,7 @@
       "C1": "ENCHANTED_RAW_BEEF:1",
       "C2": "ENCHANTED_RAW_BEEF:1",
       "C3": "ENCHANTED_RAW_BEEF:1"
-    },
-    "useneucraft": true
+    }
   },
   "COW_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -15433,8 +15288,7 @@
       "C1": "ENCHANTED_RAW_BEEF:3",
       "C2": "ENCHANTED_RAW_BEEF:3",
       "C3": "ENCHANTED_RAW_BEEF:3"
-    },
-    "useneucraft": true
+    }
   },
   "COW_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -15470,8 +15324,7 @@
       "C1": "ENCHANTED_RAW_BEEF:8",
       "C2": "ENCHANTED_RAW_BEEF:8",
       "C3": "ENCHANTED_RAW_BEEF:8"
-    },
-    "useneucraft": true
+    }
   },
   "COW_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -15507,8 +15360,7 @@
       "C1": "ENCHANTED_RAW_BEEF:16",
       "C2": "ENCHANTED_RAW_BEEF:16",
       "C3": "ENCHANTED_RAW_BEEF:16"
-    },
-    "useneucraft": true
+    }
   },
   "COW_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -15544,8 +15396,7 @@
       "C1": "ENCHANTED_RAW_BEEF:32",
       "C2": "ENCHANTED_RAW_BEEF:32",
       "C3": "ENCHANTED_RAW_BEEF:32"
-    },
-    "useneucraft": true
+    }
   },
   "COW_HEAD": {
     "itemid": "minecraft:skull",
@@ -15617,8 +15468,7 @@
       "C1": "SULPHUR:10",
       "C2": "SULPHUR:10",
       "C3": "SULPHUR:10"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -15655,8 +15505,7 @@
       "C1": "ENCHANTED_GUNPOWDER:64",
       "C2": "ENCHANTED_GUNPOWDER:64",
       "C3": "ENCHANTED_GUNPOWDER:64"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -15693,8 +15542,7 @@
       "C1": "ENCHANTED_FIREWORK_ROCKET:2",
       "C2": "ENCHANTED_FIREWORK_ROCKET:2",
       "C3": "ENCHANTED_FIREWORK_ROCKET:2"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -15731,8 +15579,7 @@
       "C1": "SULPHUR:20",
       "C2": "SULPHUR:20",
       "C3": "SULPHUR:20"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -15769,8 +15616,7 @@
       "C1": "SULPHUR:40",
       "C2": "SULPHUR:40",
       "C3": "SULPHUR:40"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -15807,8 +15653,7 @@
       "C1": "SULPHUR:64",
       "C2": "SULPHUR:64",
       "C3": "SULPHUR:64"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -15845,8 +15690,7 @@
       "C1": "ENCHANTED_GUNPOWDER:1",
       "C2": "ENCHANTED_GUNPOWDER:1",
       "C3": "ENCHANTED_GUNPOWDER:1"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -15883,8 +15727,7 @@
       "C1": "ENCHANTED_GUNPOWDER:3",
       "C2": "ENCHANTED_GUNPOWDER:3",
       "C3": "ENCHANTED_GUNPOWDER:3"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -15921,8 +15764,7 @@
       "C1": "ENCHANTED_GUNPOWDER:8",
       "C2": "ENCHANTED_GUNPOWDER:8",
       "C3": "ENCHANTED_GUNPOWDER:8"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -15959,8 +15801,7 @@
       "C1": "ENCHANTED_GUNPOWDER:16",
       "C2": "ENCHANTED_GUNPOWDER:16",
       "C3": "ENCHANTED_GUNPOWDER:16"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -15997,8 +15838,7 @@
       "C1": "ENCHANTED_GUNPOWDER:32",
       "C2": "ENCHANTED_GUNPOWDER:32",
       "C3": "ENCHANTED_GUNPOWDER:32"
-    },
-    "useneucraft": true
+    }
   },
   "CREEPER_HAT": {
     "itemid": "minecraft:skull",
@@ -17458,8 +17298,7 @@
       "C1": "LOG_2-1:10",
       "C2": "LOG_2-1:10",
       "C3": "LOG_2-1:10"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -17497,8 +17336,7 @@
       "C1": "ENCHANTED_DARK_OAK_LOG:32",
       "C2": "ENCHANTED_DARK_OAK_LOG:32",
       "C3": "ENCHANTED_DARK_OAK_LOG:32"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -17536,8 +17374,7 @@
       "C1": "ENCHANTED_DARK_OAK_LOG:64",
       "C2": "ENCHANTED_DARK_OAK_LOG:64",
       "C3": "ENCHANTED_DARK_OAK_LOG:64"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -17618,8 +17455,7 @@
       "C1": "LOG_2-1:20",
       "C2": "LOG_2-1:20",
       "C3": "LOG_2-1:20"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -17657,8 +17493,7 @@
       "C1": "LOG_2-1:40",
       "C2": "LOG_2-1:40",
       "C3": "LOG_2-1:40"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -17696,8 +17531,7 @@
       "C1": "LOG_2-1:64",
       "C2": "LOG_2-1:64",
       "C3": "LOG_2-1:64"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -17735,8 +17569,7 @@
       "C1": "ENCHANTED_DARK_OAK_LOG:1",
       "C2": "ENCHANTED_DARK_OAK_LOG:1",
       "C3": "ENCHANTED_DARK_OAK_LOG:1"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -17774,8 +17607,7 @@
       "C1": "ENCHANTED_DARK_OAK_LOG:2",
       "C2": "ENCHANTED_DARK_OAK_LOG:2",
       "C3": "ENCHANTED_DARK_OAK_LOG:2"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -17813,8 +17645,7 @@
       "C1": "ENCHANTED_DARK_OAK_LOG:4",
       "C2": "ENCHANTED_DARK_OAK_LOG:4",
       "C3": "ENCHANTED_DARK_OAK_LOG:4"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -17852,8 +17683,7 @@
       "C1": "ENCHANTED_DARK_OAK_LOG:8",
       "C2": "ENCHANTED_DARK_OAK_LOG:8",
       "C3": "ENCHANTED_DARK_OAK_LOG:8"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -17891,8 +17721,7 @@
       "C1": "ENCHANTED_DARK_OAK_LOG:16",
       "C2": "ENCHANTED_DARK_OAK_LOG:16",
       "C3": "ENCHANTED_DARK_OAK_LOG:16"
-    },
-    "useneucraft": true
+    }
   },
   "DARK_OAK_STAIRS": {
     "itemid": "minecraft:dark_oak_stairs",
@@ -18654,8 +18483,7 @@
       "C1": "DIAMOND:10",
       "C2": "DIAMOND:10",
       "C3": "DIAMOND:10"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -18693,8 +18521,7 @@
       "C1": "ENCHANTED_DIAMOND:64",
       "C2": "ENCHANTED_DIAMOND:64",
       "C3": "ENCHANTED_DIAMOND:64"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -18732,8 +18559,7 @@
       "C1": "ENCHANTED_DIAMOND_BLOCK:1",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": "ENCHANTED_DIAMOND_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -18771,8 +18597,7 @@
       "C1": "DIAMOND:20",
       "C2": "DIAMOND:20",
       "C3": "DIAMOND:20"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -18810,8 +18635,7 @@
       "C1": "DIAMOND:40",
       "C2": "DIAMOND:40",
       "C3": "DIAMOND:40"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -18849,8 +18673,7 @@
       "C1": "DIAMOND:64",
       "C2": "DIAMOND:64",
       "C3": "DIAMOND:64"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -18888,8 +18711,7 @@
       "C1": "ENCHANTED_DIAMOND:1",
       "C2": "ENCHANTED_DIAMOND:1",
       "C3": "ENCHANTED_DIAMOND:1"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -18927,8 +18749,7 @@
       "C1": "ENCHANTED_DIAMOND:3",
       "C2": "ENCHANTED_DIAMOND:3",
       "C3": "ENCHANTED_DIAMOND:3"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -18966,8 +18787,7 @@
       "C1": "ENCHANTED_DIAMOND:8",
       "C2": "ENCHANTED_DIAMOND:8",
       "C3": "ENCHANTED_DIAMOND:8"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -19005,8 +18825,7 @@
       "C1": "ENCHANTED_DIAMOND:16",
       "C2": "ENCHANTED_DIAMOND:16",
       "C3": "ENCHANTED_DIAMOND:16"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -19044,8 +18863,7 @@
       "C1": "ENCHANTED_DIAMOND:32",
       "C2": "ENCHANTED_DIAMOND:32",
       "C3": "ENCHANTED_DIAMOND:32"
-    },
-    "useneucraft": true
+    }
   },
   "DIAMOND_HELMET": {
     "itemid": "minecraft:diamond_helmet",
@@ -21475,8 +21293,7 @@
       "C1": "EMERALD:10",
       "C2": "EMERALD:10",
       "C3": "EMERALD:10"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -21514,8 +21331,7 @@
       "C1": "ENCHANTED_EMERALD:64",
       "C2": "ENCHANTED_EMERALD:64",
       "C3": "ENCHANTED_EMERALD:64"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -21553,8 +21369,7 @@
       "C1": "ENCHANTED_EMERALD_BLOCK:1",
       "C2": "ENCHANTED_EMERALD_BLOCK:1",
       "C3": "ENCHANTED_EMERALD_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -21592,8 +21407,7 @@
       "C1": "EMERALD:20",
       "C2": "EMERALD:20",
       "C3": "EMERALD:20"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -21631,8 +21445,7 @@
       "C1": "EMERALD:40",
       "C2": "EMERALD:40",
       "C3": "EMERALD:40"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -21670,8 +21483,7 @@
       "C1": "EMERALD:64",
       "C2": "EMERALD:64",
       "C3": "EMERALD:64"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -21709,8 +21521,7 @@
       "C1": "ENCHANTED_EMERALD:1",
       "C2": "ENCHANTED_EMERALD:1",
       "C3": "ENCHANTED_EMERALD:1"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -21748,8 +21559,7 @@
       "C1": "ENCHANTED_EMERALD:3",
       "C2": "ENCHANTED_EMERALD:3",
       "C3": "ENCHANTED_EMERALD:3"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -21787,8 +21597,7 @@
       "C1": "ENCHANTED_EMERALD:8",
       "C2": "ENCHANTED_EMERALD:8",
       "C3": "ENCHANTED_EMERALD:8"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -21826,8 +21635,7 @@
       "C1": "ENCHANTED_EMERALD:16",
       "C2": "ENCHANTED_EMERALD:16",
       "C3": "ENCHANTED_EMERALD:16"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -21865,8 +21673,7 @@
       "C1": "ENCHANTED_EMERALD:32",
       "C2": "ENCHANTED_EMERALD:32",
       "C3": "ENCHANTED_EMERALD:32"
-    },
-    "useneucraft": true
+    }
   },
   "EMERALD_RING": {
     "itemid": "minecraft:skull",
@@ -23377,7 +23184,7 @@
     "internalname": "ENCHANTED_ENDER_PEARL",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Ender Pearl II",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Ender_Pearl"
@@ -24504,7 +24311,7 @@
     "internalname": "ENCHANTED_LAPIS_LAZULI_BLOCK",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Lapis Lazuli VII",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Lapis_Lazuli_Block"
@@ -26037,7 +25844,7 @@
     "internalname": "ENCHANTED_SHEARS",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Shears"
@@ -26920,8 +26727,7 @@
       "C1": "ENDER_PEARL:8",
       "C2": "ENDER_PEARL:8",
       "C3": "ENDER_PEARL:8"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMAN_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -26958,8 +26764,7 @@
       "C1": "ENCHANTED_EYE_OF_ENDER:12",
       "C2": "ENCHANTED_EYE_OF_ENDER:12",
       "C3": "ENCHANTED_EYE_OF_ENDER:12"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMAN_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -26996,8 +26801,7 @@
       "C1": "ENCHANTED_EYE_OF_ENDER:24",
       "C2": "ENCHANTED_EYE_OF_ENDER:24",
       "C3": "ENCHANTED_EYE_OF_ENDER:24"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMAN_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -27034,8 +26838,7 @@
       "C1": "ENDER_PEARL:16",
       "C2": "ENDER_PEARL:16",
       "C3": "ENDER_PEARL:16"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMAN_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -27072,8 +26875,7 @@
       "C1": "ENCHANTED_ENDER_PEARL:1",
       "C2": "ENCHANTED_ENDER_PEARL:1",
       "C3": "ENCHANTED_ENDER_PEARL:1"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMAN_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -27110,8 +26912,7 @@
       "C1": "ENCHANTED_ENDER_PEARL:3",
       "C2": "ENCHANTED_ENDER_PEARL:3",
       "C3": "ENCHANTED_ENDER_PEARL:3"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMAN_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -27148,8 +26949,7 @@
       "C1": "ENCHANTED_ENDER_PEARL:6",
       "C2": "ENCHANTED_ENDER_PEARL:6",
       "C3": "ENCHANTED_ENDER_PEARL:6"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMAN_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -27186,8 +26986,7 @@
       "C1": "ENCHANTED_ENDER_PEARL:12",
       "C2": "ENCHANTED_ENDER_PEARL:12",
       "C3": "ENCHANTED_ENDER_PEARL:12"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMAN_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -27224,8 +27023,7 @@
       "C1": "ENCHANTED_EYE_OF_ENDER:1",
       "C2": "ENCHANTED_EYE_OF_ENDER:1",
       "C3": "ENCHANTED_EYE_OF_ENDER:1"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMAN_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -27262,8 +27060,7 @@
       "C1": "ENCHANTED_EYE_OF_ENDER:3",
       "C2": "ENCHANTED_EYE_OF_ENDER:3",
       "C3": "ENCHANTED_EYE_OF_ENDER:3"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMAN_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -27300,8 +27097,7 @@
       "C1": "ENCHANTED_EYE_OF_ENDER:6",
       "C2": "ENCHANTED_EYE_OF_ENDER:6",
       "C3": "ENCHANTED_EYE_OF_ENDER:6"
-    },
-    "useneucraft": true
+    }
   },
   "ENDERMITE;0": {
     "itemid": "minecraft:skull",
@@ -27486,8 +27282,7 @@
       "C1": "ENDER_STONE:10",
       "C2": "ENDER_STONE:10",
       "C3": "ENDER_STONE:10"
-    },
-    "useneucraft": true
+    }
   },
   "ENDER_STONE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -27525,8 +27320,7 @@
       "C1": "ENCHANTED_ENDSTONE:32",
       "C2": "ENCHANTED_ENDSTONE:32",
       "C3": "ENCHANTED_ENDSTONE:32"
-    },
-    "useneucraft": true
+    }
   },
   "ENDER_STONE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -27564,8 +27358,7 @@
       "C1": "ENCHANTED_ENDSTONE:64",
       "C2": "ENCHANTED_ENDSTONE:64",
       "C3": "ENCHANTED_ENDSTONE:64"
-    },
-    "useneucraft": true
+    }
   },
   "ENDER_STONE_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -27603,8 +27396,7 @@
       "C1": "ENDER_STONE:20",
       "C2": "ENDER_STONE:20",
       "C3": "ENDER_STONE:20"
-    },
-    "useneucraft": true
+    }
   },
   "ENDER_STONE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -27642,8 +27434,7 @@
       "C1": "ENDER_STONE:40",
       "C2": "ENDER_STONE:40",
       "C3": "ENDER_STONE:40"
-    },
-    "useneucraft": true
+    }
   },
   "ENDER_STONE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -27681,8 +27472,7 @@
       "C1": "ENDER_STONE:64",
       "C2": "ENDER_STONE:64",
       "C3": "ENDER_STONE:64"
-    },
-    "useneucraft": true
+    }
   },
   "ENDER_STONE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -27720,8 +27510,7 @@
       "C1": "ENCHANTED_ENDSTONE:1",
       "C2": "ENCHANTED_ENDSTONE:1",
       "C3": "ENCHANTED_ENDSTONE:1"
-    },
-    "useneucraft": true
+    }
   },
   "ENDER_STONE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -27759,8 +27548,7 @@
       "C1": "ENCHANTED_ENDSTONE:2",
       "C2": "ENCHANTED_ENDSTONE:2",
       "C3": "ENCHANTED_ENDSTONE:2"
-    },
-    "useneucraft": true
+    }
   },
   "ENDER_STONE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -27798,8 +27586,7 @@
       "C1": "ENCHANTED_ENDSTONE:4",
       "C2": "ENCHANTED_ENDSTONE:4",
       "C3": "ENCHANTED_ENDSTONE:4"
-    },
-    "useneucraft": true
+    }
   },
   "ENDER_STONE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -27837,8 +27624,7 @@
       "C1": "ENCHANTED_ENDSTONE:8",
       "C2": "ENCHANTED_ENDSTONE:8",
       "C3": "ENCHANTED_ENDSTONE:8"
-    },
-    "useneucraft": true
+    }
   },
   "ENDER_STONE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -27876,8 +27662,7 @@
       "C1": "ENCHANTED_ENDSTONE:16",
       "C2": "ENCHANTED_ENDSTONE:16",
       "C3": "ENCHANTED_ENDSTONE:16"
-    },
-    "useneucraft": true
+    }
   },
   "END_BIOME_STICK": {
     "itemid": "minecraft:stick",
@@ -31075,11 +30860,17 @@
   "FIREWORK": {
     "itemid": "minecraft:fireworks",
     "displayname": "§fFirework Rocket",
-    "nbttag": "{HideFlags:254,display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fFirework Rocket\"},ExtraAttributes:{id:\"FIREWORK\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FIREWORK\"},HideFlags:254,ItemModel:\"minecraft:firework_rocket\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fFirework Rocket\"}}",
     "damage": 0,
     "lore": [
       "§f§lCOMMON"
     ],
+    "internalname": "FIREWORK",
+    "clickcommand": "viewrecipe",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+    "infoType": "",
+    "info": [],
     "recipe": {
       "A1": "PAPER:1",
       "A2": "SULPHUR:1",
@@ -31090,12 +30881,7 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    },
-    "internalname": "FIREWORK",
-    "modver": "2.0.0-REL",
-    "vanilla": true,
-    "clickcommand": "viewrecipe",
-    "useneucraft": true
+    }
   },
   "FIRE_FREEZE_STAFF": {
     "itemid": "minecraft:yellow_flower",
@@ -31289,8 +31075,7 @@
       "C1": "RAW_FISH:8",
       "C2": "RAW_FISH:8",
       "C3": "RAW_FISH:8"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -31327,8 +31112,7 @@
       "C1": "ENCHANTED_RAW_FISH:64",
       "C2": "ENCHANTED_RAW_FISH:64",
       "C3": "ENCHANTED_RAW_FISH:64"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -31365,8 +31149,7 @@
       "C1": "ENCHANTED_COOKED_FISH:1",
       "C2": "ENCHANTED_COOKED_FISH:1",
       "C3": "ENCHANTED_COOKED_FISH:1"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -31440,8 +31223,7 @@
       "C1": "RAW_FISH:16",
       "C2": "RAW_FISH:16",
       "C3": "RAW_FISH:16"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -31478,8 +31260,7 @@
       "C1": "RAW_FISH:32",
       "C2": "RAW_FISH:32",
       "C3": "RAW_FISH:32"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -31516,8 +31297,7 @@
       "C1": "RAW_FISH:64",
       "C2": "RAW_FISH:64",
       "C3": "RAW_FISH:64"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -31554,8 +31334,7 @@
       "C1": "ENCHANTED_RAW_FISH:1",
       "C2": "ENCHANTED_RAW_FISH:1",
       "C3": "ENCHANTED_RAW_FISH:1"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -31592,8 +31371,7 @@
       "C1": "ENCHANTED_RAW_FISH:3",
       "C2": "ENCHANTED_RAW_FISH:3",
       "C3": "ENCHANTED_RAW_FISH:3"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -31630,8 +31408,7 @@
       "C1": "ENCHANTED_RAW_FISH:8",
       "C2": "ENCHANTED_RAW_FISH:8",
       "C3": "ENCHANTED_RAW_FISH:8"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -31668,8 +31445,7 @@
       "C1": "ENCHANTED_RAW_FISH:16",
       "C2": "ENCHANTED_RAW_FISH:16",
       "C3": "ENCHANTED_RAW_FISH:16"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -31706,8 +31482,7 @@
       "C1": "ENCHANTED_RAW_FISH:32",
       "C2": "ENCHANTED_RAW_FISH:32",
       "C3": "ENCHANTED_RAW_FISH:32"
-    },
-    "useneucraft": true
+    }
   },
   "FISHING_ROD": {
     "itemid": "minecraft:fishing_rod",
@@ -33035,8 +32810,7 @@
       "C1": "ENCHANTED_DANDELION:64",
       "C2": "ENCHANTED_DANDELION:64",
       "C3": "ENCHANTED_DANDELION:64"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -33074,8 +32848,7 @@
       "C1": "ENCHANTED_POPPY:1",
       "C2": "ENCHANTED_POPPY:1",
       "C3": "ENCHANTED_POPPY:1"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -33113,8 +32886,7 @@
       "C1": "ENCHANTED_POPPY:2",
       "C2": "ENCHANTED_POPPY:2",
       "C3": "ENCHANTED_POPPY:2"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -33152,8 +32924,7 @@
       "C1": "YELLOW_FLOWER:20",
       "C2": "YELLOW_FLOWER:20",
       "C3": "YELLOW_FLOWER:20"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -33191,8 +32962,7 @@
       "C1": "YELLOW_FLOWER:40",
       "C2": "YELLOW_FLOWER:40",
       "C3": "YELLOW_FLOWER:40"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -33230,8 +33000,7 @@
       "C1": "YELLOW_FLOWER:64",
       "C2": "YELLOW_FLOWER:64",
       "C3": "YELLOW_FLOWER:64"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -33269,8 +33038,7 @@
       "C1": "ENCHANTED_DANDELION:1",
       "C2": "ENCHANTED_DANDELION:1",
       "C3": "ENCHANTED_DANDELION:1"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -33308,8 +33076,7 @@
       "C1": "ENCHANTED_DANDELION:3",
       "C2": "ENCHANTED_DANDELION:3",
       "C3": "ENCHANTED_DANDELION:3"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -33347,8 +33114,7 @@
       "C1": "ENCHANTED_DANDELION:8",
       "C2": "ENCHANTED_DANDELION:8",
       "C3": "ENCHANTED_DANDELION:8"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -33386,8 +33152,7 @@
       "C1": "ENCHANTED_DANDELION:16",
       "C2": "ENCHANTED_DANDELION:16",
       "C3": "ENCHANTED_DANDELION:16"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -33425,8 +33190,7 @@
       "C1": "ENCHANTED_DANDELION:32",
       "C2": "ENCHANTED_DANDELION:32",
       "C3": "ENCHANTED_DANDELION:32"
-    },
-    "useneucraft": true
+    }
   },
   "FLOWER_OF_TRUTH": {
     "itemid": "minecraft:paper",
@@ -35444,8 +35208,7 @@
       "C1": "GHAST_TEAR:8",
       "C2": "GHAST_TEAR:8",
       "C3": "GHAST_TEAR:8"
-    },
-    "useneucraft": true
+    }
   },
   "GHAST_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -35482,8 +35245,7 @@
       "C1": "SILVER_FANG:32",
       "C2": "SILVER_FANG:32",
       "C3": "SILVER_FANG:32"
-    },
-    "useneucraft": true
+    }
   },
   "GHAST_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -35520,8 +35282,7 @@
       "C1": "SILVER_FANG:64",
       "C2": "SILVER_FANG:64",
       "C3": "SILVER_FANG:64"
-    },
-    "useneucraft": true
+    }
   },
   "GHAST_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -35558,8 +35319,7 @@
       "C1": "GHAST_TEAR:16",
       "C2": "GHAST_TEAR:16",
       "C3": "GHAST_TEAR:16"
-    },
-    "useneucraft": true
+    }
   },
   "GHAST_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -35596,8 +35356,7 @@
       "C1": "GHAST_TEAR:32",
       "C2": "GHAST_TEAR:32",
       "C3": "GHAST_TEAR:32"
-    },
-    "useneucraft": true
+    }
   },
   "GHAST_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -35634,8 +35393,7 @@
       "C1": "GHAST_TEAR:64",
       "C2": "GHAST_TEAR:64",
       "C3": "GHAST_TEAR:64"
-    },
-    "useneucraft": true
+    }
   },
   "GHAST_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -35672,8 +35430,7 @@
       "C1": "ENCHANTED_GHAST_TEAR:32",
       "C2": "ENCHANTED_GHAST_TEAR:32",
       "C3": "ENCHANTED_GHAST_TEAR:32"
-    },
-    "useneucraft": true
+    }
   },
   "GHAST_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -35710,8 +35467,7 @@
       "C1": "ENCHANTED_GHAST_TEAR:64",
       "C2": "ENCHANTED_GHAST_TEAR:64",
       "C3": "ENCHANTED_GHAST_TEAR:64"
-    },
-    "useneucraft": true
+    }
   },
   "GHAST_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -35748,8 +35504,7 @@
       "C1": "SILVER_FANG:4",
       "C2": "SILVER_FANG:4",
       "C3": "SILVER_FANG:4"
-    },
-    "useneucraft": true
+    }
   },
   "GHAST_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -35786,8 +35541,7 @@
       "C1": "SILVER_FANG:8",
       "C2": "SILVER_FANG:8",
       "C3": "SILVER_FANG:8"
-    },
-    "useneucraft": true
+    }
   },
   "GHAST_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -35824,8 +35578,7 @@
       "C1": "SILVER_FANG:16",
       "C2": "SILVER_FANG:16",
       "C3": "SILVER_FANG:16"
-    },
-    "useneucraft": true
+    }
   },
   "GHOUL_BUSTER": {
     "itemid": "minecraft:iron_hoe",
@@ -36700,8 +36453,7 @@
       "C1": "GLOWSTONE_DUST:16",
       "C2": "GLOWSTONE_DUST:16",
       "C3": "GLOWSTONE_DUST:16"
-    },
-    "useneucraft": true
+    }
   },
   "GLOWSTONE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -36739,8 +36491,7 @@
       "C1": "ENCHANTED_GLOWSTONE:1",
       "C2": "ENCHANTED_GLOWSTONE:1",
       "C3": "ENCHANTED_GLOWSTONE:1"
-    },
-    "useneucraft": true
+    }
   },
   "GLOWSTONE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -36778,8 +36529,7 @@
       "C1": "ENCHANTED_GLOWSTONE:2",
       "C2": "ENCHANTED_GLOWSTONE:2",
       "C3": "ENCHANTED_GLOWSTONE:2"
-    },
-    "useneucraft": true
+    }
   },
   "GLOWSTONE_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -36817,8 +36567,7 @@
       "C1": "GLOWSTONE_DUST:32",
       "C2": "GLOWSTONE_DUST:32",
       "C3": "GLOWSTONE_DUST:32"
-    },
-    "useneucraft": true
+    }
   },
   "GLOWSTONE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -36856,8 +36605,7 @@
       "C1": "GLOWSTONE_DUST:64",
       "C2": "GLOWSTONE_DUST:64",
       "C3": "GLOWSTONE_DUST:64"
-    },
-    "useneucraft": true
+    }
   },
   "GLOWSTONE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -36895,8 +36643,7 @@
       "C1": "ENCHANTED_GLOWSTONE_DUST:1",
       "C2": "ENCHANTED_GLOWSTONE_DUST:1",
       "C3": "ENCHANTED_GLOWSTONE_DUST:1"
-    },
-    "useneucraft": true
+    }
   },
   "GLOWSTONE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -36934,8 +36681,7 @@
       "C1": "ENCHANTED_GLOWSTONE_DUST:3",
       "C2": "ENCHANTED_GLOWSTONE_DUST:3",
       "C3": "ENCHANTED_GLOWSTONE_DUST:3"
-    },
-    "useneucraft": true
+    }
   },
   "GLOWSTONE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -36973,8 +36719,7 @@
       "C1": "ENCHANTED_GLOWSTONE_DUST:8",
       "C2": "ENCHANTED_GLOWSTONE_DUST:8",
       "C3": "ENCHANTED_GLOWSTONE_DUST:8"
-    },
-    "useneucraft": true
+    }
   },
   "GLOWSTONE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -37012,8 +36757,7 @@
       "C1": "ENCHANTED_GLOWSTONE_DUST:16",
       "C2": "ENCHANTED_GLOWSTONE_DUST:16",
       "C3": "ENCHANTED_GLOWSTONE_DUST:16"
-    },
-    "useneucraft": true
+    }
   },
   "GLOWSTONE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -37051,8 +36795,7 @@
       "C1": "ENCHANTED_GLOWSTONE_DUST:32",
       "C2": "ENCHANTED_GLOWSTONE_DUST:32",
       "C3": "ENCHANTED_GLOWSTONE_DUST:32"
-    },
-    "useneucraft": true
+    }
   },
   "GLOWSTONE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -37090,8 +36833,7 @@
       "C1": "ENCHANTED_GLOWSTONE_DUST:64",
       "C2": "ENCHANTED_GLOWSTONE_DUST:64",
       "C3": "ENCHANTED_GLOWSTONE_DUST:64"
-    },
-    "useneucraft": true
+    }
   },
   "GOBLIN;4": {
     "itemid": "minecraft:skull",
@@ -37727,8 +37469,7 @@
       "C1": "GOLD_INGOT:10",
       "C2": "GOLD_INGOT:10",
       "C3": "GOLD_INGOT:10"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -37766,8 +37507,7 @@
       "C1": "ENCHANTED_GOLD:64",
       "C2": "ENCHANTED_GOLD:64",
       "C3": "ENCHANTED_GOLD:64"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -37805,8 +37545,7 @@
       "C1": "ENCHANTED_GOLD_BLOCK:1",
       "C2": "ENCHANTED_GOLD_BLOCK:1",
       "C3": "ENCHANTED_GOLD_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -37844,8 +37583,7 @@
       "C1": "GOLD_INGOT:20",
       "C2": "GOLD_INGOT:20",
       "C3": "GOLD_INGOT:20"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -37883,8 +37621,7 @@
       "C1": "GOLD_INGOT:40",
       "C2": "GOLD_INGOT:40",
       "C3": "GOLD_INGOT:40"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -37922,8 +37659,7 @@
       "C1": "GOLD_INGOT:64",
       "C2": "GOLD_INGOT:64",
       "C3": "GOLD_INGOT:64"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -37961,8 +37697,7 @@
       "C1": "ENCHANTED_GOLD:1",
       "C2": "ENCHANTED_GOLD:1",
       "C3": "ENCHANTED_GOLD:1"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -38000,8 +37735,7 @@
       "C1": "ENCHANTED_GOLD:3",
       "C2": "ENCHANTED_GOLD:3",
       "C3": "ENCHANTED_GOLD:3"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -38039,8 +37773,7 @@
       "C1": "ENCHANTED_GOLD:8",
       "C2": "ENCHANTED_GOLD:8",
       "C3": "ENCHANTED_GOLD:8"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -38078,8 +37811,7 @@
       "C1": "ENCHANTED_GOLD:16",
       "C2": "ENCHANTED_GOLD:16",
       "C3": "ENCHANTED_GOLD:16"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -38117,8 +37849,7 @@
       "C1": "ENCHANTED_GOLD:32",
       "C2": "ENCHANTED_GOLD:32",
       "C3": "ENCHANTED_GOLD:32"
-    },
-    "useneucraft": true
+    }
   },
   "GOLD_HELMET": {
     "itemid": "minecraft:golden_helmet",
@@ -38818,8 +38549,7 @@
       "C1": "GRAVEL:10",
       "C2": "GRAVEL:10",
       "C3": "GRAVEL:10"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVEL_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -38857,8 +38587,7 @@
       "C1": "ENCHANTED_FLINT:32",
       "C2": "ENCHANTED_FLINT:32",
       "C3": "ENCHANTED_FLINT:32"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVEL_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -38896,8 +38625,7 @@
       "C1": "ENCHANTED_FLINT:64",
       "C2": "ENCHANTED_FLINT:64",
       "C3": "ENCHANTED_FLINT:64"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVEL_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -38935,8 +38663,7 @@
       "C1": "GRAVEL:20",
       "C2": "GRAVEL:20",
       "C3": "GRAVEL:20"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVEL_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -38974,8 +38701,7 @@
       "C1": "GRAVEL:40",
       "C2": "GRAVEL:40",
       "C3": "GRAVEL:40"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVEL_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -39013,8 +38739,7 @@
       "C1": "GRAVEL:64",
       "C2": "GRAVEL:64",
       "C3": "GRAVEL:64"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVEL_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -39052,8 +38777,7 @@
       "C1": "ENCHANTED_FLINT:1",
       "C2": "ENCHANTED_FLINT:1",
       "C3": "ENCHANTED_FLINT:1"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVEL_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -39091,8 +38815,7 @@
       "C1": "ENCHANTED_FLINT:2",
       "C2": "ENCHANTED_FLINT:2",
       "C3": "ENCHANTED_FLINT:2"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVEL_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -39130,8 +38853,7 @@
       "C1": "ENCHANTED_FLINT:4",
       "C2": "ENCHANTED_FLINT:4",
       "C3": "ENCHANTED_FLINT:4"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVEL_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -39169,8 +38891,7 @@
       "C1": "ENCHANTED_FLINT:8",
       "C2": "ENCHANTED_FLINT:8",
       "C3": "ENCHANTED_FLINT:8"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVEL_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -39208,8 +38929,7 @@
       "C1": "ENCHANTED_FLINT:16",
       "C2": "ENCHANTED_FLINT:16",
       "C3": "ENCHANTED_FLINT:16"
-    },
-    "useneucraft": true
+    }
   },
   "GRAVITY_TALISMAN": {
     "itemid": "minecraft:skull",
@@ -43315,8 +43035,7 @@
       "C1": "GIANT_FRAGMENT_LASER:1",
       "C2": "GIANT_FRAGMENT_LASER:1",
       "C3": "GIANT_FRAGMENT_LASER:1"
-    },
-    "parent": "NECRON_BLADE"
+    }
   },
   "HYPER_CATALYST": {
     "itemid": "minecraft:nether_star",
@@ -43493,8 +43212,7 @@
       "C1": "ICE:10",
       "C2": "ICE:10",
       "C3": "ICE:10"
-    },
-    "useneucraft": true
+    }
   },
   "ICE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -43531,8 +43249,7 @@
       "C1": "ENCHANTED_ICE:32",
       "C2": "ENCHANTED_ICE:32",
       "C3": "ENCHANTED_ICE:32"
-    },
-    "useneucraft": true
+    }
   },
   "ICE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -43569,8 +43286,7 @@
       "C1": "ENCHANTED_ICE:64",
       "C2": "ENCHANTED_ICE:64",
       "C3": "ENCHANTED_ICE:64"
-    },
-    "useneucraft": true
+    }
   },
   "ICE_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -43607,8 +43323,7 @@
       "C1": "ICE:20",
       "C2": "ICE:20",
       "C3": "ICE:20"
-    },
-    "useneucraft": true
+    }
   },
   "ICE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -43645,8 +43360,7 @@
       "C1": "ICE:40",
       "C2": "ICE:40",
       "C3": "ICE:40"
-    },
-    "useneucraft": true
+    }
   },
   "ICE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -43683,8 +43397,7 @@
       "C1": "ICE:64",
       "C2": "ICE:64",
       "C3": "ICE:64"
-    },
-    "useneucraft": true
+    }
   },
   "ICE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -43721,8 +43434,7 @@
       "C1": "PACKED_ICE:16",
       "C2": "PACKED_ICE:16",
       "C3": "PACKED_ICE:16"
-    },
-    "useneucraft": true
+    }
   },
   "ICE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -43759,8 +43471,7 @@
       "C1": "PACKED_ICE:32",
       "C2": "PACKED_ICE:32",
       "C3": "PACKED_ICE:32"
-    },
-    "useneucraft": true
+    }
   },
   "ICE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -43797,8 +43508,7 @@
       "C1": "PACKED_ICE:64",
       "C2": "PACKED_ICE:64",
       "C3": "PACKED_ICE:64"
-    },
-    "useneucraft": true
+    }
   },
   "ICE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -43835,8 +43545,7 @@
       "C1": "ENCHANTED_ICE:8",
       "C2": "ENCHANTED_ICE:8",
       "C3": "ENCHANTED_ICE:8"
-    },
-    "useneucraft": true
+    }
   },
   "ICE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -43873,8 +43582,7 @@
       "C1": "ENCHANTED_ICE:16",
       "C2": "ENCHANTED_ICE:16",
       "C3": "ENCHANTED_ICE:16"
-    },
-    "useneucraft": true
+    }
   },
   "ICHTHYIC_BELT": {
     "itemid": "minecraft:paper",
@@ -45272,7 +44980,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-1",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -45319,7 +45026,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-10",
     "clickcommand": "viewrecipe",
     "crafttext": "",
@@ -45353,7 +45059,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-11",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -45400,7 +45105,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-12",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -45447,7 +45151,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-13",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -45522,7 +45225,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-14",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -45575,7 +45277,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
     "infoType": "",
     "info": [],
-    "parent": "INK_SACK",
     "vanilla": true,
     "recipe": {
       "A1": "BONE:1",
@@ -45606,7 +45307,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
     "infoType": "WIKI_URL",
     "info": [],
-    "parent": "INK_SACK",
     "vanilla": true,
     "recipe": {
       "A1": "LAPIS_BLOCK:1",
@@ -45629,7 +45329,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-5",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -45657,7 +45356,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-6",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -45685,7 +45383,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-7",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -45774,7 +45471,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-8",
     "vanilla": true,
     "clickcommand": "viewrecipe",
@@ -45807,7 +45503,6 @@
     "lore": [
       "§f§lCOMMON"
     ],
-    "parent": "INK_SACK",
     "internalname": "INK_SACK-9",
     "clickcommand": "viewrecipe",
     "crafttext": "",
@@ -46142,8 +45837,7 @@
       "C1": "IRON_INGOT:10",
       "C2": "IRON_INGOT:10",
       "C3": "IRON_INGOT:10"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -46181,8 +45875,7 @@
       "C1": "ENCHANTED_IRON:64",
       "C2": "ENCHANTED_IRON:64",
       "C3": "ENCHANTED_IRON:64"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -46220,8 +45913,7 @@
       "C1": "ENCHANTED_IRON_BLOCK:1",
       "C2": "ENCHANTED_IRON_BLOCK:1",
       "C3": "ENCHANTED_IRON_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -46259,8 +45951,7 @@
       "C1": "IRON_INGOT:20",
       "C2": "IRON_INGOT:20",
       "C3": "IRON_INGOT:20"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -46298,8 +45989,7 @@
       "C1": "IRON_INGOT:40",
       "C2": "IRON_INGOT:40",
       "C3": "IRON_INGOT:40"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -46337,8 +46027,7 @@
       "C1": "IRON_INGOT:64",
       "C2": "IRON_INGOT:64",
       "C3": "IRON_INGOT:64"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -46376,8 +46065,7 @@
       "C1": "ENCHANTED_IRON:1",
       "C2": "ENCHANTED_IRON:1",
       "C3": "ENCHANTED_IRON:1"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -46415,8 +46103,7 @@
       "C1": "ENCHANTED_IRON:3",
       "C2": "ENCHANTED_IRON:3",
       "C3": "ENCHANTED_IRON:3"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -46454,8 +46141,7 @@
       "C1": "ENCHANTED_IRON:8",
       "C2": "ENCHANTED_IRON:8",
       "C3": "ENCHANTED_IRON:8"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -46493,8 +46179,7 @@
       "C1": "ENCHANTED_IRON:16",
       "C2": "ENCHANTED_IRON:16",
       "C3": "ENCHANTED_IRON:16"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -46532,8 +46217,7 @@
       "C1": "ENCHANTED_IRON:32",
       "C2": "ENCHANTED_IRON:32",
       "C3": "ENCHANTED_IRON:32"
-    },
-    "useneucraft": true
+    }
   },
   "IRON_HELMET": {
     "itemid": "minecraft:iron_helmet",
@@ -46814,7 +46498,6 @@
     "infoType": "",
     "info": [],
     "vanilla": true,
-    "useneucraft": true,
     "recipe": {
       "A1": "STICK:1",
       "A2": "STICK:1",
@@ -47588,8 +47271,7 @@
       "C1": "LOG-3:10",
       "C2": "LOG-3:10",
       "C3": "LOG-3:10"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -47627,8 +47309,7 @@
       "C1": "ENCHANTED_JUNGLE_LOG:32",
       "C2": "ENCHANTED_JUNGLE_LOG:32",
       "C3": "ENCHANTED_JUNGLE_LOG:32"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -47666,8 +47347,7 @@
       "C1": "ENCHANTED_JUNGLE_LOG:64",
       "C2": "ENCHANTED_JUNGLE_LOG:64",
       "C3": "ENCHANTED_JUNGLE_LOG:64"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -47748,8 +47428,7 @@
       "C1": "LOG-3:20",
       "C2": "LOG-3:20",
       "C3": "LOG-3:20"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -47787,8 +47466,7 @@
       "C1": "LOG-3:40",
       "C2": "LOG-3:40",
       "C3": "LOG-3:40"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -47826,8 +47504,7 @@
       "C1": "LOG-3:64",
       "C2": "LOG-3:64",
       "C3": "LOG-3:64"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -47865,8 +47542,7 @@
       "C1": "ENCHANTED_JUNGLE_LOG:1",
       "C2": "ENCHANTED_JUNGLE_LOG:1",
       "C3": "ENCHANTED_JUNGLE_LOG:1"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -47904,8 +47580,7 @@
       "C1": "ENCHANTED_JUNGLE_LOG:2",
       "C2": "ENCHANTED_JUNGLE_LOG:2",
       "C3": "ENCHANTED_JUNGLE_LOG:2"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -47943,8 +47618,7 @@
       "C1": "ENCHANTED_JUNGLE_LOG:4",
       "C2": "ENCHANTED_JUNGLE_LOG:4",
       "C3": "ENCHANTED_JUNGLE_LOG:4"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -47982,8 +47656,7 @@
       "C1": "ENCHANTED_JUNGLE_LOG:8",
       "C2": "ENCHANTED_JUNGLE_LOG:8",
       "C3": "ENCHANTED_JUNGLE_LOG:8"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -48021,8 +47694,7 @@
       "C1": "ENCHANTED_JUNGLE_LOG:16",
       "C2": "ENCHANTED_JUNGLE_LOG:16",
       "C3": "ENCHANTED_JUNGLE_LOG:16"
-    },
-    "useneucraft": true
+    }
   },
   "JUNGLE_WOOD_STAIRS": {
     "itemid": "minecraft:jungle_stairs",
@@ -48394,8 +48066,7 @@
       "C1": "INK_SACK-4:32",
       "C2": "INK_SACK-4:32",
       "C3": "INK_SACK-4:32"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -48433,8 +48104,7 @@
       "C1": "ENCHANTED_LAPIS_LAZULI_BLOCK:2",
       "C2": "ENCHANTED_LAPIS_LAZULI_BLOCK:2",
       "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK:2"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -48472,8 +48142,7 @@
       "C1": "ENCHANTED_LAPIS_LAZULI_BLOCK:4",
       "C2": "ENCHANTED_LAPIS_LAZULI_BLOCK:4",
       "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK:4"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -48511,8 +48180,7 @@
       "C1": "INK_SACK-4:64",
       "C2": "INK_SACK-4:64",
       "C3": "INK_SACK-4:64"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -48550,8 +48218,7 @@
       "C1": "ENCHANTED_LAPIS_LAZULI:1",
       "C2": "ENCHANTED_LAPIS_LAZULI:1",
       "C3": "ENCHANTED_LAPIS_LAZULI:1"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -48589,8 +48256,7 @@
       "C1": "ENCHANTED_LAPIS_LAZULI:3",
       "C2": "ENCHANTED_LAPIS_LAZULI:3",
       "C3": "ENCHANTED_LAPIS_LAZULI:3"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -48628,8 +48294,7 @@
       "C1": "ENCHANTED_LAPIS_LAZULI:8",
       "C2": "ENCHANTED_LAPIS_LAZULI:8",
       "C3": "ENCHANTED_LAPIS_LAZULI:8"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -48667,8 +48332,7 @@
       "C1": "ENCHANTED_LAPIS_LAZULI:16",
       "C2": "ENCHANTED_LAPIS_LAZULI:16",
       "C3": "ENCHANTED_LAPIS_LAZULI:16"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -48706,8 +48370,7 @@
       "C1": "ENCHANTED_LAPIS_LAZULI:32",
       "C2": "ENCHANTED_LAPIS_LAZULI:32",
       "C3": "ENCHANTED_LAPIS_LAZULI:32"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -48745,8 +48408,7 @@
       "C1": "ENCHANTED_LAPIS_LAZULI:64",
       "C2": "ENCHANTED_LAPIS_LAZULI:64",
       "C3": "ENCHANTED_LAPIS_LAZULI:64"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -48784,8 +48446,7 @@
       "C1": "ENCHANTED_LAPIS_LAZULI_BLOCK:1",
       "C2": "ENCHANTED_LAPIS_LAZULI_BLOCK:1",
       "C3": "ENCHANTED_LAPIS_LAZULI_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "LAPIS_PICKAXE": {
     "itemid": "minecraft:diamond_pickaxe",
@@ -52237,8 +51898,7 @@
       "C1": "MAGMA_CREAM:10",
       "C2": "MAGMA_CREAM:10",
       "C3": "MAGMA_CREAM:10"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_CUBE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -52275,8 +51935,7 @@
       "C1": "ENCHANTED_MAGMA_CREAM:32",
       "C2": "ENCHANTED_MAGMA_CREAM:32",
       "C3": "ENCHANTED_MAGMA_CREAM:32"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_CUBE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -52313,8 +51972,7 @@
       "C1": "ENCHANTED_MAGMA_CREAM:64",
       "C2": "ENCHANTED_MAGMA_CREAM:64",
       "C3": "ENCHANTED_MAGMA_CREAM:64"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_CUBE_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -52351,8 +52009,7 @@
       "C1": "MAGMA_CREAM:20",
       "C2": "MAGMA_CREAM:20",
       "C3": "MAGMA_CREAM:20"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_CUBE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -52389,8 +52046,7 @@
       "C1": "MAGMA_CREAM:40",
       "C2": "MAGMA_CREAM:40",
       "C3": "MAGMA_CREAM:40"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_CUBE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -52427,8 +52083,7 @@
       "C1": "MAGMA_CREAM:64",
       "C2": "MAGMA_CREAM:64",
       "C3": "MAGMA_CREAM:64"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_CUBE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -52465,8 +52120,7 @@
       "C1": "ENCHANTED_MAGMA_CREAM:1",
       "C2": "ENCHANTED_MAGMA_CREAM:1",
       "C3": "ENCHANTED_MAGMA_CREAM:1"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_CUBE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -52503,8 +52157,7 @@
       "C1": "ENCHANTED_MAGMA_CREAM:2",
       "C2": "ENCHANTED_MAGMA_CREAM:2",
       "C3": "ENCHANTED_MAGMA_CREAM:2"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_CUBE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -52541,8 +52194,7 @@
       "C1": "ENCHANTED_MAGMA_CREAM:4",
       "C2": "ENCHANTED_MAGMA_CREAM:4",
       "C3": "ENCHANTED_MAGMA_CREAM:4"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_CUBE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -52579,8 +52231,7 @@
       "C1": "ENCHANTED_MAGMA_CREAM:8",
       "C2": "ENCHANTED_MAGMA_CREAM:8",
       "C3": "ENCHANTED_MAGMA_CREAM:8"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_CUBE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -52617,8 +52268,7 @@
       "C1": "ENCHANTED_MAGMA_CREAM:16",
       "C2": "ENCHANTED_MAGMA_CREAM:16",
       "C3": "ENCHANTED_MAGMA_CREAM:16"
-    },
-    "useneucraft": true
+    }
   },
   "MAGMA_FISH_DIAMOND": {
     "itemid": "minecraft:paper",
@@ -54996,8 +54646,7 @@
       "C1": "MELON:32",
       "C2": "MELON:32",
       "C3": "MELON:32"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -55035,8 +54684,7 @@
       "C1": "ENCHANTED_MELON_BLOCK:1",
       "C2": "ENCHANTED_MELON_BLOCK:1",
       "C3": "ENCHANTED_MELON_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -55074,8 +54722,7 @@
       "C1": "ENCHANTED_MELON_BLOCK:2",
       "C2": "ENCHANTED_MELON_BLOCK:2",
       "C3": "ENCHANTED_MELON_BLOCK:2"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -55113,8 +54760,7 @@
       "C1": "MELON:64",
       "C2": "MELON:64",
       "C3": "MELON:64"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -55152,8 +54798,7 @@
       "C1": "MELON_BLOCK:16",
       "C2": "MELON_BLOCK:16",
       "C3": "MELON_BLOCK:16"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -55191,8 +54836,7 @@
       "C1": "MELON_BLOCK:32",
       "C2": "MELON_BLOCK:32",
       "C3": "MELON_BLOCK:32"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -55230,8 +54874,7 @@
       "C1": "MELON_BLOCK:64",
       "C2": "MELON_BLOCK:64",
       "C3": "MELON_BLOCK:64"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -55269,8 +54912,7 @@
       "C1": "ENCHANTED_MELON:8",
       "C2": "ENCHANTED_MELON:8",
       "C3": "ENCHANTED_MELON:8"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -55308,8 +54950,7 @@
       "C1": "ENCHANTED_MELON:16",
       "C2": "ENCHANTED_MELON:16",
       "C3": "ENCHANTED_MELON:16"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -55347,8 +54988,7 @@
       "C1": "ENCHANTED_MELON:32",
       "C2": "ENCHANTED_MELON:32",
       "C3": "ENCHANTED_MELON:32"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -55386,8 +55026,7 @@
       "C1": "ENCHANTED_MELON:64",
       "C2": "ENCHANTED_MELON:64",
       "C3": "ENCHANTED_MELON:64"
-    },
-    "useneucraft": true
+    }
   },
   "MELON_HELMET": {
     "itemid": "minecraft:skull",
@@ -56747,8 +56386,7 @@
       "C1": "MITHRIL_ORE:10",
       "C2": "MITHRIL_ORE:10",
       "C3": "MITHRIL_ORE:10"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -56786,8 +56424,7 @@
       "C1": "ENCHANTED_MITHRIL:64",
       "C2": "ENCHANTED_MITHRIL:64",
       "C3": "ENCHANTED_MITHRIL:64"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -56825,8 +56462,7 @@
       "C1": "REFINED_MITHRIL:1",
       "C2": "REFINED_MITHRIL:1",
       "C3": "REFINED_MITHRIL:1"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -56864,8 +56500,7 @@
       "C1": "MITHRIL_ORE:20",
       "C2": "MITHRIL_ORE:20",
       "C3": "MITHRIL_ORE:20"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -56903,8 +56538,7 @@
       "C1": "MITHRIL_ORE:40",
       "C2": "MITHRIL_ORE:40",
       "C3": "MITHRIL_ORE:40"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -56942,8 +56576,7 @@
       "C1": "MITHRIL_ORE:64",
       "C2": "MITHRIL_ORE:64",
       "C3": "MITHRIL_ORE:64"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -56981,8 +56614,7 @@
       "C1": "ENCHANTED_MITHRIL:1",
       "C2": "ENCHANTED_MITHRIL:1",
       "C3": "ENCHANTED_MITHRIL:1"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -57020,8 +56652,7 @@
       "C1": "ENCHANTED_MITHRIL:3",
       "C2": "ENCHANTED_MITHRIL:3",
       "C3": "ENCHANTED_MITHRIL:3"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -57059,8 +56690,7 @@
       "C1": "ENCHANTED_MITHRIL:8",
       "C2": "ENCHANTED_MITHRIL:8",
       "C3": "ENCHANTED_MITHRIL:8"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -57098,8 +56728,7 @@
       "C1": "ENCHANTED_MITHRIL:16",
       "C2": "ENCHANTED_MITHRIL:16",
       "C3": "ENCHANTED_MITHRIL:16"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -57137,8 +56766,7 @@
       "C1": "ENCHANTED_MITHRIL:32",
       "C2": "ENCHANTED_MITHRIL:32",
       "C3": "ENCHANTED_MITHRIL:32"
-    },
-    "useneucraft": true
+    }
   },
   "MITHRIL_GOLEM;0": {
     "itemid": "minecraft:skull",
@@ -58811,8 +58439,7 @@
       "C2": "MYCEL:10",
       "C3": "MYCEL:10"
     },
-    "reputation_req": "MAGE:500",
-    "useneucraft": true
+    "reputation_req": "MAGE:500"
   },
   "MYCELIUM_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -58852,8 +58479,7 @@
       "C2": "ENCHANTED_MYCELIUM_CUBE:1",
       "C3": "ENCHANTED_MYCELIUM_CUBE:1"
     },
-    "reputation_req": "MAGE:9000",
-    "useneucraft": true
+    "reputation_req": "MAGE:9000"
   },
   "MYCELIUM_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -58893,8 +58519,7 @@
       "C2": "ENCHANTED_MYCELIUM_CUBE:2",
       "C3": "ENCHANTED_MYCELIUM_CUBE:2"
     },
-    "reputation_req": "MAGE:10000",
-    "useneucraft": true
+    "reputation_req": "MAGE:10000"
   },
   "MYCELIUM_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -58934,8 +58559,7 @@
       "C2": "MYCEL:32",
       "C3": "MYCEL:32"
     },
-    "reputation_req": "MAGE:1000",
-    "useneucraft": true
+    "reputation_req": "MAGE:1000"
   },
   "MYCELIUM_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -58975,8 +58599,7 @@
       "C2": "MYCEL:64",
       "C3": "MYCEL:64"
     },
-    "reputation_req": "MAGE:1500",
-    "useneucraft": true
+    "reputation_req": "MAGE:1500"
   },
   "MYCELIUM_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -59016,8 +58639,7 @@
       "C2": "ENCHANTED_MYCELIUM:2",
       "C3": "ENCHANTED_MYCELIUM:2"
     },
-    "reputation_req": "MAGE:2000",
-    "useneucraft": true
+    "reputation_req": "MAGE:2000"
   },
   "MYCELIUM_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -59057,8 +58679,7 @@
       "C2": "ENCHANTED_MYCELIUM:4",
       "C3": "ENCHANTED_MYCELIUM:4"
     },
-    "reputation_req": "MAGE:3000",
-    "useneucraft": true
+    "reputation_req": "MAGE:3000"
   },
   "MYCELIUM_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -59098,8 +58719,7 @@
       "C2": "ENCHANTED_MYCELIUM:8",
       "C3": "ENCHANTED_MYCELIUM:8"
     },
-    "reputation_req": "MAGE:4000",
-    "useneucraft": true
+    "reputation_req": "MAGE:4000"
   },
   "MYCELIUM_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -59139,8 +58759,7 @@
       "C2": "ENCHANTED_MYCELIUM:16",
       "C3": "ENCHANTED_MYCELIUM:16"
     },
-    "reputation_req": "MAGE:5500",
-    "useneucraft": true
+    "reputation_req": "MAGE:5500"
   },
   "MYCELIUM_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -59180,8 +58799,7 @@
       "C2": "ENCHANTED_MYCELIUM:32",
       "C3": "ENCHANTED_MYCELIUM:32"
     },
-    "reputation_req": "MAGE:6500",
-    "useneucraft": true
+    "reputation_req": "MAGE:6500"
   },
   "MYCELIUM_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -59221,8 +58839,7 @@
       "C2": "ENCHANTED_MYCELIUM:64",
       "C3": "ENCHANTED_MYCELIUM:64"
     },
-    "reputation_req": "MAGE:7500",
-    "useneucraft": true
+    "reputation_req": "MAGE:7500"
   },
   "MYTHOS_BELT": {
     "itemid": "minecraft:paper",
@@ -59903,8 +59520,7 @@
       "C1": "NETHER_STALK:10",
       "C2": "NETHER_STALK:10",
       "C3": "NETHER_STALK:10"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WARTS_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -59942,8 +59558,7 @@
       "C1": "ENCHANTED_NETHER_STALK:32",
       "C2": "ENCHANTED_NETHER_STALK:32",
       "C3": "ENCHANTED_NETHER_STALK:32"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WARTS_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -59981,8 +59596,7 @@
       "C1": "ENCHANTED_NETHER_STALK:64",
       "C2": "ENCHANTED_NETHER_STALK:64",
       "C3": "ENCHANTED_NETHER_STALK:64"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WARTS_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -60020,8 +59634,7 @@
       "C1": "NETHER_STALK:20",
       "C2": "NETHER_STALK:20",
       "C3": "NETHER_STALK:20"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WARTS_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -60059,8 +59672,7 @@
       "C1": "NETHER_STALK:40",
       "C2": "NETHER_STALK:40",
       "C3": "NETHER_STALK:40"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WARTS_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -60098,8 +59710,7 @@
       "C1": "NETHER_STALK:64",
       "C2": "NETHER_STALK:64",
       "C3": "NETHER_STALK:64"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WARTS_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -60137,8 +59748,7 @@
       "C1": "ENCHANTED_NETHER_STALK:1",
       "C2": "ENCHANTED_NETHER_STALK:1",
       "C3": "ENCHANTED_NETHER_STALK:1"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WARTS_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -60176,8 +59786,7 @@
       "C1": "ENCHANTED_NETHER_STALK:2",
       "C2": "ENCHANTED_NETHER_STALK:2",
       "C3": "ENCHANTED_NETHER_STALK:2"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WARTS_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -60215,8 +59824,7 @@
       "C1": "ENCHANTED_NETHER_STALK:4",
       "C2": "ENCHANTED_NETHER_STALK:4",
       "C3": "ENCHANTED_NETHER_STALK:4"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WARTS_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -60254,8 +59862,7 @@
       "C1": "ENCHANTED_NETHER_STALK:8",
       "C2": "ENCHANTED_NETHER_STALK:8",
       "C3": "ENCHANTED_NETHER_STALK:8"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WARTS_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -60293,8 +59900,7 @@
       "C1": "ENCHANTED_NETHER_STALK:16",
       "C2": "ENCHANTED_NETHER_STALK:16",
       "C3": "ENCHANTED_NETHER_STALK:16"
-    },
-    "useneucraft": true
+    }
   },
   "NETHER_WART_ISLAND": {
     "itemid": "minecraft:skull",
@@ -60998,8 +60604,7 @@
       "C1": "LOG:10",
       "C2": "LOG:10",
       "C3": "LOG:10"
-    },
-    "useneucraft": true
+    }
   },
   "OAK_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -61037,8 +60642,7 @@
       "C1": "ENCHANTED_OAK_LOG:32",
       "C2": "ENCHANTED_OAK_LOG:32",
       "C3": "ENCHANTED_OAK_LOG:32"
-    },
-    "useneucraft": true
+    }
   },
   "OAK_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -61076,8 +60680,7 @@
       "C1": "ENCHANTED_OAK_LOG:64",
       "C2": "ENCHANTED_OAK_LOG:64",
       "C3": "ENCHANTED_OAK_LOG:64"
-    },
-    "useneucraft": true
+    }
   },
   "OAK_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -61158,8 +60761,7 @@
       "C1": "LOG:20",
       "C2": "LOG:20",
       "C3": "LOG:20"
-    },
-    "useneucraft": true
+    }
   },
   "OAK_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -61197,8 +60799,7 @@
       "C1": "LOG:40",
       "C2": "LOG:40",
       "C3": "LOG:40"
-    },
-    "useneucraft": true
+    }
   },
   "OAK_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -61236,8 +60837,7 @@
       "C1": "LOG:64",
       "C2": "LOG:64",
       "C3": "LOG:64"
-    },
-    "useneucraft": true
+    }
   },
   "OAK_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -61275,8 +60875,7 @@
       "C1": "ENCHANTED_OAK_LOG:1",
       "C2": "ENCHANTED_OAK_LOG:1",
       "C3": "ENCHANTED_OAK_LOG:1"
-    },
-    "useneucraft": true
+    }
   },
   "OAK_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -61314,8 +60913,7 @@
       "C1": "ENCHANTED_OAK_LOG:2",
       "C2": "ENCHANTED_OAK_LOG:2",
       "C3": "ENCHANTED_OAK_LOG:2"
-    },
-    "useneucraft": true
+    }
   },
   "OAK_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -61353,8 +60951,7 @@
       "C1": "ENCHANTED_OAK_LOG:4",
       "C2": "ENCHANTED_OAK_LOG:4",
       "C3": "ENCHANTED_OAK_LOG:4"
-    },
-    "useneucraft": true
+    }
   },
   "OAK_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -61392,8 +60989,7 @@
       "C1": "ENCHANTED_OAK_LOG:8",
       "C2": "ENCHANTED_OAK_LOG:8",
       "C3": "ENCHANTED_OAK_LOG:8"
-    },
-    "useneucraft": true
+    }
   },
   "OAK_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -61431,8 +61027,7 @@
       "C1": "ENCHANTED_OAK_LOG:16",
       "C2": "ENCHANTED_OAK_LOG:16",
       "C3": "ENCHANTED_OAK_LOG:16"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_1": {
     "itemid": "minecraft:skull",
@@ -61470,8 +61065,7 @@
       "C1": "OBSIDIAN:10",
       "C2": "OBSIDIAN:10",
       "C3": "OBSIDIAN:10"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -61509,8 +61103,7 @@
       "C1": "ENCHANTED_OBSIDIAN:32",
       "C2": "ENCHANTED_OBSIDIAN:32",
       "C3": "ENCHANTED_OBSIDIAN:32"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -61548,8 +61141,7 @@
       "C1": "ENCHANTED_OBSIDIAN:64",
       "C2": "ENCHANTED_OBSIDIAN:64",
       "C3": "ENCHANTED_OBSIDIAN:64"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -61587,8 +61179,7 @@
       "C1": "OBSIDIAN:20",
       "C2": "OBSIDIAN:20",
       "C3": "OBSIDIAN:20"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -61626,8 +61217,7 @@
       "C1": "OBSIDIAN:40",
       "C2": "OBSIDIAN:40",
       "C3": "OBSIDIAN:40"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -61665,8 +61255,7 @@
       "C1": "OBSIDIAN:64",
       "C2": "OBSIDIAN:64",
       "C3": "OBSIDIAN:64"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -61704,8 +61293,7 @@
       "C1": "ENCHANTED_OBSIDIAN:1",
       "C2": "ENCHANTED_OBSIDIAN:1",
       "C3": "ENCHANTED_OBSIDIAN:1"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -61743,8 +61331,7 @@
       "C1": "ENCHANTED_OBSIDIAN:2",
       "C2": "ENCHANTED_OBSIDIAN:2",
       "C3": "ENCHANTED_OBSIDIAN:2"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -61782,8 +61369,7 @@
       "C1": "ENCHANTED_OBSIDIAN:4",
       "C2": "ENCHANTED_OBSIDIAN:4",
       "C3": "ENCHANTED_OBSIDIAN:4"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -61821,8 +61407,7 @@
       "C1": "ENCHANTED_OBSIDIAN:8",
       "C2": "ENCHANTED_OBSIDIAN:8",
       "C3": "ENCHANTED_OBSIDIAN:8"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -61860,8 +61445,7 @@
       "C1": "ENCHANTED_OBSIDIAN:16",
       "C2": "ENCHANTED_OBSIDIAN:16",
       "C3": "ENCHANTED_OBSIDIAN:16"
-    },
-    "useneucraft": true
+    }
   },
   "OBSIDIAN_TABLET": {
     "itemid": "minecraft:paper",
@@ -61978,7 +61562,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ocelot_Pet"
     ],
-    "useneucraft": true,
     "recipes": [
       {
         "A1": "LOG-3:32",
@@ -62785,8 +62368,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_BOOTS_11": {
     "itemid": "minecraft:diamond_boots",
@@ -62820,8 +62402,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_BOOTS_12": {
     "itemid": "minecraft:diamond_boots",
@@ -62855,8 +62436,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_BOOTS_2": {
     "itemid": "minecraft:diamond_boots",
@@ -62890,8 +62470,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_BOOTS_3": {
     "itemid": "minecraft:diamond_boots",
@@ -62925,8 +62504,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_BOOTS_4": {
     "itemid": "minecraft:diamond_boots",
@@ -62960,8 +62538,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_BOOTS_5": {
     "itemid": "minecraft:diamond_boots",
@@ -62995,8 +62572,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_BOOTS_6": {
     "itemid": "minecraft:diamond_boots",
@@ -63030,8 +62606,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_BOOTS_7": {
     "itemid": "minecraft:diamond_boots",
@@ -63065,8 +62640,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_BOOTS_8": {
     "itemid": "minecraft:diamond_boots",
@@ -63100,8 +62674,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_BOOTS_9": {
     "itemid": "minecraft:diamond_boots",
@@ -63135,8 +62708,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_BOOTS_1"
+    }
   },
   "PERFECT_CHESTPLATE_1": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63204,8 +62776,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHESTPLATE_11": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63239,8 +62810,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHESTPLATE_12": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63274,8 +62844,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHESTPLATE_2": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63309,8 +62878,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHESTPLATE_3": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63344,8 +62912,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHESTPLATE_4": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63379,8 +62946,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHESTPLATE_5": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63414,8 +62980,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHESTPLATE_6": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63449,8 +63014,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHESTPLATE_7": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63484,8 +63048,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHESTPLATE_8": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63519,8 +63082,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHESTPLATE_9": {
     "itemid": "minecraft:diamond_chestplate",
@@ -63554,8 +63116,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_CHESTPLATE_1"
+    }
   },
   "PERFECT_CHISEL": {
     "itemid": "minecraft:armor_stand",
@@ -63701,8 +63262,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_HELMET_11": {
     "itemid": "minecraft:diamond_helmet",
@@ -63736,8 +63296,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_HELMET_12": {
     "itemid": "minecraft:diamond_helmet",
@@ -63771,8 +63330,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_HELMET_2": {
     "itemid": "minecraft:diamond_helmet",
@@ -63806,8 +63364,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_HELMET_3": {
     "itemid": "minecraft:diamond_helmet",
@@ -63841,8 +63398,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_HELMET_4": {
     "itemid": "minecraft:diamond_helmet",
@@ -63876,8 +63432,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_HELMET_5": {
     "itemid": "minecraft:diamond_helmet",
@@ -63911,8 +63466,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_HELMET_6": {
     "itemid": "minecraft:diamond_helmet",
@@ -63946,8 +63500,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_HELMET_7": {
     "itemid": "minecraft:diamond_helmet",
@@ -63981,8 +63534,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_HELMET_8": {
     "itemid": "minecraft:diamond_helmet",
@@ -64016,8 +63568,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_HELMET_9": {
     "itemid": "minecraft:diamond_helmet",
@@ -64051,8 +63602,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_HELMET_1"
+    }
   },
   "PERFECT_JADE_GEM": {
     "itemid": "minecraft:paper",
@@ -64194,8 +63744,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_LEGGINGS_11": {
     "itemid": "minecraft:diamond_leggings",
@@ -64229,8 +63778,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_LEGGINGS_12": {
     "itemid": "minecraft:diamond_leggings",
@@ -64264,8 +63812,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_LEGGINGS_2": {
     "itemid": "minecraft:diamond_leggings",
@@ -64299,8 +63846,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_LEGGINGS_3": {
     "itemid": "minecraft:diamond_leggings",
@@ -64334,8 +63880,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_LEGGINGS_4": {
     "itemid": "minecraft:diamond_leggings",
@@ -64369,8 +63914,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_LEGGINGS_5": {
     "itemid": "minecraft:diamond_leggings",
@@ -64404,8 +63948,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_LEGGINGS_6": {
     "itemid": "minecraft:diamond_leggings",
@@ -64439,8 +63982,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_LEGGINGS_7": {
     "itemid": "minecraft:diamond_leggings",
@@ -64474,8 +64016,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_LEGGINGS_8": {
     "itemid": "minecraft:diamond_leggings",
@@ -64509,8 +64050,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_LEGGINGS_9": {
     "itemid": "minecraft:diamond_leggings",
@@ -64544,8 +64084,7 @@
       "C1": "",
       "C2": "ENCHANTED_DIAMOND_BLOCK:1",
       "C3": ""
-    },
-    "parent": "PERFECT_LEGGINGS_1"
+    }
   },
   "PERFECT_ONYX_GEM": {
     "itemid": "minecraft:paper",
@@ -65624,8 +65163,7 @@
       "C1": "PORK:8",
       "C2": "PORK:8",
       "C3": "PORK:8"
-    },
-    "useneucraft": true
+    }
   },
   "PIG_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -65661,8 +65199,7 @@
       "C1": "ENCHANTED_PORK:64",
       "C2": "ENCHANTED_PORK:64",
       "C3": "ENCHANTED_PORK:64"
-    },
-    "useneucraft": true
+    }
   },
   "PIG_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -65698,8 +65235,7 @@
       "C1": "ENCHANTED_GRILLED_PORK:1",
       "C2": "ENCHANTED_GRILLED_PORK:1",
       "C3": "ENCHANTED_GRILLED_PORK:1"
-    },
-    "useneucraft": true
+    }
   },
   "PIG_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -65735,8 +65271,7 @@
       "C1": "PORK:16",
       "C2": "PORK:16",
       "C3": "PORK:16"
-    },
-    "useneucraft": true
+    }
   },
   "PIG_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -65772,8 +65307,7 @@
       "C1": "PORK:32",
       "C2": "PORK:32",
       "C3": "PORK:32"
-    },
-    "useneucraft": true
+    }
   },
   "PIG_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -65809,8 +65343,7 @@
       "C1": "PORK:64",
       "C2": "PORK:64",
       "C3": "PORK:64"
-    },
-    "useneucraft": true
+    }
   },
   "PIG_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -65846,8 +65379,7 @@
       "C1": "ENCHANTED_PORK:1",
       "C2": "ENCHANTED_PORK:1",
       "C3": "ENCHANTED_PORK:1"
-    },
-    "useneucraft": true
+    }
   },
   "PIG_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -65883,8 +65415,7 @@
       "C1": "ENCHANTED_PORK:3",
       "C2": "ENCHANTED_PORK:3",
       "C3": "ENCHANTED_PORK:3"
-    },
-    "useneucraft": true
+    }
   },
   "PIG_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -65920,8 +65451,7 @@
       "C1": "ENCHANTED_PORK:8",
       "C2": "ENCHANTED_PORK:8",
       "C3": "ENCHANTED_PORK:8"
-    },
-    "useneucraft": true
+    }
   },
   "PIG_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -65957,8 +65487,7 @@
       "C1": "ENCHANTED_PORK:16",
       "C2": "ENCHANTED_PORK:16",
       "C3": "ENCHANTED_PORK:16"
-    },
-    "useneucraft": true
+    }
   },
   "PIG_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -65994,8 +65523,7 @@
       "C1": "ENCHANTED_PORK:32",
       "C2": "ENCHANTED_PORK:32",
       "C3": "ENCHANTED_PORK:32"
-    },
-    "useneucraft": true
+    }
   },
   "PISTON_BASE": {
     "itemid": "minecraft:piston",
@@ -66650,8 +66178,7 @@
       "C1": "POTATO_ITEM:16",
       "C2": "POTATO_ITEM:16",
       "C3": "POTATO_ITEM:16"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -66689,8 +66216,7 @@
       "C1": "ENCHANTED_BAKED_POTATO:1",
       "C2": "ENCHANTED_BAKED_POTATO:1",
       "C3": "ENCHANTED_BAKED_POTATO:1"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -66728,8 +66254,7 @@
       "C1": "ENCHANTED_BAKED_POTATO:2",
       "C2": "ENCHANTED_BAKED_POTATO:2",
       "C3": "ENCHANTED_BAKED_POTATO:2"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -66767,8 +66292,7 @@
       "C1": "POTATO_ITEM:32",
       "C2": "POTATO_ITEM:32",
       "C3": "POTATO_ITEM:32"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -66806,8 +66330,7 @@
       "C1": "POTATO_ITEM:64",
       "C2": "POTATO_ITEM:64",
       "C3": "POTATO_ITEM:64"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -66845,8 +66368,7 @@
       "C1": "ENCHANTED_POTATO:1",
       "C2": "ENCHANTED_POTATO:1",
       "C3": "ENCHANTED_POTATO:1"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -66884,8 +66406,7 @@
       "C1": "ENCHANTED_POTATO:3",
       "C2": "ENCHANTED_POTATO:3",
       "C3": "ENCHANTED_POTATO:3"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -66923,8 +66444,7 @@
       "C1": "ENCHANTED_POTATO:8",
       "C2": "ENCHANTED_POTATO:8",
       "C3": "ENCHANTED_POTATO:8"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -66962,8 +66482,7 @@
       "C1": "ENCHANTED_POTATO:16",
       "C2": "ENCHANTED_POTATO:16",
       "C3": "ENCHANTED_POTATO:16"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -67001,8 +66520,7 @@
       "C1": "ENCHANTED_POTATO:32",
       "C2": "ENCHANTED_POTATO:32",
       "C3": "ENCHANTED_POTATO:32"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -67040,8 +66558,7 @@
       "C1": "ENCHANTED_POTATO:64",
       "C2": "ENCHANTED_POTATO:64",
       "C3": "ENCHANTED_POTATO:64"
-    },
-    "useneucraft": true
+    }
   },
   "POTATO_RING": {
     "itemid": "minecraft:skull",
@@ -67603,8 +67120,7 @@
       "C1": "GIANT_FRAGMENT_DIAMOND:1",
       "C2": "GIANT_FRAGMENT_DIAMOND:1",
       "C3": "GIANT_FRAGMENT_DIAMOND:1"
-    },
-    "parent": "WITHER_BOOTS"
+    }
   },
   "POWER_WITHER_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
@@ -67651,8 +67167,7 @@
       "C1": "GIANT_FRAGMENT_DIAMOND:1",
       "C2": "GIANT_FRAGMENT_DIAMOND:1",
       "C3": "GIANT_FRAGMENT_DIAMOND:1"
-    },
-    "parent": "WITHER_CHESTPLATE"
+    }
   },
   "POWER_WITHER_HELMET": {
     "itemid": "minecraft:skull",
@@ -67699,8 +67214,7 @@
       "C1": "GIANT_FRAGMENT_DIAMOND:1",
       "C2": "GIANT_FRAGMENT_DIAMOND:1",
       "C3": "GIANT_FRAGMENT_DIAMOND:1"
-    },
-    "parent": "WITHER_HELMET"
+    }
   },
   "POWER_WITHER_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
@@ -67747,8 +67261,7 @@
       "C1": "GIANT_FRAGMENT_DIAMOND:1",
       "C2": "GIANT_FRAGMENT_DIAMOND:1",
       "C3": "GIANT_FRAGMENT_DIAMOND:1"
-    },
-    "parent": "WITHER_LEGGINGS"
+    }
   },
   "PRECURSOR_APPARATUS": {
     "itemid": "minecraft:paper",
@@ -68362,7 +67875,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "PRISMARINE",
     "vanilla": true,
     "recipe": {
       "A1": "PRISMARINE_SHARD:1",
@@ -68390,7 +67902,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "PRISMARINE",
     "vanilla": true,
     "recipe": {
       "A1": "PRISMARINE_SHARD:1",
@@ -69253,8 +68764,7 @@
       "C1": "PUMPKIN:10",
       "C2": "PUMPKIN:10",
       "C3": "PUMPKIN:10"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -69292,8 +68802,7 @@
       "C1": "ENCHANTED_PUMPKIN:32",
       "C2": "ENCHANTED_PUMPKIN:32",
       "C3": "ENCHANTED_PUMPKIN:32"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -69331,8 +68840,7 @@
       "C1": "ENCHANTED_PUMPKIN:64",
       "C2": "ENCHANTED_PUMPKIN:64",
       "C3": "ENCHANTED_PUMPKIN:64"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -69370,8 +68878,7 @@
       "C1": "PUMPKIN:20",
       "C2": "PUMPKIN:20",
       "C3": "PUMPKIN:20"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -69409,8 +68916,7 @@
       "C1": "PUMPKIN:40",
       "C2": "PUMPKIN:40",
       "C3": "PUMPKIN:40"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -69448,8 +68954,7 @@
       "C1": "PUMPKIN:64",
       "C2": "PUMPKIN:64",
       "C3": "PUMPKIN:64"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -69487,8 +68992,7 @@
       "C1": "ENCHANTED_PUMPKIN:1",
       "C2": "ENCHANTED_PUMPKIN:1",
       "C3": "ENCHANTED_PUMPKIN:1"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -69526,8 +69030,7 @@
       "C1": "ENCHANTED_PUMPKIN:2",
       "C2": "ENCHANTED_PUMPKIN:2",
       "C3": "ENCHANTED_PUMPKIN:2"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -69565,8 +69068,7 @@
       "C1": "ENCHANTED_PUMPKIN:4",
       "C2": "ENCHANTED_PUMPKIN:4",
       "C3": "ENCHANTED_PUMPKIN:4"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -69604,8 +69106,7 @@
       "C1": "ENCHANTED_PUMPKIN:8",
       "C2": "ENCHANTED_PUMPKIN:8",
       "C3": "ENCHANTED_PUMPKIN:8"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -69643,8 +69144,7 @@
       "C1": "ENCHANTED_PUMPKIN:16",
       "C2": "ENCHANTED_PUMPKIN:16",
       "C3": "ENCHANTED_PUMPKIN:16"
-    },
-    "useneucraft": true
+    }
   },
   "PUMPKIN_HELMET": {
     "itemid": "minecraft:skull",
@@ -69875,7 +69375,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "QUARTZ_BLOCK",
     "vanilla": true,
     "recipe": {
       "A1": "STEP-7:1",
@@ -69903,7 +69402,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "QUARTZ_BLOCK",
     "vanilla": true,
     "recipe": {
       "A1": "QUARTZ_BLOCK:1",
@@ -69981,8 +69479,7 @@
       "C1": "QUARTZ:10",
       "C2": "QUARTZ:10",
       "C3": "QUARTZ:10"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -70020,8 +69517,7 @@
       "C1": "ENCHANTED_QUARTZ:64",
       "C2": "ENCHANTED_QUARTZ:64",
       "C3": "ENCHANTED_QUARTZ:64"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -70059,8 +69555,7 @@
       "C1": "ENCHANTED_QUARTZ_BLOCK:1",
       "C2": "ENCHANTED_QUARTZ_BLOCK:1",
       "C3": "ENCHANTED_QUARTZ_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -70098,8 +69593,7 @@
       "C1": "QUARTZ:20",
       "C2": "QUARTZ:20",
       "C3": "QUARTZ:20"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -70137,8 +69631,7 @@
       "C1": "QUARTZ:40",
       "C2": "QUARTZ:40",
       "C3": "QUARTZ:40"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -70176,8 +69669,7 @@
       "C1": "QUARTZ:64",
       "C2": "QUARTZ:64",
       "C3": "QUARTZ:64"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -70215,8 +69707,7 @@
       "C1": "ENCHANTED_QUARTZ:1",
       "C2": "ENCHANTED_QUARTZ:1",
       "C3": "ENCHANTED_QUARTZ:1"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -70254,8 +69745,7 @@
       "C1": "ENCHANTED_QUARTZ:3",
       "C2": "ENCHANTED_QUARTZ:3",
       "C3": "ENCHANTED_QUARTZ:3"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -70293,8 +69783,7 @@
       "C1": "ENCHANTED_QUARTZ:8",
       "C2": "ENCHANTED_QUARTZ:8",
       "C3": "ENCHANTED_QUARTZ:8"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -70332,8 +69821,7 @@
       "C1": "ENCHANTED_QUARTZ:16",
       "C2": "ENCHANTED_QUARTZ:16",
       "C3": "ENCHANTED_QUARTZ:16"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -70371,8 +69859,7 @@
       "C1": "ENCHANTED_QUARTZ:32",
       "C2": "ENCHANTED_QUARTZ:32",
       "C3": "ENCHANTED_QUARTZ:32"
-    },
-    "useneucraft": true
+    }
   },
   "QUARTZ_STAIRS": {
     "itemid": "minecraft:quartz_stairs",
@@ -70597,7 +70084,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "RABBIT:8",
       "A2": "RABBIT:8",
@@ -70635,7 +70121,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "ENCHANTED_RABBIT:64",
       "A2": "ENCHANTED_RABBIT:64",
@@ -70673,7 +70158,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "ENCHANTED_COOKED_RABBIT:1",
       "A2": "ENCHANTED_COOKED_RABBIT:1",
@@ -70711,7 +70195,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "RABBIT:16",
       "A2": "RABBIT:16",
@@ -70749,7 +70232,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "RABBIT:32",
       "A2": "RABBIT:32",
@@ -70787,7 +70269,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "RABBIT:64",
       "A2": "RABBIT:64",
@@ -70825,7 +70306,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "ENCHANTED_RABBIT:1",
       "A2": "ENCHANTED_RABBIT:1",
@@ -70863,7 +70343,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "ENCHANTED_RABBIT:3",
       "A2": "ENCHANTED_RABBIT:3",
@@ -70901,7 +70380,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "ENCHANTED_RABBIT:8",
       "A2": "ENCHANTED_RABBIT:8",
@@ -70939,7 +70417,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "ENCHANTED_RABBIT:16",
       "A2": "ENCHANTED_RABBIT:16",
@@ -70977,7 +70454,6 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rabbit_Minion"
     ],
-    "useneucraft": true,
     "recipe": {
       "A1": "ENCHANTED_RABBIT:32",
       "A2": "ENCHANTED_RABBIT:32",
@@ -71866,8 +71342,7 @@
       "C1": "REDSTONE:16",
       "C2": "REDSTONE:16",
       "C3": "REDSTONE:16"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -71905,8 +71380,7 @@
       "C1": "ENCHANTED_REDSTONE_BLOCK:1",
       "C2": "ENCHANTED_REDSTONE_BLOCK:1",
       "C3": "ENCHANTED_REDSTONE_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -71944,8 +71418,7 @@
       "C1": "ENCHANTED_REDSTONE_BLOCK:2",
       "C2": "ENCHANTED_REDSTONE_BLOCK:2",
       "C3": "ENCHANTED_REDSTONE_BLOCK:2"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -71983,8 +71456,7 @@
       "C1": "REDSTONE:32",
       "C2": "REDSTONE:32",
       "C3": "REDSTONE:32"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -72022,8 +71494,7 @@
       "C1": "REDSTONE:64",
       "C2": "REDSTONE:64",
       "C3": "REDSTONE:64"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -72061,8 +71532,7 @@
       "C1": "ENCHANTED_REDSTONE:1",
       "C2": "ENCHANTED_REDSTONE:1",
       "C3": "ENCHANTED_REDSTONE:1"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -72100,8 +71570,7 @@
       "C1": "ENCHANTED_REDSTONE:3",
       "C2": "ENCHANTED_REDSTONE:3",
       "C3": "ENCHANTED_REDSTONE:3"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -72139,8 +71608,7 @@
       "C1": "ENCHANTED_REDSTONE:8",
       "C2": "ENCHANTED_REDSTONE:8",
       "C3": "ENCHANTED_REDSTONE:8"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -72178,8 +71646,7 @@
       "C1": "ENCHANTED_REDSTONE:16",
       "C2": "ENCHANTED_REDSTONE:16",
       "C3": "ENCHANTED_REDSTONE:16"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -72217,8 +71684,7 @@
       "C1": "ENCHANTED_REDSTONE:32",
       "C2": "ENCHANTED_REDSTONE:32",
       "C3": "ENCHANTED_REDSTONE:32"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -72256,8 +71722,7 @@
       "C1": "ENCHANTED_REDSTONE:64",
       "C2": "ENCHANTED_REDSTONE:64",
       "C3": "ENCHANTED_REDSTONE:64"
-    },
-    "useneucraft": true
+    }
   },
   "REDSTONE_LAMP_OFF": {
     "itemid": "minecraft:redstone_lamp",
@@ -72436,7 +71901,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "RED_SANDSTONE",
     "vanilla": true,
     "recipe": {
       "A1": "STONE_SLAB2:1",
@@ -72571,8 +72035,7 @@
       "C2": "SAND-1:10",
       "C3": "SAND-1:10"
     },
-    "reputation_req": "BARBARIAN:500",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:500"
   },
   "RED_SAND_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -72612,8 +72075,7 @@
       "C2": "ENCHANTED_RED_SAND_CUBE:1",
       "C3": "ENCHANTED_RED_SAND_CUBE:1"
     },
-    "reputation_req": "BARBARIAN:9000",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:9000"
   },
   "RED_SAND_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -72653,8 +72115,7 @@
       "C2": "ENCHANTED_RED_SAND_CUBE:2",
       "C3": "ENCHANTED_RED_SAND_CUBE:2"
     },
-    "reputation_req": "BARBARIAN:10000",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:10000"
   },
   "RED_SAND_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -72694,8 +72155,7 @@
       "C2": "SAND-1:32",
       "C3": "SAND-1:32"
     },
-    "reputation_req": "BARBARIAN:1000",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:1000"
   },
   "RED_SAND_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -72735,8 +72195,7 @@
       "C2": "SAND-1:64",
       "C3": "SAND-1:64"
     },
-    "reputation_req": "BARBARIAN:1500",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:1500"
   },
   "RED_SAND_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -72776,8 +72235,7 @@
       "C2": "ENCHANTED_RED_SAND:2",
       "C3": "ENCHANTED_RED_SAND:2"
     },
-    "reputation_req": "BARBARIAN:2000",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:2000"
   },
   "RED_SAND_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -72817,8 +72275,7 @@
       "C2": "ENCHANTED_RED_SAND:4",
       "C3": "ENCHANTED_RED_SAND:4"
     },
-    "reputation_req": "BARBARIAN:3000",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:3000"
   },
   "RED_SAND_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -72858,8 +72315,7 @@
       "C2": "ENCHANTED_RED_SAND:8",
       "C3": "ENCHANTED_RED_SAND:8"
     },
-    "reputation_req": "BARBARIAN:4000",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:4000"
   },
   "RED_SAND_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -72899,8 +72355,7 @@
       "C2": "ENCHANTED_RED_SAND:16",
       "C3": "ENCHANTED_RED_SAND:16"
     },
-    "reputation_req": "BARBARIAN:5500",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:5500"
   },
   "RED_SAND_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -72940,8 +72395,7 @@
       "C2": "ENCHANTED_RED_SAND:32",
       "C3": "ENCHANTED_RED_SAND:32"
     },
-    "reputation_req": "BARBARIAN:6500",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:6500"
   },
   "RED_SAND_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -72981,8 +72435,7 @@
       "C2": "ENCHANTED_RED_SAND:64",
       "C3": "ENCHANTED_RED_SAND:64"
     },
-    "reputation_req": "BARBARIAN:7500",
-    "useneucraft": true
+    "reputation_req": "BARBARIAN:7500"
   },
   "RED_SWEATER": {
     "itemid": "minecraft:leather_chestplate",
@@ -74085,8 +73538,7 @@
       "C2": "REVENANT_FLESH:10",
       "C3": "REVENANT_FLESH:10"
     },
-    "slayer_req": "ZOMBIE_5",
-    "useneucraft": true
+    "slayer_req": "ZOMBIE_5"
   },
   "REVENANT_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -74123,8 +73575,7 @@
       "C1": "REVENANT_VISCERA:32",
       "C2": "ZOMBIE_GENERATOR_9:1",
       "C3": "REVENANT_VISCERA:32"
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -74161,8 +73612,7 @@
       "C1": "REVENANT_VISCERA:64",
       "C2": "ZOMBIE_GENERATOR_10:1",
       "C3": "REVENANT_VISCERA:64"
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -74200,8 +73650,7 @@
       "C1": "",
       "C2": "REVENANT_GENERATOR_11:1",
       "C3": ""
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -74238,8 +73687,7 @@
       "C1": "REVENANT_FLESH:20",
       "C2": "ZOMBIE_GENERATOR_1:1",
       "C3": "REVENANT_FLESH:20"
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -74276,8 +73724,7 @@
       "C1": "REVENANT_FLESH:40",
       "C2": "ZOMBIE_GENERATOR_2:1",
       "C3": "REVENANT_FLESH:40"
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -74314,8 +73761,7 @@
       "C1": "REVENANT_FLESH:64",
       "C2": "ZOMBIE_GENERATOR_3:1",
       "C3": "REVENANT_FLESH:64"
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -74352,8 +73798,7 @@
       "C1": "REVENANT_VISCERA:1",
       "C2": "ZOMBIE_GENERATOR_4:1",
       "C3": "REVENANT_VISCERA:1"
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -74390,8 +73835,7 @@
       "C1": "REVENANT_VISCERA:2",
       "C2": "ZOMBIE_GENERATOR_5:1",
       "C3": "REVENANT_VISCERA:2"
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -74428,8 +73872,7 @@
       "C1": "REVENANT_VISCERA:4",
       "C2": "ZOMBIE_GENERATOR_6:1",
       "C3": "REVENANT_VISCERA:4"
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -74466,8 +73909,7 @@
       "C1": "REVENANT_VISCERA:8",
       "C2": "ZOMBIE_GENERATOR_7:1",
       "C3": "REVENANT_VISCERA:8"
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -74504,8 +73946,7 @@
       "C1": "REVENANT_VISCERA:16",
       "C2": "ZOMBIE_GENERATOR_8:1",
       "C3": "REVENANT_VISCERA:16"
-    },
-    "useneucraft": true
+    }
   },
   "REVENANT_LEGGINGS": {
     "itemid": "minecraft:diamond_leggings",
@@ -75580,7 +75021,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "SANDSTONE",
     "vanilla": true,
     "recipe": {
       "A1": "STEP-1:1",
@@ -75712,8 +75152,7 @@
       "C1": "SAND:10",
       "C2": "SAND:10",
       "C3": "SAND:10"
-    },
-    "useneucraft": true
+    }
   },
   "SAND_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -75750,8 +75189,7 @@
       "C1": "ENCHANTED_SAND:32",
       "C2": "ENCHANTED_SAND:32",
       "C3": "ENCHANTED_SAND:32"
-    },
-    "useneucraft": true
+    }
   },
   "SAND_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -75788,8 +75226,7 @@
       "C1": "ENCHANTED_SAND:64",
       "C2": "ENCHANTED_SAND:64",
       "C3": "ENCHANTED_SAND:64"
-    },
-    "useneucraft": true
+    }
   },
   "SAND_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -75826,8 +75263,7 @@
       "C1": "SAND:20",
       "C2": "SAND:20",
       "C3": "SAND:20"
-    },
-    "useneucraft": true
+    }
   },
   "SAND_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -75864,8 +75300,7 @@
       "C1": "SAND:40",
       "C2": "SAND:40",
       "C3": "SAND:40"
-    },
-    "useneucraft": true
+    }
   },
   "SAND_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -75902,8 +75337,7 @@
       "C1": "SAND:64",
       "C2": "SAND:64",
       "C3": "SAND:64"
-    },
-    "useneucraft": true
+    }
   },
   "SAND_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -75940,8 +75374,7 @@
       "C1": "ENCHANTED_SAND:1",
       "C2": "ENCHANTED_SAND:1",
       "C3": "ENCHANTED_SAND:1"
-    },
-    "useneucraft": true
+    }
   },
   "SAND_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -75978,8 +75411,7 @@
       "C1": "ENCHANTED_SAND:2",
       "C2": "ENCHANTED_SAND:2",
       "C3": "ENCHANTED_SAND:2"
-    },
-    "useneucraft": true
+    }
   },
   "SAND_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -76016,8 +75448,7 @@
       "C1": "ENCHANTED_SAND:4",
       "C2": "ENCHANTED_SAND:4",
       "C3": "ENCHANTED_SAND:4"
-    },
-    "useneucraft": true
+    }
   },
   "SAND_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -76054,8 +75485,7 @@
       "C1": "ENCHANTED_SAND:8",
       "C2": "ENCHANTED_SAND:8",
       "C3": "ENCHANTED_SAND:8"
-    },
-    "useneucraft": true
+    }
   },
   "SAND_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -76092,8 +75522,7 @@
       "C1": "ENCHANTED_SAND:16",
       "C2": "ENCHANTED_SAND:16",
       "C3": "ENCHANTED_SAND:16"
-    },
-    "useneucraft": true
+    }
   },
   "SAPPHIRE_CLOAK": {
     "itemid": "minecraft:paper",
@@ -76328,7 +75757,7 @@
   "SAVING_GRACE": {
     "itemid": "minecraft:nether_star",
     "displayname": "§9Saving Grace",
-    "nbttag": "{ExtraAttributes:{id:\"SAVING_GRACE\"},HideFlags:254,ItemModel:\"minecraft:nether_star\",display:{Lore:[0:\"§7Safely teleports you back to your\",1:\"§7private island when you are about to\",2:\"§7die. This item will be consumed on use.\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Saving Grace\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"SAVING_GRACE\"},HideFlags:254,ItemModel:\"minecraft:nether_star\",display:{Lore:[0:\"§7Safely teleports you back to your\",1:\"§7private island when you are about to\",2:\"§7die. This item will be consumed on use.\",3:\"\",4:\"§9§lRARE\"],Name:\"§9Saving Grace\"}}",
     "damage": 0,
     "lore": [
       "§7Safely teleports you back to your",
@@ -76340,7 +75769,7 @@
     "internalname": "SAVING_GRACE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Ender Pearl IX",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Saving_Grace"
@@ -76804,8 +76233,7 @@
       "C1": "GIANT_FRAGMENT_BIGFOOT:1",
       "C2": "GIANT_FRAGMENT_BIGFOOT:1",
       "C3": "GIANT_FRAGMENT_BIGFOOT:1"
-    },
-    "parent": "NECRON_BLADE"
+    }
   },
   "SEARING_STONE": {
     "itemid": "minecraft:paper",
@@ -77615,8 +77043,7 @@
       "C1": "MUTTON:8",
       "C2": "MUTTON:8",
       "C3": "MUTTON:8"
-    },
-    "useneucraft": true
+    }
   },
   "SHEEP_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -77653,8 +77080,7 @@
       "C1": "ENCHANTED_MUTTON:64",
       "C2": "ENCHANTED_MUTTON:64",
       "C3": "ENCHANTED_MUTTON:64"
-    },
-    "useneucraft": true
+    }
   },
   "SHEEP_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -77691,8 +77117,7 @@
       "C1": "ENCHANTED_COOKED_MUTTON:1",
       "C2": "ENCHANTED_COOKED_MUTTON:1",
       "C3": "ENCHANTED_COOKED_MUTTON:1"
-    },
-    "useneucraft": true
+    }
   },
   "SHEEP_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -77729,8 +77154,7 @@
       "C1": "MUTTON:16",
       "C2": "MUTTON:16",
       "C3": "MUTTON:16"
-    },
-    "useneucraft": true
+    }
   },
   "SHEEP_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -77767,8 +77191,7 @@
       "C1": "MUTTON:32",
       "C2": "MUTTON:32",
       "C3": "MUTTON:32"
-    },
-    "useneucraft": true
+    }
   },
   "SHEEP_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -77805,8 +77228,7 @@
       "C1": "MUTTON:64",
       "C2": "MUTTON:64",
       "C3": "MUTTON:64"
-    },
-    "useneucraft": true
+    }
   },
   "SHEEP_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -77843,8 +77265,7 @@
       "C1": "ENCHANTED_MUTTON:1",
       "C2": "ENCHANTED_MUTTON:1",
       "C3": "ENCHANTED_MUTTON:1"
-    },
-    "useneucraft": true
+    }
   },
   "SHEEP_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -77881,8 +77302,7 @@
       "C1": "ENCHANTED_MUTTON:3",
       "C2": "ENCHANTED_MUTTON:3",
       "C3": "ENCHANTED_MUTTON:3"
-    },
-    "useneucraft": true
+    }
   },
   "SHEEP_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -77919,8 +77339,7 @@
       "C1": "ENCHANTED_MUTTON:8",
       "C2": "ENCHANTED_MUTTON:8",
       "C3": "ENCHANTED_MUTTON:8"
-    },
-    "useneucraft": true
+    }
   },
   "SHEEP_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -77957,8 +77376,7 @@
       "C1": "ENCHANTED_MUTTON:16",
       "C2": "ENCHANTED_MUTTON:16",
       "C3": "ENCHANTED_MUTTON:16"
-    },
-    "useneucraft": true
+    }
   },
   "SHEEP_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -77995,8 +77413,7 @@
       "C1": "ENCHANTED_MUTTON:32",
       "C2": "ENCHANTED_MUTTON:32",
       "C3": "ENCHANTED_MUTTON:32"
-    },
-    "useneucraft": true
+    }
   },
   "SHIMMERING_LIGHT_HOOD": {
     "itemid": "minecraft:skull",
@@ -78845,8 +78262,7 @@
       "C1": "BONE:10",
       "C2": "BONE:10",
       "C3": "BONE:10"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -78883,8 +78299,7 @@
       "C1": "ENCHANTED_BONE:32",
       "C2": "ENCHANTED_BONE:32",
       "C3": "ENCHANTED_BONE:32"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -78921,8 +78336,7 @@
       "C1": "ENCHANTED_BONE:64",
       "C2": "ENCHANTED_BONE:64",
       "C3": "ENCHANTED_BONE:64"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -78959,8 +78373,7 @@
       "C1": "BONE:20",
       "C2": "BONE:20",
       "C3": "BONE:20"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -78997,8 +78410,7 @@
       "C1": "BONE:40",
       "C2": "BONE:40",
       "C3": "BONE:40"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -79035,8 +78447,7 @@
       "C1": "BONE:64",
       "C2": "BONE:64",
       "C3": "BONE:64"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -79073,8 +78484,7 @@
       "C1": "ENCHANTED_BONE:1",
       "C2": "ENCHANTED_BONE:1",
       "C3": "ENCHANTED_BONE:1"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -79111,8 +78521,7 @@
       "C1": "ENCHANTED_BONE:2",
       "C2": "ENCHANTED_BONE:2",
       "C3": "ENCHANTED_BONE:2"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -79149,8 +78558,7 @@
       "C1": "ENCHANTED_BONE:4",
       "C2": "ENCHANTED_BONE:4",
       "C3": "ENCHANTED_BONE:4"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -79187,8 +78595,7 @@
       "C1": "ENCHANTED_BONE:8",
       "C2": "ENCHANTED_BONE:8",
       "C3": "ENCHANTED_BONE:8"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -79225,8 +78632,7 @@
       "C1": "ENCHANTED_BONE:16",
       "C2": "ENCHANTED_BONE:16",
       "C3": "ENCHANTED_BONE:16"
-    },
-    "useneucraft": true
+    }
   },
   "SKELETON_HAT": {
     "itemid": "minecraft:skull",
@@ -79468,8 +78874,7 @@
       "C1": "SLIME_BALL:10",
       "C2": "SLIME_BALL:10",
       "C3": "SLIME_BALL:10"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -79505,8 +78910,7 @@
       "C1": "ENCHANTED_SLIME_BALL:64",
       "C2": "ENCHANTED_SLIME_BALL:64",
       "C3": "ENCHANTED_SLIME_BALL:64"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -79542,8 +78946,7 @@
       "C1": "ENCHANTED_SLIME_BLOCK:1",
       "C2": "ENCHANTED_SLIME_BLOCK:1",
       "C3": "ENCHANTED_SLIME_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -79579,8 +78982,7 @@
       "C1": "SLIME_BALL:20",
       "C2": "SLIME_BALL:20",
       "C3": "SLIME_BALL:20"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -79616,8 +79018,7 @@
       "C1": "SLIME_BALL:40",
       "C2": "SLIME_BALL:40",
       "C3": "SLIME_BALL:40"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -79653,8 +79054,7 @@
       "C1": "SLIME_BALL:64",
       "C2": "SLIME_BALL:64",
       "C3": "SLIME_BALL:64"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -79690,8 +79090,7 @@
       "C1": "ENCHANTED_SLIME_BALL:1",
       "C2": "ENCHANTED_SLIME_BALL:1",
       "C3": "ENCHANTED_SLIME_BALL:1"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -79727,8 +79126,7 @@
       "C1": "ENCHANTED_SLIME_BALL:3",
       "C2": "ENCHANTED_SLIME_BALL:3",
       "C3": "ENCHANTED_SLIME_BALL:3"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -79764,8 +79162,7 @@
       "C1": "ENCHANTED_SLIME_BALL:8",
       "C2": "ENCHANTED_SLIME_BALL:8",
       "C3": "ENCHANTED_SLIME_BALL:8"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -79801,8 +79198,7 @@
       "C1": "ENCHANTED_SLIME_BALL:16",
       "C2": "ENCHANTED_SLIME_BALL:16",
       "C3": "ENCHANTED_SLIME_BALL:16"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -79838,8 +79234,7 @@
       "C1": "ENCHANTED_SLIME_BALL:32",
       "C2": "ENCHANTED_SLIME_BALL:32",
       "C3": "ENCHANTED_SLIME_BALL:32"
-    },
-    "useneucraft": true
+    }
   },
   "SLIME_HAT": {
     "itemid": "minecraft:skull",
@@ -80591,7 +79986,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "SMOOTH_BRICK",
     "vanilla": true,
     "recipe": {
       "A1": "SMOOTH_BRICK:1",
@@ -80619,7 +80013,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "SMOOTH_BRICK",
     "vanilla": true,
     "recipe": {
       "A1": "STEP-5:1",
@@ -80857,8 +80250,7 @@
       "C1": "ENCHANTED_SNOW_BLOCK:8",
       "C2": "ENCHANTED_SNOW_BLOCK:8",
       "C3": "ENCHANTED_SNOW_BLOCK:8"
-    },
-    "useneucraft": true
+    }
   },
   "SNOW_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -80896,8 +80288,7 @@
       "C1": "ENCHANTED_SNOW_BLOCK:16",
       "C2": "ENCHANTED_SNOW_BLOCK:16",
       "C3": "ENCHANTED_SNOW_BLOCK:16"
-    },
-    "useneucraft": true
+    }
   },
   "SNOW_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -80935,8 +80326,7 @@
       "C1": "SNOW_BLOCK:4",
       "C2": "SNOW_BLOCK:4",
       "C3": "SNOW_BLOCK:4"
-    },
-    "useneucraft": true
+    }
   },
   "SNOW_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -80974,8 +80364,7 @@
       "C1": "SNOW_BLOCK:8",
       "C2": "SNOW_BLOCK:8",
       "C3": "SNOW_BLOCK:8"
-    },
-    "useneucraft": true
+    }
   },
   "SNOW_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -81013,8 +80402,7 @@
       "C1": "SNOW_BLOCK:16",
       "C2": "SNOW_BLOCK:16",
       "C3": "SNOW_BLOCK:16"
-    },
-    "useneucraft": true
+    }
   },
   "SNOW_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -81052,8 +80440,7 @@
       "C1": "SNOW_BLOCK:32",
       "C2": "SNOW_BLOCK:32",
       "C3": "SNOW_BLOCK:32"
-    },
-    "useneucraft": true
+    }
   },
   "SNOW_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -81091,8 +80478,7 @@
       "C1": "SNOW_BLOCK:64",
       "C2": "SNOW_BLOCK:64",
       "C3": "SNOW_BLOCK:64"
-    },
-    "useneucraft": true
+    }
   },
   "SNOW_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -81130,8 +80516,7 @@
       "C1": "ENCHANTED_SNOW_BLOCK:1",
       "C2": "ENCHANTED_SNOW_BLOCK:1",
       "C3": "ENCHANTED_SNOW_BLOCK:1"
-    },
-    "useneucraft": true
+    }
   },
   "SNOW_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -81169,8 +80554,7 @@
       "C1": "ENCHANTED_SNOW_BLOCK:2",
       "C2": "ENCHANTED_SNOW_BLOCK:2",
       "C3": "ENCHANTED_SNOW_BLOCK:2"
-    },
-    "useneucraft": true
+    }
   },
   "SNOW_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -81208,8 +80592,7 @@
       "C1": "ENCHANTED_SNOW_BLOCK:4",
       "C2": "ENCHANTED_SNOW_BLOCK:4",
       "C3": "ENCHANTED_SNOW_BLOCK:4"
-    },
-    "useneucraft": true
+    }
   },
   "SNOW_HOWITZER": {
     "itemid": "minecraft:skull",
@@ -82205,8 +81588,7 @@
       "C1": "GIANT_FRAGMENT_BIGFOOT:1",
       "C2": "GIANT_FRAGMENT_BIGFOOT:1",
       "C3": "GIANT_FRAGMENT_BIGFOOT:1"
-    },
-    "parent": "WITHER_BOOTS"
+    }
   },
   "SPEED_WITHER_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
@@ -82254,8 +81636,7 @@
       "C1": "GIANT_FRAGMENT_BIGFOOT:1",
       "C2": "GIANT_FRAGMENT_BIGFOOT:1",
       "C3": "GIANT_FRAGMENT_BIGFOOT:1"
-    },
-    "parent": "WITHER_CHESTPLATE"
+    }
   },
   "SPEED_WITHER_HELMET": {
     "itemid": "minecraft:skull",
@@ -82303,8 +81684,7 @@
       "C1": "GIANT_FRAGMENT_BIGFOOT:1",
       "C2": "GIANT_FRAGMENT_BIGFOOT:1",
       "C3": "GIANT_FRAGMENT_BIGFOOT:1"
-    },
-    "parent": "WITHER_HELMET"
+    }
   },
   "SPEED_WITHER_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
@@ -82352,8 +81732,7 @@
       "C1": "GIANT_FRAGMENT_BIGFOOT:1",
       "C2": "GIANT_FRAGMENT_BIGFOOT:1",
       "C3": "GIANT_FRAGMENT_BIGFOOT:1"
-    },
-    "parent": "WITHER_LEGGINGS"
+    }
   },
   "SPIDER;0": {
     "itemid": "minecraft:skull",
@@ -82511,8 +81890,7 @@
       "C1": "STRING:10",
       "C2": "STRING:10",
       "C3": "STRING:10"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -82549,8 +81927,7 @@
       "C1": "ENCHANTED_STRING:32",
       "C2": "ENCHANTED_STRING:32",
       "C3": "ENCHANTED_STRING:32"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -82587,8 +81964,7 @@
       "C1": "ENCHANTED_STRING:64",
       "C2": "ENCHANTED_STRING:64",
       "C3": "ENCHANTED_STRING:64"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -82625,8 +82001,7 @@
       "C1": "STRING:20",
       "C2": "STRING:20",
       "C3": "STRING:20"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -82663,8 +82038,7 @@
       "C1": "STRING:40",
       "C2": "STRING:40",
       "C3": "STRING:40"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -82701,8 +82075,7 @@
       "C1": "STRING:64",
       "C2": "STRING:64",
       "C3": "STRING:64"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -82739,8 +82112,7 @@
       "C1": "ENCHANTED_STRING:1",
       "C2": "ENCHANTED_STRING:1",
       "C3": "ENCHANTED_STRING:1"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -82777,8 +82149,7 @@
       "C1": "ENCHANTED_STRING:2",
       "C2": "ENCHANTED_STRING:2",
       "C3": "ENCHANTED_STRING:2"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -82815,8 +82186,7 @@
       "C1": "ENCHANTED_STRING:4",
       "C2": "ENCHANTED_STRING:4",
       "C3": "ENCHANTED_STRING:4"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -82853,8 +82223,7 @@
       "C1": "ENCHANTED_STRING:8",
       "C2": "ENCHANTED_STRING:8",
       "C3": "ENCHANTED_STRING:8"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -82891,8 +82260,7 @@
       "C1": "ENCHANTED_STRING:16",
       "C2": "ENCHANTED_STRING:16",
       "C3": "ENCHANTED_STRING:16"
-    },
-    "useneucraft": true
+    }
   },
   "SPIDER_HAT": {
     "itemid": "minecraft:skull",
@@ -83616,8 +82984,7 @@
       "C1": "LOG-1:10",
       "C2": "LOG-1:10",
       "C3": "LOG-1:10"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -83655,8 +83022,7 @@
       "C1": "ENCHANTED_SPRUCE_LOG:32",
       "C2": "ENCHANTED_SPRUCE_LOG:32",
       "C3": "ENCHANTED_SPRUCE_LOG:32"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -83694,8 +83060,7 @@
       "C1": "ENCHANTED_SPRUCE_LOG:64",
       "C2": "ENCHANTED_SPRUCE_LOG:64",
       "C3": "ENCHANTED_SPRUCE_LOG:64"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -83776,8 +83141,7 @@
       "C1": "LOG-1:20",
       "C2": "LOG-1:20",
       "C3": "LOG-1:20"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -83815,8 +83179,7 @@
       "C1": "LOG-1:40",
       "C2": "LOG-1:40",
       "C3": "LOG-1:40"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -83854,8 +83217,7 @@
       "C1": "LOG-1:64",
       "C2": "LOG-1:64",
       "C3": "LOG-1:64"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -83893,8 +83255,7 @@
       "C1": "ENCHANTED_SPRUCE_LOG:1",
       "C2": "ENCHANTED_SPRUCE_LOG:1",
       "C3": "ENCHANTED_SPRUCE_LOG:1"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -83932,8 +83293,7 @@
       "C1": "ENCHANTED_SPRUCE_LOG:2",
       "C2": "ENCHANTED_SPRUCE_LOG:2",
       "C3": "ENCHANTED_SPRUCE_LOG:2"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -83971,8 +83331,7 @@
       "C1": "ENCHANTED_SPRUCE_LOG:4",
       "C2": "ENCHANTED_SPRUCE_LOG:4",
       "C3": "ENCHANTED_SPRUCE_LOG:4"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -84010,8 +83369,7 @@
       "C1": "ENCHANTED_SPRUCE_LOG:8",
       "C2": "ENCHANTED_SPRUCE_LOG:8",
       "C3": "ENCHANTED_SPRUCE_LOG:8"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -84049,8 +83407,7 @@
       "C1": "ENCHANTED_SPRUCE_LOG:16",
       "C2": "ENCHANTED_SPRUCE_LOG:16",
       "C3": "ENCHANTED_SPRUCE_LOG:16"
-    },
-    "useneucraft": true
+    }
   },
   "SPRUCE_WOOD_STAIRS": {
     "itemid": "minecraft:spruce_stairs",
@@ -84799,7 +84156,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -84828,7 +84184,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -84857,7 +84212,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -84886,7 +84240,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -84915,7 +84268,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -84944,7 +84296,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -84973,7 +84324,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -85002,7 +84352,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -85031,7 +84380,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -85060,7 +84408,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -85089,7 +84436,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -85118,7 +84464,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -85147,7 +84492,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -85176,7 +84520,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -85205,7 +84548,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STAINED_GLASS",
     "vanilla": true,
     "recipe": {
       "A1": "GLASS:1",
@@ -85831,8 +85173,7 @@
       "C1": "SCARF_FRAGMENT:1",
       "C2": "SCARF_FRAGMENT:1",
       "C3": "SCARF_FRAGMENT:1"
-    },
-    "parent": "ADAPTIVE_BOOTS"
+    }
   },
   "STARRED_ADAPTIVE_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
@@ -85885,8 +85226,7 @@
       "C1": "SCARF_FRAGMENT:1",
       "C2": "SCARF_FRAGMENT:1",
       "C3": "SCARF_FRAGMENT:1"
-    },
-    "parent": "ADAPTIVE_CHESTPLATE"
+    }
   },
   "STARRED_ADAPTIVE_HELMET": {
     "itemid": "minecraft:skull",
@@ -85939,8 +85279,7 @@
       "C1": "SCARF_FRAGMENT:1",
       "C2": "SCARF_FRAGMENT:1",
       "C3": "SCARF_FRAGMENT:1"
-    },
-    "parent": "ADAPTIVE_HELMET"
+    }
   },
   "STARRED_ADAPTIVE_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
@@ -85993,8 +85332,7 @@
       "C1": "SCARF_FRAGMENT:1",
       "C2": "SCARF_FRAGMENT:1",
       "C3": "SCARF_FRAGMENT:1"
-    },
-    "parent": "ADAPTIVE_LEGGINGS"
+    }
   },
   "STARRED_BAT_WAND": {
     "itemid": "minecraft:paper",
@@ -86165,8 +85503,7 @@
       "C1": "BONZO_FRAGMENT:1",
       "C2": "BONZO_FRAGMENT:1",
       "C3": "BONZO_FRAGMENT:1"
-    },
-    "parent": "BONZO_MASK"
+    }
   },
   "STARRED_BONZO_STAFF": {
     "itemid": "minecraft:blaze_rod",
@@ -86206,8 +85543,7 @@
       "C1": "BONZO_FRAGMENT:1",
       "C2": "BONZO_FRAGMENT:1",
       "C3": "BONZO_FRAGMENT:1"
-    },
-    "parent": "BONZO_STAFF"
+    }
   },
   "STARRED_DAEDALUS_AXE": {
     "itemid": "minecraft:golden_sword",
@@ -86468,8 +85804,7 @@
       "C1": "LIVID_FRAGMENT:1",
       "C2": "LIVID_FRAGMENT:1",
       "C3": "LIVID_FRAGMENT:1"
-    },
-    "parent": "LAST_BREATH"
+    }
   },
   "STARRED_MIDAS_STAFF": {
     "itemid": "minecraft:golden_shovel",
@@ -86604,8 +85939,7 @@
       "C1": "LIVID_FRAGMENT:1",
       "C2": "LIVID_FRAGMENT:1",
       "C3": "LIVID_FRAGMENT:1"
-    },
-    "parent": "SHADOW_ASSASSIN_BOOTS"
+    }
   },
   "STARRED_SHADOW_ASSASSIN_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
@@ -86653,8 +85987,7 @@
       "C1": "LIVID_FRAGMENT:1",
       "C2": "LIVID_FRAGMENT:1",
       "C3": "LIVID_FRAGMENT:1"
-    },
-    "parent": "SHADOW_ASSASSIN_CHESTPLATE"
+    }
   },
   "STARRED_SHADOW_ASSASSIN_CLOAK": {
     "itemid": "minecraft:paper",
@@ -86742,8 +86075,7 @@
       "C1": "LIVID_FRAGMENT:1",
       "C2": "LIVID_FRAGMENT:1",
       "C3": "LIVID_FRAGMENT:1"
-    },
-    "parent": "SHADOW_ASSASSIN_HELMET"
+    }
   },
   "STARRED_SHADOW_ASSASSIN_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
@@ -86790,8 +86122,7 @@
       "C1": "LIVID_FRAGMENT:1",
       "C2": "LIVID_FRAGMENT:1",
       "C3": "LIVID_FRAGMENT:1"
-    },
-    "parent": "SHADOW_ASSASSIN_LEGGINGS"
+    }
   },
   "STARRED_SHADOW_FURY": {
     "itemid": "minecraft:diamond_sword",
@@ -86834,8 +86165,7 @@
       "C1": "LIVID_FRAGMENT:1",
       "C2": "LIVID_FRAGMENT:1",
       "C3": "LIVID_FRAGMENT:1"
-    },
-    "parent": "SHADOW_FURY"
+    }
   },
   "STARRED_SPIDER_QUEENS_STINGER": {
     "itemid": "minecraft:bow",
@@ -86976,8 +86306,7 @@
       "C1": "SCARF_FRAGMENT:1",
       "C2": "SCARF_FRAGMENT:1",
       "C3": "SCARF_FRAGMENT:1"
-    },
-    "parent": "STONE_BLADE"
+    }
   },
   "STARRED_THORNS_BOOTS": {
     "itemid": "minecraft:leather_boots",
@@ -87433,7 +86762,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "STONE",
     "vanilla": true,
     "recipe": {
       "A1": "STONE-3:1",
@@ -88117,8 +87445,7 @@
       "C1": "",
       "C2": "CHILI_PEPPER:32",
       "C3": ""
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR": {
     "itemid": "minecraft:sugar",
@@ -88186,8 +87513,7 @@
       "C1": "SUGAR_CANE:16",
       "C2": "SUGAR_CANE:16",
       "C3": "SUGAR_CANE:16"
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR_CANE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -88226,8 +87552,7 @@
       "C1": "ENCHANTED_SUGAR_CANE:1",
       "C2": "ENCHANTED_SUGAR_CANE:1",
       "C3": "ENCHANTED_SUGAR_CANE:1"
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR_CANE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -88266,8 +87591,7 @@
       "C1": "ENCHANTED_SUGAR_CANE:2",
       "C2": "ENCHANTED_SUGAR_CANE:2",
       "C3": "ENCHANTED_SUGAR_CANE:2"
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR_CANE_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -88306,8 +87630,7 @@
       "C1": "SUGAR_CANE:32",
       "C2": "SUGAR_CANE:32",
       "C3": "SUGAR_CANE:32"
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR_CANE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -88346,8 +87669,7 @@
       "C1": "SUGAR_CANE:64",
       "C2": "SUGAR_CANE:64",
       "C3": "SUGAR_CANE:64"
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR_CANE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -88386,8 +87708,7 @@
       "C1": "ENCHANTED_SUGAR:1",
       "C2": "ENCHANTED_SUGAR:1",
       "C3": "ENCHANTED_SUGAR:1"
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR_CANE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -88426,8 +87747,7 @@
       "C1": "ENCHANTED_SUGAR:3",
       "C2": "ENCHANTED_SUGAR:3",
       "C3": "ENCHANTED_SUGAR:3"
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR_CANE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -88466,8 +87786,7 @@
       "C1": "ENCHANTED_SUGAR:8",
       "C2": "ENCHANTED_SUGAR:8",
       "C3": "ENCHANTED_SUGAR:8"
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR_CANE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -88506,8 +87825,7 @@
       "C1": "ENCHANTED_SUGAR:16",
       "C2": "ENCHANTED_SUGAR:16",
       "C3": "ENCHANTED_SUGAR:16"
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR_CANE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -88546,8 +87864,7 @@
       "C1": "ENCHANTED_SUGAR:32",
       "C2": "ENCHANTED_SUGAR:32",
       "C3": "ENCHANTED_SUGAR:32"
-    },
-    "useneucraft": true
+    }
   },
   "SUGAR_CANE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -88586,8 +87903,7 @@
       "C1": "ENCHANTED_SUGAR:64",
       "C2": "ENCHANTED_SUGAR:64",
       "C3": "ENCHANTED_SUGAR:64"
-    },
-    "useneucraft": true
+    }
   },
   "SULPHURIC_COAL": {
     "itemid": "minecraft:skull",
@@ -88776,8 +88092,7 @@
       "C1": "DOUBLE_PLANT:16",
       "C2": "DOUBLE_PLANT:16",
       "C3": "DOUBLE_PLANT:16"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -88815,8 +88130,7 @@
       "C1": "COMPACTED_SUNFLOWER:1",
       "C2": "COMPACTED_SUNFLOWER:1",
       "C3": "COMPACTED_SUNFLOWER:1"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -88854,8 +88168,7 @@
       "C1": "COMPACTED_SUNFLOWER:2",
       "C2": "COMPACTED_SUNFLOWER:2",
       "C3": "COMPACTED_SUNFLOWER:2"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -88893,8 +88206,7 @@
       "C1": "DOUBLE_PLANT:20",
       "C2": "DOUBLE_PLANT:20",
       "C3": "DOUBLE_PLANT:20"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -88932,8 +88244,7 @@
       "C1": "DOUBLE_PLANT:40",
       "C2": "DOUBLE_PLANT:40",
       "C3": "DOUBLE_PLANT:40"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -88971,8 +88282,7 @@
       "C1": "DOUBLE_PLANT:64",
       "C2": "DOUBLE_PLANT:64",
       "C3": "DOUBLE_PLANT:64"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -89010,8 +88320,7 @@
       "C1": "ENCHANTED_SUNFLOWER:1",
       "C2": "ENCHANTED_SUNFLOWER:1",
       "C3": "ENCHANTED_SUNFLOWER:1"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -89049,8 +88358,7 @@
       "C1": "ENCHANTED_SUNFLOWER:3",
       "C2": "ENCHANTED_SUNFLOWER:3",
       "C3": "ENCHANTED_SUNFLOWER:3"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -89088,8 +88396,7 @@
       "C1": "ENCHANTED_SUNFLOWER:8",
       "C2": "ENCHANTED_SUNFLOWER:8",
       "C3": "ENCHANTED_SUNFLOWER:8"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -89127,8 +88434,7 @@
       "C1": "ENCHANTED_SUNFLOWER:16",
       "C2": "ENCHANTED_SUNFLOWER:16",
       "C3": "ENCHANTED_SUNFLOWER:16"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -89166,8 +88472,7 @@
       "C1": "ENCHANTED_SUNFLOWER:64",
       "C2": "ENCHANTED_SUNFLOWER:64",
       "C3": "ENCHANTED_SUNFLOWER:64"
-    },
-    "useneucraft": true
+    }
   },
   "SUNFLOWER_HEAD": {
     "itemid": "minecraft:skull",
@@ -90161,8 +89466,7 @@
       "C1": "GIANT_FRAGMENT_BOULDER:1",
       "C2": "GIANT_FRAGMENT_BOULDER:1",
       "C3": "GIANT_FRAGMENT_BOULDER:1"
-    },
-    "parent": "WITHER_BOOTS"
+    }
   },
   "TANK_WITHER_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
@@ -90207,8 +89511,7 @@
       "C1": "GIANT_FRAGMENT_BOULDER:1",
       "C2": "GIANT_FRAGMENT_BOULDER:1",
       "C3": "GIANT_FRAGMENT_BOULDER:1"
-    },
-    "parent": "WITHER_CHESTPLATE"
+    }
   },
   "TANK_WITHER_HELMET": {
     "itemid": "minecraft:skull",
@@ -90253,8 +89556,7 @@
       "C1": "GIANT_FRAGMENT_BOULDER:1",
       "C2": "GIANT_FRAGMENT_BOULDER:1",
       "C3": "GIANT_FRAGMENT_BOULDER:1"
-    },
-    "parent": "WITHER_HELMET"
+    }
   },
   "TANK_WITHER_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
@@ -90299,8 +89601,7 @@
       "C1": "GIANT_FRAGMENT_BOULDER:1",
       "C2": "GIANT_FRAGMENT_BOULDER:1",
       "C3": "GIANT_FRAGMENT_BOULDER:1"
-    },
-    "parent": "WITHER_LEGGINGS"
+    }
   },
   "TARANTULA_BOOTS": {
     "itemid": "minecraft:leather_boots",
@@ -90494,8 +89795,7 @@
       "C2": "TARANTULA_WEB:10",
       "C3": "TARANTULA_WEB:10"
     },
-    "slayer_req": "SPIDER_5",
-    "useneucraft": true
+    "slayer_req": "SPIDER_5"
   },
   "TARANTULA_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -90532,8 +89832,7 @@
       "C1": "TARANTULA_SILK:32",
       "C2": "SPIDER_GENERATOR_9:1",
       "C3": "TARANTULA_SILK:32"
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -90570,8 +89869,7 @@
       "C1": "TARANTULA_SILK:64",
       "C2": "SPIDER_GENERATOR_10:1",
       "C3": "TARANTULA_SILK:64"
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_GENERATOR_12": {
     "itemid": "minecraft:skull",
@@ -90608,8 +89906,7 @@
       "C1": "",
       "C2": "TARANTULA_GENERATOR_11:1",
       "C3": ""
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -90646,8 +89943,7 @@
       "C1": "TARANTULA_WEB:20",
       "C2": "SPIDER_GENERATOR_1:1",
       "C3": "TARANTULA_WEB:20"
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -90684,8 +89980,7 @@
       "C1": "TARANTULA_WEB:40",
       "C2": "SPIDER_GENERATOR_2:1",
       "C3": "TARANTULA_WEB:40"
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -90722,8 +90017,7 @@
       "C1": "TARANTULA_WEB:64",
       "C2": "SPIDER_GENERATOR_3:1",
       "C3": "TARANTULA_WEB:64"
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -90760,8 +90054,7 @@
       "C1": "TARANTULA_SILK:1",
       "C2": "SPIDER_GENERATOR_4:1",
       "C3": "TARANTULA_SILK:1"
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -90798,8 +90091,7 @@
       "C1": "TARANTULA_SILK:2",
       "C2": "SPIDER_GENERATOR_5:1",
       "C3": "TARANTULA_SILK:2"
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -90836,8 +90128,7 @@
       "C1": "TARANTULA_SILK:4",
       "C2": "SPIDER_GENERATOR_6:1",
       "C3": "TARANTULA_SILK:4"
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -90874,8 +90165,7 @@
       "C1": "TARANTULA_SILK:8",
       "C2": "SPIDER_GENERATOR_7:1",
       "C3": "TARANTULA_SILK:8"
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -90912,8 +90202,7 @@
       "C1": "TARANTULA_SILK:16",
       "C2": "SPIDER_GENERATOR_8:1",
       "C3": "TARANTULA_SILK:16"
-    },
-    "useneucraft": true
+    }
   },
   "TARANTULA_HELMET": {
     "itemid": "minecraft:leather_helmet",
@@ -91233,7 +90522,7 @@
     "internalname": "TESSELLATED_ENDER_PEARL",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tessellated_Ender_Pearl"
@@ -94971,8 +94260,7 @@
       "C1": "GIANT_FRAGMENT_DIAMOND:1",
       "C2": "GIANT_FRAGMENT_DIAMOND:1",
       "C3": "GIANT_FRAGMENT_DIAMOND:1"
-    },
-    "parent": "NECRON_BLADE"
+    }
   },
   "VAMPIRE_DENTIST_RELIC": {
     "itemid": "minecraft:skull",
@@ -96847,7 +96135,7 @@
   "WARM_WIZARD_FACE": {
     "itemid": "minecraft:skull",
     "displayname": "§6Warm Wizard Face",
-    "nbttag": "{ExtraAttributes:{id:\"WARM_WIZARD_FACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"295a3a60-032e-389b-905b-67d3fd744d95\",Properties:{textures:[0:{Name:\"textures\",Signature:\"s4R59LIl4HjzahENKAVxSrwc7v7dRtTwQmEAofp48kvicw9gpnAxHx/e0C1kIvVdaSaXM8UifkgNZguJ2+3/gtK/5RUzQVLvbunA5QY0pS+gekUsGMvhg9h60PeAMYm3dVJBjAAzTudrISJrLRtQ6xsEe7zQGtSn/DmEsDBqiEtgy+YhQCfEWJkdKYzeX5o6mf1i/A1IlIme5mLa/CjKkMJnlGTczogULxnyZv+YKtd3ExeTSCfHf8Y1cgIZSns9KL2LPYTq8JEF1mZDH2vnK1E0gP43ThZnUjcOEWgIFbl4rWvIiSZ+vnoA4nyBZQ2eDeJ4h4Cvh89tPqV03RT7bIsH/u83SVPd1PXXqmQYv+imEX4TM89mnXvbUH7SDbicb5g09NTZ8hq7ZPeeg/SHRobd4IcmSLMg4L/MM6Ghy7pxpY39G09A+xHKO4uFhrDub2YXVDckdnld6DAlqjQoqTOrmjMLTAD7GYfv76/DsFpfHDUE2aMQjrQrxpnTKq82eyY+zxtFMa5KvryoKqV02HMW/anKZ+325ggdw0lqxJ0X+pNZlvKt0QtPQwMjpEQp67OV9ELUMUCxdJM/IjH+TI9GHEq6OAn6zxnihlN2p9iZ6qUdD2uKfuLYh6DFBmb0vP36uXOzXkFL2+RRMeqqnUhX7LJyJdu8Shq+ENCuTKI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczMzg4NTY4NDkzMywKICAicHJvZmlsZUlkIiA6ICJkMWRkMDJlOWQwN2E0YWU1YWRjYWQyYzI5YTZhYmIyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYW5pd2lzXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZDk4YTEyZjMyYTAyODRiNzRmZWZiOWU5ODJhMWU5ZWMyNDg3NzY2NDcwYWExMjMwZjZmMjZmOWFhY2UzZGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+130s\",1:\"§7Hearts: §c+1\",2:\"§7Intelligence: §b+26\",3:\"\",4:\"§6Ability: Wizards All The Way Around \",5:\"§7Regain §a+2ф §7when killing a monster.\",6:\"\",7:\"§7If you would take §c❤ §7damage, take\",8:\"§c0.3❤ §7less.\",9:\"\",10:\"§4☠ §cRequires §5Vampire Slayer 1§c.\",11:\"§6§lLEGENDARY HELMET\"],Name:\"§6Warm Wizard Face\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WARM_WIZARD_FACE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"295a3a60-032e-389b-905b-67d3fd744d95\",Properties:{textures:[0:{Name:\"textures\",Signature:\"s4R59LIl4HjzahENKAVxSrwc7v7dRtTwQmEAofp48kvicw9gpnAxHx/e0C1kIvVdaSaXM8UifkgNZguJ2+3/gtK/5RUzQVLvbunA5QY0pS+gekUsGMvhg9h60PeAMYm3dVJBjAAzTudrISJrLRtQ6xsEe7zQGtSn/DmEsDBqiEtgy+YhQCfEWJkdKYzeX5o6mf1i/A1IlIme5mLa/CjKkMJnlGTczogULxnyZv+YKtd3ExeTSCfHf8Y1cgIZSns9KL2LPYTq8JEF1mZDH2vnK1E0gP43ThZnUjcOEWgIFbl4rWvIiSZ+vnoA4nyBZQ2eDeJ4h4Cvh89tPqV03RT7bIsH/u83SVPd1PXXqmQYv+imEX4TM89mnXvbUH7SDbicb5g09NTZ8hq7ZPeeg/SHRobd4IcmSLMg4L/MM6Ghy7pxpY39G09A+xHKO4uFhrDub2YXVDckdnld6DAlqjQoqTOrmjMLTAD7GYfv76/DsFpfHDUE2aMQjrQrxpnTKq82eyY+zxtFMa5KvryoKqV02HMW/anKZ+325ggdw0lqxJ0X+pNZlvKt0QtPQwMjpEQp67OV9ELUMUCxdJM/IjH+TI9GHEq6OAn6zxnihlN2p9iZ6qUdD2uKfuLYh6DFBmb0vP36uXOzXkFL2+RRMeqqnUhX7LJyJdu8Shq+ENCuTKI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczMzg4NTY4NDkzMywKICAicHJvZmlsZUlkIiA6ICJkMWRkMDJlOWQwN2E0YWU1YWRjYWQyYzI5YTZhYmIyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYW5pd2lzXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZDk4YTEyZjMyYTAyODRiNzRmZWZiOWU5ODJhMWU5ZWMyNDg3NzY2NDcwYWExMjMwZjZmMjZmOWFhY2UzZGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+130s\",1:\"§7Hearts: §c+1\",2:\"§7Intelligence: §b+26\",3:\"\",4:\"§6Ability: Wizards All The Way Around \",5:\"§7Regain §a+2 §7when killing a monster.\",6:\"\",7:\"§7If you would take §c❤ §7damage, take\",8:\"§c0.3❤ §7less.\",9:\"\",10:\"§4☠ §cRequires §5Vampire Slayer 1§c.\",11:\"§6§lLEGENDARY HELMET\"],Name:\"§6Warm Wizard Face\"}}",
     "damage": 3,
     "lore": [
       "§7Rift Time: §a+130s",
@@ -96855,7 +96143,7 @@
       "§7Intelligence: §b+26",
       "",
       "§6Ability: Wizards All The Way Around ",
-      "§7Regain §a+2ф §7when killing a monster.",
+      "§7Regain §a+2 §7when killing a monster.",
       "",
       "§7If you would take §c❤ §7damage, take",
       "§c0.3❤ §7less.",
@@ -96866,7 +96154,7 @@
     "internalname": "WARM_WIZARD_FACE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Vampire Slayer 1",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Warm_Wizard_Face"
@@ -96886,7 +96174,7 @@
   "WARM_WIZARD_FACE_2": {
     "itemid": "minecraft:skull",
     "displayname": "§dWarmer Wizard Face",
-    "nbttag": "{ExtraAttributes:{id:\"WARM_WIZARD_FACE_2\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"09b01859-ab25-34cf-800b-6a34224d0df8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"s4R59LIl4HjzahENKAVxSrwc7v7dRtTwQmEAofp48kvicw9gpnAxHx/e0C1kIvVdaSaXM8UifkgNZguJ2+3/gtK/5RUzQVLvbunA5QY0pS+gekUsGMvhg9h60PeAMYm3dVJBjAAzTudrISJrLRtQ6xsEe7zQGtSn/DmEsDBqiEtgy+YhQCfEWJkdKYzeX5o6mf1i/A1IlIme5mLa/CjKkMJnlGTczogULxnyZv+YKtd3ExeTSCfHf8Y1cgIZSns9KL2LPYTq8JEF1mZDH2vnK1E0gP43ThZnUjcOEWgIFbl4rWvIiSZ+vnoA4nyBZQ2eDeJ4h4Cvh89tPqV03RT7bIsH/u83SVPd1PXXqmQYv+imEX4TM89mnXvbUH7SDbicb5g09NTZ8hq7ZPeeg/SHRobd4IcmSLMg4L/MM6Ghy7pxpY39G09A+xHKO4uFhrDub2YXVDckdnld6DAlqjQoqTOrmjMLTAD7GYfv76/DsFpfHDUE2aMQjrQrxpnTKq82eyY+zxtFMa5KvryoKqV02HMW/anKZ+325ggdw0lqxJ0X+pNZlvKt0QtPQwMjpEQp67OV9ELUMUCxdJM/IjH+TI9GHEq6OAn6zxnihlN2p9iZ6qUdD2uKfuLYh6DFBmb0vP36uXOzXkFL2+RRMeqqnUhX7LJyJdu8Shq+ENCuTKI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczMzg4NTY4NDkzMywKICAicHJvZmlsZUlkIiA6ICJkMWRkMDJlOWQwN2E0YWU1YWRjYWQyYzI5YTZhYmIyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYW5pd2lzXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZDk4YTEyZjMyYTAyODRiNzRmZWZiOWU5ODJhMWU5ZWMyNDg3NzY2NDcwYWExMjMwZjZmMjZmOWFhY2UzZGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+130s\",1:\"§7Hearts: §c+1\",2:\"§7Intelligence: §b+26\",3:\"\",4:\"§6Ability: Wizards All The Way Around \",5:\"§7Regain §a+2ф §7when killing a monster.\",6:\"\",7:\"§7If you would take §c❤ §7damage, take\",8:\"§c0.5❤ §7less.\",9:\"\",10:\"§eLeft-click to pick color!\",11:\"\",12:\"§4☠ §cRequires §5Vampire Slayer 4§c.\",13:\"§d§lMYTHIC HELMET\"],Name:\"§dWarmer Wizard Face\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"WARM_WIZARD_FACE_2\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"09b01859-ab25-34cf-800b-6a34224d0df8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"s4R59LIl4HjzahENKAVxSrwc7v7dRtTwQmEAofp48kvicw9gpnAxHx/e0C1kIvVdaSaXM8UifkgNZguJ2+3/gtK/5RUzQVLvbunA5QY0pS+gekUsGMvhg9h60PeAMYm3dVJBjAAzTudrISJrLRtQ6xsEe7zQGtSn/DmEsDBqiEtgy+YhQCfEWJkdKYzeX5o6mf1i/A1IlIme5mLa/CjKkMJnlGTczogULxnyZv+YKtd3ExeTSCfHf8Y1cgIZSns9KL2LPYTq8JEF1mZDH2vnK1E0gP43ThZnUjcOEWgIFbl4rWvIiSZ+vnoA4nyBZQ2eDeJ4h4Cvh89tPqV03RT7bIsH/u83SVPd1PXXqmQYv+imEX4TM89mnXvbUH7SDbicb5g09NTZ8hq7ZPeeg/SHRobd4IcmSLMg4L/MM6Ghy7pxpY39G09A+xHKO4uFhrDub2YXVDckdnld6DAlqjQoqTOrmjMLTAD7GYfv76/DsFpfHDUE2aMQjrQrxpnTKq82eyY+zxtFMa5KvryoKqV02HMW/anKZ+325ggdw0lqxJ0X+pNZlvKt0QtPQwMjpEQp67OV9ELUMUCxdJM/IjH+TI9GHEq6OAn6zxnihlN2p9iZ6qUdD2uKfuLYh6DFBmb0vP36uXOzXkFL2+RRMeqqnUhX7LJyJdu8Shq+ENCuTKI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczMzg4NTY4NDkzMywKICAicHJvZmlsZUlkIiA6ICJkMWRkMDJlOWQwN2E0YWU1YWRjYWQyYzI5YTZhYmIyMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYW5pd2lzXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZDk4YTEyZjMyYTAyODRiNzRmZWZiOWU5ODJhMWU5ZWMyNDg3NzY2NDcwYWExMjMwZjZmMjZmOWFhY2UzZGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+130s\",1:\"§7Hearts: §c+1\",2:\"§7Intelligence: §b+26\",3:\"\",4:\"§6Ability: Wizards All The Way Around \",5:\"§7Regain §a+2 §7when killing a monster.\",6:\"\",7:\"§7If you would take §c❤ §7damage, take\",8:\"§c0.5❤ §7less.\",9:\"\",10:\"§eLeft-click to pick color!\",11:\"\",12:\"§4☠ §cRequires §5Vampire Slayer 4§c.\",13:\"§d§lMYTHIC HELMET\"],Name:\"§dWarmer Wizard Face\"}}",
     "damage": 3,
     "lore": [
       "§7Rift Time: §a+130s",
@@ -96894,7 +96182,7 @@
       "§7Intelligence: §b+26",
       "",
       "§6Ability: Wizards All The Way Around ",
-      "§7Regain §a+2ф §7when killing a monster.",
+      "§7Regain §a+2 §7when killing a monster.",
       "",
       "§7If you would take §c❤ §7damage, take",
       "§c0.5❤ §7less.",
@@ -96907,7 +96195,7 @@
     "internalname": "WARM_WIZARD_FACE_2",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Vampire Slayer 4",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Warmer_Wizard_Face"
@@ -97493,8 +96781,7 @@
       "C1": "WHEAT:10",
       "C2": "WHEAT:10",
       "C3": "WHEAT:10"
-    },
-    "useneucraft": true
+    }
   },
   "WHEAT_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -97532,8 +96819,7 @@
       "C1": "ENCHANTED_WHEAT:32",
       "C2": "ENCHANTED_WHEAT:32",
       "C3": "ENCHANTED_WHEAT:32"
-    },
-    "useneucraft": true
+    }
   },
   "WHEAT_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -97571,8 +96857,7 @@
       "C1": "ENCHANTED_WHEAT:64",
       "C2": "ENCHANTED_WHEAT:64",
       "C3": "ENCHANTED_WHEAT:64"
-    },
-    "useneucraft": true
+    }
   },
   "WHEAT_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -97610,8 +96895,7 @@
       "C1": "WHEAT:20",
       "C2": "WHEAT:20",
       "C3": "WHEAT:20"
-    },
-    "useneucraft": true
+    }
   },
   "WHEAT_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -97649,8 +96933,7 @@
       "C1": "WHEAT:40",
       "C2": "WHEAT:40",
       "C3": "WHEAT:40"
-    },
-    "useneucraft": true
+    }
   },
   "WHEAT_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -97688,8 +96971,7 @@
       "C1": "WHEAT:64",
       "C2": "WHEAT:64",
       "C3": "WHEAT:64"
-    },
-    "useneucraft": true
+    }
   },
   "WHEAT_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -97727,8 +97009,7 @@
       "C1": "ENCHANTED_WHEAT:1",
       "C2": "ENCHANTED_WHEAT:1",
       "C3": "ENCHANTED_WHEAT:1"
-    },
-    "useneucraft": true
+    }
   },
   "WHEAT_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -97766,8 +97047,7 @@
       "C1": "ENCHANTED_WHEAT:2",
       "C2": "ENCHANTED_WHEAT:2",
       "C3": "ENCHANTED_WHEAT:2"
-    },
-    "useneucraft": true
+    }
   },
   "WHEAT_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -97805,8 +97085,7 @@
       "C1": "ENCHANTED_WHEAT:4",
       "C2": "ENCHANTED_WHEAT:4",
       "C3": "ENCHANTED_WHEAT:4"
-    },
-    "useneucraft": true
+    }
   },
   "WHEAT_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -97844,8 +97123,7 @@
       "C1": "ENCHANTED_WHEAT:8",
       "C2": "ENCHANTED_WHEAT:8",
       "C3": "ENCHANTED_WHEAT:8"
-    },
-    "useneucraft": true
+    }
   },
   "WHEAT_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -97883,8 +97161,7 @@
       "C1": "ENCHANTED_WHEAT:16",
       "C2": "ENCHANTED_WHEAT:16",
       "C3": "ENCHANTED_WHEAT:16"
-    },
-    "useneucraft": true
+    }
   },
   "WHIPPED_MAGMA_CREAM": {
     "itemid": "minecraft:paper",
@@ -97970,7 +97247,7 @@
   "WILTED_BERBERIS_BUNCH": {
     "itemid": "minecraft:deadbush",
     "displayname": "§aWilted Berberis Bunch",
-    "nbttag": "{ExtraAttributes:{id:\"WILTED_BERBERIS_BUNCH\"},HideFlags:254,ItemModel:\"minecraft:dead_bush\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7The plant equivalent of... ALIEN\",3:\"§7revenant viscera?\",4:\"\",5:\"§5§kX§5 Rift-Transferable §5§kX\",6:\"§a§lUNCOMMON\"],Name:\"§aWilted Berberis Bunch\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"WILTED_BERBERIS_BUNCH\",rift_transferred:1B},HideFlags:254,ItemModel:\"minecraft:dead_bush\",display:{Lore:[0:\"§8Collection Item\",1:\"\",2:\"§7The plant equivalent of... ALIEN\",3:\"§7revenant viscera?\",4:\"\",5:\"§5§kX§5 Rift-Transferable §5§kX\",6:\"§a§lUNCOMMON\"],Name:\"§aWilted Berberis Bunch\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Collection Item",
@@ -97984,7 +97261,7 @@
     "internalname": "WILTED_BERBERIS_BUNCH",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Wilted Berberis I",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Wilted_Berberis_Bunch"
@@ -98234,8 +97511,7 @@
       "C1": "GIANT_FRAGMENT_LASER:1",
       "C2": "GIANT_FRAGMENT_LASER:1",
       "C3": "GIANT_FRAGMENT_LASER:1"
-    },
-    "parent": "WITHER_BOOTS"
+    }
   },
   "WISE_WITHER_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
@@ -98280,8 +97556,7 @@
       "C1": "GIANT_FRAGMENT_LASER:1",
       "C2": "GIANT_FRAGMENT_LASER:1",
       "C3": "GIANT_FRAGMENT_LASER:1"
-    },
-    "parent": "WITHER_CHESTPLATE"
+    }
   },
   "WISE_WITHER_HELMET": {
     "itemid": "minecraft:skull",
@@ -98326,8 +97601,7 @@
       "C1": "GIANT_FRAGMENT_LASER:1",
       "C2": "GIANT_FRAGMENT_LASER:1",
       "C3": "GIANT_FRAGMENT_LASER:1"
-    },
-    "parent": "WITHER_HELMET"
+    }
   },
   "WISE_WITHER_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
@@ -98372,8 +97646,7 @@
       "C1": "GIANT_FRAGMENT_LASER:1",
       "C2": "GIANT_FRAGMENT_LASER:1",
       "C3": "GIANT_FRAGMENT_LASER:1"
-    },
-    "parent": "WITHER_LEGGINGS"
+    }
   },
   "WITHER_RELIC": {
     "itemid": "minecraft:skull",
@@ -99029,7 +98302,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOD_STEP",
     "vanilla": true,
     "recipe": {
       "A1": "WOOD-1:1",
@@ -99058,7 +98330,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOD_STEP",
     "vanilla": true,
     "recipe": {
       "A1": "WOOD-2:1",
@@ -99087,7 +98358,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOD_STEP",
     "vanilla": true,
     "recipe": {
       "A1": "WOOD-3:1",
@@ -99116,7 +98386,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOD_STEP",
     "vanilla": true,
     "recipe": {
       "A1": "WOOD-4:1",
@@ -99145,7 +98414,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOD_STEP",
     "vanilla": true,
     "recipe": {
       "A1": "WOOD-5:1",
@@ -99268,7 +98536,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-14:1",
@@ -99296,7 +98563,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-5:1",
@@ -99324,7 +98590,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-4:1",
@@ -99352,7 +98617,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-3:1",
@@ -99380,7 +98644,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-2:1",
@@ -99408,7 +98671,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-1:1",
@@ -99436,7 +98698,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK:1",
@@ -99464,7 +98725,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-13:1",
@@ -99492,7 +98752,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-12:1",
@@ -99520,7 +98779,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-11:1",
@@ -99548,7 +98806,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-10:1",
@@ -99576,7 +98833,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-9:1",
@@ -99604,7 +98860,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-8:1",
@@ -99632,7 +98887,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-7:1",
@@ -99660,7 +98914,6 @@
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g9791477",
     "infoType": "",
     "info": [],
-    "parent": "WOOL",
     "vanilla": true,
     "recipe": {
       "A1": "INK_SACK-6:1",
@@ -100263,8 +99516,7 @@
       "C1": "ROTTEN_FLESH:10",
       "C2": "ROTTEN_FLESH:10",
       "C3": "ROTTEN_FLESH:10"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_GENERATOR_10": {
     "itemid": "minecraft:skull",
@@ -100301,8 +99553,7 @@
       "C1": "ENCHANTED_ROTTEN_FLESH:32",
       "C2": "ENCHANTED_ROTTEN_FLESH:32",
       "C3": "ENCHANTED_ROTTEN_FLESH:32"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_GENERATOR_11": {
     "itemid": "minecraft:skull",
@@ -100339,8 +99590,7 @@
       "C1": "ENCHANTED_ROTTEN_FLESH:64",
       "C2": "ENCHANTED_ROTTEN_FLESH:64",
       "C3": "ENCHANTED_ROTTEN_FLESH:64"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_GENERATOR_2": {
     "itemid": "minecraft:skull",
@@ -100377,8 +99627,7 @@
       "C1": "ROTTEN_FLESH:20",
       "C2": "ROTTEN_FLESH:20",
       "C3": "ROTTEN_FLESH:20"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_GENERATOR_3": {
     "itemid": "minecraft:skull",
@@ -100415,8 +99664,7 @@
       "C1": "ROTTEN_FLESH:40",
       "C2": "ROTTEN_FLESH:40",
       "C3": "ROTTEN_FLESH:40"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_GENERATOR_4": {
     "itemid": "minecraft:skull",
@@ -100453,8 +99701,7 @@
       "C1": "ROTTEN_FLESH:64",
       "C2": "ROTTEN_FLESH:64",
       "C3": "ROTTEN_FLESH:64"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_GENERATOR_5": {
     "itemid": "minecraft:skull",
@@ -100491,8 +99738,7 @@
       "C1": "ENCHANTED_ROTTEN_FLESH:1",
       "C2": "ENCHANTED_ROTTEN_FLESH:1",
       "C3": "ENCHANTED_ROTTEN_FLESH:1"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_GENERATOR_6": {
     "itemid": "minecraft:skull",
@@ -100529,8 +99775,7 @@
       "C1": "ENCHANTED_ROTTEN_FLESH:2",
       "C2": "ENCHANTED_ROTTEN_FLESH:2",
       "C3": "ENCHANTED_ROTTEN_FLESH:2"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_GENERATOR_7": {
     "itemid": "minecraft:skull",
@@ -100567,8 +99812,7 @@
       "C1": "ENCHANTED_ROTTEN_FLESH:4",
       "C2": "ENCHANTED_ROTTEN_FLESH:4",
       "C3": "ENCHANTED_ROTTEN_FLESH:4"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_GENERATOR_8": {
     "itemid": "minecraft:skull",
@@ -100605,8 +99849,7 @@
       "C1": "ENCHANTED_ROTTEN_FLESH:8",
       "C2": "ENCHANTED_ROTTEN_FLESH:8",
       "C3": "ENCHANTED_ROTTEN_FLESH:8"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_GENERATOR_9": {
     "itemid": "minecraft:skull",
@@ -100643,8 +99886,7 @@
       "C1": "ENCHANTED_ROTTEN_FLESH:16",
       "C2": "ENCHANTED_ROTTEN_FLESH:16",
       "C3": "ENCHANTED_ROTTEN_FLESH:16"
-    },
-    "useneucraft": true
+    }
   },
   "ZOMBIE_HAT": {
     "itemid": "minecraft:skull",
