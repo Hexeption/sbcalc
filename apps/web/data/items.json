@@ -90596,8 +90596,10 @@
     "clickcommand": "viewrecipe",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Firework_Rocket"
+    ],
     "recipe": {
       "A1": "PAPER:1",
       "A2": "SULPHUR:1",
@@ -90608,7 +90610,8 @@
       "C1": "",
       "C2": "",
       "C3": ""
-    }
+    },
+    "vanilla": true
   },
   "FIREWORKS_SHADOW_ASSASSIN": {
     "itemid": "minecraft:skull",
@@ -102431,6 +102434,111 @@
         ]
       }
     ]
+  },
+  "GHOST_OF_ARMORSMITH_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Ghost of Armorsmith (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"GHOST_OF_ARMORSMITH_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"067dd61a-9002-2ca4-bb1b-1dbc72d007e2\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzMyMmQ0MzFjODE1NDQ1ZjljZmU1YzljYThmOTlhNGIyNjUwOWM1NDdjNzExZTBlYzU5NjlmNDU5MWEyNTFmZCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiIwNjdkZDYxYTkwMDIyY2E0YmIxYjFkYmM3MmQwMDdlMiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzNDgyNzMyNzYwfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only spawns during the §6Spooky Festival§7.\",1:\"\",2:\"§4❣ §cRequires wearing §5Ghostly Boots§c!\"],Name:\"§9Ghost of Armorsmith (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Only spawns during the §6Spooky Festival§7.",
+      "",
+      "§4❣ §cRequires wearing §5Ghostly Boots§c!"
+    ],
+    "internalname": "GHOST_OF_ARMORSMITH_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": [],
+    "island": "hub",
+    "x": -60,
+    "y": 69,
+    "z": -84
+  },
+  "GHOST_OF_BAKING_SPECIALIST_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Ghost of Baking Specialist (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"GHOST_OF_BAKING_SPECIALIST_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a94f4cce-8bb8-2b6e-bad5-0e0a0b4b5fc1\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGJkZWViOWNjNWIxMTFiZGI0ODE1OThjY2FmYzA3ZWMwZGYxNjgzMjNlYTM2ZDE5M2Q1ZmJlOWM2ZWJkMmUyNiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhOTRmNGNjZThiYjgyYjZlYmFkNTBlMGEwYjRiNWZjMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzNDgyNzY2MzkwfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only spawns during the §6Spooky Festival§7.\",1:\"\",2:\"§4❣ §cRequires wearing §5Ghostly Boots§c!\"],Name:\"§9Ghost of Baking Specialist (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Only spawns during the §6Spooky Festival§7.",
+      "",
+      "§4❣ §cRequires wearing §5Ghostly Boots§c!"
+    ],
+    "internalname": "GHOST_OF_BAKING_SPECIALIST_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": [],
+    "island": "hub",
+    "x": 81,
+    "y": 72,
+    "z": -85
+  },
+  "GHOST_OF_GAME_AGENT_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Ghost of Game Agent (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"GHOST_OF_GAME_AGENT_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"c685b3c4-265a-28cd-a397-ec751152a454\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOThmZGJlZmEwODk0ZTA3NGQzNGFjOGNhZGVhOGI5NzcyOTgyYjlkYWM5Zjg2OWU0MzRjNWU5NmE3YmU0ZGIzZSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJjNjg1YjNjNDI2NWEyOGNkYTM5N2VjNzUxMTUyYTQ1NCIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzNDgyODgzMDc0fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only spawns during the §6Spooky Festival§7.\",1:\"\",2:\"§4❣ §cRequires wearing §5Ghostly Boots§c!\"],Name:\"§9Ghost of Game Agent (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Only spawns during the §6Spooky Festival§7.",
+      "",
+      "§4❣ §cRequires wearing §5Ghostly Boots§c!"
+    ],
+    "internalname": "GHOST_OF_GAME_AGENT_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": [],
+    "island": "hub",
+    "x": 44,
+    "y": 87,
+    "z": 98
+  },
+  "GHOST_OF_GOON_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Ghost of Goon (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"GHOST_OF_GOON_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"d734d8bd-2d8f-2147-bc7c-b844fb1e2d6c\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNiMjI1NjkwM2I5MTAzMjNmMzdmYjI0NzQyZTA0Njg1MGIwNGIxNDAyOTA5MDUxMjBiZTA0MWEyYjNiMDhmOSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJkNzM0ZDhiZDJkOGYyMTQ3YmM3Y2I4NDRmYjFlMmQ2YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzNDgyODczNDQwfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only spawns during the §6Spooky Festival§7.\",1:\"\",2:\"§4❣ §cRequires wearing §5Ghostly Boots§c!\"],Name:\"§9Ghost of Goon (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Only spawns during the §6Spooky Festival§7.",
+      "",
+      "§4❣ §cRequires wearing §5Ghostly Boots§c!"
+    ],
+    "internalname": "GHOST_OF_GOON_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": [],
+    "island": "hub",
+    "x": -86,
+    "y": 76,
+    "z": -153
+  },
+  "GHOST_OF_WARREN_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Ghost of Warren (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"GHOST_OF_WARREN_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"25d803e3-8213-2edb-934e-25b856ed24e2\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQzNDQ2MGMxZDJlMjE1YTIwZjZjNGEwZTM0MGNmNTY2NDk0YTkzMDY4OTYxOTY4ODlhNGEyNDYzMDk1NDA5IiwibWV0YWRhdGEiOnt9fX0sInByb2ZpbGVJZCI6IjI1ZDgwM2UzODIxMzJlZGI5MzRlMjViODU2ZWQyNGUyIiwicHJvZmlsZU5hbWUiOiJuZWE4OSIsImlzUHVibGljIjp0cnVlLCJ0aW1lc3RhbXAiOjE3OTM0ODI2ODA4OTZ9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only spawns during the §6Spooky Festival§7.\",1:\"\",2:\"§4❣ §cRequires wearing §5Ghostly Boots§c!\"],Name:\"§9Ghost of Warren (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Only spawns during the §6Spooky Festival§7.",
+      "",
+      "§4❣ §cRequires wearing §5Ghostly Boots§c!"
+    ],
+    "internalname": "GHOST_OF_WARREN_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": [],
+    "island": "hub",
+    "x": -41,
+    "y": 72,
+    "z": -25
   },
   "GHOST_PERSONALITY": {
     "itemid": "minecraft:skull",
@@ -159608,13 +159716,17 @@
           {
             "id": "RAW_FISH",
             "extra": [
-              "x4-8"
+              "x2-4"
             ],
             "chance": "100%"
           },
           {
             "id": "ENCHANTED_MITHRIL:1",
             "chance": "20%"
+          },
+          {
+            "id": "PLASMA",
+            "chance": "2.5%"
           },
           {
             "id": "DYE_AQUAMARINE",
@@ -159657,8 +159769,12 @@
             "chance": "100%"
           },
           {
-            "id": "ENCHANTED_MITHRIL:1",
+            "id": "ENCHANTED_MITHRIL:2",
             "chance": "20%"
+          },
+          {
+            "id": "PLASMA:2",
+            "chance": "2.5%"
           },
           {
             "id": "DYE_AQUAMARINE",
@@ -159701,8 +159817,12 @@
             "chance": "100%"
           },
           {
-            "id": "ENCHANTED_MITHRIL:1",
+            "id": "ENCHANTED_MITHRIL:4",
             "chance": "20%"
+          },
+          {
+            "id": "PLASMA:4",
+            "chance": "2.5%"
           },
           {
             "id": "DYE_AQUAMARINE",
@@ -159745,8 +159865,12 @@
             "chance": "100%"
           },
           {
-            "id": "ENCHANTED_MITHRIL:1",
+            "id": "ENCHANTED_MITHRIL:8",
             "chance": "20%"
+          },
+          {
+            "id": "PLASMA:12",
+            "chance": "2.5%"
           },
           {
             "id": "DYE_AQUAMARINE",
