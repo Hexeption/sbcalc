@@ -27431,11 +27431,11 @@
   "BINGO_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Bingo (NPC)",
-    "nbttag": "{ExtraAttributes:{id:\"BINGO_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"96415e24-d371-20d3-8a3b-cc92814229fa\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRjZDljNzA3YzcwOTJkNDc1OWZlMmIyYjZhNzEzMjE1YjZlMzk5MTllYzRlN2FmYjFhZTJiNmY4NTc2Njc0YyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5NjQxNWUyNGQzNzEyMGQzOGEzYmNjOTI4MTQyMjlmYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgwOTc3MTQ0OTczfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only appears during the §eBingo §7event \",1:\"§7at the first seven days of every month\"],Name:\"§9Bingo (NPC)\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BINGO_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"96415e24-d371-20d3-8a3b-cc92814229fa\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRjZDljNzA3YzcwOTJkNDc1OWZlMmIyYjZhNzEzMjE1YjZlMzk5MTllYzRlN2FmYjFhZTJiNmY4NTc2Njc0YyIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI5NjQxNWUyNGQzNzEyMGQzOGEzYmNjOTI4MTQyMjlmYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzgwOTc3MTQ0OTczfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only appears during the §6Bingo Event\",1:\"§7in the first 7 days of each month.\"],Name:\"§9Bingo (NPC)\"}}",
     "damage": 3,
     "lore": [
-      "§7Only appears during the §eBingo §7event ",
-      "§7at the first seven days of every month"
+      "§7Only appears during the §6Bingo Event",
+      "§7in the first 7 days of each month."
     ],
     "internalname": "BINGO_NPC",
     "clickcommand": "viewrecipe",
@@ -34146,6 +34146,26 @@
     "y": 113,
     "z": -197,
     "island": "combat_1"
+  },
+  "BRARNAS_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Brarnas (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"BRARNAS_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"503a23ab-d684-2102-ae35-f54ee3ab3c71\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWJmOGRkNWNiOTIzYWQzY2FkNTQ4MzQwNjZlOGZhNDY1OWQzYTE4OWIxNDEwNTE1ZTQwMDVhNGVkZTA1NDFlYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI1MDNhMjNhYmQ2ODQyMTAyYWUzNWY1NGVlM2FiM2M3MSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzNDk4Mzc2MzAzfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only appears during §5Cult of the\",1:\"§5Fallen Star §7meetings.\"],Name:\"§9Brarnas (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Only appears during §5Cult of the",
+      "§5Fallen Star §7meetings."
+    ],
+    "internalname": "BRARNAS_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": [],
+    "island": "mining_3",
+    "x": -48,
+    "y": 192,
+    "z": 44
   },
   "BREAD": {
     "itemid": "minecraft:bread",
@@ -56468,6 +56488,26 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dalbrek"
     ]
+  },
+  "DALIR_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Dalir (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"DALIR_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a64bf752-fdf2-2bb0-8b9e-f23d41a1b4da\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdiMzU1MmM1YWYyYWIyZGM0ZTFmODRkNzhjYTRjNGQ2NzZkZWMwNjgxNTcyMjVhM2MyNjc0ZTU1NzRkMjM0OCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJhNjRiZjc1MmZkZjIyYmIwOGI5ZWYyM2Q0MWExYjRkYSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzNDk4MzIwMzY1fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only appears during §5Cult of the\",1:\"§5Fallen Star §7meetings.\"],Name:\"§9Dalir (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Only appears during §5Cult of the",
+      "§5Fallen Star §7meetings."
+    ],
+    "internalname": "DALIR_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": [],
+    "island": "mining_3",
+    "x": -45,
+    "y": 192,
+    "z": 47
   },
   "DAMIA_NPC": {
     "itemid": "minecraft:skull",
@@ -102324,6 +102364,30 @@
     "info": [],
     "vanilla": true
   },
+  "GHOSTFLY_SOUL": {
+    "itemid": "minecraft:paper",
+    "displayname": "§cGhostfly's Soul",
+    "nbttag": "{ExtraAttributes:{edition:190,id:\"GHOSTFLY_SOUL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/ghost_fly_soul\",display:{Lore:[0:\"§7A soul torn from its host and\",1:\"§7obliterated by a vacuum fan.\",2:\"\",3:\"§7Discoverer: §b[MVP§f+§b] Alex33856\",4:\"\",5:\"§8Edition #190\",6:\"§8November 1st, 2026\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§c§lSPECIAL MEMENTO\"],Name:\"§cGhostfly's Soul\"}}",
+    "damage": 0,
+    "lore": [
+      "§7A soul torn from its host and",
+      "§7obliterated by a vacuum fan.",
+      "",
+      "§7Discoverer: §b[MVP§f+§b] Alex33856",
+      "",
+      "§8Edition #190",
+      "§8November 1st, 2026",
+      "",
+      "§8§l* §8Soulbound §8§l*",
+      "§c§lSPECIAL MEMENTO"
+    ],
+    "internalname": "GHOSTFLY_SOUL",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": []
+  },
   "GHOST_BOOK": {
     "itemid": "minecraft:skull",
     "displayname": "§fGhost Book",
@@ -102449,8 +102513,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Armorsmith"
+    ],
     "island": "hub",
     "x": -60,
     "y": 69,
@@ -102470,8 +102536,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Baking_Specialist"
+    ],
     "island": "hub",
     "x": 81,
     "y": 72,
@@ -102491,8 +102559,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Game_Agent"
+    ],
     "island": "hub",
     "x": 44,
     "y": 87,
@@ -102512,8 +102582,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Goon"
+    ],
     "island": "hub",
     "x": -86,
     "y": 76,
@@ -102533,8 +102605,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Ghost_of_Warren"
+    ],
     "island": "hub",
     "x": -41,
     "y": 72,
@@ -231808,22 +231882,23 @@
   "SILNAR_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Silnar (NPC)",
-    "nbttag": "{SkullOwner:{Id:\"29e7bde9-df5f-21ec-9375-1626731c720c\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3YjM1NTJjNWFmMmFiMmRjNGUxZjg0ZDc4Y2E0YzRkNjc2ZGVjMDY4MTU3MjI1YTNjMjY3NGU1NTc0ZDIzNDgifX19\"}]},Name:\"29e7bde9-df5f-21ec-9375-1626731c720c\"},display:{Lore:[0:\"\"],Name:\"§9Silnar (NPC)\"},ExtraAttributes:{id:\"SILNAR_NPC\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SILNAR_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"68ac9e22-97ea-2c0f-b5bf-301f16e4fcdb\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdiMzU1MmM1YWYyYWIyZGM0ZTFmODRkNzhjYTRjNGQ2NzZkZWMwNjgxNTcyMjVhM2MyNjc0ZTU1NzRkMjM0OCIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI2OGFjOWUyMjk3ZWEyYzBmYjViZjMwMWYxNmU0ZmNkYiIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzNDk4Njg4NTg3fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Silnar (NPC)\"}}",
     "damage": 3,
     "lore": [
       ""
     ],
     "internalname": "SILNAR_NPC",
     "clickcommand": "",
-    "modver": "2.1.1-PRE",
-    "x": 53,
-    "y": 143,
-    "z": 20,
-    "island": "mining_3",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Silnar"
-    ]
+    ],
+    "x": 53,
+    "y": 141,
+    "z": 19,
+    "island": "mining_3"
   },
   "SILVA_DOMINUS": {
     "itemid": "minecraft:golden_axe",
@@ -232659,25 +232734,25 @@
   "SIRIUS_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Sirius (NPC)",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"5bd9db21-c742-2510-8aa4-dd16daaa9f05\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdhYjgzODU4ZWJjOGVlODVjM2U1NGFiMTNhYWJmY2MxZWYyYWQ0NDZkNmE5MDBlNDcxYzNmMzNiNzg5MDZhNWIifX19\"}]},Name:\"5bd9db21-c742-2510-8aa4-dd16daaa9f05\"},display:{Lore:[0:\"§7Sirius appears every 3 Skyblock Days  \",1:\"§7(Usally the 55th min of every real-life hour) \",2:\"§7in front of house in the §2Wilderness§7.\"],Name:\"§9Sirius (NPC)\"},ExtraAttributes:{id:\"SIRIUS_NPC\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SIRIUS_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"7f864c7e-d1f3-29ff-8248-5af80ce0099c\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2FiODM4NThlYmM4ZWU4NWMzZTU0YWIxM2FhYmZjYzFlZjJhZDQ0NmQ2YTkwMGU0NzFjM2YzM2I3ODkwNmE1YiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiI3Zjg2NGM3ZWQxZjMyOWZmODI0ODVhZjgwY2UwMDk5YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzNTAxNzAzNDI1fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only appears every 3 SkyBlock\",1:\"§7Days in the §2Wilderness§7.\",2:\"§8(Every hour, at XX:55)\"],Name:\"§9Sirius (NPC)\"}}",
     "damage": 3,
     "lore": [
-      "§7Sirius appears every 3 Skyblock Days  ",
-      "§7(Usally the 55th min of every real-life hour) ",
-      "§7in front of house in the §2Wilderness§7."
+      "§7Only appears every 3 SkyBlock",
+      "§7Days in the §2Wilderness§7.",
+      "§8(Every hour, at XX:55)"
     ],
     "internalname": "SIRIUS_NPC",
     "clickcommand": "",
-    "modver": "",
-    "x": 91,
-    "y": 77,
-    "z": 176,
-    "island": "hub",
     "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sirius"
-    ]
+    ],
+    "x": 91,
+    "y": 75,
+    "z": 176,
+    "island": "hub"
   },
   "SIRIUS_PERSONAL_PHONE_NUMBER": {
     "itemid": "minecraft:name_tag",
@@ -265433,6 +265508,26 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Third_Master_Star"
     ]
+  },
+  "THONDIN_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Thondin (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"THONDIN_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"e3dbfeaa-52bb-23b3-b2d7-d58c182f50c1\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjEzY2YwY2E3OWEzNjExYjhlMDVmZTllMjY0ZmIyYmY4ZDI3ZTQ2NGRjMTJkYzZlOTVkZDBhZTBjMzM1YTU2MSIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJlM2RiZmVhYTUyYmIyM2IzYjJkN2Q1OGMxODJmNTBjMSIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzkzNDk4Mzc4ODgyfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Only appears during §5Cult of the\",1:\"§5Fallen Star §7meetings.\"],Name:\"§9Thondin (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      "§7Only appears during §5Cult of the",
+      "§5Fallen Star §7meetings."
+    ],
+    "internalname": "THONDIN_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "infoType": "",
+    "info": [],
+    "island": "mining_3",
+    "x": -47,
+    "y": 192,
+    "z": 47
   },
   "THORNLEAF_SCYTHE": {
     "itemid": "minecraft:iron_hoe",
