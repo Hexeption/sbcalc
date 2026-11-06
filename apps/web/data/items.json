@@ -26515,35 +26515,6 @@
     "y": 113,
     "z": -197
   },
-  "BESTIARY_TALISMAN": {
-    "itemid": "minecraft:skull",
-    "displayname": "§fBestiary Talisman",
-    "nbttag": "{ExtraAttributes:{id:\"BESTIARY_TALISMAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"396bd4d5-c587-342a-9f05-146a45997cc4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"rXqHJm9SDJV3cxXim1J6MDT0WUfVa7nacz70F8ARcxUg91unuKr7CO/gdwngzQNy6Qa45GfG0VZmCkNB/DXBcMv3fAOOXzvbtN1HyBWGLZ5STXL/g8JaIideD0NNRB2HHJriokpnROInuy+FYdFKtclVXcRpbV0dhtbD6k4VXnsVg1fUbrfojwfazTKAUTKT6E9rfJLPFTzS6y8yoWZvOHCiuMPO7YVblhH/T3c+4HaijHXTkYKo8k97Y/BKuTs54adEmInItbfldwqUDqc+yQ/AdSW4Qr319M8FL4SnSC42CuJiFvnZ/lhSvx2tlm/PU8E36iSi0GYc7qfJuI/xoz0aT4ZKG9GYvBrCAG34LeYVcgqZGS77IBk9637ghLRr7t+9wn8JRWrvYByWdCjFOi2Ia3yXx3be6zGjBIAwWwSXnneKEgDXIt7lEJ2bA1HT04EO/ja5JIDoFVJbK4LAnZZwRczDJt4UeS3iP9/tRcMRIm4tLIOGP0Ygnh86Jb9o1nZ72kodwC5z3aI1BGYbkSaH88eIhrxhbhU7PexqATzgFoNYhSEpuBoyO9kbQ7sBAFnH0d2TORro7bnlC6B3r84vOMJ69P9/KfjNkKcSq2epB4I//kD4+BQC5HeMmPszckwqfFGUbTHC7MZbpJMO+OWwhP5C10gK/gy4F3+hSJM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxMzQ4Nzk3NTIzMywKICAicHJvZmlsZUlkIiA6ICJhMjk1ODZmYmU1ZDk0Nzk2OWZjOGQ4ZGE0NzlhNDNlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWaWVydGVsdG9hc3RpaWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWFlZjUxNzk5OGI5ZDkzZjYyZDAwNTY3Y2Y2YmM2ODg1MWEzNGJkOTlmMzcwNjk4ZjhiNmQ2MmQ5ZGU0YzNlNCIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Strength: §c+1\",1:\"§7Accessory Power: §6+3\",2:\"\",3:\"§7The rarity and stats of this\",4:\"§7accessory increases every §a50\",5:\"§3Bestiary Milestones§7!\",6:\"\",7:\"§8§oThe early steps of a hunter's\",8:\"§8§ojourney.\",9:\"\",10:\"§8§l* §8Soulbound §8§l*\",11:\"§8Works while in Accessory Bag!\",12:\"§f§lCOMMON ACCESSORY\"],Name:\"§fBestiary Talisman\"}}",
-    "damage": 3,
-    "lore": [
-      "§7Strength: §c+1",
-      "§7Accessory Power: §6+3",
-      "",
-      "§7The rarity and stats of this",
-      "§7accessory increases every §a50",
-      "§3Bestiary Milestones§7!",
-      "",
-      "§8§oThe early steps of a hunter's",
-      "§8§ojourney.",
-      "",
-      "§8§l* §8Soulbound §8§l*",
-      "§8Works while in Accessory Bag!",
-      "§f§lCOMMON ACCESSORY"
-    ],
-    "internalname": "BESTIARY_TALISMAN",
-    "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Bestiary_Talisman"
-    ]
-  },
   "BEST_WEAPON_RACK": {
     "itemid": "minecraft:skull",
     "displayname": "§fWeapon Rack+",
@@ -292010,6 +291981,78 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Cyberpunk_Wither_Goggles_Skin"
     ]
+  },
+  "WITHER_GOGGLES_ECLIPSED_SPECTRE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Eclipsed Spectre Wither Goggles Skin",
+    "nbttag": "{ExtraAttributes:{id:\"WITHER_GOGGLES_ECLIPSED_SPECTRE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"1f6bc006-f0b0-3d5d-b351-ba547ee341b9\",Properties:{textures:[0:{Name:\"textures\",Signature:\"tly17W2bQxPB62ilgYlJLP+pJVvrCdoRfDFX/i6qj8clWcyT7sFp/cTYL8nCUPQuJnu4ibld/EzDpEEjgW8sFG1jjaH8Qz+bEkUYLvFMrHPA3s1f+8BiRU6CBLD4BW3UhJ0vhXSEfTOOeMON+fWGF8ZNdodZUQHGAlyk+70PaP50jgZ5oQWybfFSRha8GNhfEZ0dXYdBL4SZa79Zb5ZiUusbrt9tAsD7NvBU7qnNllq2rZKm2e9YI6aGquqCRyjYAn05aelrQ1z5c1ewHKEgu1Dg5IhRNni64l/KGLej9yaNVjJAU4PLBAlCbagPuURbyuiQH9TPVKr1OAVZGK11kluDY0SqmDV9MG6n0AF9ZucynRAyUlbBGed2ZyR7fRxMHtp9PbN7657LktXOoG5NZ8ywwYtAH0rIjRI039eWHVXHS3MC+DcOrfOfEKeztHheU3ckG9y0dS5RhXSCkEbbdJz+8y0bIEqEoVxIMsBhS+7B4s/pbRw3Vg6gbHiW1grrxMN0VhPZqm99CCyQI+tqFudurfKSLgWcu8dHSHLsG3P0ntzZ3ZtFf+550qd0sb3W97ycO1wzUjIG0QfnB9ATUH7HClMkRv20BDFvj0fIfNBgPb9+Cu6pEATsjC6yl9KD0My5W7mkohK9ouboxSkJPjDMEClzTVq0hLdQ2FywuSM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5MzgyODg3MTM0OCwKICAicHJvZmlsZUlkIiA6ICIyZmI1ZGJhYTY2NTA0OGEyYjZhYzU5YWE2Nzk5MDYzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcmFnbG9uZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODc1OGE5Y2JmZTE5MmIwZmFhOWRkYjZjNGEwMzRkYmUxMWIzMjczYjBjZGRiODNkOGU1MGFmMDI0MThmN2ZkMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §5Wither\",7:\"§5Goggles§7.\",8:\"\",9:\"§5§lEPIC COSMETIC\"],Name:\"§5Eclipsed Spectre Wither Goggles Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §5Wither",
+      "§5Goggles§7.",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "WITHER_GOGGLES_ECLIPSED_SPECTRE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g24f621ca",
+    "infoType": "",
+    "info": []
+  },
+  "WITHER_GOGGLES_LAGOON_SPECTRE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Lagoon Spectre Wither Goggles Skin",
+    "nbttag": "{ExtraAttributes:{id:\"WITHER_GOGGLES_LAGOON_SPECTRE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"bf1eb4c1-2a2a-35c7-8790-ba0e8d7071a4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"tvNlC+BSPiuTaTtJUtuMecOoTdBRBDUCll1n+4LteD8IgnauEcl0KjTxhb9gNeUeP+mrr0EKJWwmfSsvhmWEw3J8OKqLNhcMN3MzCoMjhMkupKKPuwlpq5PWtpgpoGliXP351EMa7bN2JO3fJ7oZTgjB8ITxoo7funz5A7A/fBclZSQbv8QbHkuZWBJ2h0FU6QNIhv6WNRWB4WDskw8NUZaB+e2/heH7xcxT0CIWlWrYTx/u8+fiweLl+1G1GfBl81bj3HAHmJBWXm7hOjIeGsOiHdjaY0t0AAEyF3/lYnAouyten/W7tWXrwc2nzJJy01KqKtvqUzom9m4QAaSrYXvgzQbs3mZmXRGQtOdyzK7RHmDNPlSEvXj5ttHrWgSg/PCVZAJYIrIrH+X98ur/9nXQtSZZtWu85l3XrrG7M6TkcsQeqChFKffrdK9QwCKLn1pFd2lswWDa+XDU/g6a9GgOSulYkLcXyfhyGT0UioWHr2d3bzWNMS7nXlSa24j1r1XPfFuBfESwMBdiaW3JcB2xCA809+h162VF/twip+ktK/ZZRPQa5s/8if7VGZzksKYMHmayv8b6zElU1Avco5mj7UuJHPj055h3OKSPITBPdm7WjcJ23CXPK/0YXIv/KAW/BYl0xF/sBT5+MZirbQ+75h/HwY5Nzt2lQ9TH8FU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5MzgyODg3NDI1MywKICAicHJvZmlsZUlkIiA6ICI2MTU1NTMyOTY2OWM0ZDA5YmFiOGJlNDNkYWUwYTRjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb3Ryb19DbGllbnQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdjM2JmNDI1ODE0N2Y2NGI1ODNiM2RmMDlmOWRjM2UxZjZjOWZmZmI5YmVkM2VmM2M3ZjFlMjNhZjhkMDk5NSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §5Wither\",7:\"§5Goggles§7.\",8:\"\",9:\"§5§lEPIC COSMETIC\"],Name:\"§5Lagoon Spectre Wither Goggles Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §5Wither",
+      "§5Goggles§7.",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "WITHER_GOGGLES_LAGOON_SPECTRE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g24f621ca",
+    "infoType": "",
+    "info": []
+  },
+  "WITHER_GOGGLES_MIDNIGHT_SPECTRE": {
+    "itemid": "minecraft:skull",
+    "displayname": "§5Midnight Spectre Wither Goggles Skin",
+    "nbttag": "{ExtraAttributes:{id:\"WITHER_GOGGLES_MIDNIGHT_SPECTRE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"270038ef-fc84-3e9e-8eca-54d29038dfb3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"kMxSkmlmNQf314OIq2REcVLMVV+osYHvj5h5Zzsi7F+1beotGj9Ycr/hbG5SmVe9W7zxbOOnpJFzJmNxQYF1F3K0NlLumNAZRiJRuRuWRPJb8sxOGNP3JI9h1Vff3uYcYlHnoaVNJAdLdc5TH7uRhpC6GxvOBxUR+nY1FmIk6G73YnxG2r+oPG/E6hYfvkQrxS16Z16fsgClq73ZoCXEWzS0tlvF9l1OP35a7iMdoRDygZklbsEUjrag74aLAdhdnLGJJZ/RxlUtoHA7jGjWxlj042MjFmGkzvs+TQhkSVvhL4tThVGBVgNs6qSeqNNlW2jY7kciaOn+6BKjYq8orC7yQwuqnJNrwAGBSZ7+vWXRTp7xc91BdMYX+NP0oifWM2nTTZ1plQlXbdKGWakwVa///H6FAI0kaQvgKEfafj/iqOOQ/cJh5v2NhP/etTYW4qsEWPFu+OvJtDBmC6ufnF0Ud3ZZQG+5EPjlQR9/6cI7aV+1LB6gsssfBAPDnyZB1tqBmAX3kQ+De1swZqTLEjDk5O4qX5gADpnkFgabwRfVPfHwNbAu2MASMcgfR2ns+SVCy1Mq7hZ4ILe5NHFjhSeym4S1EXogq4jWFQAWX7ptIhhkcncvuaWFvPrZYVYsygvSvd+48dpPULYBexYNO3FgSj9sn9lQudvDM9cTh+8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5MzgyODg3Mjg4NiwKICAicHJvZmlsZUlkIiA6ICI0YWU5MTM5MzZhOGU0MWU0YWNlMTYyYjI4YmM0MzMwMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6ZXJ2YXRpb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI1NzgzY2NhZThhNTdlOGQ2OTNjOTc0Nzk5NWE4OTFjMDE2OWE4N2RiMzU0ODEyYzI5ZGEyY2U5NzkyYzdmZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §5Wither\",7:\"§5Goggles§7.\",8:\"\",9:\"§5§lEPIC COSMETIC\"],Name:\"§5Midnight Spectre Wither Goggles Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §5Wither",
+      "§5Goggles§7.",
+      "",
+      "§5§lEPIC COSMETIC"
+    ],
+    "internalname": "WITHER_GOGGLES_MIDNIGHT_SPECTRE",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.3.0-dev+mc26.2+g24f621ca",
+    "infoType": "",
+    "info": []
   },
   "WITHER_GOURD_MONSTER": {
     "itemid": "minecraft:skull",
