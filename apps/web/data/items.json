@@ -271364,8 +271364,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Trinity"
+    ],
     "recipes": [
       {
         "type": "npc_shop",
@@ -292003,8 +292005,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g24f621ca",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Eclipsed_Spectre_Wither_Goggles_Skin"
+    ]
   },
   "WITHER_GOGGLES_LAGOON_SPECTRE": {
     "itemid": "minecraft:skull",
@@ -292027,8 +292031,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g24f621ca",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Lagoon_Spectre_Wither_Goggles_Skin"
+    ]
   },
   "WITHER_GOGGLES_MIDNIGHT_SPECTRE": {
     "itemid": "minecraft:skull",
@@ -292051,8 +292057,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.3.0-dev+mc26.2+g24f621ca",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Midnight_Spectre_Wither_Goggles_Skin"
+    ]
   },
   "WITHER_GOURD_MONSTER": {
     "itemid": "minecraft:skull",
