@@ -20759,8 +20759,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Balloon_Cart"
+    ]
   },
   "BALLOON_HAT_2024_AQUA": {
     "itemid": "minecraft:skull",
@@ -24785,8 +24787,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bear_Bed"
+    ]
   },
   "BEAR_BENCH": {
     "itemid": "minecraft:skull",
@@ -24806,8 +24810,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bear_Bench"
+    ]
   },
   "BEAR_BOOKSHELF": {
     "itemid": "minecraft:skull",
@@ -24827,8 +24833,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bear_Bookshelf"
+    ]
   },
   "BEAR_CHAIR": {
     "itemid": "minecraft:skull",
@@ -24848,8 +24856,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bear_Chair"
+    ]
   },
   "BEAR_SIDE_TABLE": {
     "itemid": "minecraft:skull",
@@ -24869,8 +24879,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Bear_Side_Table"
+    ]
   },
   "BEASTMASTER_CREST_COMMON": {
     "itemid": "minecraft:skull",
@@ -29035,8 +29047,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Black_Cat_Plushie"
+    ]
   },
   "BLACK_COFFEE": {
     "itemid": "minecraft:skull",
@@ -40262,8 +40276,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Candy_Cane_Bench"
+    ]
   },
   "CANDY_CANE_TABLE": {
     "itemid": "minecraft:skull",
@@ -40283,8 +40299,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Candy_Cane_Table"
+    ]
   },
   "CANDY_CORN": {
     "itemid": "minecraft:paper",
@@ -50046,8 +50064,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Coconut_Drink"
+    ]
   },
   "COCO_CHOPPER": {
     "itemid": "minecraft:golden_axe",
@@ -62934,8 +62954,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Dollhouse"
+    ]
   },
   "DOLPHIN;0": {
     "itemid": "minecraft:skull",
@@ -84436,7 +84458,9 @@
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fancy_Beach_Chair"
+    ]
   },
   "FANCY_FLOWER_POT": {
     "itemid": "minecraft:skull",
@@ -91603,7 +91627,9 @@
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Fisherman%27s_Cooler"
+    ]
   },
   "FISHERMAN_GERALD_NPC": {
     "itemid": "minecraft:skull",
@@ -92985,7 +93011,9 @@
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Flamingo_Float"
+    ]
   },
   "FLAMING_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
@@ -103501,8 +103529,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Giant_Teddy_Bear"
+    ]
   },
   "GIANT_TOOTH": {
     "itemid": "minecraft:paper",
@@ -104014,8 +104044,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Gingerbread_Bed"
+    ]
   },
   "GINGERBREAD_HOUSE": {
     "itemid": "minecraft:skull",
@@ -112625,7 +112657,9 @@
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Greenhouse_Planter"
+    ]
   },
   "GREENHOUSE_BLUEPRINT": {
     "itemid": "minecraft:paper",
@@ -120813,8 +120847,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Holiday_Fireplace"
+    ]
   },
   "HOLIDAY_TRAIN": {
     "itemid": "minecraft:skull",
@@ -121970,8 +122006,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Hopscotch"
+    ]
   },
   "HORNS_OF_TORMENT": {
     "itemid": "minecraft:paper",
@@ -134450,8 +134488,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Jungle_Bed"
+    ]
   },
   "JUNGLE_BIOME_STICK": {
     "itemid": "minecraft:stick",
@@ -134508,8 +134548,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Jungle_Cabin"
+    ]
   },
   "JUNGLE_CHAIR": {
     "itemid": "minecraft:skull",
@@ -134529,8 +134571,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Jungle_Chair"
+    ]
   },
   "JUNGLE_DOOR_ITEM": {
     "itemid": "minecraft:jungle_door",
@@ -134578,8 +134622,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Jungle_Dresser"
+    ]
   },
   "JUNGLE_FENCE": {
     "itemid": "minecraft:jungle_fence",
@@ -135183,8 +135229,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Jungle_Table"
+    ]
   },
   "JUNGLE_WOOD_STAIRS": {
     "itemid": "minecraft:jungle_stairs",
@@ -142181,8 +142229,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Lemonade_Stand"
+    ]
   },
   "LEO_NPC": {
     "itemid": "minecraft:skull",
@@ -142670,7 +142720,9 @@
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g6ee9ec8a",
     "infoType": "WIKI_URL",
-    "info": []
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Lifeguard_Chair"
+    ]
   },
   "LIFE_PRESERVER": {
     "itemid": "minecraft:skull",
@@ -156446,8 +156498,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Mimic_Chest"
+    ]
   },
   "MIMIC_FRAGMENT": {
     "itemid": "minecraft:paper",
@@ -174754,8 +174808,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.1.0-dev+mc1.21.5+g4402b1f",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Patio_Bench"
+    ]
   },
   "PATIO_FIRE_PIT": {
     "itemid": "minecraft:skull",
@@ -174775,8 +174831,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 43.0.0+mc1.21.10",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Patio_Fire_Pit"
+    ]
   },
   "PATIO_SIDE_TABLE": {
     "itemid": "minecraft:skull",
@@ -174796,8 +174854,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Patio_Side_Table"
+    ]
   },
   "PATIO_SOFA": {
     "itemid": "minecraft:skull",
@@ -174817,8 +174877,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Patio_Sofa"
+    ]
   },
   "PATIO_STOOL": {
     "itemid": "minecraft:skull",
@@ -174838,8 +174900,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Patio_Stool"
+    ]
   },
   "PAT_NPC": {
     "itemid": "minecraft:skull",
@@ -194597,8 +194661,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pirate_Cutout"
+    ]
   },
   "PISCARY;1": {
     "itemid": "minecraft:enchanted_book",
@@ -206256,8 +206322,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Armchair"
+    ]
   },
   "PUMPKIN_BED": {
     "itemid": "minecraft:skull",
@@ -206278,8 +206346,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Bed"
+    ]
   },
   "PUMPKIN_BOMB": {
     "itemid": "minecraft:skull",
@@ -206371,8 +206441,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Candy_Handout"
+    ]
   },
   "PUMPKIN_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
@@ -206431,8 +206503,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Couch"
+    ]
   },
   "PUMPKIN_CRAFTING_TABLE": {
     "itemid": "minecraft:skull",
@@ -206603,8 +206677,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Pumpkin_Dresser"
+    ]
   },
   "PUMPKIN_FLUX": {
     "itemid": "minecraft:skull",
@@ -211077,8 +211153,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Reading_Nook"
+    ]
   },
   "REALITY_HOPPER_BRONZE": {
     "itemid": "minecraft:paper",
@@ -211195,8 +211273,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Reanimated_Painting"
+    ]
   },
   "REAPER_BLUE_ONI_MASK": {
     "itemid": "minecraft:skull",
@@ -219474,8 +219554,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 43.0.0+mc1.21.10",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Rocking_Reindeer"
+    ]
   },
   "ROCK_CANDY": {
     "itemid": "minecraft:paper",
@@ -222224,8 +222306,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Salem_Fireplace"
+    ]
   },
   "SALEM_LARGE_SOFA": {
     "itemid": "minecraft:skull",
@@ -222246,8 +222330,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Salem_Large_Sofa"
+    ]
   },
   "SALEM_SMALL_SOFA": {
     "itemid": "minecraft:skull",
@@ -222268,8 +222354,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Salem_Small_Sofa"
+    ]
   },
   "SALESMAN_NPC": {
     "itemid": "minecraft:skull",
@@ -233008,8 +233096,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Chair"
+    ]
   },
   "SKELETON_FISH_BRONZE": {
     "itemid": "minecraft:paper",
@@ -248878,8 +248968,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Sprinkler"
+    ]
   },
   "SPRUCE_DOOR_ITEM": {
     "itemid": "minecraft:spruce_door",
@@ -261281,8 +261373,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Extra_Large_Nutcracker"
+    ]
   },
   "TAL_KER_NPC": {
     "itemid": "minecraft:skull",
@@ -270429,8 +270523,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.7.1-dev+mc1.21.5+gf7e1a13",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Toy_Box"
+    ]
   },
   "TRADING_POST_BARN_SKIN": {
     "itemid": "minecraft:fence",
@@ -275231,8 +275327,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc1.21.11+g36d974dd",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Turtle_Sandbox"
+    ]
   },
   "TUSK_FOSSIL": {
     "itemid": "minecraft:paper",
@@ -281789,8 +281887,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Vampire_Bed"
+    ]
   },
   "VAMPIRE_CANDELABRA": {
     "itemid": "minecraft:skull",
@@ -281811,8 +281911,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Vampire_Candelabra"
+    ]
   },
   "VAMPIRE_DENTIST_RELIC": {
     "itemid": "minecraft:skull",
@@ -282303,8 +282405,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Vampire_Sofa"
+    ]
   },
   "VAMPIRE_TABLE": {
     "itemid": "minecraft:skull",
@@ -282325,8 +282429,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Vampire_Table"
+    ]
   },
   "VAMPIRE_THRONE": {
     "itemid": "minecraft:skull",
@@ -282347,8 +282453,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.7.1-dev+mc1.21.5+g19c6b28",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Vampire_Throne"
+    ]
   },
   "VAMPIRE_WITCH_MASK": {
     "itemid": "minecraft:skull",
@@ -291335,8 +291443,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Witch%27s_Belongings"
+    ]
   },
   "WITCH_BROOMSTICK": {
     "itemid": "minecraft:skull",
@@ -296535,8 +296645,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Yule_Log"
+    ]
   },
   "Z": {
     "itemid": "minecraft:paper",
