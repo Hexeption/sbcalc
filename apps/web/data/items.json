@@ -1884,8 +1884,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Accessory_Enrichment"
+    ]
   },
   "ACCRETION_ARTIFACT": {
     "itemid": "minecraft:paper",
@@ -85318,65 +85320,65 @@
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:7"
+          "SKYBLOCK_COIN:30"
         ],
         "result": "WHEAT:3"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:7"
+          "SKYBLOCK_COIN:30"
         ],
         "result": "CARROT_ITEM:3"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:7"
+          "SKYBLOCK_COIN:30"
         ],
         "result": "POTATO_ITEM:3"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:20"
+          "SKYBLOCK_COIN:40"
         ],
         "result": "MELON:10"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:15"
+          "SKYBLOCK_COIN:30"
         ],
         "result": "SUGAR_CANE:3"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:8"
+          "SKYBLOCK_COIN:25"
         ],
-        "result": "PUMPKIN"
+        "result": "PUMPKIN:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:7"
+          "SKYBLOCK_COIN:4.5"
         ],
-        "result": "INK_SACK-3"
+        "result": "INK_SACK-3:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:12"
+          "SKYBLOCK_COIN:25"
         ],
-        "result": "RED_MUSHROOM"
+        "result": "RED_MUSHROOM:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:12"
+          "SKYBLOCK_COIN:25"
         ],
-        "result": "BROWN_MUSHROOM"
+        "result": "BROWN_MUSHROOM:1"
       },
       {
         "type": "npc_shop",
@@ -85388,23 +85390,37 @@
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:10"
+          "SKYBLOCK_COIN:15"
         ],
-        "result": "CACTUS"
+        "result": "CACTUS:1"
       },
       {
         "type": "npc_shop",
         "cost": [
           "SKYBLOCK_COIN:6"
         ],
-        "result": "ENCHANTED_BONE_MEAL"
+        "result": "ENCHANTED_BONE_MEAL:3"
       },
       {
         "type": "npc_shop",
         "cost": [
           "SKYBLOCK_COIN:10"
         ],
-        "result": "ROOKIE_HOE"
+        "result": "ROOKIE_HOE:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_COIN:10"
+        ],
+        "result": "ROOKIE_FARMING_AXE:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_COIN:250"
+        ],
+        "result": "BEGINNER_AGRONOMY_SACK:1"
       }
     ]
   },
@@ -92294,6 +92310,13 @@
         "cost": [
           "SKYBLOCK_COIN:10"
         ]
+      },
+      {
+        "type": "npc_shop",
+        "result": "BEGINNER_FISHING_SACK:1",
+        "cost": [
+          "SKYBLOCK_COIN:250"
+        ]
       }
     ]
   },
@@ -92506,106 +92529,6 @@
       "C2": "RAW_FISH:1",
       "C3": "RAW_FISH:1"
     }
-  },
-  "FISH_MERCHANT_NPC": {
-    "itemid": "minecraft:skull",
-    "displayname": "§9Fishing Merchant (NPC)",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"a167b970-0625-5848-9945-a3af3db31031\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJjNGVlMDQ3OWI5MDFmMTc3YzI4Njg5NWRhMzEwYTgwNmRmZTg5N2M5YTg2NzhiOWRlODhhYmJiMWJmZjRiMSJ9fX0=\"}]}},display:{Lore:[0:\"\"],Name:\"§9Fishing Merchant (NPC)\"},ExtraAttributes:{id:\"FISH_MERCHANT_NPC\"}}",
-    "damage": 3,
-    "lore": [
-      ""
-    ],
-    "internalname": "FISH_MERCHANT_NPC",
-    "clickcommand": "viewrecipe",
-    "modver": "2.1.0-REL",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Fishing_Merchant"
-    ],
-    "crafttext": "",
-    "x": 52,
-    "y": 70,
-    "z": -83,
-    "island": "hub",
-    "recipes": [
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:50"
-        ],
-        "result": "FISHING_ROD"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:50"
-        ],
-        "result": "DIAMOND_SWORD"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:15"
-        ],
-        "result": "MINNOW_BAIT"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:100"
-        ],
-        "result": "ANGLER_HELMET"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:100"
-        ],
-        "result": "ANGLER_CHESTPLATE"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:100"
-        ],
-        "result": "ANGLER_LEGGINGS"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:100"
-        ],
-        "result": "ANGLER_BOOTS"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:100"
-        ],
-        "result": "ANGLER_NECKLACE"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:100"
-        ],
-        "result": "ANGLER_CLOAK"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:100"
-        ],
-        "result": "ANGLER_BRACELET"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
-          "SKYBLOCK_COIN:100"
-        ],
-        "result": "ANGLER_BELT"
-      }
-    ]
   },
   "FISH_PERSONALITY": {
     "itemid": "minecraft:skull",
@@ -97371,11 +97294,11 @@
   "FRESHLY_BAKED_ARTIFACT": {
     "itemid": "minecraft:skull",
     "displayname": "§9Freshly Baked Artifact",
-    "nbttag": "{ExtraAttributes:{id:\"FRESHLY_BAKED_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f1e29100-03fc-3e11-8d0e-d4cfe15caf44\",Properties:{textures:[0:{Name:\"textures\",Signature:\"fNHk8TCCAXBZn5FiCObuiJ+WXxuG5GkMmPamY5MGqkO2it9qdi5u4/RTr8zR7RJgOIxzQdBZyFw8vL5u3qdLdy4/BROBhz06qCjqqV63dIQaX7czzDd2jXbVoCajrqsIYLH8sL9t5IGs15ijoQptZ063CwhqPEOcAwAcUbTCGRNQ7HKsSrVLAyQYg6lY0uoRbfbcA2h2UzBte7p/aZPlejfVuu/WiyOf70DSMUXaR1BuzPNCy4RJj0klF0p+ONZTzGCdtRXYf1nOS6jL3s6IZsrdx+JMFo3Gq+tkcU2XFhRxj6hvfjOl7TYJMuUO37bVo29BECXtFnYj+ZQXRXTGAt0k2SY9KGCU1Dv74j+pzSXcQtwHjon+4l9B0wUjegpFEhKiwEigSqaJ9Xstoxcl/WIzvMbm7hKJxLY9SwXqhC+r9bMNuEFD6WxY+XCIUomrHy/JGwfnR/dn54l8OjGUMFosJkUQmiJWUiG2UT++hRzZW0cIufbM2EMAY7Pnc4TJmi3y9QdKABv34yO7zhimZqalfP3/BnUfCcSoKaIPvNwyXK0xBz0LE7k+/22qw2vzdA4O+qsy7lxi0MqSC/1aeEExaZs2kWNODwDARCeClZlSq2c5Av8Yb7PyYTcRtQj+nhvkVcCG1OnA+NGDworP2Fij3yTJQJWpR1DaDkpXWbI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyNjAxNywKICAicHJvZmlsZUlkIiA6ICIyY2QyMTQwMGZmZDE0MDU3OWJiN2FlODEzNzUyMjBmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnVoYUJydWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRlMzMwZTQxYmFkNjNmN2M2NWM4NjY0ZWZiNmVjNzJiMDcxZTk0ODMxYTAxZjFiYjUwZmMxMGEyMmNkNjIzZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"§7Overbloom: §e+6\",2:\"\",3:\"§7This item has §ex2  Overbloom §7during\",4:\"§7Feast events.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§9§lRARE ACCESSORY\"],Name:\"§9Freshly Baked Artifact\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FRESHLY_BAKED_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f1e29100-03fc-3e11-8d0e-d4cfe15caf44\",Properties:{textures:[0:{Name:\"textures\",Signature:\"fNHk8TCCAXBZn5FiCObuiJ+WXxuG5GkMmPamY5MGqkO2it9qdi5u4/RTr8zR7RJgOIxzQdBZyFw8vL5u3qdLdy4/BROBhz06qCjqqV63dIQaX7czzDd2jXbVoCajrqsIYLH8sL9t5IGs15ijoQptZ063CwhqPEOcAwAcUbTCGRNQ7HKsSrVLAyQYg6lY0uoRbfbcA2h2UzBte7p/aZPlejfVuu/WiyOf70DSMUXaR1BuzPNCy4RJj0klF0p+ONZTzGCdtRXYf1nOS6jL3s6IZsrdx+JMFo3Gq+tkcU2XFhRxj6hvfjOl7TYJMuUO37bVo29BECXtFnYj+ZQXRXTGAt0k2SY9KGCU1Dv74j+pzSXcQtwHjon+4l9B0wUjegpFEhKiwEigSqaJ9Xstoxcl/WIzvMbm7hKJxLY9SwXqhC+r9bMNuEFD6WxY+XCIUomrHy/JGwfnR/dn54l8OjGUMFosJkUQmiJWUiG2UT++hRzZW0cIufbM2EMAY7Pnc4TJmi3y9QdKABv34yO7zhimZqalfP3/BnUfCcSoKaIPvNwyXK0xBz0LE7k+/22qw2vzdA4O+qsy7lxi0MqSC/1aeEExaZs2kWNODwDARCeClZlSq2c5Av8Yb7PyYTcRtQj+nhvkVcCG1OnA+NGDworP2Fij3yTJQJWpR1DaDkpXWbI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyNjAxNywKICAicHJvZmlsZUlkIiA6ICIyY2QyMTQwMGZmZDE0MDU3OWJiN2FlODEzNzUyMjBmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnVoYUJydWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRlMzMwZTQxYmFkNjNmN2M2NWM4NjY0ZWZiNmVjNzJiMDcxZTk0ODMxYTAxZjFiYjUwZmMxMGEyMmNkNjIzZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"§7Overbloom: §e+3\",2:\"\",3:\"§7This item has §ex2  Overbloom §7during\",4:\"§7Feast events.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§9§lRARE ACCESSORY\"],Name:\"§9Freshly Baked Artifact\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+8",
-      "§7Overbloom: §e+6",
+      "§7Overbloom: §e+3",
       "",
       "§7This item has §ex2  Overbloom §7during",
       "§7Feast events.",
@@ -97386,7 +97309,7 @@
     "internalname": "FRESHLY_BAKED_ARTIFACT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Freshly_Baked_Artifact"
@@ -97395,11 +97318,11 @@
   "FRESHLY_BAKED_HEIRLOOM": {
     "itemid": "minecraft:skull",
     "displayname": "§6Freshly Baked Heirloom",
-    "nbttag": "{ExtraAttributes:{id:\"FRESHLY_BAKED_HEIRLOOM\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"067a371c-d5c3-3c05-80f3-bff0f224317d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"qFRvVxZM2GhlCRn7hEAlvIIHLfinsWhY12o4l3kjBU5xvB7nqEWYFakDB1Oilg3WlervOQyRX92lb9fm41IAGkry1nRKGLc49RBh4lsvCZXS8ciIv8jsx7gNX8Y/s/vMafS/py181e/pwRTk9A7tRwjlZ2PEeZt4pKmZrrazbuI0tWXs311KfNMCJfe1mx088aXl/jt2RKEuIlK6c8yUfUVpHdQRVllLCnKyKGbtr2ijUt/xG1bMl9NNpE8anlsE6nk+mgHm/8/La+8KifLllZYNRNISDqCd3dXigHJfKAGtpt+c+5Qc/k+srNH6OAFyyoXEJtqIqaqQX6v1BHq1YYgJniN7AopsvTUjn1+p0AVcP3HcM3WfVY3j1DECSNvsIwNDan3EPieA3yCys8OfsAS/YgOUqVntsmmgkqKQXBrkb+ABdIGLeBPupQ4Fr2oCibonw48uTEzOhOxVEs+9CTeKMjl+JIOjqo7Of+0Mx/nLEJs+CHXYfuiimD7FJE+fBN+lAJR0eQTUA6WHh+xtd3Isf+CNqNAz87MYlD1Yi/hfN23Pmiz02pqolS43PorL759znZlCIRhc5ohrvuJC6YG4MC4db64OcZLLQw8PNmaK832lrHqX63+0P5wloXhYjKDexuegzIJ1Uh8iRPnSbJ0SQ0Uz5vpJ2+XTO7E+bN0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyNzI2MCwKICAicHJvZmlsZUlkIiA6ICI1MDMyYTA2NWQ5MWQ0NTgyYjZmODM0MDRlMGYyOTA4MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWNCb29rUHJvTTIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDUyMmVlMzljZTg5ODliNGMzNzc3YTIzNTE0ZTBlOTdiMzE0NDE3MTdjNzc5ZTljMmVlZDM2NDIwNmQyYjU2ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+16\",1:\"§7Overbloom: §e+10\",2:\"\",3:\"§7This item has §ex2  Overbloom §7during\",4:\"§7Feast events.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Freshly Baked Heirloom\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FRESHLY_BAKED_HEIRLOOM\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"067a371c-d5c3-3c05-80f3-bff0f224317d\",Properties:{textures:[0:{Name:\"textures\",Signature:\"qFRvVxZM2GhlCRn7hEAlvIIHLfinsWhY12o4l3kjBU5xvB7nqEWYFakDB1Oilg3WlervOQyRX92lb9fm41IAGkry1nRKGLc49RBh4lsvCZXS8ciIv8jsx7gNX8Y/s/vMafS/py181e/pwRTk9A7tRwjlZ2PEeZt4pKmZrrazbuI0tWXs311KfNMCJfe1mx088aXl/jt2RKEuIlK6c8yUfUVpHdQRVllLCnKyKGbtr2ijUt/xG1bMl9NNpE8anlsE6nk+mgHm/8/La+8KifLllZYNRNISDqCd3dXigHJfKAGtpt+c+5Qc/k+srNH6OAFyyoXEJtqIqaqQX6v1BHq1YYgJniN7AopsvTUjn1+p0AVcP3HcM3WfVY3j1DECSNvsIwNDan3EPieA3yCys8OfsAS/YgOUqVntsmmgkqKQXBrkb+ABdIGLeBPupQ4Fr2oCibonw48uTEzOhOxVEs+9CTeKMjl+JIOjqo7Of+0Mx/nLEJs+CHXYfuiimD7FJE+fBN+lAJR0eQTUA6WHh+xtd3Isf+CNqNAz87MYlD1Yi/hfN23Pmiz02pqolS43PorL759znZlCIRhc5ohrvuJC6YG4MC4db64OcZLLQw8PNmaK832lrHqX63+0P5wloXhYjKDexuegzIJ1Uh8iRPnSbJ0SQ0Uz5vpJ2+XTO7E+bN0=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyNzI2MCwKICAicHJvZmlsZUlkIiA6ICI1MDMyYTA2NWQ5MWQ0NTgyYjZmODM0MDRlMGYyOTA4MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWNCb29rUHJvTTIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDUyMmVlMzljZTg5ODliNGMzNzc3YTIzNTE0ZTBlOTdiMzE0NDE3MTdjNzc5ZTljMmVlZDM2NDIwNmQyYjU2ZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+16\",1:\"§7Overbloom: §e+5\",2:\"\",3:\"§7This item has §ex2  Overbloom §7during\",4:\"§7Feast events.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Freshly Baked Heirloom\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+16",
-      "§7Overbloom: §e+10",
+      "§7Overbloom: §e+5",
       "",
       "§7This item has §ex2  Overbloom §7during",
       "§7Feast events.",
@@ -97410,7 +97333,7 @@
     "internalname": "FRESHLY_BAKED_HEIRLOOM",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Freshly_Baked_Heirloom"
@@ -97419,11 +97342,11 @@
   "FRESHLY_BAKED_RELIC": {
     "itemid": "minecraft:skull",
     "displayname": "§5Freshly Baked Relic",
-    "nbttag": "{ExtraAttributes:{id:\"FRESHLY_BAKED_RELIC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"426c2fd5-a335-33a7-89db-05b3c85056e5\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FRh7L38OA2n8jxb5oPrjaPuY4XXIfpS6AxHYjJkOY3vgT6p/FqibcE+d/KFySmXBkoVfifIDuJW6TWIuVNNCy8areYqt25GoNls4Bp3uVCpWhkdJpR02N6H+khjZIPLBb8wAu2ff159LEIF0OCVVJhApXlAEW/G5E+q9ZDh47I98MrB3nuS0B19RglcZJ6J6FgQsM5TDqUPEahQh/R5aS7Wux/ucG8xIesK0v4y9UZ+2TT2hz2royEj6+H0AgRSj9zUZbkDbxcbc6zvtvxTV5JzsrmAEkyPpkZLw5JuZUZRffl6L5bJd0jIOXbhFsMhszyKnfisYN0IyCwF03wy8Oaqd/MwpHEJ2FxJCK8rsTwfMmjabhvxzIR8ICQNDZvrsAtVbtsURExR3N5Juan4vHpYD/rPjIFoq7lZmE57nSjssDX9NVOx2bGevR1IIkR8eoQMPjq1CJ9dhwqEkoHlpipIw5t929u7ee03sg7Vanfx4bopbO+rQdNKILzxXFKjB0omzlixgQB4mXUQWjyNCCdwzoIICeFP+vtpX8MBO+pKriJDQcJ3tNnfC5n8PE8XEOSpww5iShj3/wEWAfQjyTrzNxq7rMDQVaBK+1nOjcR8YqCP8dt+FgYv8RSqlX2IE9PQAc+4wlzbIzg+GMv7CxPAln/lFiakcYKB71nCuXLg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyODY1OSwKICAicHJvZmlsZUlkIiA6ICI4ODYyYjU4ZWI4YjE0MTg5OGY3MWE0YjI2MDA3ZWVkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYWJyaWV3RiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZDBiNzliNzNiYjljYTAzM2YzMGFhY2EzZGNhMjk2NTgwZWM2ZTk4NTA0ZTc1YjNkNWY3MjJhZjFkZmM2NzZjIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"§7Overbloom: §e+8\",2:\"\",3:\"§7This item has §ex2  Overbloom §7during\",4:\"§7Feast events.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§5§lEPIC ACCESSORY\"],Name:\"§5Freshly Baked Relic\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FRESHLY_BAKED_RELIC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"426c2fd5-a335-33a7-89db-05b3c85056e5\",Properties:{textures:[0:{Name:\"textures\",Signature:\"FRh7L38OA2n8jxb5oPrjaPuY4XXIfpS6AxHYjJkOY3vgT6p/FqibcE+d/KFySmXBkoVfifIDuJW6TWIuVNNCy8areYqt25GoNls4Bp3uVCpWhkdJpR02N6H+khjZIPLBb8wAu2ff159LEIF0OCVVJhApXlAEW/G5E+q9ZDh47I98MrB3nuS0B19RglcZJ6J6FgQsM5TDqUPEahQh/R5aS7Wux/ucG8xIesK0v4y9UZ+2TT2hz2royEj6+H0AgRSj9zUZbkDbxcbc6zvtvxTV5JzsrmAEkyPpkZLw5JuZUZRffl6L5bJd0jIOXbhFsMhszyKnfisYN0IyCwF03wy8Oaqd/MwpHEJ2FxJCK8rsTwfMmjabhvxzIR8ICQNDZvrsAtVbtsURExR3N5Juan4vHpYD/rPjIFoq7lZmE57nSjssDX9NVOx2bGevR1IIkR8eoQMPjq1CJ9dhwqEkoHlpipIw5t929u7ee03sg7Vanfx4bopbO+rQdNKILzxXFKjB0omzlixgQB4mXUQWjyNCCdwzoIICeFP+vtpX8MBO+pKriJDQcJ3tNnfC5n8PE8XEOSpww5iShj3/wEWAfQjyTrzNxq7rMDQVaBK+1nOjcR8YqCP8dt+FgYv8RSqlX2IE9PQAc+4wlzbIzg+GMv7CxPAln/lFiakcYKB71nCuXLg=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyODY1OSwKICAicHJvZmlsZUlkIiA6ICI4ODYyYjU4ZWI4YjE0MTg5OGY3MWE0YjI2MDA3ZWVkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYWJyaWV3RiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZDBiNzliNzNiYjljYTAzM2YzMGFhY2EzZGNhMjk2NTgwZWM2ZTk4NTA0ZTc1YjNkNWY3MjJhZjFkZmM2NzZjIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"§7Overbloom: §e+4\",2:\"\",3:\"§7This item has §ex2  Overbloom §7during\",4:\"§7Feast events.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§5§lEPIC ACCESSORY\"],Name:\"§5Freshly Baked Relic\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+12",
-      "§7Overbloom: §e+8",
+      "§7Overbloom: §e+4",
       "",
       "§7This item has §ex2  Overbloom §7during",
       "§7Feast events.",
@@ -97434,7 +97357,7 @@
     "internalname": "FRESHLY_BAKED_RELIC",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Freshly_Baked_Relic"
@@ -97443,11 +97366,11 @@
   "FRESHLY_BAKED_RING": {
     "itemid": "minecraft:skull",
     "displayname": "§aFreshly Baked Ring",
-    "nbttag": "{ExtraAttributes:{id:\"FRESHLY_BAKED_RING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ad02da4b-5297-3b83-8bd7-e9d9256c8bc1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"tnEKo1l1fumkoyPkV2V9tIkrEStFCxWOJGwFEb/Jz9dx0WJ3/fmvclD/0zmRGd8fZ/t04A2dpF7H2+UoiJWEwLUGgLxfCGQlNzVsArBFimOfAc82V9ZAsdgzhJQIYD+HdNH0g386tpnx2JqVqQjnw0WkTCSNsyPaHCifau4j0jdSXzuLcuPL/2P6x4AgFygWWpvZCeEdqBxjWSSSp6Sqta6H95ukXsitQZM6tFysUP12VXU4LDvQ+Wu9n6Y7rpAb+BBjF64dZJtWz6hS+dkERcXuBMycvv9BZgwVs7rqt+TtTwBK0651PZhzqFmNhOto1abtJuimfCK7hcaGD8P/DPUTvq63kfdN0B44GEfnaQMJ0M0ootElMbfju5JPrCk0NnCMwUKqCdeIcNNwclEZCXR6fcLpn5lPFri7K6fy3q9okGw48r3KZt8fj5mlpZiTs97dP6JfqdKYmVhVqH7bH5JK+Q+RU7UFFqsFE0/0xs5iJHswf/TEIXQZ+464dMX9cr4w79SvXOBBgi8kl18GJz5f354x40P4ur/g6eCzhYew4AhvD0I6U78VJVupc6tkwu3FbnrKlbePNi8Y+Fvz9/bBXCMTojTql5O1Lm7mcIuRarDlutw0oM7+UiBeAhLZGPg2ue3JZkki6MJ7esVrLpceRh5D9zdetE9iHr0jOb8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyOTk2OSwKICAicHJvZmlsZUlkIiA6ICI2YTQ3NjRhZWEwNWY0MTE1OTc0NzFlZjNjYWU4ZTdmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWRlZW5kamVoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiOTRkMjdhYjc2MDMxNWU2NGRjNzNiODgxNDU4YmU4NjQzZDdiNzNjZmE1YmM4YzIzZDM1NjI4Y2NkNTEzYWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"§7Overbloom: §e+4\",2:\"\",3:\"§7This item has §ex2  Overbloom §7during\",4:\"§7Feast events.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aFreshly Baked Ring\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FRESHLY_BAKED_RING\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"ad02da4b-5297-3b83-8bd7-e9d9256c8bc1\",Properties:{textures:[0:{Name:\"textures\",Signature:\"tnEKo1l1fumkoyPkV2V9tIkrEStFCxWOJGwFEb/Jz9dx0WJ3/fmvclD/0zmRGd8fZ/t04A2dpF7H2+UoiJWEwLUGgLxfCGQlNzVsArBFimOfAc82V9ZAsdgzhJQIYD+HdNH0g386tpnx2JqVqQjnw0WkTCSNsyPaHCifau4j0jdSXzuLcuPL/2P6x4AgFygWWpvZCeEdqBxjWSSSp6Sqta6H95ukXsitQZM6tFysUP12VXU4LDvQ+Wu9n6Y7rpAb+BBjF64dZJtWz6hS+dkERcXuBMycvv9BZgwVs7rqt+TtTwBK0651PZhzqFmNhOto1abtJuimfCK7hcaGD8P/DPUTvq63kfdN0B44GEfnaQMJ0M0ootElMbfju5JPrCk0NnCMwUKqCdeIcNNwclEZCXR6fcLpn5lPFri7K6fy3q9okGw48r3KZt8fj5mlpZiTs97dP6JfqdKYmVhVqH7bH5JK+Q+RU7UFFqsFE0/0xs5iJHswf/TEIXQZ+464dMX9cr4w79SvXOBBgi8kl18GJz5f354x40P4ur/g6eCzhYew4AhvD0I6U78VJVupc6tkwu3FbnrKlbePNi8Y+Fvz9/bBXCMTojTql5O1Lm7mcIuRarDlutw0oM7+UiBeAhLZGPg2ue3JZkki6MJ7esVrLpceRh5D9zdetE9iHr0jOb8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIyOTk2OSwKICAicHJvZmlsZUlkIiA6ICI2YTQ3NjRhZWEwNWY0MTE1OTc0NzFlZjNjYWU4ZTdmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWRlZW5kamVoIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiOTRkMjdhYjc2MDMxNWU2NGRjNzNiODgxNDU4YmU4NjQzZDdiNzNjZmE1YmM4YzIzZDM1NjI4Y2NkNTEzYWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"§7Overbloom: §e+2\",2:\"\",3:\"§7This item has §ex2  Overbloom §7during\",4:\"§7Feast events.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aFreshly Baked Ring\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+5",
-      "§7Overbloom: §e+4",
+      "§7Overbloom: §e+2",
       "",
       "§7This item has §ex2  Overbloom §7during",
       "§7Feast events.",
@@ -97458,7 +97381,7 @@
     "internalname": "FRESHLY_BAKED_RING",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Freshly_Baked_Ring"
@@ -97467,11 +97390,11 @@
   "FRESHLY_BAKED_TALISMAN": {
     "itemid": "minecraft:skull",
     "displayname": "§fFreshly Baked Talisman",
-    "nbttag": "{ExtraAttributes:{id:\"FRESHLY_BAKED_TALISMAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"59bb4cd9-2a2b-3334-8022-02e897d2b8e8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"PMbP782lL/PAAzY2DL+LBtcdJu8RRNF84FQD2Kj99hLjFrctUGeiyMxHDZDMfEEJLufcb5yKqymgWSYVT+ECMykQQYM5dQ7CVnbF9K7HK5B5/REk+o1JsORNkMjGtJV32AG/Smhjbojjc+wgJ7uKEaCAftgC6nFU70NAA93dixLia0v0pD6mJMN6LO+RqvbzK87JWqoyh8b3Zu+48hX5MaAWhJXZRzPUg5QbtuzkpkZoZy+F6cvcXNgORDutVyZfQrXyX97sTd1Lyd8w0fNO5Ooza0dTKnSf+whycaegYCDqfEMlJkbD/e9BL0cbF8wLXT/sVoTQ3cP+T4FUVy+0SZEok7DG2tPxuC2yQTqLrFvAbOmH6Dy0ov7HII7dKFpWJMQ2giDABu8svaiNPPdFsOp1Xca/5kSI5zHywFKsXulpNEetpl/tTM7CeHHacWmTkbN1WWfUqtd2osEORObWRafnmZOQIGzHMftW5Y81kwtP9LCP0Ye3MKRjqyrincrjQK+un4fIcnlU/IBPfCl0YNdQrDDKgQEzwR9WMcRqZKbu6bYkA8Oa8xkcJYidqxkkq+QJZ1Ny7ZDAGQtNRvnSimVfafZw1skX6R/wZ7uPKO+e26K588E2XXBxGZEKa4UbFvt6ydo/ngUsTUa+WqhMOk3YlQCCETysfIZrfEyDZoQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIzMTAwMiwKICAicHJvZmlsZUlkIiA6ICJhZTQyMTU2N2QzODg0YWUxOTJhNmNiNTY4ZmZkNGZhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aW1vdGh5ZGVvZG9yYW50IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhYWViZmQ1ODZjZWMwMGUzNmE0YTJlNzJkOGE0ZWJhNTg2ZWM5ZWQ1OGU5YzhlZWVlNjcyNWZlOTBlZWI1ODQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"§7Overbloom: §e+2\",2:\"\",3:\"§7This item has §ex2  Overbloom §7during\",4:\"§7Feast events.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§f§lCOMMON ACCESSORY\"],Name:\"§fFreshly Baked Talisman\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"FRESHLY_BAKED_TALISMAN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"59bb4cd9-2a2b-3334-8022-02e897d2b8e8\",Properties:{textures:[0:{Name:\"textures\",Signature:\"PMbP782lL/PAAzY2DL+LBtcdJu8RRNF84FQD2Kj99hLjFrctUGeiyMxHDZDMfEEJLufcb5yKqymgWSYVT+ECMykQQYM5dQ7CVnbF9K7HK5B5/REk+o1JsORNkMjGtJV32AG/Smhjbojjc+wgJ7uKEaCAftgC6nFU70NAA93dixLia0v0pD6mJMN6LO+RqvbzK87JWqoyh8b3Zu+48hX5MaAWhJXZRzPUg5QbtuzkpkZoZy+F6cvcXNgORDutVyZfQrXyX97sTd1Lyd8w0fNO5Ooza0dTKnSf+whycaegYCDqfEMlJkbD/e9BL0cbF8wLXT/sVoTQ3cP+T4FUVy+0SZEok7DG2tPxuC2yQTqLrFvAbOmH6Dy0ov7HII7dKFpWJMQ2giDABu8svaiNPPdFsOp1Xca/5kSI5zHywFKsXulpNEetpl/tTM7CeHHacWmTkbN1WWfUqtd2osEORObWRafnmZOQIGzHMftW5Y81kwtP9LCP0Ye3MKRjqyrincrjQK+un4fIcnlU/IBPfCl0YNdQrDDKgQEzwR9WMcRqZKbu6bYkA8Oa8xkcJYidqxkkq+QJZ1Ny7ZDAGQtNRvnSimVfafZw1skX6R/wZ7uPKO+e26K588E2XXBxGZEKa4UbFvt6ydo/ngUsTUa+WqhMOk3YlQCCETysfIZrfEyDZoQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc3MjU4OTIzMTAwMiwKICAicHJvZmlsZUlkIiA6ICJhZTQyMTU2N2QzODg0YWUxOTJhNmNiNTY4ZmZkNGZhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0aW1vdGh5ZGVvZG9yYW50IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhYWViZmQ1ODZjZWMwMGUzNmE0YTJlNzJkOGE0ZWJhNTg2ZWM5ZWQ1OGU5YzhlZWVlNjcyNWZlOTBlZWI1ODQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"§7Overbloom: §e+1\",2:\"\",3:\"§7This item has §ex2  Overbloom §7during\",4:\"§7Feast events.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§f§lCOMMON ACCESSORY\"],Name:\"§fFreshly Baked Talisman\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+3",
-      "§7Overbloom: §e+2",
+      "§7Overbloom: §e+1",
       "",
       "§7This item has §ex2  Overbloom §7during",
       "§7Feast events.",
@@ -97482,7 +97405,7 @@
     "internalname": "FRESHLY_BAKED_TALISMAN",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Freshly_Baked_Talisman"
@@ -119350,27 +119273,6 @@
       "https://hypixelskyblock.minecraft.wiki/w/Hemovibe"
     ]
   },
-  "HENDRICK_NPC": {
-    "itemid": "minecraft:skull",
-    "displayname": "§9Hendrik (NPC)",
-    "nbttag": "{HideFlags:254,SkullOwner:{Id:\"9a6bc928-392b-2702-8855-99447d45880d\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YwNWZiMWJmMjIyNTQxNjg3ZjI2ZDAwY2RiNjQyODVlZGQ1Mzk2YzVlMjliNjU3NmU0ZWIxMWRlYTI4MDI2N2YifX19\"}]},Name:\"9a6bc928-392b-2702-8855-99447d45880d\"},display:{Lore:[0:\"\"],Name:\"§9Hendrik (NPC)\"},ExtraAttributes:{id:\"HENDRICK_NPC\"}}",
-    "damage": 3,
-    "lore": [
-      ""
-    ],
-    "internalname": "HENDRICK_NPC",
-    "clickcommand": "",
-    "modver": "2.1.1-PRE",
-    "x": 17,
-    "y": 63,
-    "z": -30,
-    "island": "winter",
-    "crafttext": "",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Hendrik"
-    ]
-  },
   "HENDRIK_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Hendrik (NPC)",
@@ -121901,12 +121803,12 @@
   "HOPE_OF_THE_RESISTANCE": {
     "itemid": "minecraft:paper",
     "displayname": "§5Staff of the Rising Sun",
-    "nbttag": "{ExtraAttributes:{id:\"HOPE_OF_THE_RESISTANCE\",leaderPosition:0,leaderVotes:1,originTag:\"REWARD_SERAPHINE:HOPE_OF_THE_RESISTANCE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/staff_of_the_rising_sun\",display:{Lore:[0:\"§6Ability: Ray of Hope §e§lRIGHT CLICK\",1:\"§7Channels your energy towards the target\",2:\"§7location, exploding on impact for §c525.3 §7damage.\",3:\"§7Costs §b10% §7of your total mana to use. This is\",4:\"§7the only item that can deal damage to Dante.\",5:\"\",6:\"§5§lEPIC WAND\"],Name:\"§5Staff of the Rising Sun\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{id:\"HOPE_OF_THE_RESISTANCE\",leaderPosition:0,leaderVotes:0,originTag:\"REWARD_SERAPHINE:HOPE_OF_THE_RESISTANCE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/staff_of_the_rising_sun\",display:{Lore:[0:\"§6Ability: Ray of Hope §e§lRIGHT CLICK\",1:\"§7Channels your energy towards the target\",2:\"§7location, exploding on impact for §c500 §7damage.\",3:\"§7Costs §b10% §7of your total mana to use. This is\",4:\"§7the only item that can deal damage to Dante.\",5:\"\",6:\"§5§lEPIC WAND\"],Name:\"§5Staff of the Rising Sun\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§6Ability: Ray of Hope §e§lRIGHT CLICK",
       "§7Channels your energy towards the target",
-      "§7location, exploding on impact for §c525.3 §7damage.",
+      "§7location, exploding on impact for §c500 §7damage.",
       "§7Costs §b10% §7of your total mana to use. This is",
       "§7the only item that can deal damage to Dante.",
       "",
@@ -121915,7 +121817,7 @@
     "internalname": "HOPE_OF_THE_RESISTANCE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+geda181a9",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Staff_of_the_Rising_Sun"
@@ -146817,114 +146719,128 @@
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:25"
+          "SKYBLOCK_COIN:5.0"
         ],
-        "result": "LOG"
+        "result": "LOG:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:25"
+          "SKYBLOCK_COIN:5.0"
         ],
-        "result": "LOG-2"
+        "result": "LOG-2:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:25"
+          "SKYBLOCK_COIN:5.0"
         ],
-        "result": "LOG-1"
+        "result": "LOG-1:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:25"
+          "SKYBLOCK_COIN:5.0"
         ],
-        "result": "LOG_2-1"
+        "result": "LOG_2-1:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:25"
+          "SKYBLOCK_COIN:5.0"
         ],
-        "result": "LOG_2"
+        "result": "LOG_2:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:25"
+          "SKYBLOCK_COIN:5.0"
         ],
-        "result": "LOG-3"
+        "result": "LOG-3:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:12"
+          "SKYBLOCK_COIN:20.0"
         ],
-        "result": "ROOKIE_AXE"
+        "result": "STICK:32"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:35"
+          "SKYBLOCK_COIN:12.0"
         ],
-        "result": "PROMISING_AXE"
+        "result": "ROOKIE_AXE:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:25"
+          "SKYBLOCK_COIN:35.0"
         ],
-        "result": "DIRT-2"
+        "result": "PROMISING_AXE:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:100"
+          "SKYBLOCK_COIN:10.0"
         ],
-        "result": "SWEET_AXE"
+        "result": "DIRT-2:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:100"
+          "SKYBLOCK_COIN:100.0"
         ],
-        "result": "EFFICIENT_AXE"
+        "result": "SWEET_AXE:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:5"
+          "SKYBLOCK_COIN:100.0"
         ],
-        "result": "WOOD_SWORD"
+        "result": "EFFICIENT_AXE:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:5"
+          "SKYBLOCK_COIN:5.0"
         ],
-        "result": "WOOD_PICKAXE"
+        "result": "WOOD_SWORD:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:5"
+          "SKYBLOCK_COIN:5.0"
         ],
-        "result": "WOOD_SPADE"
+        "result": "WOOD_PICKAXE:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:5"
+          "SKYBLOCK_COIN:5.0"
         ],
-        "result": "WOOD_HOE"
+        "result": "WOOD_SPADE:1"
       },
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COIN:5"
+          "SKYBLOCK_COIN:5.0"
         ],
-        "result": "WOOD_AXE"
+        "result": "WOOD_HOE:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_COIN:5.0"
+        ],
+        "result": "WOOD_AXE:1"
+      },
+      {
+        "type": "npc_shop",
+        "cost": [
+          "SKYBLOCK_COIN:250.0"
+        ],
+        "result": "BEGINNER_FORAGING_SACK:1"
       }
     ]
   },
@@ -173429,8 +173345,8 @@
   },
   "PANDORAS_BOX": {
     "itemid": "minecraft:skull",
-    "displayname": "§6Pandora's Box",
-    "nbttag": "{ExtraAttributes:{id:\"PANDORAS_BOX\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2e6022a0-b8e1-3ef3-bac0-e8d6c2c94cef\",Properties:{textures:[0:{Name:\"textures\",Signature:\"VUWjHb3Y1XsHoa6OscIhfqzqJdrks1cNlLd9aIJBGr0Ctwxiu3UIhyGujwrDcA1QtNuR3q5CATuj80wdSKeFZ0uxxbYrzcgdTMn2qvXzW5/P10RLBOIWs9Qn9pwZsfDtUwS+W8Kz1IbGKaTfL77qynAINCq18n8YYFdkIOmjTd11eC4PWqa2qCvbR4qhhX0dB3D1l6TgWxNqMniKh3xtCnwI05FbA8ue+or846JxG9KdtwRScY0O0euBfcX99hK6n8DHpguACoeZHrqCJxlN1TubANGyh0u/yhDyCftSDg4IK2xENpPIEL0OcZMalPNQVmARn5c0W3IgqvGkAtl/dfeNf2jZXqDDrV7uzLpfK3WMC4B/np1as+lD3eW4W9UCjVw8OYQUdb8KnnjWVb1u5MUqMoLRTqYUjlMJQES5hAHoKts3A6po9W0+Vns1JgoHTNBN0FYj6GYw3UiYsBO+xo3FVKGAghG0X8PfoML27doCfLJ5ido2rdr1soNpC6+EW9C2HOhDkyvoChLYPixg/kojuHF644/AH+JhhOZwjoOV5q85rHRHkVATZOIigCyJal7OSs4g0XUdsYEEc4ig0sNAyno+neBd7ydbHAqiGnJ2JKp4VPj4bnGtsXch3lZI+PGOCnNGZNKvHLYgrtWj58yTHskQn/uqOKzZs76of88=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1ODg3MTI2MTcwNiwKICAicHJvZmlsZUlkIiA6ICJiMjdjMjlkZWZiNWU0OTEyYjFlYmQ5NDVkMmI2NzE0YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIRUtUMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZTI0NjkyNWNiZDRjMDUyNzliOWM4ZGNmN2MyZmRmYzliYWY5YjE0MjRhYTM1ZTUwMTUzM2ViYjk4ZTAwNTIyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7Every §a2 §7challenges you complete\",3:\"§7adds §c+1 Health §7and §c+1 Strength§7.\",4:\"\",5:\"§bComplete 20 challenges for the next\",6:\"§brarity upgrade!\",7:\"\",8:\"§7Completed Challenges: §a0§8/20\",9:\"\",10:\"§eRight-click to open Pandora's Box!\",11:\"\",12:\"§8Works while in Accessory Bag!\",13:\"§f§lCOMMON ACCESSORY\"],Name:\"§6Pandora's Box\"}}",
+    "displayname": "§fPandora's Box",
+    "nbttag": "{ExtraAttributes:{id:\"PANDORAS_BOX\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"2e6022a0-b8e1-3ef3-bac0-e8d6c2c94cef\",Properties:{textures:[0:{Name:\"textures\",Signature:\"VUWjHb3Y1XsHoa6OscIhfqzqJdrks1cNlLd9aIJBGr0Ctwxiu3UIhyGujwrDcA1QtNuR3q5CATuj80wdSKeFZ0uxxbYrzcgdTMn2qvXzW5/P10RLBOIWs9Qn9pwZsfDtUwS+W8Kz1IbGKaTfL77qynAINCq18n8YYFdkIOmjTd11eC4PWqa2qCvbR4qhhX0dB3D1l6TgWxNqMniKh3xtCnwI05FbA8ue+or846JxG9KdtwRScY0O0euBfcX99hK6n8DHpguACoeZHrqCJxlN1TubANGyh0u/yhDyCftSDg4IK2xENpPIEL0OcZMalPNQVmARn5c0W3IgqvGkAtl/dfeNf2jZXqDDrV7uzLpfK3WMC4B/np1as+lD3eW4W9UCjVw8OYQUdb8KnnjWVb1u5MUqMoLRTqYUjlMJQES5hAHoKts3A6po9W0+Vns1JgoHTNBN0FYj6GYw3UiYsBO+xo3FVKGAghG0X8PfoML27doCfLJ5ido2rdr1soNpC6+EW9C2HOhDkyvoChLYPixg/kojuHF644/AH+JhhOZwjoOV5q85rHRHkVATZOIigCyJal7OSs4g0XUdsYEEc4ig0sNAyno+neBd7ydbHAqiGnJ2JKp4VPj4bnGtsXch3lZI+PGOCnNGZNKvHLYgrtWj58yTHskQn/uqOKzZs76of88=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1ODg3MTI2MTcwNiwKICAicHJvZmlsZUlkIiA6ICJiMjdjMjlkZWZiNWU0OTEyYjFlYmQ5NDVkMmI2NzE0YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIRUtUMCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZTI0NjkyNWNiZDRjMDUyNzliOWM4ZGNmN2MyZmRmYzliYWY5YjE0MjRhYTM1ZTUwMTUzM2ViYjk4ZTAwNTIyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7Every §a2 §7challenges you complete\",3:\"§7adds §c+1 Health §7and §c+1 Strength§7.\",4:\"\",5:\"§bComplete 3 challenges for the next\",6:\"§brarity upgrade!\",7:\"\",8:\"§7Completed Challenges: §a0§8/20\",9:\"\",10:\"§eRight-click to open Pandora's Box!\",11:\"\",12:\"§8Works while in Accessory Bag!\",13:\"§f§lCOMMON ACCESSORY\"],Name:\"§fPandora's Box\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+3",
@@ -173438,7 +173354,7 @@
       "§7Every §a2 §7challenges you complete",
       "§7adds §c+1 Health §7and §c+1 Strength§7.",
       "",
-      "§bComplete 20 challenges for the next",
+      "§bComplete 3 challenges for the next",
       "§brarity upgrade!",
       "",
       "§7Completed Challenges: §a0§8/20",
@@ -173451,7 +173367,7 @@
     "internalname": "PANDORAS_BOX",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Pandora%27s_Box"
@@ -220310,22 +220226,6 @@
       "https://hypixelskyblock.minecraft.wiki/w/Rookie_Pickaxe"
     ]
   },
-  "RORNORA_NPC": {
-    "itemid": "minecraft:skull",
-    "displayname": "§9Rornora (NPC)",
-    "nbttag": "{SkullOwner:{Id:\"6d128904-0782-2cb0-ab3a-459c3f13a9e2\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZmNTFmNDZkZDMxYWZkYzRlMzFjMjFiOWJhMjA2NmU1M2E2NjFhYThkYjNkMGQzNjVkMGYxOWFlMDY2N2Y3ZGIifX19\"}]},Name:\"6d128904-0782-2cb0-ab3a-459c3f13a9e2\"},display:{Lore:[0:\"\"],Name:\"§9Rornora (NPC)\"},ExtraAttributes:{id:\"RORNORA_NPC\"}}",
-    "damage": 3,
-    "lore": [
-      ""
-    ],
-    "internalname": "RORNORA_NPC",
-    "clickcommand": "",
-    "modver": "2.1.1-PRE",
-    "x": 136,
-    "y": 197,
-    "z": 167,
-    "island": "mining_3"
-  },
   "ROSEMARY_NPC": {
     "itemid": "minecraft:skull",
     "displayname": "§9Rosemary (NPC)",
@@ -237122,13 +237022,6 @@
       {
         "type": "npc_shop",
         "cost": [
-          "SKYBLOCK_COPPER:10"
-        ],
-        "result": "SUNDER;1:1"
-      },
-      {
-        "type": "npc_shop",
-        "cost": [
           "SKYBLOCK_COPPER:250"
         ],
         "result": "DEDICATION;1:1"
@@ -247504,12 +247397,14 @@
   "SPIKED_ATROCITY": {
     "itemid": "minecraft:skull",
     "displayname": "§5Spiked Atrocity",
-    "nbttag": "{ExtraAttributes:{id:\"SPIKED_ATROCITY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"85b4db18-0695-3ae8-b89f-857a72eb0625\",Properties:{textures:[0:{Name:\"textures\",Signature:\"HhKHlgT4dg4CRYnJvxal1pFBRCOLYSqAXFcmooje1HRSIV2vkFVlymbbOuQtAAzRjnCAkvCu8tCVp0WH0KTcyCIPzEYhojq2RJlwGM3V10f31/HvCngv2MIKPap2IQ36Go/ji+02UAbou2AfM+VVqL87dRE0NBYY/Q+xs7WLsxFHShvf7PJxj7nrJp5m3rP4IuKtHRC4L9aOUu5oUjkFAH2dlPWaiinwh2tk6hUUNRPPMBlrDuOz6dXxqbMj5DZMmlwrf27Wc/78ZUSo7sXH3SnURtYzL3r8xm6sALHnTUMQIWlBfB8wRXi6820iTcJe3c5QtGn/8/m1+nba5YaOi6baBeBFwqBqNV1F4nrJz95vDWiKP+NxYXP42B+qXuE+UHoIa6GZuB+hz9PRfV5gGI8gThbRfTwfb7V0yUsLZ9KW+yr6+DfTAtrhYcvCuSEXj7Ktki+0vw7vG58A5AACgoPUnw291Wk0IAjs9/WkcawMPS7frK8XVdpK5aqWcJtb3ZiB75GjW5rA0RyDbLkP9wds0GkKaKU5kLgm8nqJ5T82GOp0ES4Bcsurq+jUrh1QcOwlLA2Q1O5RnsyGCItMabSXyi5FWAOPygkq8S2uTftEGWxLLiUl1DHuiIZml4Rd9saAdsqPWYufM8bbSdoXg6CjKDhhqW0UTV9hZMKvmoo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxODU4MTg2NDg5MSwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmNGVlY2E4MjVkZGRiN2Y4NjEzNTJlY2IwYmUyZGY0NjE1NzI4YjYzODk0YjdjNTQ0MThhZjAxMDVhMzkxNzIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§a10%§7 chance not to consume bait.\",3:\"\",4:\"§8Works while in Accessory Bag!\",5:\"§5§lEPIC ACCESSORY\"],Name:\"§5Spiked Atrocity\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPIKED_ATROCITY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"85b4db18-0695-3ae8-b89f-857a72eb0625\",Properties:{textures:[0:{Name:\"textures\",Signature:\"HhKHlgT4dg4CRYnJvxal1pFBRCOLYSqAXFcmooje1HRSIV2vkFVlymbbOuQtAAzRjnCAkvCu8tCVp0WH0KTcyCIPzEYhojq2RJlwGM3V10f31/HvCngv2MIKPap2IQ36Go/ji+02UAbou2AfM+VVqL87dRE0NBYY/Q+xs7WLsxFHShvf7PJxj7nrJp5m3rP4IuKtHRC4L9aOUu5oUjkFAH2dlPWaiinwh2tk6hUUNRPPMBlrDuOz6dXxqbMj5DZMmlwrf27Wc/78ZUSo7sXH3SnURtYzL3r8xm6sALHnTUMQIWlBfB8wRXi6820iTcJe3c5QtGn/8/m1+nba5YaOi6baBeBFwqBqNV1F4nrJz95vDWiKP+NxYXP42B+qXuE+UHoIa6GZuB+hz9PRfV5gGI8gThbRfTwfb7V0yUsLZ9KW+yr6+DfTAtrhYcvCuSEXj7Ktki+0vw7vG58A5AACgoPUnw291Wk0IAjs9/WkcawMPS7frK8XVdpK5aqWcJtb3ZiB75GjW5rA0RyDbLkP9wds0GkKaKU5kLgm8nqJ5T82GOp0ES4Bcsurq+jUrh1QcOwlLA2Q1O5RnsyGCItMabSXyi5FWAOPygkq8S2uTftEGWxLLiUl1DHuiIZml4Rd9saAdsqPWYufM8bbSdoXg6CjKDhhqW0UTV9hZMKvmoo=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYxODU4MTg2NDg5MSwKICAicHJvZmlsZUlkIiA6ICI5ZDEzZjcyMTcxM2E0N2U0OTAwZTMyZGVkNjBjNDY3MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWxvZGFvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmNGVlY2E4MjVkZGRiN2Y4NjEzNTJlY2IwYmUyZGY0NjE1NzI4YjYzODk0YjdjNTQ0MThhZjAxMDVhMzkxNzIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Grants a §a+10% §7chance to not\",3:\"§7consume §6Bait §7when fishing something\",4:\"§7up.\",5:\"\",6:\"§8Works while in Accessory Bag!\",7:\"§5§lEPIC ACCESSORY\"],Name:\"§5Spiked Atrocity\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+12",
       "",
-      "§a10%§7 chance not to consume bait.",
+      "§7Grants a §a+10% §7chance to not",
+      "§7consume §6Bait §7when fishing something",
+      "§7up.",
       "",
       "§8Works while in Accessory Bag!",
       "§5§lEPIC ACCESSORY"
@@ -247517,7 +247412,7 @@
     "internalname": "SPIKED_ATROCITY",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spiked_Atrocity"
@@ -257522,198 +257417,6 @@
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Summoning_Ring"
-    ]
-  },
-  "SUNDER;1": {
-    "itemid": "minecraft:enchanted_book",
-    "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{sunder:1},id:\"SUNDER;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Sunder I\",3:\"§7Grants §a+12.5 §6☘ Farming\",4:\"§6Fortune§7, which increases your\",5:\"§7chance for multiple crops.\",6:\"\",7:\"§7Can be applied to Axes.\",8:\"\",9:\"§6Source:\",10:\"§aI-V: §7SkyMart\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fAxe\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
-    "damage": 0,
-    "lore": [
-      "§8Combinable in Anvil",
-      "",
-      "§9Sunder I",
-      "§7Grants §a+12.5 §6☘ Farming",
-      "§6Fortune§7, which increases your",
-      "§7chance for multiple crops.",
-      "",
-      "§7Can be applied to Axes.",
-      "",
-      "§6Source:",
-      "§aI-V: §7SkyMart",
-      "",
-      "§6Applied To:",
-      "§7- §fAxe",
-      "",
-      "§f§lCOMMON"
-    ],
-    "internalname": "SUNDER;1",
-    "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Sunder"
-    ]
-  },
-  "SUNDER;2": {
-    "itemid": "minecraft:enchanted_book",
-    "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{sunder:2},id:\"SUNDER;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Sunder II\",3:\"§7Grants §a+25 §6☘ Farming\",4:\"§6Fortune§7, which increases your\",5:\"§7chance for multiple crops.\",6:\"\",7:\"§7Can be applied to Axes.\",8:\"\",9:\"§6Source:\",10:\"§aI-V: §7SkyMart\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fAxe\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
-    "damage": 0,
-    "lore": [
-      "§8Combinable in Anvil",
-      "",
-      "§9Sunder II",
-      "§7Grants §a+25 §6☘ Farming",
-      "§6Fortune§7, which increases your",
-      "§7chance for multiple crops.",
-      "",
-      "§7Can be applied to Axes.",
-      "",
-      "§6Source:",
-      "§aI-V: §7SkyMart",
-      "",
-      "§6Applied To:",
-      "§7- §fAxe",
-      "",
-      "§f§lCOMMON"
-    ],
-    "internalname": "SUNDER;2",
-    "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Sunder"
-    ]
-  },
-  "SUNDER;3": {
-    "itemid": "minecraft:enchanted_book",
-    "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{sunder:3},id:\"SUNDER;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Sunder III\",3:\"§7Grants §a+37.5 §6☘ Farming\",4:\"§6Fortune§7, which increases your\",5:\"§7chance for multiple crops.\",6:\"\",7:\"§7Can be applied to Axes.\",8:\"\",9:\"§6Source:\",10:\"§aI-V: §7SkyMart\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fAxe\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
-    "damage": 0,
-    "lore": [
-      "§8Combinable in Anvil",
-      "",
-      "§9Sunder III",
-      "§7Grants §a+37.5 §6☘ Farming",
-      "§6Fortune§7, which increases your",
-      "§7chance for multiple crops.",
-      "",
-      "§7Can be applied to Axes.",
-      "",
-      "§6Source:",
-      "§aI-V: §7SkyMart",
-      "",
-      "§6Applied To:",
-      "§7- §fAxe",
-      "",
-      "§f§lCOMMON"
-    ],
-    "internalname": "SUNDER;3",
-    "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Sunder"
-    ]
-  },
-  "SUNDER;4": {
-    "itemid": "minecraft:enchanted_book",
-    "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{sunder:4},id:\"SUNDER;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Sunder IV\",3:\"§7Grants §a+50 §6☘ Farming\",4:\"§6Fortune§7, which increases your\",5:\"§7chance for multiple crops.\",6:\"\",7:\"§7Can be applied to Axes.\",8:\"\",9:\"§6Source:\",10:\"§aI-V: §7SkyMart\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fAxe\",14:\"\",15:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
-    "damage": 0,
-    "lore": [
-      "§8Combinable in Anvil",
-      "",
-      "§9Sunder IV",
-      "§7Grants §a+50 §6☘ Farming",
-      "§6Fortune§7, which increases your",
-      "§7chance for multiple crops.",
-      "",
-      "§7Can be applied to Axes.",
-      "",
-      "§6Source:",
-      "§aI-V: §7SkyMart",
-      "",
-      "§6Applied To:",
-      "§7- §fAxe",
-      "",
-      "§f§lCOMMON"
-    ],
-    "internalname": "SUNDER;4",
-    "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Sunder"
-    ]
-  },
-  "SUNDER;5": {
-    "itemid": "minecraft:enchanted_book",
-    "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{sunder:5},id:\"SUNDER;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Sunder V\",3:\"§7Grants §a+62.5 §6☘ Farming\",4:\"§6Fortune§7, which increases your\",5:\"§7chance for multiple crops.\",6:\"\",7:\"§7Can be applied to Axes.\",8:\"\",9:\"§6Source:\",10:\"§aI-V: §7SkyMart\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fAxe\",14:\"\",15:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
-    "damage": 0,
-    "lore": [
-      "§8Combinable in Anvil",
-      "",
-      "§9Sunder V",
-      "§7Grants §a+62.5 §6☘ Farming",
-      "§6Fortune§7, which increases your",
-      "§7chance for multiple crops.",
-      "",
-      "§7Can be applied to Axes.",
-      "",
-      "§6Source:",
-      "§aI-V: §7SkyMart",
-      "",
-      "§6Applied To:",
-      "§7- §fAxe",
-      "",
-      "§a§lUNCOMMON"
-    ],
-    "internalname": "SUNDER;5",
-    "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Sunder"
-    ]
-  },
-  "SUNDER;6": {
-    "itemid": "minecraft:enchanted_book",
-    "displayname": "§9Enchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{sunder:6},id:\"SUNDER;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Sunder VI\",3:\"§7Grants §a+75 §6☘ Farming\",4:\"§6Fortune§7, which increases your\",5:\"§7chance for multiple crops.\",6:\"\",7:\"§7Can be applied to Axes.\",8:\"\",9:\"§6Source:\",10:\"§aVI: §6Locust Pests\",11:\"\",12:\"§6Applied To:\",13:\"§7- §fAxe\",14:\"\",15:\"§9§lRARE\"],Name:\"§9Enchanted Book\"},ench:[]}",
-    "damage": 0,
-    "lore": [
-      "§8Combinable in Anvil",
-      "",
-      "§9Sunder VI",
-      "§7Grants §a+75 §6☘ Farming",
-      "§6Fortune§7, which increases your",
-      "§7chance for multiple crops.",
-      "",
-      "§7Can be applied to Axes.",
-      "",
-      "§6Source:",
-      "§aVI: §6Locust Pests",
-      "",
-      "§6Applied To:",
-      "§7- §fAxe",
-      "",
-      "§9§lRARE"
-    ],
-    "internalname": "SUNDER;6",
-    "clickcommand": "",
-    "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
-    "infoType": "WIKI_URL",
-    "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Sunder"
     ]
   },
   "SUNDIAL": {
@@ -270225,6 +269928,25 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tormentor"
     ]
+  },
+  "TORNORA_NPC": {
+    "itemid": "minecraft:skull",
+    "displayname": "§9Tornora (NPC)",
+    "nbttag": "{ExtraAttributes:{id:\"TORNORA_NPC\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"feb4f26d-8966-29fe-9bb6-ea1b57671a6c\",Properties:{textures:[0:{Name:\"textures\",Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY1MWY0NmRkMzFhZmRjNGUzMWMyMWI5YmEyMDY2ZTUzYTY2MWFhOGRiM2QwZDM2NWQwZjE5YWUwNjY3ZjdkYiIsIm1ldGFkYXRhIjp7fX19LCJwcm9maWxlSWQiOiJmZWI0ZjI2ZDg5NjYyOWZlOWJiNmVhMWI1NzY3MWE2YyIsInByb2ZpbGVOYW1lIjoibmVhODkiLCJpc1B1YmxpYyI6dHJ1ZSwidGltZXN0YW1wIjoxNzk1MDQ0ODk2NjE5fQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"\"],Name:\"§9Tornora (NPC)\"}}",
+    "damage": 3,
+    "lore": [
+      ""
+    ],
+    "internalname": "TORNORA_NPC",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
+    "infoType": "",
+    "info": [],
+    "island": "mining_3",
+    "x": 136,
+    "y": 196,
+    "z": 167
   },
   "TORN_CLOTH": {
     "itemid": "minecraft:paper",
