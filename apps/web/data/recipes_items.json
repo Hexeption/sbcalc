@@ -1410,7 +1410,7 @@
     "modver": "Firmament 42.0.0+mc1.21.10",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/All-In_Aloe"
+      "https://hypixelskyblock.minecraft.wiki/w/All-in_Aloe"
     ],
     "recipes": [
       {
@@ -4504,7 +4504,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Beacon"
+      "https://hypixelskyblock.minecraft.wiki/w/Beacon_II"
     ],
     "recipes": [
       {
@@ -4546,7 +4546,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Beacon"
+      "https://hypixelskyblock.minecraft.wiki/w/Beacon_III"
     ],
     "recipes": [
       {
@@ -4588,7 +4588,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Beacon"
+      "https://hypixelskyblock.minecraft.wiki/w/Beacon_IV"
     ],
     "recipes": [
       {
@@ -7013,7 +7013,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Blizzard_in_a_Bottle"
+      "https://hypixelskyblock.minecraft.wiki/w/Blizzard_in_a_Bottle_Mixin"
     ],
     "recipes": [
       {
@@ -20463,7 +20463,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Dull_Shark_Tooth_Necklace"
+      "https://hypixelskyblock.minecraft.wiki/w/Shark_Tooth_Ring"
     ],
     "recipe": {
       "A1": "",
@@ -29109,8 +29109,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Feast_Burger_with_a_Side_of_Deepfries"
+    ],
     "recipes": [
       {
         "A1": "ENCHANTED_HAY_BALE:6",
@@ -33644,8 +33646,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/\"Fragranced\"_Brown_Mushroom_\"Paste\""
+    ],
     "recipes": [
       {
         "A1": "",
@@ -34784,7 +34788,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Ruby_Drill_Model_TX-15"
+      "https://hypixelskyblock.minecraft.wiki/w/Ruby_Drill_TX-15"
     ],
     "recipes": [
       {
@@ -34845,7 +34849,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Gemstone_Drill_Model_LT-522"
+      "https://hypixelskyblock.minecraft.wiki/w/Gemstone_Drill_LT-522"
     ],
     "recipes": [
       {
@@ -41965,7 +41969,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Honed_Shark_Tooth_Necklace"
+      "https://hypixelskyblock.minecraft.wiki/w/Shark_Tooth_Artifact"
     ],
     "recipe": {
       "A1": "",
@@ -55952,7 +55956,9 @@
     "crafttext": "",
     "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
     "infoType": "WIKI_URL",
-    "info": [],
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/doR_gnihsiF"
+    ],
     "recipe": {
       "A1": "MIRRORED_STICK:1",
       "A2": "",
@@ -59321,7 +59327,9 @@
     "crafttext": "Requires: Half-Eaten Carrot IV",
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
-    "info": [],
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Nearly_Coherent_doR_gnihsiF"
+    ],
     "recipe": {
       "A1": "MIRRORED_STICK:1",
       "A2": "",
@@ -59393,7 +59401,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Necron%27s_Blade"
+      "https://hypixelskyblock.minecraft.wiki/w/Necron%27s_Blade_(Unrefined)"
     ],
     "recipe": {
       "A1": "",
@@ -60218,8 +60226,10 @@
     "clickcommand": "",
     "crafttext": "Requires: Living Metal Heart III",
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
-    "infoType": "",
-    "info": [],
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Nothing-in-a-Bottle"
+    ],
     "recipes": [
       {
         "A1": "LIVING_METAL:1",
@@ -62419,7 +62429,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XI"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62453,7 +62463,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62487,7 +62497,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_II"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62521,7 +62531,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_III"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62555,7 +62565,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IV"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62623,7 +62633,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VI"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62657,7 +62667,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62691,7 +62701,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VIII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62725,7 +62735,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IX"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62827,7 +62837,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XI"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62861,7 +62871,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62895,7 +62905,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_II"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62929,7 +62939,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_III"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -62963,7 +62973,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IV"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63031,7 +63041,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VI"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63065,7 +63075,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63099,7 +63109,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VIII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63133,7 +63143,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IX"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63313,7 +63323,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XI"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63347,7 +63357,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63381,7 +63391,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_II"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63415,7 +63425,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_III"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63449,7 +63459,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IV"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63517,7 +63527,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VI"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63551,7 +63561,7 @@
     "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63585,7 +63595,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VIII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63619,7 +63629,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IX"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63795,7 +63805,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XI"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63829,7 +63839,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_XII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63863,7 +63873,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_II"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63897,7 +63907,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_III"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63931,7 +63941,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IV"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -63999,7 +64009,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VI"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -64033,7 +64043,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -64067,7 +64077,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_VIII"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -64101,7 +64111,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor#Tier_IX"
+      "https://hypixelskyblock.minecraft.wiki/w/Perfect_Armor"
     ],
     "recipe": {
       "A1": "",
@@ -65895,7 +65905,7 @@
     "modver": "Firmament 44.1.0-dev+mc1.21.11+g93cba9c6",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Pocket-Sized_Igloo"
+      "https://hypixelskyblock.minecraft.wiki/w/Pocket-sized_Igloo"
     ],
     "recipes": [
       {
@@ -70768,7 +70778,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Raggedy_Shark_Tooth_Necklace"
+      "https://hypixelskyblock.minecraft.wiki/w/Shark_Tooth_Talisman"
     ],
     "recipe": {
       "A1": "SHARK_FIN:1",
@@ -90714,7 +90724,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Turing_Sugar_Cane_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Turing_Sugar_Cane_Cutter"
     ],
     "recipes": [
       {
@@ -90755,7 +90765,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Turing_Sugar_Cane_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Turing_Sugar_Cane_Cutter"
     ],
     "recipes": [
       {
@@ -90798,7 +90808,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Gauss_Carrot_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Gauss_Carrot_Shovel"
     ],
     "recipes": [
       {
@@ -90839,7 +90849,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Gauss_Carrot_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Gauss_Carrot_Shovel"
     ],
     "recipes": [
       {
@@ -90882,7 +90892,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Pythagorean_Potato_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Pythagorean_Potato_Shovel"
     ],
     "recipes": [
       {
@@ -90923,7 +90933,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Pythagorean_Potato_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Pythagorean_Potato_Shovel"
     ],
     "recipes": [
       {
@@ -90966,7 +90976,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Eclipse_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Eclipse_Sickle"
     ],
     "recipes": [
       {
@@ -91007,7 +91017,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Eclipse_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Eclipse_Sickle"
     ],
     "recipes": [
       {
@@ -91050,7 +91060,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Newton_Nether_Warts_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Newton_Nether_Wart_Cutter"
     ],
     "recipes": [
       {
@@ -91091,7 +91101,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Newton_Nether_Warts_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Newton_Nether_Wart_Cutter"
     ],
     "recipes": [
       {
@@ -91133,7 +91143,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Euclid%27s_Wheat_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Euclid%27s_Wheat_Sickle"
     ],
     "recipes": [
       {
@@ -91173,7 +91183,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Euclid%27s_Wheat_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Euclid%27s_Wheat_Sickle"
     ],
     "recipes": [
       {
@@ -91216,7 +91226,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Wild_Rose_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Wild_Rose_Cutter"
     ],
     "recipes": [
       {
@@ -91257,7 +91267,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Wild_Rose_Hoe"
+      "https://hypixelskyblock.minecraft.wiki/w/Wild_Rose_Cutter"
     ],
     "recipes": [
       {
@@ -91887,7 +91897,9 @@
     "crafttext": "",
     "modver": "Firmament 3.2.0-dev+mc1.21.5+g0b9d5bd",
     "infoType": "WIKI_URL",
-    "info": [],
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/remmaH_yniT"
+    ],
     "recipe": {
       "A1": "MIRRORED_LEASH:1",
       "A2": "MIRRORED_BOW:1",
@@ -93555,7 +93567,7 @@
     "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/2_IQ_Points"
+      "https://hypixelskyblock.minecraft.wiki/w/Two_IQ_Points"
     ],
     "recipe": {
       "A1": "IQ_POINT:1",
@@ -99234,7 +99246,7 @@
     "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
     "infoType": "WIKI_URL",
     "info": [
-      "https://hypixelskyblock.minecraft.wiki/w/Minion_Chests"
+      "https://hypixelskyblock.minecraft.wiki/w/XX-Large_Storage"
     ],
     "recipe": {
       "A1": "",
