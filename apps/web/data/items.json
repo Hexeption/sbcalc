@@ -33365,7 +33365,7 @@
   "BOOK_OF_PROGRESSION": {
     "itemid": "minecraft:book",
     "displayname": "§fBook of Progression",
-    "nbttag": "{ExtraAttributes:{id:\"BOOK_OF_PROGRESSION\"},HideFlags:254,ItemModel:\"minecraft:book\",display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7This book, imbued with great power,\",3:\"§7upgrades as you do.\",4:\"\",5:\"§8§oA wise novel once thought to be the\",6:\"§8§ocure to all problems.\",7:\"\",8:\"§eClick to select modifiers!\",9:\"\",10:\"§8§l* §8Soulbound §8§l*\",11:\"§8Works while in Accessory Bag!\",12:\"§f§lCOMMON ACCESSORY\"],Name:\"§fBook of Progression\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"BOOK_OF_PROGRESSION\"},HideFlags:254,ItemModel:\"minecraft:book\",display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7This book, imbued with great power,\",3:\"§7upgrades as you do.\",4:\"\",5:\"§bGet to SkyBlock Level 100 for the\",6:\"§bnext rarity upgrade!\",7:\"\",8:\"§8§l* §8Soulbound §8§l*\",9:\"§8Works while in Accessory Bag!\",10:\"§f§lCOMMON ACCESSORY\"],Name:\"§fBook of Progression\"}}",
     "damage": 0,
     "lore": [
       "§7Accessory Power: §6+3",
@@ -33373,10 +33373,8 @@
       "§7This book, imbued with great power,",
       "§7upgrades as you do.",
       "",
-      "§8§oA wise novel once thought to be the",
-      "§8§ocure to all problems.",
-      "",
-      "§eClick to select modifiers!",
+      "§bGet to SkyBlock Level 100 for the",
+      "§bnext rarity upgrade!",
       "",
       "§8§l* §8Soulbound §8§l*",
       "§8Works while in Accessory Bag!",
@@ -33385,7 +33383,7 @@
     "internalname": "BOOK_OF_PROGRESSION",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Book_of_Progression"
@@ -50557,7 +50555,7 @@
     "internalname": "COMBO_MANIA_TALISMAN",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.1.0-dev+mc1.21.11+g3b06339",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Combo_Mania"
@@ -59109,7 +59107,7 @@
     "internalname": "DEFECTIVE_MONITOR",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Defective_Monitor"
@@ -63880,7 +63878,7 @@
   "DRAGON_HORN": {
     "itemid": "minecraft:paper",
     "displayname": "§5Dragon Horn",
-    "nbttag": "{ExtraAttributes:{id:\"DRAGON_HORN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/dragon_horn\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Renowned §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §c Health\",9:\" §a Defense\",10:\" §c Strength\",11:\" §9 Crit Chance\",12:\" §9 Crit Damage\",13:\" §e Attack Speed\",14:\" §b Intelligence\",15:\" §f Speed\",16:\"\",17:\"§9Renowned Bonus\",18:\"§7Grants §b+1%  Magic Find §7and §c+1% §7to\",19:\"§7ALL §cCombat Stats§7.\",20:\"\",21:\"§eRight-click to view rarity scaling!\",22:\"\",23:\"§4❣ §cRequires §aMining Skill 25§c.\",24:\"\",25:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Dragon Horn\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"DRAGON_HORN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/dragon_horn\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Renowned §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §c Health\",9:\" §a Defense\",10:\" §c Strength\",11:\" §9 Crit Chance\",12:\" §9 Crit Damage\",13:\" §e Attack Speed\",14:\" §b Intelligence\",15:\" §f Speed\",16:\"\",17:\"§9Renowned Bonus\",18:\"§7Increases all §cCombat §7Stats by §a+1%§7.\",19:\"\",20:\"§eRight-click to view rarity scaling!\",21:\"\",22:\"§4❣ §cRequires §aMining Skill 24§c.\",23:\"\",24:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Dragon Horn\"}}",
     "damage": 0,
     "lore": [
       "§8Reforge Stone",
@@ -63901,19 +63899,18 @@
       " §f Speed",
       "",
       "§9Renowned Bonus",
-      "§7Grants §b+1%  Magic Find §7and §c+1% §7to",
-      "§7ALL §cCombat Stats§7.",
+      "§7Increases all §cCombat §7Stats by §a+1%§7.",
       "",
       "§eRight-click to view rarity scaling!",
       "",
-      "§4❣ §cRequires §aMining Skill 25§c.",
+      "§4❣ §cRequires §aMining Skill 24§c.",
       "",
       "§5§lEPIC REFORGE STONE"
     ],
     "internalname": "DRAGON_HORN",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dragon_Horn"
@@ -100273,15 +100270,17 @@
   "GANACHE_CHOCOLATE_SLAB": {
     "itemid": "minecraft:skull",
     "displayname": "§5Ganache Chocolate Slab",
-    "nbttag": "{ExtraAttributes:{id:\"GANACHE_CHOCOLATE_SLAB\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"856bd738-0da5-3bd8-95bc-1a1dc4fc0f76\",Properties:{textures:[0:{Name:\"textures\",Signature:\"dRG2tpo+7S1TQmH1OJLetoPPyavA0fQz6NTHU2xYWyWm/vIKrsaG4SFd2pPIcZnqYbrIgQ2hbXKXST4P4FCqRlCFda0k226WdGcQgK4JIZtWAavdCpdz2VqrDQJINh8j/+VHsW8vzoy5i9+ldsDAgzVNAzeNOLnvbls3d3p1EsB2NDYstubRToRpoYV18WFKAw/0gI19HwsAny3dZryvT0697XqvRBSKweJEvImBjeghFjsGqF3zQDpAXOKXr63IWdw9tIuoMlpiR7gcwGRjQZx28vUnuTHF/YuOqt7oGfTca5+IKmEcUO0ud/9naFauOpen2N0c0q58OzBzPcZDTFKfyJv37v+jPDsFC7Pu8lxv3PTTCkgK8Tlo5IIWBq9qON7qMFDzKMJPmAFp+HtsD0J0WBHL+zGHv+B86DCgVKL+2qP83nnPGGSTX6RL+9riDS7b9tvoLIvg6TMlFkg7a/ZPizo03WbijKNkPeGz+NfcQVOP0QZZSI3azwA9tjfntamajVf6Z7C2W0cUcUNjNl7sl4Diuj9UihFzAmJQPI6xH0utso/aOw9FRB+AdNqkck984rNrfVypAgmwUFRKjUoSAbFUiyMdN06JGiT12HMeibOOgho+9LZKYuZ6Il7Zsr7KLpDiB6Q81T4PmjG4Zl/llbtSEu0XgwMl0u3NPiQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjQ4OTQxNywKICAicHJvZmlsZUlkIiA6ICJkNzJlNGJjZDIyZGI0NjQ4OTUxNTc0M2UyYTRmMWFjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhdnZheSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mODk1MTIzMzFlZGZkYzI3Y2I3ZDRlODBmM2UwZGI0NjBkMDVjYWY2NmM3YzFjNDJlMGU3MTIxMzBhOWI2OTAiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Grants §a+8% §7chance to find a\",3:\"§aChocolate Rabbit §7that you haven't\",4:\"§7found yet and grants §6+40 Chocolate\",5:\"§7per second.\",6:\"\",7:\"§8§oA Factory masterpiece - its divine\",8:\"§8§otaste transcends reality, offering a\",9:\"§8§oheavenly escape.\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§5§lEPIC ACCESSORY\"],Name:\"§5Ganache Chocolate Slab\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GANACHE_CHOCOLATE_SLAB\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"856bd738-0da5-3bd8-95bc-1a1dc4fc0f76\",Properties:{textures:[0:{Name:\"textures\",Signature:\"dRG2tpo+7S1TQmH1OJLetoPPyavA0fQz6NTHU2xYWyWm/vIKrsaG4SFd2pPIcZnqYbrIgQ2hbXKXST4P4FCqRlCFda0k226WdGcQgK4JIZtWAavdCpdz2VqrDQJINh8j/+VHsW8vzoy5i9+ldsDAgzVNAzeNOLnvbls3d3p1EsB2NDYstubRToRpoYV18WFKAw/0gI19HwsAny3dZryvT0697XqvRBSKweJEvImBjeghFjsGqF3zQDpAXOKXr63IWdw9tIuoMlpiR7gcwGRjQZx28vUnuTHF/YuOqt7oGfTca5+IKmEcUO0ud/9naFauOpen2N0c0q58OzBzPcZDTFKfyJv37v+jPDsFC7Pu8lxv3PTTCkgK8Tlo5IIWBq9qON7qMFDzKMJPmAFp+HtsD0J0WBHL+zGHv+B86DCgVKL+2qP83nnPGGSTX6RL+9riDS7b9tvoLIvg6TMlFkg7a/ZPizo03WbijKNkPeGz+NfcQVOP0QZZSI3azwA9tjfntamajVf6Z7C2W0cUcUNjNl7sl4Diuj9UihFzAmJQPI6xH0utso/aOw9FRB+AdNqkck984rNrfVypAgmwUFRKjUoSAbFUiyMdN06JGiT12HMeibOOgho+9LZKYuZ6Il7Zsr7KLpDiB6Q81T4PmjG4Zl/llbtSEu0XgwMl0u3NPiQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjQ4OTQxNywKICAicHJvZmlsZUlkIiA6ICJkNzJlNGJjZDIyZGI0NjQ4OTUxNTc0M2UyYTRmMWFjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhdnZheSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mODk1MTIzMzFlZGZkYzI3Y2I3ZDRlODBmM2UwZGI0NjBkMDVjYWY2NmM3YzFjNDJlMGU3MTIxMzBhOWI2OTAiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Grants a §a+8% §7chance to find\",3:\"§aChocolate Rabbits §7you haven't found\",4:\"§7yet during §dHoppity's Hunt§7.\",5:\"\",6:\"§7Also grants §6+40 Chocolate §7per\",7:\"§7second.\",8:\"\",9:\"§8§oA Factory masterpiece - its divine\",10:\"§8§otaste transcends reality, offering a\",11:\"§8§oheavenly escape.\",12:\"\",13:\"§8Works while in Accessory Bag!\",14:\"§5§lEPIC ACCESSORY\"],Name:\"§5Ganache Chocolate Slab\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+12",
       "",
-      "§7Grants §a+8% §7chance to find a",
-      "§aChocolate Rabbit §7that you haven't",
-      "§7found yet and grants §6+40 Chocolate",
-      "§7per second.",
+      "§7Grants a §a+8% §7chance to find",
+      "§aChocolate Rabbits §7you haven't found",
+      "§7yet during §dHoppity's Hunt§7.",
+      "",
+      "§7Also grants §6+40 Chocolate §7per",
+      "§7second.",
       "",
       "§8§oA Factory masterpiece - its divine",
       "§8§otaste transcends reality, offering a",
@@ -100293,7 +100292,7 @@
     "internalname": "GANACHE_CHOCOLATE_SLAB",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ganache_Chocolate_Slab"
@@ -106008,6 +106007,33 @@
       "C2": "GLOSSY_GEMSTONE:2",
       "C3": "GLOSSY_GEMSTONE:2"
     }
+  },
+  "GLOSSY_MINERAL_SLIMEY": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Slimey Skin",
+    "nbttag": "{ExtraAttributes:{id:\"GLOSSY_MINERAL_SLIMEY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"acebe6cc-4d1a-317a-81c3-90b0df730ef3\",Properties:{textures:[0:{Name:\"textures\",Signature:\"TwB9XsvZshaikmsdem30CZtJg6ILR63nnQvVvaHnlAv9mB2rTUARoZv8gqZsHsKoDk7VkEort97UckpYbKUxHY/zTB2yfewQUq6H85k4Ra+kCPBXk4FoZ3GBOmkJjY8n7hWQGhKjEur9+GZgSGZ6QQ/rN5xXp2fDc7LrS3YiRDrRoDTZZBvKOKdFNFV9TuWlBDRhbuBsYFIleOb8foZZym4ZN0LIqA6DzQ8E9P/KOHDMNoFPTq9+FdANFr8FOiF9cFOnoRR4HosWsEVbB36OaslBoIftjmPLpKb34F4ord4BYRyzwR3Tbe2HsFyM6h8/Yb8S8GJUG/cmPCN8DJYQnk7NNI90VMK6k0psy1Qwx11InX1BoPGFuLcR1Ktiy4zYj4PcQR/OerbePzO8ZyA3llVMhDiG/1Uk5pQ0NoPNDL945BdIrBOfBThzc/fbRB5xWG/zyFthFxEELb6dhiKG0N9VTrXBcl4CQ8Op/cEhJ8n+TUQjYpuMKqp8q691mpGVey5B7LH1LE26i6zjMpDcsQM7JglzEGSyR9Et+y6CygDPp4qyNmiQy77NJEi6uN5bRekVzXBBHYszRE4HeRukdHLRzhySBIxnlHgfzN7emVnlCPr77bcUSZvk5cl55T6OtAsGjrwZu6W6qtm+QLwG147gpYmYgJYCqUQhDGG+eIA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5NTA1NjU3NjIxMiwKICAicHJvZmlsZUlkIiA6ICJmODJmNTQ1MDIzZDA0MTFkYmVlYzU4YWI4Y2JlMTNjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXNwb25kZW50cyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYjg2NzdlZjM5OGRkZTcxMzk3M2NhN2M4MzU5NzU3ODJmZjNkYzUzNjY2YmRjOTFjOTE2MWY4ZjY1NDdmZGVlIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §5Mineral\",7:\"§5Helmet§7 and §6Glossy Mineral Helmet§7.\",8:\"\",9:\"§aThis skin is swappable between 21\",10:\"§aslimey variants!\",11:\"\",12:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Slimey Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §5Mineral",
+      "§5Helmet§7 and §6Glossy Mineral Helmet§7.",
+      "",
+      "§aThis skin is swappable between 21",
+      "§aslimey variants!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "GLOSSY_MINERAL_SLIMEY",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g695a31df",
+    "infoType": "",
+    "info": []
   },
   "GLOSSY_MINERAL_TALISMAN": {
     "itemid": "minecraft:skull",
@@ -116837,7 +116863,7 @@
     "internalname": "HARMONIOUS_SURGERY_TOOLKIT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Harmonious_Surgery_Toolkit"
@@ -133459,7 +133485,7 @@
   "JERRY_CANDY": {
     "itemid": "minecraft:skull",
     "displayname": "§aJerry Candy",
-    "nbttag": "{ExtraAttributes:{id:\"JERRY_CANDY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dc6ad2e7-1cbf-38dc-9f07-e4bda1e1e69b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"rkSHWg7EbrS3b4x7gsIc0jNFcGOX8wHs59MysCCx3jhzG6czNVj1XLREivfosfoTCf/nO3hotYeU9FpIPsZ0p0CGx+0v507h9sLz0zk31YnTkRSpzTXwxQbXovZUEVxfn3ARhBtXtVeJ3CRtFD/NosnTeW/Sq2HgUIdMxOEYefC1TJnYodKY5e5sFyV2r0G3WZRTruJ80m5c4Z7wV+0eudqMmmMxDpsjnPcoNVnS1A0SE/5AMf4sD5bJz/V/6/6+8yRC4yDdDzt5e5pGgFt6Y57ioDfOAW5cttKQtLTAvAkl0UzDfE8j03FO/WiwH+zO9FNVHClaq2qucLbSqACxmowMnLuL8fNIPb3mRNyNORD0h3ALX2uAe2+iMx3LBfBstb9vjaKB18YoRIwjTged18jjYIzNsnL/4qAB8Et0HiWwSXUOiEQhs832/WWcyjJsqnGoR6v7c/tsGFTcTTd9xHn3r4+KamWTBjRNpOKBqoeeBD5AQFY7FgF5d2f2xTw0F6kW8ZeWDzXii/LD31Uk4dIu0dAhmudoiNCybhPGLpJpxgUQ/oiYG9o/ZjoG9YLwZ1dNZ2Ot1VuCwtjNCrTnAyAqE5Qkhw4u0LUj2pudCnUvVrbe7JG0TBmwC3sZWRQYfouDfvcCrZDOMqbubNfkzlP87XdvZvvd2aeX9Ez5QhI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxOTYwNTI5NzgyMiwKICAicHJvZmlsZUlkIiA6ICJiOThjNGFkOGM2MjY0NGYxOWUzYzhhZTE0ZThhMDI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5cnRlZGR5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3ZjBlNjM1MmI1N2Q2ZmFjOGQ1YzFlNzg4MjU4ODkyN2UxYjE5N2IzMmZiZDMzY2Y1ZjNmZjlkZTk2MTE5M2QiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Right-click to consume and\",1:\"§7gain the §aJerry Effect §7(20:00):\",2:\" §c+100 Health\",3:\" §c+20 Strength\",4:\" §c+2 Ferocity\",5:\" §b+100 Intelligence\",6:\" §b+3 Magic Find\",7:\"\",8:\"§a§lUNCOMMON\"],Name:\"§aJerry Candy\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"JERRY_CANDY\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"dc6ad2e7-1cbf-38dc-9f07-e4bda1e1e69b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"rkSHWg7EbrS3b4x7gsIc0jNFcGOX8wHs59MysCCx3jhzG6czNVj1XLREivfosfoTCf/nO3hotYeU9FpIPsZ0p0CGx+0v507h9sLz0zk31YnTkRSpzTXwxQbXovZUEVxfn3ARhBtXtVeJ3CRtFD/NosnTeW/Sq2HgUIdMxOEYefC1TJnYodKY5e5sFyV2r0G3WZRTruJ80m5c4Z7wV+0eudqMmmMxDpsjnPcoNVnS1A0SE/5AMf4sD5bJz/V/6/6+8yRC4yDdDzt5e5pGgFt6Y57ioDfOAW5cttKQtLTAvAkl0UzDfE8j03FO/WiwH+zO9FNVHClaq2qucLbSqACxmowMnLuL8fNIPb3mRNyNORD0h3ALX2uAe2+iMx3LBfBstb9vjaKB18YoRIwjTged18jjYIzNsnL/4qAB8Et0HiWwSXUOiEQhs832/WWcyjJsqnGoR6v7c/tsGFTcTTd9xHn3r4+KamWTBjRNpOKBqoeeBD5AQFY7FgF5d2f2xTw0F6kW8ZeWDzXii/LD31Uk4dIu0dAhmudoiNCybhPGLpJpxgUQ/oiYG9o/ZjoG9YLwZ1dNZ2Ot1VuCwtjNCrTnAyAqE5Qkhw4u0LUj2pudCnUvVrbe7JG0TBmwC3sZWRQYfouDfvcCrZDOMqbubNfkzlP87XdvZvvd2aeX9Ez5QhI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxOTYwNTI5NzgyMiwKICAicHJvZmlsZUlkIiA6ICJiOThjNGFkOGM2MjY0NGYxOWUzYzhhZTE0ZThhMDI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5cnRlZGR5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3ZjBlNjM1MmI1N2Q2ZmFjOGQ1YzFlNzg4MjU4ODkyN2UxYjE5N2IzMmZiZDMzY2Y1ZjNmZjlkZTk2MTE5M2QiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Right-click to consume and\",1:\"§7gain the §aJerry Effect §7(20:00):\",2:\" §c+100 Health\",3:\" §c+20 Strength\",4:\" §c+2 Ferocity\",5:\" §b+100 Intelligence\",6:\"\",7:\"§a§lUNCOMMON\"],Name:\"§aJerry Candy\"}}",
     "damage": 3,
     "lore": [
       "§7Right-click to consume and",
@@ -133468,14 +133494,13 @@
       " §c+20 Strength",
       " §c+2 Ferocity",
       " §b+100 Intelligence",
-      " §b+3 Magic Find",
       "",
       "§a§lUNCOMMON"
     ],
     "internalname": "JERRY_CANDY",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Jerry_Candy"
@@ -146181,7 +146206,7 @@
   "LUCKY_DICE": {
     "itemid": "minecraft:paper",
     "displayname": "§5Lucky Dice",
-    "nbttag": "{ExtraAttributes:{id:\"LUCKY_DICE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/lucky_dice\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Lucky §7reforge when\",4:\"§7combined with a §bFishing Rod§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §3 Sea Creature Chance\",9:\" §b Magic Find\",10:\"\",11:\"§eRight-click to view rarity scaling!\",12:\"\",13:\"§4❣ §cRequires §aMining Skill 24§c.\",14:\"\",15:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Lucky Dice\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"LUCKY_DICE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/lucky_dice\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Lucky §7reforge when\",4:\"§7combined with a §bFishing Rod§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §b Fishing Speed\",9:\" §6 Treasure Chance\",10:\"\",11:\"§9Lucky Bonus\",12:\"§6Treasure §7catches are §a7% §7more likely\",13:\"§7to be §d§lOUTSTANDING.\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§4❣ §cRequires §aMining Skill 24§c.\",18:\"\",19:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Lucky Dice\"}}",
     "damage": 0,
     "lore": [
       "§8Reforge Stone",
@@ -146192,8 +146217,12 @@
       "",
       "§7Grants the following stats that scale",
       "§7with the item's rarity:",
-      " §3 Sea Creature Chance",
-      " §b Magic Find",
+      " §b Fishing Speed",
+      " §6 Treasure Chance",
+      "",
+      "§9Lucky Bonus",
+      "§6Treasure §7catches are §a7% §7more likely",
+      "§7to be §d§lOUTSTANDING.",
       "",
       "§eRight-click to view rarity scaling!",
       "",
@@ -146204,7 +146233,7 @@
     "internalname": "LUCKY_DICE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Lucky_Dice"
@@ -148438,7 +148467,7 @@
     "internalname": "MAGIC_8_BALL",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Magic_8_Ball"
@@ -167163,15 +167192,17 @@
   "NIBBLE_CHOCOLATE_STICK": {
     "itemid": "minecraft:skull",
     "displayname": "§fNibble Chocolate Stick",
-    "nbttag": "{ExtraAttributes:{id:\"NIBBLE_CHOCOLATE_STICK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"faac4d90-e81d-3754-9f2f-75fe54a498dd\",Properties:{textures:[0:{Name:\"textures\",Signature:\"wk3rbczMqpr3XLIdnadtASpG2lcnk7O+lAgq9rScHdf4ujuPOBLduBwgV2vvKnFxTmcMs3Y3zZJ3hzqjUAaA9e0UqqISCqkaPbAq73ldpEMgyHhzYQprRmIvQKwvO+APXF7krYlI63yxO8XvDrVPeJDP3KU4898AqqmEmiU0HL0gQqYXwXlD1VBT5Beg4iIS+oEEBpCP+B0pD+qrKRRpSIdgU1CvvARZDMKSDQtRVnje7Ut9kF9oG2S+5ali1/qtGJIeLl5fbVXPX+zPppf4WUOdsG+kFoZ3VllWOTwAmefHLohmxDxUyGA0J7nGx9Tq3xrqPazCiTPuLYXb7NsFv3DdSGPiqHty04+v8LzTK/Vygawv15ATY5I5Zi+U9AHNIdX5xmrzF6xScquh1rZx1dyUoRUtItqZXZpHvjfmotQ5MTTdBz1OzTSQviG/6E8ya/3MUrtbJTxlCcHRf22AeKevDm+5QNDddSXfScDOzlFz118sfUWRjKKuXqtLtNCtprcQMPRDq9xxg2VWu0r49zgy635hCbWPjzPC2/F1GkyG3hLKHYUr2mpm9vRSgNKffvds/H+OjE2cOxntd5Ocq7Bxk28EhroDJ9dD5uZHh6hFScJEqQDMWwxmfE0jqV8nof2g4aGypJ51tzsfLI2r0/d+NkYXl8N5tIAGKtDPed8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjU0NzI5MCwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ODgxODhkNjI5MDhhZjZlMTE0ZjczYTEwOWUxNWFjN2YxZmFkZWQzOWFiZDZhMjA1NDAzNGVjNWNjNzBjNzI3IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7Grants §a+2% §7chance to find a\",3:\"§aChocolate Rabbit §7that you haven't\",4:\"§7found yet and grants §6+10 Chocolate\",5:\"§7per second.\",6:\"\",7:\"§8§oA delightful treat from the Factory.\",8:\"§8§oIts crisp taste sparks joy with\",9:\"§8§oevery bite.\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§f§lCOMMON ACCESSORY\"],Name:\"§fNibble Chocolate Stick\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"NIBBLE_CHOCOLATE_STICK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"faac4d90-e81d-3754-9f2f-75fe54a498dd\",Properties:{textures:[0:{Name:\"textures\",Signature:\"wk3rbczMqpr3XLIdnadtASpG2lcnk7O+lAgq9rScHdf4ujuPOBLduBwgV2vvKnFxTmcMs3Y3zZJ3hzqjUAaA9e0UqqISCqkaPbAq73ldpEMgyHhzYQprRmIvQKwvO+APXF7krYlI63yxO8XvDrVPeJDP3KU4898AqqmEmiU0HL0gQqYXwXlD1VBT5Beg4iIS+oEEBpCP+B0pD+qrKRRpSIdgU1CvvARZDMKSDQtRVnje7Ut9kF9oG2S+5ali1/qtGJIeLl5fbVXPX+zPppf4WUOdsG+kFoZ3VllWOTwAmefHLohmxDxUyGA0J7nGx9Tq3xrqPazCiTPuLYXb7NsFv3DdSGPiqHty04+v8LzTK/Vygawv15ATY5I5Zi+U9AHNIdX5xmrzF6xScquh1rZx1dyUoRUtItqZXZpHvjfmotQ5MTTdBz1OzTSQviG/6E8ya/3MUrtbJTxlCcHRf22AeKevDm+5QNDddSXfScDOzlFz118sfUWRjKKuXqtLtNCtprcQMPRDq9xxg2VWu0r49zgy635hCbWPjzPC2/F1GkyG3hLKHYUr2mpm9vRSgNKffvds/H+OjE2cOxntd5Ocq7Bxk28EhroDJ9dD5uZHh6hFScJEqQDMWwxmfE0jqV8nof2g4aGypJ51tzsfLI2r0/d+NkYXl8N5tIAGKtDPed8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjU0NzI5MCwKICAicHJvZmlsZUlkIiA6ICI2OGVmMmM5NTc5NjM0MjE4YjYwNTM5YWVlOTU3NWJiNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVNdWx0aUFjb3VudCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ODgxODhkNjI5MDhhZjZlMTE0ZjczYTEwOWUxNWFjN2YxZmFkZWQzOWFiZDZhMjA1NDAzNGVjNWNjNzBjNzI3IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+3\",1:\"\",2:\"§7Grants a §a+2% §7chance to find\",3:\"§aChocolate Rabbits §7you haven't found\",4:\"§7yet during §dHoppity's Hunt§7.\",5:\"\",6:\"§7Also grants §6+10 Chocolate §7per\",7:\"§7second.\",8:\"\",9:\"§8§oA delightful treat from the Factory.\",10:\"§8§oIts crisp taste sparks joy with\",11:\"§8§oevery bite.\",12:\"\",13:\"§8Works while in Accessory Bag!\",14:\"§f§lCOMMON ACCESSORY\"],Name:\"§fNibble Chocolate Stick\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+3",
       "",
-      "§7Grants §a+2% §7chance to find a",
-      "§aChocolate Rabbit §7that you haven't",
-      "§7found yet and grants §6+10 Chocolate",
-      "§7per second.",
+      "§7Grants a §a+2% §7chance to find",
+      "§aChocolate Rabbits §7you haven't found",
+      "§7yet during §dHoppity's Hunt§7.",
+      "",
+      "§7Also grants §6+10 Chocolate §7per",
+      "§7second.",
       "",
       "§8§oA delightful treat from the Factory.",
       "§8§oIts crisp taste sparks joy with",
@@ -167183,7 +167214,7 @@
     "internalname": "NIBBLE_CHOCOLATE_STICK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Nibble_Chocolate_Stick"
@@ -203354,15 +203385,17 @@
   "PRESTIGE_CHOCOLATE_REALM": {
     "itemid": "minecraft:skull",
     "displayname": "§6Prestige Chocolate Realm",
-    "nbttag": "{ExtraAttributes:{id:\"PRESTIGE_CHOCOLATE_REALM\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"379918b6-6f8e-325c-a97a-6cdb201c7652\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Fqirt/yVEHUAt1L4aMnOD9ysP2AG1gAh0MEVHESFabDOKzj2TjZdeXVFj8Hwkw5AfvkYXmHjkqQBMjsx5zS+D8Vk7qpaYcrhAZcezG+OvMuH8Ja01YkhetgEgU5LoFRRCvBCf5t6c9VG47mT7vPEH6/UnB29WIkjviecPk0FgK46BQJfnrPM9+MLDHw1Gbj1JamtYAO0LWTmRiT4XDzHOJe+56aN01QygpFY947N4YPMkas+nPbntXmWtqV6Uv6mrFlGB2HzruCoE7AhzAYqYIAgu8ikMSQ8KuW7aShXeRVeKJiKSMoz8dJYWM/CRfUYGW+nVVTl8cPCL03buI3kiE215QbXY/su4rHAoNU2ILgTZnPlfve2eIJRzSOVFusNDvD/vvNigrWvRxwDtgDrJwoLr3YUuAGq2FBiRwG74lS3DYFoFf9K5G9/FS7gJurGwJJOFmTkp7W/dpCsPQufEg1E8hQK/0cPPy+6s3Wk3aApBnL+AdDGvz96rw4wwEdTDfjJsktmpzt/JNzjPcgroHKPiosJjuHsQli8uyYtYaLccj3XiKq6RkrfWySGpttkQJrqlhzfZeO103EeROkIJdD5UXfe5qevVqrEJMzMspByDZIKsVmHZRyb4TYx09q4FZwvuvBjPNMBSqRBpwQVNSenMGn8upJGKkJLOyaPLxY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjQ2NTczMiwKICAicHJvZmlsZUlkIiA6ICIzMTdkODc2MjZjYWM0Mjk0ODBiOTI4NGE4Y2ZjMWRlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaWFtb1IzMjAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWYxOWNlZWFiZjJlY2IwMjA2MTBiOGFhYmM5Mjk5MjY0ZmE2NzAwNDhjMDEwYzk2OTljZTY4N2ZjOWJmMzUxZSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+16\",1:\"\",2:\"§7Grants §a+10% §7chance to find a\",3:\"§aChocolate Rabbit §7that you haven't\",4:\"§7found yet and grants §6+50 Chocolate\",5:\"§7per second.\",6:\"\",7:\"§8§oThe Factory's pinnacle creation - its\",8:\"§8§oepic taste shatters expectations,\",9:\"§8§ooffering a taste of utopia.\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Prestige Chocolate Realm\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRESTIGE_CHOCOLATE_REALM\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"379918b6-6f8e-325c-a97a-6cdb201c7652\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Fqirt/yVEHUAt1L4aMnOD9ysP2AG1gAh0MEVHESFabDOKzj2TjZdeXVFj8Hwkw5AfvkYXmHjkqQBMjsx5zS+D8Vk7qpaYcrhAZcezG+OvMuH8Ja01YkhetgEgU5LoFRRCvBCf5t6c9VG47mT7vPEH6/UnB29WIkjviecPk0FgK46BQJfnrPM9+MLDHw1Gbj1JamtYAO0LWTmRiT4XDzHOJe+56aN01QygpFY947N4YPMkas+nPbntXmWtqV6Uv6mrFlGB2HzruCoE7AhzAYqYIAgu8ikMSQ8KuW7aShXeRVeKJiKSMoz8dJYWM/CRfUYGW+nVVTl8cPCL03buI3kiE215QbXY/su4rHAoNU2ILgTZnPlfve2eIJRzSOVFusNDvD/vvNigrWvRxwDtgDrJwoLr3YUuAGq2FBiRwG74lS3DYFoFf9K5G9/FS7gJurGwJJOFmTkp7W/dpCsPQufEg1E8hQK/0cPPy+6s3Wk3aApBnL+AdDGvz96rw4wwEdTDfjJsktmpzt/JNzjPcgroHKPiosJjuHsQli8uyYtYaLccj3XiKq6RkrfWySGpttkQJrqlhzfZeO103EeROkIJdD5UXfe5qevVqrEJMzMspByDZIKsVmHZRyb4TYx09q4FZwvuvBjPNMBSqRBpwQVNSenMGn8upJGKkJLOyaPLxY=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjQ2NTczMiwKICAicHJvZmlsZUlkIiA6ICIzMTdkODc2MjZjYWM0Mjk0ODBiOTI4NGE4Y2ZjMWRlOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaWFtb1IzMjAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWYxOWNlZWFiZjJlY2IwMjA2MTBiOGFhYmM5Mjk5MjY0ZmE2NzAwNDhjMDEwYzk2OTljZTY4N2ZjOWJmMzUxZSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+16\",1:\"\",2:\"§7Grants a §a+10% §7chance to find\",3:\"§aChocolate Rabbits §7you haven't found\",4:\"§7yet during §dHoppity's Hunt§7.\",5:\"\",6:\"§7Also grants §6+50 Chocolate §7per\",7:\"§7second.\",8:\"\",9:\"§8§oThe Factory's pinnacle creation - its\",10:\"§8§oepic taste shatters expectations,\",11:\"§8§ooffering a taste of utopia.\",12:\"\",13:\"§8Works while in Accessory Bag!\",14:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Prestige Chocolate Realm\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+16",
       "",
-      "§7Grants §a+10% §7chance to find a",
-      "§aChocolate Rabbit §7that you haven't",
-      "§7found yet and grants §6+50 Chocolate",
-      "§7per second.",
+      "§7Grants a §a+10% §7chance to find",
+      "§aChocolate Rabbits §7you haven't found",
+      "§7yet during §dHoppity's Hunt§7.",
+      "",
+      "§7Also grants §6+50 Chocolate §7per",
+      "§7second.",
       "",
       "§8§oThe Factory's pinnacle creation - its",
       "§8§oepic taste shatters expectations,",
@@ -203374,7 +203407,7 @@
     "internalname": "PRESTIGE_CHOCOLATE_REALM",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Prestige_Chocolate_Realm"
@@ -207786,14 +207819,14 @@
   "PUNCHCARD_ARTIFACT": {
     "itemid": "minecraft:skull",
     "displayname": "§5Punchcard Artifact",
-    "nbttag": "{ExtraAttributes:{id:\"PUNCHCARD_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"01abf382-3113-3bf4-b4e6-8902fdcce20b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JavLgeCq1BxfYV0Ek7vSZwBIlD59axnyWHhFpmJTcxdOkZ/gMZrlrYd/PHwxvh9XMQoI1uC2tcijl6inISdKJgB/bWXNPls2MG5Q19ZUaVxn1nHxY5gxGW51pXGOsXiWvHYnrHwc9O4ZDURmvRm+f43ySUwlM6ffnglVeFIhDZaZ0t/vR+6ixnLrzeOIuq9HrxRAO6sbgqRe6tlisVayYDgde9Omvr+Yk9T07ESVUQ1+rnGN+x+ckSaR6bt8xNuqMRh0sCHyoeAy3zfFPlhR0ZfWRjU9nNM7VW+LjOc9zzT5XUaba7pJJaY622WlN9us8vR+gaJauInvVytNPaASzvYEEqRHCfH0tBtkW/SH0By0ZvjrhByjKFp85BLkggRi9RMTqH3bOEvAC+sQb4aOW1VNiyBnTz6PjnfyRVQ4YdTCUP6hZQYWYIgfI/niVgf/6Kc5BpAGCQBmNjcLqxDM7ur0JQRLS+WNgj36J03sVTo9Joy6JvE8sFWUhyPWqiKq01ZKSrvMtJ0EBbLyBhN8dbZg1MWDNkQDYV0UajC2ZmdkSf5oJIIkWl4CbVKzkvYi/g4omoiEjdAA4mwOrnxuwXvi3/uZ3OwVK/fnKmZJQfbCPsJ4q94cj9292J9+4qANapYgea2iWBz0zx6jj6X5JtwyA2mc1M1m9y2ficW5FPA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2MzgyNTc0NDQ0MCwKICAicHJvZmlsZUlkIiA6ICJlYjA3ZmQzMmFiOTE0NjRjODVjYmU1YjVhYTlkYTRjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphV2luc3RyZWFrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg0M2E0YThmYTc5ZjhkMTYyMWQ1ZWE0OTBiOWUwMjE3OTYyZjkwNTk0ZWRhODk2NzVmYzEzYjI5ZDUyOTA0NzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+30s\",1:\"\",2:\"§6Ability: Punch in! §e§lLEFT CLICK\",3:\"§7Punch another player while this is in\",4:\"§7your inventory to both regain §a+25ф\",5:\"§aRift Time§7.\",6:\"§8Usable once per player per rift visit\",7:\"§8up to 20 players.\",8:\"\",9:\"§5§lEPIC ACCESSORY\"],Name:\"§5Punchcard Artifact\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PUNCHCARD_ARTIFACT\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"01abf382-3113-3bf4-b4e6-8902fdcce20b\",Properties:{textures:[0:{Name:\"textures\",Signature:\"JavLgeCq1BxfYV0Ek7vSZwBIlD59axnyWHhFpmJTcxdOkZ/gMZrlrYd/PHwxvh9XMQoI1uC2tcijl6inISdKJgB/bWXNPls2MG5Q19ZUaVxn1nHxY5gxGW51pXGOsXiWvHYnrHwc9O4ZDURmvRm+f43ySUwlM6ffnglVeFIhDZaZ0t/vR+6ixnLrzeOIuq9HrxRAO6sbgqRe6tlisVayYDgde9Omvr+Yk9T07ESVUQ1+rnGN+x+ckSaR6bt8xNuqMRh0sCHyoeAy3zfFPlhR0ZfWRjU9nNM7VW+LjOc9zzT5XUaba7pJJaY622WlN9us8vR+gaJauInvVytNPaASzvYEEqRHCfH0tBtkW/SH0By0ZvjrhByjKFp85BLkggRi9RMTqH3bOEvAC+sQb4aOW1VNiyBnTz6PjnfyRVQ4YdTCUP6hZQYWYIgfI/niVgf/6Kc5BpAGCQBmNjcLqxDM7ur0JQRLS+WNgj36J03sVTo9Joy6JvE8sFWUhyPWqiKq01ZKSrvMtJ0EBbLyBhN8dbZg1MWDNkQDYV0UajC2ZmdkSf5oJIIkWl4CbVKzkvYi/g4omoiEjdAA4mwOrnxuwXvi3/uZ3OwVK/fnKmZJQfbCPsJ4q94cj9292J9+4qANapYgea2iWBz0zx6jj6X5JtwyA2mc1M1m9y2ficW5FPA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2MzgyNTc0NDQ0MCwKICAicHJvZmlsZUlkIiA6ICJlYjA3ZmQzMmFiOTE0NjRjODVjYmU1YjVhYTlkYTRjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphV2luc3RyZWFrIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg0M2E0YThmYTc5ZjhkMTYyMWQ1ZWE0OTBiOWUwMjE3OTYyZjkwNTk0ZWRhODk2NzVmYzEzYjI5ZDUyOTA0NzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Rift Time: §a+30s\",1:\"\",2:\"§6Ability: Punch in! §e§lLEFT CLICK\",3:\"§7Punch another player while this is in\",4:\"§7your inventory to both regain §a+25\",5:\"§aRift Time§7.\",6:\"§8Usable once per player per rift visit\",7:\"§8up to 20 players.\",8:\"\",9:\"§5§lEPIC ACCESSORY\"],Name:\"§5Punchcard Artifact\"}}",
     "damage": 3,
     "lore": [
       "§7Rift Time: §a+30s",
       "",
       "§6Ability: Punch in! §e§lLEFT CLICK",
       "§7Punch another player while this is in",
-      "§7your inventory to both regain §a+25ф",
+      "§7your inventory to both regain §a+25",
       "§aRift Time§7.",
       "§8Usable once per player per rift visit",
       "§8up to 20 players.",
@@ -207803,7 +207836,7 @@
     "internalname": "PUNCHCARD_ARTIFACT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.0.1+mc1.21.11",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Punchcard_Artifact"
@@ -218397,15 +218430,17 @@
   "RICH_CHOCOLATE_CHUNK": {
     "itemid": "minecraft:skull",
     "displayname": "§9Rich Chocolate Chunk",
-    "nbttag": "{ExtraAttributes:{id:\"RICH_CHOCOLATE_CHUNK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5e31d08d-45cf-3d64-8241-5ea2a49820cb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"x5z/RyVTJ4uplsR2Ws4Qyd98aEVKoZX44AZFw35xmFEl0GBlOFFmmnrEGsyvQyxYsDditUdlqHMv2qOlnZpjUkf2CMj+qejwIpbX5h8IGRe/igpiAVG+TLBmV3hP84veYqdqnPabuI5v5d5J8c8PrRLZCI+RABxCMG9BAYntfeGRmssvkMbCRdy5GkhgdCoW6JF/c6xDM7wGM6tsvbraJbWR15sN8yuFli0yViXAzto8kZe+rGWVNM4VBinbjgVyriYROL0Rg49iAX3ozQKlP2IFa9OFix/wq084T6UTmdn/RWB5PGxQfMInZwU8UNCBr5Q1/NtJi+T3t1IzOEos+mGZSNrT/9PpNYiwB4QT3FdJiaCWtmsxq2FOFbuCfyQpeS1TtoaaICTisedN9nsti0PX1rJfPOrFtwgEH7fIy75AN0g7YPvQHrTRGR529KN7YM4ytY1FlKPL64HwBTCH+PAkklzPkFMTmBGr/51POn2/zBbyGRajnoAU3LX+sVEv8ujAMOC/5FtqJmCbpBl3iIM5Rhry4uMu5y8+AU6O4OicSfKu2JGbgu5lkveP0UOUM1N/rTnXPXthPVNXB9//tfJ4rCskZs+xx0Xq7K8hdZzf/VxQQXZgSD7mjuKDYVdGTwCM3pYQ+hfqn66GpQuE7ruNSr3TkcVuHn9VmkFsLDU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjUxMDg3MSwKICAicHJvZmlsZUlkIiA6ICJkNWMyZjNmZWY2NjM0ZDk4OGFmMmJjMDkwNGEzMzAzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCTU1HQSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Zjk0MjcxNzM2NGMwZmVjZjdhZDExYmFjOGNkOThkZDdhZDRkYmQ3MmUzZDNjZTJiNTdlYjQ4NzEzODI0ZmYiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Grants §a+6% §7chance to find a\",3:\"§aChocolate Rabbit §7that you haven't\",4:\"§7found yet and grants §6+30 Chocolate\",5:\"§7per second.\",6:\"\",7:\"§8§oFrom the Factory's secret\",8:\"§8§oreserves, its rich flavor is a deep\",9:\"§8§odive into indulgence.\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§9§lRARE ACCESSORY\"],Name:\"§9Rich Chocolate Chunk\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"RICH_CHOCOLATE_CHUNK\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"5e31d08d-45cf-3d64-8241-5ea2a49820cb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"x5z/RyVTJ4uplsR2Ws4Qyd98aEVKoZX44AZFw35xmFEl0GBlOFFmmnrEGsyvQyxYsDditUdlqHMv2qOlnZpjUkf2CMj+qejwIpbX5h8IGRe/igpiAVG+TLBmV3hP84veYqdqnPabuI5v5d5J8c8PrRLZCI+RABxCMG9BAYntfeGRmssvkMbCRdy5GkhgdCoW6JF/c6xDM7wGM6tsvbraJbWR15sN8yuFli0yViXAzto8kZe+rGWVNM4VBinbjgVyriYROL0Rg49iAX3ozQKlP2IFa9OFix/wq084T6UTmdn/RWB5PGxQfMInZwU8UNCBr5Q1/NtJi+T3t1IzOEos+mGZSNrT/9PpNYiwB4QT3FdJiaCWtmsxq2FOFbuCfyQpeS1TtoaaICTisedN9nsti0PX1rJfPOrFtwgEH7fIy75AN0g7YPvQHrTRGR529KN7YM4ytY1FlKPL64HwBTCH+PAkklzPkFMTmBGr/51POn2/zBbyGRajnoAU3LX+sVEv8ujAMOC/5FtqJmCbpBl3iIM5Rhry4uMu5y8+AU6O4OicSfKu2JGbgu5lkveP0UOUM1N/rTnXPXthPVNXB9//tfJ4rCskZs+xx0Xq7K8hdZzf/VxQQXZgSD7mjuKDYVdGTwCM3pYQ+hfqn66GpQuE7ruNSr3TkcVuHn9VmkFsLDU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjUxMDg3MSwKICAicHJvZmlsZUlkIiA6ICJkNWMyZjNmZWY2NjM0ZDk4OGFmMmJjMDkwNGEzMzAzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCTU1HQSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Zjk0MjcxNzM2NGMwZmVjZjdhZDExYmFjOGNkOThkZDdhZDRkYmQ3MmUzZDNjZTJiNTdlYjQ4NzEzODI0ZmYiCiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Grants a §a+6% §7chance to find\",3:\"§aChocolate Rabbits §7you haven't found\",4:\"§7yet during §dHoppity's Hunt§7.\",5:\"\",6:\"§7Also grants §6+30 Chocolate §7per\",7:\"§7second.\",8:\"\",9:\"§8§oFrom the Factory's secret\",10:\"§8§oreserves, its rich flavor is a deep\",11:\"§8§odive into indulgence.\",12:\"\",13:\"§8Works while in Accessory Bag!\",14:\"§9§lRARE ACCESSORY\"],Name:\"§9Rich Chocolate Chunk\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+8",
       "",
-      "§7Grants §a+6% §7chance to find a",
-      "§aChocolate Rabbit §7that you haven't",
-      "§7found yet and grants §6+30 Chocolate",
-      "§7per second.",
+      "§7Grants a §a+6% §7chance to find",
+      "§aChocolate Rabbits §7you haven't found",
+      "§7yet during §dHoppity's Hunt§7.",
+      "",
+      "§7Also grants §6+30 Chocolate §7per",
+      "§7second.",
       "",
       "§8§oFrom the Factory's secret",
       "§8§oreserves, its rich flavor is a deep",
@@ -218417,7 +218452,7 @@
     "internalname": "RICH_CHOCOLATE_CHUNK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rich_Chocolate_Chunk"
@@ -219426,7 +219461,7 @@
     "internalname": "RING_OF_BROKEN_LOVE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ring_of_Broken_Love"
@@ -219485,7 +219520,7 @@
     "internalname": "RING_OF_ETERNAL_LOVE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.2.0-dev+mc1.21.5+g64ef955",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ring_of_Eternal_Love"
@@ -224296,25 +224331,22 @@
   "SATELITE": {
     "itemid": "minecraft:skull",
     "displayname": "§6Satelite",
-    "nbttag": "{ExtraAttributes:{id:\"SATELITE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f7d8f8c5-2068-37d5-a868-5db1ea586a6f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"bQzhbea5/OGE4tv0Xzvoy7aKJ9Rj7ABrX6beJgJxhIFJnQNPCuFe65heCcvuRAtB8kW/qaPikSwvYUpy2/azbtoDfZE8KSzWgQhNIGnH/PO7EdPa8+VbDE3cl/6bKTi8n1JK186kKznkZN3wlf/FtwU5BdOOAQiRu62kKo4Ychtt2tZAMKs3GuX88gOxzD8Ufc7qISDtwy18b+dyMvWBT8UVTcjQt86Jt8EnxPdMrLh35sX+ORwoGun/PAS7dY1mEobeCOcf6Gwb4NBU0o/WICDvH/GFw2rIEzB1ETqZ6si3TMH9uo2Ue67uPHGBsOrGmYJIXQIHr/xWCe5or0mCju4R4ituB4hYCs5Ott0eJZGxLoxwTtU+1nw135TtEn77ck/IN9E1ibhr1UbV5PL0MHzXFbCeIsl97lrMb/VLsVBaunFvcq7midoNS9E+8gziaOV2/f3+VJWRQYkShV/y4xJj4GHpHZDvr7Y+Qtzv+rGkHusNLiAfzCH81p1jqMs2FBqPlw1TEmKsB7gZyDS2dmc+WI88ab+3gjllyK2z3a7RZCXz/+Fp2x1xn9woQRfnIhYTw0cqD0R+vMQ52rl+BIdiCyjfh7r/Zas9pRXew6oXZoptC5oQSXSeQZF7HyHZWUUPflmj7qF/tw4+bt8yY0pxN1yWBppROjVVWBcFQ3E=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMzY2NjUwNTAzOCwKICAicHJvZmlsZUlkIiA6ICI0NTM1Y2RjNjk3NGU0Nzk4YjljYzY4ODlkZWY1MDk2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIzZXlyZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRjYmU4NTRiMDM4NmRjMzg5Zjc1Zjg3MTRiMjkyMmFjZDI0MjE5NTEwMDFjZmFiYTRhODFhYjY3ZTMzOGI5OSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+16\",1:\"\",2:\"§7High altitude, slow attitude. The\",3:\"§7procrastinator's dream stone.\",4:\"\",5:\"§6Ability: Bullet Time\",6:\"§7Slow down the loss of §a Rift Time §7by\",7:\"§a20% §7in elevated areas.\",8:\"\",9:\"§8Works while in Accessory Bag!\",10:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Satelite\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SATELITE\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"f7d8f8c5-2068-37d5-a868-5db1ea586a6f\",Properties:{textures:[0:{Name:\"textures\",Signature:\"bQzhbea5/OGE4tv0Xzvoy7aKJ9Rj7ABrX6beJgJxhIFJnQNPCuFe65heCcvuRAtB8kW/qaPikSwvYUpy2/azbtoDfZE8KSzWgQhNIGnH/PO7EdPa8+VbDE3cl/6bKTi8n1JK186kKznkZN3wlf/FtwU5BdOOAQiRu62kKo4Ychtt2tZAMKs3GuX88gOxzD8Ufc7qISDtwy18b+dyMvWBT8UVTcjQt86Jt8EnxPdMrLh35sX+ORwoGun/PAS7dY1mEobeCOcf6Gwb4NBU0o/WICDvH/GFw2rIEzB1ETqZ6si3TMH9uo2Ue67uPHGBsOrGmYJIXQIHr/xWCe5or0mCju4R4ituB4hYCs5Ott0eJZGxLoxwTtU+1nw135TtEn77ck/IN9E1ibhr1UbV5PL0MHzXFbCeIsl97lrMb/VLsVBaunFvcq7midoNS9E+8gziaOV2/f3+VJWRQYkShV/y4xJj4GHpHZDvr7Y+Qtzv+rGkHusNLiAfzCH81p1jqMs2FBqPlw1TEmKsB7gZyDS2dmc+WI88ab+3gjllyK2z3a7RZCXz/+Fp2x1xn9woQRfnIhYTw0cqD0R+vMQ52rl+BIdiCyjfh7r/Zas9pRXew6oXZoptC5oQSXSeQZF7HyHZWUUPflmj7qF/tw4+bt8yY0pxN1yWBppROjVVWBcFQ3E=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMzY2NjUwNTAzOCwKICAicHJvZmlsZUlkIiA6ICI0NTM1Y2RjNjk3NGU0Nzk4YjljYzY4ODlkZWY1MDk2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICIzZXlyZW4iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRjYmU4NTRiMDM4NmRjMzg5Zjc1Zjg3MTRiMjkyMmFjZDI0MjE5NTEwMDFjZmFiYTRhODFhYjY3ZTMzOGI5OSIKICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§6Ability: Bullet Time\",1:\"§7Slow down the loss of §a Rift Time §7by\",2:\"§a20% §7in elevated areas.\",3:\"\",4:\"§8§oHigh altitude, slow attitude. The\",5:\"§8§oprocrastinator's dream stone.\",6:\"\",7:\"§6§lLEGENDARY ACCESSORY\"],Name:\"§6Satelite\"}}",
     "damage": 3,
     "lore": [
-      "§7Accessory Power: §6+16",
-      "",
-      "§7High altitude, slow attitude. The",
-      "§7procrastinator's dream stone.",
-      "",
       "§6Ability: Bullet Time",
       "§7Slow down the loss of §a Rift Time §7by",
       "§a20% §7in elevated areas.",
       "",
-      "§8Works while in Accessory Bag!",
+      "§8§oHigh altitude, slow attitude. The",
+      "§8§oprocrastinator's dream stone.",
+      "",
       "§6§lLEGENDARY ACCESSORY"
     ],
     "internalname": "SATELITE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Timite V",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Satelite"
@@ -241172,15 +241204,17 @@
   "SMOOTH_CHOCOLATE_BAR": {
     "itemid": "minecraft:skull",
     "displayname": "§aSmooth Chocolate Bar",
-    "nbttag": "{ExtraAttributes:{id:\"SMOOTH_CHOCOLATE_BAR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"74192c84-c83b-30b0-8a23-ad6c827c8e83\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Q6zsT2Qj1RpoePMwPbIBS2U+e7FPv9tJQq1/GuCQpJY5mIG7K15i0WU1bTBGmRFW/DhQSKnlnHEkEcYsOdD8reAv55tJkhtuUmuwf27m2XUd+E/ycMbBaBAj7P5ebgbfi+uUHttM1TEo7wkZVpVU91VsYIh5Iy5z5lbxVmjxW89ajeN3d0HqT1XcGHPSAt5Rqr15lDqO4/+82+mS6ZA8PWARkPa+IZJJ1KirWgx27ercy8+dfnf4z/FzmaqHFZ6YF4FJ0jCCfDqgR9lXVQ8kTeMaB/79lUdSXrP8+6gTtjVODBl1gZZg1gR8nhx50fbm0Wp/V0dw+lA3THLhbqs61LU0Y7urEcO3YeUtt6OA2s849y5ShxMmdV5Gtq3WJZ79x7+R+8I+FdGfJk7QWUcSg3ZpzQNpe7VIoOYXcxbIXCwayztt/STMlusghGyhDXu3OtKWGeIs7NMZJu9dVV8s92Gkbxyej8uJyyI/s1oX7bFxQx0xL4jkDt3qIsVKgJqsidYcc7NNLhxrj59v0EkY9uV5LjtPq8cqBVDaiNkwPCXfjnWVKcUpdzCkwVGtM3cTH+IcLqOH4ZDdPbUH8GMaH5hsPqutbxmwHxuLkQFNAtlQ/WHwslQJ8fZ28oQgTZmR/qMtwcUQT+ZAQZO/YLWL+ScntFyDEdrDe7CMSInqQzM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjUyOTM4NywKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTkzNzJlZmQyY2ExYTZjNmRmYzA2NmYxZWM4M2Y5NDU2NTc1YzM4NTBhMGU3ZDAxMTA5YzRmMWFmMzAwYmE4IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Grants §a+4% §7chance to find a\",3:\"§aChocolate Rabbit §7that you haven't\",4:\"§7found yet and grants §6+20 Chocolate\",5:\"§7per second.\",6:\"\",7:\"§8§oCrafted in the Factory, its\",8:\"§8§osmoothness melts hearts and tastes\",9:\"§8§olike a sweet escape.\",10:\"\",11:\"§8Works while in Accessory Bag!\",12:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aSmooth Chocolate Bar\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SMOOTH_CHOCOLATE_BAR\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"74192c84-c83b-30b0-8a23-ad6c827c8e83\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Q6zsT2Qj1RpoePMwPbIBS2U+e7FPv9tJQq1/GuCQpJY5mIG7K15i0WU1bTBGmRFW/DhQSKnlnHEkEcYsOdD8reAv55tJkhtuUmuwf27m2XUd+E/ycMbBaBAj7P5ebgbfi+uUHttM1TEo7wkZVpVU91VsYIh5Iy5z5lbxVmjxW89ajeN3d0HqT1XcGHPSAt5Rqr15lDqO4/+82+mS6ZA8PWARkPa+IZJJ1KirWgx27ercy8+dfnf4z/FzmaqHFZ6YF4FJ0jCCfDqgR9lXVQ8kTeMaB/79lUdSXrP8+6gTtjVODBl1gZZg1gR8nhx50fbm0Wp/V0dw+lA3THLhbqs61LU0Y7urEcO3YeUtt6OA2s849y5ShxMmdV5Gtq3WJZ79x7+R+8I+FdGfJk7QWUcSg3ZpzQNpe7VIoOYXcxbIXCwayztt/STMlusghGyhDXu3OtKWGeIs7NMZJu9dVV8s92Gkbxyej8uJyyI/s1oX7bFxQx0xL4jkDt3qIsVKgJqsidYcc7NNLhxrj59v0EkY9uV5LjtPq8cqBVDaiNkwPCXfjnWVKcUpdzCkwVGtM3cTH+IcLqOH4ZDdPbUH8GMaH5hsPqutbxmwHxuLkQFNAtlQ/WHwslQJ8fZ28oQgTZmR/qMtwcUQT+ZAQZO/YLWL+ScntFyDEdrDe7CMSInqQzM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxMTQ2MjUyOTM4NywKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTkzNzJlZmQyY2ExYTZjNmRmYzA2NmYxZWM4M2Y5NDU2NTc1YzM4NTBhMGU3ZDAxMTA5YzRmMWFmMzAwYmE4IgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+5\",1:\"\",2:\"§7Grants a §a+4% §7chance to find\",3:\"§aChocolate Rabbits §7you haven't found\",4:\"§7yet during §dHoppity's Hunt§7.\",5:\"\",6:\"§7Also grants §6+20 Chocolate §7per\",7:\"§7second.\",8:\"\",9:\"§8§oCrafted in the Factory, its\",10:\"§8§osmoothness melts hearts and tastes\",11:\"§8§olike a sweet escape.\",12:\"\",13:\"§8Works while in Accessory Bag!\",14:\"§a§lUNCOMMON ACCESSORY\"],Name:\"§aSmooth Chocolate Bar\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+5",
       "",
-      "§7Grants §a+4% §7chance to find a",
-      "§aChocolate Rabbit §7that you haven't",
-      "§7found yet and grants §6+20 Chocolate",
-      "§7per second.",
+      "§7Grants a §a+4% §7chance to find",
+      "§aChocolate Rabbits §7you haven't found",
+      "§7yet during §dHoppity's Hunt§7.",
+      "",
+      "§7Also grants §6+20 Chocolate §7per",
+      "§7second.",
       "",
       "§8§oCrafted in the Factory, its",
       "§8§osmoothness melts hearts and tastes",
@@ -241192,7 +241226,7 @@
     "internalname": "SMOOTH_CHOCOLATE_BAR",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.3.0-dev+mc26.2+gb8c48d14",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Smooth_Chocolate_Bar"
@@ -287197,7 +287231,7 @@
     "internalname": "WARDING_TRINKET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4c",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Warding_Trinket"
