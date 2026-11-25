@@ -6595,7 +6595,7 @@
   "ARACHNE_BELT": {
     "itemid": "minecraft:paper",
     "displayname": "§9Arachne's Belt",
-    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/combat_1/arachne_belt\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§4This item is Arachnal !\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§8§l* §8Co-op Soulbound §8§l*\",12:\"§9§lRARE BELT\"],Name:\"§9Arachne's Belt\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/combat_1/arachne_belt\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§9§lRARE BELT\"],Name:\"§9Arachne's Belt\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+10",
@@ -6603,8 +6603,6 @@
       "",
       "§8Tiered Bonus: Arachne's Faithful (0/8)",
       "§7Grants §c+5 Health §7and §a+5 Defense§7.",
-      "",
-      "§4This item is Arachnal !",
       "",
       "§eRight-click to equip!",
       "",
@@ -6615,7 +6613,7 @@
     "internalname": "ARACHNE_BELT",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Belt"
@@ -6624,7 +6622,7 @@
   "ARACHNE_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§9Arachne's Boots",
-    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+45\",1:\"§7Defense: §a+30\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§4This item is Arachnal !\",7:\"\",8:\"§8This item can be reforged!\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§9§lRARE BOOTS\"],Name:\"§9Arachne's Boots\",color:9109504}}",
+    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+45\",1:\"§7Defense: §a+30\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§8This item can be reforged!\",7:\"§8§l* §8Co-op Soulbound §8§l*\",8:\"§9§lRARE BOOTS\"],Name:\"§9Arachne's Boots\",color:9109504}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+45",
@@ -6633,8 +6631,6 @@
       "§8Tiered Bonus: Arachne's Faithful (0/8)",
       "§7Grants §c+5 Health §7and §a+5 Defense§7.",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§8§l* §8Co-op Soulbound §8§l*",
       "§9§lRARE BOOTS"
@@ -6642,7 +6638,7 @@
     "internalname": "ARACHNE_BOOTS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Boots"
@@ -6837,7 +6833,7 @@
   "ARACHNE_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§9Arachne's Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+85\",1:\"§7Defense: §a+60\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§4This item is Arachnal !\",7:\"\",8:\"§8This item can be reforged!\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§9§lRARE CHESTPLATE\"],Name:\"§9Arachne's Chestplate\",color:9109504}}",
+    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+85\",1:\"§7Defense: §a+60\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§8This item can be reforged!\",7:\"§8§l* §8Co-op Soulbound §8§l*\",8:\"§9§lRARE CHESTPLATE\"],Name:\"§9Arachne's Chestplate\",color:9109504}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+85",
@@ -6846,8 +6842,6 @@
       "§8Tiered Bonus: Arachne's Faithful (0/8)",
       "§7Grants §c+5 Health §7and §a+5 Defense§7.",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§8§l* §8Co-op Soulbound §8§l*",
       "§9§lRARE CHESTPLATE"
@@ -6855,7 +6849,7 @@
     "internalname": "ARACHNE_CHESTPLATE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Chestplate"
@@ -6864,7 +6858,7 @@
   "ARACHNE_CLOAK": {
     "itemid": "minecraft:paper",
     "displayname": "§9Arachne's Cloak",
-    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/combat_1/arachne_cloak\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§4This item is Arachnal !\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§8§l* §8Co-op Soulbound §8§l*\",12:\"§9§lRARE CLOAK\"],Name:\"§9Arachne's Cloak\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/combat_1/arachne_cloak\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§9§lRARE CLOAK\"],Name:\"§9Arachne's Cloak\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+10",
@@ -6872,8 +6866,6 @@
       "",
       "§8Tiered Bonus: Arachne's Faithful (0/8)",
       "§7Grants §c+5 Health §7and §a+5 Defense§7.",
-      "",
-      "§4This item is Arachnal !",
       "",
       "§eRight-click to equip!",
       "",
@@ -6884,7 +6876,7 @@
     "internalname": "ARACHNE_CLOAK",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Cloak"
@@ -6957,7 +6949,7 @@
   "ARACHNE_GLOVES": {
     "itemid": "minecraft:paper",
     "displayname": "§9Arachne's Gloves",
-    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_GLOVES\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/combat_1/arachne_gloves\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§4This item is Arachnal !\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§8§l* §8Co-op Soulbound §8§l*\",12:\"§9§lRARE GLOVES\"],Name:\"§9Arachne's Gloves\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_GLOVES\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/combat_1/arachne_gloves\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§9§lRARE GLOVES\"],Name:\"§9Arachne's Gloves\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+10",
@@ -6965,8 +6957,6 @@
       "",
       "§8Tiered Bonus: Arachne's Faithful (0/8)",
       "§7Grants §c+5 Health §7and §a+5 Defense§7.",
-      "",
-      "§4This item is Arachnal !",
       "",
       "§eRight-click to equip!",
       "",
@@ -6977,7 +6967,7 @@
     "internalname": "ARACHNE_GLOVES",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Gloves"
@@ -6986,7 +6976,7 @@
   "ARACHNE_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§9Arachne's Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"04e5fd31-a0f2-35fa-9182-b6058c1737fd\",Properties:{textures:[0:{Name:\"textures\",Signature:\"aL2uouw0V34olY64v1gl6Gbb6d63BZNqXNckkG2YcxAmW/LDiOx1qiRUClIBHDNZE831yTu7c4iZ80prObX8ShEjKemPgD8c7ERH+9lzUMvCYSSfE3d2TOp+kjPp5HylFcSBWK9dC8m/GTO8YdiX781QW0IG36I2c3rk5jCwcwxnLvv7lN665iD9HIW2D8DBWwj82Vqdu+LmLGZtw8aw5NM95nRQhdB6F2GiL2WwsF8XIa5T8T1dYKbyQsdYUUuuXTpRxXr7zPvSWxsoJVuEbpwQ/ZTt8I9rmw+UI0uYJ/ZkND4KDrErHMkBdSpiamNfULMuzf18czNAveyYEryFObVt7o+iD2Z8ynmmlrZvKULkphe03Xq8DZQZLUDeJ9KO8XXuUFTtoxZS9tqFwNA5rW9bgmVL9lIzCYiQ30uCp1ZhHWWbxTNsNsvke4t+QCe8Wxh+oMmGfFrW5IGX8A1mIdXV8WJ5+VmBvPuUSTETaI2OxNE0ivspN2pqYHnjfemdAtVd23JRdRzEaKUZLXtjNeHbcKopyrgXTMBpxBVLLMUCYzXiT5yBEazHLApIqxLVGBoRw8NMM1j6OwVK7zZiXkVFWccIFQzo17Et9SMYmMItypa428qbgi/C/LTgERZT32QjlL3rZFJBtQoRBUFlT9ycAr8Gwq70iv5zjzfJQV8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjcxNDQyNCwKICAicHJvZmlsZUlkIiA6ICIwMDc4NzVkOTI0ZWI0ZGMxODUxZGY5MWFiYTdmZjg3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphMkIyVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMDUwNWYxZTk3NjVlNDdlN2ZiOTIwOGUyYWQ4ZjE3MTY2OGRlY2YzOTQ2NWVjNDBkM2E1ODlmOGNiZWI5NzIyIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+55\",1:\"§7Defense: §a+40\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§4This item is Arachnal !\",7:\"\",8:\"§8This item can be reforged!\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§9§lRARE HELMET\"],Name:\"§9Arachne's Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"04e5fd31-a0f2-35fa-9182-b6058c1737fd\",Properties:{textures:[0:{Name:\"textures\",Signature:\"aL2uouw0V34olY64v1gl6Gbb6d63BZNqXNckkG2YcxAmW/LDiOx1qiRUClIBHDNZE831yTu7c4iZ80prObX8ShEjKemPgD8c7ERH+9lzUMvCYSSfE3d2TOp+kjPp5HylFcSBWK9dC8m/GTO8YdiX781QW0IG36I2c3rk5jCwcwxnLvv7lN665iD9HIW2D8DBWwj82Vqdu+LmLGZtw8aw5NM95nRQhdB6F2GiL2WwsF8XIa5T8T1dYKbyQsdYUUuuXTpRxXr7zPvSWxsoJVuEbpwQ/ZTt8I9rmw+UI0uYJ/ZkND4KDrErHMkBdSpiamNfULMuzf18czNAveyYEryFObVt7o+iD2Z8ynmmlrZvKULkphe03Xq8DZQZLUDeJ9KO8XXuUFTtoxZS9tqFwNA5rW9bgmVL9lIzCYiQ30uCp1ZhHWWbxTNsNsvke4t+QCe8Wxh+oMmGfFrW5IGX8A1mIdXV8WJ5+VmBvPuUSTETaI2OxNE0ivspN2pqYHnjfemdAtVd23JRdRzEaKUZLXtjNeHbcKopyrgXTMBpxBVLLMUCYzXiT5yBEazHLApIqxLVGBoRw8NMM1j6OwVK7zZiXkVFWccIFQzo17Et9SMYmMItypa428qbgi/C/LTgERZT32QjlL3rZFJBtQoRBUFlT9ycAr8Gwq70iv5zjzfJQV8=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2NzgzMjcxNDQyNCwKICAicHJvZmlsZUlkIiA6ICIwMDc4NzVkOTI0ZWI0ZGMxODUxZGY5MWFiYTdmZjg3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXphMkIyVCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xMDUwNWYxZTk3NjVlNDdlN2ZiOTIwOGUyYWQ4ZjE3MTY2OGRlY2YzOTQ2NWVjNDBkM2E1ODlmOGNiZWI5NzIyIgogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+55\",1:\"§7Defense: §a+40\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§8This item can be reforged!\",7:\"§8§l* §8Co-op Soulbound §8§l*\",8:\"§9§lRARE HELMET\"],Name:\"§9Arachne's Helmet\"}}",
     "damage": 3,
     "lore": [
       "§7Health: §c+55",
@@ -6995,8 +6985,6 @@
       "§8Tiered Bonus: Arachne's Faithful (0/8)",
       "§7Grants §c+5 Health §7and §a+5 Defense§7.",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§8§l* §8Co-op Soulbound §8§l*",
       "§9§lRARE HELMET"
@@ -7004,7 +6992,7 @@
     "internalname": "ARACHNE_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Helmet"
@@ -7035,7 +7023,7 @@
   "ARACHNE_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§9Arachne's Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+75\",1:\"§7Defense: §a+50\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§4This item is Arachnal !\",7:\"\",8:\"§8This item can be reforged!\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§9§lRARE LEGGINGS\"],Name:\"§9Arachne's Leggings\",color:9109504}}",
+    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+75\",1:\"§7Defense: §a+50\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§8This item can be reforged!\",7:\"§8§l* §8Co-op Soulbound §8§l*\",8:\"§9§lRARE LEGGINGS\"],Name:\"§9Arachne's Leggings\",color:9109504}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+75",
@@ -7044,8 +7032,6 @@
       "§8Tiered Bonus: Arachne's Faithful (0/8)",
       "§7Grants §c+5 Health §7and §a+5 Defense§7.",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§8§l* §8Co-op Soulbound §8§l*",
       "§9§lRARE LEGGINGS"
@@ -7053,7 +7039,7 @@
     "internalname": "ARACHNE_LEGGINGS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Leggings"
@@ -7062,7 +7048,7 @@
   "ARACHNE_NECKLACE": {
     "itemid": "minecraft:paper",
     "displayname": "§9Arachne's Necklace",
-    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_NECKLACE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/combat_1/arachne_necklace\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§4This item is Arachnal !\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§8§l* §8Co-op Soulbound §8§l*\",12:\"§9§lRARE NECKLACE\"],Name:\"§9Arachne's Necklace\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ARACHNE_NECKLACE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/combat_1/arachne_necklace\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"\",3:\"§8Tiered Bonus: Arachne's Faithful (0/8)\",4:\"§7Grants §c+5 Health §7and §a+5 Defense§7.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§9§lRARE NECKLACE\"],Name:\"§9Arachne's Necklace\"}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+10",
@@ -7070,8 +7056,6 @@
       "",
       "§8Tiered Bonus: Arachne's Faithful (0/8)",
       "§7Grants §c+5 Health §7and §a+5 Defense§7.",
-      "",
-      "§4This item is Arachnal !",
       "",
       "§eRight-click to equip!",
       "",
@@ -7082,7 +7066,7 @@
     "internalname": "ARACHNE_NECKLACE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Arachne%27s_Necklace"
@@ -55869,7 +55853,7 @@
   "CRYPT_DREADLORD_SWORD": {
     "itemid": "minecraft:iron_sword",
     "displayname": "§9Dreadlord Sword",
-    "nbttag": "{ExtraAttributes:{id:\"CRYPT_DREADLORD_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/dreadlord_sword\",display:{Lore:[0:\"§7Gear Score: §d118\",1:\"§7Damage: §c+52\",2:\"§7Strength: §c+23\",3:\"§7Intelligence: §b+85\",4:\"\",5:\"§6Ability: Dreadlord §e§lRIGHT CLICK\",6:\"§7Shoot a skull that deals §a504§7 damage.\",7:\"§8Mana Cost: §b40\",8:\"\",9:\"§8This item can be reforged!\",10:\"§4❣ §cRequires Catacombs Skill 3.\",11:\"§9§lRARE DUNGEON SWORD\"],Name:\"§9Dreadlord Sword\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"CRYPT_DREADLORD_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/dreadlord_sword\",display:{Lore:[0:\"§7Gear Score: §d118\",1:\"§7Damage: §c+52\",2:\"§7Strength: §c+23\",3:\"§7Intelligence: §b+85\",4:\"\",5:\"§6Ability: Dreadlord §e§lRIGHT CLICK\",6:\"§7Shoot a skull that deals §a500§7 damage.\",7:\"§8Mana Cost: §b40\",8:\"\",9:\"§8This item can be reforged!\",10:\"§4❣ §cRequires Catacombs Skill 3.\",11:\"§9§lRARE DUNGEON SWORD\"],Name:\"§9Dreadlord Sword\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d118",
@@ -55878,7 +55862,7 @@
       "§7Intelligence: §b+85",
       "",
       "§6Ability: Dreadlord §e§lRIGHT CLICK",
-      "§7Shoot a skull that deals §a504§7 damage.",
+      "§7Shoot a skull that deals §a500§7 damage.",
       "§8Mana Cost: §b40",
       "",
       "§8This item can be reforged!",
@@ -55888,7 +55872,7 @@
     "internalname": "CRYPT_DREADLORD_SWORD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Dreadlord_Sword"
@@ -68388,8 +68372,8 @@
   },
   "EARTH_SHARD": {
     "itemid": "minecraft:stone_sword",
-    "displayname": "§5Earthen Blade",
-    "nbttag": "{ExtraAttributes:{id:\"EARTH_SHARD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/earth_shard\",display:{Lore:[0:\"§7Gear Score: §d261\",1:\"§7Defense: §a+73\",2:\"§7Damage: §c+105\",3:\"\",4:\"§7This shard automatically adapts to\",5:\"§7its user inside Dungeons, allowing\",6:\"§7you to perform your class ability.\",7:\"§7Reduces the cooldown of §9Seismic\",8:\"§9Wave §7by §a2s§7.\",9:\"\",10:\"§eRight-click to use your class ability!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires Catacombs Skill 19.\",14:\"§5§lEPIC DUNGEON SWORD\"],Name:\"§5Earthen Blade\"}}",
+    "displayname": "§9Earthen Blade",
+    "nbttag": "{ExtraAttributes:{id:\"EARTH_SHARD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/earth_shard\",display:{Lore:[0:\"§7Gear Score: §d261\",1:\"§7Defense: §a+73\",2:\"§7Damage: §c+105\",3:\"\",4:\"§7This shard automatically adapts to\",5:\"§7its user inside Dungeons, allowing\",6:\"§7you to perform your class ability.\",7:\"§7Reduces the cooldown of §9Seismic\",8:\"§9Wave §7by §a2s§7.\",9:\"\",10:\"§eRight-click to use your class ability!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires Catacombs Skill 19.\",14:\"§9§lRARE DUNGEON SWORD\"],Name:\"§9Earthen Blade\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d261",
@@ -68406,12 +68390,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 19.",
-      "§5§lEPIC DUNGEON SWORD"
+      "§9§lRARE DUNGEON SWORD"
     ],
     "internalname": "EARTH_SHARD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Earthen_Blade"
@@ -90600,6 +90584,33 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Filled_Rosewater_Flask"
     ]
+  },
+  "FINAL_DESTINATION_ATLAS": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Atlas Skin",
+    "nbttag": "{ExtraAttributes:{id:\"FINAL_DESTINATION_ATLAS\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"884d2685-a257-3cf8-80ff-479c701f2cbb\",Properties:{textures:[0:{Name:\"textures\",Signature:\"bA51+zFPqwS+DP4bqjFPBZQvSHRC/y5Trfgu7WOydNJGXoGEptTOI+jmszJxYF262JZhtiQ8GonH6bGMKi5JO6TKQBEH/Iq/SjkKEq7DZ/wTwaOYzbBjKafAXH5RLfe8zEa5mFBqwf6+n9n0ZMn63DiiMfhHZ4m+ieXdKWHDnqdM6vKSzGn/or59vrNV/dKrjA81DsI468pO44vMot7w5EdWpIzy6OFV3+1y78WycVPo9b8YI2yykKZDfZjoZzeFEArIO2ucQNV507vr1d9S4TPSgIipxYYLGaCFZBLciHOiHWuXSqzbN4KLqbb8I9RtuJERfTRCut0WcNtAeZhyw/HIkpwJGdmlAtURpNBm/q361LMYrwPyINfjdZxN9wL92jz6K1hlcdIXY3jGJKyci1Iq/TVN+0h0pPk6pfxZW6intAjAu/nGR5uVcJRATMmb99BxVBtWbQ2vrH9GfS6Wz/IsgZ+obLVIJAA897MdDCLZ1KdQn09LRoRDiObDTNNJuWYFG2R/WOaDP8v0zX3zFEilNL/OQDAkVw3EtfGK9IMO4zZm+Qo/ppTDZKL26QSTzVJ3F8kowaUovjF3rC1cNTZ0oo91nEF9GhVVfSHSN/qSdjZFF+5MMr0v6IqTmi56Dot8EGTtzB3nkZLC2IINyKssg2bKqS6bIUd8jHeTzng=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5Mzc5MDA4MzIzMywKICAicHJvZmlsZUlkIiA6ICJlYWYzOTY1YTFmMTk0NjBjYjVkYzIzYzRlYTA5ZDk1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJiaWdpYmFzMTIzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzNWRiMzY4NzBlMDlhMWQ4NWVmMWQxMDc3OThlZjdjNmI2OTJiMDU0Y2RlMjE3NWUzZTI1YTg1MDllY2FhNWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §6Final\",7:\"§6Destination Helmet§7.\",8:\"\",9:\"§aThis skin is swappable between 21\",10:\"§aatlas variants!\",11:\"\",12:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Atlas Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §6Final",
+      "§6Destination Helmet§7.",
+      "",
+      "§aThis skin is swappable between 21",
+      "§aatlas variants!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "FINAL_DESTINATION_ATLAS",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
+    "infoType": "",
+    "info": []
   },
   "FINAL_DESTINATION_BOOTS": {
     "itemid": "minecraft:leather_boots",
@@ -120642,6 +120653,38 @@
       }
     ]
   },
+  "HELIX_ELVEN": {
+    "itemid": "minecraft:skull",
+    "displayname": "§4Elven Helix Helmet Skin",
+    "nbttag": "{ExtraAttributes:{id:\"HELIX_ELVEN\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"9bba105a-fe06-32fe-825d-0e9ef5b81fd4\",Properties:{textures:[0:{Name:\"textures\",Signature:\"K2jDzwlgJwWi73xEarhj4/gfk0COeLFe5gbtfJZYsPHXDScYDX/HhW9bsLdq3SmWtYQdO3hc5jgoddktmVtZi2bGj6Z6Lao8pYU07NmKKYvBTDtr3UGOLVrJz4sb0BZgLW1QvccAKeg4JQ/eEiBZK2WOMajxAJjeN0iyUaNb50n70T15dlboZMOeW1x96OErPhpV5klZmfHXBg4BcJP2HyMi58wl5qz3y7JeCX7OSzCiaRWOPajp6HdM0lnPX48ewCJU/9uN3E8fQBtHwwUKPPpGyb3QmWOgTZqZeJYCCuml/5iVa2lvdX4TNkYrd7hhV8pCeYx7wLxzuKS3wOTXi2U8Gg4Kqqi3odd4ma+2svhYiqkwc5gAgXUBnrO+1BAz4f4i6KKbhnhkNUBa6HOPoC8cfJ0YY93V3/pOj1jOBj4MgZNbTt5wBPlAsLCh8WDPxbQE8YqbjMnOqCENFRlAp8rDvedwq2Ju4O6TqggfvbbwyCGTtd8mbDkPhBep9eMmNkw6bVm628hW4rI7uvWqDnKbwcl9mPY/D39ideg39D4e6eODeVS9YyL3uvaYMIhzgx6ge4zVwLx1f/46Gutp38N96mIpUQc4ZW5QpKL2QZdqoFXURHlh2fMs/LwiEAUnWtrO0CC29Yc4AJCQKRNYo1M/+AQ+hz/ifbreJ21zaSI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5Mzc3ODc5NzIxMCwKICAicHJvZmlsZUlkIiA6ICJlOThhZTBlMTI5MDg0ZDA5OTk0MTg4N2Q2YTk0ZTI2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXh5SGF1c2VNYXN0ZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU1NTNkZmFkY2NmNjcyNzU2MzJlYTIwM2E0NzJlMjgzNzk5NTM2M2U0YWVkM2MzZmQ5NTRlNDczOWY1NWMxNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§7Item skins give your gear a fresh\",3:\"§7new look! Apply them just like an\",4:\"§7enchant book using the anvil.\",5:\"\",6:\"§7This skin can be applied to §aCanopy\",7:\"§aMask§7, §9Fig Cap§7, and §5Helix Helmet§7.\",8:\"\",9:\"§aFeatures!\",10:\"§8▶ §7This skin is swappable between\",11:\"§a306 §7Elven variants.\",12:\"§8▶ §7Keeps track of §fTree Gifts\",13:\"§7participated in while wearing this skin.\",14:\"§8▶ §7Changes your §fTree Gift\",15:\"§7appearance to §5orbiting rings§7!\",16:\"\",17:\"§4§lULTIMATE COSMETIC\"],Name:\"§4Elven Helix Helmet Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Combinable in Anvil",
+      "",
+      "§7Item skins give your gear a fresh",
+      "§7new look! Apply them just like an",
+      "§7enchant book using the anvil.",
+      "",
+      "§7This skin can be applied to §aCanopy",
+      "§aMask§7, §9Fig Cap§7, and §5Helix Helmet§7.",
+      "",
+      "§aFeatures!",
+      "§8▶ §7This skin is swappable between",
+      "§a306 §7Elven variants.",
+      "§8▶ §7Keeps track of §fTree Gifts",
+      "§7participated in while wearing this skin.",
+      "§8▶ §7Changes your §fTree Gift",
+      "§7appearance to §5orbiting rings§7!",
+      "",
+      "§4§lULTIMATE COSMETIC"
+    ],
+    "internalname": "HELIX_ELVEN",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
+    "infoType": "",
+    "info": []
+  },
   "HELIX_LOG": {
     "itemid": "minecraft:paper",
     "displayname": "§fHelix Log",
@@ -128054,8 +128097,8 @@
   },
   "ICE_SPRAY_WAND": {
     "itemid": "minecraft:stick",
-    "displayname": "§9Ice Spray Wand",
-    "nbttag": "{ExtraAttributes:{id:\"ICE_SPRAY_WAND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/ice_spray_wand\",display:{Lore:[0:\"§7Gear Score: §d131\",1:\"§7Damage: §c+52\",2:\"§7Intelligence: §b+118\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Ability: Ice Spray §e§lRIGHT CLICK\",6:\"§7Produces a cone of ice in front of the caster\",7:\"§7that deals §c17,000 §7damage to mobs and freezes\",8:\"§7them in place for §e5 §7seconds! Frozen mobs\",9:\"§7take §c10%§7 increased damage!\",10:\"§8Mana Cost: §b50\",11:\"§8Cooldown: §a5s\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires Catacombs Skill 20.\",15:\"§9§lRARE DUNGEON SWORD\"],Name:\"§9Ice Spray Wand\"},ench:[]}",
+    "displayname": "§6Ice Spray Wand",
+    "nbttag": "{ExtraAttributes:{id:\"ICE_SPRAY_WAND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/ice_spray_wand\",display:{Lore:[0:\"§7Gear Score: §d131\",1:\"§7Damage: §c+52\",2:\"§7Intelligence: §b+118\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Ability: Ice Spray §e§lRIGHT CLICK\",6:\"§7Produces a cone of ice in front of the caster\",7:\"§7that deals §c17,000 §7damage to mobs and freezes\",8:\"§7them in place for §e5 §7seconds! Frozen mobs\",9:\"§7take §c10%§7 increased damage!\",10:\"§8Mana Cost: §b50\",11:\"§8Cooldown: §a5s\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires Catacombs Skill 20.\",15:\"§6§lLEGENDARY DUNGEON SWORD\"],Name:\"§6Ice Spray Wand\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d131",
@@ -128073,12 +128116,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 20.",
-      "§9§lRARE DUNGEON SWORD"
+      "§6§lLEGENDARY DUNGEON SWORD"
     ],
     "internalname": "ICE_SPRAY_WAND",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ice_Spray_Wand"
@@ -134031,14 +134074,14 @@
   "JADE_DRAGON;4": {
     "itemid": "minecraft:skull",
     "displayname": "§7[Lvl {LVL}] §6Jade Dragon",
-    "nbttag": "{ExtraAttributes:{id:\"JADE_DRAGON;4\",petInfo:\"{\\\"type\\\":\\\"JADE_DRAGON\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"06d1ce77-5544-35fb-881b-0b717e744d06\",Properties:{textures:[0:{Name:\"textures\",Signature:\"SX7ModB6VdusTZuzB5itHF73yZW3Qd6YvSiSbJHMX+qPl2g+BOcK7XUl8JZM3UGm9iclF4XpyOesu3lIVQWcswBIf/4lqQTvAGeBkyz1u1Orkv/fzfDtxMuAZRxRJa0sGxpIs2+grS9r7Y+kge+1uu25WCVerYL4h6MIfe0LGLeicekUR3UgT1nbr/FdCMBK7dlTbs5m51c3WC3dd5tcSP8lmNIApweYqm2308DuZZt2irsoHIEihHDdYIk+6ABOILtIr62lJ2/jwvdotRC+3OYkWykb+52CqETI2QrpCF8Di0VlV8Fw/O9mFIXUdeP1w74ret9REhukwTf/i3OKLvSXTuRYD6fJVisxbA/5NhDZGfpKZGGOV3H9schorpTg1kXvJ/URMwC6R8iOlpsPBnTAjQLtOpbNrA9ZaVtQozs7R0DesJi/AkQTnW4Z4NK3vw32PqZ0U6pW4DiZaFcuvxNXTEbI7neIU6ni5XuT/NYTxYQ7Ll01WG1nOJpPN9Jge78FT5aUIb5bmVXh6I9Ig9UGUD5CM5OfHZ5QvagqJ+GLKkeDykMKu3dhvEMaXGszqywp3Ls5TRDF8dpCoXmNq0S+4vqhgo5ULVoBsmvQcaUVdWRGNreHwRQO0IjueCVKc71lyKNX0Q2FniRsVEf58Pic/Z0uqT++UPAEPer55gk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNzE2MjM3NiwKICAicHJvZmlsZUlkIiA6ICI0NmNhODkyZTY4ODA0YThmYjFkYzkwYjg0ZTY5ZjVmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbG8xNjA2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQwOTk1ODk3OTZkZTE4NTc4N2FiOTJjMzA2NmQwZDBhZjgzMmZmYWQ3MTUzYTQyYmIyZTJkMjM1OThlN2VhNjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+{STRENGTH}\",3:\"§7Magic Find: §b+{MAGIC_FIND}\",4:\"§7Foraging Fortune: §6+{FORAGING_FORTUNE}\",5:\"\",6:\"§6Forest Power\",7:\"§7Adds §c{0} Strength §7and §f{1} Speed\",8:\"§7to all your Axes.\",9:\"\",10:\"§6Jade Scale\",11:\"§7Grants §615 Foraging Fortune §7and\",12:\"§24 Sweep §7for every digit in your\",13:\"§aMangrove Collection§7.\",14:\"§8(Max 10M collection)\",15:\"\",16:\"§6Dragon's Pride\",17:\"§7Grants §61 Foraging Fortune §7per §25\",18:\"§2Sweep§7.\",19:\"\",20:\"§6Apex Predator\",21:\"§7Increase your total §2 Sweep §7by\",22:\"§20.1% §7for every Maxed out Attribute\",23:\"§7you unlocked.\",24:\"\",25:\"§6Symbiosis\",26:\"§7If you own a level §a200 Jade Dragon§7,\",27:\"§7grants §6+4 Foraging Fortune §7for\",28:\"§7every other unique maxed §aForaging\",29:\"§aPet §7that you own.\",30:\"\",31:\"§6§lLEGENDARY PET\"],Name:\"§7[Lvl {LVL}] §6Jade Dragon\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"JADE_DRAGON;4\",petInfo:\"{\\\"type\\\":\\\"JADE_DRAGON\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"06d1ce77-5544-35fb-881b-0b717e744d06\",Properties:{textures:[0:{Name:\"textures\",Signature:\"SX7ModB6VdusTZuzB5itHF73yZW3Qd6YvSiSbJHMX+qPl2g+BOcK7XUl8JZM3UGm9iclF4XpyOesu3lIVQWcswBIf/4lqQTvAGeBkyz1u1Orkv/fzfDtxMuAZRxRJa0sGxpIs2+grS9r7Y+kge+1uu25WCVerYL4h6MIfe0LGLeicekUR3UgT1nbr/FdCMBK7dlTbs5m51c3WC3dd5tcSP8lmNIApweYqm2308DuZZt2irsoHIEihHDdYIk+6ABOILtIr62lJ2/jwvdotRC+3OYkWykb+52CqETI2QrpCF8Di0VlV8Fw/O9mFIXUdeP1w74ret9REhukwTf/i3OKLvSXTuRYD6fJVisxbA/5NhDZGfpKZGGOV3H9schorpTg1kXvJ/URMwC6R8iOlpsPBnTAjQLtOpbNrA9ZaVtQozs7R0DesJi/AkQTnW4Z4NK3vw32PqZ0U6pW4DiZaFcuvxNXTEbI7neIU6ni5XuT/NYTxYQ7Ll01WG1nOJpPN9Jge78FT5aUIb5bmVXh6I9Ig9UGUD5CM5OfHZ5QvagqJ+GLKkeDykMKu3dhvEMaXGszqywp3Ls5TRDF8dpCoXmNq0S+4vqhgo5ULVoBsmvQcaUVdWRGNreHwRQO0IjueCVKc71lyKNX0Q2FniRsVEf58Pic/Z0uqT++UPAEPer55gk=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjQzNzE2MjM3NiwKICAicHJvZmlsZUlkIiA6ICI0NmNhODkyZTY4ODA0YThmYjFkYzkwYjg0ZTY5ZjVmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbG8xNjA2IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQwOTk1ODk3OTZkZTE4NTc4N2FiOTJjMzA2NmQwZDBhZjgzMmZmYWQ3MTUzYTQyYmIyZTJkMjM1OThlN2VhNjAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Foraging Pet\",1:\"\",2:\"§7Strength: §c+{STRENGTH}\",3:\"§7Foraging Fortune: §6+{FORAGING_FORTUNE}\",4:\"§7Timber: §4+{TIMBER}%\",5:\"\",6:\"§6Forest Power\",7:\"§7Adds §c{0} Strength §7and §f{1} Speed\",8:\"§7to all your Axes.\",9:\"\",10:\"§6Jade Scale\",11:\"§7Grants §615 Foraging Fortune §7and\",12:\"§24 Sweep §7for every digit in your\",13:\"§aMangrove Collection§7.\",14:\"§8(Max 10M collection)\",15:\"\",16:\"§6Dragon's Pride\",17:\"§7Grants §61 Foraging Fortune §7per §25\",18:\"§2Sweep§7.\",19:\"\",20:\"§6Apex Predator\",21:\"§7Increase your total §2 Sweep §7by\",22:\"§20.1% §7for every Maxed out Attribute\",23:\"§7you unlocked.\",24:\"\",25:\"§6Symbiosis\",26:\"§7If you own a level §a200 Jade Dragon§7,\",27:\"§7grants §6+4 Foraging Fortune §7for\",28:\"§7every other unique maxed §aForaging\",29:\"§aPet §7that you own.\",30:\"\",31:\"§eRight-click to add this pet to your pet menu!\",32:\"\",33:\"§6§lLEGENDARY PET\"],Name:\"§7[Lvl {LVL}] §6Jade Dragon\"}}",
     "damage": 3,
     "lore": [
       "§8Foraging Pet",
       "",
       "§7Strength: §c+{STRENGTH}",
-      "§7Magic Find: §b+{MAGIC_FIND}",
       "§7Foraging Fortune: §6+{FORAGING_FORTUNE}",
+      "§7Timber: §4+{TIMBER}%",
       "",
       "§6Forest Power",
       "§7Adds §c{0} Strength §7and §f{1} Speed",
@@ -134065,12 +134108,14 @@
       "§7every other unique maxed §aForaging",
       "§aPet §7that you own.",
       "",
+      "§eRight-click to add this pet to your pet menu!",
+      "",
       "§6§lLEGENDARY PET"
     ],
     "internalname": "JADE_DRAGON;4",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Jade_Dragon_Pet"
@@ -184946,6 +184991,36 @@
       "https://hypixelskyblock.minecraft.wiki/w/Pastel_Ender_Dragon_Skin"
     ]
   },
+  "PET_SKIN_EAGLE_PLUSH": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Plush Eagle Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_EAGLE_PLUSH\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"b2a05032-8ffc-32e7-ab15-e0e48e7519ec\",Properties:{textures:[0:{Name:\"textures\",Signature:\"EyageR+267GmEA1A+8UEYzfHBNsCgiwP8I3/gYQi0g/S41V4jbVSlfP/w7Xh+sD0vlvqIka6iDx6PNkVagOOA6l0UwhSlQxtEA6RBTAuX1Y3kqJY9fuX5Z2HJNjPgJdQ5ci/17DnvFf0ARi3L35POBNoTA2LT0sQrXMdUZEzlnY88FTYCwqj6uiCcYxwzk7+ISsGGk+bODCU6nIPbsEexCdUO8dn+7sGD1HBgy2iCNe3dWzPf2lo9rQS95xeLieUfcGbIvxlnTw4FNitCiVkQQr1noYtdEzRTsoaq1IfP4KCF7VY8c3GsCfZKyXKipA0H1+bSjDdWR8u936OUhVk1/wNntSLfHuqE+Luv3hdIxWb9nfe7hMJE0cIC6BYotVj4cnRikJrI8hTD4FqXGQmGYCNIL37uSpBcgaac6kIKYQeThHc3InKN5RXFv+8kTjc47KrcyP3JCq/I7NUXH0/Fa0soWgAZ8wCUWwXJcVYHNhKLtP/QXN3sKGIijhsEwM3x8NszYtdI2TejDv2a+GzzNjJjudGbelSm5+jpc26WIujHLWX3cxdLU35mq7dVpdVS1AAzxfg4F4rbg2L3HWuMuZbjo89a2EIVYGXQ4z0wCjSOjyPYDa1btvIerWYuaVXQvpHDljgXgugX2x3vEXyjK1R0T1qxQUb60MnpiFxyRA=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5Mzc4ODU4OTgwOCwKICAicHJvZmlsZUlkIiA6ICIwYmEyOTY4NDc3ZTc0NjYwODAzYThlOWIxMmQwNGU3NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQbHNQdWxsTWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTQyMjE3ODI2OWFhMjUxNGZiMjVlYzRlNzEzODllZjA1YWJiYjczZGNhOTU2NjI5ZWYwMGFjNzQ2MDlkMTFlMCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aEagle§7 pets.\",8:\"\",9:\"§aThis skin adapts to the day-night\",10:\"§acycle!\",11:\"\",12:\"§eRight-click on your summoned pet to\",13:\"§eapply this skin!\",14:\"\",15:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Plush Eagle Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aEagle§7 pets.",
+      "",
+      "§aThis skin adapts to the day-night",
+      "§acycle!",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "PET_SKIN_EAGLE_PLUSH",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
+    "infoType": "",
+    "info": []
+  },
   "PET_SKIN_ELEMENTAL_AIR_SPIRIT": {
     "itemid": "minecraft:skull",
     "displayname": "§5Elemental Air Spirit Skin",
@@ -190941,6 +191016,36 @@
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Lunar_Snake_Scatha_Skin"
     ]
+  },
+  "PET_SKIN_SCATHA_MECHA": {
+    "itemid": "minecraft:skull",
+    "displayname": "§6Mecha Scatha Skin",
+    "nbttag": "{ExtraAttributes:{id:\"PET_SKIN_SCATHA_MECHA\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"897e4f3a-c9d7-35d4-aaa6-6a85c1e0ef15\",Properties:{textures:[0:{Name:\"textures\",Signature:\"i1UuY5KUDatrVlUOSGlOK01RvrYeziMpQYLrSsEPsf3kDO8JURGbp/Yblm9XV7lXkGVqdaPBd2zSZ4haogEFV7gV/o55T9G4qOnXMaAfXVO0Xay72zgpB/bUT5rlkRSHBvbXYHL2qkun5xAxfK2TtFwZSGvKY/wWuJKrfbPplWECb1seWQs53l+2HsKHnJefmt/HB23RkLUXkgNsyCLMyS7fAdxDhczzMtZ/KVkDsmrwwZ0Jou9SgcwE8lsKwF4/z7bkjfezD+qu6mCpPEvqKQEIjwYW1Zk8IMDxo3tUgW8X+9UF6ZGFdKH7PBGM94NOmxyPHeUbjXtWXUEzVOEs1zWIFRlcdFtYtoXG1xFSijupCBRyQ/R6DPMTf0g6ykph/VzyC2ZScmDnNFknElc1sJvyx1iq17bxrCd0g+pgyYXutDxKS4mJy0hTTBTVM3nt3h8T6dq+wcfhFk/5TVozcCiNJr0ia/4rMedD+ZfbDBCH2rPBNlflCV6aaVivEyF2tT+SzG53F+m0h4VKB3Z7xJWykro0HcZMrejwIiTrJqnSX65SrNJjPntR84TpMggvKGVLo0OSQIuOWWzGnFoz7WoESBs5xmQxCBl4XP9QmU+bchSbOGqKtNL+9Rm45Qbow0eiiB+V3IjjOzUvc/1y9hdSC41s3IucOWZE1g3Qp/Y=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc5Mzc4ODkyODE2OCwKICAicHJvZmlsZUlkIiA6ICIyOGQyZDFmZDEyNGY0NGMyOGYxZDgwNDY4NGFkOTA2ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlmZnRvcGlhNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MjA4YjM2MTA2MDM5MWRiZTQyNGNiYTE5NTBiZmY5ODU4NTlhMzNkYzE1YzQ4YmI5N2ZkMzFkZGMyZTcwYjBhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§8Consumed on use\",1:\"\",2:\"§7Pet skins change the look and\",3:\"§7particle trail of your pet but only\",4:\"§7one skin can be active at a time!\",5:\"\",6:\"§7This skin can only be applied to\",7:\"§aScatha§7 pets.\",8:\"\",9:\"§aThis skin will allow you to swap\",10:\"§abetween 16 mecha themed scathas!\",11:\"\",12:\"§eRight-click on your summoned pet to\",13:\"§eapply this skin!\",14:\"\",15:\"§6§lLEGENDARY COSMETIC\"],Name:\"§6Mecha Scatha Skin\"}}",
+    "damage": 3,
+    "lore": [
+      "§8Consumed on use",
+      "",
+      "§7Pet skins change the look and",
+      "§7particle trail of your pet but only",
+      "§7one skin can be active at a time!",
+      "",
+      "§7This skin can only be applied to",
+      "§aScatha§7 pets.",
+      "",
+      "§aThis skin will allow you to swap",
+      "§abetween 16 mecha themed scathas!",
+      "",
+      "§eRight-click on your summoned pet to",
+      "§eapply this skin!",
+      "",
+      "§6§lLEGENDARY COSMETIC"
+    ],
+    "internalname": "PET_SKIN_SCATHA_MECHA",
+    "clickcommand": "",
+    "crafttext": "",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
+    "infoType": "",
+    "info": []
   },
   "PET_SKIN_SCATHA_ZODIAC_SNAKE": {
     "itemid": "minecraft:skull",
@@ -204252,7 +204357,7 @@
   "PRIMORDIAL_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§6Primordial Boots",
-    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+75\",1:\"§7Defense: §a+90\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+75\",4:\"§7Speed: §f+15\",5:\"§7Gemstones: §8[⚔]\",6:\"\",7:\"§8Tiered Bonus: Octodexterity (0/4)\",8:\"§7Every 3rd strike, deal §c+50% \",9:\"§cDamage §7and apply §2Venom§7 reducing\",10:\"§7healing by §210% §7for §a4 §7seconds.\",11:\"\",12:\"§6Piece Bonus: Spider Bulwark\",13:\"§7Kill Spiders to accumulate defense\",14:\"§7against them.\",15:\"§7Piece Bonus: §a+0\",16:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",17:\"\",18:\"§6Ability: Double Jump\",19:\"§7Allows you to double jump by\",20:\"§7sneaking mid air!\",21:\"§8Mana Cost: §b20\",22:\"\",23:\"§4This item is Arachnal !\",24:\"\",25:\"§8This item can be reforged!\",26:\"§4☠ §cRequires §5Spider Slayer 7§c.\",27:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Primordial Boots\",color:923446}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+75\",1:\"§7Defense: §a+90\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+75\",4:\"§7Speed: §f+15\",5:\"§7Gemstones: §8[⚔]\",6:\"\",7:\"§8Tiered Bonus: Octodexterity (0/4)\",8:\"§7Every 3rd strike, deal §c+50% \",9:\"§cDamage §7and apply §2Venom§7 reducing\",10:\"§7healing by §210% §7for §a4 §7seconds.\",11:\"\",12:\"§6Piece Bonus: Spider Bulwark\",13:\"§7Kill Spiders to accumulate defense\",14:\"§7against them.\",15:\"§7Piece Bonus: §a+0\",16:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",17:\"\",18:\"§6Ability: Double Jump §e§lDOUBLE TAP JUMP\",19:\"§7Allows you to double jump mid air!\",20:\"§8Mana Cost: §b20\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Spider Slayer 7§c.\",24:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Primordial Boots\",color:923446}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+75",
@@ -204273,12 +204378,9 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§6Ability: Double Jump",
-      "§7Allows you to double jump by",
-      "§7sneaking mid air!",
+      "§6Ability: Double Jump §e§lDOUBLE TAP JUMP",
+      "§7Allows you to double jump mid air!",
       "§8Mana Cost: §b20",
-      "",
-      "§4This item is Arachnal !",
       "",
       "§8This item can be reforged!",
       "§4☠ §cRequires §5Spider Slayer 7§c.",
@@ -204287,7 +204389,7 @@
     "internalname": "PRIMORDIAL_BOOTS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Primordial_Boots"
@@ -204313,7 +204415,7 @@
   "PRIMORDIAL_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§6Primordial Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+150\",1:\"§7Defense: §a+115\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+110\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§4This item is Arachnal !\",18:\"\",19:\"§6Extra Bonus: §aAnti-Toxin\",20:\"§cTarantula Broodfather's §4 Vitality\",21:\"§7reduction is §a50% §7less effective\",22:\"§7against you.\",23:\"\",24:\"§8This item can be reforged!\",25:\"§4☠ §cRequires §5Spider Slayer 7§c.\",26:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Primordial Chestplate\",color:923446}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+150\",1:\"§7Defense: §a+115\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+110\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§6Extra Bonus: §aAnti-Toxin\",18:\"§cTarantula Broodfather's §4 Vitality\",19:\"§7reduction is §a50% §7less effective\",20:\"§7against you.\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Spider Slayer 7§c.\",24:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Primordial Chestplate\",color:923446}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+150",
@@ -204333,8 +204435,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aAnti-Toxin",
       "§cTarantula Broodfather's §4 Vitality",
       "§7reduction is §a50% §7less effective",
@@ -204347,7 +204447,7 @@
     "internalname": "PRIMORDIAL_CHESTPLATE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Primordial_Chestplate"
@@ -204398,7 +204498,7 @@
   "PRIMORDIAL_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§6Primordial Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"3e00f86d-a267-36e2-9422-b7601a176eee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Zb+J1qBTa0dvBswJtckqeKNm2myHbP6pF1iOyrBRNDkUKAjZUkHubj1SXCNggiGVQ6i4K6inARYdMF5ycYh+ogRnuUEMARuPcdRwfE9+oPEv7D97WMLz6dWYle9PjkOV25E+IgMsJi8J/P4uLUnRiN+ectTGV8v3wBY+pgA7QdKNvp8tzAvkRawndO/1LJxgpQ0tH5XfQTMTUWioE0tLnfzPstd5bP2FvfHnIEiRlCJ09Mcdf0M214ISP1FTRLF5bMA6Y05ojKMQjfrp40gNrW7MXLhGhube66P7C3vS4sOqA6CsLtUqPzB0SbymmcfKevFl5JOFtgdCVRC9JQQlSjY0VDRCLNWJHHDcYyLIY9aOqGldK8VeycM7TZhuh+P3Vp6IdAL+IzEuSsWLIIMbZ60Evxu2DfBOpD01DgTOlrent5jn0q/JEcDzdN0PfAFZQ5h2ixp76erK5u+I0vPOxvtjz9rCi4OG5yb0el5QC5Dp/RNZ9B9YnOaWj+s2moD63i9cWLMZvKwj85h+EbrhRbwSynO9P6OMcWERXFBEUdp0CU+od4DnDUwgVdCtuYjzSrLqI8Uc8W6lnnw/kUREUrvrpvO3oVSUW0G1XDY/i3sTztqBq7gcSzkplbRLKp5AQ5R7cjh9+6gt1Bp0LZDpxa6s1SiRG2R/nZ3/rE48VLQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczOTc4OTMxMjY2NCwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwN2NlZmEyMDAyODg3OGVmNTI5ZDZiOTIwOGQyODEyMDEwZDA4NmY5NjFiOTY0YzMyOGYwOWIzZjY1NzNkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+100\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+100\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§4This item is Arachnal !\",18:\"\",19:\"§6Extra Bonus: §aRadioactive\",20:\"§7Grants §9+1.5 Crit Damage §7per §c10\",21:\"§cStrength§7. §8(Max 1,000 Strength)\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4☠ §cRequires §5Spider Slayer 7§c.\",25:\"§6§lLEGENDARY HELMET\"],Name:\"§6Primordial Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"3e00f86d-a267-36e2-9422-b7601a176eee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Zb+J1qBTa0dvBswJtckqeKNm2myHbP6pF1iOyrBRNDkUKAjZUkHubj1SXCNggiGVQ6i4K6inARYdMF5ycYh+ogRnuUEMARuPcdRwfE9+oPEv7D97WMLz6dWYle9PjkOV25E+IgMsJi8J/P4uLUnRiN+ectTGV8v3wBY+pgA7QdKNvp8tzAvkRawndO/1LJxgpQ0tH5XfQTMTUWioE0tLnfzPstd5bP2FvfHnIEiRlCJ09Mcdf0M214ISP1FTRLF5bMA6Y05ojKMQjfrp40gNrW7MXLhGhube66P7C3vS4sOqA6CsLtUqPzB0SbymmcfKevFl5JOFtgdCVRC9JQQlSjY0VDRCLNWJHHDcYyLIY9aOqGldK8VeycM7TZhuh+P3Vp6IdAL+IzEuSsWLIIMbZ60Evxu2DfBOpD01DgTOlrent5jn0q/JEcDzdN0PfAFZQ5h2ixp76erK5u+I0vPOxvtjz9rCi4OG5yb0el5QC5Dp/RNZ9B9YnOaWj+s2moD63i9cWLMZvKwj85h+EbrhRbwSynO9P6OMcWERXFBEUdp0CU+od4DnDUwgVdCtuYjzSrLqI8Uc8W6lnnw/kUREUrvrpvO3oVSUW0G1XDY/i3sTztqBq7gcSzkplbRLKp5AQ5R7cjh9+6gt1Bp0LZDpxa6s1SiRG2R/nZ3/rE48VLQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczOTc4OTMxMjY2NCwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwN2NlZmEyMDAyODg3OGVmNTI5ZDZiOTIwOGQyODEyMDEwZDA4NmY5NjFiOTY0YzMyOGYwOWIzZjY1NzNkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+100\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+100\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§6Extra Bonus: §aRadioactive\",18:\"§7Grants §9+1.5 Crit Damage §7per §c10\",19:\"§cStrength§7. §8(Max 1,000 Strength)\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Spider Slayer 7§c.\",23:\"§6§lLEGENDARY HELMET\"],Name:\"§6Primordial Helmet\"}}",
     "damage": 3,
     "lore": [
       "§7Health: §c+120",
@@ -204418,8 +204518,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aRadioactive",
       "§7Grants §9+1.5 Crit Damage §7per §c10",
       "§cStrength§7. §8(Max 1,000 Strength)",
@@ -204431,7 +204529,7 @@
     "internalname": "PRIMORDIAL_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Primordial_Helmet"
@@ -204525,7 +204623,7 @@
   "PRIMORDIAL_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§6Primordial Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+135\",1:\"§7Defense: §a+105\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+105\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§4This item is Arachnal !\",18:\"\",19:\"§6Extra Bonus: §aBrood\",20:\"§7Increases the base stats of the\",21:\"§6Tarantula Pet§7 by §a100%§7.\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4☠ §cRequires §5Spider Slayer 7§c.\",25:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Primordial Leggings\",color:923446}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+135\",1:\"§7Defense: §a+105\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+105\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§6Extra Bonus: §aBrood\",18:\"§7Increases the base stats of the\",19:\"§6Tarantula Pet§7 by §a100%§7.\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Spider Slayer 7§c.\",23:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Primordial Leggings\",color:923446}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+135",
@@ -204545,8 +204643,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aBrood",
       "§7Increases the base stats of the",
       "§6Tarantula Pet§7 by §a100%§7.",
@@ -204558,7 +204654,7 @@
     "internalname": "PRIMORDIAL_LEGGINGS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Primordial_Leggings"
@@ -221010,14 +221106,14 @@
   "ROGUE_SWORD": {
     "itemid": "minecraft:golden_sword",
     "displayname": "§fRogue Sword",
-    "nbttag": "{ExtraAttributes:{id:\"ROGUE_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/rogue_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§6Ability: Speed Boost §e§lRIGHT CLICK\",3:\"§7Grants §f+100 Speed §7for §a30s§7.\",4:\"§8Mana Cost: §b41\",5:\"§8Cooldown: §a5s\",6:\"\",7:\"§8This item can be reforged!\",8:\"§8§l* §8Co-op Soulbound §8§l*\",9:\"§f§lCOMMON SWORD\"],Name:\"§fRogue Sword\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"ROGUE_SWORD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/rogue_sword\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+20\",1:\"\",2:\"§6Ability: Speed Boost §e§lRIGHT CLICK\",3:\"§7Grants §f+100 Speed §7for §a30s§7.\",4:\"§8Mana Cost: §b50\",5:\"§8Cooldown: §a5s\",6:\"\",7:\"§8This item can be reforged!\",8:\"§8§l* §8Co-op Soulbound §8§l*\",9:\"§f§lCOMMON SWORD\"],Name:\"§fRogue Sword\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+20",
       "",
       "§6Ability: Speed Boost §e§lRIGHT CLICK",
       "§7Grants §f+100 Speed §7for §a30s§7.",
-      "§8Mana Cost: §b41",
+      "§8Mana Cost: §b50",
       "§8Cooldown: §a5s",
       "",
       "§8This item can be reforged!",
@@ -221027,7 +221123,7 @@
     "internalname": "ROGUE_SWORD",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Rogue_Sword"
@@ -232882,8 +232978,8 @@
   },
   "SILENT_DEATH": {
     "itemid": "minecraft:iron_sword",
-    "displayname": "§9Silent Death",
-    "nbttag": "{ExtraAttributes:{id:\"SILENT_DEATH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/silent_death\",display:{Lore:[0:\"§7Gear Score: §d165\",1:\"§7Damage: §c+85\",2:\"§7Strength: §c+31\",3:\"§7Crit Chance: §9+1%\",4:\"§7Crit Damage: §9+9%\",5:\"\",6:\"§6Ability: Shadowstep §e§lRIGHT CLICK\",7:\"§7Teleport behind the enemy you are looking at,\",8:\"§7gaining §c+25 Strength§7 for §a10§7 seconds. Max\",9:\"§7range of 20 blocks. Cooldown resets on kills.\",10:\"§8Cooldown: §a60s\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires Catacombs Skill 20.\",14:\"§9§lRARE DUNGEON SWORD\"],Name:\"§9Silent Death\"}}",
+    "displayname": "§5Silent Death",
+    "nbttag": "{ExtraAttributes:{id:\"SILENT_DEATH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/silent_death\",display:{Lore:[0:\"§7Gear Score: §d165\",1:\"§7Damage: §c+85\",2:\"§7Strength: §c+31\",3:\"§7Crit Chance: §9+1%\",4:\"§7Crit Damage: §9+9%\",5:\"\",6:\"§6Ability: Shadowstep §e§lRIGHT CLICK\",7:\"§7Teleport behind the enemy you are looking at,\",8:\"§7gaining §c+25 Strength§7 for §a10§7 seconds. Max\",9:\"§7range of 20 blocks. Cooldown resets on kills.\",10:\"§8Cooldown: §a60s\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires Catacombs Skill 20.\",14:\"§5§lEPIC DUNGEON SWORD\"],Name:\"§5Silent Death\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d165",
@@ -232900,12 +232996,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 20.",
-      "§9§lRARE DUNGEON SWORD"
+      "§5§lEPIC DUNGEON SWORD"
     ],
     "internalname": "SILENT_DEATH",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Silent_Death"
@@ -234867,8 +234963,8 @@
   },
   "SKELETON_GRUNT_BOOTS": {
     "itemid": "minecraft:leather_boots",
-    "displayname": "§5Skeleton Grunt Boots",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_GRUNT_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d80\",1:\"§7Health: §c+23\",2:\"§7Defense: §a+20\",3:\"§7Crit Damage: §9+15%\",4:\"\",5:\"§7Increase the damage you deal with\",6:\"§7arrows by §c5%§7.\",7:\"\",8:\"§2This item is Undead !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires Catacombs Skill 1.\",12:\"§5§lEPIC DUNGEON BOOTS\"],Name:\"§5Skeleton Grunt Boots\",color:14805812}}",
+    "displayname": "§9Skeleton Grunt Boots",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_GRUNT_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",display:{Lore:[0:\"§7Gear Score: §d80\",1:\"§7Health: §c+23\",2:\"§7Defense: §a+20\",3:\"§7Crit Damage: §9+15%\",4:\"\",5:\"§7Increase the damage you deal with\",6:\"§7arrows by §c5%§7.\",7:\"\",8:\"§2This item is Undead !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires Catacombs Skill 1.\",12:\"§9§lRARE DUNGEON BOOTS\"],Name:\"§9Skeleton Grunt Boots\",color:14805812}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d80",
@@ -234883,12 +234979,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 1.",
-      "§5§lEPIC DUNGEON BOOTS"
+      "§9§lRARE DUNGEON BOOTS"
     ],
     "internalname": "SKELETON_GRUNT_BOOTS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Grunt_Boots"
@@ -234896,8 +234992,8 @@
   },
   "SKELETON_GRUNT_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
-    "displayname": "§5Skeleton Grunt Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_GRUNT_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d126\",1:\"§7Health: §c+33\",2:\"§7Defense: §a+38\",3:\"§7Crit Damage: §9+15%\",4:\"\",5:\"§7Increase the damage you deal with\",6:\"§7arrows by §c5%§7.\",7:\"\",8:\"§2This item is Undead !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires Catacombs Skill 1.\",12:\"§5§lEPIC DUNGEON CHESTPLATE\"],Name:\"§5Skeleton Grunt Chestplate\",color:14805812}}",
+    "displayname": "§9Skeleton Grunt Chestplate",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_GRUNT_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",display:{Lore:[0:\"§7Gear Score: §d126\",1:\"§7Health: §c+33\",2:\"§7Defense: §a+38\",3:\"§7Crit Damage: §9+15%\",4:\"\",5:\"§7Increase the damage you deal with\",6:\"§7arrows by §c5%§7.\",7:\"\",8:\"§2This item is Undead !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires Catacombs Skill 1.\",12:\"§9§lRARE DUNGEON CHESTPLATE\"],Name:\"§9Skeleton Grunt Chestplate\",color:14805812}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d126",
@@ -234912,12 +235008,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 1.",
-      "§5§lEPIC DUNGEON CHESTPLATE"
+      "§9§lRARE DUNGEON CHESTPLATE"
     ],
     "internalname": "SKELETON_GRUNT_CHESTPLATE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Grunt_Chestplate"
@@ -234925,8 +235021,8 @@
   },
   "SKELETON_GRUNT_HELMET": {
     "itemid": "minecraft:leather_helmet",
-    "displayname": "§5Skeleton Grunt Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_GRUNT_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d97\",1:\"§7Health: §c+14\",2:\"§7Defense: §a+33\",3:\"§7Crit Damage: §9+15%\",4:\"\",5:\"§7Increase the damage you deal with\",6:\"§7arrows by §c5%§7.\",7:\"\",8:\"§2This item is Undead !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires Catacombs Skill 1.\",12:\"§5§lEPIC DUNGEON HELMET\"],Name:\"§5Skeleton Grunt Helmet\",color:14805812}}",
+    "displayname": "§9Skeleton Grunt Helmet",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_GRUNT_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",display:{Lore:[0:\"§7Gear Score: §d97\",1:\"§7Health: §c+14\",2:\"§7Defense: §a+33\",3:\"§7Crit Damage: §9+15%\",4:\"\",5:\"§7Increase the damage you deal with\",6:\"§7arrows by §c5%§7.\",7:\"\",8:\"§2This item is Undead !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires Catacombs Skill 1.\",12:\"§9§lRARE DUNGEON HELMET\"],Name:\"§9Skeleton Grunt Helmet\",color:14805812}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d97",
@@ -234941,12 +235037,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 1.",
-      "§5§lEPIC DUNGEON HELMET"
+      "§9§lRARE DUNGEON HELMET"
     ],
     "internalname": "SKELETON_GRUNT_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Grunt_Helmet"
@@ -234954,8 +235050,8 @@
   },
   "SKELETON_GRUNT_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
-    "displayname": "§5Skeleton Grunt Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_GRUNT_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d127\",1:\"§7Health: §c+22\",2:\"§7Defense: §a+44\",3:\"§7Crit Damage: §9+15%\",4:\"\",5:\"§7Increase the damage you deal with\",6:\"§7arrows by §c5%§7.\",7:\"\",8:\"§2This item is Undead !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires Catacombs Skill 1.\",12:\"§5§lEPIC DUNGEON LEGGINGS\"],Name:\"§5Skeleton Grunt Leggings\",color:14805812}}",
+    "displayname": "§9Skeleton Grunt Leggings",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_GRUNT_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",display:{Lore:[0:\"§7Gear Score: §d127\",1:\"§7Health: §c+22\",2:\"§7Defense: §a+44\",3:\"§7Crit Damage: §9+15%\",4:\"\",5:\"§7Increase the damage you deal with\",6:\"§7arrows by §c5%§7.\",7:\"\",8:\"§2This item is Undead !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires Catacombs Skill 1.\",12:\"§9§lRARE DUNGEON LEGGINGS\"],Name:\"§9Skeleton Grunt Leggings\",color:14805812}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d127",
@@ -234970,12 +235066,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 1.",
-      "§5§lEPIC DUNGEON LEGGINGS"
+      "§9§lRARE DUNGEON LEGGINGS"
     ],
     "internalname": "SKELETON_GRUNT_LEGGINGS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Grunt_Leggings"
@@ -235403,8 +235499,8 @@
   },
   "SKELETON_MASTER_BOOTS": {
     "itemid": "minecraft:leather_boots",
-    "displayname": "§5Skeleton Master Boots",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_MASTER_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d90\",1:\"§7Health: §c+14\",2:\"§7Defense: §a+22\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+22%\",5:\"\",6:\"§7Increase the damage you deal with\",7:\"§7arrows by §c5%§7.\",8:\"§6Full Set Bonus: Skeleton Master §7(0/4)\",9:\"§7Increase the damage you deal with\",10:\"§7arrows by §c25%§7.\",11:\"\",12:\"§2This item is Undead !\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires Catacombs Skill 12.\",16:\"§5§lEPIC DUNGEON BOOTS\"],Name:\"§5Skeleton Master Boots\",color:16739083}}",
+    "displayname": "§6Skeleton Master Boots",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_MASTER_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",display:{Lore:[0:\"§7Gear Score: §d90\",1:\"§7Health: §c+14\",2:\"§7Defense: §a+22\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+22%\",5:\"\",6:\"§7Increase the damage you deal with\",7:\"§7arrows by §c5%§7.\",8:\"§6Full Set Bonus: Skeleton Master §7(0/4)\",9:\"§7Increase the damage you deal with\",10:\"§7arrows by §c25%§7.\",11:\"\",12:\"§2This item is Undead !\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires Catacombs Skill 12.\",16:\"§6§lLEGENDARY DUNGEON BOOTS\"],Name:\"§6Skeleton Master Boots\",color:16739083}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d90",
@@ -235423,12 +235519,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 12.",
-      "§5§lEPIC DUNGEON BOOTS"
+      "§6§lLEGENDARY DUNGEON BOOTS"
     ],
     "internalname": "SKELETON_MASTER_BOOTS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Master_Boots"
@@ -235436,8 +235532,8 @@
   },
   "SKELETON_MASTER_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
-    "displayname": "§5Skeleton Master Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_MASTER_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d142\",1:\"§7Health: §c+26\",2:\"§7Defense: §a+42\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+22%\",5:\"\",6:\"§7Increase the damage you deal with\",7:\"§7arrows by §c5%§7.\",8:\"§7Your bows don't consume arrows.\",9:\"§6Full Set Bonus: Skeleton Master §7(0/4)\",10:\"§7Increase the damage you deal with\",11:\"§7arrows by §c25%§7.\",12:\"\",13:\"§2This item is Undead !\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires Catacombs Skill 12.\",17:\"§5§lEPIC DUNGEON CHESTPLATE\"],Name:\"§5Skeleton Master Chestplate\",color:16739083}}",
+    "displayname": "§6Skeleton Master Chestplate",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_MASTER_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",display:{Lore:[0:\"§7Gear Score: §d142\",1:\"§7Health: §c+26\",2:\"§7Defense: §a+42\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+22%\",5:\"\",6:\"§7Increase the damage you deal with\",7:\"§7arrows by §c5%§7.\",8:\"§7Your bows don't consume arrows.\",9:\"§6Full Set Bonus: Skeleton Master §7(0/4)\",10:\"§7Increase the damage you deal with\",11:\"§7arrows by §c25%§7.\",12:\"\",13:\"§2This item is Undead !\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires Catacombs Skill 12.\",17:\"§6§lLEGENDARY DUNGEON CHESTPLATE\"],Name:\"§6Skeleton Master Chestplate\",color:16739083}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d142",
@@ -235457,12 +235553,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 12.",
-      "§5§lEPIC DUNGEON CHESTPLATE"
+      "§6§lLEGENDARY DUNGEON CHESTPLATE"
     ],
     "internalname": "SKELETON_MASTER_CHESTPLATE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Master_Chestplate"
@@ -235470,8 +235566,8 @@
   },
   "SKELETON_MASTER_HELMET": {
     "itemid": "minecraft:leather_helmet",
-    "displayname": "§5Skeleton Master Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_MASTER_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d100\",1:\"§7Health: §c+16\",2:\"§7Defense: §a+26\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+22%\",5:\"\",6:\"§7Increase the damage you deal with\",7:\"§7arrows by §c5%§7.\",8:\"§6Full Set Bonus: Skeleton Master §7(0/4)\",9:\"§7Increase the damage you deal with\",10:\"§7arrows by §c25%§7.\",11:\"\",12:\"§2This item is Undead !\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires Catacombs Skill 12.\",16:\"§5§lEPIC DUNGEON HELMET\"],Name:\"§5Skeleton Master Helmet\",color:16739083}}",
+    "displayname": "§6Skeleton Master Helmet",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_MASTER_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",display:{Lore:[0:\"§7Gear Score: §d100\",1:\"§7Health: §c+16\",2:\"§7Defense: §a+26\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+22%\",5:\"\",6:\"§7Increase the damage you deal with\",7:\"§7arrows by §c5%§7.\",8:\"§6Full Set Bonus: Skeleton Master §7(0/4)\",9:\"§7Increase the damage you deal with\",10:\"§7arrows by §c25%§7.\",11:\"\",12:\"§2This item is Undead !\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires Catacombs Skill 12.\",16:\"§6§lLEGENDARY DUNGEON HELMET\"],Name:\"§6Skeleton Master Helmet\",color:16739083}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d100",
@@ -235490,12 +235586,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 12.",
-      "§5§lEPIC DUNGEON HELMET"
+      "§6§lLEGENDARY DUNGEON HELMET"
     ],
     "internalname": "SKELETON_MASTER_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Master_Helmet"
@@ -235503,8 +235599,8 @@
   },
   "SKELETON_MASTER_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
-    "displayname": "§5Skeleton Master Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETON_MASTER_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d132\",1:\"§7Health: §c+24\",2:\"§7Defense: §a+38\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+22%\",5:\"\",6:\"§7Increase the damage you deal with\",7:\"§7arrows by §c5%§7.\",8:\"§6Full Set Bonus: Skeleton Master §7(0/4)\",9:\"§7Increase the damage you deal with\",10:\"§7arrows by §c25%§7.\",11:\"\",12:\"§2This item is Undead !\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires Catacombs Skill 12.\",16:\"§5§lEPIC DUNGEON LEGGINGS\"],Name:\"§5Skeleton Master Leggings\",color:16739083}}",
+    "displayname": "§6Skeleton Master Leggings",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_MASTER_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",display:{Lore:[0:\"§7Gear Score: §d132\",1:\"§7Health: §c+24\",2:\"§7Defense: §a+38\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+22%\",5:\"\",6:\"§7Increase the damage you deal with\",7:\"§7arrows by §c5%§7.\",8:\"§6Full Set Bonus: Skeleton Master §7(0/4)\",9:\"§7Increase the damage you deal with\",10:\"§7arrows by §c25%§7.\",11:\"\",12:\"§2This item is Undead !\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires Catacombs Skill 12.\",16:\"§6§lLEGENDARY DUNGEON LEGGINGS\"],Name:\"§6Skeleton Master Leggings\",color:16739083}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d132",
@@ -235523,12 +235619,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 12.",
-      "§5§lEPIC DUNGEON LEGGINGS"
+      "§6§lLEGENDARY DUNGEON LEGGINGS"
     ],
     "internalname": "SKELETON_MASTER_LEGGINGS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Master_Leggings"
@@ -235670,8 +235766,8 @@
   },
   "SKELETON_SOLDIER_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
-    "displayname": "§5Pure Skeleton Soldier Chestplate",
-    "nbttag": "{ExtraAttributes:{baseStatBoostPercentage:31,dungeon_skill_req:\"CATACOMBS:9\",enchantments:{growth:5,protection:5,thorns:3},id:\"SKELETON_SOLDIER_CHESTPLATE\",item_tier:4},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d138\",1:\"§7Health: §c+26\",2:\"§7Defense: §a+42\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+17%\",5:\"\",6:\"§7Increase the damage you deal with\",7:\"§7arrows by §c5%§7.\",8:\"\",9:\"§6Full Set Bonus: Skeleton Soldier §7(0/4)\",10:\"§7Increase the damage you deal with\",11:\"§7arrows by an extra §c25%§7.\",12:\"\",13:\"§2This item is Undead !\",14:\"\",15:\"§4❣ §cRequires Catacombs Skill 9.\",16:\"§5§lEPIC DUNGEON CHESTPLATE\"],Name:\"§5Pure Skeleton Soldier Chestplate\",color:16759819}}",
+    "displayname": "§5Skeleton Soldier Chestplate",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETON_SOLDIER_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",display:{Lore:[0:\"§7Gear Score: §d138\",1:\"§7Health: §c+26\",2:\"§7Defense: §a+42\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+17%\",5:\"\",6:\"§7Increase the damage you deal with\",7:\"§7arrows by §c5%§7.\",8:\"\",9:\"§6Full Set Bonus: Skeleton Soldier §7(0/4)\",10:\"§7Increase the damage you deal with\",11:\"§7arrows by an extra §c25%§7.\",12:\"\",13:\"§2This item is Undead !\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires Catacombs Skill 9.\",17:\"§5§lEPIC DUNGEON CHESTPLATE\"],Name:\"§5Skeleton Soldier Chestplate\",color:16759819}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d138",
@@ -235689,13 +235785,14 @@
       "",
       "§2This item is Undead !",
       "",
+      "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 9.",
       "§5§lEPIC DUNGEON CHESTPLATE"
     ],
     "internalname": "SKELETON_SOLDIER_CHESTPLATE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeleton_Soldier_Chestplate"
@@ -235901,8 +235998,8 @@
   },
   "SKELETOR_BOOTS": {
     "itemid": "minecraft:chainmail_boots",
-    "displayname": "§5Skeletor Boots",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETOR_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:chainmail_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d83\",1:\"§7Health: §c+13\",2:\"§7Defense: §a+20\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+20%\",5:\"\",6:\"§6Full Set Bonus: Skeletor §7(0/4)\",7:\"§7Grants §c+1 Strength §7and §9+1 Crit\",8:\"§9Damage §7for every §b10 §7Skeletor kills\",9:\"\",10:\"§7Each piece grants a §a1 §7second\",11:\"§7cooldown reduction on bone plating!\",12:\"\",13:\"§2This item is Undead !\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires Catacombs Skill 15.\",17:\"§5§lEPIC DUNGEON BOOTS\"],Name:\"§5Skeletor Boots\"}}",
+    "displayname": "§6Skeletor Boots",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETOR_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:chainmail_boots\",display:{Lore:[0:\"§7Gear Score: §d83\",1:\"§7Health: §c+13\",2:\"§7Defense: §a+20\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+20%\",5:\"\",6:\"§6Full Set Bonus: Skeletor §7(0/4)\",7:\"§7Grants §c+1 Strength §7and §9+1 Crit\",8:\"§9Damage §7for every §b10 §7Skeletor kills\",9:\"\",10:\"§7Each piece grants a §a1 §7second\",11:\"§7cooldown reduction on bone plating!\",12:\"\",13:\"§2This item is Undead !\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires Catacombs Skill 15.\",17:\"§6§lLEGENDARY DUNGEON BOOTS\"],Name:\"§6Skeletor Boots\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d83",
@@ -235922,12 +236019,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 15.",
-      "§5§lEPIC DUNGEON BOOTS"
+      "§6§lLEGENDARY DUNGEON BOOTS"
     ],
     "internalname": "SKELETOR_BOOTS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeletor_Boots"
@@ -235935,8 +236032,8 @@
   },
   "SKELETOR_CHESTPLATE": {
     "itemid": "minecraft:chainmail_chestplate",
-    "displayname": "§5Skeletor Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETOR_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:chainmail_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d135\",1:\"§7Health: §c+25\",2:\"§7Defense: §a+40\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+20%\",5:\"\",6:\"§6Full Set Bonus: Skeletor §7(0/4)\",7:\"§7Grants §c+1 Strength §7and §9+1 Crit\",8:\"§9Damage §7for every §b10 §7Skeletor kills\",9:\"\",10:\"§7Skeletor Kills: §a0\",11:\"§7Bonus Strength: §a0\",12:\"§7Bonus Critical Damage: §a0\",13:\"\",14:\"§7Each piece grants a §a1 §7second\",15:\"§7cooldown reduction on bone plating!\",16:\"\",17:\"§2This item is Undead !\",18:\"\",19:\"§8This item can be reforged!\",20:\"§4❣ §cRequires Catacombs Skill 15.\",21:\"§5§lEPIC DUNGEON CHESTPLATE\"],Name:\"§5Skeletor Chestplate\"}}",
+    "displayname": "§6Skeletor Chestplate",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETOR_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:chainmail_chestplate\",display:{Lore:[0:\"§7Gear Score: §d135\",1:\"§7Health: §c+25\",2:\"§7Defense: §a+40\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+20%\",5:\"\",6:\"§6Full Set Bonus: Skeletor §7(0/4)\",7:\"§7Grants §c+1 Strength §7and §9+1 Crit\",8:\"§9Damage §7for every §b10 §7Skeletor kills\",9:\"\",10:\"§7Skeletor Kills: §a0\",11:\"§7Bonus Strength: §a0\",12:\"§7Bonus Critical Damage: §a0\",13:\"\",14:\"§7Each piece grants a §a1 §7second\",15:\"§7cooldown reduction on bone plating!\",16:\"\",17:\"§2This item is Undead !\",18:\"\",19:\"§8This item can be reforged!\",20:\"§4❣ §cRequires Catacombs Skill 15.\",21:\"§6§lLEGENDARY DUNGEON CHESTPLATE\"],Name:\"§6Skeletor Chestplate\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d135",
@@ -235960,12 +236057,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 15.",
-      "§5§lEPIC DUNGEON CHESTPLATE"
+      "§6§lLEGENDARY DUNGEON CHESTPLATE"
     ],
     "internalname": "SKELETOR_CHESTPLATE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeletor_Chestplate"
@@ -235973,8 +236070,8 @@
   },
   "SKELETOR_HELMET": {
     "itemid": "minecraft:skull",
-    "displayname": "§5Skeletor Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETOR_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a943bec8-c685-3884-a1a6-3a991713000e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZMRAHQ3ILLWrv7EXMO1PmgIRyfumDeqvZzxxb/CzABj3IbsajFH1e1eUQAsVUrI2YVnKoryLCD6TmQJ1CzVbiqILbyYCzD93DboH7bOLcgQsKO18ZUh1tXkcoAt3i5s+D9jj7i74Ik0tL9jSpGWsxLi7d/7xu0eFh2X+7K78pPohmMd0h4LU1Ip6xc7sbxYYOCrkEvDk+XBXZqoOjGbbuGPWPi6GL7y95XdsOTvILc1iyisNPyuYya5T0Wxr8dq5pJS5EczC7lpa6okZnigj1MvzIPZmLEeaobAfNWSIJcPk9WB22D8JaT0XCzObKZLDYY6OA+Tob81j/5q0bnHqff8va8MOhNp/M+n2UvzBUu1hfpRUgZ1+jfFB5lv42MSRZD6KHjUMvSm5X8Vc+Bu4B9kp6u1mQJv4+X/Up2P7MRMYJhod5H74QkwFC8hGTaX05UzLNbS6atJGUiLCfbFn7TkRtAInTQIG47Dzo9AfmmDUQAvcm0EMemk3oGfs1sCq29fD1uUaeMdLKgnJSFwvn7nikDK8fryDopoA9eFzrel4cnDcrW5oTBbBlzBd5Nn9ryrr0IfRVRvQP1u9RB/IIqAi3x3b65od31NP2gfjcGV3VjUX6afUhuM4U7R3NS375xAaYCN9cg9w9gtqdoLbARyHazxBm7L+W2Jq9uX2DMM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5NTQyMTcwMTc5OSwKICAicHJvZmlsZUlkIiA6ICJhMzdlOGYyM2MyMTk0NjJiYjY3ZWUxY2I5OTM2YWY2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb29yYWxleSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84OWQwNzRhZDliOTk3MTg3OWViMzI1YmRkZmYzNjc1ZjcyMjQ4NTZiZDZkNTY5ZmM4ZDQ4M2MxMzNkNzMwMDVkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Gear Score: §d95\",1:\"§7Health: §c+15\",2:\"§7Defense: §a+25\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+20%\",5:\"\",6:\"§6Full Set Bonus: Skeletor §7(0/4)\",7:\"§7Grants §c+1 Strength §7and §9+1 Crit\",8:\"§9Damage §7for every §b10 §7Skeletor kills\",9:\"\",10:\"§7Each piece grants a §a1 §7second\",11:\"§7cooldown reduction on bone plating!\",12:\"\",13:\"§2This item is Undead !\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires Catacombs Skill 15.\",17:\"§5§lEPIC DUNGEON HELMET\"],Name:\"§5Skeletor Helmet\"}}",
+    "displayname": "§6Skeletor Helmet",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETOR_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"a943bec8-c685-3884-a1a6-3a991713000e\",Properties:{textures:[0:{Name:\"textures\",Signature:\"ZMRAHQ3ILLWrv7EXMO1PmgIRyfumDeqvZzxxb/CzABj3IbsajFH1e1eUQAsVUrI2YVnKoryLCD6TmQJ1CzVbiqILbyYCzD93DboH7bOLcgQsKO18ZUh1tXkcoAt3i5s+D9jj7i74Ik0tL9jSpGWsxLi7d/7xu0eFh2X+7K78pPohmMd0h4LU1Ip6xc7sbxYYOCrkEvDk+XBXZqoOjGbbuGPWPi6GL7y95XdsOTvILc1iyisNPyuYya5T0Wxr8dq5pJS5EczC7lpa6okZnigj1MvzIPZmLEeaobAfNWSIJcPk9WB22D8JaT0XCzObKZLDYY6OA+Tob81j/5q0bnHqff8va8MOhNp/M+n2UvzBUu1hfpRUgZ1+jfFB5lv42MSRZD6KHjUMvSm5X8Vc+Bu4B9kp6u1mQJv4+X/Up2P7MRMYJhod5H74QkwFC8hGTaX05UzLNbS6atJGUiLCfbFn7TkRtAInTQIG47Dzo9AfmmDUQAvcm0EMemk3oGfs1sCq29fD1uUaeMdLKgnJSFwvn7nikDK8fryDopoA9eFzrel4cnDcrW5oTBbBlzBd5Nn9ryrr0IfRVRvQP1u9RB/IIqAi3x3b65od31NP2gfjcGV3VjUX6afUhuM4U7R3NS375xAaYCN9cg9w9gtqdoLbARyHazxBm7L+W2Jq9uX2DMM=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5NTQyMTcwMTc5OSwKICAicHJvZmlsZUlkIiA6ICJhMzdlOGYyM2MyMTk0NjJiYjY3ZWUxY2I5OTM2YWY2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb29yYWxleSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84OWQwNzRhZDliOTk3MTg3OWViMzI1YmRkZmYzNjc1ZjcyMjQ4NTZiZDZkNTY5ZmM4ZDQ4M2MxMzNkNzMwMDVkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Gear Score: §d95\",1:\"§7Health: §c+15\",2:\"§7Defense: §a+25\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+20%\",5:\"\",6:\"§6Full Set Bonus: Skeletor §7(0/4)\",7:\"§7Grants §c+1 Strength §7and §9+1 Crit\",8:\"§9Damage §7for every §b10 §7Skeletor kills\",9:\"\",10:\"§7Each piece grants a §a1 §7second\",11:\"§7cooldown reduction on bone plating!\",12:\"\",13:\"§2This item is Undead !\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires Catacombs Skill 15.\",17:\"§6§lLEGENDARY DUNGEON HELMET\"],Name:\"§6Skeletor Helmet\"}}",
     "damage": 3,
     "lore": [
       "§7Gear Score: §d95",
@@ -235994,12 +236091,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 15.",
-      "§5§lEPIC DUNGEON HELMET"
+      "§6§lLEGENDARY DUNGEON HELMET"
     ],
     "internalname": "SKELETOR_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeletor_Helmet"
@@ -236007,8 +236104,8 @@
   },
   "SKELETOR_LEGGINGS": {
     "itemid": "minecraft:chainmail_leggings",
-    "displayname": "§5Skeletor Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"SKELETOR_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:chainmail_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d124\",1:\"§7Health: §c+22\",2:\"§7Defense: §a+36\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+20%\",5:\"\",6:\"§6Full Set Bonus: Skeletor §7(0/4)\",7:\"§7Grants §c+1 Strength §7and §9+1 Crit\",8:\"§9Damage §7for every §b10 §7Skeletor kills\",9:\"\",10:\"§7Each piece grants a §a1 §7second\",11:\"§7cooldown reduction on bone plating!\",12:\"\",13:\"§2This item is Undead !\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires Catacombs Skill 15.\",17:\"§5§lEPIC DUNGEON LEGGINGS\"],Name:\"§5Skeletor Leggings\"}}",
+    "displayname": "§6Skeletor Leggings",
+    "nbttag": "{ExtraAttributes:{id:\"SKELETOR_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:chainmail_leggings\",display:{Lore:[0:\"§7Gear Score: §d124\",1:\"§7Health: §c+22\",2:\"§7Defense: §a+36\",3:\"§7Crit Chance: §9+2%\",4:\"§7Crit Damage: §9+20%\",5:\"\",6:\"§6Full Set Bonus: Skeletor §7(0/4)\",7:\"§7Grants §c+1 Strength §7and §9+1 Crit\",8:\"§9Damage §7for every §b10 §7Skeletor kills\",9:\"\",10:\"§7Each piece grants a §a1 §7second\",11:\"§7cooldown reduction on bone plating!\",12:\"\",13:\"§2This item is Undead !\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires Catacombs Skill 15.\",17:\"§6§lLEGENDARY DUNGEON LEGGINGS\"],Name:\"§6Skeletor Leggings\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d124",
@@ -236028,12 +236125,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 15.",
-      "§5§lEPIC DUNGEON LEGGINGS"
+      "§6§lLEGENDARY DUNGEON LEGGINGS"
     ],
     "internalname": "SKELETOR_LEGGINGS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Skeletor_Leggings"
@@ -242990,8 +243087,8 @@
   },
   "SNIPER_BOW": {
     "itemid": "minecraft:bow",
-    "displayname": "§9Sniper Bow",
-    "nbttag": "{ExtraAttributes:{id:\"SNIPER_BOW\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/sniper_bow\",display:{Lore:[0:\"§7Gear Score: §d95\",1:\"§7Damage: §c+94\",2:\"§7Crit Damage: §9+1%\",3:\"\",4:\"§7Allows you to shoot arrows much\",5:\"§7further!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires Catacombs Skill 10.\",9:\"§9§lRARE DUNGEON BOW\"],Name:\"§9Sniper Bow\"}}",
+    "displayname": "§5Sniper Bow",
+    "nbttag": "{ExtraAttributes:{id:\"SNIPER_BOW\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/sniper_bow\",display:{Lore:[0:\"§7Gear Score: §d95\",1:\"§7Damage: §c+94\",2:\"§7Crit Damage: §9+1%\",3:\"\",4:\"§7Allows you to shoot arrows much\",5:\"§7further!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires Catacombs Skill 10.\",9:\"§5§lEPIC DUNGEON BOW\"],Name:\"§5Sniper Bow\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d95",
@@ -243003,12 +243100,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 10.",
-      "§9§lRARE DUNGEON BOW"
+      "§5§lEPIC DUNGEON BOW"
     ],
     "internalname": "SNIPER_BOW",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sniper_Bow"
@@ -243016,8 +243113,8 @@
   },
   "SNIPER_HELMET": {
     "itemid": "minecraft:skull",
-    "displayname": "§9Sniper Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"SNIPER_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0258303a-ec97-3607-8d1e-197f09f3eedf\",Properties:{textures:[0:{Name:\"textures\",Signature:\"P1xXKP4k3wnzXUReGkHfVU3VrUjlo60DJ/54xrzoAzho1IBGMOWTlx2R92rDF4oKe8YtyhWHs3fKJYbvuFodKjr+VB4Zz/edj85H77AW6hcXHlBSTE2/ZOtIyRysFaSjKuu4v3UQ/uzOX38XNeab8L0xXpuNvKoRksF+8I83Dsxey59G4Q9duCWmD+mPt9f+RxfcMBj7F0RuP9ifFuKTR9LpgtpqT6xG2KsyHGY20w/biRl2MACJPVCvsdD7XIxmsDHiN8wjIIwLGMCa+mtkDW9KLgxNbr6e6HWwKYNo1RMmOYRxTG/TK1Kx34BpnH9D8nJPpk7AdTPgdonAfEL49eZ5JUwD2gzXCitew3M+oVuUnscAh8OvrgzNtcbnHIkKjC+XKMgQS4EJgr+m/1oD7LzzPjWLJfbxQA470SxHeLZlVdZLBD4LgEdhBePJHC4MgYGxs1PiNg9HDPhM7/ZJy8wUNGIhuCrYmN25jHv6KHQbRDDlIEGYhgE7AmqvjP4nLuVSrgkGHi+W3TPPWb52KvG67CYpU+ari+bTNwrwKqftKSxeKfBvDUbbwRnjVJR3g3ZZMNGJUcu/eN8tnxxxlmsjgIT4ezWM6ZLQtvlzb3FTkm27Ub0lMFkq57kaAnLMgJgBYpUAy6mBPTHlQ1nqZBzXVpnILF8pBEq3CUDJXSI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzE5NzA4NSwKICAicHJvZmlsZUlkIiA6ICI5ODY5ZmUyY2FjMjA0YmJmYjc1Y2Y1Mjk2ZTY0MDQ5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZW5yaXF1ZTkzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxOGMwNzFmMDgwZGJhNTBhNjJhNjI2M2ZmNzI0ZWRjMTU3Y2U0ZmI0ODgzY2NlZmYyNDkxZDViYmRlODMwYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Gear Score: §d120\",1:\"§7Health: §c+100\",2:\"§7Defense: §a+10\",3:\"\",4:\"§7Increases the damage your arrows\",5:\"§7deal by §c1% §7for every §e2 §7blocks\",6:\"§7traveled above §e20 §7blocks.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires Catacombs Skill 8.\",10:\"§9§lRARE DUNGEON HELMET\"],Name:\"§9Sniper Helmet\"}}",
+    "displayname": "§5Sniper Helmet",
+    "nbttag": "{ExtraAttributes:{id:\"SNIPER_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"0258303a-ec97-3607-8d1e-197f09f3eedf\",Properties:{textures:[0:{Name:\"textures\",Signature:\"P1xXKP4k3wnzXUReGkHfVU3VrUjlo60DJ/54xrzoAzho1IBGMOWTlx2R92rDF4oKe8YtyhWHs3fKJYbvuFodKjr+VB4Zz/edj85H77AW6hcXHlBSTE2/ZOtIyRysFaSjKuu4v3UQ/uzOX38XNeab8L0xXpuNvKoRksF+8I83Dsxey59G4Q9duCWmD+mPt9f+RxfcMBj7F0RuP9ifFuKTR9LpgtpqT6xG2KsyHGY20w/biRl2MACJPVCvsdD7XIxmsDHiN8wjIIwLGMCa+mtkDW9KLgxNbr6e6HWwKYNo1RMmOYRxTG/TK1Kx34BpnH9D8nJPpk7AdTPgdonAfEL49eZ5JUwD2gzXCitew3M+oVuUnscAh8OvrgzNtcbnHIkKjC+XKMgQS4EJgr+m/1oD7LzzPjWLJfbxQA470SxHeLZlVdZLBD4LgEdhBePJHC4MgYGxs1PiNg9HDPhM7/ZJy8wUNGIhuCrYmN25jHv6KHQbRDDlIEGYhgE7AmqvjP4nLuVSrgkGHi+W3TPPWb52KvG67CYpU+ari+bTNwrwKqftKSxeKfBvDUbbwRnjVJR3g3ZZMNGJUcu/eN8tnxxxlmsjgIT4ezWM6ZLQtvlzb3FTkm27Ub0lMFkq57kaAnLMgJgBYpUAy6mBPTHlQ1nqZBzXVpnILF8pBEq3CUDJXSI=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzE5NzA4NSwKICAicHJvZmlsZUlkIiA6ICI5ODY5ZmUyY2FjMjA0YmJmYjc1Y2Y1Mjk2ZTY0MDQ5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZW5yaXF1ZTkzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxOGMwNzFmMDgwZGJhNTBhNjJhNjI2M2ZmNzI0ZWRjMTU3Y2U0ZmI0ODgzY2NlZmYyNDkxZDViYmRlODMwYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Gear Score: §d120\",1:\"§7Health: §c+100\",2:\"§7Defense: §a+10\",3:\"\",4:\"§7Increases the damage your arrows\",5:\"§7deal by §c1% §7for every §e2 §7blocks\",6:\"§7traveled above §e20 §7blocks.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires Catacombs Skill 8.\",10:\"§5§lEPIC DUNGEON HELMET\"],Name:\"§5Sniper Helmet\"}}",
     "damage": 3,
     "lore": [
       "§7Gear Score: §d120",
@@ -243030,12 +243127,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 8.",
-      "§9§lRARE DUNGEON HELMET"
+      "§5§lEPIC DUNGEON HELMET"
     ],
     "internalname": "SNIPER_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Sniper_Helmet"
@@ -245201,7 +245298,7 @@
   "SOULS_REBOUND": {
     "itemid": "minecraft:bow",
     "displayname": "§5Souls Rebound",
-    "nbttag": "{ExtraAttributes:{id:\"SOULS_REBOUND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/souls_rebound\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+450\",1:\"\",2:\"§7Your arrows mark enemies you hit\",3:\"§7for §b5 §7seconds. Marked Enemies don't\",4:\"§7take damage from you, once the mark\",5:\"§7expires the target will receive a\",6:\"§7burst of damage equal to all the\",7:\"§7damage dealt during the mark\",8:\"§7increased by up to §c10%§7.\",9:\"\",10:\"§4This item is Arachnal !\",11:\"\",12:\"§8This item can be reforged!\",13:\"§5§lEPIC BOW\"],Name:\"§5Souls Rebound\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SOULS_REBOUND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/souls_rebound\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+450\",1:\"\",2:\"§7Your arrows mark enemies you hit\",3:\"§7for §b5 §7seconds. Marked Enemies don't\",4:\"§7take damage from you, once the mark\",5:\"§7expires the target will receive a\",6:\"§7burst of damage equal to all the\",7:\"§7damage dealt during the mark\",8:\"§7increased by up to §c10%§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5Souls Rebound\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+450",
@@ -245214,15 +245311,13 @@
       "§7damage dealt during the mark",
       "§7increased by up to §c10%§7.",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§5§lEPIC BOW"
     ],
     "internalname": "SOULS_REBOUND",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Souls_Rebound"
@@ -247760,7 +247855,7 @@
   "SPIDER_BOOTS": {
     "itemid": "minecraft:iron_boots",
     "displayname": "§9Spider's Boots",
-    "nbttag": "{ExtraAttributes:{id:\"SPIDER_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:iron_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+45\",1:\"§7Intelligence: §b+50\",2:\"§7Speed: §f+5\",3:\"\",4:\"§6Ability: Double Jump §e§lDOUBLE TAP JUMP\",5:\"§7Allows you to double jump mid air!\",6:\"§8Mana Cost: §b50\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§9§lRARE BOOTS\"],Name:\"§9Spider's Boots\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPIDER_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:iron_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+45\",1:\"§7Intelligence: §b+50\",2:\"§7Speed: §f+5\",3:\"\",4:\"§6Ability: Double Jump §e§lDOUBLE TAP JUMP\",5:\"§7Allows you to double jump mid air!\",6:\"§8Mana Cost: §b50\",7:\"\",8:\"§8This item can be reforged!\",9:\"§9§lRARE BOOTS\"],Name:\"§9Spider's Boots\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+45",
@@ -247771,15 +247866,13 @@
       "§7Allows you to double jump mid air!",
       "§8Mana Cost: §b50",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§9§lRARE BOOTS"
     ],
     "internalname": "SPIDER_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: String VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spider%27s_Boots"
@@ -248490,7 +248583,7 @@
   "SPIDER_QUEENS_STINGER": {
     "itemid": "minecraft:bow",
     "displayname": "§5Spider Queen's Stinger",
-    "nbttag": "{ExtraAttributes:{id:\"SPIDER_QUEENS_STINGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_queens_stinger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+360\",1:\"\",2:\"§7Arrows shot using this bow have an\",3:\"§7aura around them that deals §c360\",4:\"§cDamage §7to nearby enemies instead of\",5:\"§7dealing impact damage. Arrows travel\",6:\"§7through enemies.\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5Spider Queen's Stinger\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPIDER_QUEENS_STINGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_queens_stinger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+360\",1:\"\",2:\"§7Arrows shot using this bow have an\",3:\"§7aura around them that deals §c360\",4:\"§cDamage §7to nearby enemies instead of\",5:\"§7dealing impact damage. Arrows travel\",6:\"§7through enemies.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§5§lEPIC BOW\"],Name:\"§5Spider Queen's Stinger\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+360",
@@ -248501,15 +248594,13 @@
       "§7dealing impact damage. Arrows travel",
       "§7through enemies.",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§5§lEPIC BOW"
     ],
     "internalname": "SPIDER_QUEENS_STINGER",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spider_Queen%27s_Stinger"
@@ -254188,8 +254279,8 @@
   },
   "STARRED_ICE_SPRAY_WAND": {
     "itemid": "minecraft:stick",
-    "displayname": "§9 Ice Spray Wand",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_ICE_SPRAY_WAND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/ice_spray_wand\",display:{Lore:[0:\"§7Gear Score: §d148\",1:\"§7Damage: §c+60\",2:\"§7Intelligence: §b+135\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Ability: Ice Spray §e§lRIGHT CLICK\",6:\"§7Produces a cone of ice in front of the caster\",7:\"§7that deals §c19,114.1 §7damage to mobs and\",8:\"§7freezes them in place for §e5 §7seconds! Frozen\",9:\"§7mobs take §c10%§7 increased damage!\",10:\"§8Mana Cost: §b50\",11:\"§8Cooldown: §a5s\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires Catacombs Skill 20.\",15:\"§9§lRARE DUNGEON SWORD\"],Name:\"§9 Ice Spray Wand\"},ench:[]}",
+    "displayname": "§6 Ice Spray Wand",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_ICE_SPRAY_WAND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/ice_spray_wand\",display:{Lore:[0:\"§7Gear Score: §d148\",1:\"§7Damage: §c+60\",2:\"§7Intelligence: §b+135\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Ability: Ice Spray §e§lRIGHT CLICK\",6:\"§7Produces a cone of ice in front of the caster\",7:\"§7that deals §c19,000 §7damage to mobs and freezes\",8:\"§7them in place for §e5 §7seconds! Frozen mobs\",9:\"§7take §c10%§7 increased damage!\",10:\"§8Mana Cost: §b50\",11:\"§8Cooldown: §a5s\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires Catacombs Skill 20.\",15:\"§6§lLEGENDARY DUNGEON SWORD\"],Name:\"§6 Ice Spray Wand\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d148",
@@ -254199,20 +254290,20 @@
       "",
       "§6Ability: Ice Spray §e§lRIGHT CLICK",
       "§7Produces a cone of ice in front of the caster",
-      "§7that deals §c19,114.1 §7damage to mobs and",
-      "§7freezes them in place for §e5 §7seconds! Frozen",
-      "§7mobs take §c10%§7 increased damage!",
+      "§7that deals §c19,000 §7damage to mobs and freezes",
+      "§7them in place for §e5 §7seconds! Frozen mobs",
+      "§7take §c10%§7 increased damage!",
       "§8Mana Cost: §b50",
       "§8Cooldown: §a5s",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 20.",
-      "§9§lRARE DUNGEON SWORD"
+      "§6§lLEGENDARY DUNGEON SWORD"
     ],
     "internalname": "STARRED_ICE_SPRAY_WAND",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ice_Spray_Wand"
@@ -254679,18 +254770,16 @@
   "STARRED_SPIDER_QUEENS_STINGER": {
     "itemid": "minecraft:bow",
     "displayname": "§5 Spider Queen's Stinger",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_SPIDER_QUEENS_STINGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_queens_stinger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+600\",1:\"\",2:\"§7Arrows shot using this bow have an\",3:\"§7aura around them that deals §c618\",4:\"§cDamage §7to nearby enemies instead of\",5:\"§7dealing impact damage. Arrows travel\",6:\"§7through enemies.\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5 Spider Queen's Stinger\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_SPIDER_QUEENS_STINGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_queens_stinger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+600\",1:\"\",2:\"§7Arrows shot using this bow have an\",3:\"§7aura around them that deals §c600\",4:\"§cDamage §7to nearby enemies instead of\",5:\"§7dealing impact damage. Arrows travel\",6:\"§7through enemies.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§5§lEPIC BOW\"],Name:\"§5 Spider Queen's Stinger\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+600",
       "",
       "§7Arrows shot using this bow have an",
-      "§7aura around them that deals §c618",
+      "§7aura around them that deals §c600",
       "§cDamage §7to nearby enemies instead of",
       "§7dealing impact damage. Arrows travel",
       "§7through enemies.",
-      "",
-      "§4This item is Arachnal !",
       "",
       "§8This item can be reforged!",
       "§5§lEPIC BOW"
@@ -254698,7 +254787,7 @@
     "internalname": "STARRED_SPIDER_QUEENS_STINGER",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spider_Queen%27s_Stinger"
@@ -254863,7 +254952,7 @@
   "STARRED_VENOMS_TOUCH": {
     "itemid": "minecraft:bow",
     "displayname": "§5 Venom's Touch",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_VENOMS_TOUCH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/venoms_touch\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+370\",1:\"§7Strength: §c+180\",2:\"\",3:\"§7Fires a volley of §b5 §7arrows. Arrows\",4:\"§7apply venom to all enemies hit dealing\",5:\"§c2 Damage §7every second for §b3\",6:\"§7seconds.\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5 Venom's Touch\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_VENOMS_TOUCH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/venoms_touch\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+370\",1:\"§7Strength: §c+180\",2:\"\",3:\"§7Fires a volley of §b5 §7arrows. Arrows\",4:\"§7apply venom to all enemies hit dealing\",5:\"§c0 Damage §7every second for §b3\",6:\"§7seconds.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§5§lEPIC BOW\"],Name:\"§5 Venom's Touch\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+370",
@@ -254871,10 +254960,8 @@
       "",
       "§7Fires a volley of §b5 §7arrows. Arrows",
       "§7apply venom to all enemies hit dealing",
-      "§c2 Damage §7every second for §b3",
+      "§c0 Damage §7every second for §b3",
       "§7seconds.",
-      "",
-      "§4This item is Arachnal !",
       "",
       "§8This item can be reforged!",
       "§5§lEPIC BOW"
@@ -254882,7 +254969,7 @@
     "internalname": "STARRED_VENOMS_TOUCH",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Venom%27s_Touch"
@@ -263506,7 +263593,7 @@
   "TARANTULA_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§5Tarantula Boots",
-    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+70\",1:\"§7Defense: §a+70\",2:\"§7Intelligence: §b+50\",3:\"§7Speed: §f+5\",4:\"\",5:\"§6Full Set Bonus: Octodexterity §7(0/4)\",6:\"§7Every 4th strike, deal §c+100% \",7:\"§cDamage §7and apply §2Venom§7 reducing\",8:\"§7healing by §240% §7for §a4 §7seconds.\",9:\"\",10:\"§6Piece Bonus: Spider Bulwark\",11:\"§7Kill Spiders to accumulate defense\",12:\"§7against them.\",13:\"§7Piece Bonus: §a+0\",14:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",15:\"\",16:\"§6Ability: Double Jump §e§lDOUBLE TAP JUMP\",17:\"§7Allows you to double jump mid air!\",18:\"§8Mana Cost: §b40\",19:\"\",20:\"§4This item is Arachnal !\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Spider Slayer 4§c.\",24:\"§5§lEPIC BOOTS\"],Name:\"§5Tarantula Boots\",color:0}}",
+    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+70\",1:\"§7Defense: §a+70\",2:\"§7Intelligence: §b+50\",3:\"§7Speed: §f+5\",4:\"\",5:\"§6Full Set Bonus: Octodexterity §7(0/4)\",6:\"§7Every 4th strike, deal §c+100% \",7:\"§cDamage §7and apply §2Venom§7 reducing\",8:\"§7healing by §240% §7for §a4 §7seconds.\",9:\"\",10:\"§6Piece Bonus: Spider Bulwark\",11:\"§7Kill Spiders to accumulate defense\",12:\"§7against them.\",13:\"§7Piece Bonus: §a+0\",14:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",15:\"\",16:\"§6Ability: Double Jump §e§lDOUBLE TAP JUMP\",17:\"§7Allows you to double jump mid air!\",18:\"§8Mana Cost: §b40\",19:\"\",20:\"§8This item can be reforged!\",21:\"§4☠ §cRequires §5Spider Slayer 4§c.\",22:\"§5§lEPIC BOOTS\"],Name:\"§5Tarantula Boots\",color:0}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+70",
@@ -263529,8 +263616,6 @@
       "§7Allows you to double jump mid air!",
       "§8Mana Cost: §b40",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§4☠ §cRequires §5Spider Slayer 4§c.",
       "§5§lEPIC BOOTS"
@@ -263538,7 +263623,7 @@
     "internalname": "TARANTULA_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Boots"
@@ -264007,7 +264092,7 @@
   "TARANTULA_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§5Tarantula Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+100\",2:\"§7Intelligence: §b+100\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§4This item is Arachnal !\",16:\"\",17:\"§6Extra Bonus: §aAnti-Toxin\",18:\"§cTarantula Broodfather's §4 Vitality\",19:\"§7reduction is §a25% §7less effective\",20:\"§7against you.\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Spider Slayer 4§c.\",24:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Tarantula Chestplate\",color:0}}",
+    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+100\",2:\"§7Intelligence: §b+100\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§6Extra Bonus: §aAnti-Toxin\",16:\"§cTarantula Broodfather's §4 Vitality\",17:\"§7reduction is §a25% §7less effective\",18:\"§7against you.\",19:\"\",20:\"§8This item can be reforged!\",21:\"§4☠ §cRequires §5Spider Slayer 4§c.\",22:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Tarantula Chestplate\",color:0}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+120",
@@ -264025,8 +264110,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aAnti-Toxin",
       "§cTarantula Broodfather's §4 Vitality",
       "§7reduction is §a25% §7less effective",
@@ -264039,7 +264122,7 @@
     "internalname": "TARANTULA_CHESTPLATE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Chestplate"
@@ -264555,7 +264638,7 @@
   "TARANTULA_HELMET": {
     "itemid": "minecraft:leather_helmet",
     "displayname": "§5Tarantula Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+100\",1:\"§7Defense: §a+80\",2:\"§7Intelligence: §b+80\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§4This item is Arachnal !\",16:\"\",17:\"§6Extra Bonus: §aRadioactive\",18:\"§7Grants §9+1 Crit Damage §7per §c10\",19:\"§cStrength§7. §8(Max 1,000 Strength)\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Spider Slayer 4§c.\",23:\"§5§lEPIC HELMET\"],Name:\"§5Tarantula Helmet\",color:0}}",
+    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+100\",1:\"§7Defense: §a+80\",2:\"§7Intelligence: §b+80\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§6Extra Bonus: §aRadioactive\",16:\"§7Grants §9+1 Crit Damage §7per §c10\",17:\"§cStrength§7. §8(Max 1,000 Strength)\",18:\"\",19:\"§8This item can be reforged!\",20:\"§4☠ §cRequires §5Spider Slayer 4§c.\",21:\"§5§lEPIC HELMET\"],Name:\"§5Tarantula Helmet\",color:0}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+100",
@@ -264573,8 +264656,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aRadioactive",
       "§7Grants §9+1 Crit Damage §7per §c10",
       "§cStrength§7. §8(Max 1,000 Strength)",
@@ -264586,7 +264667,7 @@
     "internalname": "TARANTULA_HELMET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Helmet"
@@ -264607,7 +264688,7 @@
   "TARANTULA_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§5Tarantula Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+105\",1:\"§7Defense: §a+90\",2:\"§7Intelligence: §b+80\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§4This item is Arachnal !\",16:\"\",17:\"§6Extra Bonus: §aBrood\",18:\"§7Increases the base stats of the\",19:\"§6Tarantula Pet§7 by §a50%§7.\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Spider Slayer 4§c.\",23:\"§5§lEPIC LEGGINGS\"],Name:\"§5Tarantula Leggings\",color:0}}",
+    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+105\",1:\"§7Defense: §a+90\",2:\"§7Intelligence: §b+80\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§6Extra Bonus: §aBrood\",16:\"§7Increases the base stats of the\",17:\"§6Tarantula Pet§7 by §a50%§7.\",18:\"\",19:\"§8This item can be reforged!\",20:\"§4☠ §cRequires §5Spider Slayer 4§c.\",21:\"§5§lEPIC LEGGINGS\"],Name:\"§5Tarantula Leggings\",color:0}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+105",
@@ -264625,8 +264706,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aBrood",
       "§7Increases the base stats of the",
       "§6Tarantula Pet§7 by §a50%§7.",
@@ -264638,7 +264717,7 @@
     "internalname": "TARANTULA_LEGGINGS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Leggings"
@@ -285246,7 +285325,7 @@
   "VENOMS_TOUCH": {
     "itemid": "minecraft:bow",
     "displayname": "§5Venom's Touch",
-    "nbttag": "{ExtraAttributes:{id:\"VENOMS_TOUCH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/venoms_touch\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+250\",1:\"§7Strength: §c+100\",2:\"\",3:\"§7Fires a volley of §b5 §7arrows. Arrows\",4:\"§7apply venom to all enemies hit dealing\",5:\"§c0 Damage §7every second for §b3\",6:\"§7seconds.\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5Venom's Touch\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"VENOMS_TOUCH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/venoms_touch\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+250\",1:\"§7Strength: §c+100\",2:\"\",3:\"§7Fires a volley of §b5 §7arrows. Arrows\",4:\"§7apply venom to all enemies hit dealing\",5:\"§c0 Damage §7every second for §b3\",6:\"§7seconds.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§5§lEPIC BOW\"],Name:\"§5Venom's Touch\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+250",
@@ -285257,15 +285336,13 @@
       "§c0 Damage §7every second for §b3",
       "§7seconds.",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§5§lEPIC BOW"
     ],
     "internalname": "VENOMS_TOUCH",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Venom%27s_Touch"
@@ -299593,8 +299670,8 @@
   },
   "ZOMBIE_COMMANDER_WHIP": {
     "itemid": "minecraft:fishing_rod",
-    "displayname": "§5Zombie Commander Whip",
-    "nbttag": "{ExtraAttributes:{id:\"ZOMBIE_COMMANDER_WHIP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/zombie_commander_whip\",display:{Lore:[0:\"§7Gear Score: §d110\",1:\"§7Damage: §c+65\",2:\"§7Strength: §c+5\",3:\"\",4:\"§6Ability: Commander Whip\",5:\"§7Every §91 Zombies killed§7 during a\",6:\"§7dungeon run by this weapon gives\",7:\"§7the wielder §a+1 §c Strength§7.\",8:\"§7Zombies Killed: §a0\",9:\"§7Bonus Strength: §a0\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires Catacombs Skill 18.\",13:\"§5§lEPIC DUNGEON SWORD\"],Name:\"§5Zombie Commander Whip\"}}",
+    "displayname": "§6Zombie Commander Whip",
+    "nbttag": "{ExtraAttributes:{id:\"ZOMBIE_COMMANDER_WHIP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/zombie_commander_whip\",display:{Lore:[0:\"§7Gear Score: §d110\",1:\"§7Damage: §c+65\",2:\"§7Strength: §c+5\",3:\"\",4:\"§6Ability: Commander Whip\",5:\"§7Every §91 Zombies killed§7 during a\",6:\"§7dungeon run by this weapon gives\",7:\"§7the wielder §a+1 §c Strength§7.\",8:\"§7Zombies Killed: §a0\",9:\"§7Bonus Strength: §a0\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires Catacombs Skill 18.\",13:\"§6§lLEGENDARY DUNGEON SWORD\"],Name:\"§6Zombie Commander Whip\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d110",
@@ -299610,12 +299687,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 18.",
-      "§5§lEPIC DUNGEON SWORD"
+      "§6§lLEGENDARY DUNGEON SWORD"
     ],
     "internalname": "ZOMBIE_COMMANDER_WHIP",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Zombie_Commander_Whip"
@@ -300919,8 +300996,8 @@
   },
   "ZOMBIE_SOLDIER_CUTLASS": {
     "itemid": "minecraft:iron_sword",
-    "displayname": "§9Zombie Soldier Cutlass",
-    "nbttag": "{ExtraAttributes:{id:\"ZOMBIE_SOLDIER_CUTLASS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/zombie_soldier_cutlass\",Unbreakable:1B,display:{Lore:[0:\"§7Gear Score: §d283\",1:\"§7Damage: §c+52\",2:\"§7Strength: §c+26\",3:\"§7Attack Speed: §e+100%\",4:\"\",5:\"§6Ability: Love Tap\",6:\"§7Heals you for §c+10 Health §7when you hit an\",7:\"§7entity while in Dungeons!\",8:\"\",9:\"§8This item can be reforged!\",10:\"§4❣ §cRequires Catacombs Skill 5.\",11:\"§9§lRARE DUNGEON SWORD\"],Name:\"§9Zombie Soldier Cutlass\"}}",
+    "displayname": "§5Zombie Soldier Cutlass",
+    "nbttag": "{ExtraAttributes:{id:\"ZOMBIE_SOLDIER_CUTLASS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/zombie_soldier_cutlass\",display:{Lore:[0:\"§7Gear Score: §d283\",1:\"§7Damage: §c+52\",2:\"§7Strength: §c+26\",3:\"§7Attack Speed: §e+100%\",4:\"\",5:\"§6Ability: Love Tap\",6:\"§7Heals you for §c+10 Health §7when you hit an\",7:\"§7entity while in Dungeons!\",8:\"\",9:\"§8This item can be reforged!\",10:\"§4❣ §cRequires Catacombs Skill 5.\",11:\"§5§lEPIC DUNGEON SWORD\"],Name:\"§5Zombie Soldier Cutlass\"}}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d283",
@@ -300934,12 +301011,12 @@
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 5.",
-      "§9§lRARE DUNGEON SWORD"
+      "§5§lEPIC DUNGEON SWORD"
     ],
     "internalname": "ZOMBIE_SOLDIER_CUTLASS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Zombie_Soldier_Cutlass"

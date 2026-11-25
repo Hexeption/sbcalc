@@ -67766,7 +67766,7 @@
   "PRIMORDIAL_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§6Primordial Boots",
-    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+75\",1:\"§7Defense: §a+90\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+75\",4:\"§7Speed: §f+15\",5:\"§7Gemstones: §8[⚔]\",6:\"\",7:\"§8Tiered Bonus: Octodexterity (0/4)\",8:\"§7Every 3rd strike, deal §c+50% \",9:\"§cDamage §7and apply §2Venom§7 reducing\",10:\"§7healing by §210% §7for §a4 §7seconds.\",11:\"\",12:\"§6Piece Bonus: Spider Bulwark\",13:\"§7Kill Spiders to accumulate defense\",14:\"§7against them.\",15:\"§7Piece Bonus: §a+0\",16:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",17:\"\",18:\"§6Ability: Double Jump\",19:\"§7Allows you to double jump by\",20:\"§7sneaking mid air!\",21:\"§8Mana Cost: §b20\",22:\"\",23:\"§4This item is Arachnal !\",24:\"\",25:\"§8This item can be reforged!\",26:\"§4☠ §cRequires §5Spider Slayer 7§c.\",27:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Primordial Boots\",color:923446}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+75\",1:\"§7Defense: §a+90\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+75\",4:\"§7Speed: §f+15\",5:\"§7Gemstones: §8[⚔]\",6:\"\",7:\"§8Tiered Bonus: Octodexterity (0/4)\",8:\"§7Every 3rd strike, deal §c+50% \",9:\"§cDamage §7and apply §2Venom§7 reducing\",10:\"§7healing by §210% §7for §a4 §7seconds.\",11:\"\",12:\"§6Piece Bonus: Spider Bulwark\",13:\"§7Kill Spiders to accumulate defense\",14:\"§7against them.\",15:\"§7Piece Bonus: §a+0\",16:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",17:\"\",18:\"§6Ability: Double Jump §e§lDOUBLE TAP JUMP\",19:\"§7Allows you to double jump mid air!\",20:\"§8Mana Cost: §b20\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Spider Slayer 7§c.\",24:\"§6§lLEGENDARY BOOTS\"],Name:\"§6Primordial Boots\",color:923446}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+75",
@@ -67787,12 +67787,9 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§6Ability: Double Jump",
-      "§7Allows you to double jump by",
-      "§7sneaking mid air!",
+      "§6Ability: Double Jump §e§lDOUBLE TAP JUMP",
+      "§7Allows you to double jump mid air!",
       "§8Mana Cost: §b20",
-      "",
-      "§4This item is Arachnal !",
       "",
       "§8This item can be reforged!",
       "§4☠ §cRequires §5Spider Slayer 7§c.",
@@ -67801,7 +67798,7 @@
     "internalname": "PRIMORDIAL_BOOTS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Primordial_Boots"
@@ -67827,7 +67824,7 @@
   "PRIMORDIAL_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§6Primordial Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+150\",1:\"§7Defense: §a+115\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+110\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§4This item is Arachnal !\",18:\"\",19:\"§6Extra Bonus: §aAnti-Toxin\",20:\"§cTarantula Broodfather's §4 Vitality\",21:\"§7reduction is §a50% §7less effective\",22:\"§7against you.\",23:\"\",24:\"§8This item can be reforged!\",25:\"§4☠ §cRequires §5Spider Slayer 7§c.\",26:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Primordial Chestplate\",color:923446}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+150\",1:\"§7Defense: §a+115\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+110\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§6Extra Bonus: §aAnti-Toxin\",18:\"§cTarantula Broodfather's §4 Vitality\",19:\"§7reduction is §a50% §7less effective\",20:\"§7against you.\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Spider Slayer 7§c.\",24:\"§6§lLEGENDARY CHESTPLATE\"],Name:\"§6Primordial Chestplate\",color:923446}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+150",
@@ -67847,8 +67844,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aAnti-Toxin",
       "§cTarantula Broodfather's §4 Vitality",
       "§7reduction is §a50% §7less effective",
@@ -67861,7 +67856,7 @@
     "internalname": "PRIMORDIAL_CHESTPLATE",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Primordial_Chestplate"
@@ -67887,7 +67882,7 @@
   "PRIMORDIAL_HELMET": {
     "itemid": "minecraft:skull",
     "displayname": "§6Primordial Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"3e00f86d-a267-36e2-9422-b7601a176eee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Zb+J1qBTa0dvBswJtckqeKNm2myHbP6pF1iOyrBRNDkUKAjZUkHubj1SXCNggiGVQ6i4K6inARYdMF5ycYh+ogRnuUEMARuPcdRwfE9+oPEv7D97WMLz6dWYle9PjkOV25E+IgMsJi8J/P4uLUnRiN+ectTGV8v3wBY+pgA7QdKNvp8tzAvkRawndO/1LJxgpQ0tH5XfQTMTUWioE0tLnfzPstd5bP2FvfHnIEiRlCJ09Mcdf0M214ISP1FTRLF5bMA6Y05ojKMQjfrp40gNrW7MXLhGhube66P7C3vS4sOqA6CsLtUqPzB0SbymmcfKevFl5JOFtgdCVRC9JQQlSjY0VDRCLNWJHHDcYyLIY9aOqGldK8VeycM7TZhuh+P3Vp6IdAL+IzEuSsWLIIMbZ60Evxu2DfBOpD01DgTOlrent5jn0q/JEcDzdN0PfAFZQ5h2ixp76erK5u+I0vPOxvtjz9rCi4OG5yb0el5QC5Dp/RNZ9B9YnOaWj+s2moD63i9cWLMZvKwj85h+EbrhRbwSynO9P6OMcWERXFBEUdp0CU+od4DnDUwgVdCtuYjzSrLqI8Uc8W6lnnw/kUREUrvrpvO3oVSUW0G1XDY/i3sTztqBq7gcSzkplbRLKp5AQ5R7cjh9+6gt1Bp0LZDpxa6s1SiRG2R/nZ3/rE48VLQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczOTc4OTMxMjY2NCwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwN2NlZmEyMDAyODg3OGVmNTI5ZDZiOTIwOGQyODEyMDEwZDA4NmY5NjFiOTY0YzMyOGYwOWIzZjY1NzNkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+100\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+100\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§4This item is Arachnal !\",18:\"\",19:\"§6Extra Bonus: §aRadioactive\",20:\"§7Grants §9+1.5 Crit Damage §7per §c10\",21:\"§cStrength§7. §8(Max 1,000 Strength)\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4☠ §cRequires §5Spider Slayer 7§c.\",25:\"§6§lLEGENDARY HELMET\"],Name:\"§6Primordial Helmet\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_HELMET\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"3e00f86d-a267-36e2-9422-b7601a176eee\",Properties:{textures:[0:{Name:\"textures\",Signature:\"Zb+J1qBTa0dvBswJtckqeKNm2myHbP6pF1iOyrBRNDkUKAjZUkHubj1SXCNggiGVQ6i4K6inARYdMF5ycYh+ogRnuUEMARuPcdRwfE9+oPEv7D97WMLz6dWYle9PjkOV25E+IgMsJi8J/P4uLUnRiN+ectTGV8v3wBY+pgA7QdKNvp8tzAvkRawndO/1LJxgpQ0tH5XfQTMTUWioE0tLnfzPstd5bP2FvfHnIEiRlCJ09Mcdf0M214ISP1FTRLF5bMA6Y05ojKMQjfrp40gNrW7MXLhGhube66P7C3vS4sOqA6CsLtUqPzB0SbymmcfKevFl5JOFtgdCVRC9JQQlSjY0VDRCLNWJHHDcYyLIY9aOqGldK8VeycM7TZhuh+P3Vp6IdAL+IzEuSsWLIIMbZ60Evxu2DfBOpD01DgTOlrent5jn0q/JEcDzdN0PfAFZQ5h2ixp76erK5u+I0vPOxvtjz9rCi4OG5yb0el5QC5Dp/RNZ9B9YnOaWj+s2moD63i9cWLMZvKwj85h+EbrhRbwSynO9P6OMcWERXFBEUdp0CU+od4DnDUwgVdCtuYjzSrLqI8Uc8W6lnnw/kUREUrvrpvO3oVSUW0G1XDY/i3sTztqBq7gcSzkplbRLKp5AQ5R7cjh9+6gt1Bp0LZDpxa6s1SiRG2R/nZ3/rE48VLQ=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTczOTc4OTMxMjY2NCwKICAicHJvZmlsZUlkIiA6ICIwZWQ2MDFlMDhjZTM0YjRkYWUxZmI4MDljZmEwNTM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZWVkTW9yZUFjY291bnRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMwN2NlZmEyMDAyODg3OGVmNTI5ZDZiOTIwOGQyODEyMDEwZDA4NmY5NjFiOTY0YzMyOGYwOWIzZjY1NzNkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+100\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+100\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§6Extra Bonus: §aRadioactive\",18:\"§7Grants §9+1.5 Crit Damage §7per §c10\",19:\"§cStrength§7. §8(Max 1,000 Strength)\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Spider Slayer 7§c.\",23:\"§6§lLEGENDARY HELMET\"],Name:\"§6Primordial Helmet\"}}",
     "damage": 3,
     "lore": [
       "§7Health: §c+120",
@@ -67907,8 +67902,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aRadioactive",
       "§7Grants §9+1.5 Crit Damage §7per §c10",
       "§cStrength§7. §8(Max 1,000 Strength)",
@@ -67920,7 +67913,7 @@
     "internalname": "PRIMORDIAL_HELMET",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Primordial_Helmet"
@@ -67946,7 +67939,7 @@
   "PRIMORDIAL_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§6Primordial Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+135\",1:\"§7Defense: §a+105\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+105\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§4This item is Arachnal !\",18:\"\",19:\"§6Extra Bonus: §aBrood\",20:\"§7Increases the base stats of the\",21:\"§6Tarantula Pet§7 by §a100%§7.\",22:\"\",23:\"§8This item can be reforged!\",24:\"§4☠ §cRequires §5Spider Slayer 7§c.\",25:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Primordial Leggings\",color:923446}}",
+    "nbttag": "{ExtraAttributes:{id:\"PRIMORDIAL_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+135\",1:\"§7Defense: §a+105\",2:\"§7Crit Damage: §9+10%\",3:\"§7Intelligence: §b+105\",4:\"§7Gemstones: §8[⚔]\",5:\"\",6:\"§8Tiered Bonus: Octodexterity (0/4)\",7:\"§7Every 3rd strike, deal §c+50% \",8:\"§cDamage §7and apply §2Venom§7 reducing\",9:\"§7healing by §210% §7for §a4 §7seconds.\",10:\"\",11:\"§6Piece Bonus: Spider Bulwark\",12:\"§7Kill Spiders to accumulate defense\",13:\"§7against them.\",14:\"§7Piece Bonus: §a+0\",15:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",16:\"\",17:\"§6Extra Bonus: §aBrood\",18:\"§7Increases the base stats of the\",19:\"§6Tarantula Pet§7 by §a100%§7.\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Spider Slayer 7§c.\",23:\"§6§lLEGENDARY LEGGINGS\"],Name:\"§6Primordial Leggings\",color:923446}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+135",
@@ -67966,8 +67959,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aBrood",
       "§7Increases the base stats of the",
       "§6Tarantula Pet§7 by §a100%§7.",
@@ -67979,7 +67970,7 @@
     "internalname": "PRIMORDIAL_LEGGINGS",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Primordial_Leggings"
@@ -81262,7 +81253,7 @@
   "SOULS_REBOUND": {
     "itemid": "minecraft:bow",
     "displayname": "§5Souls Rebound",
-    "nbttag": "{ExtraAttributes:{id:\"SOULS_REBOUND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/souls_rebound\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+450\",1:\"\",2:\"§7Your arrows mark enemies you hit\",3:\"§7for §b5 §7seconds. Marked Enemies don't\",4:\"§7take damage from you, once the mark\",5:\"§7expires the target will receive a\",6:\"§7burst of damage equal to all the\",7:\"§7damage dealt during the mark\",8:\"§7increased by up to §c10%§7.\",9:\"\",10:\"§4This item is Arachnal !\",11:\"\",12:\"§8This item can be reforged!\",13:\"§5§lEPIC BOW\"],Name:\"§5Souls Rebound\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SOULS_REBOUND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/souls_rebound\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+450\",1:\"\",2:\"§7Your arrows mark enemies you hit\",3:\"§7for §b5 §7seconds. Marked Enemies don't\",4:\"§7take damage from you, once the mark\",5:\"§7expires the target will receive a\",6:\"§7burst of damage equal to all the\",7:\"§7damage dealt during the mark\",8:\"§7increased by up to §c10%§7.\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5Souls Rebound\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+450",
@@ -81275,15 +81266,13 @@
       "§7damage dealt during the mark",
       "§7increased by up to §c10%§7.",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§5§lEPIC BOW"
     ],
     "internalname": "SOULS_REBOUND",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Souls_Rebound"
@@ -81979,7 +81968,7 @@
   "SPIDER_BOOTS": {
     "itemid": "minecraft:iron_boots",
     "displayname": "§9Spider's Boots",
-    "nbttag": "{ExtraAttributes:{id:\"SPIDER_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:iron_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+45\",1:\"§7Intelligence: §b+50\",2:\"§7Speed: §f+5\",3:\"\",4:\"§6Ability: Double Jump §e§lDOUBLE TAP JUMP\",5:\"§7Allows you to double jump mid air!\",6:\"§8Mana Cost: §b50\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§9§lRARE BOOTS\"],Name:\"§9Spider's Boots\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPIDER_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:iron_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Defense: §a+45\",1:\"§7Intelligence: §b+50\",2:\"§7Speed: §f+5\",3:\"\",4:\"§6Ability: Double Jump §e§lDOUBLE TAP JUMP\",5:\"§7Allows you to double jump mid air!\",6:\"§8Mana Cost: §b50\",7:\"\",8:\"§8This item can be reforged!\",9:\"§9§lRARE BOOTS\"],Name:\"§9Spider's Boots\"}}",
     "damage": 0,
     "lore": [
       "§7Defense: §a+45",
@@ -81990,15 +81979,13 @@
       "§7Allows you to double jump mid air!",
       "§8Mana Cost: §b50",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§9§lRARE BOOTS"
     ],
     "internalname": "SPIDER_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: String VIII",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spider%27s_Boots"
@@ -82459,7 +82446,7 @@
   "SPIDER_QUEENS_STINGER": {
     "itemid": "minecraft:bow",
     "displayname": "§5Spider Queen's Stinger",
-    "nbttag": "{ExtraAttributes:{id:\"SPIDER_QUEENS_STINGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_queens_stinger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+360\",1:\"\",2:\"§7Arrows shot using this bow have an\",3:\"§7aura around them that deals §c360\",4:\"§cDamage §7to nearby enemies instead of\",5:\"§7dealing impact damage. Arrows travel\",6:\"§7through enemies.\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5Spider Queen's Stinger\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"SPIDER_QUEENS_STINGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_queens_stinger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+360\",1:\"\",2:\"§7Arrows shot using this bow have an\",3:\"§7aura around them that deals §c360\",4:\"§cDamage §7to nearby enemies instead of\",5:\"§7dealing impact damage. Arrows travel\",6:\"§7through enemies.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§5§lEPIC BOW\"],Name:\"§5Spider Queen's Stinger\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+360",
@@ -82470,15 +82457,13 @@
       "§7dealing impact damage. Arrows travel",
       "§7through enemies.",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§5§lEPIC BOW"
     ],
     "internalname": "SPIDER_QUEENS_STINGER",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spider_Queen%27s_Stinger"
@@ -85841,8 +85826,8 @@
   },
   "STARRED_ICE_SPRAY_WAND": {
     "itemid": "minecraft:stick",
-    "displayname": "§9 Ice Spray Wand",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_ICE_SPRAY_WAND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/ice_spray_wand\",display:{Lore:[0:\"§7Gear Score: §d148\",1:\"§7Damage: §c+60\",2:\"§7Intelligence: §b+135\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Ability: Ice Spray §e§lRIGHT CLICK\",6:\"§7Produces a cone of ice in front of the caster\",7:\"§7that deals §c19,114.1 §7damage to mobs and\",8:\"§7freezes them in place for §e5 §7seconds! Frozen\",9:\"§7mobs take §c10%§7 increased damage!\",10:\"§8Mana Cost: §b50\",11:\"§8Cooldown: §a5s\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires Catacombs Skill 20.\",15:\"§9§lRARE DUNGEON SWORD\"],Name:\"§9 Ice Spray Wand\"},ench:[]}",
+    "displayname": "§6 Ice Spray Wand",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_ICE_SPRAY_WAND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/winter/weapons/ice_spray_wand\",display:{Lore:[0:\"§7Gear Score: §d148\",1:\"§7Damage: §c+60\",2:\"§7Intelligence: §b+135\",3:\"§7Gemstones: §8[]\",4:\"\",5:\"§6Ability: Ice Spray §e§lRIGHT CLICK\",6:\"§7Produces a cone of ice in front of the caster\",7:\"§7that deals §c19,000 §7damage to mobs and freezes\",8:\"§7them in place for §e5 §7seconds! Frozen mobs\",9:\"§7take §c10%§7 increased damage!\",10:\"§8Mana Cost: §b50\",11:\"§8Cooldown: §a5s\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires Catacombs Skill 20.\",15:\"§6§lLEGENDARY DUNGEON SWORD\"],Name:\"§6 Ice Spray Wand\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§7Gear Score: §d148",
@@ -85852,20 +85837,20 @@
       "",
       "§6Ability: Ice Spray §e§lRIGHT CLICK",
       "§7Produces a cone of ice in front of the caster",
-      "§7that deals §c19,114.1 §7damage to mobs and",
-      "§7freezes them in place for §e5 §7seconds! Frozen",
-      "§7mobs take §c10%§7 increased damage!",
+      "§7that deals §c19,000 §7damage to mobs and freezes",
+      "§7them in place for §e5 §7seconds! Frozen mobs",
+      "§7take §c10%§7 increased damage!",
       "§8Mana Cost: §b50",
       "§8Cooldown: §a5s",
       "",
       "§8This item can be reforged!",
       "§4❣ §cRequires Catacombs Skill 20.",
-      "§9§lRARE DUNGEON SWORD"
+      "§6§lLEGENDARY DUNGEON SWORD"
     ],
     "internalname": "STARRED_ICE_SPRAY_WAND",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Ice_Spray_Wand"
@@ -86332,18 +86317,16 @@
   "STARRED_SPIDER_QUEENS_STINGER": {
     "itemid": "minecraft:bow",
     "displayname": "§5 Spider Queen's Stinger",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_SPIDER_QUEENS_STINGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_queens_stinger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+600\",1:\"\",2:\"§7Arrows shot using this bow have an\",3:\"§7aura around them that deals §c618\",4:\"§cDamage §7to nearby enemies instead of\",5:\"§7dealing impact damage. Arrows travel\",6:\"§7through enemies.\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5 Spider Queen's Stinger\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_SPIDER_QUEENS_STINGER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/spider_queens_stinger\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+600\",1:\"\",2:\"§7Arrows shot using this bow have an\",3:\"§7aura around them that deals §c600\",4:\"§cDamage §7to nearby enemies instead of\",5:\"§7dealing impact damage. Arrows travel\",6:\"§7through enemies.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§5§lEPIC BOW\"],Name:\"§5 Spider Queen's Stinger\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+600",
       "",
       "§7Arrows shot using this bow have an",
-      "§7aura around them that deals §c618",
+      "§7aura around them that deals §c600",
       "§cDamage §7to nearby enemies instead of",
       "§7dealing impact damage. Arrows travel",
       "§7through enemies.",
-      "",
-      "§4This item is Arachnal !",
       "",
       "§8This item can be reforged!",
       "§5§lEPIC BOW"
@@ -86351,7 +86334,7 @@
     "internalname": "STARRED_SPIDER_QUEENS_STINGER",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Spider_Queen%27s_Stinger"
@@ -86516,7 +86499,7 @@
   "STARRED_VENOMS_TOUCH": {
     "itemid": "minecraft:bow",
     "displayname": "§5 Venom's Touch",
-    "nbttag": "{ExtraAttributes:{id:\"STARRED_VENOMS_TOUCH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/venoms_touch\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+370\",1:\"§7Strength: §c+180\",2:\"\",3:\"§7Fires a volley of §b5 §7arrows. Arrows\",4:\"§7apply venom to all enemies hit dealing\",5:\"§c2 Damage §7every second for §b3\",6:\"§7seconds.\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5 Venom's Touch\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"STARRED_VENOMS_TOUCH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/venoms_touch\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+370\",1:\"§7Strength: §c+180\",2:\"\",3:\"§7Fires a volley of §b5 §7arrows. Arrows\",4:\"§7apply venom to all enemies hit dealing\",5:\"§c0 Damage §7every second for §b3\",6:\"§7seconds.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§5§lEPIC BOW\"],Name:\"§5 Venom's Touch\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+370",
@@ -86524,10 +86507,8 @@
       "",
       "§7Fires a volley of §b5 §7arrows. Arrows",
       "§7apply venom to all enemies hit dealing",
-      "§c2 Damage §7every second for §b3",
+      "§c0 Damage §7every second for §b3",
       "§7seconds.",
-      "",
-      "§4This item is Arachnal !",
       "",
       "§8This item can be reforged!",
       "§5§lEPIC BOW"
@@ -86535,7 +86516,7 @@
     "internalname": "STARRED_VENOMS_TOUCH",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Venom%27s_Touch"
@@ -89764,7 +89745,7 @@
   "TARANTULA_BOOTS": {
     "itemid": "minecraft:leather_boots",
     "displayname": "§5Tarantula Boots",
-    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+70\",1:\"§7Defense: §a+70\",2:\"§7Intelligence: §b+50\",3:\"§7Speed: §f+5\",4:\"\",5:\"§6Full Set Bonus: Octodexterity §7(0/4)\",6:\"§7Every 4th strike, deal §c+100% \",7:\"§cDamage §7and apply §2Venom§7 reducing\",8:\"§7healing by §240% §7for §a4 §7seconds.\",9:\"\",10:\"§6Piece Bonus: Spider Bulwark\",11:\"§7Kill Spiders to accumulate defense\",12:\"§7against them.\",13:\"§7Piece Bonus: §a+0\",14:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",15:\"\",16:\"§6Ability: Double Jump §e§lDOUBLE TAP JUMP\",17:\"§7Allows you to double jump mid air!\",18:\"§8Mana Cost: §b40\",19:\"\",20:\"§4This item is Arachnal !\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Spider Slayer 4§c.\",24:\"§5§lEPIC BOOTS\"],Name:\"§5Tarantula Boots\",color:0}}",
+    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_BOOTS\"},HideFlags:254,ItemModel:\"minecraft:leather_boots\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+70\",1:\"§7Defense: §a+70\",2:\"§7Intelligence: §b+50\",3:\"§7Speed: §f+5\",4:\"\",5:\"§6Full Set Bonus: Octodexterity §7(0/4)\",6:\"§7Every 4th strike, deal §c+100% \",7:\"§cDamage §7and apply §2Venom§7 reducing\",8:\"§7healing by §240% §7for §a4 §7seconds.\",9:\"\",10:\"§6Piece Bonus: Spider Bulwark\",11:\"§7Kill Spiders to accumulate defense\",12:\"§7against them.\",13:\"§7Piece Bonus: §a+0\",14:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",15:\"\",16:\"§6Ability: Double Jump §e§lDOUBLE TAP JUMP\",17:\"§7Allows you to double jump mid air!\",18:\"§8Mana Cost: §b40\",19:\"\",20:\"§8This item can be reforged!\",21:\"§4☠ §cRequires §5Spider Slayer 4§c.\",22:\"§5§lEPIC BOOTS\"],Name:\"§5Tarantula Boots\",color:0}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+70",
@@ -89787,8 +89768,6 @@
       "§7Allows you to double jump mid air!",
       "§8Mana Cost: §b40",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§4☠ §cRequires §5Spider Slayer 4§c.",
       "§5§lEPIC BOOTS"
@@ -89796,7 +89775,7 @@
     "internalname": "TARANTULA_BOOTS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Boots"
@@ -89817,7 +89796,7 @@
   "TARANTULA_CHESTPLATE": {
     "itemid": "minecraft:leather_chestplate",
     "displayname": "§5Tarantula Chestplate",
-    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+100\",2:\"§7Intelligence: §b+100\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§4This item is Arachnal !\",16:\"\",17:\"§6Extra Bonus: §aAnti-Toxin\",18:\"§cTarantula Broodfather's §4 Vitality\",19:\"§7reduction is §a25% §7less effective\",20:\"§7against you.\",21:\"\",22:\"§8This item can be reforged!\",23:\"§4☠ §cRequires §5Spider Slayer 4§c.\",24:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Tarantula Chestplate\",color:0}}",
+    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_CHESTPLATE\"},HideFlags:254,ItemModel:\"minecraft:leather_chestplate\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+120\",1:\"§7Defense: §a+100\",2:\"§7Intelligence: §b+100\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§6Extra Bonus: §aAnti-Toxin\",16:\"§cTarantula Broodfather's §4 Vitality\",17:\"§7reduction is §a25% §7less effective\",18:\"§7against you.\",19:\"\",20:\"§8This item can be reforged!\",21:\"§4☠ §cRequires §5Spider Slayer 4§c.\",22:\"§5§lEPIC CHESTPLATE\"],Name:\"§5Tarantula Chestplate\",color:0}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+120",
@@ -89835,8 +89814,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aAnti-Toxin",
       "§cTarantula Broodfather's §4 Vitality",
       "§7reduction is §a25% §7less effective",
@@ -89849,7 +89826,7 @@
     "internalname": "TARANTULA_CHESTPLATE",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g00fd3323",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Chestplate"
@@ -90365,7 +90342,7 @@
   "TARANTULA_HELMET": {
     "itemid": "minecraft:leather_helmet",
     "displayname": "§5Tarantula Helmet",
-    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+100\",1:\"§7Defense: §a+80\",2:\"§7Intelligence: §b+80\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§4This item is Arachnal !\",16:\"\",17:\"§6Extra Bonus: §aRadioactive\",18:\"§7Grants §9+1 Crit Damage §7per §c10\",19:\"§cStrength§7. §8(Max 1,000 Strength)\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Spider Slayer 4§c.\",23:\"§5§lEPIC HELMET\"],Name:\"§5Tarantula Helmet\",color:0}}",
+    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_HELMET\"},HideFlags:254,ItemModel:\"minecraft:leather_helmet\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+100\",1:\"§7Defense: §a+80\",2:\"§7Intelligence: §b+80\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§6Extra Bonus: §aRadioactive\",16:\"§7Grants §9+1 Crit Damage §7per §c10\",17:\"§cStrength§7. §8(Max 1,000 Strength)\",18:\"\",19:\"§8This item can be reforged!\",20:\"§4☠ §cRequires §5Spider Slayer 4§c.\",21:\"§5§lEPIC HELMET\"],Name:\"§5Tarantula Helmet\",color:0}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+100",
@@ -90383,8 +90360,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aRadioactive",
       "§7Grants §9+1 Crit Damage §7per §c10",
       "§cStrength§7. §8(Max 1,000 Strength)",
@@ -90396,7 +90371,7 @@
     "internalname": "TARANTULA_HELMET",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Helmet"
@@ -90417,7 +90392,7 @@
   "TARANTULA_LEGGINGS": {
     "itemid": "minecraft:leather_leggings",
     "displayname": "§5Tarantula Leggings",
-    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+105\",1:\"§7Defense: §a+90\",2:\"§7Intelligence: §b+80\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§4This item is Arachnal !\",16:\"\",17:\"§6Extra Bonus: §aBrood\",18:\"§7Increases the base stats of the\",19:\"§6Tarantula Pet§7 by §a50%§7.\",20:\"\",21:\"§8This item can be reforged!\",22:\"§4☠ §cRequires §5Spider Slayer 4§c.\",23:\"§5§lEPIC LEGGINGS\"],Name:\"§5Tarantula Leggings\",color:0}}",
+    "nbttag": "{ExtraAttributes:{id:\"TARANTULA_LEGGINGS\"},HideFlags:254,ItemModel:\"minecraft:leather_leggings\",Unbreakable:1B,display:{Lore:[0:\"§7Health: §c+105\",1:\"§7Defense: §a+90\",2:\"§7Intelligence: §b+80\",3:\"\",4:\"§6Full Set Bonus: Octodexterity §7(0/4)\",5:\"§7Every 4th strike, deal §c+100% \",6:\"§cDamage §7and apply §2Venom§7 reducing\",7:\"§7healing by §240% §7for §a4 §7seconds.\",8:\"\",9:\"§6Piece Bonus: Spider Bulwark\",10:\"§7Kill Spiders to accumulate defense\",11:\"§7against them.\",12:\"§7Piece Bonus: §a+0\",13:\"§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)\",14:\"\",15:\"§6Extra Bonus: §aBrood\",16:\"§7Increases the base stats of the\",17:\"§6Tarantula Pet§7 by §a50%§7.\",18:\"\",19:\"§8This item can be reforged!\",20:\"§4☠ §cRequires §5Spider Slayer 4§c.\",21:\"§5§lEPIC LEGGINGS\"],Name:\"§5Tarantula Leggings\",color:0}}",
     "damage": 0,
     "lore": [
       "§7Health: §c+105",
@@ -90435,8 +90410,6 @@
       "§7Piece Bonus: §a+0",
       "§7Next Upgrade: §a+20 §8(§a0§7/§c50§8)",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§6Extra Bonus: §aBrood",
       "§7Increases the base stats of the",
       "§6Tarantula Pet§7 by §a50%§7.",
@@ -90448,7 +90421,7 @@
     "internalname": "TARANTULA_LEGGINGS",
     "clickcommand": "viewrecipe",
     "crafttext": "Requires: Spider Slayer 4",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Tarantula_Leggings"
@@ -95278,7 +95251,7 @@
   "VENOMS_TOUCH": {
     "itemid": "minecraft:bow",
     "displayname": "§5Venom's Touch",
-    "nbttag": "{ExtraAttributes:{id:\"VENOMS_TOUCH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/venoms_touch\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+250\",1:\"§7Strength: §c+100\",2:\"\",3:\"§7Fires a volley of §b5 §7arrows. Arrows\",4:\"§7apply venom to all enemies hit dealing\",5:\"§c0 Damage §7every second for §b3\",6:\"§7seconds.\",7:\"\",8:\"§4This item is Arachnal !\",9:\"\",10:\"§8This item can be reforged!\",11:\"§5§lEPIC BOW\"],Name:\"§5Venom's Touch\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"VENOMS_TOUCH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/venoms_touch\",Unbreakable:1B,display:{Lore:[0:\"§7Damage: §c+250\",1:\"§7Strength: §c+100\",2:\"\",3:\"§7Fires a volley of §b5 §7arrows. Arrows\",4:\"§7apply venom to all enemies hit dealing\",5:\"§c0 Damage §7every second for §b3\",6:\"§7seconds.\",7:\"\",8:\"§8This item can be reforged!\",9:\"§5§lEPIC BOW\"],Name:\"§5Venom's Touch\"}}",
     "damage": 0,
     "lore": [
       "§7Damage: §c+250",
@@ -95289,15 +95262,13 @@
       "§c0 Damage §7every second for §b3",
       "§7seconds.",
       "",
-      "§4This item is Arachnal !",
-      "",
       "§8This item can be reforged!",
       "§5§lEPIC BOW"
     ],
     "internalname": "VENOMS_TOUCH",
     "clickcommand": "viewrecipe",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g0c5f541d",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/Venom%27s_Touch"
