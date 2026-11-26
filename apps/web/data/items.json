@@ -90609,8 +90609,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Atlas_Skin"
+    ]
   },
   "FINAL_DESTINATION_BOOTS": {
     "itemid": "minecraft:leather_boots",
@@ -102624,18 +102626,19 @@
   "GENERAL_MEDALLION": {
     "itemid": "minecraft:skull",
     "displayname": "§9General's Medallion",
-    "nbttag": "{ExtraAttributes:{id:\"GENERAL_MEDALLION\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"72de8b4c-5852-3c08-b808-c5626722f869\",Properties:{textures:[0:{Name:\"textures\",Signature:\"hy2sGkycr9wLybZMxWH8+vMZtbq2gaCPuai5lugOgZKi9fKa+3uk9nSxuIO+KdN6ipEKfsJDlzi9bBkaH5qEKY0bDpzYT7Rwha7aKAoc4o0LExNVtsQLUTYlkyuYx8xX0WVFNzAujikmFQ6QJ+ejMtDxD73sPIA4dqu/VN3PfvMlbk6LhPDlnIMS9b1Bo4qA2OLI+oxiQV1D/BAfCfeP7/Fzyhs1S03X156nxReXqqy4aJohRlVHsA828Elsk5f3hOBSx6lQsl55JQlaL1KNrW4n+lMhpliBs6OeLIAKp3kKLu7UIxLO0nMbm+Yp6qaDYvArV7+xedBZCvWf3YOikazAD77mt5AENt3t6IQepfdEgjGrsFbln21AzencNt3BYy77906osw4ZC2dc6mN5hZ/ZQi3C20LiNmdLoE9uJ6jaP7D5fqKkNzuy2On5km/N6R3z/8cGzoAuQ9XndDcaP1Prb1l8NNZFHFfViZbAPugkUjPaqqnQAANUaHz/bJeiiBFp2r/kZ1G8wek3ZK9dJQGPMtlmrpHZD1lFK4LaS5PdWeF4mpzjGSeyZHeUE/2BvJ52+d9TjSlRw/czOR2iAyuI11uieTxj91dIshukgKIwVWsFbv2qTsXYv/zyS6LmwdJZiTwLNTU5mB1Z69I1k9Dk9EP5PgOf8klHXwL4PEU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MzkyNDgzOTY1OCwKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNzkxMzJjZWRiOWQ3ODQzOTVkYWRlN2NiZTBlZDk0ZTEyZjA1NWE4ZGNjMzMxYWYzY2U3MGY1ODgzMmVkOTA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Increases the base stats of your\",3:\"§7dungeon items by §a1% §7while in §cThe\",4:\"§cCatacombs §7for each digit on your\",5:\"§7secret count. §8(Max 5%)\",6:\"\",7:\"§7Counter: §a0\",8:\"§7Bonus: §a+0%\",9:\"\",10:\"§8§oOnce worn proudly, now covered in\",11:\"§8§ofilth and soot.\",12:\"\",13:\"§8Works while in Accessory Bag!\",14:\"§9§lRARE DUNGEON ACCESSORY\"],Name:\"§9General's Medallion\"}}",
+    "nbttag": "{ExtraAttributes:{id:\"GENERAL_MEDALLION\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"72de8b4c-5852-3c08-b808-c5626722f869\",Properties:{textures:[0:{Name:\"textures\",Signature:\"hy2sGkycr9wLybZMxWH8+vMZtbq2gaCPuai5lugOgZKi9fKa+3uk9nSxuIO+KdN6ipEKfsJDlzi9bBkaH5qEKY0bDpzYT7Rwha7aKAoc4o0LExNVtsQLUTYlkyuYx8xX0WVFNzAujikmFQ6QJ+ejMtDxD73sPIA4dqu/VN3PfvMlbk6LhPDlnIMS9b1Bo4qA2OLI+oxiQV1D/BAfCfeP7/Fzyhs1S03X156nxReXqqy4aJohRlVHsA828Elsk5f3hOBSx6lQsl55JQlaL1KNrW4n+lMhpliBs6OeLIAKp3kKLu7UIxLO0nMbm+Yp6qaDYvArV7+xedBZCvWf3YOikazAD77mt5AENt3t6IQepfdEgjGrsFbln21AzencNt3BYy77906osw4ZC2dc6mN5hZ/ZQi3C20LiNmdLoE9uJ6jaP7D5fqKkNzuy2On5km/N6R3z/8cGzoAuQ9XndDcaP1Prb1l8NNZFHFfViZbAPugkUjPaqqnQAANUaHz/bJeiiBFp2r/kZ1G8wek3ZK9dJQGPMtlmrpHZD1lFK4LaS5PdWeF4mpzjGSeyZHeUE/2BvJ52+d9TjSlRw/czOR2iAyuI11uieTxj91dIshukgKIwVWsFbv2qTsXYv/zyS6LmwdJZiTwLNTU5mB1Z69I1k9Dk9EP5PgOf8klHXwL4PEU=\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MzkyNDgzOTY1OCwKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mNzkxMzJjZWRiOWQ3ODQzOTVkYWRlN2NiZTBlZDk0ZTEyZjA1NWE4ZGNjMzMxYWYzY2U3MGY1ODgzMmVkOTA5IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]},hypixelPopulated:1B},display:{Lore:[0:\"§7Accessory Power: §6+8\",1:\"\",2:\"§7Tracks how many secrets you have\",3:\"§7discovered in §cThe Catacombs§7.\",4:\"\",5:\"§7Grants §a+1% §7to the base stats of\",6:\"§7your dungeon items per digit on the\",7:\"§7counter. §8(Max +5%)\",8:\"\",9:\"§7Counter: §cNone yet!\",10:\"\",11:\"§8§oOnce worn proudly, now covered in\",12:\"§8§ofilth and soot.\",13:\"\",14:\"§8Works while in Accessory Bag!\",15:\"§9§lRARE DUNGEON ACCESSORY\"],Name:\"§9General's Medallion\"}}",
     "damage": 3,
     "lore": [
       "§7Accessory Power: §6+8",
       "",
-      "§7Increases the base stats of your",
-      "§7dungeon items by §a1% §7while in §cThe",
-      "§cCatacombs §7for each digit on your",
-      "§7secret count. §8(Max 5%)",
+      "§7Tracks how many secrets you have",
+      "§7discovered in §cThe Catacombs§7.",
       "",
-      "§7Counter: §a0",
-      "§7Bonus: §a+0%",
+      "§7Grants §a+1% §7to the base stats of",
+      "§7your dungeon items per digit on the",
+      "§7counter. §8(Max +5%)",
+      "",
+      "§7Counter: §cNone yet!",
       "",
       "§8§oOnce worn proudly, now covered in",
       "§8§ofilth and soot.",
@@ -102646,7 +102649,7 @@
     "internalname": "GENERAL_MEDALLION",
     "clickcommand": "",
     "crafttext": "",
-    "modver": "Firmament 44.2.0-dev+mc26.1.2+g02e85d46",
+    "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
     "infoType": "WIKI_URL",
     "info": [
       "https://hypixelskyblock.minecraft.wiki/w/General%27s_Medallion"
@@ -120682,8 +120685,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Elven_Helix_Helmet_Skin"
+    ]
   },
   "HELIX_LOG": {
     "itemid": "minecraft:paper",
@@ -146670,7 +146675,7 @@
   "LOOTING_NEW;1": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:1},id:\"LOOTING_NEW;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting I\",3:\"§7Grants §b+2.5 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fAxe\",16:\" §7- §fLongsword\",17:\" §7- §fDrill\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:1},id:\"LOOTING_NEW;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting I\",3:\"§7Grants §b+2.5 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fDrill\",16:\" §7- §fAxe\",17:\" §7- §fLongsword\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -146688,9 +146693,9 @@
       " §7- §fFishing Rod",
       " §7- §fSword",
       " §7- §fPickaxe",
+      " §7- §fDrill",
       " §7- §fAxe",
       " §7- §fLongsword",
-      " §7- §fDrill",
       " §7- §fGauntlet",
       " §7- §fBow",
       "",
@@ -146708,7 +146713,7 @@
   "LOOTING_NEW;2": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:2},id:\"LOOTING_NEW;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting II\",3:\"§7Grants §b+5 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fAxe\",16:\" §7- §fLongsword\",17:\" §7- §fDrill\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:2},id:\"LOOTING_NEW;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting II\",3:\"§7Grants §b+5 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fDrill\",16:\" §7- §fAxe\",17:\" §7- §fLongsword\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -146726,9 +146731,9 @@
       " §7- §fFishing Rod",
       " §7- §fSword",
       " §7- §fPickaxe",
+      " §7- §fDrill",
       " §7- §fAxe",
       " §7- §fLongsword",
-      " §7- §fDrill",
       " §7- §fGauntlet",
       " §7- §fBow",
       "",
@@ -146746,7 +146751,7 @@
   "LOOTING_NEW;3": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:3},id:\"LOOTING_NEW;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting III\",3:\"§7Grants §b+7.5 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fAxe\",16:\" §7- §fLongsword\",17:\" §7- §fDrill\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:3},id:\"LOOTING_NEW;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting III\",3:\"§7Grants §b+7.5 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fDrill\",16:\" §7- §fAxe\",17:\" §7- §fLongsword\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -146764,9 +146769,9 @@
       " §7- §fFishing Rod",
       " §7- §fSword",
       " §7- §fPickaxe",
+      " §7- §fDrill",
       " §7- §fAxe",
       " §7- §fLongsword",
-      " §7- §fDrill",
       " §7- §fGauntlet",
       " §7- §fBow",
       "",
@@ -146784,7 +146789,7 @@
   "LOOTING_NEW;4": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§fEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:4},id:\"LOOTING_NEW;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting IV\",3:\"§7Grants §b+10 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fAxe\",16:\" §7- §fLongsword\",17:\" §7- §fDrill\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:4},id:\"LOOTING_NEW;4\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting IV\",3:\"§7Grants §b+10 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fDrill\",16:\" §7- §fAxe\",17:\" §7- §fLongsword\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -146802,9 +146807,9 @@
       " §7- §fFishing Rod",
       " §7- §fSword",
       " §7- §fPickaxe",
+      " §7- §fDrill",
       " §7- §fAxe",
       " §7- §fLongsword",
-      " §7- §fDrill",
       " §7- §fGauntlet",
       " §7- §fBow",
       "",
@@ -146822,7 +146827,7 @@
   "LOOTING_NEW;5": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§aEnchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:5},id:\"LOOTING_NEW;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting V\",3:\"§7Grants §b+15 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fAxe\",16:\" §7- §fLongsword\",17:\" §7- §fDrill\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:5},id:\"LOOTING_NEW;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting V\",3:\"§7Grants §b+15 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fDrill\",16:\" §7- §fAxe\",17:\" §7- §fLongsword\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -146840,9 +146845,9 @@
       " §7- §fFishing Rod",
       " §7- §fSword",
       " §7- §fPickaxe",
+      " §7- §fDrill",
       " §7- §fAxe",
       " §7- §fLongsword",
-      " §7- §fDrill",
       " §7- §fGauntlet",
       " §7- §fBow",
       "",
@@ -146860,7 +146865,7 @@
   "LOOTING_NEW;6": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§9Enchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:6},id:\"LOOTING_NEW;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting VI\",3:\"§7Grants §b+20 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fAxe\",16:\" §7- §fLongsword\",17:\" §7- §fDrill\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§9§lRARE\"],Name:\"§9Enchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:6},id:\"LOOTING_NEW;6\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting VI\",3:\"§7Grants §b+20 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fDrill\",16:\" §7- §fAxe\",17:\" §7- §fLongsword\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§9§lRARE\"],Name:\"§9Enchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -146878,9 +146883,9 @@
       " §7- §fFishing Rod",
       " §7- §fSword",
       " §7- §fPickaxe",
+      " §7- §fDrill",
       " §7- §fAxe",
       " §7- §fLongsword",
-      " §7- §fDrill",
       " §7- §fGauntlet",
       " §7- §fBow",
       "",
@@ -146898,7 +146903,7 @@
   "LOOTING_NEW;7": {
     "itemid": "minecraft:enchanted_book",
     "displayname": "§5Enchanted Book",
-    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:7},id:\"LOOTING_NEW;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting VII\",3:\"§7Grants §b+25 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fAxe\",16:\" §7- §fLongsword\",17:\" §7- §fDrill\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"}}",
+    "nbttag": "{ExtraAttributes:{enchantments:{looting_new:7},id:\"LOOTING_NEW;7\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Looting VII\",3:\"§7Grants §b+25 Magic Find§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Enchantment Table (§aI-V§7)\",7:\" §7- Einary's Shop (§aVI§7)\",8:\" §7- Bazaar (§aVI-VII§7)\",9:\" §7- Sphinx (§aVII§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fFishing Rod\",13:\" §7- §fSword\",14:\" §7- §fPickaxe\",15:\" §7- §fDrill\",16:\" §7- §fAxe\",17:\" §7- §fLongsword\",18:\" §7- §fGauntlet\",19:\" §7- §fBow\",20:\"\",21:\"§5§lEPIC\"],Name:\"§5Enchanted Book\"}}",
     "damage": 0,
     "lore": [
       "§8Combinable in Anvil",
@@ -146916,9 +146921,9 @@
       " §7- §fFishing Rod",
       " §7- §fSword",
       " §7- §fPickaxe",
+      " §7- §fDrill",
       " §7- §fAxe",
       " §7- §fLongsword",
-      " §7- §fDrill",
       " §7- §fGauntlet",
       " §7- §fBow",
       "",
@@ -185018,8 +185023,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Plush_Eagle_Skin"
+    ]
   },
   "PET_SKIN_ELEMENTAL_AIR_SPIRIT": {
     "itemid": "minecraft:skull",
@@ -191044,8 +191051,10 @@
     "clickcommand": "",
     "crafttext": "",
     "modver": "Firmament 44.2.0-dev+mc26.2+g8fc86f6b",
-    "infoType": "",
-    "info": []
+    "infoType": "WIKI_URL",
+    "info": [
+      "https://hypixelskyblock.minecraft.wiki/w/Mecha_Scatha_Skin"
+    ]
   },
   "PET_SKIN_SCATHA_ZODIAC_SNAKE": {
     "itemid": "minecraft:skull",
@@ -270719,6 +270728,10 @@
         "drops": [
           {
             "id": "ENCHANTED_WATER_LILY:4",
+            "chance": "100%"
+          },
+          {
+            "id": "BOX_OF_JUNK",
             "chance": "100%"
           },
           {
